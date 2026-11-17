@@ -1,0 +1,462 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2026/09958",
+  "kiallitas_datuma": "2026.12.02.",
+  "teljesites_datuma": "2026.11.30.",
+  "fizetesi_hatarido": "2027.01.01.",
+  "elado_nev": "Molnár Kft.",
+  "elado_cim": "H-6250 Nyírhíddevecser, Dózsa györgy utca 217.",
+  "elado_adoszam": "12221749-5-29",
+  "vevo_nev": "Szűcs Balázs",
+  "vevo_cim": "H-6648 Kaposvár, Szigetszentmiklósi utca 42.",
+  "vevo_adoszam": null,
+  "bankszamla": "06837644-87615098",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "26 650 Ft",
+  "afa_osszesen": "7 065 Ft",
+  "brutto_osszesen": "33 715 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 450",
+    "netto": "1 450",
+    "afa_kulcs": "18%",
+    "afa": "261",
+    "brutto": "1 711"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "25 200",
+    "netto": "25 200",
+    "afa_kulcs": "27%",
+    "afa": "6 804",
+    "brutto": "32 004"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR",
+   "bbox": [
+    119,
+    116,
+    211,
+    136
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1037,
+    98,
+    1155,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2026/09958",
+   "bbox": [
+    920,
+    156,
+    1155,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    237,
+    143,
+    253
+   ]
+  },
+  {
+   "text": "Molnár Kft.",
+   "bbox": [
+    85,
+    272,
+    193,
+    288
+   ]
+  },
+  {
+   "text": "H-6250 Nyírhíddevecser, Dózsa györgy utca 217.",
+   "bbox": [
+    85,
+    305,
+    498,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 12221749-5-29",
+   "bbox": [
+    85,
+    334,
+    306,
+    348
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    237,
+    685,
+    253
+   ]
+  },
+  {
+   "text": "Szűcs Balázs",
+   "bbox": [
+    630,
+    272,
+    745,
+    288
+   ]
+  },
+  {
+   "text": "H-6648 Kaposvár, Szigetszentmiklósi utca 42.",
+   "bbox": [
+    630,
+    305,
+    1014,
+    323
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    85,
+    401,
+    205,
+    413
+   ]
+  },
+  {
+   "text": "2026.12.02.",
+   "bbox": [
+    85,
+    428,
+    180,
+    441
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    401,
+    484,
+    416
+   ]
+  },
+  {
+   "text": "2026.11.30.",
+   "bbox": [
+    352,
+    428,
+    447,
+    441
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    401,
+    741,
+    413
+   ]
+  },
+  {
+   "text": "2027.01.01.",
+   "bbox": [
+    619,
+    428,
+    714,
+    441
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    401,
+    979,
+    413
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    886,
+    427,
+    954,
+    441
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    477,
+    179,
+    492
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    478,
+    572,
+    492
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    681,
+    477,
+    749,
+    492
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    833,
+    477,
+    876,
+    489
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    898,
+    474,
+    941,
+    489
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1012,
+    474,
+    1042,
+    489
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1107,
+    477,
+    1155,
+    489
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    513,
+    517,
+    574,
+    529
+   ]
+  },
+  {
+   "text": "1 450",
+   "bbox": [
+    708,
+    518,
+    748,
+    529
+   ]
+  },
+  {
+   "text": "1 450",
+   "bbox": [
+    836,
+    518,
+    876,
+    529
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    910,
+    517,
+    941,
+    529
+   ]
+  },
+  {
+   "text": "261",
+   "bbox": [
+    1015,
+    518,
+    1042,
+    529
+   ]
+  },
+  {
+   "text": "1 711",
+   "bbox": [
+    1115,
+    518,
+    1155,
+    529
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    85,
+    514,
+    189,
+    532
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    513,
+    551,
+    584,
+    563
+   ]
+  },
+  {
+   "text": "25 200",
+   "bbox": [
+    699,
+    552,
+    748,
+    563
+   ]
+  },
+  {
+   "text": "25 200",
+   "bbox": [
+    827,
+    552,
+    876,
+    563
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    551,
+    941,
+    563
+   ]
+  },
+  {
+   "text": "6 804",
+   "bbox": [
+    1002,
+    552,
+    1042,
+    563
+   ]
+  },
+  {
+   "text": "32 004",
+   "bbox": [
+    1106,
+    552,
+    1155,
+    563
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    85,
+    551,
+    246,
+    566
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    681,
+    604,
+    825,
+    620
+   ]
+  },
+  {
+   "text": "26 650 Ft",
+   "bbox": [
+    1073,
+    606,
+    1155,
+    620
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    696,
+    637,
+    825,
+    655
+   ]
+  },
+  {
+   "text": "7 065 Ft",
+   "bbox": [
+    1084,
+    641,
+    1155,
+    655
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    663,
+    675,
+    825,
+    694
+   ]
+  },
+  {
+   "text": "33 715 Ft",
+   "bbox": [
+    1072,
+    676,
+    1155,
+    690
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 06837644-87615098",
+   "bbox": [
+    85,
+    739,
+    401,
+    753
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

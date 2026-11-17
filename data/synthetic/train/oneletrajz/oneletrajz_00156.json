@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Balogh Ibolya",
+  "email": "balogh.ibolya@freemail.hu",
+  "telefon": "+36 20 629 1538",
+  "lakcim": "H-4096 Székvára, Veszprémi utca 217.",
+  "szuletesi_datum": "1990. 07. 31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Trade Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "ceg": "Varga Trade Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "csapatmunka",
+   "JavaScript",
+   "Linux",
+   "Git",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balogh Ibolya",
+   "bbox": [
+    433,
+    109,
+    807,
+    156
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    553,
+    173,
+    686,
+    203
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    179,
+    248
+   ]
+  },
+  {
+   "text": "balogh.ibolya@freemail.hu",
+   "bbox": [
+    330,
+    231,
+    624,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    192,
+    280
+   ]
+  },
+  {
+   "text": "+36 20 629 1538",
+   "bbox": [
+    330,
+    264,
+    526,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    187,
+    312
+   ]
+  },
+  {
+   "text": "H-4096 Székvára, Veszprémi utca 217.",
+   "bbox": [
+    330,
+    294,
+    765,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    300,
+    344
+   ]
+  },
+  {
+   "text": "1990. 07. 31.",
+   "bbox": [
+    330,
+    328,
+    482,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    380,
+    383,
+    405
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    90,
+    432,
+    232,
+    448
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Tóth Trade Kft.",
+   "bbox": [
+    90,
+    457,
+    531,
+    480
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    500,
+    232,
+    516
+   ]
+  },
+  {
+   "text": "értékesítő – Varga Trade Zrt.",
+   "bbox": [
+    90,
+    525,
+    460,
+    548
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    577,
+    289,
+    603
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    90,
+    630,
+    232,
+    646
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    655,
+    754,
+    678
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    680,
+    311,
+    698
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    724,
+    232,
+    740
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    749,
+    404,
+    772
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    774,
+    375,
+    796
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    827,
+    253,
+    853
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    879,
+    221,
+    900
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    927,
+    243,
+    953
+   ]
+  },
+  {
+   "text": "prezentáció, csapatmunka, JavaScript, Linux, Git, Python",
+   "bbox": [
+    90,
+    978,
+    723,
+    1000
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

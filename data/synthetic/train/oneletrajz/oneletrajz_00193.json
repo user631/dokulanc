@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Szabó Klára",
+  "email": "szabo.klara@outlook.com",
+  "telefon": "06 1 583 4580",
+  "lakcim": "H-7624 Fürdőapáti, Balatonmindszenti utca 31.",
+  "szuletesi_datum": "2001. 04. 25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Boros és Társa Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Fodor és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2023 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "Java",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Klára",
+   "bbox": [
+    487,
+    98,
+    753,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    517,
+    169,
+    723,
+    189
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    165,
+    240
+   ]
+  },
+  {
+   "text": "szabo.klara@outlook.com",
+   "bbox": [
+    330,
+    223,
+    592,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    181,
+    273
+   ]
+  },
+  {
+   "text": "06 1 583 4580",
+   "bbox": [
+    330,
+    257,
+    471,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    175,
+    306
+   ]
+  },
+  {
+   "text": "H-7624 Fürdőapáti, Balatonmindszenti utca 31.",
+   "bbox": [
+    330,
+    288,
+    818,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    321,
+    270,
+    339
+   ]
+  },
+  {
+   "text": "2001. 04. 25.",
+   "bbox": [
+    330,
+    323,
+    464,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    339,
+    402
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    428,
+    246,
+    450
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Boros és Társa Zrt.",
+   "bbox": [
+    89,
+    455,
+    498,
+    478
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    90,
+    498,
+    246,
+    520
+   ]
+  },
+  {
+   "text": "értékesítő – Fodor és Társa Kft.",
+   "bbox": [
+    90,
+    525,
+    444,
+    543
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    579,
+    258,
+    605
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    90,
+    632,
+    208,
+    648
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    658,
+    662,
+    681
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    684,
+    341,
+    702
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    729,
+    208,
+    745
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    755,
+    375,
+    773
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    782,
+    295,
+    804
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    836,
+    229,
+    862
+   ]
+  },
+  {
+   "text": "angol (B2), olasz (A2)",
+   "bbox": [
+    90,
+    888,
+    309,
+    910
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    938,
+    222,
+    964
+   ]
+  },
+  {
+   "text": "Excel, Java, Python",
+   "bbox": [
+    90,
+    990,
+    292,
+    1012
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

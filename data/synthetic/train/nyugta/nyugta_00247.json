@@ -1,0 +1,255 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PAPP DISZKONT KFT.",
+  "uzlet_cim": "H-3545 Budapest, József attila utca 188.",
+  "adoszam": "99725486-4-32",
+  "datum": "2025.11.23.",
+  "ido": "07:51",
+  "nyugtaszam": "9449/36005",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "4 825 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2229"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "830"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "630"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1136"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP DISZKONT KFT.",
+   "bbox": [
+    160,
+    34,
+    412,
+    49
+   ]
+  },
+  {
+   "text": "H-3545 Budapest, József attila utca 188.",
+   "bbox": [
+    46,
+    64,
+    526,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 99725486-4-32",
+   "bbox": [
+    154,
+    90,
+    418,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    135,
+    334,
+    151
+   ]
+  },
+  {
+   "text": "3 DB x 743",
+   "bbox": [
+    24,
+    175,
+    134,
+    189
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    200,
+    219,
+    216
+   ]
+  },
+  {
+   "text": "2229 A00",
+   "bbox": [
+    444,
+    200,
+    548,
+    216
+   ]
+  },
+  {
+   "text": "2 DB x 415",
+   "bbox": [
+    24,
+    229,
+    134,
+    243
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    254,
+    206,
+    270
+   ]
+  },
+  {
+   "text": "830 A00",
+   "bbox": [
+    457,
+    254,
+    548,
+    270
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    284,
+    128,
+    300
+   ]
+  },
+  {
+   "text": "630 C00",
+   "bbox": [
+    457,
+    284,
+    548,
+    300
+   ]
+  },
+  {
+   "text": "2 DB x 568",
+   "bbox": [
+    24,
+    313,
+    134,
+    327
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    338,
+    128,
+    354
+   ]
+  },
+  {
+   "text": "1136 B00",
+   "bbox": [
+    444,
+    338,
+    548,
+    354
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    378,
+    184,
+    399
+   ]
+  },
+  {
+   "text": "4 825 Ft",
+   "bbox": [
+    420,
+    380,
+    548,
+    399
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    419,
+    168,
+    436
+   ]
+  },
+  {
+   "text": "4 825 Ft",
+   "bbox": [
+    444,
+    420,
+    548,
+    436
+   ]
+  },
+  {
+   "text": "2025.11.23.",
+   "bbox": [
+    24,
+    464,
+    156,
+    478
+   ]
+  },
+  {
+   "text": "07:51",
+   "bbox": [
+    488,
+    464,
+    548,
+    478
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9449/36005",
+   "bbox": [
+    24,
+    492,
+    288,
+    511
+   ]
+  },
+  {
+   "text": "AP A44980923",
+   "bbox": [
+    24,
+    524,
+    168,
+    538
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    221,
+    564,
+    351,
+    581
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  572,
+  626
+ ]
+}

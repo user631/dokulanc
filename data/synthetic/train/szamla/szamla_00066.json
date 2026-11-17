@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2026/04731",
+  "kiallitas_datuma": "2026. április 3.",
+  "teljesites_datuma": "2026. március 30.",
+  "fizetesi_hatarido": "2026. április 18.",
+  "elado_nev": "Váradi Logisztika Zrt.",
+  "elado_cim": "H-1606 Györgybánya, Alsókereszti utca 79.",
+  "elado_adoszam": "55217330-2-40",
+  "vevo_nev": "Juhász Tech Kft.",
+  "vevo_cim": "H-1702 Székfalu, Györgyapátii utca 195.",
+  "vevo_adoszam": "52330212-2-15",
+  "bankszamla": "65807059-66460418-96422198",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "57 920 Ft",
+  "afa_osszesen": "15 466 Ft",
+  "brutto_osszesen": "73 386 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 920",
+    "netto": "1 920",
+    "afa_kulcs": "18%",
+    "afa": "346",
+    "brutto": "2 266"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "16 990",
+    "netto": "16 990",
+    "afa_kulcs": "27%",
+    "afa": "4 587",
+    "brutto": "21 577"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "39 010",
+    "netto": "39 010",
+    "afa_kulcs": "27%",
+    "afa": "10 533",
+    "brutto": "49 543"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    406,
+    75,
+    834,
+    117
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/04731",
+   "bbox": [
+    430,
+    141,
+    809,
+    160
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    222,
+    153,
+    240
+   ]
+  },
+  {
+   "text": "Váradi Logisztika Zrt.",
+   "bbox": [
+    75,
+    261,
+    341,
+    285
+   ]
+  },
+  {
+   "text": "H-1606 Györgybánya, Alsókereszti utca 79.",
+   "bbox": [
+    75,
+    296,
+    522,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 55217330-2-40",
+   "bbox": [
+    75,
+    329,
+    342,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    222,
+    699,
+    240
+   ]
+  },
+  {
+   "text": "Juhász Tech Kft.",
+   "bbox": [
+    630,
+    261,
+    828,
+    279
+   ]
+  },
+  {
+   "text": "H-1702 Székfalu, Györgyapátii utca 195.",
+   "bbox": [
+    630,
+    296,
+    1047,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 52330212-2-15",
+   "bbox": [
+    630,
+    329,
+    897,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    400,
+    231,
+    415
+   ]
+  },
+  {
+   "text": "2026. április 3.",
+   "bbox": [
+    75,
+    431,
+    220,
+    453
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    400,
+    513,
+    420
+   ]
+  },
+  {
+   "text": "2026. március 30.",
+   "bbox": [
+    347,
+    431,
+    520,
+    448
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    400,
+    776,
+    415
+   ]
+  },
+  {
+   "text": "2026. április 18.",
+   "bbox": [
+    619,
+    431,
+    776,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    400,
+    1009,
+    415
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    891,
+    431,
+    980,
+    453
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    484,
+    189,
+    504
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    484,
+    583,
+    504
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    662,
+    484,
+    750,
+    504
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    484,
+    881,
+    499
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    480,
+    947,
+    499
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    480,
+    1050,
+    499
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1103,
+    484,
+    1165,
+    499
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    511,
+    527,
+    584,
+    543
+   ]
+  },
+  {
+   "text": "1 920",
+   "bbox": [
+    700,
+    528,
+    750,
+    543
+   ]
+  },
+  {
+   "text": "1 920",
+   "bbox": [
+    831,
+    528,
+    881,
+    543
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    528,
+    947,
+    543
+   ]
+  },
+  {
+   "text": "346",
+   "bbox": [
+    1017,
+    528,
+    1050,
+    543
+   ]
+  },
+  {
+   "text": "2 266",
+   "bbox": [
+    1115,
+    528,
+    1165,
+    543
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    75,
+    523,
+    216,
+    548
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    511,
+    565,
+    556,
+    581
+   ]
+  },
+  {
+   "text": "16 990",
+   "bbox": [
+    689,
+    566,
+    750,
+    581
+   ]
+  },
+  {
+   "text": "16 990",
+   "bbox": [
+    820,
+    566,
+    881,
+    581
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    566,
+    947,
+    581
+   ]
+  },
+  {
+   "text": "4 587",
+   "bbox": [
+    1000,
+    566,
+    1050,
+    581
+   ]
+  },
+  {
+   "text": "21 577",
+   "bbox": [
+    1104,
+    566,
+    1165,
+    581
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    75,
+    565,
+    348,
+    586
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    511,
+    603,
+    549,
+    619
+   ]
+  },
+  {
+   "text": "39 010",
+   "bbox": [
+    689,
+    604,
+    750,
+    619
+   ]
+  },
+  {
+   "text": "39 010",
+   "bbox": [
+    820,
+    604,
+    881,
+    619
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    604,
+    947,
+    619
+   ]
+  },
+  {
+   "text": "10 533",
+   "bbox": [
+    989,
+    604,
+    1050,
+    619
+   ]
+  },
+  {
+   "text": "49 543",
+   "bbox": [
+    1104,
+    604,
+    1165,
+    619
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    75,
+    603,
+    237,
+    624
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    670,
+    663,
+    835,
+    681
+   ]
+  },
+  {
+   "text": "57 920 Ft",
+   "bbox": [
+    1065,
+    664,
+    1166,
+    681
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    677,
+    697,
+    835,
+    720
+   ]
+  },
+  {
+   "text": "15 466 Ft",
+   "bbox": [
+    1065,
+    703,
+    1166,
+    720
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    637,
+    741,
+    835,
+    765
+   ]
+  },
+  {
+   "text": "73 386 Ft",
+   "bbox": [
+    1061,
+    742,
+    1165,
+    759
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 65807059-66460418-96422198",
+   "bbox": [
+    75,
+    809,
+    561,
+    826
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    841,
+    649,
+    860
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

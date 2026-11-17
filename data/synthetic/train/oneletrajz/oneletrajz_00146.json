@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Vass János",
+  "email": "vass.janos@citromail.hu",
+  "telefon": "+36 20 496 3660",
+  "lakcim": "H-5181 Dunaújváros, Györgyváradi út 140.",
+  "szuletesi_datum": "1996. 03. 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2015 – 2018"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2022 – jelenleg"
+   },
+   {
+    "ceg": "Kiss Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2020 – 2022"
+   },
+   {
+    "ceg": "Balogh Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2019 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "prezentáció",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    89,
+    186,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    138,
+    93,
+    152
+   ]
+  },
+  {
+   "text": "vass.janos@citromail.hu",
+   "bbox": [
+    40,
+    163,
+    247,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    198,
+    106,
+    212
+   ]
+  },
+  {
+   "text": "+36 20 496 3660",
+   "bbox": [
+    40,
+    224,
+    186,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    258,
+    100,
+    272
+   ]
+  },
+  {
+   "text": "H-5181 Dunaújváros, Györgyváradi út",
+   "bbox": [
+    40,
+    283,
+    360,
+    301
+   ]
+  },
+  {
+   "text": "140.",
+   "bbox": [
+    40,
+    309,
+    78,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    343,
+    177,
+    357
+   ]
+  },
+  {
+   "text": "1996. 03. 17.",
+   "bbox": [
+    40,
+    369,
+    153,
+    382
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    429,
+    178,
+    450
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    474,
+    129,
+    493
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    529,
+    156,
+    550
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    573,
+    259,
+    593
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    602,
+    147,
+    622
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    633,
+    88,
+    647
+   ]
+  },
+  {
+   "text": "Vass János",
+   "bbox": [
+    450,
+    95,
+    658,
+    128
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    168,
+    653,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    670,
+    257
+   ]
+  },
+  {
+   "text": "2022 – jelenleg",
+   "bbox": [
+    450,
+    286,
+    591,
+    306
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Tóth Kft.",
+   "bbox": [
+    450,
+    313,
+    827,
+    333
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    450,
+    357,
+    567,
+    372
+   ]
+  },
+  {
+   "text": "rendszergazda – Kiss Tech Kft.",
+   "bbox": [
+    450,
+    383,
+    749,
+    403
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    450,
+    427,
+    567,
+    442
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Balogh Tech Bt.",
+   "bbox": [
+    449,
+    453,
+    774,
+    473
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    506,
+    601,
+    530
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    450,
+    560,
+    567,
+    575
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    586,
+    723,
+    606
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    612,
+    567,
+    633
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    657,
+    567,
+    672
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    683,
+    691,
+    703
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    709,
+    689,
+    730
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

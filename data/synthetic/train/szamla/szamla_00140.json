@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2025/07345",
+  "kiallitas_datuma": "2025. 06. 04.",
+  "teljesites_datuma": "2025. 06. 02.",
+  "fizetesi_hatarido": "2025. 06. 12.",
+  "elado_nev": "Sándor Consulting Kft.",
+  "elado_cim": "H-4574 Váchátkövesd, Németmelléki utca 104.",
+  "elado_adoszam": "91695990-2-13",
+  "vevo_nev": "Farkas Szolgáltató Bt.",
+  "vevo_cim": "H-1390 Tapolcavár, Székvárosi utca 45.",
+  "vevo_adoszam": "86307396-2-35",
+  "bankszamla": "82108645-36921623-77983833",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "588 290 Ft",
+  "afa_osszesen": "95 103 Ft",
+  "brutto_osszesen": "683 393 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "13 050",
+    "netto": "65 250",
+    "afa_kulcs": "27%",
+    "afa": "17 618",
+    "brutto": "82 868"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "12 év",
+    "egysegar": "23 300",
+    "netto": "279 600",
+    "afa_kulcs": "5%",
+    "afa": "13 980",
+    "brutto": "293 580"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "55 830",
+    "netto": "55 830",
+    "afa_kulcs": "27%",
+    "afa": "15 074",
+    "brutto": "70 904"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "2 hó",
+    "egysegar": "88 750",
+    "netto": "177 500",
+    "afa_kulcs": "27%",
+    "afa": "47 925",
+    "brutto": "225 425"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "10 110",
+    "netto": "10 110",
+    "afa_kulcs": "5%",
+    "afa": "506",
+    "brutto": "10 616"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    542,
+    89,
+    698,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2025/07345",
+   "bbox": [
+    444,
+    147,
+    796,
+    170
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    227,
+    161,
+    245
+   ]
+  },
+  {
+   "text": "Sándor Consulting Kft.",
+   "bbox": [
+    82,
+    263,
+    365,
+    286
+   ]
+  },
+  {
+   "text": "H-4574 Váchátkövesd, Németmelléki utca 104.",
+   "bbox": [
+    82,
+    296,
+    538,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 91695990-2-13",
+   "bbox": [
+    81,
+    326,
+    328,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    227,
+    700,
+    245
+   ]
+  },
+  {
+   "text": "Farkas Szolgáltató Bt.",
+   "bbox": [
+    630,
+    263,
+    898,
+    286
+   ]
+  },
+  {
+   "text": "H-1390 Tapolcavár, Székvárosi utca 45.",
+   "bbox": [
+    630,
+    296,
+    1013,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 86307396-2-35",
+   "bbox": [
+    629,
+    326,
+    882,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    82,
+    394,
+    247,
+    408
+   ]
+  },
+  {
+   "text": "2025. 06. 04.",
+   "bbox": [
+    82,
+    423,
+    208,
+    442
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    394,
+    527,
+    412
+   ]
+  },
+  {
+   "text": "2025. 06. 02.",
+   "bbox": [
+    351,
+    423,
+    477,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    394,
+    787,
+    408
+   ]
+  },
+  {
+   "text": "2025. 06. 12.",
+   "bbox": [
+    620,
+    423,
+    742,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    394,
+    1015,
+    408
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    422,
+    963,
+    438
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    472,
+    200,
+    490
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    473,
+    585,
+    490
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    472,
+    749,
+    490
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    472,
+    878,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    467,
+    942,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    467,
+    1046,
+    486
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    472,
+    1158,
+    486
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    512,
+    513,
+    546,
+    530
+   ]
+  },
+  {
+   "text": "13 050",
+   "bbox": [
+    692,
+    517,
+    749,
+    530
+   ]
+  },
+  {
+   "text": "65 250",
+   "bbox": [
+    819,
+    514,
+    878,
+    530
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    514,
+    942,
+    530
+   ]
+  },
+  {
+   "text": "17 618",
+   "bbox": [
+    992,
+    514,
+    1045,
+    530
+   ]
+  },
+  {
+   "text": "82 868",
+   "bbox": [
+    1098,
+    514,
+    1158,
+    527
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    81,
+    513,
+    235,
+    531
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    512,
+    548,
+    555,
+    562
+   ]
+  },
+  {
+   "text": "23 300",
+   "bbox": [
+    689,
+    552,
+    749,
+    565
+   ]
+  },
+  {
+   "text": "279 600",
+   "bbox": [
+    806,
+    549,
+    878,
+    565
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    549,
+    942,
+    565
+   ]
+  },
+  {
+   "text": "13 980",
+   "bbox": [
+    988,
+    549,
+    1045,
+    565
+   ]
+  },
+  {
+   "text": "293 580",
+   "bbox": [
+    1088,
+    549,
+    1158,
+    565
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    82,
+    548,
+    312,
+    566
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    583,
+    547,
+    597
+   ]
+  },
+  {
+   "text": "55 830",
+   "bbox": [
+    691,
+    584,
+    749,
+    600
+   ]
+  },
+  {
+   "text": "55 830",
+   "bbox": [
+    820,
+    584,
+    878,
+    600
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    584,
+    942,
+    600
+   ]
+  },
+  {
+   "text": "15 074",
+   "bbox": [
+    989,
+    587,
+    1045,
+    600
+   ]
+  },
+  {
+   "text": "70 904",
+   "bbox": [
+    1097,
+    587,
+    1158,
+    600
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    82,
+    583,
+    186,
+    600
+   ]
+  },
+  {
+   "text": "2 hó",
+   "bbox": [
+    512,
+    618,
+    549,
+    632
+   ]
+  },
+  {
+   "text": "88 750",
+   "bbox": [
+    690,
+    619,
+    749,
+    635
+   ]
+  },
+  {
+   "text": "177 500",
+   "bbox": [
+    811,
+    622,
+    878,
+    635
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    619,
+    942,
+    635
+   ]
+  },
+  {
+   "text": "47 925",
+   "bbox": [
+    987,
+    622,
+    1045,
+    635
+   ]
+  },
+  {
+   "text": "225 425",
+   "bbox": [
+    1089,
+    622,
+    1158,
+    635
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    82,
+    617,
+    322,
+    636
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    653,
+    547,
+    667
+   ]
+  },
+  {
+   "text": "10 110",
+   "bbox": [
+    696,
+    657,
+    749,
+    667
+   ]
+  },
+  {
+   "text": "10 110",
+   "bbox": [
+    825,
+    657,
+    878,
+    667
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    654,
+    942,
+    670
+   ]
+  },
+  {
+   "text": "506",
+   "bbox": [
+    1012,
+    654,
+    1045,
+    670
+   ]
+  },
+  {
+   "text": "10 616",
+   "bbox": [
+    1103,
+    654,
+    1158,
+    667
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    82,
+    652,
+    315,
+    671
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    670,
+    709,
+    828,
+    726
+   ]
+  },
+  {
+   "text": "588 290 Ft",
+   "bbox": [
+    1044,
+    710,
+    1158,
+    730
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    682,
+    741,
+    828,
+    762
+   ]
+  },
+  {
+   "text": "95 103 Ft",
+   "bbox": [
+    1062,
+    746,
+    1158,
+    766
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    620,
+    781,
+    828,
+    803
+   ]
+  },
+  {
+   "text": "683 393 Ft",
+   "bbox": [
+    1034,
+    782,
+    1158,
+    802
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 82108645-36921623-77983833",
+   "bbox": [
+    82,
+    846,
+    555,
+    866
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    875,
+    625,
+    893
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Horváth Krisztián",
+  "anyja_neve": "Balog Botond",
+  "szuletesi_hely": "Györgykövesd",
+  "szuletesi_datum": "1988. 01. 16.",
+  "lakcim": "H-5406 Debrecen, Kossuth utca 149.",
+  "telefon": "+36 20 233 5356",
+  "email": "horvath.krisztian@example.hu",
+  "adoazonosito_jel": "8442093239",
+  "taj_szam": "210 909 717",
+  "kelt": "Sopron, 2026. 04. 18."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    364,
+    95,
+    877,
+    125
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    484,
+    152,
+    755,
+    167
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    205,
+    291,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    262,
+    146,
+    275
+   ]
+  },
+  {
+   "text": "Horváth Krisztián",
+   "bbox": [
+    434,
+    260,
+    593,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    315,
+    206,
+    332
+   ]
+  },
+  {
+   "text": "Balog Botond",
+   "bbox": [
+    434,
+    313,
+    560,
+    333
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    367,
+    227,
+    385
+   ]
+  },
+  {
+   "text": "Györgykövesd",
+   "bbox": [
+    434,
+    364,
+    564,
+    384
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    420,
+    219,
+    434
+   ]
+  },
+  {
+   "text": "1988. 01. 16.",
+   "bbox": [
+    434,
+    417,
+    558,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    473,
+    170,
+    487
+   ]
+  },
+  {
+   "text": "H-5406 Debrecen, Kossuth utca 149.",
+   "bbox": [
+    434,
+    469,
+    775,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    526,
+    219,
+    540
+   ]
+  },
+  {
+   "text": "+36 20 233 5356",
+   "bbox": [
+    434,
+    527,
+    592,
+    542
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    579,
+    200,
+    593
+   ]
+  },
+  {
+   "text": "horvath.krisztian@example.hu",
+   "bbox": [
+    434,
+    581,
+    719,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    632,
+    255,
+    650
+   ]
+  },
+  {
+   "text": "8442093239",
+   "bbox": [
+    434,
+    634,
+    554,
+    649
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    686,
+    189,
+    699
+   ]
+  },
+  {
+   "text": "210 909 717",
+   "bbox": [
+    434,
+    682,
+    552,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    763,
+    251,
+    783
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    809,
+    432,
+    827
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    854,
+    277,
+    868
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    899,
+    448,
+    917
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    1001,
+    136,
+    1015
+   ]
+  },
+  {
+   "text": "Sopron, 2026. 04. 18.",
+   "bbox": [
+    187,
+    998,
+    389,
+    1017
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1050,
+    975,
+    1062
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

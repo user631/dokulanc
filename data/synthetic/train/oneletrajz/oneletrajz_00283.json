@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár Renáta",
+  "email": "molnar.renata@citromail.hu",
+  "telefon": "06 1 716 4971",
+  "lakcim": "H-9834 Budapest, Mellékvárai utca 245.",
+  "szuletesi_datum": "2002. 08. 27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "SAP",
+   "Linux",
+   "Java",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Molnár Renáta",
+   "bbox": [
+    468,
+    88,
+    771,
+    123
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    518,
+    162,
+    721,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    156,
+    233
+   ]
+  },
+  {
+   "text": "molnar.renata@citromail.hu",
+   "bbox": [
+    330,
+    217,
+    596,
+    236
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    168,
+    266
+   ]
+  },
+  {
+   "text": "06 1 716 4971",
+   "bbox": [
+    330,
+    251,
+    465,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    163,
+    299
+   ]
+  },
+  {
+   "text": "H-9834 Budapest, Mellékvárai utca 245.",
+   "bbox": [
+    330,
+    282,
+    703,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    316,
+    248,
+    332
+   ]
+  },
+  {
+   "text": "2002. 08. 27.",
+   "bbox": [
+    330,
+    317,
+    454,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    310,
+    393
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    422,
+    231,
+    442
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó és Társa Kft.",
+   "bbox": [
+    90,
+    449,
+    425,
+    465
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    502,
+    241,
+    526
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    556,
+    207,
+    571
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    582,
+    606,
+    602
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    608,
+    317,
+    625
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    653,
+    207,
+    668
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    679,
+    387,
+    699
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    705,
+    329,
+    726
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    759,
+    216,
+    783
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    812,
+    185,
+    832
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    861,
+    206,
+    885
+   ]
+  },
+  {
+   "text": "Docker, SAP, Linux, Java, projektmenedzsment",
+   "bbox": [
+    90,
+    914,
+    521,
+    934
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH ABC BT.",
+  "uzlet_cim": "H-7269 Tapolcafalu, Veszprémi út 137.",
+  "adoszam": "82917546-5-02",
+  "datum": "2026.10.31.",
+  "ido": "13:28",
+  "nyugtaszam": "8405/03782",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 408 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "542"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "418"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "402"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1102"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "765"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "564"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4946"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1240"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "431"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "290"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "708"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH ABC BT.",
+   "bbox": [
+    207,
+    33,
+    389,
+    48
+   ]
+  },
+  {
+   "text": "H-7269 Tapolcafalu, Veszprémi út 137.",
+   "bbox": [
+    113,
+    65,
+    483,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 82917546-5-02",
+   "bbox": [
+    188,
+    88,
+    408,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    130,
+    340,
+    146
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    173,
+    120,
+    186
+   ]
+  },
+  {
+   "text": "542 B00",
+   "bbox": [
+    488,
+    173,
+    572,
+    186
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    201,
+    156,
+    219
+   ]
+  },
+  {
+   "text": "418 C00",
+   "bbox": [
+    488,
+    202,
+    572,
+    215
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    231,
+    192,
+    244
+   ]
+  },
+  {
+   "text": "402 A00",
+   "bbox": [
+    488,
+    231,
+    572,
+    244
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    260,
+    180,
+    273
+   ]
+  },
+  {
+   "text": "1102 C00",
+   "bbox": [
+    476,
+    260,
+    572,
+    273
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    289,
+    216,
+    302
+   ]
+  },
+  {
+   "text": "765 B00",
+   "bbox": [
+    488,
+    289,
+    572,
+    302
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    318,
+    120,
+    331
+   ]
+  },
+  {
+   "text": "564 B00",
+   "bbox": [
+    488,
+    318,
+    572,
+    331
+   ]
+  },
+  {
+   "text": "2 DB x 2473",
+   "bbox": [
+    24,
+    347,
+    134,
+    358
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    370,
+    252,
+    383
+   ]
+  },
+  {
+   "text": "4946 A00",
+   "bbox": [
+    476,
+    370,
+    572,
+    383
+   ]
+  },
+  {
+   "text": "2 DB x 620",
+   "bbox": [
+    24,
+    399,
+    124,
+    410
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    422,
+    132,
+    435
+   ]
+  },
+  {
+   "text": "1240 A00",
+   "bbox": [
+    476,
+    422,
+    572,
+    435
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    451,
+    192,
+    464
+   ]
+  },
+  {
+   "text": "431 B00",
+   "bbox": [
+    488,
+    451,
+    572,
+    464
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    480,
+    180,
+    493
+   ]
+  },
+  {
+   "text": "290 B00",
+   "bbox": [
+    488,
+    480,
+    572,
+    493
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    509,
+    192,
+    522
+   ]
+  },
+  {
+   "text": "708 B00",
+   "bbox": [
+    488,
+    509,
+    572,
+    522
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    545,
+    164,
+    566
+   ]
+  },
+  {
+   "text": "11 408 Ft",
+   "bbox": [
+    446,
+    550,
+    572,
+    566
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    585,
+    156,
+    602
+   ]
+  },
+  {
+   "text": "11 408 Ft",
+   "bbox": [
+    464,
+    589,
+    572,
+    602
+   ]
+  },
+  {
+   "text": "2026.10.31.",
+   "bbox": [
+    24,
+    632,
+    134,
+    644
+   ]
+  },
+  {
+   "text": "13:28",
+   "bbox": [
+    522,
+    632,
+    572,
+    644
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8405/03782",
+   "bbox": [
+    24,
+    658,
+    244,
+    675
+   ]
+  },
+  {
+   "text": "AP A70449254",
+   "bbox": [
+    24,
+    690,
+    144,
+    702
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    243,
+    726,
+    353,
+    743
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  596,
+  789
+ ]
+}

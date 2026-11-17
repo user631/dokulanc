@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MAGYAR ABC KFT.",
+  "uzlet_cim": "H-3661 Mosonmagyaróvár, Érdi utca 29.",
+  "adoszam": "29798313-2-10",
+  "datum": "2025.12.25.",
+  "ido": "21:59",
+  "nyugtaszam": "6200/77114",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 249 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "788"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1662"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "799"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MAGYAR ABC KFT.",
+   "bbox": [
+    179,
+    33,
+    389,
+    50
+   ]
+  },
+  {
+   "text": "H-3661 Mosonmagyaróvár, Érdi utca 29.",
+   "bbox": [
+    62,
+    64,
+    506,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 29798313-2-10",
+   "bbox": [
+    152,
+    92,
+    416,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    239,
+    139,
+    330,
+    157
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    185,
+    141,
+    200
+   ]
+  },
+  {
+   "text": "788 B00",
+   "bbox": [
+    453,
+    185,
+    544,
+    200
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    217,
+    154,
+    232
+   ]
+  },
+  {
+   "text": "1662 A00",
+   "bbox": [
+    440,
+    217,
+    544,
+    232
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    249,
+    206,
+    264
+   ]
+  },
+  {
+   "text": "799 B00",
+   "bbox": [
+    453,
+    249,
+    544,
+    264
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    288,
+    174,
+    311
+   ]
+  },
+  {
+   "text": "3 249 Ft",
+   "bbox": [
+    424,
+    293,
+    544,
+    311
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    330,
+    155,
+    350
+   ]
+  },
+  {
+   "text": "3 249 Ft",
+   "bbox": [
+    440,
+    334,
+    544,
+    350
+   ]
+  },
+  {
+   "text": "2025.12.25.",
+   "bbox": [
+    24,
+    381,
+    156,
+    395
+   ]
+  },
+  {
+   "text": "21:59",
+   "bbox": [
+    484,
+    381,
+    544,
+    395
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6200/77114",
+   "bbox": [
+    24,
+    408,
+    288,
+    429
+   ]
+  },
+  {
+   "text": "AP A64140049",
+   "bbox": [
+    24,
+    445,
+    168,
+    459
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    141,
+    484,
+    427,
+    504
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  568,
+  550
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "LAKATOS ABC KFT.",
+  "uzlet_cim": "H-3854 Szeged, Székesfehérvári utca 59.",
+  "adoszam": "62025263-5-11",
+  "datum": "2025.08.04.",
+  "ido": "07:22",
+  "nyugtaszam": "0841/86358",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "9 702 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "734"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1500"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "909"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "328"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "765"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "444"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2748"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "752"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "456"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1066"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS ABC KFT.",
+   "bbox": [
+    176,
+    34,
+    416,
+    50
+   ]
+  },
+  {
+   "text": "H-3854 Szeged, Székesfehérvári utca 59.",
+   "bbox": [
+    42,
+    65,
+    549,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 62025263-5-11",
+   "bbox": [
+    153,
+    92,
+    439,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    138,
+    345,
+    155
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    180,
+    136,
+    197
+   ]
+  },
+  {
+   "text": "734 C00",
+   "bbox": [
+    471,
+    180,
+    569,
+    197
+   ]
+  },
+  {
+   "text": "2 DB x 750",
+   "bbox": [
+    24,
+    211,
+    144,
+    225
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    236,
+    136,
+    253
+   ]
+  },
+  {
+   "text": "1500 A00",
+   "bbox": [
+    457,
+    236,
+    569,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 303",
+   "bbox": [
+    24,
+    267,
+    144,
+    281
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    295,
+    206,
+    309
+   ]
+  },
+  {
+   "text": "909 B00",
+   "bbox": [
+    471,
+    292,
+    569,
+    309
+   ]
+  },
+  {
+   "text": "2 DB x 164",
+   "bbox": [
+    24,
+    323,
+    144,
+    337
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    348,
+    220,
+    369
+   ]
+  },
+  {
+   "text": "328 C00",
+   "bbox": [
+    471,
+    348,
+    569,
+    365
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    379,
+    136,
+    396
+   ]
+  },
+  {
+   "text": "765 B00",
+   "bbox": [
+    471,
+    379,
+    569,
+    396
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    410,
+    220,
+    427
+   ]
+  },
+  {
+   "text": "444 B00",
+   "bbox": [
+    471,
+    410,
+    569,
+    427
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    441,
+    290,
+    458
+   ]
+  },
+  {
+   "text": "2748 A00",
+   "bbox": [
+    457,
+    441,
+    569,
+    458
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    472,
+    234,
+    489
+   ]
+  },
+  {
+   "text": "752 B00",
+   "bbox": [
+    471,
+    472,
+    569,
+    489
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    503,
+    178,
+    524
+   ]
+  },
+  {
+   "text": "456 C00",
+   "bbox": [
+    471,
+    503,
+    569,
+    520
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    537,
+    206,
+    551
+   ]
+  },
+  {
+   "text": "1066 C00",
+   "bbox": [
+    457,
+    534,
+    569,
+    551
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    576,
+    184,
+    597
+   ]
+  },
+  {
+   "text": "9 702 Ft",
+   "bbox": [
+    441,
+    577,
+    569,
+    597
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    617,
+    136,
+    635
+   ]
+  },
+  {
+   "text": "9 702 Ft",
+   "bbox": [
+    457,
+    618,
+    569,
+    635
+   ]
+  },
+  {
+   "text": "2025.08.04.",
+   "bbox": [
+    24,
+    663,
+    167,
+    678
+   ]
+  },
+  {
+   "text": "07:22",
+   "bbox": [
+    504,
+    663,
+    569,
+    678
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0841/86358",
+   "bbox": [
+    24,
+    692,
+    310,
+    712
+   ]
+  },
+  {
+   "text": "AP A21598419",
+   "bbox": [
+    24,
+    725,
+    180,
+    740
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    198,
+    767,
+    393,
+    784
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  593,
+  829
+ ]
+}

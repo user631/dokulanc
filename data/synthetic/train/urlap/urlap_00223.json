@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Horváth József",
+  "anyja_neve": "Boros Gyöngyi",
+  "szuletesi_hely": "Kaposvár",
+  "szuletesi_datum": "1982.02.26.",
+  "lakcim": "H-9030 Szolnok, Pécsi tér 200.",
+  "telefon": "+36 70 855 5525",
+  "email": "horvath.jozsef@freemail.hu",
+  "adoazonosito_jel": "8420592501",
+  "taj_szam": "668 931 577",
+  "kelt": "Mátraapáti, 2026.01.09."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    298,
+    83,
+    941,
+    118
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    82,
+    189,
+    325,
+    210
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    94,
+    242,
+    137,
+    256
+   ]
+  },
+  {
+   "text": "Horváth József",
+   "bbox": [
+    405,
+    234,
+    564,
+    256
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    294,
+    203,
+    311
+   ]
+  },
+  {
+   "text": "Boros Gyöngyi",
+   "bbox": [
+    405,
+    288,
+    543,
+    312
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    94,
+    344,
+    226,
+    362
+   ]
+  },
+  {
+   "text": "Kaposvár",
+   "bbox": [
+    406,
+    338,
+    500,
+    358
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    94,
+    395,
+    215,
+    409
+   ]
+  },
+  {
+   "text": "1982.02.26.",
+   "bbox": [
+    405,
+    395,
+    536,
+    413
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    94,
+    446,
+    166,
+    460
+   ]
+  },
+  {
+   "text": "H-9030 Szolnok, Pécsi tér 200.",
+   "bbox": [
+    405,
+    441,
+    717,
+    463
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    94,
+    497,
+    215,
+    511
+   ]
+  },
+  {
+   "text": "+36 70 855 5525",
+   "bbox": [
+    406,
+    492,
+    586,
+    510
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    94,
+    548,
+    198,
+    562
+   ]
+  },
+  {
+   "text": "horvath.jozsef@freemail.hu",
+   "bbox": [
+    406,
+    544,
+    683,
+    564
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    599,
+    249,
+    617
+   ]
+  },
+  {
+   "text": "8420592501",
+   "bbox": [
+    406,
+    596,
+    544,
+    614
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    94,
+    650,
+    186,
+    664
+   ]
+  },
+  {
+   "text": "668 931 577",
+   "bbox": [
+    406,
+    646,
+    542,
+    664
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    82,
+    727,
+    275,
+    748
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    127,
+    771,
+    446,
+    789
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    127,
+    816,
+    280,
+    830
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    861,
+    465,
+    879
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    82,
+    963,
+    127,
+    978
+   ]
+  },
+  {
+   "text": "Mátraapáti, 2026.01.09.",
+   "bbox": [
+    172,
+    959,
+    398,
+    978
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    943,
+    1012,
+    992,
+    1024
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

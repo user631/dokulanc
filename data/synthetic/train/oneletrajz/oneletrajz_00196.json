@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Varga Sára",
+  "email": "varga.sara@citromail.hu",
+  "telefon": "+36 20 804 1411",
+  "lakcim": "H-4243 Pécs, Béke utca 155.",
+  "szuletesi_datum": "1982. június 8.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2002 – 2007"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Szolgáltató Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2011 – 2012"
+   },
+   {
+    "ceg": "Varga Szolgáltató Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "ceg": "Jónás Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2006 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Excel",
+   "Linux",
+   "SQL",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    180,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    140,
+    90,
+    153
+   ]
+  },
+  {
+   "text": "varga.sara@citromail.hu",
+   "bbox": [
+    40,
+    161,
+    226,
+    177
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    192,
+    101,
+    205
+   ]
+  },
+  {
+   "text": "+36 20 804 1411",
+   "bbox": [
+    40,
+    214,
+    163,
+    226
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    244,
+    96,
+    257
+   ]
+  },
+  {
+   "text": "H-4243 Pécs, Béke utca 155.",
+   "bbox": [
+    40,
+    264,
+    255,
+    281
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    296,
+    168,
+    309
+   ]
+  },
+  {
+   "text": "1982. június 8.",
+   "bbox": [
+    40,
+    316,
+    152,
+    333
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    376,
+    169,
+    395
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    416,
+    122,
+    433
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    440,
+    130,
+    458
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    493,
+    151,
+    512
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    533,
+    96,
+    546
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    558,
+    83,
+    571
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    583,
+    83,
+    596
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    608,
+    70,
+    623
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    632,
+    150,
+    650
+   ]
+  },
+  {
+   "text": "Varga Sára",
+   "bbox": [
+    450,
+    105,
+    662,
+    146
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    171,
+    648,
+    194
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    662,
+    255
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    450,
+    281,
+    549,
+    295
+   ]
+  },
+  {
+   "text": "rendszergazda – Nagy Szolgáltató Kft.",
+   "bbox": [
+    450,
+    304,
+    804,
+    323
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    343,
+    549,
+    357
+   ]
+  },
+  {
+   "text": "irodavezető – Varga Szolgáltató Kft.",
+   "bbox": [
+    450,
+    366,
+    785,
+    385
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    450,
+    405,
+    549,
+    419
+   ]
+  },
+  {
+   "text": "projektmenedzser – Jónás Trade Kft.",
+   "bbox": [
+    450,
+    428,
+    801,
+    447
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    478,
+    595,
+    500
+   ]
+  },
+  {
+   "text": "2002 – 2007",
+   "bbox": [
+    450,
+    526,
+    549,
+    540
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    550,
+    619,
+    568
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    571,
+    556,
+    590
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    611,
+    549,
+    625
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    634,
+    678,
+    653
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    657,
+    619,
+    675
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

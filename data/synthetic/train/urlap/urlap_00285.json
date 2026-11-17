@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Máté Mária",
+  "anyja_neve": "Horváth Gyula",
+  "szuletesi_hely": "Miskolc",
+  "szuletesi_datum": "2002.05.17.",
+  "lakcim": "H-4906 Fürdődevecser, Keresztapátii utca 247.",
+  "telefon": "+36 30 194 7329",
+  "email": "mate.maria@example.hu",
+  "adoazonosito_jel": "8494444476",
+  "taj_szam": "478 422 821",
+  "kelt": "Egyházashídkőrös, 2024.06.27."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    508,
+    101,
+    732,
+    136
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    468,
+    155,
+    772,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    96,
+    210,
+    312,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    262,
+    147,
+    277
+   ]
+  },
+  {
+   "text": "Máté Mária",
+   "bbox": [
+    432,
+    255,
+    604,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    315,
+    207,
+    335
+   ]
+  },
+  {
+   "text": "Horváth Gyula",
+   "bbox": [
+    432,
+    308,
+    646,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    108,
+    368,
+    229,
+    388
+   ]
+  },
+  {
+   "text": "Miskolc",
+   "bbox": [
+    432,
+    364,
+    541,
+    387
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    108,
+    421,
+    222,
+    436
+   ]
+  },
+  {
+   "text": "2002.05.17.",
+   "bbox": [
+    432,
+    419,
+    592,
+    438
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    108,
+    474,
+    172,
+    489
+   ]
+  },
+  {
+   "text": "H-4906 Fürdődevecser, Keresztapátii utca 247.",
+   "bbox": [
+    432,
+    466,
+    1087,
+    495
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    527,
+    220,
+    542
+   ]
+  },
+  {
+   "text": "+36 30 194 7329",
+   "bbox": [
+    432,
+    521,
+    660,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    108,
+    580,
+    203,
+    595
+   ]
+  },
+  {
+   "text": "mate.maria@example.hu",
+   "bbox": [
+    432,
+    576,
+    800,
+    605
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    633,
+    260,
+    653
+   ]
+  },
+  {
+   "text": "8494444476",
+   "bbox": [
+    432,
+    632,
+    602,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    686,
+    191,
+    701
+   ]
+  },
+  {
+   "text": "478 422 821",
+   "bbox": [
+    432,
+    680,
+    601,
+    700
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    96,
+    768,
+    273,
+    790
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    141,
+    810,
+    442,
+    830
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    141,
+    855,
+    280,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    900,
+    462,
+    920
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    96,
+    1005,
+    136,
+    1021
+   ]
+  },
+  {
+   "text": "Egyházashídkőrös, 2024.06.27.",
+   "bbox": [
+    186,
+    997,
+    583,
+    1025
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1054,
+    978,
+    1067
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss Attila",
+  "email": "kiss.attila@gmail.com",
+  "telefon": "06 1 541 7371",
+  "lakcim": "H-3078 Dunakeszi, Szegedi utca 138.",
+  "szuletesi_datum": "1983.07.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2003 – 2006"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Git",
+   "SAP",
+   "ügyfélkezelés",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    212,
+    104
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    128,
+    97,
+    141
+   ]
+  },
+  {
+   "text": "kiss.attila@gmail.com",
+   "bbox": [
+    40,
+    149,
+    209,
+    166
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    180,
+    108,
+    193
+   ]
+  },
+  {
+   "text": "06 1 541 7371",
+   "bbox": [
+    40,
+    202,
+    139,
+    217
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    232,
+    105,
+    245
+   ]
+  },
+  {
+   "text": "H-3078 Dunakeszi, Szegedi utca 138.",
+   "bbox": [
+    40,
+    253,
+    320,
+    270
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    284,
+    181,
+    297
+   ]
+  },
+  {
+   "text": "1983.07.09.",
+   "bbox": [
+    40,
+    306,
+    130,
+    321
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    363,
+    198,
+    383
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    403,
+    120,
+    420
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    455,
+    179,
+    475
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    495,
+    210,
+    513
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    521,
+    64,
+    534
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    546,
+    73,
+    559
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    570,
+    146,
+    588
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    596,
+    122,
+    613
+   ]
+  },
+  {
+   "text": "Kiss Attila",
+   "bbox": [
+    450,
+    91,
+    678,
+    124
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    156,
+    556,
+    182
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    221,
+    687,
+    243
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    273,
+    556,
+    286
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Horváth és Társa Kft.",
+   "bbox": [
+    450,
+    292,
+    861,
+    311
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    342,
+    617,
+    364
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    450,
+    391,
+    563,
+    407
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    409,
+    617,
+    432
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    435,
+    662,
+    450
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    450,
+    479,
+    558,
+    492
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    498,
+    717,
+    513
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    521,
+    523,
+    539
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

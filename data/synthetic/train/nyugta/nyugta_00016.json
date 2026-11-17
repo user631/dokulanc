@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER BT.",
+  "uzlet_cim": "H-1083 Fürdőfa, Arany jános utca 202.",
+  "adoszam": "90825833-2-24",
+  "datum": "2024.11.14.",
+  "ido": "21:52",
+  "nyugtaszam": "7676/12370",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 658 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "384"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "386"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "3812"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "425"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3294"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "759"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1598"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER BT.",
+   "bbox": [
+    192,
+    28,
+    432,
+    47
+   ]
+  },
+  {
+   "text": "H-1083 Fürdőfa, Arany jános utca 202.",
+   "bbox": [
+    127,
+    63,
+    497,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90825833-2-24",
+   "bbox": [
+    202,
+    86,
+    422,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    127,
+    352,
+    142
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    167,
+    145,
+    184
+   ]
+  },
+  {
+   "text": "384 B00",
+   "bbox": [
+    524,
+    168,
+    601,
+    181
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    196,
+    178,
+    209
+   ]
+  },
+  {
+   "text": "386 A00",
+   "bbox": [
+    524,
+    196,
+    601,
+    209
+   ]
+  },
+  {
+   "text": "2 DB x 1906",
+   "bbox": [
+    24,
+    224,
+    123,
+    235
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    246,
+    123,
+    259
+   ]
+  },
+  {
+   "text": "3812 A00",
+   "bbox": [
+    513,
+    246,
+    601,
+    259
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    274,
+    145,
+    287
+   ]
+  },
+  {
+   "text": "425 B00",
+   "bbox": [
+    524,
+    274,
+    601,
+    287
+   ]
+  },
+  {
+   "text": "3 DB x 1098",
+   "bbox": [
+    24,
+    302,
+    123,
+    313
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    324,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "3294 A00",
+   "bbox": [
+    513,
+    324,
+    601,
+    337
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    352,
+    123,
+    365
+   ]
+  },
+  {
+   "text": "759 B00",
+   "bbox": [
+    524,
+    352,
+    601,
+    365
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    380,
+    167,
+    393
+   ]
+  },
+  {
+   "text": "1598 A00",
+   "bbox": [
+    513,
+    380,
+    601,
+    393
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    416,
+    154,
+    436
+   ]
+  },
+  {
+   "text": "10 658 Ft",
+   "bbox": [
+    484,
+    420,
+    601,
+    436
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    454,
+    134,
+    471
+   ]
+  },
+  {
+   "text": "10 658 Ft",
+   "bbox": [
+    502,
+    458,
+    601,
+    471
+   ]
+  },
+  {
+   "text": "2024.11.14.",
+   "bbox": [
+    24,
+    501,
+    134,
+    512
+   ]
+  },
+  {
+   "text": "21:52",
+   "bbox": [
+    551,
+    501,
+    601,
+    512
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7676/12370",
+   "bbox": [
+    24,
+    526,
+    244,
+    542
+   ]
+  },
+  {
+   "text": "AP A69926101",
+   "bbox": [
+    24,
+    557,
+    144,
+    568
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    202,
+    593,
+    422,
+    609
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  625,
+  654
+ ]
+}

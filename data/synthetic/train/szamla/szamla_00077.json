@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2025/04851",
+  "kiallitas_datuma": "2025. szeptember 16.",
+  "teljesites_datuma": "2025. szeptember 11.",
+  "fizetesi_hatarido": "2025. október 1.",
+  "elado_nev": "Molnár és Társa Bt.",
+  "elado_cim": "H-5370 Ligetharaszti, Nagykanizsai utca 50.",
+  "elado_adoszam": "55731825-2-38",
+  "vevo_nev": "Tóth Tech Kft.",
+  "vevo_cim": "H-2343 Ligetkövesd, Béke utca 44.",
+  "vevo_adoszam": "72698183-2-07",
+  "bankszamla": "HU90 7303 4629 4642 0462 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "441 600 Ft",
+  "afa_osszesen": "119 232 Ft",
+  "brutto_osszesen": "560 832 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "10 év",
+    "egysegar": "35 850",
+    "netto": "358 500",
+    "afa_kulcs": "27%",
+    "afa": "96 795",
+    "brutto": "455 295"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "3 óra",
+    "egysegar": "27 700",
+    "netto": "83 100",
+    "afa_kulcs": "27%",
+    "afa": "22 437",
+    "brutto": "105 537"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR",
+   "bbox": [
+    125,
+    133,
+    235,
+    153
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    712,
+    110,
+    1140,
+    152
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/04851",
+   "bbox": [
+    871,
+    176,
+    1140,
+    195
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    100,
+    257,
+    178,
+    275
+   ]
+  },
+  {
+   "text": "Molnár és Társa Bt.",
+   "bbox": [
+    100,
+    296,
+    335,
+    314
+   ]
+  },
+  {
+   "text": "H-5370 Ligetharaszti, Nagykanizsai utca 50.",
+   "bbox": [
+    100,
+    331,
+    551,
+    354
+   ]
+  },
+  {
+   "text": "Adószám: 55731825-2-38",
+   "bbox": [
+    100,
+    364,
+    367,
+    382
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    257,
+    699,
+    275
+   ]
+  },
+  {
+   "text": "Tóth Tech Kft.",
+   "bbox": [
+    630,
+    296,
+    803,
+    314
+   ]
+  },
+  {
+   "text": "H-2343 Ligetkövesd, Béke utca 44.",
+   "bbox": [
+    630,
+    331,
+    990,
+    354
+   ]
+  },
+  {
+   "text": "Adószám: 72698183-2-07",
+   "bbox": [
+    630,
+    364,
+    897,
+    382
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    100,
+    435,
+    256,
+    450
+   ]
+  },
+  {
+   "text": "2025. szeptember 16.",
+   "bbox": [
+    100,
+    466,
+    307,
+    488
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    435,
+    526,
+    455
+   ]
+  },
+  {
+   "text": "2025. szeptember 11.",
+   "bbox": [
+    360,
+    466,
+    567,
+    488
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    435,
+    777,
+    450
+   ]
+  },
+  {
+   "text": "2025. október 1.",
+   "bbox": [
+    620,
+    466,
+    778,
+    483
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    435,
+    998,
+    450
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    880,
+    466,
+    969,
+    488
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    519,
+    214,
+    539
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    519,
+    588,
+    539
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    519,
+    744,
+    539
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    519,
+    869,
+    534
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    865,
+    515,
+    932,
+    534
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    985,
+    515,
+    1030,
+    534
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    519,
+    1140,
+    534
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    516,
+    562,
+    565,
+    578
+   ]
+  },
+  {
+   "text": "35 850",
+   "bbox": [
+    683,
+    563,
+    744,
+    578
+   ]
+  },
+  {
+   "text": "358 500",
+   "bbox": [
+    797,
+    563,
+    869,
+    578
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    563,
+    932,
+    578
+   ]
+  },
+  {
+   "text": "96 795",
+   "bbox": [
+    969,
+    563,
+    1030,
+    578
+   ]
+  },
+  {
+   "text": "455 295",
+   "bbox": [
+    1068,
+    563,
+    1140,
+    578
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    100,
+    562,
+    262,
+    583
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    516,
+    600,
+    561,
+    616
+   ]
+  },
+  {
+   "text": "27 700",
+   "bbox": [
+    683,
+    601,
+    744,
+    616
+   ]
+  },
+  {
+   "text": "83 100",
+   "bbox": [
+    808,
+    601,
+    869,
+    616
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    601,
+    932,
+    616
+   ]
+  },
+  {
+   "text": "22 437",
+   "bbox": [
+    969,
+    601,
+    1030,
+    616
+   ]
+  },
+  {
+   "text": "105 537",
+   "bbox": [
+    1068,
+    601,
+    1140,
+    616
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    100,
+    600,
+    203,
+    616
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    645,
+    660,
+    810,
+    678
+   ]
+  },
+  {
+   "text": "441 600 Ft",
+   "bbox": [
+    1027,
+    661,
+    1141,
+    678
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    652,
+    694,
+    810,
+    717
+   ]
+  },
+  {
+   "text": "119 232 Ft",
+   "bbox": [
+    1027,
+    700,
+    1141,
+    717
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    612,
+    738,
+    810,
+    762
+   ]
+  },
+  {
+   "text": "560 832 Ft",
+   "bbox": [
+    1023,
+    739,
+    1140,
+    756
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU90 7303 4629 4642 0462 0000 0000",
+   "bbox": [
+    100,
+    806,
+    664,
+    823
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    410,
+    1635,
+    830,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

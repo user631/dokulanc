@@ -1,0 +1,328 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Borbély Zsuzsanna",
+  "email": "borbely.zsuzsanna@gmail.com",
+  "telefon": "+36 70 348 8354",
+  "lakcim": "H-5264 Mártonapáti, Tamásiváradi utca 45.",
+  "szuletesi_datum": "1983. 05. 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2001 – 2006"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "JavaScript",
+   "Python",
+   "B kategóriás jogosítvány",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    107,
+    161,
+    124
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    83,
+    162
+   ]
+  },
+  {
+   "text": "borbely.zsuzsanna@gmail.com",
+   "bbox": [
+    40,
+    171,
+    255,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    202,
+    93,
+    214
+   ]
+  },
+  {
+   "text": "+36 70 348 8354",
+   "bbox": [
+    40,
+    224,
+    159,
+    235
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    254,
+    88,
+    266
+   ]
+  },
+  {
+   "text": "H-5264 Mártonapáti, Tamásiváradi utca 45.",
+   "bbox": [
+    40,
+    275,
+    344,
+    290
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    306,
+    153,
+    318
+   ]
+  },
+  {
+   "text": "1983. 05. 24.",
+   "bbox": [
+    40,
+    328,
+    132,
+    339
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    386,
+    156,
+    403
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    426,
+    120,
+    441
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    451,
+    113,
+    466
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    503,
+    136,
+    520
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    543,
+    61,
+    555
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    568,
+    126,
+    583
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    593,
+    113,
+    608
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    618,
+    91,
+    633
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    643,
+    217,
+    658
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    668,
+    78,
+    680
+   ]
+  },
+  {
+   "text": "Borbély Zsuzsanna",
+   "bbox": [
+    450,
+    111,
+    781,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    181,
+    605,
+    197
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    242,
+    637,
+    262
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    450,
+    292,
+    547,
+    304
+   ]
+  },
+  {
+   "text": "tesztmérnök – Tóth Zrt.",
+   "bbox": [
+    450,
+    313,
+    648,
+    327
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    363,
+    578,
+    383
+   ]
+  },
+  {
+   "text": "2001 – 2006",
+   "bbox": [
+    450,
+    413,
+    547,
+    425
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    434,
+    677,
+    452
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    458,
+    546,
+    474
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    498,
+    547,
+    510
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    520,
+    651,
+    537
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    543,
+    600,
+    559
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

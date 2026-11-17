@@ -1,0 +1,337 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Jakab Tímea",
+  "email": "jakab.timea@gmail.com",
+  "telefon": "+36 30 111 7758",
+  "lakcim": "H-5716 Szigetszentmiklós, Bajai utca 174.",
+  "szuletesi_datum": "1991.12.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Trade Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2015 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "Linux",
+   "Java",
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    93,
+    222,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    142,
+    101,
+    157
+   ]
+  },
+  {
+   "text": "jakab.timea@gmail.com",
+   "bbox": [
+    39,
+    166,
+    253,
+    185
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    111,
+    215
+   ]
+  },
+  {
+   "text": "+36 30 111 7758",
+   "bbox": [
+    40,
+    224,
+    191,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    258,
+    109,
+    273
+   ]
+  },
+  {
+   "text": "H-5716 Szigetszentmiklós, Bajai utca",
+   "bbox": [
+    40,
+    282,
+    369,
+    301
+   ]
+  },
+  {
+   "text": "174.",
+   "bbox": [
+    40,
+    306,
+    79,
+    321
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    340,
+    193,
+    355
+   ]
+  },
+  {
+   "text": "1991.12.09.",
+   "bbox": [
+    40,
+    364,
+    146,
+    379
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    423,
+    202,
+    446
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    469,
+    146,
+    488
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    497,
+    137,
+    516
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    549,
+    189,
+    572
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    595,
+    93,
+    610
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    623,
+    92,
+    638
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    651,
+    86,
+    666
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    679,
+    276,
+    698
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    707,
+    169,
+    726
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    735,
+    109,
+    750
+   ]
+  },
+  {
+   "text": "Jakab Tímea",
+   "bbox": [
+    450,
+    102,
+    729,
+    137
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    173,
+    667,
+    197
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    692,
+    261
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    450,
+    288,
+    570,
+    304
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Takács Trade Zrt.",
+   "bbox": [
+    450,
+    314,
+    962,
+    336
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    367,
+    617,
+    391
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    418,
+    570,
+    434
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    444,
+    664,
+    466
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    470,
+    711,
+    490
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    512,
+    570,
+    528
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    538,
+    787,
+    560
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    564,
+    533,
+    584
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

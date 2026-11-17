@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Fehér Eszter",
+  "email": "feher.eszter@citromail.hu",
+  "telefon": "+36 30 807 9316",
+  "lakcim": "H-1030 Dunakeszi, Hídbányai utca 212.",
+  "szuletesi_datum": "1983. 03. 13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2003 – 2008"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2012"
+   },
+   {
+    "ceg": "Török Trade Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2009 – 2010"
+   },
+   {
+    "ceg": "Sipos Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2007 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "projektmenedzsment",
+   "Git",
+   "Docker",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    93,
+    232,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    102,
+    157
+   ]
+  },
+  {
+   "text": "feher.eszter@citromail.hu",
+   "bbox": [
+    40,
+    167,
+    258,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    203,
+    108,
+    217
+   ]
+  },
+  {
+   "text": "+36 30 807 9316",
+   "bbox": [
+    40,
+    228,
+    188,
+    242
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    263,
+    110,
+    277
+   ]
+  },
+  {
+   "text": "H-1030 Dunakeszi, Hídbányai utca",
+   "bbox": [
+    40,
+    287,
+    340,
+    306
+   ]
+  },
+  {
+   "text": "212.",
+   "bbox": [
+    40,
+    313,
+    78,
+    327
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    348,
+    183,
+    362
+   ]
+  },
+  {
+   "text": "1983. 03. 13.",
+   "bbox": [
+    40,
+    373,
+    153,
+    387
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    433,
+    213,
+    456
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    478,
+    135,
+    499
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    533,
+    194,
+    556
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    579,
+    81,
+    598
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    39,
+    607,
+    225,
+    628
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    636,
+    69,
+    652
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    665,
+    106,
+    681
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    694,
+    261,
+    715
+   ]
+  },
+  {
+   "text": "Fehér Eszter",
+   "bbox": [
+    450,
+    103,
+    708,
+    136
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    174,
+    660,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    686,
+    264
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    450,
+    292,
+    570,
+    307
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth Zrt.",
+   "bbox": [
+    450,
+    319,
+    885,
+    340
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    450,
+    362,
+    570,
+    377
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Török Trade Bt.",
+   "bbox": [
+    449,
+    389,
+    798,
+    410
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    450,
+    432,
+    570,
+    447
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Sipos Tech Bt.",
+   "bbox": [
+    449,
+    459,
+    776,
+    480
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    513,
+    615,
+    537
+   ]
+  },
+  {
+   "text": "2003 – 2008",
+   "bbox": [
+    450,
+    565,
+    570,
+    580
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    592,
+    705,
+    613
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    618,
+    587,
+    639
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    450,
+    662,
+    570,
+    677
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    689,
+    766,
+    710
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    715,
+    527,
+    736
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

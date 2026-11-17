@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Sipos Ferenc",
+  "email": "sipos.ferenc@freemail.hu",
+  "telefon": "+36 20 505 5731",
+  "lakcim": "H-5932 Mártonvárad, Petőfi sándor tér 248.",
+  "szuletesi_datum": "2003.11.26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2023 – 2026"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Gál Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Jónás Trade Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Szűcs Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "SQL",
+   "Java",
+   "SAP",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    91,
+    206,
+    115
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    140,
+    101,
+    156
+   ]
+  },
+  {
+   "text": "sipos.ferenc@freemail.hu",
+   "bbox": [
+    40,
+    165,
+    274,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    114,
+    216
+   ]
+  },
+  {
+   "text": "+36 20 505 5731",
+   "bbox": [
+    40,
+    226,
+    193,
+    241
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    260,
+    109,
+    276
+   ]
+  },
+  {
+   "text": "H-5932 Mártonvárad, Petőfi sándor",
+   "bbox": [
+    40,
+    285,
+    367,
+    304
+   ]
+  },
+  {
+   "text": "tér 248.",
+   "bbox": [
+    40,
+    311,
+    109,
+    326
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    345,
+    196,
+    361
+   ]
+  },
+  {
+   "text": "2003.11.26.",
+   "bbox": [
+    40,
+    371,
+    143,
+    386
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    431,
+    201,
+    455
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    476,
+    134,
+    497
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    505,
+    147,
+    526
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    560,
+    173,
+    584
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    606,
+    67,
+    622
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    635,
+    80,
+    653
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    664,
+    81,
+    680
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    693,
+    78,
+    709
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    722,
+    67,
+    738
+   ]
+  },
+  {
+   "text": "Sipos Ferenc",
+   "bbox": [
+    450,
+    104,
+    725,
+    150
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    169,
+    571,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    706,
+    264
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    289,
+    603,
+    311
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Gál Tech Bt.",
+   "bbox": [
+    448,
+    316,
+    783,
+    340
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    359,
+    603,
+    381
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Jónás Trade Bt.",
+   "bbox": [
+    450,
+    386,
+    839,
+    410
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    429,
+    603,
+    451
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szűcs Tech Kft.",
+   "bbox": [
+    448,
+    456,
+    819,
+    480
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    511,
+    625,
+    537
+   ]
+  },
+  {
+   "text": "2023 – 2026",
+   "bbox": [
+    450,
+    563,
+    570,
+    579
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    589,
+    735,
+    613
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    616,
+    592,
+    638
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    660,
+    570,
+    676
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    686,
+    792,
+    710
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    713,
+    649,
+    735
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

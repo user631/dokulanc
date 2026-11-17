@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Varga István",
+  "email": "varga.istvan@example.hu",
+  "telefon": "+36 20 135 8687",
+  "lakcim": "H-3297 Salgótarján, József attila út 207.",
+  "szuletesi_datum": "1984.07.20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Katona Trade Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "ceg": "Kovács Trade Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "ceg": "Takács Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2006 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Docker",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    206,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    101,
+    163
+   ]
+  },
+  {
+   "text": "varga.istvan@example.hu",
+   "bbox": [
+    40,
+    172,
+    277,
+    193
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    114,
+    223
+   ]
+  },
+  {
+   "text": "+36 20 135 8687",
+   "bbox": [
+    40,
+    233,
+    193,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    109,
+    283
+   ]
+  },
+  {
+   "text": "H-3297 Salgótarján, József attila út",
+   "bbox": [
+    40,
+    292,
+    362,
+    313
+   ]
+  },
+  {
+   "text": "207.",
+   "bbox": [
+    40,
+    318,
+    78,
+    333
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    352,
+    196,
+    368
+   ]
+  },
+  {
+   "text": "1984.07.20.",
+   "bbox": [
+    40,
+    378,
+    143,
+    393
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    201,
+    462
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    483,
+    140,
+    505
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    512,
+    159,
+    534
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    567,
+    173,
+    591
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    612,
+    153,
+    634
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    641,
+    109,
+    658
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    671,
+    67,
+    687
+   ]
+  },
+  {
+   "text": "Varga István",
+   "bbox": [
+    450,
+    111,
+    724,
+    157
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    176,
+    571,
+    206
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    706,
+    271
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    297,
+    570,
+    313
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Katona Trade Zrt.",
+   "bbox": [
+    450,
+    323,
+    986,
+    347
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    367,
+    570,
+    383
+   ]
+  },
+  {
+   "text": "rendszergazda – Kovács Trade Bt.",
+   "bbox": [
+    450,
+    393,
+    833,
+    417
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    450,
+    437,
+    570,
+    453
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Takács Kft.",
+   "bbox": [
+    450,
+    463,
+    788,
+    487
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    518,
+    625,
+    544
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    570,
+    570,
+    586
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    596,
+    735,
+    620
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    447,
+    622,
+    515,
+    645
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    667,
+    570,
+    683
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    693,
+    792,
+    717
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    719,
+    710,
+    742
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

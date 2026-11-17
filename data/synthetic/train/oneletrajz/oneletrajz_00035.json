@@ -1,0 +1,383 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Soós Ferenc",
+  "email": "soos.ferenc@citromail.hu",
+  "telefon": "+36 20 722 6247",
+  "lakcim": "H-9435 Nagykanizsa, Ady endre utca 203.",
+  "szuletesi_datum": "1999.07.07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szilágyi Tech Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Varga és Társa Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Kozma Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Excel",
+   "JavaScript",
+   "projektmenedzsment",
+   "SQL",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    205,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    101,
+    162
+   ]
+  },
+  {
+   "text": "soos.ferenc@citromail.hu",
+   "bbox": [
+    40,
+    172,
+    276,
+    188
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    115,
+    222
+   ]
+  },
+  {
+   "text": "+36 20 722 6247",
+   "bbox": [
+    40,
+    232,
+    190,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    110,
+    282
+   ]
+  },
+  {
+   "text": "H-9435 Nagykanizsa, Ady endre utca",
+   "bbox": [
+    40,
+    292,
+    379,
+    311
+   ]
+  },
+  {
+   "text": "203.",
+   "bbox": [
+    40,
+    317,
+    81,
+    332
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    194,
+    367
+   ]
+  },
+  {
+   "text": "1999.07.07.",
+   "bbox": [
+    40,
+    377,
+    152,
+    392
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    437,
+    193,
+    461
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    483,
+    140,
+    504
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    511,
+    158,
+    533
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    566,
+    170,
+    590
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    612,
+    76,
+    628
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    641,
+    92,
+    657
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    669,
+    143,
+    691
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    698,
+    249,
+    720
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    728,
+    77,
+    747
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    757,
+    108,
+    778
+   ]
+  },
+  {
+   "text": "Soós Ferenc",
+   "bbox": [
+    450,
+    107,
+    715,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    177,
+    682,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    699,
+    269
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    295,
+    606,
+    317
+   ]
+  },
+  {
+   "text": "értékesítő – Szilágyi Tech Kft.",
+   "bbox": [
+    450,
+    322,
+    785,
+    345
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    365,
+    606,
+    387
+   ]
+  },
+  {
+   "text": "rendszergazda – Varga és Társa Bt.",
+   "bbox": [
+    450,
+    392,
+    839,
+    415
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    436,
+    568,
+    452
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kozma Trade Kft.",
+   "bbox": [
+    450,
+    462,
+    880,
+    485
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    516,
+    618,
+    542
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    450,
+    569,
+    568,
+    585
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    595,
+    730,
+    618
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    621,
+    514,
+    644
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    666,
+    568,
+    682
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    692,
+    722,
+    715
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    719,
+    655,
+    741
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

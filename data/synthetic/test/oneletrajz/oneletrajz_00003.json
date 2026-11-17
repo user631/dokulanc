@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Farkas Péter",
+  "email": "farkas.peter@freemail.hu",
+  "telefon": "+36 30 400 4325",
+  "lakcim": "H-8729 Szerbfürdőapáti, Hátkövesdi utca 200.",
+  "szuletesi_datum": "1994.06.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2014 – 2019"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2019 – 2023"
+   },
+   {
+    "ceg": "Szalai Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2018 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "prezentáció",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    193,
+    109
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    93,
+    146
+   ]
+  },
+  {
+   "text": "farkas.peter@freemail.hu",
+   "bbox": [
+    40,
+    154,
+    227,
+    170
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    185,
+    104,
+    198
+   ]
+  },
+  {
+   "text": "+36 30 400 4325",
+   "bbox": [
+    40,
+    207,
+    166,
+    219
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    236,
+    100,
+    250
+   ]
+  },
+  {
+   "text": "H-8729 Szerbfürdőapáti, Hátkövesdi utca 200.",
+   "bbox": [
+    40,
+    257,
+    379,
+    274
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    288,
+    177,
+    302
+   ]
+  },
+  {
+   "text": "1994.06.14.",
+   "bbox": [
+    40,
+    311,
+    127,
+    323
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    367,
+    181,
+    388
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    408,
+    120,
+    426
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    459,
+    164,
+    480
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    501,
+    72,
+    517
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    525,
+    129,
+    543
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    550,
+    95,
+    568
+   ]
+  },
+  {
+   "text": "Farkas Péter",
+   "bbox": [
+    450,
+    96,
+    724,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    164,
+    617,
+    182
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    225,
+    686,
+    248
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    274,
+    552,
+    288
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Németh Zrt.",
+   "bbox": [
+    450,
+    295,
+    869,
+    316
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    450,
+    336,
+    552,
+    350
+   ]
+  },
+  {
+   "text": "értékesítő – Szalai Kft.",
+   "bbox": [
+    450,
+    357,
+    678,
+    374
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    408,
+    608,
+    431
+   ]
+  },
+  {
+   "text": "2014 – 2019",
+   "bbox": [
+    450,
+    457,
+    552,
+    471
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    480,
+    632,
+    499
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    502,
+    562,
+    521
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    542,
+    552,
+    556
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    563,
+    707,
+    580
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    587,
+    611,
+    606
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kovács Mónika",
+  "anyja_neve": "Sipos Erika",
+  "szuletesi_hely": "Tamásikövesd",
+  "szuletesi_datum": "1982. 05. 31.",
+  "lakcim": "H-5464 Hídfa, Hajdúmártoni utca 20.",
+  "telefon": "+36 30 614 1411",
+  "email": "kovacs.monika@example.hu",
+  "adoazonosito_jel": "8421532340",
+  "taj_szam": "226 184 502",
+  "kelt": "Ligetvég, 2026. 08. 02."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    422,
+    86,
+    818,
+    120
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    471,
+    142,
+    769,
+    160
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    86,
+    197,
+    322,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    98,
+    251,
+    139,
+    266
+   ]
+  },
+  {
+   "text": "Kovács Mónika",
+   "bbox": [
+    382,
+    244,
+    598,
+    267
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    97,
+    304,
+    202,
+    323
+   ]
+  },
+  {
+   "text": "Sipos Erika",
+   "bbox": [
+    382,
+    298,
+    542,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    98,
+    357,
+    227,
+    376
+   ]
+  },
+  {
+   "text": "Tamásikövesd",
+   "bbox": [
+    382,
+    351,
+    588,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    98,
+    410,
+    217,
+    425
+   ]
+  },
+  {
+   "text": "1982. 05. 31.",
+   "bbox": [
+    382,
+    410,
+    558,
+    428
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    98,
+    463,
+    170,
+    478
+   ]
+  },
+  {
+   "text": "H-5464 Hídfa, Hajdúmártoni utca 20.",
+   "bbox": [
+    382,
+    456,
+    923,
+    485
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    516,
+    218,
+    531
+   ]
+  },
+  {
+   "text": "+36 30 614 1411",
+   "bbox": [
+    382,
+    512,
+    610,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    98,
+    569,
+    202,
+    584
+   ]
+  },
+  {
+   "text": "kovacs.monika@example.hu",
+   "bbox": [
+    382,
+    568,
+    788,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    97,
+    622,
+    252,
+    641
+   ]
+  },
+  {
+   "text": "8421532340",
+   "bbox": [
+    382,
+    622,
+    553,
+    641
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    675,
+    190,
+    690
+   ]
+  },
+  {
+   "text": "226 184 502",
+   "bbox": [
+    382,
+    670,
+    551,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    86,
+    755,
+    281,
+    777
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    131,
+    799,
+    443,
+    818
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    131,
+    844,
+    280,
+    859
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    130,
+    889,
+    457,
+    908
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    86,
+    992,
+    131,
+    1008
+   ]
+  },
+  {
+   "text": "Ligetvég, 2026. 08. 02.",
+   "bbox": [
+    176,
+    990,
+    465,
+    1015
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1041,
+    989,
+    1054
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

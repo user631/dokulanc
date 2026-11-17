@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BUDAI ÉLELMISZER BT.",
+  "uzlet_cim": "H-9935 Újhetvenapáti, Petőfi utca 47.",
+  "adoszam": "59213864-2-17",
+  "datum": "2024.05.24.",
+  "ido": "20:49",
+  "nyugtaszam": "8599/00986",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 060 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4928"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "441"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "658"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "928"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "866"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "142"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "669"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "451"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "850"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "987"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1140"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BUDAI ÉLELMISZER BT.",
+   "bbox": [
+    144,
+    30,
+    464,
+    51
+   ]
+  },
+  {
+   "text": "H-9935 Újhetvenapáti, Petőfi utca 47.",
+   "bbox": [
+    63,
+    67,
+    544,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59213864-2-17",
+   "bbox": [
+    161,
+    95,
+    447,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    141,
+    355,
+    159
+   ]
+  },
+  {
+   "text": "2 DB x 2464",
+   "bbox": [
+    24,
+    184,
+    167,
+    199
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    210,
+    290,
+    227
+   ]
+  },
+  {
+   "text": "4928 C00",
+   "bbox": [
+    472,
+    210,
+    584,
+    227
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    242,
+    220,
+    259
+   ]
+  },
+  {
+   "text": "441 B00",
+   "bbox": [
+    486,
+    242,
+    584,
+    259
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    274,
+    150,
+    291
+   ]
+  },
+  {
+   "text": "658 C00",
+   "bbox": [
+    486,
+    274,
+    584,
+    291
+   ]
+  },
+  {
+   "text": "2 DB x 464",
+   "bbox": [
+    24,
+    306,
+    154,
+    321
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    332,
+    178,
+    349
+   ]
+  },
+  {
+   "text": "928 C00",
+   "bbox": [
+    486,
+    332,
+    584,
+    349
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    364,
+    234,
+    381
+   ]
+  },
+  {
+   "text": "866 A00",
+   "bbox": [
+    486,
+    364,
+    584,
+    381
+   ]
+  },
+  {
+   "text": "2 DB x 71",
+   "bbox": [
+    24,
+    396,
+    141,
+    411
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    424,
+    108,
+    439
+   ]
+  },
+  {
+   "text": "142 C00",
+   "bbox": [
+    486,
+    422,
+    584,
+    439
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    454,
+    136,
+    471
+   ]
+  },
+  {
+   "text": "669 B00",
+   "bbox": [
+    486,
+    454,
+    584,
+    471
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    486,
+    178,
+    507
+   ]
+  },
+  {
+   "text": "451 C00",
+   "bbox": [
+    486,
+    486,
+    584,
+    503
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    518,
+    136,
+    535
+   ]
+  },
+  {
+   "text": "850 C00",
+   "bbox": [
+    486,
+    518,
+    584,
+    535
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    552,
+    206,
+    567
+   ]
+  },
+  {
+   "text": "987 B00",
+   "bbox": [
+    486,
+    550,
+    584,
+    567
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    582,
+    136,
+    599
+   ]
+  },
+  {
+   "text": "1140 A00",
+   "bbox": [
+    472,
+    582,
+    584,
+    599
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    625,
+    194,
+    647
+   ]
+  },
+  {
+   "text": "12 060 Ft",
+   "bbox": [
+    431,
+    627,
+    584,
+    647
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    666,
+    179,
+    685
+   ]
+  },
+  {
+   "text": "12 060 Ft",
+   "bbox": [
+    458,
+    668,
+    584,
+    685
+   ]
+  },
+  {
+   "text": "2024.05.24.",
+   "bbox": [
+    24,
+    714,
+    167,
+    730
+   ]
+  },
+  {
+   "text": "20:49",
+   "bbox": [
+    519,
+    714,
+    584,
+    730
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8599/00986",
+   "bbox": [
+    24,
+    745,
+    310,
+    765
+   ]
+  },
+  {
+   "text": "AP A83560348",
+   "bbox": [
+    24,
+    778,
+    180,
+    794
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    150,
+    821,
+    458,
+    839
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  608,
+  884
+ ]
+}

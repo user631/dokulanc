@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Jakab Mihály",
+  "email": "jakab.mihaly@gmail.com",
+  "telefon": "+36 70 804 7693",
+  "lakcim": "H-9358 Hátkőrös, Békéscsabai utca 73.",
+  "szuletesi_datum": "2003.02.17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Docker",
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "Java",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Jakab Mihály",
+   "bbox": [
+    451,
+    118,
+    788,
+    165
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    520,
+    187,
+    720,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    170,
+    254
+   ]
+  },
+  {
+   "text": "jakab.mihaly@gmail.com",
+   "bbox": [
+    329,
+    238,
+    579,
+    258
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    268,
+    181,
+    284
+   ]
+  },
+  {
+   "text": "+36 70 804 7693",
+   "bbox": [
+    330,
+    269,
+    510,
+    284
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    177,
+    314
+   ]
+  },
+  {
+   "text": "H-9358 Hátkőrös, Békéscsabai utca 73.",
+   "bbox": [
+    330,
+    297,
+    728,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    327,
+    277,
+    344
+   ]
+  },
+  {
+   "text": "2003.02.17.",
+   "bbox": [
+    330,
+    329,
+    455,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    379,
+    360,
+    403
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    428,
+    247,
+    448
+   ]
+  },
+  {
+   "text": "projektmenedzser – Horváth Trade Kft.",
+   "bbox": [
+    90,
+    452,
+    552,
+    473
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    502,
+    270,
+    527
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    90,
+    553,
+    221,
+    568
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    576,
+    416,
+    597
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    599,
+    431,
+    620
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    641,
+    221,
+    656
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    664,
+    375,
+    685
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    687,
+    350,
+    708
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    738,
+    241,
+    763
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    788,
+    196,
+    808
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    834,
+    232,
+    859
+   ]
+  },
+  {
+   "text": "prezentáció, Docker, B kategóriás jogosítvány, csapatmunka, Java, SQL",
+   "bbox": [
+    90,
+    883,
+    813,
+    904
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

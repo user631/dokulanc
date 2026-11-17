@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács László",
+  "email": "kovacs.laszlo@freemail.hu",
+  "telefon": "+36 20 350 8184",
+  "lakcim": "H-6501 Mártonvég, Magyarháti utca 155.",
+  "szuletesi_datum": "2000.07.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2019 – 2023"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Magyar Szolgáltató Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Pataki Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Vörös Szolgáltató Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2023 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "JavaScript",
+   "SAP",
+   "C#",
+   "Docker",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    80,
+    222,
+    103
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    101,
+    144
+   ]
+  },
+  {
+   "text": "kovacs.laszlo@freemail.hu",
+   "bbox": [
+    40,
+    153,
+    277,
+    172
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    187,
+    111,
+    202
+   ]
+  },
+  {
+   "text": "+36 20 350 8184",
+   "bbox": [
+    40,
+    211,
+    191,
+    226
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    245,
+    109,
+    260
+   ]
+  },
+  {
+   "text": "H-6501 Mártonvég, Magyarháti utca",
+   "bbox": [
+    40,
+    269,
+    361,
+    288
+   ]
+  },
+  {
+   "text": "155.",
+   "bbox": [
+    40,
+    293,
+    79,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    327,
+    193,
+    342
+   ]
+  },
+  {
+   "text": "2000.07.14.",
+   "bbox": [
+    40,
+    351,
+    146,
+    366
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    410,
+    202,
+    433
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    456,
+    146,
+    475
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    508,
+    189,
+    531
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    554,
+    169,
+    573
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    582,
+    141,
+    601
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    610,
+    82,
+    625
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    638,
+    67,
+    653
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    666,
+    109,
+    681
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    694,
+    93,
+    709
+   ]
+  },
+  {
+   "text": "Kovács László",
+   "bbox": [
+    450,
+    89,
+    772,
+    123
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    160,
+    641,
+    179
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    224,
+    692,
+    248
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    275,
+    597,
+    295
+   ]
+  },
+  {
+   "text": "rendszergazda – Magyar Szolgáltató Bt.",
+   "bbox": [
+    450,
+    301,
+    885,
+    323
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    343,
+    597,
+    363
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Pataki Tech Kft.",
+   "bbox": [
+    450,
+    369,
+    884,
+    391
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    450,
+    411,
+    597,
+    431
+   ]
+  },
+  {
+   "text": "projektmenedzser – Vörös Szolgáltató Kft.",
+   "bbox": [
+    450,
+    437,
+    912,
+    459
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    490,
+    617,
+    514
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    541,
+    570,
+    557
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    567,
+    1024,
+    589
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    593,
+    686,
+    609
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    635,
+    570,
+    651
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    661,
+    718,
+    683
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    687,
+    533,
+    707
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

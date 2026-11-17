@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Orbán Eszter",
+  "email": "orban.eszter@citromail.hu",
+  "telefon": "06 1 434 9051",
+  "lakcim": "H-9477 Mellékvár, Tamásiházai utca 249.",
+  "szuletesi_datum": "1984.11.18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lakatos és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2008 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Python",
+   "B kategóriás jogosítvány",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Orbán Eszter",
+   "bbox": [
+    485,
+    100,
+    754,
+    134
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    525,
+    163,
+    714,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    214,
+    150,
+    228
+   ]
+  },
+  {
+   "text": "orban.eszter@citromail.hu",
+   "bbox": [
+    330,
+    214,
+    552,
+    230
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    162,
+    257
+   ]
+  },
+  {
+   "text": "06 1 434 9051",
+   "bbox": [
+    330,
+    244,
+    445,
+    257
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    272,
+    157,
+    286
+   ]
+  },
+  {
+   "text": "H-9477 Mellékvár, Tamásiházai utca 249.",
+   "bbox": [
+    330,
+    272,
+    671,
+    289
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    301,
+    235,
+    315
+   ]
+  },
+  {
+   "text": "1984.11.18.",
+   "bbox": [
+    330,
+    302,
+    422,
+    315
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    351,
+    302,
+    373
+   ]
+  },
+  {
+   "text": "2008 – 2009",
+   "bbox": [
+    90,
+    400,
+    190,
+    413
+   ]
+  },
+  {
+   "text": "értékesítő – Lakatos és Társa Kft.",
+   "bbox": [
+    90,
+    422,
+    402,
+    437
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    472,
+    237,
+    494
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    521,
+    190,
+    534
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    539,
+    246,
+    563
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    566,
+    294,
+    580
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    606,
+    190,
+    619
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    628,
+    321,
+    648
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    651,
+    254,
+    669
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    701,
+    210,
+    723
+   ]
+  },
+  {
+   "text": "német (B2), olasz (A2)",
+   "bbox": [
+    90,
+    749,
+    272,
+    766
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    795,
+    200,
+    817
+   ]
+  },
+  {
+   "text": "csapatmunka, Python, B kategóriás jogosítvány, Excel",
+   "bbox": [
+    90,
+    843,
+    534,
+    861
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Ilona",
+  "email": "nagy.ilona@citromail.hu",
+  "telefon": "+36 70 471 6653",
+  "lakcim": "H-2092 Bácsfalva, Budaligeti tér 142.",
+  "szuletesi_datum": "1982.09.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2001 – 2006"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Balázs Consulting Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2007 – 2011"
+   },
+   {
+    "ceg": "Kovács Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2006 – 2007"
+   },
+   {
+    "ceg": "Farkas Trade Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "C#",
+   "SAP",
+   "Excel",
+   "prezentáció",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Ilona",
+   "bbox": [
+    475,
+    113,
+    764,
+    158
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    499,
+    179,
+    740,
+    205
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    232,
+    172,
+    249
+   ]
+  },
+  {
+   "text": "nagy.ilona@citromail.hu",
+   "bbox": [
+    330,
+    232,
+    587,
+    253
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    185,
+    280
+   ]
+  },
+  {
+   "text": "+36 70 471 6653",
+   "bbox": [
+    330,
+    264,
+    511,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    180,
+    311
+   ]
+  },
+  {
+   "text": "H-2092 Bácsfalva, Budaligeti tér 142.",
+   "bbox": [
+    330,
+    294,
+    726,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    288,
+    342
+   ]
+  },
+  {
+   "text": "1982.09.09.",
+   "bbox": [
+    330,
+    326,
+    458,
+    342
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    375,
+    402
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    428,
+    221,
+    444
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Balázs Consulting Kft.",
+   "bbox": [
+    89,
+    452,
+    586,
+    474
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    90,
+    494,
+    221,
+    510
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kovács Zrt.",
+   "bbox": [
+    90,
+    518,
+    523,
+    540
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    90,
+    560,
+    221,
+    576
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Farkas Trade Kft.",
+   "bbox": [
+    90,
+    584,
+    598,
+    606
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    635,
+    280,
+    661
+   ]
+  },
+  {
+   "text": "2001 – 2006",
+   "bbox": [
+    90,
+    687,
+    221,
+    703
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    711,
+    399,
+    733
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    89,
+    736,
+    158,
+    757
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    778,
+    221,
+    794
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    802,
+    394,
+    824
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    827,
+    363,
+    848
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    878,
+    247,
+    904
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    929,
+    211,
+    950
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    976,
+    239,
+    1002
+   ]
+  },
+  {
+   "text": "csapatmunka, C#, SAP, Excel, prezentáció, Docker",
+   "bbox": [
+    90,
+    1027,
+    631,
+    1048
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

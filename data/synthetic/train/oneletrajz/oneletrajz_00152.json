@@ -1,0 +1,298 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Virág István",
+  "email": "virag.istvan@gmail.com",
+  "telefon": "06 1 308 6713",
+  "lakcim": "H-4915 Budafürdőhida, Petőfi utca 58.",
+  "szuletesi_datum": "1976. május 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "1995 – 1999"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "1999 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "SAP",
+   "Java",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    90,
+    192,
+    111
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    136,
+    96,
+    150
+   ]
+  },
+  {
+   "text": "virag.istvan@gmail.com",
+   "bbox": [
+    40,
+    159,
+    242,
+    177
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    192,
+    109,
+    206
+   ]
+  },
+  {
+   "text": "06 1 308 6713",
+   "bbox": [
+    40,
+    215,
+    158,
+    229
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    103,
+    262
+   ]
+  },
+  {
+   "text": "H-4915 Budafürdőhida, Petőfi utca 58.",
+   "bbox": [
+    40,
+    270,
+    368,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    304,
+    183,
+    318
+   ]
+  },
+  {
+   "text": "1976. május 24.",
+   "bbox": [
+    40,
+    326,
+    177,
+    345
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    387,
+    181,
+    408
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    429,
+    128,
+    448
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    483,
+    160,
+    504
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    525,
+    232,
+    544
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    553,
+    73,
+    567
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    580,
+    82,
+    594
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    607,
+    74,
+    624
+   ]
+  },
+  {
+   "text": "Virág István",
+   "bbox": [
+    450,
+    98,
+    696,
+    141
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    168,
+    641,
+    186
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    230,
+    680,
+    254
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    450,
+    281,
+    558,
+    296
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó Szolgáltató Bt.",
+   "bbox": [
+    450,
+    305,
+    818,
+    327
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    357,
+    605,
+    381
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    408,
+    558,
+    423
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    432,
+    653,
+    454
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    457,
+    694,
+    477
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    450,
+    499,
+    558,
+    514
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    523,
+    713,
+    540
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    548,
+    533,
+    568
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

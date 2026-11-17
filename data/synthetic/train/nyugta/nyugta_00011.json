@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SOMOGYI DISZKONT BT.",
+  "uzlet_cim": "H-9699 Alsóhátberény, Hátharasztii utca 87.",
+  "adoszam": "70294848-2-08",
+  "datum": "2025.03.24.",
+  "ido": "13:47",
+  "nyugtaszam": "2394/37261",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 467 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "606"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "430"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "560"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "344"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1398"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3066"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "570"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "84"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2255"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "737"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "417"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SOMOGYI DISZKONT BT.",
+   "bbox": [
+    129,
+    35,
+    449,
+    51
+   ]
+  },
+  {
+   "text": "H-9699 Alsóhátberény, Hátharasztii utca",
+   "bbox": [
+    35,
+    67,
+    542,
+    88
+   ]
+  },
+  {
+   "text": "87.",
+   "bbox": [
+    269,
+    96,
+    308,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 70294848-2-08",
+   "bbox": [
+    146,
+    123,
+    432,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    169,
+    340,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 303",
+   "bbox": [
+    24,
+    212,
+    154,
+    227
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    240,
+    207,
+    255
+   ]
+  },
+  {
+   "text": "606 B00",
+   "bbox": [
+    456,
+    238,
+    554,
+    255
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    270,
+    178,
+    287
+   ]
+  },
+  {
+   "text": "430 C00",
+   "bbox": [
+    456,
+    270,
+    554,
+    287
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    302,
+    150,
+    319
+   ]
+  },
+  {
+   "text": "560 C00",
+   "bbox": [
+    456,
+    302,
+    554,
+    319
+   ]
+  },
+  {
+   "text": "2 DB x 172",
+   "bbox": [
+    24,
+    334,
+    154,
+    349
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    360,
+    220,
+    381
+   ]
+  },
+  {
+   "text": "344 A00",
+   "bbox": [
+    456,
+    360,
+    554,
+    377
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    394,
+    164,
+    409
+   ]
+  },
+  {
+   "text": "1398 C00",
+   "bbox": [
+    442,
+    392,
+    554,
+    409
+   ]
+  },
+  {
+   "text": "2 DB x 1533",
+   "bbox": [
+    24,
+    424,
+    167,
+    439
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    452,
+    206,
+    467
+   ]
+  },
+  {
+   "text": "3066 B00",
+   "bbox": [
+    442,
+    450,
+    554,
+    467
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    482,
+    136,
+    499
+   ]
+  },
+  {
+   "text": "570 B00",
+   "bbox": [
+    456,
+    482,
+    554,
+    499
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    516,
+    108,
+    531
+   ]
+  },
+  {
+   "text": "84 C00",
+   "bbox": [
+    470,
+    514,
+    554,
+    531
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    546,
+    290,
+    563
+   ]
+  },
+  {
+   "text": "2255 C00",
+   "bbox": [
+    442,
+    546,
+    554,
+    563
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    578,
+    136,
+    595
+   ]
+  },
+  {
+   "text": "737 C00",
+   "bbox": [
+    456,
+    578,
+    554,
+    595
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    612,
+    220,
+    627
+   ]
+  },
+  {
+   "text": "417 C00",
+   "bbox": [
+    456,
+    610,
+    554,
+    627
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    653,
+    177,
+    675
+   ]
+  },
+  {
+   "text": "10 467 Ft",
+   "bbox": [
+    401,
+    655,
+    554,
+    675
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    694,
+    136,
+    713
+   ]
+  },
+  {
+   "text": "10 467 Ft",
+   "bbox": [
+    428,
+    696,
+    554,
+    713
+   ]
+  },
+  {
+   "text": "2025.03.24.",
+   "bbox": [
+    24,
+    742,
+    167,
+    758
+   ]
+  },
+  {
+   "text": "13:47",
+   "bbox": [
+    489,
+    742,
+    554,
+    758
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2394/37261",
+   "bbox": [
+    24,
+    773,
+    310,
+    793
+   ]
+  },
+  {
+   "text": "AP A67209998",
+   "bbox": [
+    24,
+    806,
+    180,
+    822
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    184,
+    849,
+    394,
+    867
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  578,
+  912
+ ]
+}

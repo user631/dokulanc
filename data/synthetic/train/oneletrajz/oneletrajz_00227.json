@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Magdolna",
+  "email": "kovacs.magdolna@example.hu",
+  "telefon": "06 1 930 1863",
+  "lakcim": "H-8404 Tatabánya, Pilismártoni utca 223.",
+  "szuletesi_datum": "1990. 08. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fülöp és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2012 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Excel",
+   "ügyfélkezelés",
+   "SQL",
+   "csapatmunka",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Magdolna",
+   "bbox": [
+    412,
+    93,
+    828,
+    138
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    158,
+    675,
+    185
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    213,
+    165,
+    228
+   ]
+  },
+  {
+   "text": "kovacs.magdolna@example.hu",
+   "bbox": [
+    330,
+    213,
+    606,
+    232
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    175,
+    258
+   ]
+  },
+  {
+   "text": "06 1 930 1863",
+   "bbox": [
+    330,
+    244,
+    454,
+    262
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    273,
+    174,
+    288
+   ]
+  },
+  {
+   "text": "H-8404 Tatabánya, Pilismártoni utca 223.",
+   "bbox": [
+    330,
+    273,
+    703,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    303,
+    261,
+    318
+   ]
+  },
+  {
+   "text": "1990. 08. 18.",
+   "bbox": [
+    330,
+    304,
+    443,
+    322
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    354,
+    335,
+    377
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    407,
+    199,
+    422
+   ]
+  },
+  {
+   "text": "tesztmérnök – Fülöp és Társa Kft.",
+   "bbox": [
+    90,
+    427,
+    451,
+    448
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    478,
+    260,
+    501
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    528,
+    201,
+    542
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    551,
+    355,
+    572
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    575,
+    145,
+    594
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    616,
+    206,
+    634
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    639,
+    355,
+    660
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    663,
+    167,
+    682
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    714,
+    227,
+    737
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (C1)",
+   "bbox": [
+    90,
+    763,
+    282,
+    782
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    810,
+    219,
+    833
+   ]
+  },
+  {
+   "text": "prezentáció, Excel, ügyfélkezelés, SQL, csapatmunka, Docker",
+   "bbox": [
+    90,
+    859,
+    633,
+    878
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

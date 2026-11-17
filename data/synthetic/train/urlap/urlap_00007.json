@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Balog Mária",
+  "anyja_neve": "Juhász Irén",
+  "szuletesi_hely": "Székkőrös",
+  "szuletesi_datum": "2000. 08. 23.",
+  "lakcim": "H-6527 Nyírháthalas, Oroszháti utca 181.",
+  "telefon": "+36 30 691 7815",
+  "email": "balog.maria@example.hu",
+  "adoazonosito_jel": "8488129661",
+  "taj_szam": "420 943 181",
+  "kelt": "Tapolcavárad, 2026. 03. 06."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    520,
+    114,
+    720,
+    142
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    442,
+    162,
+    798,
+    181
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    216,
+    379,
+    241
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    272,
+    166,
+    289
+   ]
+  },
+  {
+   "text": "Balog Mária",
+   "bbox": [
+    437,
+    272,
+    577,
+    296
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    327,
+    242,
+    347
+   ]
+  },
+  {
+   "text": "Juhász Irén",
+   "bbox": [
+    437,
+    328,
+    575,
+    347
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    380,
+    271,
+    401
+   ]
+  },
+  {
+   "text": "Székkőrös",
+   "bbox": [
+    437,
+    377,
+    561,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    434,
+    259,
+    451
+   ]
+  },
+  {
+   "text": "2000. 08. 23.",
+   "bbox": [
+    437,
+    437,
+    600,
+    455
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    488,
+    199,
+    505
+   ]
+  },
+  {
+   "text": "H-6527 Nyírháthalas, Oroszháti utca 181.",
+   "bbox": [
+    437,
+    490,
+    937,
+    514
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    542,
+    258,
+    559
+   ]
+  },
+  {
+   "text": "+36 30 691 7815",
+   "bbox": [
+    437,
+    545,
+    646,
+    563
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    596,
+    237,
+    613
+   ]
+  },
+  {
+   "text": "balog.maria@example.hu",
+   "bbox": [
+    437,
+    596,
+    744,
+    620
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    650,
+    299,
+    671
+   ]
+  },
+  {
+   "text": "8488129661",
+   "bbox": [
+    437,
+    652,
+    587,
+    670
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    704,
+    224,
+    721
+   ]
+  },
+  {
+   "text": "420 943 181",
+   "bbox": [
+    437,
+    704,
+    588,
+    722
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    785,
+    321,
+    809
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    829,
+    522,
+    850
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    874,
+    324,
+    891
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    919,
+    542,
+    940
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    1024,
+    156,
+    1041
+   ]
+  },
+  {
+   "text": "Tapolcavárad, 2026. 03. 06.",
+   "bbox": [
+    193,
+    1020,
+    533,
+    1044
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    917,
+    1073,
+    977,
+    1087
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

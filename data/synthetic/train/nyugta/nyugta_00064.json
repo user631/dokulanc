@@ -1,0 +1,255 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH CSEMEGE BT.",
+  "uzlet_cim": "H-7626 Keresztvég, Mezőtóti utca 26.",
+  "adoszam": "72979699-5-29",
+  "datum": "2025.10.04.",
+  "ido": "17:24",
+  "nyugtaszam": "6946/31474",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 379 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "3884"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1226"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2332"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2937"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH CSEMEGE BT.",
+   "bbox": [
+    185,
+    28,
+    409,
+    49
+   ]
+  },
+  {
+   "text": "H-7626 Keresztvég, Mezőtóti utca 26.",
+   "bbox": [
+    81,
+    66,
+    513,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 72979699-5-29",
+   "bbox": [
+    165,
+    91,
+    429,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    252,
+    137,
+    342,
+    154
+   ]
+  },
+  {
+   "text": "2 DB x 1942",
+   "bbox": [
+    24,
+    180,
+    145,
+    193
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    206,
+    271,
+    221
+   ]
+  },
+  {
+   "text": "3884 C00",
+   "bbox": [
+    466,
+    206,
+    570,
+    221
+   ]
+  },
+  {
+   "text": "2 DB x 613",
+   "bbox": [
+    24,
+    236,
+    134,
+    249
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    262,
+    128,
+    277
+   ]
+  },
+  {
+   "text": "1226 B00",
+   "bbox": [
+    466,
+    262,
+    570,
+    277
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    293,
+    141,
+    308
+   ]
+  },
+  {
+   "text": "2332 C00",
+   "bbox": [
+    466,
+    293,
+    570,
+    308
+   ]
+  },
+  {
+   "text": "3 DB x 979",
+   "bbox": [
+    24,
+    323,
+    134,
+    336
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    349,
+    128,
+    364
+   ]
+  },
+  {
+   "text": "2937 B00",
+   "bbox": [
+    466,
+    349,
+    570,
+    364
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    388,
+    174,
+    410
+   ]
+  },
+  {
+   "text": "10 379 Ft",
+   "bbox": [
+    435,
+    393,
+    570,
+    410
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    428,
+    128,
+    448
+   ]
+  },
+  {
+   "text": "10 379 Ft",
+   "bbox": [
+    453,
+    433,
+    570,
+    448
+   ]
+  },
+  {
+   "text": "2025.10.04.",
+   "bbox": [
+    24,
+    478,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "17:24",
+   "bbox": [
+    510,
+    478,
+    570,
+    491
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6946/31474",
+   "bbox": [
+    24,
+    505,
+    288,
+    524
+   ]
+  },
+  {
+   "text": "AP A45095400",
+   "bbox": [
+    24,
+    540,
+    168,
+    553
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    207,
+    578,
+    387,
+    597
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  594,
+  643
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy László",
+  "email": "nagy.laszlo@gmail.com",
+  "telefon": "+36 70 485 8891",
+  "lakcim": "H-7554 Mellékkövesd, Szerbmindszenti tér 219.",
+  "szuletesi_datum": "2002. január 16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Consulting Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2033 – jelenleg"
+   },
+   {
+    "ceg": "Jakab Trade Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Simon Trade Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Java",
+   "Docker",
+   "Linux",
+   "SQL",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy László",
+   "bbox": [
+    490,
+    106,
+    749,
+    152
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    169,
+    674,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    155,
+    237
+   ]
+  },
+  {
+   "text": "nagy.laszlo@gmail.com",
+   "bbox": [
+    330,
+    222,
+    536,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    167,
+    267
+   ]
+  },
+  {
+   "text": "+36 70 485 8891",
+   "bbox": [
+    330,
+    253,
+    480,
+    267
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    161,
+    297
+   ]
+  },
+  {
+   "text": "H-7554 Mellékkövesd, Szerbmindszenti tér 219.",
+   "bbox": [
+    330,
+    282,
+    745,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    312,
+    246,
+    327
+   ]
+  },
+  {
+   "text": "2002. január 16.",
+   "bbox": [
+    330,
+    312,
+    468,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    363,
+    314,
+    387
+   ]
+  },
+  {
+   "text": "2033 – jelenleg",
+   "bbox": [
+    90,
+    412,
+    222,
+    432
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács Consulting Zrt.",
+   "bbox": [
+    90,
+    436,
+    432,
+    457
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    476,
+    222,
+    496
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Jakab Trade Kft.",
+   "bbox": [
+    90,
+    500,
+    537,
+    521
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    540,
+    222,
+    560
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Simon Trade Kft.",
+   "bbox": [
+    90,
+    564,
+    439,
+    585
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    615,
+    246,
+    639
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    90,
+    665,
+    198,
+    679
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    684,
+    252,
+    709
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    712,
+    322,
+    727
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    753,
+    198,
+    767
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    776,
+    327,
+    797
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    800,
+    312,
+    820
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    851,
+    218,
+    875
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    900,
+    184,
+    918
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    947,
+    208,
+    971
+   ]
+  },
+  {
+   "text": "SAP, Java, Docker, Linux, SQL, Python",
+   "bbox": [
+    90,
+    996,
+    411,
+    1016
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

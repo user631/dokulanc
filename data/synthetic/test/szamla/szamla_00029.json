@@ -1,0 +1,678 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2026/09147",
+  "kiallitas_datuma": "2026. augusztus 22.",
+  "teljesites_datuma": "2026. augusztus 19.",
+  "fizetesi_hatarido": "2026. augusztus 30.",
+  "elado_nev": "Papp Tech Bt.",
+  "elado_cim": "H-6047 Szolnok, Fürdővárai utca 118.",
+  "elado_adoszam": "17043922-2-07",
+  "vevo_nev": "Lakatos Márta",
+  "vevo_cim": "H-9184 Dunaszékháza, Mártonházai utca 189.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU67 4032 3374 8416 9375 3126 5325",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "432 610 Ft",
+  "afa_osszesen": "115 807 Ft",
+  "brutto_osszesen": "548 417 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 160",
+    "netto": "2 160",
+    "afa_kulcs": "18%",
+    "afa": "389",
+    "brutto": "2 549"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "37 660",
+    "netto": "376 600",
+    "afa_kulcs": "27%",
+    "afa": "101 682",
+    "brutto": "478 282"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "2 óra",
+    "egysegar": "17 900",
+    "netto": "35 800",
+    "afa_kulcs": "27%",
+    "afa": "9 666",
+    "brutto": "45 466"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "5 db",
+    "egysegar": "730",
+    "netto": "3 650",
+    "afa_kulcs": "5%",
+    "afa": "182",
+    "brutto": "3 832"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "3 oldal",
+    "egysegar": "4 800",
+    "netto": "14 400",
+    "afa_kulcs": "27%",
+    "afa": "3 888",
+    "brutto": "18 288"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    551,
+    91,
+    688,
+    123
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/09147",
+   "bbox": [
+    440,
+    148,
+    799,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    228,
+    155,
+    246
+   ]
+  },
+  {
+   "text": "Papp Tech Bt.",
+   "bbox": [
+    82,
+    267,
+    241,
+    290
+   ]
+  },
+  {
+   "text": "H-6047 Szolnok, Fürdővárai utca 118.",
+   "bbox": [
+    82,
+    301,
+    453,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 17043922-2-07",
+   "bbox": [
+    82,
+    333,
+    334,
+    350
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    228,
+    696,
+    246
+   ]
+  },
+  {
+   "text": "Lakatos Márta",
+   "bbox": [
+    630,
+    266,
+    798,
+    284
+   ]
+  },
+  {
+   "text": "H-9184 Dunaszékháza, Mártonházai utca 189.",
+   "bbox": [
+    630,
+    301,
+    1079,
+    322
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    404,
+    262,
+    420
+   ]
+  },
+  {
+   "text": "2026. augusztus 22.",
+   "bbox": [
+    382,
+    404,
+    573,
+    425
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    438,
+    271,
+    459
+   ]
+  },
+  {
+   "text": "2026. augusztus 19.",
+   "bbox": [
+    382,
+    438,
+    573,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    472,
+    263,
+    488
+   ]
+  },
+  {
+   "text": "2026. augusztus 30.",
+   "bbox": [
+    382,
+    472,
+    573,
+    493
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    506,
+    220,
+    522
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    382,
+    505,
+    457,
+    522
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    551,
+    189,
+    569
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    551,
+    581,
+    569
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    665,
+    551,
+    749,
+    569
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    551,
+    878,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    547,
+    942,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    547,
+    1045,
+    565
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1098,
+    551,
+    1158,
+    565
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    512,
+    593,
+    583,
+    608
+   ]
+  },
+  {
+   "text": "2 160",
+   "bbox": [
+    700,
+    594,
+    749,
+    608
+   ]
+  },
+  {
+   "text": "2 160",
+   "bbox": [
+    829,
+    594,
+    878,
+    608
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    902,
+    594,
+    942,
+    608
+   ]
+  },
+  {
+   "text": "389",
+   "bbox": [
+    1012,
+    594,
+    1045,
+    608
+   ]
+  },
+  {
+   "text": "2 549",
+   "bbox": [
+    1109,
+    594,
+    1158,
+    608
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    82,
+    589,
+    216,
+    612
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    512,
+    630,
+    608,
+    645
+   ]
+  },
+  {
+   "text": "37 660",
+   "bbox": [
+    689,
+    631,
+    749,
+    645
+   ]
+  },
+  {
+   "text": "376 600",
+   "bbox": [
+    807,
+    631,
+    878,
+    645
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    631,
+    942,
+    645
+   ]
+  },
+  {
+   "text": "101 682",
+   "bbox": [
+    974,
+    631,
+    1045,
+    645
+   ]
+  },
+  {
+   "text": "478 282",
+   "bbox": [
+    1087,
+    631,
+    1158,
+    645
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    82,
+    630,
+    269,
+    649
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    512,
+    667,
+    556,
+    682
+   ]
+  },
+  {
+   "text": "17 900",
+   "bbox": [
+    689,
+    668,
+    749,
+    682
+   ]
+  },
+  {
+   "text": "35 800",
+   "bbox": [
+    818,
+    668,
+    878,
+    682
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    668,
+    942,
+    682
+   ]
+  },
+  {
+   "text": "9 666",
+   "bbox": [
+    996,
+    668,
+    1045,
+    682
+   ]
+  },
+  {
+   "text": "45 466",
+   "bbox": [
+    1098,
+    668,
+    1158,
+    682
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    82,
+    667,
+    340,
+    686
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    704,
+    550,
+    719
+   ]
+  },
+  {
+   "text": "730",
+   "bbox": [
+    716,
+    705,
+    749,
+    719
+   ]
+  },
+  {
+   "text": "3 650",
+   "bbox": [
+    829,
+    705,
+    878,
+    719
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    913,
+    705,
+    942,
+    719
+   ]
+  },
+  {
+   "text": "182",
+   "bbox": [
+    1012,
+    705,
+    1045,
+    719
+   ]
+  },
+  {
+   "text": "3 832",
+   "bbox": [
+    1109,
+    705,
+    1158,
+    719
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    82,
+    704,
+    187,
+    723
+   ]
+  },
+  {
+   "text": "3 oldal",
+   "bbox": [
+    512,
+    741,
+    571,
+    756
+   ]
+  },
+  {
+   "text": "4 800",
+   "bbox": [
+    700,
+    742,
+    749,
+    756
+   ]
+  },
+  {
+   "text": "14 400",
+   "bbox": [
+    818,
+    742,
+    878,
+    756
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    742,
+    942,
+    756
+   ]
+  },
+  {
+   "text": "3 888",
+   "bbox": [
+    996,
+    742,
+    1045,
+    756
+   ]
+  },
+  {
+   "text": "18 288",
+   "bbox": [
+    1098,
+    742,
+    1158,
+    756
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    82,
+    741,
+    314,
+    760
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    669,
+    799,
+    828,
+    817
+   ]
+  },
+  {
+   "text": "432 610 Ft",
+   "bbox": [
+    1047,
+    800,
+    1158,
+    817
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    832,
+    828,
+    855
+   ]
+  },
+  {
+   "text": "115 807 Ft",
+   "bbox": [
+    1047,
+    838,
+    1158,
+    855
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    620,
+    875,
+    828,
+    893
+   ]
+  },
+  {
+   "text": "548 417 Ft",
+   "bbox": [
+    1045,
+    876,
+    1159,
+    893
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU67 4032 3374 8416 9375 3126 5325",
+   "bbox": [
+    82,
+    943,
+    635,
+    959
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    974,
+    641,
+    992
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

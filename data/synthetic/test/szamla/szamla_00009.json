@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2025/04513",
+  "kiallitas_datuma": "2025.09.23.",
+  "teljesites_datuma": "2025.09.23.",
+  "fizetesi_hatarido": "2025.10.08.",
+  "elado_nev": "Tóth Tech Kft.",
+  "elado_cim": "H-2870 Hídvár, Magyarhetveni utca 242.",
+  "elado_adoszam": "58141223-2-11",
+  "vevo_nev": "Rácz Éva",
+  "vevo_cim": "H-9074 Felsőhetvenháza, Háthalasi utca 2.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU87 0018 4955 5723 5600 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "154 380 Ft",
+  "afa_osszesen": "39 428 Ft",
+  "brutto_osszesen": "193 808 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "13 940",
+    "netto": "13 940",
+    "afa_kulcs": "27%",
+    "afa": "3 764",
+    "brutto": "17 704"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "1 620",
+    "netto": "1 620",
+    "afa_kulcs": "27%",
+    "afa": "437",
+    "brutto": "2 057"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "5 csomag",
+    "egysegar": "5 010",
+    "netto": "25 050",
+    "afa_kulcs": "18%",
+    "afa": "4 509",
+    "brutto": "29 559"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 520",
+    "netto": "5 520",
+    "afa_kulcs": "27%",
+    "afa": "1 490",
+    "brutto": "7 010"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "21 650",
+    "netto": "108 250",
+    "afa_kulcs": "27%",
+    "afa": "29 228",
+    "brutto": "137 478"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    527,
+    110,
+    712,
+    150
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/04513",
+   "bbox": [
+    438,
+    175,
+    802,
+    193
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    110,
+    255,
+    173,
+    273
+   ]
+  },
+  {
+   "text": "Rácz Éva",
+   "bbox": [
+    110,
+    287,
+    212,
+    310
+   ]
+  },
+  {
+   "text": "H-9074 Felsőhetvenháza, Háthalasi utca 2.",
+   "bbox": [
+    110,
+    327,
+    509,
+    347
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    255,
+    702,
+    273
+   ]
+  },
+  {
+   "text": "Tóth Tech Kft.",
+   "bbox": [
+    630,
+    292,
+    788,
+    310
+   ]
+  },
+  {
+   "text": "H-2870 Hídvár, Magyarhetveni utca 242.",
+   "bbox": [
+    630,
+    327,
+    1018,
+    348
+   ]
+  },
+  {
+   "text": "Adószám: 58141223-2-11",
+   "bbox": [
+    630,
+    358,
+    878,
+    374
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    110,
+    427,
+    256,
+    440
+   ]
+  },
+  {
+   "text": "2025.09.23.",
+   "bbox": [
+    110,
+    456,
+    216,
+    471
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    365,
+    427,
+    518,
+    444
+   ]
+  },
+  {
+   "text": "2025.09.23.",
+   "bbox": [
+    365,
+    456,
+    471,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    427,
+    765,
+    440
+   ]
+  },
+  {
+   "text": "2025.10.08.",
+   "bbox": [
+    620,
+    456,
+    726,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    875,
+    427,
+    984,
+    440
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    874,
+    455,
+    973,
+    476
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    110,
+    507,
+    213,
+    524
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    518,
+    507,
+    583,
+    524
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    507,
+    742,
+    524
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    507,
+    864,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    866,
+    503,
+    926,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    982,
+    503,
+    1023,
+    520
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1073,
+    507,
+    1130,
+    520
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    518,
+    549,
+    559,
+    562
+   ]
+  },
+  {
+   "text": "13 940",
+   "bbox": [
+    687,
+    549,
+    742,
+    562
+   ]
+  },
+  {
+   "text": "13 940",
+   "bbox": [
+    809,
+    549,
+    864,
+    562
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    549,
+    926,
+    562
+   ]
+  },
+  {
+   "text": "3 764",
+   "bbox": [
+    977,
+    549,
+    1022,
+    562
+   ]
+  },
+  {
+   "text": "17 704",
+   "bbox": [
+    1075,
+    549,
+    1130,
+    562
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    110,
+    548,
+    336,
+    566
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    518,
+    584,
+    599,
+    598
+   ]
+  },
+  {
+   "text": "1 620",
+   "bbox": [
+    697,
+    585,
+    742,
+    598
+   ]
+  },
+  {
+   "text": "1 620",
+   "bbox": [
+    819,
+    585,
+    864,
+    598
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    585,
+    926,
+    598
+   ]
+  },
+  {
+   "text": "437",
+   "bbox": [
+    992,
+    585,
+    1022,
+    598
+   ]
+  },
+  {
+   "text": "2 057",
+   "bbox": [
+    1085,
+    585,
+    1130,
+    598
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    110,
+    584,
+    213,
+    602
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    518,
+    621,
+    595,
+    638
+   ]
+  },
+  {
+   "text": "5 010",
+   "bbox": [
+    697,
+    621,
+    742,
+    634
+   ]
+  },
+  {
+   "text": "25 050",
+   "bbox": [
+    809,
+    621,
+    864,
+    634
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    889,
+    621,
+    926,
+    634
+   ]
+  },
+  {
+   "text": "4 509",
+   "bbox": [
+    977,
+    621,
+    1022,
+    634
+   ]
+  },
+  {
+   "text": "29 559",
+   "bbox": [
+    1075,
+    621,
+    1130,
+    634
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    110,
+    620,
+    261,
+    638
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    518,
+    656,
+    574,
+    670
+   ]
+  },
+  {
+   "text": "5 520",
+   "bbox": [
+    697,
+    657,
+    742,
+    670
+   ]
+  },
+  {
+   "text": "5 520",
+   "bbox": [
+    819,
+    657,
+    864,
+    670
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    657,
+    926,
+    670
+   ]
+  },
+  {
+   "text": "1 490",
+   "bbox": [
+    977,
+    657,
+    1022,
+    670
+   ]
+  },
+  {
+   "text": "7 010",
+   "bbox": [
+    1085,
+    657,
+    1130,
+    670
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    110,
+    656,
+    332,
+    674
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    518,
+    692,
+    599,
+    706
+   ]
+  },
+  {
+   "text": "21 650",
+   "bbox": [
+    687,
+    693,
+    742,
+    706
+   ]
+  },
+  {
+   "text": "108 250",
+   "bbox": [
+    799,
+    693,
+    864,
+    706
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    693,
+    926,
+    706
+   ]
+  },
+  {
+   "text": "29 228",
+   "bbox": [
+    967,
+    693,
+    1022,
+    706
+   ]
+  },
+  {
+   "text": "137 478",
+   "bbox": [
+    1065,
+    693,
+    1130,
+    706
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    110,
+    692,
+    293,
+    710
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    750,
+    800,
+    766
+   ]
+  },
+  {
+   "text": "154 380 Ft",
+   "bbox": [
+    1026,
+    750,
+    1130,
+    766
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    782,
+    800,
+    803
+   ]
+  },
+  {
+   "text": "39 428 Ft",
+   "bbox": [
+    1038,
+    787,
+    1130,
+    803
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    619,
+    824,
+    800,
+    845
+   ]
+  },
+  {
+   "text": "193 808 Ft",
+   "bbox": [
+    1023,
+    824,
+    1130,
+    840
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU87 0018 4955 5723 5600 0000 0000",
+   "bbox": [
+    110,
+    889,
+    631,
+    905
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    110,
+    920,
+    627,
+    937
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    431,
+    1627,
+    809,
+    1644
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

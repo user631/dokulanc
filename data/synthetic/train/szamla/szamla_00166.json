@@ -1,0 +1,678 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2025/03520",
+  "kiallitas_datuma": "2025-01-15",
+  "teljesites_datuma": "2025-01-14",
+  "fizetesi_hatarido": "2025-01-30",
+  "elado_nev": "Kovács Consulting Kft.",
+  "elado_cim": "H-5428 Keresztberény, Györgyházai utca 99.",
+  "elado_adoszam": "33185051-3-02",
+  "vevo_nev": "Szabó Anikó",
+  "vevo_cim": "H-6754 Ligetdevecser, Mindszentváradi utca 81.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU78 4164 3132 2639 8826 1725 0821",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "414 120 Ft",
+  "afa_osszesen": "111 812 Ft",
+  "brutto_osszesen": "525 932 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "2 év",
+    "egysegar": "46 560",
+    "netto": "93 120",
+    "afa_kulcs": "27%",
+    "afa": "25 142",
+    "brutto": "118 262"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "40 660",
+    "netto": "40 660",
+    "afa_kulcs": "27%",
+    "afa": "10 978",
+    "brutto": "51 638"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "134 470",
+    "netto": "268 940",
+    "afa_kulcs": "27%",
+    "afa": "72 614",
+    "brutto": "341 554"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "3 110",
+    "netto": "3 110",
+    "afa_kulcs": "27%",
+    "afa": "840",
+    "brutto": "3 950"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "8 290",
+    "netto": "8 290",
+    "afa_kulcs": "27%",
+    "afa": "2 238",
+    "brutto": "10 528"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    106,
+    107,
+    208,
+    130
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    779,
+    87,
+    1163,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2025/03520",
+   "bbox": [
+    883,
+    152,
+    1163,
+    169
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    77,
+    230,
+    151,
+    249
+   ]
+  },
+  {
+   "text": "Kovács Consulting Kft.",
+   "bbox": [
+    77,
+    266,
+    342,
+    290
+   ]
+  },
+  {
+   "text": "H-5428 Keresztberény, Györgyházai utca 99.",
+   "bbox": [
+    77,
+    301,
+    511,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 33185051-3-02",
+   "bbox": [
+    76,
+    331,
+    326,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    230,
+    695,
+    249
+   ]
+  },
+  {
+   "text": "Szabó Anikó",
+   "bbox": [
+    630,
+    266,
+    775,
+    285
+   ]
+  },
+  {
+   "text": "H-6754 Ligetdevecser, Mindszentváradi utca 81.",
+   "bbox": [
+    630,
+    301,
+    1095,
+    321
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    77,
+    398,
+    224,
+    413
+   ]
+  },
+  {
+   "text": "2025-01-15",
+   "bbox": [
+    77,
+    428,
+    187,
+    443
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    398,
+    510,
+    417
+   ]
+  },
+  {
+   "text": "2025-01-14",
+   "bbox": [
+    348,
+    428,
+    458,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    398,
+    771,
+    413
+   ]
+  },
+  {
+   "text": "2025-01-30",
+   "bbox": [
+    619,
+    428,
+    729,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    398,
+    1007,
+    413
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    890,
+    428,
+    982,
+    447
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    77,
+    476,
+    193,
+    495
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    477,
+    578,
+    495
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    662,
+    476,
+    751,
+    495
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    476,
+    880,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    473,
+    945,
+    492
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1008,
+    473,
+    1048,
+    491
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    476,
+    1163,
+    491
+   ]
+  },
+  {
+   "text": "2 év",
+   "bbox": [
+    511,
+    518,
+    548,
+    532
+   ]
+  },
+  {
+   "text": "46 560",
+   "bbox": [
+    690,
+    518,
+    750,
+    532
+   ]
+  },
+  {
+   "text": "93 120",
+   "bbox": [
+    820,
+    518,
+    880,
+    532
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    518,
+    945,
+    532
+   ]
+  },
+  {
+   "text": "25 142",
+   "bbox": [
+    988,
+    518,
+    1048,
+    532
+   ]
+  },
+  {
+   "text": "118 262",
+   "bbox": [
+    1092,
+    518,
+    1163,
+    532
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    77,
+    518,
+    233,
+    536
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    553,
+    594,
+    567
+   ]
+  },
+  {
+   "text": "40 660",
+   "bbox": [
+    690,
+    553,
+    750,
+    567
+   ]
+  },
+  {
+   "text": "40 660",
+   "bbox": [
+    820,
+    553,
+    880,
+    567
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    553,
+    945,
+    567
+   ]
+  },
+  {
+   "text": "10 978",
+   "bbox": [
+    988,
+    553,
+    1048,
+    567
+   ]
+  },
+  {
+   "text": "51 638",
+   "bbox": [
+    1103,
+    553,
+    1163,
+    567
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    77,
+    553,
+    270,
+    571
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    511,
+    588,
+    594,
+    602
+   ]
+  },
+  {
+   "text": "134 470",
+   "bbox": [
+    679,
+    588,
+    750,
+    602
+   ]
+  },
+  {
+   "text": "268 940",
+   "bbox": [
+    809,
+    588,
+    880,
+    602
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    588,
+    945,
+    602
+   ]
+  },
+  {
+   "text": "72 614",
+   "bbox": [
+    988,
+    588,
+    1048,
+    602
+   ]
+  },
+  {
+   "text": "341 554",
+   "bbox": [
+    1092,
+    588,
+    1163,
+    602
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    77,
+    588,
+    276,
+    606
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    623,
+    594,
+    637
+   ]
+  },
+  {
+   "text": "3 110",
+   "bbox": [
+    701,
+    623,
+    750,
+    637
+   ]
+  },
+  {
+   "text": "3 110",
+   "bbox": [
+    831,
+    623,
+    880,
+    637
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    623,
+    945,
+    637
+   ]
+  },
+  {
+   "text": "840",
+   "bbox": [
+    1015,
+    623,
+    1048,
+    637
+   ]
+  },
+  {
+   "text": "3 950",
+   "bbox": [
+    1114,
+    623,
+    1163,
+    637
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    77,
+    623,
+    179,
+    641
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    658,
+    549,
+    672
+   ]
+  },
+  {
+   "text": "8 290",
+   "bbox": [
+    701,
+    658,
+    750,
+    672
+   ]
+  },
+  {
+   "text": "8 290",
+   "bbox": [
+    831,
+    658,
+    880,
+    672
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    658,
+    945,
+    672
+   ]
+  },
+  {
+   "text": "2 238",
+   "bbox": [
+    999,
+    658,
+    1048,
+    672
+   ]
+  },
+  {
+   "text": "10 528",
+   "bbox": [
+    1103,
+    658,
+    1163,
+    672
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    77,
+    658,
+    232,
+    676
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    666,
+    713,
+    833,
+    730
+   ]
+  },
+  {
+   "text": "414 120 Ft",
+   "bbox": [
+    1053,
+    713,
+    1164,
+    730
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    745,
+    833,
+    766
+   ]
+  },
+  {
+   "text": "111 812 Ft",
+   "bbox": [
+    1053,
+    749,
+    1164,
+    766
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    703,
+    785,
+    833,
+    807
+   ]
+  },
+  {
+   "text": "525 932 Ft",
+   "bbox": [
+    1051,
+    785,
+    1163,
+    802
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU78 4164 3132 2639 8826 1725 0821",
+   "bbox": [
+    77,
+    852,
+    637,
+    867
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

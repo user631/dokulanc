@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SIMON CSEMEGE KFT.",
+  "uzlet_cim": "H-4246 Mezőtapolcavég, Ceglédi utca 28.",
+  "adoszam": "96727245-2-05",
+  "datum": "2024.05.27.",
+  "ido": "10:38",
+  "nyugtaszam": "4551/20633",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 216 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "552"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2365"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "299"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON CSEMEGE KFT.",
+   "bbox": [
+    185,
+    36,
+    437,
+    50
+   ]
+  },
+  {
+   "text": "H-4246 Mezőtapolcavég, Ceglédi utca 28.",
+   "bbox": [
+    77,
+    68,
+    545,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 96727245-2-05",
+   "bbox": [
+    179,
+    91,
+    443,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    137,
+    360,
+    152
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    179,
+    167,
+    193
+   ]
+  },
+  {
+   "text": "552 A00",
+   "bbox": [
+    508,
+    179,
+    599,
+    193
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    209,
+    271,
+    223
+   ]
+  },
+  {
+   "text": "2365 C00",
+   "bbox": [
+    495,
+    209,
+    599,
+    223
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    240,
+    194,
+    253
+   ]
+  },
+  {
+   "text": "299 A00",
+   "bbox": [
+    508,
+    239,
+    599,
+    253
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    277,
+    184,
+    298
+   ]
+  },
+  {
+   "text": "3 216 Ft",
+   "bbox": [
+    471,
+    282,
+    599,
+    298
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    318,
+    155,
+    335
+   ]
+  },
+  {
+   "text": "3 216 Ft",
+   "bbox": [
+    495,
+    321,
+    599,
+    335
+   ]
+  },
+  {
+   "text": "2024.05.27.",
+   "bbox": [
+    24,
+    364,
+    156,
+    377
+   ]
+  },
+  {
+   "text": "10:38",
+   "bbox": [
+    539,
+    364,
+    599,
+    377
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4551/20633",
+   "bbox": [
+    24,
+    391,
+    288,
+    409
+   ]
+  },
+  {
+   "text": "AP A59012160",
+   "bbox": [
+    24,
+    424,
+    168,
+    437
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    168,
+    464,
+    454,
+    480
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  623,
+  524
+ ]
+}

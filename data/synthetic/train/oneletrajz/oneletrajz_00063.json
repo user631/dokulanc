@@ -1,0 +1,337 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Szabó Tibor",
+  "email": "szabo.tibor@freemail.hu",
+  "telefon": "+36 20 515 4138",
+  "lakcim": "H-7721 Ráckeresztnémeti, Kossuth utca 138.",
+  "szuletesi_datum": "1976. május 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "1994 – 1998"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Java",
+   "Docker",
+   "Linux",
+   "SAP",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    220,
+    135
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    159,
+    107,
+    176
+   ]
+  },
+  {
+   "text": "szabo.tibor@freemail.hu",
+   "bbox": [
+    40,
+    184,
+    266,
+    203
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    219,
+    117,
+    236
+   ]
+  },
+  {
+   "text": "+36 20 515 4138",
+   "bbox": [
+    40,
+    245,
+    197,
+    261
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    279,
+    115,
+    296
+   ]
+  },
+  {
+   "text": "H-7721 Ráckeresztnémeti, Kossuth",
+   "bbox": [
+    40,
+    304,
+    361,
+    325
+   ]
+  },
+  {
+   "text": "utca 138.",
+   "bbox": [
+    40,
+    330,
+    126,
+    346
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    364,
+    207,
+    381
+   ]
+  },
+  {
+   "text": "1976. május 23.",
+   "bbox": [
+    40,
+    389,
+    188,
+    410
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    449,
+    207,
+    475
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    495,
+    149,
+    517
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    525,
+    137,
+    546
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    578,
+    187,
+    604
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    624,
+    278,
+    646
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    655,
+    84,
+    671
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    683,
+    108,
+    700
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    713,
+    91,
+    729
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    742,
+    77,
+    758
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    771,
+    68,
+    787
+   ]
+  },
+  {
+   "text": "Szabó Tibor",
+   "bbox": [
+    450,
+    119,
+    729,
+    158
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    190,
+    672,
+    217
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    256,
+    722,
+    282
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    309,
+    581,
+    326
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Németh Logisztika Kft.",
+   "bbox": [
+    449,
+    334,
+    934,
+    359
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    388,
+    634,
+    415
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    442,
+    581,
+    459
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    468,
+    682,
+    492
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    494,
+    717,
+    518
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    450,
+    539,
+    581,
+    556
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    564,
+    792,
+    589
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    592,
+    644,
+    615
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

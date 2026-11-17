@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FARKAS DISZKONT BT.",
+  "uzlet_cim": "H-4198 Pusztahídfa, Mártonkövesdi utca 125.",
+  "adoszam": "75953065-3-18",
+  "datum": "2025.05.12.",
+  "ido": "11:15",
+  "nyugtaszam": "0470/85505",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "18 869 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "4323"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2232"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "446"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "874"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "723"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "449"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8790"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "364"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "580"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "88"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS DISZKONT BT.",
+   "bbox": [
+    182,
+    36,
+    429,
+    49
+   ]
+  },
+  {
+   "text": "H-4198 Pusztahídfa, Mártonkövesdi utca 125.",
+   "bbox": [
+    69,
+    65,
+    542,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 75953065-3-18",
+   "bbox": [
+    185,
+    87,
+    427,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    130,
+    349,
+    144
+   ]
+  },
+  {
+   "text": "3 DB x 1441",
+   "bbox": [
+    24,
+    170,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    192,
+    144,
+    205
+   ]
+  },
+  {
+   "text": "4323 A00",
+   "bbox": [
+    493,
+    192,
+    589,
+    205
+   ]
+  },
+  {
+   "text": "2 DB x 1116",
+   "bbox": [
+    24,
+    220,
+    134,
+    231
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    242,
+    168,
+    255
+   ]
+  },
+  {
+   "text": "2232 C00",
+   "bbox": [
+    493,
+    242,
+    589,
+    255
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    270,
+    192,
+    283
+   ]
+  },
+  {
+   "text": "446 C00",
+   "bbox": [
+    505,
+    270,
+    589,
+    283
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    298,
+    204,
+    311
+   ]
+  },
+  {
+   "text": "874 A00",
+   "bbox": [
+    505,
+    298,
+    589,
+    311
+   ]
+  },
+  {
+   "text": "3 DB x 241",
+   "bbox": [
+    24,
+    326,
+    124,
+    337
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    348,
+    192,
+    364
+   ]
+  },
+  {
+   "text": "723 C00",
+   "bbox": [
+    505,
+    348,
+    589,
+    361
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    376,
+    156,
+    392
+   ]
+  },
+  {
+   "text": "449 A00",
+   "bbox": [
+    505,
+    376,
+    589,
+    389
+   ]
+  },
+  {
+   "text": "3 DB x 2930",
+   "bbox": [
+    24,
+    404,
+    134,
+    415
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    426,
+    132,
+    439
+   ]
+  },
+  {
+   "text": "8790 B00",
+   "bbox": [
+    493,
+    426,
+    589,
+    439
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    454,
+    156,
+    467
+   ]
+  },
+  {
+   "text": "364 A00",
+   "bbox": [
+    505,
+    454,
+    589,
+    467
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    482,
+    120,
+    495
+   ]
+  },
+  {
+   "text": "580 B00",
+   "bbox": [
+    505,
+    482,
+    589,
+    495
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    511,
+    96,
+    523
+   ]
+  },
+  {
+   "text": "88 A00",
+   "bbox": [
+    517,
+    510,
+    589,
+    523
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    546,
+    164,
+    566
+   ]
+  },
+  {
+   "text": "18 869 Ft",
+   "bbox": [
+    463,
+    551,
+    590,
+    566
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    585,
+    144,
+    601
+   ]
+  },
+  {
+   "text": "18 869 Ft",
+   "bbox": [
+    481,
+    588,
+    589,
+    601
+   ]
+  },
+  {
+   "text": "2025.05.12.",
+   "bbox": [
+    24,
+    630,
+    145,
+    641
+   ]
+  },
+  {
+   "text": "11:15",
+   "bbox": [
+    534,
+    630,
+    589,
+    641
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0470/85505",
+   "bbox": [
+    24,
+    655,
+    266,
+    670
+   ]
+  },
+  {
+   "text": "AP A74736937",
+   "bbox": [
+    24,
+    686,
+    156,
+    697
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    251,
+    724,
+    361,
+    738
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  613,
+  782
+ ]
+}

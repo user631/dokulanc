@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VIRÁG KISBOLT KFT.",
+  "uzlet_cim": "H-8240 Ligetnádasd, Békéscsabai utca 119.",
+  "adoszam": "74676426-2-16",
+  "datum": "2025.06.12.",
+  "ido": "18:52",
+  "nyugtaszam": "4515/55781",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 814 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1164"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "650"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VIRÁG KISBOLT KFT.",
+   "bbox": [
+    144,
+    28,
+    396,
+    50
+   ]
+  },
+  {
+   "text": "H-8240 Ligetnádasd, Békéscsabai utca 119.",
+   "bbox": [
+    24,
+    67,
+    516,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 74676426-2-16",
+   "bbox": [
+    138,
+    92,
+    402,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    139,
+    316,
+    157
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    185,
+    193,
+    200
+   ]
+  },
+  {
+   "text": "1164 A00",
+   "bbox": [
+    412,
+    185,
+    516,
+    200
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    217,
+    128,
+    232
+   ]
+  },
+  {
+   "text": "650 C00",
+   "bbox": [
+    425,
+    217,
+    516,
+    232
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    256,
+    159,
+    279
+   ]
+  },
+  {
+   "text": "1 814 Ft",
+   "bbox": [
+    396,
+    261,
+    516,
+    279
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    298,
+    155,
+    318
+   ]
+  },
+  {
+   "text": "1 814 Ft",
+   "bbox": [
+    412,
+    302,
+    516,
+    318
+   ]
+  },
+  {
+   "text": "2025.06.12.",
+   "bbox": [
+    24,
+    349,
+    156,
+    363
+   ]
+  },
+  {
+   "text": "18:52",
+   "bbox": [
+    456,
+    349,
+    516,
+    363
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4515/55781",
+   "bbox": [
+    24,
+    376,
+    288,
+    397
+   ]
+  },
+  {
+   "text": "AP A28864739",
+   "bbox": [
+    24,
+    413,
+    168,
+    427
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    127,
+    452,
+    413,
+    472
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  540,
+  518
+ ]
+}

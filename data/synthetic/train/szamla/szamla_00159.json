@@ -1,0 +1,482 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/00858",
+  "kiallitas_datuma": "2024. 01. 11.",
+  "teljesites_datuma": "2024. 01. 06.",
+  "fizetesi_hatarido": "2023. 12. 25.",
+  "elado_nev": "Csonka és Társa Zrt.",
+  "elado_cim": "H-8462 Széknádasd, József attila utca 244.",
+  "elado_adoszam": "79262602-2-37",
+  "vevo_nev": "Márton és Társa Zrt.",
+  "vevo_cim": "H-5432 Dunakeszi, Fürdőházai tér 134.",
+  "vevo_adoszam": "47229415-4-15",
+  "bankszamla": "HU04 1585 0337 8286 3070 4976 9669",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "41 900 Ft",
+  "afa_osszesen": "2 654 Ft",
+  "brutto_osszesen": "44 554 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "4 db",
+    "egysegar": "9 840",
+    "netto": "39 360",
+    "afa_kulcs": "5%",
+    "afa": "1 968",
+    "brutto": "41 328"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "2 540",
+    "netto": "2 540",
+    "afa_kulcs": "27%",
+    "afa": "686",
+    "brutto": "3 226"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    403,
+    84,
+    836,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/00858",
+   "bbox": [
+    428,
+    148,
+    812,
+    171
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    82,
+    228,
+    153,
+    246
+   ]
+  },
+  {
+   "text": "Márton és Társa Zrt.",
+   "bbox": [
+    83,
+    264,
+    335,
+    282
+   ]
+  },
+  {
+   "text": "H-5432 Dunakeszi, Fürdőházai tér 134.",
+   "bbox": [
+    83,
+    297,
+    463,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 47229415-4-15",
+   "bbox": [
+    82,
+    327,
+    326,
+    348
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    228,
+    709,
+    246
+   ]
+  },
+  {
+   "text": "Csonka és Társa Zrt.",
+   "bbox": [
+    630,
+    264,
+    879,
+    282
+   ]
+  },
+  {
+   "text": "H-8462 Széknádasd, József attila utca 244.",
+   "bbox": [
+    630,
+    297,
+    1047,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 79262602-2-37",
+   "bbox": [
+    629,
+    327,
+    881,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    83,
+    395,
+    248,
+    409
+   ]
+  },
+  {
+   "text": "2024. 01. 11.",
+   "bbox": [
+    83,
+    428,
+    200,
+    443
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    395,
+    527,
+    413
+   ]
+  },
+  {
+   "text": "2024. 01. 06.",
+   "bbox": [
+    351,
+    424,
+    475,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    395,
+    786,
+    409
+   ]
+  },
+  {
+   "text": "2023. 12. 25.",
+   "bbox": [
+    619,
+    428,
+    740,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    887,
+    395,
+    1013,
+    409
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    887,
+    423,
+    961,
+    439
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    83,
+    473,
+    201,
+    491
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    474,
+    585,
+    491
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    473,
+    748,
+    491
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    473,
+    877,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    468,
+    942,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    468,
+    1045,
+    487
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1092,
+    473,
+    1157,
+    487
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    514,
+    550,
+    531
+   ]
+  },
+  {
+   "text": "9 840",
+   "bbox": [
+    698,
+    515,
+    748,
+    531
+   ]
+  },
+  {
+   "text": "39 360",
+   "bbox": [
+    818,
+    515,
+    877,
+    531
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    515,
+    942,
+    531
+   ]
+  },
+  {
+   "text": "1 968",
+   "bbox": [
+    998,
+    515,
+    1044,
+    531
+   ]
+  },
+  {
+   "text": "41 328",
+   "bbox": [
+    1101,
+    515,
+    1157,
+    531
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    83,
+    513,
+    316,
+    532
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    512,
+    549,
+    592,
+    563
+   ]
+  },
+  {
+   "text": "2 540",
+   "bbox": [
+    699,
+    553,
+    748,
+    566
+   ]
+  },
+  {
+   "text": "2 540",
+   "bbox": [
+    828,
+    553,
+    877,
+    566
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    550,
+    942,
+    566
+   ]
+  },
+  {
+   "text": "686",
+   "bbox": [
+    1011,
+    550,
+    1044,
+    563
+   ]
+  },
+  {
+   "text": "3 226",
+   "bbox": [
+    1109,
+    550,
+    1157,
+    566
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    83,
+    549,
+    187,
+    567
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    669,
+    605,
+    827,
+    622
+   ]
+  },
+  {
+   "text": "41 900 Ft",
+   "bbox": [
+    1059,
+    606,
+    1157,
+    626
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    681,
+    637,
+    827,
+    658
+   ]
+  },
+  {
+   "text": "2 654 Ft",
+   "bbox": [
+    1072,
+    642,
+    1157,
+    662
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    592,
+    677,
+    827,
+    694
+   ]
+  },
+  {
+   "text": "44 554 Ft",
+   "bbox": [
+    1048,
+    678,
+    1157,
+    698
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU04 1585 0337 8286 3070 4976 9669",
+   "bbox": [
+    83,
+    742,
+    630,
+    762
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    83,
+    771,
+    626,
+    789
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    425,
+    1654,
+    814,
+    1671
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

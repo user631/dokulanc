@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Farkas Szilvia",
+  "email": "farkas.szilvia@gmail.com",
+  "telefon": "+36 70 374 1810",
+  "lakcim": "H-7194 Tapolcanádasd, Tapolcakövesdi utca 146.",
+  "szuletesi_datum": "1991.02.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2010 – 2015"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2015 – 2018"
+   },
+   {
+    "ceg": "Székely Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2014 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "ügyfélkezelés",
+   "SQL",
+   "C#",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Farkas Szilvia",
+   "bbox": [
+    429,
+    113,
+    810,
+    151
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    550,
+    178,
+    689,
+    208
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    236,
+    181,
+    254
+   ]
+  },
+  {
+   "text": "farkas.szilvia@gmail.com",
+   "bbox": [
+    330,
+    236,
+    621,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    269,
+    195,
+    287
+   ]
+  },
+  {
+   "text": "+36 70 374 1810",
+   "bbox": [
+    330,
+    270,
+    538,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    302,
+    190,
+    320
+   ]
+  },
+  {
+   "text": "H-7194 Tapolcanádasd, Tapolcakövesdi utca 146.",
+   "bbox": [
+    330,
+    301,
+    907,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    335,
+    304,
+    353
+   ]
+  },
+  {
+   "text": "1991.02.08.",
+   "bbox": [
+    330,
+    336,
+    474,
+    353
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    389,
+    394,
+    415
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    90,
+    442,
+    241,
+    459
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Zrt.",
+   "bbox": [
+    90,
+    467,
+    473,
+    492
+   ]
+  },
+  {
+   "text": "2014 – 2015",
+   "bbox": [
+    90,
+    512,
+    241,
+    529
+   ]
+  },
+  {
+   "text": "értékesítő – Székely Consulting Kft.",
+   "bbox": [
+    90,
+    537,
+    569,
+    562
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    591,
+    294,
+    618
+   ]
+  },
+  {
+   "text": "2010 – 2015",
+   "bbox": [
+    90,
+    645,
+    241,
+    662
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    670,
+    545,
+    695
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    697,
+    272,
+    721
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    742,
+    241,
+    759
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    767,
+    413,
+    792
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    794,
+    391,
+    818
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    848,
+    260,
+    875
+   ]
+  },
+  {
+   "text": "angol (C1), angol (B2)",
+   "bbox": [
+    90,
+    901,
+    350,
+    924
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    950,
+    250,
+    977
+   ]
+  },
+  {
+   "text": "Excel, ügyfélkezelés, SQL, C#, JavaScript",
+   "bbox": [
+    90,
+    1002,
+    573,
+    1026
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

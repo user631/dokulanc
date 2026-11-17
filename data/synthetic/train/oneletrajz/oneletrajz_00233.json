@@ -1,0 +1,383 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Sándor Diána",
+  "email": "sandor.diana@outlook.com",
+  "telefon": "+36 70 532 4715",
+  "lakcim": "H-1213 Alsóligetváros, Zalaegerszegi utca 76.",
+  "szuletesi_datum": "1991. július 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2009 – 2012"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "ceg": "Rácz Tech Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2016 – 2019"
+   },
+   {
+    "ceg": "Tóth és Társa Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2013 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "prezentáció",
+   "Java",
+   "ügyfélkezelés",
+   "Excel",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    80,
+    213,
+    101
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    127,
+    97,
+    141
+   ]
+  },
+  {
+   "text": "sandor.diana@outlook.com",
+   "bbox": [
+    40,
+    150,
+    277,
+    168
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    109,
+    197
+   ]
+  },
+  {
+   "text": "+36 70 532 4715",
+   "bbox": [
+    40,
+    206,
+    187,
+    220
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    238,
+    107,
+    253
+   ]
+  },
+  {
+   "text": "H-1213 Alsóligetváros, Zalaegerszegi",
+   "bbox": [
+    40,
+    262,
+    363,
+    280
+   ]
+  },
+  {
+   "text": "utca 76.",
+   "bbox": [
+    40,
+    285,
+    109,
+    299
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    317,
+    187,
+    332
+   ]
+  },
+  {
+   "text": "1991. július 29.",
+   "bbox": [
+    40,
+    341,
+    170,
+    359
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    400,
+    196,
+    421
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    443,
+    140,
+    462
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    470,
+    140,
+    489
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    523,
+    181,
+    544
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    566,
+    102,
+    585
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    593,
+    143,
+    612
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    620,
+    82,
+    635
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    647,
+    160,
+    666
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    674,
+    88,
+    689
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    701,
+    79,
+    716
+   ]
+  },
+  {
+   "text": "Sándor Diána",
+   "bbox": [
+    450,
+    88,
+    740,
+    121
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    158,
+    637,
+    176
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    221,
+    688,
+    244
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    272,
+    570,
+    287
+   ]
+  },
+  {
+   "text": "irodavezető – Molnár Logisztika Kft.",
+   "bbox": [
+    450,
+    295,
+    818,
+    316
+   ]
+  },
+  {
+   "text": "2016 – 2019",
+   "bbox": [
+    450,
+    338,
+    570,
+    353
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Rácz Tech Bt.",
+   "bbox": [
+    450,
+    361,
+    893,
+    382
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    404,
+    570,
+    419
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth és Társa Bt.",
+   "bbox": [
+    450,
+    427,
+    767,
+    444
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    478,
+    610,
+    503
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    450,
+    531,
+    570,
+    546
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    554,
+    804,
+    575
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    581,
+    607,
+    596
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    622,
+    570,
+    637
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    645,
+    707,
+    666
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    672,
+    695,
+    691
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

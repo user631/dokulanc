@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Bogdán Dóra",
+  "email": "bogdan.dora@example.hu",
+  "telefon": "+36 30 770 1113",
+  "lakcim": "H-3600 Hídvár, Debreceni utca 62.",
+  "szuletesi_datum": "1977.10.19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "1997 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kis Tech Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "projektmenedzsment",
+   "Git",
+   "prezentáció",
+   "SQL",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bogdán Dóra",
+   "bbox": [
+    489,
+    100,
+    752,
+    143
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    164,
+    675,
+    189
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    153,
+    231
+   ]
+  },
+  {
+   "text": "bogdan.dora@example.hu",
+   "bbox": [
+    330,
+    217,
+    552,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    246,
+    166,
+    260
+   ]
+  },
+  {
+   "text": "+36 30 770 1113",
+   "bbox": [
+    330,
+    246,
+    468,
+    260
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    275,
+    160,
+    289
+   ]
+  },
+  {
+   "text": "H-3600 Hídvár, Debreceni utca 62.",
+   "bbox": [
+    330,
+    274,
+    622,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    304,
+    240,
+    318
+   ]
+  },
+  {
+   "text": "1977.10.19.",
+   "bbox": [
+    330,
+    304,
+    431,
+    318
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    354,
+    302,
+    376
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    402,
+    189,
+    416
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Kis Tech Zrt.",
+   "bbox": [
+    90,
+    425,
+    390,
+    444
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    475,
+    235,
+    497
+   ]
+  },
+  {
+   "text": "1997 – 2002",
+   "bbox": [
+    90,
+    523,
+    189,
+    537
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    547,
+    259,
+    565
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    568,
+    196,
+    587
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    608,
+    189,
+    622
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    631,
+    318,
+    650
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    654,
+    259,
+    672
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    704,
+    207,
+    726
+   ]
+  },
+  {
+   "text": "olasz (A2), német (B1)",
+   "bbox": [
+    90,
+    751,
+    282,
+    770
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    798,
+    200,
+    820
+   ]
+  },
+  {
+   "text": "Excel, projektmenedzsment, Git, prezentáció, SQL, Java",
+   "bbox": [
+    90,
+    845,
+    576,
+    864
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

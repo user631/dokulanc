@@ -1,0 +1,485 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ KISBOLT BT.",
+  "uzlet_cim": "H-4939 Budapest, Budahetveni utca 108.",
+  "adoszam": "50106730-4-43",
+  "datum": "2025.09.01.",
+  "ido": "14:34",
+  "nyugtaszam": "7311/29441",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "20 883 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "705"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1581"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7656"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1824"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "882"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2250"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1092"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "838"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "298"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1995"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "751"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "1011"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ KISBOLT BT.",
+   "bbox": [
+    187,
+    28,
+    408,
+    48
+   ]
+  },
+  {
+   "text": "H-4939 Budapest, Budahetveni utca 108.",
+   "bbox": [
+    89,
+    64,
+    507,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 50106730-4-43",
+   "bbox": [
+    177,
+    88,
+    419,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    133,
+    341,
+    150
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    177,
+    132,
+    191
+   ]
+  },
+  {
+   "text": "705 C00",
+   "bbox": [
+    489,
+    177,
+    573,
+    191
+   ]
+  },
+  {
+   "text": "3 DB x 527",
+   "bbox": [
+    24,
+    207,
+    124,
+    219
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    231,
+    120,
+    245
+   ]
+  },
+  {
+   "text": "1581 A00",
+   "bbox": [
+    477,
+    231,
+    573,
+    245
+   ]
+  },
+  {
+   "text": "3 DB x 2552",
+   "bbox": [
+    24,
+    261,
+    134,
+    273
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    285,
+    252,
+    299
+   ]
+  },
+  {
+   "text": "7656 B00",
+   "bbox": [
+    477,
+    285,
+    573,
+    299
+   ]
+  },
+  {
+   "text": "3 DB x 608",
+   "bbox": [
+    24,
+    315,
+    124,
+    327
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    339,
+    120,
+    353
+   ]
+  },
+  {
+   "text": "1824 B00",
+   "bbox": [
+    477,
+    339,
+    573,
+    353
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    369,
+    120,
+    383
+   ]
+  },
+  {
+   "text": "882 A00",
+   "bbox": [
+    489,
+    369,
+    573,
+    383
+   ]
+  },
+  {
+   "text": "3 DB x 750",
+   "bbox": [
+    24,
+    399,
+    124,
+    411
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    423,
+    216,
+    437
+   ]
+  },
+  {
+   "text": "2250 A00",
+   "bbox": [
+    477,
+    423,
+    573,
+    437
+   ]
+  },
+  {
+   "text": "2 DB x 546",
+   "bbox": [
+    24,
+    453,
+    124,
+    465
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    477,
+    132,
+    491
+   ]
+  },
+  {
+   "text": "1092 A00",
+   "bbox": [
+    477,
+    477,
+    573,
+    491
+   ]
+  },
+  {
+   "text": "2 DB x 419",
+   "bbox": [
+    24,
+    507,
+    124,
+    519
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    531,
+    192,
+    545
+   ]
+  },
+  {
+   "text": "838 B00",
+   "bbox": [
+    489,
+    531,
+    573,
+    545
+   ]
+  },
+  {
+   "text": "2 DB x 149",
+   "bbox": [
+    24,
+    561,
+    124,
+    573
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    585,
+    192,
+    603
+   ]
+  },
+  {
+   "text": "298 B00",
+   "bbox": [
+    489,
+    585,
+    573,
+    599
+   ]
+  },
+  {
+   "text": "3 DB x 665",
+   "bbox": [
+    24,
+    615,
+    124,
+    627
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    639,
+    192,
+    653
+   ]
+  },
+  {
+   "text": "1995 B00",
+   "bbox": [
+    477,
+    639,
+    573,
+    653
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    669,
+    204,
+    683
+   ]
+  },
+  {
+   "text": "751 C00",
+   "bbox": [
+    489,
+    669,
+    573,
+    683
+   ]
+  },
+  {
+   "text": "3 DB x 337",
+   "bbox": [
+    24,
+    699,
+    124,
+    711
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    723,
+    180,
+    737
+   ]
+  },
+  {
+   "text": "1011 A00",
+   "bbox": [
+    477,
+    723,
+    573,
+    737
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    760,
+    164,
+    782
+   ]
+  },
+  {
+   "text": "20 883 Ft",
+   "bbox": [
+    447,
+    765,
+    573,
+    782
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    800,
+    120,
+    819
+   ]
+  },
+  {
+   "text": "20 883 Ft",
+   "bbox": [
+    465,
+    805,
+    573,
+    819
+   ]
+  },
+  {
+   "text": "2025.09.01.",
+   "bbox": [
+    24,
+    848,
+    145,
+    861
+   ]
+  },
+  {
+   "text": "14:34",
+   "bbox": [
+    518,
+    848,
+    573,
+    861
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7311/29441",
+   "bbox": [
+    24,
+    874,
+    266,
+    893
+   ]
+  },
+  {
+   "text": "AP A64309536",
+   "bbox": [
+    24,
+    908,
+    156,
+    921
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    166,
+    947,
+    430,
+    964
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  597,
+  1010
+ ]
+}

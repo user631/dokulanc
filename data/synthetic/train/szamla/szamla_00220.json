@@ -1,0 +1,498 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2026/08885",
+  "kiallitas_datuma": "2026. 05. 25.",
+  "teljesites_datuma": "2026. 05. 24.",
+  "fizetesi_hatarido": "2026. 06. 09.",
+  "elado_nev": "Székely Szolgáltató Kft.",
+  "elado_cim": "H-2377 Szigetszentmiklós, Hídharasztii út 122.",
+  "elado_adoszam": "79229689-5-27",
+  "vevo_nev": "Nagy Logisztika Kft.",
+  "vevo_cim": "H-6988 Magyarhídvég, Hátházai utca 127.",
+  "vevo_adoszam": "24716211-2-19",
+  "bankszamla": "65555831-83604285",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "308 080 Ft",
+  "afa_osszesen": "83 181 Ft",
+  "brutto_osszesen": "391 261 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "6 880",
+    "netto": "27 520",
+    "afa_kulcs": "27%",
+    "afa": "7 430",
+    "brutto": "34 950"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "3 db",
+    "egysegar": "93 520",
+    "netto": "280 560",
+    "afa_kulcs": "27%",
+    "afa": "75 751",
+    "brutto": "356 311"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÉKELY",
+   "bbox": [
+    132,
+    133,
+    229,
+    155
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    991,
+    125,
+    1140,
+    159
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/08885",
+   "bbox": [
+    854,
+    180,
+    1140,
+    203
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    100,
+    260,
+    172,
+    280
+   ]
+  },
+  {
+   "text": "Nagy Logisztika Kft.",
+   "bbox": [
+    100,
+    299,
+    358,
+    325
+   ]
+  },
+  {
+   "text": "H-6988 Magyarhídvég, Hátházai utca 127.",
+   "bbox": [
+    100,
+    334,
+    559,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 24716211-2-19",
+   "bbox": [
+    100,
+    367,
+    378,
+    386
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    260,
+    708,
+    280
+   ]
+  },
+  {
+   "text": "Székely Szolgáltató Kft.",
+   "bbox": [
+    630,
+    299,
+    933,
+    325
+   ]
+  },
+  {
+   "text": "H-2377 Szigetszentmiklós, Hídharasztii út",
+   "bbox": [
+    630,
+    334,
+    1083,
+    359
+   ]
+  },
+  {
+   "text": "122.",
+   "bbox": [
+    630,
+    368,
+    674,
+    386
+   ]
+  },
+  {
+   "text": "Adószám: 79229689-5-27",
+   "bbox": [
+    630,
+    400,
+    908,
+    419
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    100,
+    471,
+    294,
+    490
+   ]
+  },
+  {
+   "text": "2026. 05. 25.",
+   "bbox": [
+    400,
+    472,
+    533,
+    490
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    100,
+    506,
+    313,
+    531
+   ]
+  },
+  {
+   "text": "2026. 05. 24.",
+   "bbox": [
+    400,
+    507,
+    533,
+    525
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    100,
+    541,
+    300,
+    560
+   ]
+  },
+  {
+   "text": "2026. 06. 09.",
+   "bbox": [
+    400,
+    542,
+    533,
+    560
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    100,
+    576,
+    255,
+    595
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    400,
+    576,
+    500,
+    601
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    622,
+    229,
+    644
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    623,
+    593,
+    644
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    622,
+    744,
+    644
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    809,
+    622,
+    869,
+    639
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    618,
+    932,
+    639
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    618,
+    1031,
+    639
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1073,
+    622,
+    1140,
+    639
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    516,
+    666,
+    581,
+    683
+   ]
+  },
+  {
+   "text": "6 880",
+   "bbox": [
+    690,
+    667,
+    744,
+    683
+   ]
+  },
+  {
+   "text": "27 520",
+   "bbox": [
+    803,
+    667,
+    869,
+    683
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    667,
+    932,
+    683
+   ]
+  },
+  {
+   "text": "7 430",
+   "bbox": [
+    976,
+    667,
+    1030,
+    683
+   ]
+  },
+  {
+   "text": "34 950",
+   "bbox": [
+    1074,
+    667,
+    1140,
+    683
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    100,
+    666,
+    361,
+    688
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    516,
+    704,
+    560,
+    721
+   ]
+  },
+  {
+   "text": "93 520",
+   "bbox": [
+    678,
+    705,
+    744,
+    721
+   ]
+  },
+  {
+   "text": "280 560",
+   "bbox": [
+    791,
+    705,
+    869,
+    721
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    705,
+    932,
+    721
+   ]
+  },
+  {
+   "text": "75 751",
+   "bbox": [
+    964,
+    705,
+    1030,
+    721
+   ]
+  },
+  {
+   "text": "356 311",
+   "bbox": [
+    1062,
+    705,
+    1140,
+    721
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    100,
+    705,
+    217,
+    721
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    628,
+    765,
+    810,
+    784
+   ]
+  },
+  {
+   "text": "308 080 Ft",
+   "bbox": [
+    1020,
+    766,
+    1140,
+    784
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    647,
+    800,
+    810,
+    823
+   ]
+  },
+  {
+   "text": "83 181 Ft",
+   "bbox": [
+    1034,
+    805,
+    1140,
+    823
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    676,
+    843,
+    810,
+    868
+   ]
+  },
+  {
+   "text": "391 261 Ft",
+   "bbox": [
+    1012,
+    844,
+    1140,
+    862
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 65555831-83604285",
+   "bbox": [
+    100,
+    910,
+    508,
+    928
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    100,
+    942,
+    732,
+    963
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    467,
+    1633,
+    772,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Nagy Róbert",
+  "anyja_neve": "Horváth Dániel",
+  "szuletesi_hely": "Nyíregyháza",
+  "szuletesi_datum": "1989.02.25.",
+  "lakcim": "H-7860 Vác, Hídnádasdi utca 45.",
+  "telefon": "06 1 862 9493",
+  "email": "nagy.robert@example.hu",
+  "adoazonosito_jel": "8446150794",
+  "taj_szam": "638 819 153",
+  "kelt": "Székfalva, 2025.08.04."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    539,
+    115,
+    701,
+    142
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    451,
+    163,
+    789,
+    182
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    219,
+    339,
+    242
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    275,
+    160,
+    291
+   ]
+  },
+  {
+   "text": "Nagy Róbert",
+   "bbox": [
+    422,
+    276,
+    576,
+    304
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    330,
+    227,
+    349
+   ]
+  },
+  {
+   "text": "Horváth Dániel",
+   "bbox": [
+    422,
+    327,
+    604,
+    349
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    383,
+    252,
+    403
+   ]
+  },
+  {
+   "text": "Nyíregyháza",
+   "bbox": [
+    422,
+    383,
+    574,
+    411
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    437,
+    243,
+    453
+   ]
+  },
+  {
+   "text": "1989.02.25.",
+   "bbox": [
+    422,
+    437,
+    564,
+    459
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    491,
+    192,
+    507
+   ]
+  },
+  {
+   "text": "H-7860 Vác, Hídnádasdi utca 45.",
+   "bbox": [
+    422,
+    487,
+    821,
+    512
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    545,
+    243,
+    561
+   ]
+  },
+  {
+   "text": "06 1 862 9493",
+   "bbox": [
+    422,
+    543,
+    602,
+    565
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    599,
+    224,
+    615
+   ]
+  },
+  {
+   "text": "nagy.robert@example.hu",
+   "bbox": [
+    422,
+    599,
+    720,
+    627
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    653,
+    280,
+    673
+   ]
+  },
+  {
+   "text": "8446150794",
+   "bbox": [
+    422,
+    650,
+    578,
+    672
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    707,
+    213,
+    723
+   ]
+  },
+  {
+   "text": "638 819 153",
+   "bbox": [
+    422,
+    706,
+    574,
+    728
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    787,
+    293,
+    810
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    832,
+    481,
+    852
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    877,
+    308,
+    893
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    922,
+    496,
+    942
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    1026,
+    154,
+    1042
+   ]
+  },
+  {
+   "text": "Székfalva, 2025.08.04.",
+   "bbox": [
+    196,
+    1025,
+    459,
+    1048
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    918,
+    1074,
+    969,
+    1088
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

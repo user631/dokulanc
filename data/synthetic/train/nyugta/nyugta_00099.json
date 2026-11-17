@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ABC KFT.",
+  "uzlet_cim": "H-6922 Tamásivára, Bakonymelléki utca 99.",
+  "adoszam": "26461591-3-26",
+  "datum": "2026.09.25.",
+  "ido": "18:14",
+  "nyugtaszam": "9170/84473",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 177 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1197"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "846"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "897"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2546"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2520"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "619"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1083"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1019"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "860"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "411"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1179"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ABC KFT.",
+   "bbox": [
+    221,
+    28,
+    416,
+    48
+   ]
+  },
+  {
+   "text": "H-6922 Tamásivára, Bakonymelléki utca 99.",
+   "bbox": [
+    114,
+    65,
+    524,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 26461591-3-26",
+   "bbox": [
+    209,
+    88,
+    429,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    277,
+    130,
+    361,
+    146
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    173,
+    168,
+    186
+   ]
+  },
+  {
+   "text": "1197 B00",
+   "bbox": [
+    519,
+    173,
+    615,
+    186
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    202,
+    132,
+    215
+   ]
+  },
+  {
+   "text": "846 B00",
+   "bbox": [
+    531,
+    202,
+    615,
+    215
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    231,
+    120,
+    244
+   ]
+  },
+  {
+   "text": "897 C00",
+   "bbox": [
+    531,
+    231,
+    615,
+    244
+   ]
+  },
+  {
+   "text": "2 DB x 1273",
+   "bbox": [
+    24,
+    260,
+    134,
+    271
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    283,
+    144,
+    296
+   ]
+  },
+  {
+   "text": "2546 B00",
+   "bbox": [
+    519,
+    283,
+    615,
+    296
+   ]
+  },
+  {
+   "text": "3 DB x 840",
+   "bbox": [
+    24,
+    312,
+    124,
+    323
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    335,
+    120,
+    348
+   ]
+  },
+  {
+   "text": "2520 A00",
+   "bbox": [
+    519,
+    335,
+    615,
+    348
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    364,
+    120,
+    377
+   ]
+  },
+  {
+   "text": "619 C00",
+   "bbox": [
+    531,
+    364,
+    615,
+    377
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    393,
+    204,
+    406
+   ]
+  },
+  {
+   "text": "1083 C00",
+   "bbox": [
+    519,
+    393,
+    615,
+    406
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    422,
+    144,
+    435
+   ]
+  },
+  {
+   "text": "1019 B00",
+   "bbox": [
+    519,
+    422,
+    615,
+    435
+   ]
+  },
+  {
+   "text": "2 DB x 430",
+   "bbox": [
+    24,
+    451,
+    124,
+    462
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    473,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "860 B00",
+   "bbox": [
+    531,
+    474,
+    615,
+    487
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    503,
+    192,
+    516
+   ]
+  },
+  {
+   "text": "411 A00",
+   "bbox": [
+    531,
+    503,
+    615,
+    516
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    532,
+    180,
+    545
+   ]
+  },
+  {
+   "text": "1179 B00",
+   "bbox": [
+    519,
+    532,
+    615,
+    545
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    568,
+    164,
+    589
+   ]
+  },
+  {
+   "text": "13 177 Ft",
+   "bbox": [
+    489,
+    573,
+    615,
+    589
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    608,
+    144,
+    625
+   ]
+  },
+  {
+   "text": "13 177 Ft",
+   "bbox": [
+    507,
+    612,
+    615,
+    625
+   ]
+  },
+  {
+   "text": "2026.09.25.",
+   "bbox": [
+    24,
+    655,
+    134,
+    667
+   ]
+  },
+  {
+   "text": "18:14",
+   "bbox": [
+    565,
+    655,
+    615,
+    667
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9170/84473",
+   "bbox": [
+    24,
+    681,
+    244,
+    698
+   ]
+  },
+  {
+   "text": "AP A20964503",
+   "bbox": [
+    24,
+    713,
+    144,
+    725
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    236,
+    749,
+    401,
+    766
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  639,
+  812
+ ]
+}

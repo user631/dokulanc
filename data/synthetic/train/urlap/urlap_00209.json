@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kocsis Ferenc",
+  "anyja_neve": "Fülöp Zoltán",
+  "szuletesi_hely": "Szigetszentmiklós",
+  "szuletesi_datum": "1984.03.11.",
+  "lakcim": "H-9204 Lajoskeresztvár, Hídharasztii utca 70.",
+  "telefon": "06 1 796 1983",
+  "email": "kocsis.ferenc@citromail.hu",
+  "adoazonosito_jel": "8428034052",
+  "taj_szam": "353 636 848",
+  "kelt": "Nagykanizsa, 2025.07.25."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    455,
+    96,
+    784,
+    131
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    95,
+    208,
+    328,
+    231
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    107,
+    264,
+    149,
+    280
+   ]
+  },
+  {
+   "text": "Kocsis Ferenc",
+   "bbox": [
+    403,
+    259,
+    576,
+    281
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    107,
+    319,
+    216,
+    338
+   ]
+  },
+  {
+   "text": "Fülöp Zoltán",
+   "bbox": [
+    403,
+    312,
+    569,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    107,
+    372,
+    241,
+    392
+   ]
+  },
+  {
+   "text": "Szigetszentmiklós",
+   "bbox": [
+    403,
+    366,
+    632,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    107,
+    426,
+    232,
+    442
+   ]
+  },
+  {
+   "text": "1984.03.11.",
+   "bbox": [
+    403,
+    427,
+    576,
+    446
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    107,
+    480,
+    181,
+    496
+   ]
+  },
+  {
+   "text": "H-9204 Lajoskeresztvár, Hídharasztii utca 70.",
+   "bbox": [
+    403,
+    479,
+    1023,
+    508
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    107,
+    534,
+    232,
+    550
+   ]
+  },
+  {
+   "text": "06 1 796 1983",
+   "bbox": [
+    403,
+    534,
+    623,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    107,
+    588,
+    213,
+    604
+   ]
+  },
+  {
+   "text": "kocsis.ferenc@citromail.hu",
+   "bbox": [
+    403,
+    585,
+    742,
+    608
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    107,
+    642,
+    269,
+    662
+   ]
+  },
+  {
+   "text": "8428034052",
+   "bbox": [
+    403,
+    639,
+    593,
+    659
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    107,
+    696,
+    202,
+    712
+   ]
+  },
+  {
+   "text": "353 636 848",
+   "bbox": [
+    403,
+    696,
+    594,
+    715
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    95,
+    776,
+    282,
+    799
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    140,
+    821,
+    470,
+    841
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    140,
+    866,
+    297,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    140,
+    911,
+    485,
+    931
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    95,
+    1015,
+    143,
+    1031
+   ]
+  },
+  {
+   "text": "Nagykanizsa, 2025.07.25.",
+   "bbox": [
+    185,
+    1016,
+    513,
+    1043
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1063,
+    980,
+    1077
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

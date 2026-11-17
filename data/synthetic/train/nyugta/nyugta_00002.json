@@ -1,0 +1,378 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MÁRTON ÉLELMISZER BT.",
+  "uzlet_cim": "H-8669 Tótapáti, Lajosfürdői utca 50.",
+  "adoszam": "29512115-2-35",
+  "datum": "2024.01.10.",
+  "ido": "11:23",
+  "nyugtaszam": "8142/29639",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 052 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3158"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "949"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "671"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "780"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1172"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1435"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "78"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "627"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "306"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "876"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÁRTON ÉLELMISZER BT.",
+   "bbox": [
+    133,
+    28,
+    406,
+    48
+   ]
+  },
+  {
+   "text": "H-8669 Tótapáti, Lajosfürdői utca 50.",
+   "bbox": [
+    85,
+    65,
+    455,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 29512115-2-35",
+   "bbox": [
+    160,
+    88,
+    380,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    228,
+    130,
+    312,
+    146
+   ]
+  },
+  {
+   "text": "2 DB x 1579",
+   "bbox": [
+    24,
+    173,
+    134,
+    184
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    196,
+    144,
+    209
+   ]
+  },
+  {
+   "text": "3158 C00",
+   "bbox": [
+    421,
+    196,
+    517,
+    209
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    225,
+    120,
+    238
+   ]
+  },
+  {
+   "text": "949 A00",
+   "bbox": [
+    433,
+    225,
+    517,
+    238
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    254,
+    156,
+    267
+   ]
+  },
+  {
+   "text": "671 A00",
+   "bbox": [
+    433,
+    254,
+    517,
+    267
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    283,
+    192,
+    296
+   ]
+  },
+  {
+   "text": "780 B00",
+   "bbox": [
+    433,
+    283,
+    517,
+    296
+   ]
+  },
+  {
+   "text": "2 DB x 586",
+   "bbox": [
+    24,
+    312,
+    124,
+    323
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    335,
+    192,
+    348
+   ]
+  },
+  {
+   "text": "1172 B00",
+   "bbox": [
+    421,
+    335,
+    517,
+    348
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    364,
+    144,
+    377
+   ]
+  },
+  {
+   "text": "1435 B00",
+   "bbox": [
+    421,
+    364,
+    517,
+    377
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    393,
+    96,
+    406
+   ]
+  },
+  {
+   "text": "78 C00",
+   "bbox": [
+    445,
+    393,
+    517,
+    406
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    422,
+    216,
+    435
+   ]
+  },
+  {
+   "text": "627 B00",
+   "bbox": [
+    433,
+    422,
+    517,
+    435
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    451,
+    192,
+    464
+   ]
+  },
+  {
+   "text": "306 A00",
+   "bbox": [
+    433,
+    451,
+    517,
+    464
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    480,
+    168,
+    493
+   ]
+  },
+  {
+   "text": "876 C00",
+   "bbox": [
+    433,
+    480,
+    517,
+    493
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    516,
+    164,
+    537
+   ]
+  },
+  {
+   "text": "10 052 Ft",
+   "bbox": [
+    391,
+    521,
+    517,
+    537
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    556,
+    120,
+    573
+   ]
+  },
+  {
+   "text": "10 052 Ft",
+   "bbox": [
+    409,
+    560,
+    517,
+    573
+   ]
+  },
+  {
+   "text": "2024.01.10.",
+   "bbox": [
+    24,
+    603,
+    134,
+    615
+   ]
+  },
+  {
+   "text": "11:23",
+   "bbox": [
+    467,
+    603,
+    517,
+    615
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8142/29639",
+   "bbox": [
+    24,
+    629,
+    244,
+    646
+   ]
+  },
+  {
+   "text": "AP A63143751",
+   "bbox": [
+    24,
+    661,
+    144,
+    673
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    215,
+    697,
+    325,
+    714
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  541,
+  760
+ ]
+}

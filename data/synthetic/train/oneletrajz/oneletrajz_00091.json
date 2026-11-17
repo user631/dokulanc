@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss Krisztián",
+  "email": "kiss.krisztian@example.hu",
+  "telefon": "+36 70 397 1980",
+  "lakcim": "H-5761 Fürdőhida, Ligetbányai utca 33.",
+  "szuletesi_datum": "1997. december 6.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2023 – 2024"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2021 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "projektmenedzsment",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    102,
+    161,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    83,
+    157
+   ]
+  },
+  {
+   "text": "kiss.krisztian@example.hu",
+   "bbox": [
+    40,
+    166,
+    224,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    93,
+    209
+   ]
+  },
+  {
+   "text": "+36 70 397 1980",
+   "bbox": [
+    40,
+    219,
+    159,
+    230
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    88,
+    261
+   ]
+  },
+  {
+   "text": "H-5761 Fürdőhida, Ligetbányai utca 33.",
+   "bbox": [
+    40,
+    270,
+    314,
+    285
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    301,
+    153,
+    313
+   ]
+  },
+  {
+   "text": "1997. december 6.",
+   "bbox": [
+    40,
+    322,
+    170,
+    334
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    381,
+    156,
+    398
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    421,
+    113,
+    436
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    473,
+    136,
+    490
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    513,
+    92,
+    525
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    538,
+    194,
+    553
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    563,
+    217,
+    578
+   ]
+  },
+  {
+   "text": "Kiss Krisztián",
+   "bbox": [
+    450,
+    106,
+    683,
+    136
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    175,
+    623,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    637,
+    257
+   ]
+  },
+  {
+   "text": "2023 – 2024",
+   "bbox": [
+    450,
+    287,
+    547,
+    299
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kiss Zrt.",
+   "bbox": [
+    450,
+    308,
+    641,
+    322
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    450,
+    349,
+    547,
+    361
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó Szolgáltató Kft.",
+   "bbox": [
+    450,
+    370,
+    755,
+    388
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    420,
+    578,
+    440
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    450,
+    470,
+    547,
+    482
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    492,
+    599,
+    509
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    515,
+    710,
+    531
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    555,
+    547,
+    567
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    576,
+    653,
+    594
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    600,
+    600,
+    616
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

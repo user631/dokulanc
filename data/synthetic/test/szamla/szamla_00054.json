@@ -1,0 +1,698 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2026/01211",
+  "kiallitas_datuma": "2026. 06. 28.",
+  "teljesites_datuma": "2026. 06. 25.",
+  "fizetesi_hatarido": "2026. 07. 28.",
+  "elado_nev": "Fábián Szolgáltató Zrt.",
+  "elado_cim": "H-8900 Kecskemét, Mártonfai utca 231.",
+  "elado_adoszam": "97094602-5-36",
+  "vevo_nev": "Fekete Veronika",
+  "vevo_cim": "H-8035 Miskolc, Alsóligeti utca 53.",
+  "vevo_adoszam": null,
+  "bankszamla": "37309451-54297542",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "203 640 Ft",
+  "afa_osszesen": "51 261 Ft",
+  "brutto_osszesen": "254 901 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "5 420",
+    "netto": "65 040",
+    "afa_kulcs": "27%",
+    "afa": "17 561",
+    "brutto": "82 601"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "16 920",
+    "netto": "16 920",
+    "afa_kulcs": "5%",
+    "afa": "846",
+    "brutto": "17 766"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "2 hó",
+    "egysegar": "46 950",
+    "netto": "93 900",
+    "afa_kulcs": "27%",
+    "afa": "25 353",
+    "brutto": "119 253"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "2 180",
+    "netto": "2 180",
+    "afa_kulcs": "27%",
+    "afa": "589",
+    "brutto": "2 769"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "4 db",
+    "egysegar": "6 400",
+    "netto": "25 600",
+    "afa_kulcs": "27%",
+    "afa": "6 912",
+    "brutto": "32 512"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FÁBIÁN",
+   "bbox": [
+    112,
+    111,
+    203,
+    131
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    812,
+    97,
+    1162,
+    124
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/01211",
+   "bbox": [
+    921,
+    152,
+    1162,
+    168
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    78,
+    233,
+    140,
+    248
+   ]
+  },
+  {
+   "text": "Fábián Szolgáltató Zrt.",
+   "bbox": [
+    78,
+    267,
+    296,
+    287
+   ]
+  },
+  {
+   "text": "H-8900 Kecskemét, Mártonfai utca 231.",
+   "bbox": [
+    78,
+    298,
+    405,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 97094602-5-36",
+   "bbox": [
+    78,
+    326,
+    289,
+    340
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    233,
+    685,
+    248
+   ]
+  },
+  {
+   "text": "Fekete Veronika",
+   "bbox": [
+    630,
+    267,
+    786,
+    282
+   ]
+  },
+  {
+   "text": "H-8035 Miskolc, Alsóligeti utca 53.",
+   "bbox": [
+    630,
+    298,
+    923,
+    316
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    78,
+    393,
+    231,
+    406
+   ]
+  },
+  {
+   "text": "2026. 06. 28.",
+   "bbox": [
+    378,
+    393,
+    483,
+    406
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    78,
+    423,
+    238,
+    440
+   ]
+  },
+  {
+   "text": "2026. 06. 25.",
+   "bbox": [
+    378,
+    423,
+    483,
+    436
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    78,
+    453,
+    230,
+    466
+   ]
+  },
+  {
+   "text": "2026. 07. 28.",
+   "bbox": [
+    378,
+    453,
+    483,
+    466
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    78,
+    483,
+    194,
+    496
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    378,
+    482,
+    441,
+    496
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    78,
+    525,
+    168,
+    540
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    525,
+    566,
+    540
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    680,
+    525,
+    750,
+    540
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    839,
+    525,
+    880,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    522,
+    945,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    522,
+    1049,
+    536
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1113,
+    525,
+    1162,
+    536
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    511,
+    563,
+    569,
+    575
+   ]
+  },
+  {
+   "text": "5 420",
+   "bbox": [
+    710,
+    564,
+    750,
+    575
+   ]
+  },
+  {
+   "text": "65 040",
+   "bbox": [
+    831,
+    564,
+    880,
+    575
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    564,
+    945,
+    575
+   ]
+  },
+  {
+   "text": "17 561",
+   "bbox": [
+    999,
+    564,
+    1048,
+    575
+   ]
+  },
+  {
+   "text": "82 601",
+   "bbox": [
+    1113,
+    564,
+    1162,
+    575
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    78,
+    563,
+    271,
+    579
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    511,
+    596,
+    541,
+    608
+   ]
+  },
+  {
+   "text": "16 920",
+   "bbox": [
+    701,
+    597,
+    750,
+    608
+   ]
+  },
+  {
+   "text": "16 920",
+   "bbox": [
+    831,
+    597,
+    880,
+    608
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    922,
+    597,
+    945,
+    608
+   ]
+  },
+  {
+   "text": "846",
+   "bbox": [
+    1021,
+    597,
+    1048,
+    608
+   ]
+  },
+  {
+   "text": "17 766",
+   "bbox": [
+    1113,
+    597,
+    1162,
+    608
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    78,
+    596,
+    277,
+    612
+   ]
+  },
+  {
+   "text": "2 hó",
+   "bbox": [
+    511,
+    629,
+    542,
+    641
+   ]
+  },
+  {
+   "text": "46 950",
+   "bbox": [
+    701,
+    630,
+    750,
+    641
+   ]
+  },
+  {
+   "text": "93 900",
+   "bbox": [
+    831,
+    630,
+    880,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    630,
+    945,
+    641
+   ]
+  },
+  {
+   "text": "25 353",
+   "bbox": [
+    999,
+    630,
+    1048,
+    641
+   ]
+  },
+  {
+   "text": "119 253",
+   "bbox": [
+    1104,
+    630,
+    1162,
+    641
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    78,
+    629,
+    282,
+    645
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    662,
+    542,
+    674
+   ]
+  },
+  {
+   "text": "2 180",
+   "bbox": [
+    710,
+    663,
+    750,
+    674
+   ]
+  },
+  {
+   "text": "2 180",
+   "bbox": [
+    840,
+    663,
+    880,
+    674
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    663,
+    945,
+    674
+   ]
+  },
+  {
+   "text": "589",
+   "bbox": [
+    1021,
+    663,
+    1048,
+    674
+   ]
+  },
+  {
+   "text": "2 769",
+   "bbox": [
+    1122,
+    663,
+    1162,
+    674
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    78,
+    662,
+    203,
+    678
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    511,
+    695,
+    542,
+    707
+   ]
+  },
+  {
+   "text": "6 400",
+   "bbox": [
+    710,
+    696,
+    750,
+    707
+   ]
+  },
+  {
+   "text": "25 600",
+   "bbox": [
+    831,
+    696,
+    880,
+    707
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    696,
+    945,
+    707
+   ]
+  },
+  {
+   "text": "6 912",
+   "bbox": [
+    1008,
+    696,
+    1048,
+    707
+   ]
+  },
+  {
+   "text": "32 512",
+   "bbox": [
+    1113,
+    696,
+    1162,
+    707
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    78,
+    695,
+    222,
+    711
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    700,
+    748,
+    832,
+    763
+   ]
+  },
+  {
+   "text": "203 640 Ft",
+   "bbox": [
+    1068,
+    749,
+    1162,
+    763
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    706,
+    778,
+    832,
+    797
+   ]
+  },
+  {
+   "text": "51 261 Ft",
+   "bbox": [
+    1079,
+    783,
+    1162,
+    797
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    658,
+    817,
+    832,
+    831
+   ]
+  },
+  {
+   "text": "254 901 Ft",
+   "bbox": [
+    1066,
+    817,
+    1162,
+    831
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 37309451-54297542",
+   "bbox": [
+    78,
+    880,
+    384,
+    893
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    78,
+    908,
+    507,
+    922
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1661,
+    731,
+    1675
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

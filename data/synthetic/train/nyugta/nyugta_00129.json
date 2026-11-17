@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "PATAKI ÉLELMISZER BT.",
+  "uzlet_cim": "H-8146 Somogytótapáti, Dózsa györgy utca 237.",
+  "adoszam": "10465273-2-37",
+  "datum": "2024.06.09.",
+  "ido": "10:46",
+  "nyugtaszam": "2141/79685",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "5 014 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2362"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1062"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "93"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "187"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1065"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "245"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PATAKI ÉLELMISZER BT.",
+   "bbox": [
+    142,
+    31,
+    415,
+    49
+   ]
+  },
+  {
+   "text": "H-8146 Somogytótapáti, Dózsa györgy utca 237.",
+   "bbox": [
+    31,
+    65,
+    526,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 10465273-2-37",
+   "bbox": [
+    158,
+    87,
+    400,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    130,
+    322,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 1181",
+   "bbox": [
+    24,
+    170,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    192,
+    168,
+    205
+   ]
+  },
+  {
+   "text": "2362 C00",
+   "bbox": [
+    439,
+    192,
+    535,
+    205
+   ]
+  },
+  {
+   "text": "3 DB x 354",
+   "bbox": [
+    24,
+    220,
+    124,
+    231
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    242,
+    192,
+    255
+   ]
+  },
+  {
+   "text": "1062 C00",
+   "bbox": [
+    439,
+    242,
+    535,
+    255
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    271,
+    96,
+    283
+   ]
+  },
+  {
+   "text": "93 B00",
+   "bbox": [
+    463,
+    270,
+    535,
+    283
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    298,
+    192,
+    314
+   ]
+  },
+  {
+   "text": "187 A00",
+   "bbox": [
+    451,
+    298,
+    535,
+    311
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    326,
+    204,
+    339
+   ]
+  },
+  {
+   "text": "1065 B00",
+   "bbox": [
+    439,
+    326,
+    535,
+    339
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    355,
+    180,
+    367
+   ]
+  },
+  {
+   "text": "245 C00",
+   "bbox": [
+    451,
+    354,
+    535,
+    367
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    390,
+    164,
+    410
+   ]
+  },
+  {
+   "text": "5 014 Ft",
+   "bbox": [
+    423,
+    395,
+    536,
+    410
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    429,
+    120,
+    445
+   ]
+  },
+  {
+   "text": "5 014 Ft",
+   "bbox": [
+    439,
+    432,
+    535,
+    445
+   ]
+  },
+  {
+   "text": "2024.06.09.",
+   "bbox": [
+    24,
+    474,
+    145,
+    485
+   ]
+  },
+  {
+   "text": "10:46",
+   "bbox": [
+    480,
+    474,
+    535,
+    485
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2141/79685",
+   "bbox": [
+    24,
+    499,
+    266,
+    514
+   ]
+  },
+  {
+   "text": "AP A31744212",
+   "bbox": [
+    24,
+    530,
+    156,
+    541
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    195,
+    567,
+    361,
+    582
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  559,
+  626
+ ]
+}

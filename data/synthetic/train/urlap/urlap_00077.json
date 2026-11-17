@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Orosz Ildikó",
+  "anyja_neve": "Tóth Ágnes",
+  "szuletesi_hely": "Ózd",
+  "szuletesi_datum": "1953. 08. 11.",
+  "lakcim": "H-4230 Érd, Orosztapolcai utca 122.",
+  "telefon": "+36 30 381 2111",
+  "email": "orosz.ildiko@citromail.hu",
+  "adoazonosito_jel": "8316336726",
+  "taj_szam": "080 907 682",
+  "kelt": "Alsószékbánya, 2024. 11. 29."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    499,
+    111,
+    741,
+    142
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    486,
+    165,
+    753,
+    181
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    109,
+    218,
+    299,
+    238
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    272,
+    158,
+    285
+   ]
+  },
+  {
+   "text": "Orosz Ildikó",
+   "bbox": [
+    414,
+    273,
+    557,
+    293
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    121,
+    324,
+    214,
+    341
+   ]
+  },
+  {
+   "text": "Tóth Ágnes",
+   "bbox": [
+    414,
+    318,
+    544,
+    349
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    121,
+    376,
+    231,
+    393
+   ]
+  },
+  {
+   "text": "Ózd",
+   "bbox": [
+    414,
+    369,
+    460,
+    393
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    121,
+    428,
+    223,
+    441
+   ]
+  },
+  {
+   "text": "1953. 08. 11.",
+   "bbox": [
+    414,
+    425,
+    554,
+    445
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    121,
+    480,
+    184,
+    493
+   ]
+  },
+  {
+   "text": "H-4230 Érd, Orosztapolcai utca 122.",
+   "bbox": [
+    414,
+    472,
+    828,
+    505
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    121,
+    532,
+    223,
+    545
+   ]
+  },
+  {
+   "text": "+36 30 381 2111",
+   "bbox": [
+    414,
+    529,
+    596,
+    548
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    121,
+    584,
+    210,
+    597
+   ]
+  },
+  {
+   "text": "orosz.ildiko@citromail.hu",
+   "bbox": [
+    414,
+    581,
+    698,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    121,
+    636,
+    256,
+    653
+   ]
+  },
+  {
+   "text": "8316336726",
+   "bbox": [
+    414,
+    636,
+    560,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    121,
+    688,
+    202,
+    701
+   ]
+  },
+  {
+   "text": "080 907 682",
+   "bbox": [
+    414,
+    686,
+    563,
+    706
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    109,
+    766,
+    264,
+    786
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    154,
+    810,
+    418,
+    827
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    154,
+    855,
+    280,
+    868
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    154,
+    900,
+    439,
+    917
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    109,
+    1002,
+    150,
+    1016
+   ]
+  },
+  {
+   "text": "Alsószékbánya, 2024. 11. 29.",
+   "bbox": [
+    199,
+    1001,
+    489,
+    1025
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1052,
+    961,
+    1063
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

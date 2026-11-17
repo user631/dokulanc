@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Illés Richárd",
+  "email": "illes.richard@gmail.com",
+  "telefon": "+36 20 527 5419",
+  "lakcim": "H-5360 Somogyfürdőnémeti, Petőfi sándor utca 159.",
+  "szuletesi_datum": "1979.06.26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1997 – 2000"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bálint Consulting Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2001 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "SAP",
+   "ügyfélkezelés",
+   "JavaScript",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Illés Richárd",
+   "bbox": [
+    487,
+    91,
+    753,
+    125
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    517,
+    157,
+    723,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    209,
+    155,
+    224
+   ]
+  },
+  {
+   "text": "illes.richard@gmail.com",
+   "bbox": [
+    330,
+    209,
+    549,
+    228
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    239,
+    169,
+    254
+   ]
+  },
+  {
+   "text": "+36 20 527 5419",
+   "bbox": [
+    330,
+    240,
+    468,
+    254
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    269,
+    163,
+    284
+   ]
+  },
+  {
+   "text": "H-5360 Somogyfürdőnémeti, Petőfi sándor utca 159.",
+   "bbox": [
+    330,
+    268,
+    799,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    299,
+    249,
+    314
+   ]
+  },
+  {
+   "text": "1979.06.26.",
+   "bbox": [
+    330,
+    300,
+    431,
+    314
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    350,
+    315,
+    373
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    400,
+    190,
+    414
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Bálint Consulting Kft.",
+   "bbox": [
+    90,
+    423,
+    575,
+    443
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    474,
+    242,
+    497
+   ]
+  },
+  {
+   "text": "1997 – 2000",
+   "bbox": [
+    90,
+    524,
+    189,
+    538
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    547,
+    583,
+    567
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    570,
+    309,
+    586
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    612,
+    190,
+    626
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    635,
+    379,
+    655
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    658,
+    171,
+    678
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    710,
+    214,
+    733
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    759,
+    180,
+    778
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    806,
+    206,
+    829
+   ]
+  },
+  {
+   "text": "prezentáció, SAP, ügyfélkezelés, JavaScript, Java",
+   "bbox": [
+    90,
+    854,
+    542,
+    874
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Török Lajos",
+  "email": "torok.lajos@outlook.com",
+  "telefon": "+36 70 212 9647",
+  "lakcim": "H-1770 Érd, Mosonmagyaróvári utca 195.",
+  "szuletesi_datum": "1990. 11. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Virág Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2013 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SQL",
+   "csapatmunka",
+   "Excel",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Török Lajos",
+   "bbox": [
+    489,
+    90,
+    751,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    158,
+    707,
+    175
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    209,
+    158,
+    224
+   ]
+  },
+  {
+   "text": "torok.lajos@outlook.com",
+   "bbox": [
+    330,
+    209,
+    549,
+    228
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    239,
+    168,
+    254
+   ]
+  },
+  {
+   "text": "+36 70 212 9647",
+   "bbox": [
+    330,
+    239,
+    481,
+    254
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    269,
+    166,
+    284
+   ]
+  },
+  {
+   "text": "H-1770 Érd, Mosonmagyaróvári utca 195.",
+   "bbox": [
+    330,
+    265,
+    703,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    299,
+    250,
+    314
+   ]
+  },
+  {
+   "text": "1990. 11. 08.",
+   "bbox": [
+    330,
+    299,
+    448,
+    314
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    350,
+    315,
+    372
+   ]
+  },
+  {
+   "text": "2013 – 2014",
+   "bbox": [
+    90,
+    399,
+    201,
+    414
+   ]
+  },
+  {
+   "text": "adatelemző – Virág Logisztika Kft.",
+   "bbox": [
+    90,
+    423,
+    436,
+    443
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    472,
+    246,
+    496
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    523,
+    201,
+    538
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    544,
+    258,
+    567
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    571,
+    307,
+    586
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    611,
+    201,
+    626
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    635,
+    382,
+    655
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    659,
+    167,
+    678
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    708,
+    217,
+    732
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B2)",
+   "bbox": [
+    90,
+    759,
+    314,
+    778
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    804,
+    213,
+    828
+   ]
+  },
+  {
+   "text": "Python, SQL, csapatmunka, Excel, Docker",
+   "bbox": [
+    90,
+    855,
+    470,
+    874
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

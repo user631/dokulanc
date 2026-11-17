@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PAPP KISBOLT KFT.",
+  "uzlet_cim": "H-7644 Kaposvár, Szabadság utca 227.",
+  "adoszam": "29828238-2-10",
+  "datum": "2024.11.14.",
+  "ido": "11:14",
+  "nyugtaszam": "6322/76519",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 100 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1215"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2946"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "209"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "850"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2039"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2514"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "327"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP KISBOLT KFT.",
+   "bbox": [
+    178,
+    35,
+    450,
+    51
+   ]
+  },
+  {
+   "text": "H-7644 Kaposvár, Szabadság utca 227.",
+   "bbox": [
+    80,
+    67,
+    548,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 29828238-2-10",
+   "bbox": [
+    171,
+    95,
+    457,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    141,
+    365,
+    159
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    184,
+    164,
+    201
+   ]
+  },
+  {
+   "text": "1215 C00",
+   "bbox": [
+    492,
+    184,
+    604,
+    201
+   ]
+  },
+  {
+   "text": "2 DB x 1473",
+   "bbox": [
+    24,
+    216,
+    167,
+    231
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    244,
+    164,
+    259
+   ]
+  },
+  {
+   "text": "2946 A00",
+   "bbox": [
+    492,
+    242,
+    604,
+    259
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    276,
+    207,
+    291
+   ]
+  },
+  {
+   "text": "209 B00",
+   "bbox": [
+    506,
+    274,
+    604,
+    291
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    306,
+    248,
+    323
+   ]
+  },
+  {
+   "text": "850 A00",
+   "bbox": [
+    506,
+    306,
+    604,
+    323
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    338,
+    150,
+    355
+   ]
+  },
+  {
+   "text": "2039 C00",
+   "bbox": [
+    492,
+    338,
+    604,
+    355
+   ]
+  },
+  {
+   "text": "2 DB x 1257",
+   "bbox": [
+    24,
+    370,
+    167,
+    385
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    396,
+    192,
+    413
+   ]
+  },
+  {
+   "text": "2514 B00",
+   "bbox": [
+    492,
+    396,
+    604,
+    413
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    428,
+    220,
+    445
+   ]
+  },
+  {
+   "text": "327 C00",
+   "bbox": [
+    506,
+    428,
+    604,
+    445
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    471,
+    194,
+    493
+   ]
+  },
+  {
+   "text": "10 100 Ft",
+   "bbox": [
+    451,
+    473,
+    604,
+    493
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    512,
+    179,
+    531
+   ]
+  },
+  {
+   "text": "10 100 Ft",
+   "bbox": [
+    478,
+    514,
+    604,
+    531
+   ]
+  },
+  {
+   "text": "2024.11.14.",
+   "bbox": [
+    24,
+    560,
+    167,
+    576
+   ]
+  },
+  {
+   "text": "11:14",
+   "bbox": [
+    539,
+    560,
+    604,
+    576
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6322/76519",
+   "bbox": [
+    24,
+    591,
+    310,
+    611
+   ]
+  },
+  {
+   "text": "AP A82921229",
+   "bbox": [
+    24,
+    624,
+    180,
+    640
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    209,
+    667,
+    419,
+    685
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  628,
+  730
+ ]
+}

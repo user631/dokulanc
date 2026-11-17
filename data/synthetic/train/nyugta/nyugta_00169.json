@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FARKAS DISZKONT KFT.",
+  "uzlet_cim": "H-6067 Debrecen, Borsodtóti tér 78.",
+  "adoszam": "64070513-5-34",
+  "datum": "2025.04.01.",
+  "ido": "10:53",
+  "nyugtaszam": "9178/46183",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 124 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "440"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8643"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2770"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "808"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1877"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "586"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS DISZKONT KFT.",
+   "bbox": [
+    178,
+    33,
+    418,
+    47
+   ]
+  },
+  {
+   "text": "H-6067 Debrecen, Borsodtóti tér 78.",
+   "bbox": [
+    123,
+    63,
+    473,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 64070513-5-34",
+   "bbox": [
+    188,
+    86,
+    408,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    127,
+    338,
+    142
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "440 C00",
+   "bbox": [
+    496,
+    168,
+    573,
+    181
+   ]
+  },
+  {
+   "text": "3 DB x 2881",
+   "bbox": [
+    24,
+    196,
+    123,
+    207
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    218,
+    123,
+    231
+   ]
+  },
+  {
+   "text": "8643 A00",
+   "bbox": [
+    485,
+    218,
+    573,
+    231
+   ]
+  },
+  {
+   "text": "2 DB x 1385",
+   "bbox": [
+    24,
+    246,
+    123,
+    257
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    268,
+    134,
+    281
+   ]
+  },
+  {
+   "text": "2770 C00",
+   "bbox": [
+    485,
+    268,
+    573,
+    281
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    296,
+    123,
+    309
+   ]
+  },
+  {
+   "text": "808 B00",
+   "bbox": [
+    496,
+    296,
+    573,
+    309
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    324,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "1877 A00",
+   "bbox": [
+    485,
+    324,
+    573,
+    337
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    352,
+    145,
+    365
+   ]
+  },
+  {
+   "text": "586 B00",
+   "bbox": [
+    496,
+    352,
+    573,
+    365
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    388,
+    154,
+    408
+   ]
+  },
+  {
+   "text": "15 124 Ft",
+   "bbox": [
+    456,
+    392,
+    573,
+    408
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    426,
+    112,
+    443
+   ]
+  },
+  {
+   "text": "15 124 Ft",
+   "bbox": [
+    474,
+    430,
+    573,
+    443
+   ]
+  },
+  {
+   "text": "2025.04.01.",
+   "bbox": [
+    24,
+    473,
+    134,
+    484
+   ]
+  },
+  {
+   "text": "10:53",
+   "bbox": [
+    523,
+    473,
+    573,
+    484
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9178/46183",
+   "bbox": [
+    24,
+    498,
+    244,
+    514
+   ]
+  },
+  {
+   "text": "AP A17644250",
+   "bbox": [
+    24,
+    529,
+    144,
+    540
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    223,
+    565,
+    373,
+    581
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  597,
+  626
+ ]
+}

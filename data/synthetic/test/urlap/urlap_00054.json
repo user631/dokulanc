@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Oláh Viktória",
+  "anyja_neve": "Magyar József",
+  "szuletesi_hely": "Nagykanizsa",
+  "szuletesi_datum": "1972.10.14.",
+  "lakcim": "H-6358 Mindszentvég, Szegedi utca 122.",
+  "telefon": "+36 30 972 8098",
+  "email": "olah.viktoria@freemail.hu",
+  "adoazonosito_jel": "8386373156",
+  "taj_szam": "019 221 939",
+  "kelt": "Várad, 2024.09.21."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    497,
+    106,
+    743,
+    142
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    466,
+    165,
+    774,
+    183
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    218,
+    340,
+    242
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    277,
+    163,
+    292
+   ]
+  },
+  {
+   "text": "Oláh Viktória",
+   "bbox": [
+    439,
+    274,
+    575,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    331,
+    232,
+    350
+   ]
+  },
+  {
+   "text": "Magyar József",
+   "bbox": [
+    439,
+    332,
+    595,
+    354
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    385,
+    259,
+    404
+   ]
+  },
+  {
+   "text": "Nagykanizsa",
+   "bbox": [
+    439,
+    383,
+    574,
+    405
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    439,
+    248,
+    454
+   ]
+  },
+  {
+   "text": "1972.10.14.",
+   "bbox": [
+    439,
+    436,
+    564,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    493,
+    195,
+    508
+   ]
+  },
+  {
+   "text": "H-6358 Mindszentvég, Szegedi utca 122.",
+   "bbox": [
+    439,
+    494,
+    873,
+    516
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    119,
+    547,
+    249,
+    562
+   ]
+  },
+  {
+   "text": "+36 30 972 8098",
+   "bbox": [
+    439,
+    544,
+    617,
+    561
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    601,
+    227,
+    616
+   ]
+  },
+  {
+   "text": "olah.viktoria@freemail.hu",
+   "bbox": [
+    439,
+    600,
+    706,
+    622
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    655,
+    285,
+    674
+   ]
+  },
+  {
+   "text": "8386373156",
+   "bbox": [
+    439,
+    651,
+    569,
+    668
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    119,
+    709,
+    221,
+    724
+   ]
+  },
+  {
+   "text": "019 221 939",
+   "bbox": [
+    439,
+    709,
+    570,
+    726
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    788,
+    289,
+    810
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    834,
+    493,
+    853
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    879,
+    308,
+    894
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    924,
+    511,
+    943
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    1026,
+    151,
+    1042
+   ]
+  },
+  {
+   "text": "Várad, 2024.09.21.",
+   "bbox": [
+    197,
+    1023,
+    399,
+    1043
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    916,
+    1076,
+    970,
+    1089
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

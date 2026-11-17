@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Nagy Kft.",
+  "felado_cim": "H-2142 Szombathely, Debreceni utca 69.",
+  "cimzett": "Dr. Veres Sándor",
+  "cimzett_cim": "H-8334 Mártonvég, Ligetfalvai utca 131.",
+  "datum": "2025. november 3.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "IKT-2025/60156",
+  "hatarido": "2025. november 16",
+  "teendo": "a SZ-2025/03306 számú számla 829 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Varga Anikó"
+ },
+ "lines": [
+  {
+   "text": "Nagy Kft.",
+   "bbox": [
+    128,
+    107,
+    276,
+    137
+   ]
+  },
+  {
+   "text": "H-2142 Szombathely, Debreceni utca 69.",
+   "bbox": [
+    128,
+    146,
+    527,
+    167
+   ]
+  },
+  {
+   "text": "Tel.: +36 20 779 9528   E-mail: info@nagy.hu",
+   "bbox": [
+    127,
+    172,
+    579,
+    193
+   ]
+  },
+  {
+   "text": "Dr. Veres Sándor",
+   "bbox": [
+    128,
+    258,
+    348,
+    279
+   ]
+  },
+  {
+   "text": "H-8334 Mártonvég",
+   "bbox": [
+    128,
+    291,
+    341,
+    318
+   ]
+  },
+  {
+   "text": "Ligetfalvai utca 131.",
+   "bbox": [
+    128,
+    325,
+    361,
+    350
+   ]
+  },
+  {
+   "text": "Kaposvár, 2025. november 3.",
+   "bbox": [
+    774,
+    395,
+    1112,
+    422
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    128,
+    452,
+    458,
+    478
+   ]
+  },
+  {
+   "text": "Ügyszám: IKT-2025/60156",
+   "bbox": [
+    128,
+    484,
+    434,
+    514
+   ]
+  },
+  {
+   "text": "Tisztelt Címzett!",
+   "bbox": [
+    127,
+    553,
+    316,
+    575
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2025/03306 számú, 2025. szeptember 18. kelt",
+   "bbox": [
+    128,
+    605,
+    1042,
+    632
+   ]
+  },
+  {
+   "text": "számla 829 000 Ft összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    128,
+    641,
+    1085,
+    668
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2025. november 16 napjáig szíveskedjen",
+   "bbox": [
+    128,
+    691,
+    1064,
+    718
+   ]
+  },
+  {
+   "text": "átutalni a 69813850-37969411-35823467 számú bankszámlánkra.",
+   "bbox": [
+    128,
+    727,
+    886,
+    749
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    127,
+    777,
+    1079,
+    804
+   ]
+  },
+  {
+   "text": "Üdvözlettel:",
+   "bbox": [
+    128,
+    854,
+    265,
+    879
+   ]
+  },
+  {
+   "text": "Varga Anikó",
+   "bbox": [
+    167,
+    954,
+    328,
+    980
+   ]
+  },
+  {
+   "text": "ügyintéző",
+   "bbox": [
+    168,
+    986,
+    269,
+    1010
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

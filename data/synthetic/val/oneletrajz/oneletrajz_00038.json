@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Farkas Márk",
+  "email": "farkas.mark@freemail.hu",
+  "telefon": "+36 20 437 3039",
+  "lakcim": "H-9507 Mellékfa, Ady endre út 237.",
+  "szuletesi_datum": "1976. 02. 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1996 – 2001"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó és Társa Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2000 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "SQL",
+   "C#",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Farkas Márk",
+   "bbox": [
+    469,
+    103,
+    772,
+    138
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    528,
+    172,
+    712,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    165,
+    238
+   ]
+  },
+  {
+   "text": "farkas.mark@freemail.hu",
+   "bbox": [
+    330,
+    223,
+    560,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    175,
+    268
+   ]
+  },
+  {
+   "text": "+36 20 437 3039",
+   "bbox": [
+    330,
+    254,
+    480,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    174,
+    298
+   ]
+  },
+  {
+   "text": "H-9507 Mellékfa, Ady endre út 237.",
+   "bbox": [
+    330,
+    283,
+    647,
+    302
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    261,
+    328
+   ]
+  },
+  {
+   "text": "1976. 02. 28.",
+   "bbox": [
+    330,
+    314,
+    442,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    335,
+    387
+   ]
+  },
+  {
+   "text": "2000 – 2002",
+   "bbox": [
+    90,
+    417,
+    206,
+    428
+   ]
+  },
+  {
+   "text": "adatelemző – Szabó és Társa Zrt.",
+   "bbox": [
+    90,
+    437,
+    444,
+    453
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    488,
+    260,
+    511
+   ]
+  },
+  {
+   "text": "1996 – 2001",
+   "bbox": [
+    90,
+    538,
+    199,
+    556
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    561,
+    355,
+    582
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    585,
+    218,
+    604
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    90,
+    626,
+    197,
+    644
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    649,
+    355,
+    670
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    673,
+    167,
+    692
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    724,
+    227,
+    747
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    773,
+    184,
+    792
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    820,
+    219,
+    843
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, SQL, C#, Linux",
+   "bbox": [
+    90,
+    869,
+    356,
+    888
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

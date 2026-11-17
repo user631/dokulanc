@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Julianna",
+  "email": "toth.julianna@gmail.com",
+  "telefon": "+36 20 261 3944",
+  "lakcim": "H-2826 Magyarhetvenkőrös, Pusztatapolcai utca 43.",
+  "szuletesi_datum": "1983. november 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2003 – 2008"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Veres Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2012 – 2013"
+   },
+   {
+    "ceg": "Varga Tech Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2010 – 2012"
+   },
+   {
+    "ceg": "Balogh Trade Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2007 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "csapatmunka",
+   "ügyfélkezelés",
+   "SAP",
+   "Python",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Julianna",
+   "bbox": [
+    466,
+    118,
+    773,
+    154
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    526,
+    188,
+    713,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    241,
+    161,
+    256
+   ]
+  },
+  {
+   "text": "toth.julianna@gmail.com",
+   "bbox": [
+    330,
+    241,
+    567,
+    260
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    272,
+    173,
+    287
+   ]
+  },
+  {
+   "text": "+36 20 261 3944",
+   "bbox": [
+    330,
+    272,
+    492,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    302,
+    171,
+    318
+   ]
+  },
+  {
+   "text": "H-2826 Magyarhetvenkőrös, Pusztatapolcai utca 43.",
+   "bbox": [
+    330,
+    303,
+    832,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    260,
+    349
+   ]
+  },
+  {
+   "text": "1983. november 18.",
+   "bbox": [
+    330,
+    334,
+    522,
+    349
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    385,
+    328,
+    408
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    90,
+    436,
+    210,
+    451
+   ]
+  },
+  {
+   "text": "projektmenedzser – Veres Tech Kft.",
+   "bbox": [
+    90,
+    460,
+    458,
+    480
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    90,
+    502,
+    210,
+    517
+   ]
+  },
+  {
+   "text": "adatelemző – Varga Tech Kft.",
+   "bbox": [
+    90,
+    525,
+    391,
+    546
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    90,
+    568,
+    210,
+    583
+   ]
+  },
+  {
+   "text": "rendszergazda – Balogh Trade Zrt.",
+   "bbox": [
+    90,
+    592,
+    445,
+    612
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    642,
+    250,
+    667
+   ]
+  },
+  {
+   "text": "2003 – 2008",
+   "bbox": [
+    90,
+    695,
+    210,
+    710
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    719,
+    292,
+    739
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    745,
+    350,
+    764
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    786,
+    210,
+    801
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    809,
+    408,
+    830
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    836,
+    335,
+    855
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    885,
+    223,
+    910
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    938,
+    196,
+    957
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    983,
+    220,
+    1008
+   ]
+  },
+  {
+   "text": "SQL, csapatmunka, ügyfélkezelés, SAP, Python, Java",
+   "bbox": [
+    90,
+    1036,
+    608,
+    1055
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

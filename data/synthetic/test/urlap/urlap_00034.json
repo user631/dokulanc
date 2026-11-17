@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Szabó Gusztáv",
+  "anyja_neve": "Kovács Csaba",
+  "szuletesi_hely": "Tapolcanémeti",
+  "szuletesi_datum": "1986.06.17.",
+  "lakcim": "H-2114 Tapolcahida, Mátratamásii utca 165.",
+  "telefon": "+36 20 533 1867",
+  "email": "szabo.gusztav@outlook.com",
+  "adoazonosito_jel": "8436312197",
+  "taj_szam": "913 814 725",
+  "kelt": "Sopron, 2026.12.25."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    409,
+    105,
+    830,
+    140
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    483,
+    159,
+    756,
+    175
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    211,
+    319,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    264,
+    152,
+    278
+   ]
+  },
+  {
+   "text": "Szabó Gusztáv",
+   "bbox": [
+    448,
+    259,
+    583,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    316,
+    209,
+    333
+   ]
+  },
+  {
+   "text": "Kovács Csaba",
+   "bbox": [
+    448,
+    311,
+    574,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    366,
+    228,
+    384
+   ]
+  },
+  {
+   "text": "Tapolcanémeti",
+   "bbox": [
+    447,
+    367,
+    584,
+    388
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    417,
+    220,
+    431
+   ]
+  },
+  {
+   "text": "1986.06.17.",
+   "bbox": [
+    448,
+    414,
+    554,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    468,
+    176,
+    482
+   ]
+  },
+  {
+   "text": "H-2114 Tapolcahida, Mátratamásii utca 165.",
+   "bbox": [
+    448,
+    463,
+    858,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    519,
+    221,
+    533
+   ]
+  },
+  {
+   "text": "+36 20 533 1867",
+   "bbox": [
+    448,
+    515,
+    605,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    570,
+    204,
+    584
+   ]
+  },
+  {
+   "text": "szabo.gusztav@outlook.com",
+   "bbox": [
+    448,
+    570,
+    707,
+    591
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    621,
+    252,
+    639
+   ]
+  },
+  {
+   "text": "8436312197",
+   "bbox": [
+    448,
+    622,
+    558,
+    638
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    672,
+    198,
+    686
+   ]
+  },
+  {
+   "text": "913 814 725",
+   "bbox": [
+    448,
+    673,
+    561,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    749,
+    277,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    793,
+    420,
+    811
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    838,
+    274,
+    852
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    883,
+    440,
+    901
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    985,
+    142,
+    1000
+   ]
+  },
+  {
+   "text": "Sopron, 2026.12.25.",
+   "bbox": [
+    194,
+    982,
+    379,
+    1002
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1033,
+    967,
+    1045
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

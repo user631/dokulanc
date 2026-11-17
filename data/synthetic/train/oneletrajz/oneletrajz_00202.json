@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Oláh András",
+  "email": "olah.andras@freemail.hu",
+  "telefon": "+36 20 796 3085",
+  "lakcim": "H-1176 Érd, Bakonyháti utca 204.",
+  "szuletesi_datum": "1985. október 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Oláh Szolgáltató Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2008 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "C#",
+   "csapatmunka",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Oláh András",
+   "bbox": [
+    451,
+    94,
+    788,
+    135
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    491,
+    165,
+    748,
+    192
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    181,
+    238
+   ]
+  },
+  {
+   "text": "olah.andras@freemail.hu",
+   "bbox": [
+    330,
+    220,
+    621,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    195,
+    271
+   ]
+  },
+  {
+   "text": "+36 20 796 3085",
+   "bbox": [
+    330,
+    254,
+    538,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    190,
+    304
+   ]
+  },
+  {
+   "text": "H-1176 Érd, Bakonyháti utca 204.",
+   "bbox": [
+    330,
+    281,
+    730,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    304,
+    337
+   ]
+  },
+  {
+   "text": "1985. október 23.",
+   "bbox": [
+    330,
+    318,
+    541,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    373,
+    394,
+    399
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    426,
+    241,
+    443
+   ]
+  },
+  {
+   "text": "rendszergazda – Oláh Szolgáltató Kft.",
+   "bbox": [
+    90,
+    451,
+    597,
+    476
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    505,
+    294,
+    532
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    559,
+    241,
+    576
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    585,
+    332,
+    609
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    611,
+    243,
+    635
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    656,
+    241,
+    673
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    681,
+    429,
+    701
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    708,
+    192,
+    732
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    762,
+    260,
+    789
+   ]
+  },
+  {
+   "text": "német (B1), olasz (A2)",
+   "bbox": [
+    90,
+    814,
+    356,
+    838
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    864,
+    250,
+    891
+   ]
+  },
+  {
+   "text": "prezentáció, B kategóriás jogosítvány, C#, csapatmunka, ügyfélkezelés",
+   "bbox": [
+    90,
+    916,
+    922,
+    940
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

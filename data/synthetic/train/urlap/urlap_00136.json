@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Lakatos Jolán",
+  "anyja_neve": "Papp Máté",
+  "szuletesi_hely": "Újgyörgynádasd",
+  "szuletesi_datum": "1981.07.16.",
+  "lakcim": "H-5241 Háza, Budapesti utca 247.",
+  "telefon": "+36 30 991 3901",
+  "email": "lakatos.jolan@outlook.com",
+  "adoazonosito_jel": "8418347279",
+  "taj_szam": "622 338 806",
+  "kelt": "Mosonmagyaróvár, 2025.07.19."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    445,
+    87,
+    795,
+    120
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    194,
+    299,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    250,
+    139,
+    264
+   ]
+  },
+  {
+   "text": "Lakatos Jolán",
+   "bbox": [
+    398,
+    248,
+    532,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    302,
+    201,
+    320
+   ]
+  },
+  {
+   "text": "Papp Máté",
+   "bbox": [
+    398,
+    299,
+    503,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    354,
+    224,
+    372
+   ]
+  },
+  {
+   "text": "Újgyörgynádasd",
+   "bbox": [
+    398,
+    350,
+    555,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    406,
+    214,
+    420
+   ]
+  },
+  {
+   "text": "1981.07.16.",
+   "bbox": [
+    398,
+    402,
+    512,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    458,
+    167,
+    472
+   ]
+  },
+  {
+   "text": "H-5241 Háza, Budapesti utca 247.",
+   "bbox": [
+    398,
+    458,
+    730,
+    478
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    510,
+    216,
+    524
+   ]
+  },
+  {
+   "text": "+36 30 991 3901",
+   "bbox": [
+    398,
+    507,
+    561,
+    523
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    562,
+    194,
+    576
+   ]
+  },
+  {
+   "text": "lakatos.jolan@outlook.com",
+   "bbox": [
+    398,
+    559,
+    658,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    614,
+    248,
+    632
+   ]
+  },
+  {
+   "text": "8418347279",
+   "bbox": [
+    398,
+    615,
+    518,
+    631
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    666,
+    191,
+    680
+   ]
+  },
+  {
+   "text": "622 338 806",
+   "bbox": [
+    398,
+    668,
+    518,
+    684
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    743,
+    251,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    788,
+    439,
+    806
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    833,
+    271,
+    847
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    878,
+    455,
+    896
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    980,
+    127,
+    995
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár, 2025.07.19.",
+   "bbox": [
+    177,
+    976,
+    482,
+    996
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1029,
+    987,
+    1041
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

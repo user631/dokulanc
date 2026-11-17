@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER KFT.",
+  "uzlet_cim": "H-2425 Hídkőrös, Hetvenfalvai tér 85.",
+  "adoszam": "46913258-5-22",
+  "datum": "2025.08.04.",
+  "ido": "09:56",
+  "nyugtaszam": "0802/12163",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 286 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "443"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7038"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2018"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "787"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER KFT.",
+   "bbox": [
+    170,
+    28,
+    464,
+    49
+   ]
+  },
+  {
+   "text": "H-2425 Hídkőrös, Hetvenfalvai tér 85.",
+   "bbox": [
+    95,
+    66,
+    539,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46913258-5-22",
+   "bbox": [
+    185,
+    91,
+    449,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    272,
+    137,
+    362,
+    154
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    181,
+    206,
+    196
+   ]
+  },
+  {
+   "text": "443 C00",
+   "bbox": [
+    519,
+    181,
+    610,
+    196
+   ]
+  },
+  {
+   "text": "3 DB x 2346",
+   "bbox": [
+    24,
+    211,
+    145,
+    224
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    237,
+    141,
+    252
+   ]
+  },
+  {
+   "text": "7038 A00",
+   "bbox": [
+    506,
+    237,
+    610,
+    252
+   ]
+  },
+  {
+   "text": "2 DB x 1009",
+   "bbox": [
+    24,
+    267,
+    145,
+    280
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    293,
+    154,
+    308
+   ]
+  },
+  {
+   "text": "2018 C00",
+   "bbox": [
+    506,
+    293,
+    610,
+    308
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    324,
+    232,
+    339
+   ]
+  },
+  {
+   "text": "787 B00",
+   "bbox": [
+    519,
+    324,
+    610,
+    339
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    363,
+    159,
+    385
+   ]
+  },
+  {
+   "text": "10 286 Ft",
+   "bbox": [
+    475,
+    368,
+    610,
+    385
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    403,
+    154,
+    423
+   ]
+  },
+  {
+   "text": "10 286 Ft",
+   "bbox": [
+    493,
+    408,
+    610,
+    423
+   ]
+  },
+  {
+   "text": "2025.08.04.",
+   "bbox": [
+    24,
+    453,
+    156,
+    466
+   ]
+  },
+  {
+   "text": "09:56",
+   "bbox": [
+    550,
+    453,
+    610,
+    466
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0802/12163",
+   "bbox": [
+    24,
+    480,
+    288,
+    499
+   ]
+  },
+  {
+   "text": "AP A30849948",
+   "bbox": [
+    24,
+    515,
+    168,
+    528
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    185,
+    553,
+    449,
+    572
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  634,
+  618
+ ]
+}

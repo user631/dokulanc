@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/06633",
+  "kiallitas_datuma": "2024-10-08",
+  "teljesites_datuma": "2024-10-05",
+  "fizetesi_hatarido": "2024-10-16",
+  "elado_nev": "Szőke Tech Zrt.",
+  "elado_cim": "H-2412 Belsőmindszentdevecser, Dózsa györgy utca 155.",
+  "elado_adoszam": "94667561-2-39",
+  "vevo_nev": "Hegedűs Imre",
+  "vevo_cim": "H-6572 Magyarhetvenháza, Hídkőrösi utca 83.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU72 6784 0580 4059 8788 3526 3460",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "760 740 Ft",
+  "afa_osszesen": "201 108 Ft",
+  "brutto_osszesen": "961 848 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "26 670",
+    "netto": "320 040",
+    "afa_kulcs": "27%",
+    "afa": "86 411",
+    "brutto": "406 451"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "10 csomag",
+    "egysegar": "4 770",
+    "netto": "47 700",
+    "afa_kulcs": "18%",
+    "afa": "8 586",
+    "brutto": "56 286"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "74 980",
+    "netto": "74 980",
+    "afa_kulcs": "27%",
+    "afa": "20 245",
+    "brutto": "95 225"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "4 770",
+    "netto": "57 240",
+    "afa_kulcs": "27%",
+    "afa": "15 455",
+    "brutto": "72 695"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "260 780",
+    "netto": "260 780",
+    "afa_kulcs": "27%",
+    "afa": "70 411",
+    "brutto": "331 191"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    529,
+    72,
+    713,
+    108
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/06633",
+   "bbox": [
+    459,
+    135,
+    781,
+    157
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    71,
+    215,
+    145,
+    232
+   ]
+  },
+  {
+   "text": "Szőke Tech Zrt.",
+   "bbox": [
+    71,
+    249,
+    247,
+    266
+   ]
+  },
+  {
+   "text": "H-2412 Belsőmindszentdevecser, Dózsa györgy utca 155.",
+   "bbox": [
+    71,
+    281,
+    573,
+    300
+   ]
+  },
+  {
+   "text": "Adószám: 94667561-2-39",
+   "bbox": [
+    70,
+    309,
+    295,
+    328
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    215,
+    694,
+    232
+   ]
+  },
+  {
+   "text": "Hegedűs Imre",
+   "bbox": [
+    630,
+    249,
+    792,
+    271
+   ]
+  },
+  {
+   "text": "H-6572 Magyarhetvenháza, Hídkőrösi utca 83.",
+   "bbox": [
+    630,
+    281,
+    1045,
+    300
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    71,
+    375,
+    248,
+    390
+   ]
+  },
+  {
+   "text": "2024-10-08",
+   "bbox": [
+    371,
+    376,
+    475,
+    394
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    71,
+    405,
+    258,
+    424
+   ]
+  },
+  {
+   "text": "2024-10-05",
+   "bbox": [
+    371,
+    409,
+    474,
+    424
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    71,
+    435,
+    250,
+    450
+   ]
+  },
+  {
+   "text": "2024-10-16",
+   "bbox": [
+    371,
+    436,
+    471,
+    454
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    71,
+    465,
+    207,
+    480
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    371,
+    465,
+    442,
+    480
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    71,
+    506,
+    178,
+    523
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    507,
+    577,
+    523
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    506,
+    751,
+    523
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    834,
+    506,
+    883,
+    519
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    896,
+    503,
+    949,
+    519
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1015,
+    503,
+    1054,
+    519
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1110,
+    506,
+    1169,
+    519
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    510,
+    545,
+    548,
+    558
+   ]
+  },
+  {
+   "text": "26 670",
+   "bbox": [
+    698,
+    546,
+    751,
+    561
+   ]
+  },
+  {
+   "text": "320 040",
+   "bbox": [
+    820,
+    549,
+    883,
+    561
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    546,
+    949,
+    561
+   ]
+  },
+  {
+   "text": "86 411",
+   "bbox": [
+    1005,
+    546,
+    1053,
+    561
+   ]
+  },
+  {
+   "text": "406 451",
+   "bbox": [
+    1109,
+    546,
+    1169,
+    561
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    70,
+    545,
+    208,
+    562
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    510,
+    582,
+    588,
+    595
+   ]
+  },
+  {
+   "text": "4 770",
+   "bbox": [
+    709,
+    582,
+    751,
+    594
+   ]
+  },
+  {
+   "text": "47 700",
+   "bbox": [
+    831,
+    582,
+    883,
+    594
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    918,
+    579,
+    949,
+    591
+   ]
+  },
+  {
+   "text": "8 586",
+   "bbox": [
+    1010,
+    579,
+    1053,
+    594
+   ]
+  },
+  {
+   "text": "56 286",
+   "bbox": [
+    1116,
+    579,
+    1169,
+    594
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    71,
+    578,
+    209,
+    595
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    510,
+    611,
+    540,
+    624
+   ]
+  },
+  {
+   "text": "74 980",
+   "bbox": [
+    698,
+    612,
+    751,
+    627
+   ]
+  },
+  {
+   "text": "74 980",
+   "bbox": [
+    830,
+    612,
+    883,
+    627
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    612,
+    949,
+    627
+   ]
+  },
+  {
+   "text": "20 245",
+   "bbox": [
+    1000,
+    615,
+    1053,
+    627
+   ]
+  },
+  {
+   "text": "95 225",
+   "bbox": [
+    1117,
+    615,
+    1169,
+    627
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    71,
+    611,
+    286,
+    628
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    510,
+    644,
+    569,
+    657
+   ]
+  },
+  {
+   "text": "4 770",
+   "bbox": [
+    709,
+    648,
+    751,
+    660
+   ]
+  },
+  {
+   "text": "57 240",
+   "bbox": [
+    831,
+    648,
+    883,
+    660
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    645,
+    949,
+    660
+   ]
+  },
+  {
+   "text": "15 455",
+   "bbox": [
+    1005,
+    648,
+    1053,
+    660
+   ]
+  },
+  {
+   "text": "72 695",
+   "bbox": [
+    1117,
+    645,
+    1169,
+    660
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    71,
+    644,
+    278,
+    661
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    510,
+    677,
+    582,
+    690
+   ]
+  },
+  {
+   "text": "260 780",
+   "bbox": [
+    688,
+    678,
+    751,
+    693
+   ]
+  },
+  {
+   "text": "260 780",
+   "bbox": [
+    820,
+    678,
+    883,
+    693
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    678,
+    949,
+    693
+   ]
+  },
+  {
+   "text": "70 411",
+   "bbox": [
+    1006,
+    681,
+    1053,
+    693
+   ]
+  },
+  {
+   "text": "331 191",
+   "bbox": [
+    1116,
+    681,
+    1169,
+    693
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    71,
+    677,
+    230,
+    694
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    697,
+    731,
+    839,
+    747
+   ]
+  },
+  {
+   "text": "760 740 Ft",
+   "bbox": [
+    1067,
+    732,
+    1169,
+    751
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    706,
+    761,
+    839,
+    781
+   ]
+  },
+  {
+   "text": "201 108 Ft",
+   "bbox": [
+    1070,
+    766,
+    1169,
+    781
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    720,
+    799,
+    839,
+    820
+   ]
+  },
+  {
+   "text": "961 848 Ft",
+   "bbox": [
+    1057,
+    800,
+    1170,
+    819
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU72 6784 0580 4059 8788 3526 3460",
+   "bbox": [
+    71,
+    863,
+    567,
+    880
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    71,
+    890,
+    561,
+    905
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    448,
+    1667,
+    790,
+    1682
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

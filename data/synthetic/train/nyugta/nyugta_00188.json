@@ -1,0 +1,345 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY CSEMEGE KFT.",
+  "uzlet_cim": "H-9356 Nyíregyháza, Kaposvári utca 20.",
+  "adoszam": "34552698-2-10",
+  "datum": "2026.01.01.",
+  "ido": "11:53",
+  "nyugtaszam": "0312/33151",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 242 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "506"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "237"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "5196"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2082"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "510"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "997"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "392"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "822"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY CSEMEGE KFT.",
+   "bbox": [
+    164,
+    37,
+    437,
+    52
+   ]
+  },
+  {
+   "text": "H-9356 Nyíregyháza, Kaposvári utca 20.",
+   "bbox": [
+    54,
+    71,
+    548,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34552698-2-10",
+   "bbox": [
+    158,
+    96,
+    444,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    249,
+    144,
+    353,
+    160
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    187,
+    150,
+    202
+   ]
+  },
+  {
+   "text": "506 C00",
+   "bbox": [
+    481,
+    187,
+    579,
+    202
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    219,
+    220,
+    238
+   ]
+  },
+  {
+   "text": "237 A00",
+   "bbox": [
+    481,
+    219,
+    579,
+    234
+   ]
+  },
+  {
+   "text": "3 DB x 1732",
+   "bbox": [
+    24,
+    251,
+    167,
+    264
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    278,
+    164,
+    292
+   ]
+  },
+  {
+   "text": "5196 C00",
+   "bbox": [
+    467,
+    277,
+    579,
+    292
+   ]
+  },
+  {
+   "text": "3 DB x 694",
+   "bbox": [
+    24,
+    309,
+    154,
+    322
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    335,
+    150,
+    350
+   ]
+  },
+  {
+   "text": "2082 B00",
+   "bbox": [
+    467,
+    335,
+    579,
+    350
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    367,
+    136,
+    382
+   ]
+  },
+  {
+   "text": "510 B00",
+   "bbox": [
+    481,
+    367,
+    579,
+    382
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    399,
+    136,
+    414
+   ]
+  },
+  {
+   "text": "997 A00",
+   "bbox": [
+    481,
+    399,
+    579,
+    414
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    432,
+    220,
+    446
+   ]
+  },
+  {
+   "text": "392 C00",
+   "bbox": [
+    481,
+    431,
+    579,
+    446
+   ]
+  },
+  {
+   "text": "2 DB x 411",
+   "bbox": [
+    24,
+    463,
+    154,
+    476
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    489,
+    220,
+    504
+   ]
+  },
+  {
+   "text": "822 A00",
+   "bbox": [
+    481,
+    489,
+    579,
+    504
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    530,
+    194,
+    552
+   ]
+  },
+  {
+   "text": "11 242 Ft",
+   "bbox": [
+    426,
+    535,
+    579,
+    552
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    571,
+    165,
+    590
+   ]
+  },
+  {
+   "text": "11 242 Ft",
+   "bbox": [
+    453,
+    575,
+    579,
+    590
+   ]
+  },
+  {
+   "text": "2026.01.01.",
+   "bbox": [
+    24,
+    621,
+    167,
+    635
+   ]
+  },
+  {
+   "text": "11:53",
+   "bbox": [
+    514,
+    621,
+    579,
+    635
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0312/33151",
+   "bbox": [
+    24,
+    650,
+    310,
+    669
+   ]
+  },
+  {
+   "text": "AP A51107926",
+   "bbox": [
+    24,
+    685,
+    180,
+    699
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    195,
+    724,
+    406,
+    744
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  603,
+  788
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZŰCS MARKET BT.",
+  "uzlet_cim": "H-6086 Budakeresztkőrös, Kossuth utca 1.",
+  "adoszam": "90023842-5-32",
+  "datum": "2025.08.29.",
+  "ido": "12:50",
+  "nyugtaszam": "6658/92976",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 432 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "607"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1113"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "712"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZŰCS MARKET BT.",
+   "bbox": [
+    180,
+    31,
+    404,
+    49
+   ]
+  },
+  {
+   "text": "H-6086 Budakeresztkőrös, Kossuth utca 1.",
+   "bbox": [
+    72,
+    63,
+    512,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90023842-5-32",
+   "bbox": [
+    171,
+    88,
+    413,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    131,
+    337,
+    147
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    172,
+    128,
+    187
+   ]
+  },
+  {
+   "text": "607 A00",
+   "bbox": [
+    470,
+    172,
+    561,
+    187
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    201,
+    128,
+    216
+   ]
+  },
+  {
+   "text": "1113 C00",
+   "bbox": [
+    457,
+    201,
+    561,
+    216
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    230,
+    206,
+    245
+   ]
+  },
+  {
+   "text": "712 B00",
+   "bbox": [
+    470,
+    230,
+    561,
+    245
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    269,
+    159,
+    289
+   ]
+  },
+  {
+   "text": "2 432 Ft",
+   "bbox": [
+    441,
+    271,
+    561,
+    289
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    308,
+    154,
+    325
+   ]
+  },
+  {
+   "text": "2 432 Ft",
+   "bbox": [
+    457,
+    310,
+    561,
+    325
+   ]
+  },
+  {
+   "text": "2025.08.29.",
+   "bbox": [
+    24,
+    352,
+    145,
+    366
+   ]
+  },
+  {
+   "text": "12:50",
+   "bbox": [
+    506,
+    352,
+    561,
+    366
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6658/92976",
+   "bbox": [
+    24,
+    380,
+    266,
+    398
+   ]
+  },
+  {
+   "text": "AP A31228876",
+   "bbox": [
+    24,
+    410,
+    156,
+    424
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    232,
+    450,
+    352,
+    466
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  585,
+  511
+ ]
+}

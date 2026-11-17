@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Németh Erika",
+  "email": "nemeth.erika@example.hu",
+  "telefon": "+36 20 143 6865",
+  "lakcim": "H-3741 Mellékfalva, Tamásihalasi utca 8.",
+  "szuletesi_datum": "1975.06.23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "1995 – 1998"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér és Társa Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "1999 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Git",
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "Python",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    193,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    93,
+    166
+   ]
+  },
+  {
+   "text": "nemeth.erika@example.hu",
+   "bbox": [
+    40,
+    174,
+    237,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    205,
+    104,
+    218
+   ]
+  },
+  {
+   "text": "+36 20 143 6865",
+   "bbox": [
+    40,
+    227,
+    166,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    100,
+    270
+   ]
+  },
+  {
+   "text": "H-3741 Mellékfalva, Tamásihalasi utca 8.",
+   "bbox": [
+    40,
+    277,
+    343,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    308,
+    177,
+    322
+   ]
+  },
+  {
+   "text": "1975.06.23.",
+   "bbox": [
+    40,
+    331,
+    127,
+    343
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    387,
+    181,
+    408
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    428,
+    124,
+    446
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    479,
+    164,
+    500
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    520,
+    144,
+    538
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    546,
+    62,
+    559
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    570,
+    129,
+    588
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    595,
+    233,
+    613
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    620,
+    95,
+    638
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    646,
+    82,
+    659
+   ]
+  },
+  {
+   "text": "Németh Erika",
+   "bbox": [
+    450,
+    116,
+    745,
+    152
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    183,
+    637,
+    207
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    686,
+    268
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    450,
+    294,
+    552,
+    308
+   ]
+  },
+  {
+   "text": "projektmenedzser – Pintér és Társa Kft.",
+   "bbox": [
+    450,
+    315,
+    851,
+    336
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    366,
+    608,
+    389
+   ]
+  },
+  {
+   "text": "1995 – 1998",
+   "bbox": [
+    450,
+    415,
+    552,
+    429
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    432,
+    616,
+    457
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    460,
+    668,
+    479
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    450,
+    500,
+    552,
+    514
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    521,
+    754,
+    542
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    545,
+    522,
+    564
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2026/04482",
+  "kiallitas_datuma": "2026. június 4.",
+  "teljesites_datuma": "2026. május 31.",
+  "fizetesi_hatarido": "2026. június 12.",
+  "elado_nev": "Németh Szolgáltató Zrt.",
+  "elado_cim": "H-9550 Budapest, Mosonmagyaróvári utca 115.",
+  "elado_adoszam": "84440901-2-40",
+  "vevo_nev": "Rácz Arnold",
+  "vevo_cim": "H-9042 Érd, Szigetszentmiklósi utca 105.",
+  "vevo_adoszam": null,
+  "bankszamla": "60013747-30973813",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "342 300 Ft",
+  "afa_osszesen": "92 421 Ft",
+  "brutto_osszesen": "434 721 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "3 db",
+    "egysegar": "114 100",
+    "netto": "342 300",
+    "afa_kulcs": "27%",
+    "afa": "92 421",
+    "brutto": "434 721"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH",
+   "bbox": [
+    96,
+    107,
+    213,
+    129
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    742,
+    91,
+    1165,
+    122
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/04482",
+   "bbox": [
+    897,
+    149,
+    1165,
+    171
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    74,
+    229,
+    139,
+    246
+   ]
+  },
+  {
+   "text": "Rácz Arnold",
+   "bbox": [
+    75,
+    263,
+    216,
+    280
+   ]
+  },
+  {
+   "text": "H-9042 Érd, Szigetszentmiklósi utca 105.",
+   "bbox": [
+    75,
+    291,
+    442,
+    314
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    229,
+    704,
+    246
+   ]
+  },
+  {
+   "text": "Németh Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    263,
+    901,
+    285
+   ]
+  },
+  {
+   "text": "H-9550 Budapest, Mosonmagyaróvári utca 115.",
+   "bbox": [
+    630,
+    295,
+    1051,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 84440901-2-40",
+   "bbox": [
+    629,
+    323,
+    859,
+    342
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    388,
+    220,
+    401
+   ]
+  },
+  {
+   "text": "2026. június 4.",
+   "bbox": [
+    75,
+    415,
+    204,
+    433
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    388,
+    503,
+    405
+   ]
+  },
+  {
+   "text": "2026. május 31.",
+   "bbox": [
+    347,
+    415,
+    482,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    388,
+    767,
+    401
+   ]
+  },
+  {
+   "text": "2026. június 12.",
+   "bbox": [
+    619,
+    415,
+    756,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    388,
+    1003,
+    401
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    890,
+    415,
+    987,
+    433
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    462,
+    182,
+    479
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    463,
+    578,
+    479
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    462,
+    750,
+    479
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    832,
+    462,
+    881,
+    475
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    459,
+    947,
+    475
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1012,
+    459,
+    1051,
+    475
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    462,
+    1165,
+    475
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    511,
+    501,
+    544,
+    517
+   ]
+  },
+  {
+   "text": "114 100",
+   "bbox": [
+    695,
+    505,
+    750,
+    517
+   ]
+  },
+  {
+   "text": "342 300",
+   "bbox": [
+    819,
+    505,
+    881,
+    517
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    914,
+    502,
+    947,
+    517
+   ]
+  },
+  {
+   "text": "92 421",
+   "bbox": [
+    999,
+    505,
+    1050,
+    517
+   ]
+  },
+  {
+   "text": "434 721",
+   "bbox": [
+    1106,
+    505,
+    1165,
+    517
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    75,
+    501,
+    167,
+    517
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    693,
+    555,
+    835,
+    571
+   ]
+  },
+  {
+   "text": "342 300 Ft",
+   "bbox": [
+    1061,
+    556,
+    1165,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    702,
+    585,
+    835,
+    605
+   ]
+  },
+  {
+   "text": "92 421 Ft",
+   "bbox": [
+    1078,
+    590,
+    1165,
+    609
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    646,
+    623,
+    835,
+    644
+   ]
+  },
+  {
+   "text": "434 721 Ft",
+   "bbox": [
+    1057,
+    624,
+    1166,
+    643
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 60013747-30973813",
+   "bbox": [
+    75,
+    687,
+    403,
+    704
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    448,
+    1663,
+    790,
+    1678
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

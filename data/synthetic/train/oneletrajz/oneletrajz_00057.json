@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tóth Gábor",
+  "email": "toth.gabor@gmail.com",
+  "telefon": "+36 70 434 6874",
+  "lakcim": "H-7764 Mosonmindszentapáti, Tapolcavárai utca 85.",
+  "szuletesi_datum": "2003.08.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2023 – 2027"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Consulting Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2031 – jelenleg"
+   },
+   {
+    "ceg": "Varga Consulting Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "ügyfélkezelés",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Gábor",
+   "bbox": [
+    483,
+    94,
+    757,
+    135
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    165,
+    731,
+    192
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    172,
+    238
+   ]
+  },
+  {
+   "text": "toth.gabor@gmail.com",
+   "bbox": [
+    330,
+    220,
+    560,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    185,
+    271
+   ]
+  },
+  {
+   "text": "+36 70 434 6874",
+   "bbox": [
+    330,
+    254,
+    511,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    180,
+    304
+   ]
+  },
+  {
+   "text": "H-7764 Mosonmindszentapáti, Tapolcavárai utca 85.",
+   "bbox": [
+    330,
+    285,
+    862,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    286,
+    337
+   ]
+  },
+  {
+   "text": "2003.08.31.",
+   "bbox": [
+    330,
+    320,
+    455,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    373,
+    362,
+    399
+   ]
+  },
+  {
+   "text": "2031 – jelenleg",
+   "bbox": [
+    90,
+    425,
+    247,
+    448
+   ]
+  },
+  {
+   "text": "irodavezető – Nagy Consulting Bt.",
+   "bbox": [
+    90,
+    451,
+    497,
+    476
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    495,
+    247,
+    518
+   ]
+  },
+  {
+   "text": "irodavezető – Varga Consulting Zrt.",
+   "bbox": [
+    90,
+    521,
+    513,
+    546
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    575,
+    274,
+    602
+   ]
+  },
+  {
+   "text": "2023 – 2027",
+   "bbox": [
+    90,
+    629,
+    221,
+    646
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    654,
+    706,
+    679
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    681,
+    284,
+    705
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    726,
+    221,
+    743
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    751,
+    376,
+    776
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    778,
+    347,
+    802
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    832,
+    242,
+    859
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    885,
+    197,
+    908
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    934,
+    233,
+    961
+   ]
+  },
+  {
+   "text": "Linux, ügyfélkezelés, SQL",
+   "bbox": [
+    90,
+    986,
+    345,
+    1010
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

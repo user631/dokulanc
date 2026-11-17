@@ -1,0 +1,321 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ DISZKONT KFT.",
+  "uzlet_cim": "H-9719 Veszprém, Lajoshídi utca 65.",
+  "adoszam": "90884252-5-02",
+  "datum": "2026.03.24.",
+  "ido": "11:33",
+  "nyugtaszam": "1560/58471",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 783 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1845"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "791"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2670"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "309"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "695"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1327"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1146"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ DISZKONT KFT.",
+   "bbox": [
+    151,
+    28,
+    417,
+    50
+   ]
+  },
+  {
+   "text": "H-9719 Veszprém, Lajoshídi utca 65.",
+   "bbox": [
+    74,
+    67,
+    494,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90884252-5-02",
+   "bbox": [
+    152,
+    92,
+    416,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    239,
+    139,
+    330,
+    157
+   ]
+  },
+  {
+   "text": "3 DB x 615",
+   "bbox": [
+    24,
+    185,
+    144,
+    198
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    211,
+    167,
+    226
+   ]
+  },
+  {
+   "text": "1845 A00",
+   "bbox": [
+    440,
+    211,
+    544,
+    226
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    243,
+    128,
+    258
+   ]
+  },
+  {
+   "text": "791 A00",
+   "bbox": [
+    453,
+    243,
+    544,
+    258
+   ]
+  },
+  {
+   "text": "3 DB x 890",
+   "bbox": [
+    24,
+    275,
+    144,
+    288
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    301,
+    180,
+    316
+   ]
+  },
+  {
+   "text": "2670 C00",
+   "bbox": [
+    440,
+    301,
+    544,
+    316
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    333,
+    206,
+    348
+   ]
+  },
+  {
+   "text": "309 A00",
+   "bbox": [
+    453,
+    333,
+    544,
+    348
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    365,
+    141,
+    380
+   ]
+  },
+  {
+   "text": "695 B00",
+   "bbox": [
+    453,
+    365,
+    544,
+    380
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    397,
+    193,
+    412
+   ]
+  },
+  {
+   "text": "1327 A00",
+   "bbox": [
+    440,
+    397,
+    544,
+    412
+   ]
+  },
+  {
+   "text": "3 DB x 382",
+   "bbox": [
+    24,
+    429,
+    144,
+    442
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    455,
+    206,
+    470
+   ]
+  },
+  {
+   "text": "1146 A00",
+   "bbox": [
+    440,
+    455,
+    544,
+    470
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    494,
+    159,
+    517
+   ]
+  },
+  {
+   "text": "8 783 Ft",
+   "bbox": [
+    424,
+    499,
+    544,
+    517
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    536,
+    128,
+    556
+   ]
+  },
+  {
+   "text": "8 783 Ft",
+   "bbox": [
+    440,
+    540,
+    544,
+    556
+   ]
+  },
+  {
+   "text": "2026.03.24.",
+   "bbox": [
+    24,
+    587,
+    156,
+    601
+   ]
+  },
+  {
+   "text": "11:33",
+   "bbox": [
+    484,
+    587,
+    544,
+    601
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1560/58471",
+   "bbox": [
+    24,
+    614,
+    288,
+    635
+   ]
+  },
+  {
+   "text": "AP A24764567",
+   "bbox": [
+    24,
+    651,
+    168,
+    665
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    219,
+    691,
+    349,
+    710
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  568,
+  756
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH KISBOLT KFT.",
+  "uzlet_cim": "H-8625 Györgyhalas, Salgótarjáni utca 150.",
+  "adoszam": "53803649-2-29",
+  "datum": "2025.03.21.",
+  "ido": "07:14",
+  "nyugtaszam": "9248/72523",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 289 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "870"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1560"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1332"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "765"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "577"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "226"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1071"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1370"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "878"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "640"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH KISBOLT KFT.",
+   "bbox": [
+    127,
+    31,
+    407,
+    49
+   ]
+  },
+  {
+   "text": "H-8625 Györgyhalas, Salgótarjáni utca 150.",
+   "bbox": [
+    36,
+    63,
+    498,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53803649-2-29",
+   "bbox": [
+    146,
+    88,
+    388,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    131,
+    312,
+    147
+   ]
+  },
+  {
+   "text": "2 DB x 435",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    195,
+    167,
+    210
+   ]
+  },
+  {
+   "text": "870 A00",
+   "bbox": [
+    420,
+    195,
+    511,
+    210
+   ]
+  },
+  {
+   "text": "3 DB x 520",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    247,
+    128,
+    262
+   ]
+  },
+  {
+   "text": "1560 C00",
+   "bbox": [
+    407,
+    247,
+    511,
+    262
+   ]
+  },
+  {
+   "text": "3 DB x 444",
+   "bbox": [
+    24,
+    276,
+    134,
+    289
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    299,
+    206,
+    314
+   ]
+  },
+  {
+   "text": "1332 A00",
+   "bbox": [
+    407,
+    299,
+    511,
+    314
+   ]
+  },
+  {
+   "text": "3 DB x 255",
+   "bbox": [
+    24,
+    328,
+    134,
+    341
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    351,
+    206,
+    369
+   ]
+  },
+  {
+   "text": "765 B00",
+   "bbox": [
+    420,
+    351,
+    511,
+    366
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    380,
+    128,
+    395
+   ]
+  },
+  {
+   "text": "577 B00",
+   "bbox": [
+    420,
+    380,
+    511,
+    395
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    411,
+    193,
+    424
+   ]
+  },
+  {
+   "text": "226 A00",
+   "bbox": [
+    420,
+    409,
+    511,
+    424
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    438,
+    180,
+    453
+   ]
+  },
+  {
+   "text": "1071 C00",
+   "bbox": [
+    407,
+    438,
+    511,
+    453
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    469,
+    193,
+    482
+   ]
+  },
+  {
+   "text": "1370 B00",
+   "bbox": [
+    407,
+    467,
+    511,
+    482
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    496,
+    232,
+    511
+   ]
+  },
+  {
+   "text": "878 B00",
+   "bbox": [
+    420,
+    496,
+    511,
+    511
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    525,
+    128,
+    540
+   ]
+  },
+  {
+   "text": "640 C00",
+   "bbox": [
+    420,
+    525,
+    511,
+    540
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    564,
+    174,
+    584
+   ]
+  },
+  {
+   "text": "9 289 Ft",
+   "bbox": [
+    391,
+    566,
+    511,
+    584
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    603,
+    154,
+    620
+   ]
+  },
+  {
+   "text": "9 289 Ft",
+   "bbox": [
+    407,
+    605,
+    511,
+    620
+   ]
+  },
+  {
+   "text": "2025.03.21.",
+   "bbox": [
+    24,
+    647,
+    145,
+    661
+   ]
+  },
+  {
+   "text": "07:14",
+   "bbox": [
+    456,
+    647,
+    511,
+    661
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9248/72523",
+   "bbox": [
+    24,
+    675,
+    266,
+    693
+   ]
+  },
+  {
+   "text": "AP A13593801",
+   "bbox": [
+    24,
+    705,
+    156,
+    719
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    135,
+    745,
+    399,
+    761
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  535,
+  806
+ ]
+}

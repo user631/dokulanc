@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2024/09553",
+  "kiallitas_datuma": "2024. 02. 25.",
+  "teljesites_datuma": "2024. 02. 21.",
+  "fizetesi_hatarido": "2024. 03. 11.",
+  "elado_nev": "Szabó és Társa Zrt.",
+  "elado_cim": "H-6797 Miskolc, Salgótarjáni utca 48.",
+  "elado_adoszam": "69332728-2-09",
+  "vevo_nev": "Bálint Consulting Kft.",
+  "vevo_cim": "H-3794 Tiszakeresztdevecser, Dózsa györgy utca 193.",
+  "vevo_adoszam": "46824756-5-09",
+  "bankszamla": "HU55 3534 2478 5208 1183 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "29 150 Ft",
+  "afa_osszesen": "7 871 Ft",
+  "brutto_osszesen": "37 021 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "9 470",
+    "netto": "9 470",
+    "afa_kulcs": "27%",
+    "afa": "2 557",
+    "brutto": "12 027"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "2 oldal",
+    "egysegar": "6 300",
+    "netto": "12 600",
+    "afa_kulcs": "27%",
+    "afa": "3 402",
+    "brutto": "16 002"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "7 080",
+    "netto": "7 080",
+    "afa_kulcs": "27%",
+    "afa": "1 912",
+    "brutto": "8 992"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    132,
+    124,
+    210,
+    146
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1016,
+    115,
+    1149,
+    145
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2024/09553",
+   "bbox": [
+    905,
+    168,
+    1149,
+    188
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    91,
+    249,
+    149,
+    265
+   ]
+  },
+  {
+   "text": "Bálint Consulting Kft.",
+   "bbox": [
+    91,
+    282,
+    311,
+    304
+   ]
+  },
+  {
+   "text": "H-3794 Tiszakeresztdevecser, Dózsa györgy utca 193.",
+   "bbox": [
+    91,
+    314,
+    555,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 46824756-5-09",
+   "bbox": [
+    91,
+    342,
+    318,
+    357
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    248,
+    693,
+    265
+   ]
+  },
+  {
+   "text": "Szabó és Társa Zrt.",
+   "bbox": [
+    630,
+    282,
+    825,
+    299
+   ]
+  },
+  {
+   "text": "H-6797 Miskolc, Salgótarjáni utca 48.",
+   "bbox": [
+    630,
+    314,
+    955,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 69332728-2-09",
+   "bbox": [
+    630,
+    342,
+    857,
+    357
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    91,
+    407,
+    221,
+    420
+   ]
+  },
+  {
+   "text": "2024. 02. 25.",
+   "bbox": [
+    91,
+    435,
+    193,
+    448
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    407,
+    495,
+    424
+   ]
+  },
+  {
+   "text": "2024. 02. 21.",
+   "bbox": [
+    355,
+    435,
+    457,
+    448
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    407,
+    751,
+    420
+   ]
+  },
+  {
+   "text": "2024. 03. 11.",
+   "bbox": [
+    619,
+    435,
+    721,
+    448
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    407,
+    984,
+    420
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    883,
+    434,
+    949,
+    448
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    481,
+    189,
+    498
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    482,
+    573,
+    498
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    481,
+    746,
+    498
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    481,
+    873,
+    494
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    478,
+    937,
+    494
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    478,
+    1037,
+    494
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    481,
+    1149,
+    494
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    520,
+    548,
+    533
+   ]
+  },
+  {
+   "text": "9 470",
+   "bbox": [
+    705,
+    521,
+    746,
+    533
+   ]
+  },
+  {
+   "text": "9 470",
+   "bbox": [
+    832,
+    521,
+    873,
+    533
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    521,
+    937,
+    533
+   ]
+  },
+  {
+   "text": "2 557",
+   "bbox": [
+    996,
+    521,
+    1037,
+    533
+   ]
+  },
+  {
+   "text": "12 027",
+   "bbox": [
+    1099,
+    521,
+    1149,
+    533
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    91,
+    520,
+    220,
+    533
+   ]
+  },
+  {
+   "text": "2 oldal",
+   "bbox": [
+    514,
+    553,
+    565,
+    566
+   ]
+  },
+  {
+   "text": "6 300",
+   "bbox": [
+    705,
+    554,
+    746,
+    566
+   ]
+  },
+  {
+   "text": "12 600",
+   "bbox": [
+    823,
+    554,
+    873,
+    566
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    554,
+    937,
+    566
+   ]
+  },
+  {
+   "text": "3 402",
+   "bbox": [
+    996,
+    554,
+    1037,
+    566
+   ]
+  },
+  {
+   "text": "16 002",
+   "bbox": [
+    1099,
+    554,
+    1149,
+    566
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    91,
+    553,
+    296,
+    570
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    586,
+    548,
+    599
+   ]
+  },
+  {
+   "text": "7 080",
+   "bbox": [
+    705,
+    587,
+    746,
+    599
+   ]
+  },
+  {
+   "text": "7 080",
+   "bbox": [
+    832,
+    587,
+    873,
+    599
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    587,
+    937,
+    599
+   ]
+  },
+  {
+   "text": "1 912",
+   "bbox": [
+    996,
+    587,
+    1037,
+    599
+   ]
+  },
+  {
+   "text": "8 992",
+   "bbox": [
+    1108,
+    587,
+    1149,
+    599
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    91,
+    586,
+    188,
+    603
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    672,
+    641,
+    819,
+    656
+   ]
+  },
+  {
+   "text": "29 150 Ft",
+   "bbox": [
+    1065,
+    641,
+    1149,
+    656
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    687,
+    671,
+    819,
+    690
+   ]
+  },
+  {
+   "text": "7 871 Ft",
+   "bbox": [
+    1076,
+    675,
+    1149,
+    690
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    644,
+    708,
+    819,
+    729
+   ]
+  },
+  {
+   "text": "37 021 Ft",
+   "bbox": [
+    1058,
+    709,
+    1149,
+    724
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU55 3534 2478 5208 1183 0000 0000",
+   "bbox": [
+    91,
+    772,
+    558,
+    786
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    91,
+    799,
+    561,
+    815
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    452,
+    1648,
+    787,
+    1662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

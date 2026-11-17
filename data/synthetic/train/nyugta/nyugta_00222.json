@@ -1,0 +1,358 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY KISBOLT BT.",
+  "uzlet_cim": "H-5021 Székesfehérvár, Tamásihalasi tér 186.",
+  "adoszam": "75616205-2-37",
+  "datum": "2026.07.03.",
+  "ido": "17:55",
+  "nyugtaszam": "9772/20303",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 713 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "787"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "759"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "246"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "725"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1393"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "603"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1340"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1601"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "249"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY KISBOLT BT.",
+   "bbox": [
+    138,
+    37,
+    395,
+    52
+   ]
+  },
+  {
+   "text": "H-5021 Székesfehérvár, Tamásihalasi",
+   "bbox": [
+    39,
+    71,
+    494,
+    88
+   ]
+  },
+  {
+   "text": "tér 186.",
+   "bbox": [
+    215,
+    99,
+    319,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 75616205-2-37",
+   "bbox": [
+    124,
+    124,
+    410,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    215,
+    172,
+    319,
+    188
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    215,
+    136,
+    230
+   ]
+  },
+  {
+   "text": "787 A00",
+   "bbox": [
+    413,
+    215,
+    511,
+    230
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    247,
+    150,
+    262
+   ]
+  },
+  {
+   "text": "759 C00",
+   "bbox": [
+    413,
+    247,
+    511,
+    262
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    280,
+    207,
+    294
+   ]
+  },
+  {
+   "text": "246 A00",
+   "bbox": [
+    413,
+    279,
+    511,
+    294
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    311,
+    136,
+    326
+   ]
+  },
+  {
+   "text": "725 C00",
+   "bbox": [
+    413,
+    311,
+    511,
+    326
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    344,
+    206,
+    358
+   ]
+  },
+  {
+   "text": "1393 A00",
+   "bbox": [
+    399,
+    343,
+    511,
+    358
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    375,
+    178,
+    390
+   ]
+  },
+  {
+   "text": "603 B00",
+   "bbox": [
+    413,
+    375,
+    511,
+    390
+   ]
+  },
+  {
+   "text": "2 DB x 670",
+   "bbox": [
+    24,
+    407,
+    154,
+    420
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    433,
+    220,
+    448
+   ]
+  },
+  {
+   "text": "1340 C00",
+   "bbox": [
+    399,
+    433,
+    511,
+    448
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    466,
+    164,
+    480
+   ]
+  },
+  {
+   "text": "1601 C00",
+   "bbox": [
+    399,
+    465,
+    511,
+    480
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    497,
+    220,
+    516
+   ]
+  },
+  {
+   "text": "249 A00",
+   "bbox": [
+    413,
+    497,
+    511,
+    512
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    538,
+    194,
+    560
+   ]
+  },
+  {
+   "text": "7 713 Ft",
+   "bbox": [
+    375,
+    543,
+    511,
+    560
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    579,
+    165,
+    598
+   ]
+  },
+  {
+   "text": "7 713 Ft",
+   "bbox": [
+    399,
+    583,
+    511,
+    598
+   ]
+  },
+  {
+   "text": "2026.07.03.",
+   "bbox": [
+    24,
+    629,
+    167,
+    643
+   ]
+  },
+  {
+   "text": "17:55",
+   "bbox": [
+    446,
+    629,
+    511,
+    643
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9772/20303",
+   "bbox": [
+    24,
+    658,
+    310,
+    677
+   ]
+  },
+  {
+   "text": "AP A72365815",
+   "bbox": [
+    24,
+    693,
+    180,
+    707
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    197,
+    734,
+    337,
+    752
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  535,
+  796
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Budai Ágnes",
+  "anyja_neve": "Oláh Gergő",
+  "szuletesi_hely": "Fa",
+  "szuletesi_datum": "1998. 11. 05.",
+  "lakcim": "H-3188 Budatamásiváros, Nagykanizsai utca 130.",
+  "telefon": "+36 70 887 6982",
+  "email": "budai.agnes@outlook.com",
+  "adoazonosito_jel": "8481554367",
+  "taj_szam": "321 792 738",
+  "kelt": "Egyházasmártonbánya, 2026. 09. 09."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    415,
+    86,
+    825,
+    121
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    474,
+    140,
+    765,
+    158
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    195,
+    297,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    247,
+    132,
+    262
+   ]
+  },
+  {
+   "text": "Budai Ágnes",
+   "bbox": [
+    391,
+    242,
+    519,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    300,
+    192,
+    320
+   ]
+  },
+  {
+   "text": "Oláh Gergő",
+   "bbox": [
+    391,
+    300,
+    508,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    353,
+    214,
+    373
+   ]
+  },
+  {
+   "text": "Fa",
+   "bbox": [
+    391,
+    352,
+    414,
+    368
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    406,
+    207,
+    421
+   ]
+  },
+  {
+   "text": "1998. 11. 05.",
+   "bbox": [
+    391,
+    410,
+    514,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    459,
+    157,
+    474
+   ]
+  },
+  {
+   "text": "H-3188 Budatamásiváros, Nagykanizsai utca 130.",
+   "bbox": [
+    391,
+    458,
+    886,
+    481
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    512,
+    205,
+    527
+   ]
+  },
+  {
+   "text": "+36 70 887 6982",
+   "bbox": [
+    391,
+    512,
+    557,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    565,
+    188,
+    580
+   ]
+  },
+  {
+   "text": "budai.agnes@outlook.com",
+   "bbox": [
+    391,
+    562,
+    664,
+    584
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    618,
+    245,
+    638
+   ]
+  },
+  {
+   "text": "8481554367",
+   "bbox": [
+    391,
+    616,
+    511,
+    632
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    671,
+    176,
+    686
+   ]
+  },
+  {
+   "text": "321 792 738",
+   "bbox": [
+    391,
+    671,
+    511,
+    687
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    753,
+    258,
+    775
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    795,
+    427,
+    815
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    840,
+    265,
+    855
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    885,
+    447,
+    905
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    990,
+    121,
+    1006
+   ]
+  },
+  {
+   "text": "Egyházasmártonbánya, 2026. 09. 09.",
+   "bbox": [
+    171,
+    986,
+    535,
+    1009
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1039,
+    993,
+    1052
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács László",
+  "email": "kovacs.laszlo@freemail.hu",
+  "telefon": "+36 20 694 9510",
+  "lakcim": "H-4639 Szombathely, Szegedi utca 8.",
+  "szuletesi_datum": "1990.07.15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Simon Szolgáltató Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2018 – 2020"
+   },
+   {
+    "ceg": "Tamás Logisztika Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "ügyfélkezelés",
+   "Git",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács László",
+   "bbox": [
+    472,
+    117,
+    767,
+    151
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    529,
+    184,
+    710,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    235,
+    155,
+    250
+   ]
+  },
+  {
+   "text": "kovacs.laszlo@freemail.hu",
+   "bbox": [
+    330,
+    235,
+    570,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    169,
+    280
+   ]
+  },
+  {
+   "text": "+36 20 694 9510",
+   "bbox": [
+    330,
+    266,
+    468,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    163,
+    310
+   ]
+  },
+  {
+   "text": "H-4639 Szombathely, Szegedi utca 8.",
+   "bbox": [
+    330,
+    295,
+    663,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    249,
+    340
+   ]
+  },
+  {
+   "text": "1990.07.15.",
+   "bbox": [
+    330,
+    326,
+    431,
+    340
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    315,
+    399
+   ]
+  },
+  {
+   "text": "2018 – 2020",
+   "bbox": [
+    90,
+    426,
+    189,
+    440
+   ]
+  },
+  {
+   "text": "értékesítő – Simon Szolgáltató Bt.",
+   "bbox": [
+    90,
+    449,
+    417,
+    469
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    490,
+    189,
+    504
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Tamás Logisztika Bt.",
+   "bbox": [
+    90,
+    513,
+    570,
+    533
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    564,
+    242,
+    587
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    90,
+    614,
+    189,
+    628
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    637,
+    419,
+    657
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    660,
+    233,
+    680
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    702,
+    189,
+    716
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    725,
+    324,
+    745
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    749,
+    271,
+    768
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    800,
+    214,
+    823
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    848,
+    189,
+    868
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    896,
+    206,
+    919
+   ]
+  },
+  {
+   "text": "Python, ügyfélkezelés, Git, Docker",
+   "bbox": [
+    90,
+    944,
+    403,
+    964
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

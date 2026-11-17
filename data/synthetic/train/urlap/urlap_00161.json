@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Nagy Krisztina",
+  "anyja_neve": "Gál Judit",
+  "szuletesi_hely": "Debrecen",
+  "szuletesi_datum": "1994.11.04.",
+  "lakcim": "H-5987 Mosonmagyaróvár, Szentfürdői utca 161.",
+  "telefon": "06 1 216 9444",
+  "email": "nagy.krisztina@freemail.hu",
+  "adoazonosito_jel": "8466934375",
+  "taj_szam": "888 198 853",
+  "kelt": "Mártonfa, 2026.06.19."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    427,
+    97,
+    813,
+    134
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    457,
+    153,
+    783,
+    170
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    206,
+    354,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    260,
+    154,
+    275
+   ]
+  },
+  {
+   "text": "Nagy Krisztina",
+   "bbox": [
+    432,
+    261,
+    591,
+    281
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    313,
+    224,
+    331
+   ]
+  },
+  {
+   "text": "Gál Judit",
+   "bbox": [
+    432,
+    307,
+    529,
+    325
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    364,
+    248,
+    383
+   ]
+  },
+  {
+   "text": "Debrecen",
+   "bbox": [
+    432,
+    362,
+    536,
+    379
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    416,
+    238,
+    431
+   ]
+  },
+  {
+   "text": "1994.11.04.",
+   "bbox": [
+    432,
+    418,
+    568,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    468,
+    184,
+    483
+   ]
+  },
+  {
+   "text": "H-5987 Mosonmagyaróvár, Szentfürdői utca 161.",
+   "bbox": [
+    432,
+    469,
+    980,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    520,
+    237,
+    535
+   ]
+  },
+  {
+   "text": "06 1 216 9444",
+   "bbox": [
+    432,
+    522,
+    596,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    572,
+    218,
+    587
+   ]
+  },
+  {
+   "text": "nagy.krisztina@freemail.hu",
+   "bbox": [
+    432,
+    570,
+    734,
+    591
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    624,
+    276,
+    643
+   ]
+  },
+  {
+   "text": "8466934375",
+   "bbox": [
+    432,
+    621,
+    572,
+    637
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    676,
+    208,
+    691
+   ]
+  },
+  {
+   "text": "888 198 853",
+   "bbox": [
+    432,
+    676,
+    574,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    755,
+    301,
+    776
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    798,
+    474,
+    817
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    843,
+    296,
+    858
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    888,
+    495,
+    907
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    991,
+    145,
+    1007
+   ]
+  },
+  {
+   "text": "Mártonfa, 2026.06.19.",
+   "bbox": [
+    187,
+    987,
+    437,
+    1009
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    926,
+    1040,
+    979,
+    1053
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

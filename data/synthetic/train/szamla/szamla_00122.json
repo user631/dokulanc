@@ -1,0 +1,417 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/01431",
+  "kiallitas_datuma": "2026.04.12.",
+  "teljesites_datuma": "2026.04.09.",
+  "fizetesi_hatarido": "2026.04.27.",
+  "elado_nev": "Gál Consulting Kft.",
+  "elado_cim": "H-8416 Mosonmártondevecser, Ligetfalvai utca 6.",
+  "elado_adoszam": "97422101-5-11",
+  "vevo_nev": "Kovács Consulting Zrt.",
+  "vevo_cim": "H-3993 Mindszentvárad, Nagyfürdői utca 84.",
+  "vevo_adoszam": "15590662-3-15",
+  "bankszamla": "49478330-82959795",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 860 Ft",
+  "afa_osszesen": "502 Ft",
+  "brutto_osszesen": "2 362 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "1 860",
+    "netto": "1 860",
+    "afa_kulcs": "27%",
+    "afa": "502",
+    "brutto": "2 362"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "GÁL",
+   "bbox": [
+    143,
+    122,
+    197,
+    144
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    950,
+    101,
+    1152,
+    141
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/01431",
+   "bbox": [
+    870,
+    165,
+    1150,
+    189
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    244,
+    177,
+    264
+   ]
+  },
+  {
+   "text": "Gál Consulting Kft.",
+   "bbox": [
+    90,
+    282,
+    345,
+    308
+   ]
+  },
+  {
+   "text": "H-8416 Mosonmártondevecser, Ligetfalvai utca",
+   "bbox": [
+    90,
+    319,
+    594,
+    342
+   ]
+  },
+  {
+   "text": "6.",
+   "bbox": [
+    90,
+    352,
+    110,
+    369
+   ]
+  },
+  {
+   "text": "Adószám: 97422101-5-11",
+   "bbox": [
+    89,
+    383,
+    353,
+    405
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    244,
+    707,
+    264
+   ]
+  },
+  {
+   "text": "Kovács Consulting Zrt.",
+   "bbox": [
+    630,
+    282,
+    936,
+    308
+   ]
+  },
+  {
+   "text": "H-3993 Mindszentvárad, Nagyfürdői utca 84.",
+   "bbox": [
+    630,
+    319,
+    1114,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 15590662-3-15",
+   "bbox": [
+    629,
+    351,
+    901,
+    373
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    90,
+    452,
+    268,
+    468
+   ]
+  },
+  {
+   "text": "2026.04.12.",
+   "bbox": [
+    90,
+    484,
+    211,
+    504
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    452,
+    544,
+    473
+   ]
+  },
+  {
+   "text": "2026.04.09.",
+   "bbox": [
+    355,
+    484,
+    480,
+    504
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    452,
+    800,
+    468
+   ]
+  },
+  {
+   "text": "2026.04.27.",
+   "bbox": [
+    620,
+    484,
+    743,
+    504
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    452,
+    1020,
+    468
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    885,
+    483,
+    967,
+    500
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    534,
+    220,
+    555
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    535,
+    595,
+    555
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    534,
+    747,
+    555
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    534,
+    874,
+    550
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    530,
+    938,
+    550
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    991,
+    530,
+    1039,
+    550
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1080,
+    534,
+    1150,
+    550
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    514,
+    582,
+    599,
+    598
+   ]
+  },
+  {
+   "text": "1 860",
+   "bbox": [
+    695,
+    578,
+    747,
+    593
+   ]
+  },
+  {
+   "text": "1 860",
+   "bbox": [
+    822,
+    578,
+    874,
+    593
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    578,
+    938,
+    597
+   ]
+  },
+  {
+   "text": "502",
+   "bbox": [
+    1002,
+    582,
+    1038,
+    597
+   ]
+  },
+  {
+   "text": "2 362",
+   "bbox": [
+    1097,
+    578,
+    1150,
+    597
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    90,
+    577,
+    339,
+    598
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    634,
+    820,
+    653
+   ]
+  },
+  {
+   "text": "1 860 Ft",
+   "bbox": [
+    1059,
+    635,
+    1150,
+    653
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    660,
+    668,
+    820,
+    691
+   ]
+  },
+  {
+   "text": "502 Ft",
+   "bbox": [
+    1078,
+    673,
+    1150,
+    695
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    595,
+    711,
+    820,
+    734
+   ]
+  },
+  {
+   "text": "2 362 Ft",
+   "bbox": [
+    1047,
+    711,
+    1150,
+    734
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 49478330-82959795",
+   "bbox": [
+    90,
+    779,
+    495,
+    800
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    473,
+    1644,
+    767,
+    1663
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

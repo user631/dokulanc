@@ -1,0 +1,840 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/01872",
+  "kiallitas_datuma": "2024. november 2.",
+  "teljesites_datuma": "2024. október 28.",
+  "fizetesi_hatarido": "2024. november 10.",
+  "elado_nev": "Papp Logisztika Zrt.",
+  "elado_cim": "H-6084 Veszprém, Szigetszentmiklósi utca 34.",
+  "elado_adoszam": "20832643-2-26",
+  "vevo_nev": "Szabó Trade Zrt.",
+  "vevo_cim": "H-5937 Fürdőharaszti, Hídhalasi utca 160.",
+  "vevo_adoszam": "42460930-5-28",
+  "bankszamla": "44235167-61156209-10152243",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "203 700 Ft",
+  "afa_osszesen": "54 297 Ft",
+  "brutto_osszesen": "257 997 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "3 év",
+    "egysegar": "40 430",
+    "netto": "121 290",
+    "afa_kulcs": "27%",
+    "afa": "32 748",
+    "brutto": "154 038"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 570",
+    "netto": "2 570",
+    "afa_kulcs": "27%",
+    "afa": "694",
+    "brutto": "3 264"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "6 910",
+    "netto": "34 550",
+    "afa_kulcs": "27%",
+    "afa": "9 328",
+    "brutto": "43 878"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "2 óra",
+    "egysegar": "11 750",
+    "netto": "23 500",
+    "afa_kulcs": "27%",
+    "afa": "6 345",
+    "brutto": "29 845"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "10 380",
+    "netto": "10 380",
+    "afa_kulcs": "27%",
+    "afa": "2 803",
+    "brutto": "13 183"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "2 600",
+    "netto": "7 800",
+    "afa_kulcs": "18%",
+    "afa": "1 404",
+    "brutto": "9 204"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "3 610",
+    "netto": "3 610",
+    "afa_kulcs": "27%",
+    "afa": "975",
+    "brutto": "4 585"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP",
+   "bbox": [
+    158,
+    147,
+    220,
+    164
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    958,
+    126,
+    1131,
+    166
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/01872",
+   "bbox": [
+    846,
+    187,
+    1131,
+    209
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    109,
+    267,
+    179,
+    286
+   ]
+  },
+  {
+   "text": "Papp Logisztika Zrt.",
+   "bbox": [
+    109,
+    304,
+    342,
+    329
+   ]
+  },
+  {
+   "text": "H-6084 Veszprém, Szigetszentmiklósi utca 34.",
+   "bbox": [
+    109,
+    338,
+    571,
+    361
+   ]
+  },
+  {
+   "text": "Adószám: 20832643-2-26",
+   "bbox": [
+    109,
+    369,
+    364,
+    387
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    268,
+    697,
+    286
+   ]
+  },
+  {
+   "text": "Szabó Trade Zrt.",
+   "bbox": [
+    630,
+    304,
+    823,
+    323
+   ]
+  },
+  {
+   "text": "H-5937 Fürdőharaszti, Hídhalasi utca 160.",
+   "bbox": [
+    630,
+    338,
+    1050,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 42460930-5-28",
+   "bbox": [
+    630,
+    369,
+    885,
+    387
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    109,
+    438,
+    263,
+    453
+   ]
+  },
+  {
+   "text": "2024. november 2.",
+   "bbox": [
+    109,
+    467,
+    291,
+    484
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    364,
+    438,
+    531,
+    458
+   ]
+  },
+  {
+   "text": "2024. október 28.",
+   "bbox": [
+    364,
+    467,
+    535,
+    484
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    438,
+    776,
+    453
+   ]
+  },
+  {
+   "text": "2024. november 10.",
+   "bbox": [
+    619,
+    467,
+    813,
+    484
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    874,
+    438,
+    993,
+    453
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    874,
+    467,
+    980,
+    489
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    109,
+    518,
+    226,
+    538
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    519,
+    587,
+    538
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    657,
+    518,
+    742,
+    538
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    810,
+    518,
+    865,
+    533
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    514,
+    926,
+    533
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    985,
+    514,
+    1023,
+    533
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1070,
+    518,
+    1131,
+    533
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    517,
+    560,
+    553,
+    575
+   ]
+  },
+  {
+   "text": "40 430",
+   "bbox": [
+    682,
+    561,
+    742,
+    575
+   ]
+  },
+  {
+   "text": "121 290",
+   "bbox": [
+    794,
+    561,
+    865,
+    575
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    561,
+    926,
+    575
+   ]
+  },
+  {
+   "text": "32 748",
+   "bbox": [
+    963,
+    561,
+    1023,
+    575
+   ]
+  },
+  {
+   "text": "154 038",
+   "bbox": [
+    1060,
+    561,
+    1131,
+    575
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    109,
+    560,
+    267,
+    580
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    517,
+    597,
+    601,
+    616
+   ]
+  },
+  {
+   "text": "2 570",
+   "bbox": [
+    693,
+    597,
+    742,
+    611
+   ]
+  },
+  {
+   "text": "2 570",
+   "bbox": [
+    816,
+    597,
+    865,
+    611
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    597,
+    926,
+    611
+   ]
+  },
+  {
+   "text": "694",
+   "bbox": [
+    990,
+    597,
+    1023,
+    611
+   ]
+  },
+  {
+   "text": "3 264",
+   "bbox": [
+    1082,
+    597,
+    1131,
+    611
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    109,
+    596,
+    344,
+    616
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    517,
+    632,
+    557,
+    647
+   ]
+  },
+  {
+   "text": "6 910",
+   "bbox": [
+    693,
+    633,
+    742,
+    647
+   ]
+  },
+  {
+   "text": "34 550",
+   "bbox": [
+    805,
+    633,
+    865,
+    647
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    633,
+    926,
+    647
+   ]
+  },
+  {
+   "text": "9 328",
+   "bbox": [
+    974,
+    633,
+    1023,
+    647
+   ]
+  },
+  {
+   "text": "43 878",
+   "bbox": [
+    1071,
+    633,
+    1131,
+    647
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    109,
+    632,
+    262,
+    652
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    517,
+    668,
+    562,
+    683
+   ]
+  },
+  {
+   "text": "11 750",
+   "bbox": [
+    682,
+    669,
+    742,
+    683
+   ]
+  },
+  {
+   "text": "23 500",
+   "bbox": [
+    805,
+    669,
+    865,
+    683
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    669,
+    926,
+    683
+   ]
+  },
+  {
+   "text": "6 345",
+   "bbox": [
+    974,
+    669,
+    1023,
+    683
+   ]
+  },
+  {
+   "text": "29 845",
+   "bbox": [
+    1071,
+    669,
+    1131,
+    683
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    109,
+    668,
+    372,
+    688
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    517,
+    704,
+    562,
+    719
+   ]
+  },
+  {
+   "text": "10 380",
+   "bbox": [
+    682,
+    705,
+    742,
+    719
+   ]
+  },
+  {
+   "text": "10 380",
+   "bbox": [
+    805,
+    705,
+    865,
+    719
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    705,
+    926,
+    719
+   ]
+  },
+  {
+   "text": "2 803",
+   "bbox": [
+    974,
+    705,
+    1023,
+    719
+   ]
+  },
+  {
+   "text": "13 183",
+   "bbox": [
+    1071,
+    705,
+    1131,
+    719
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    109,
+    704,
+    344,
+    724
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    517,
+    740,
+    590,
+    755
+   ]
+  },
+  {
+   "text": "2 600",
+   "bbox": [
+    693,
+    741,
+    742,
+    755
+   ]
+  },
+  {
+   "text": "7 800",
+   "bbox": [
+    816,
+    741,
+    865,
+    755
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    888,
+    741,
+    926,
+    755
+   ]
+  },
+  {
+   "text": "1 404",
+   "bbox": [
+    974,
+    741,
+    1023,
+    755
+   ]
+  },
+  {
+   "text": "9 204",
+   "bbox": [
+    1082,
+    741,
+    1131,
+    755
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    109,
+    737,
+    236,
+    760
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    517,
+    776,
+    577,
+    791
+   ]
+  },
+  {
+   "text": "3 610",
+   "bbox": [
+    693,
+    777,
+    742,
+    791
+   ]
+  },
+  {
+   "text": "3 610",
+   "bbox": [
+    816,
+    777,
+    865,
+    791
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    777,
+    926,
+    791
+   ]
+  },
+  {
+   "text": "975",
+   "bbox": [
+    990,
+    777,
+    1023,
+    791
+   ]
+  },
+  {
+   "text": "4 585",
+   "bbox": [
+    1082,
+    777,
+    1131,
+    791
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    109,
+    776,
+    347,
+    796
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    633,
+    833,
+    801,
+    851
+   ]
+  },
+  {
+   "text": "203 700 Ft",
+   "bbox": [
+    1019,
+    834,
+    1131,
+    851
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    652,
+    866,
+    801,
+    888
+   ]
+  },
+  {
+   "text": "54 297 Ft",
+   "bbox": [
+    1032,
+    871,
+    1131,
+    888
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    596,
+    907,
+    801,
+    931
+   ]
+  },
+  {
+   "text": "257 997 Ft",
+   "bbox": [
+    1012,
+    908,
+    1131,
+    925
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 44235167-61156209-10152243",
+   "bbox": [
+    109,
+    973,
+    587,
+    990
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    420,
+    1626,
+    820,
+    1644
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

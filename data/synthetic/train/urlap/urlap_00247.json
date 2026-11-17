@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Vass Edit",
+  "anyja_neve": "Nagy Sándor",
+  "szuletesi_hely": "Somogytapolcaharaszti",
+  "szuletesi_datum": "2005. 10. 08.",
+  "lakcim": "H-6550 Székváros, Töröki utca 231.",
+  "telefon": "+36 30 266 8850",
+  "email": "vass.edit@gmail.com",
+  "adoazonosito_jel": "8506848030",
+  "taj_szam": "048 936 202",
+  "kelt": "Hódmezővásárhely, 2026. 03. 17."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    403,
+    101,
+    836,
+    132
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    208,
+    289,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    110,
+    262,
+    148,
+    275
+   ]
+  },
+  {
+   "text": "Vass Edit",
+   "bbox": [
+    399,
+    256,
+    497,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    314,
+    204,
+    331
+   ]
+  },
+  {
+   "text": "Nagy Sándor",
+   "bbox": [
+    399,
+    307,
+    528,
+    335
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    366,
+    221,
+    383
+   ]
+  },
+  {
+   "text": "Somogytapolcaharaszti",
+   "bbox": [
+    399,
+    365,
+    642,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    418,
+    213,
+    431
+   ]
+  },
+  {
+   "text": "2005. 10. 08.",
+   "bbox": [
+    399,
+    416,
+    538,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    470,
+    174,
+    483
+   ]
+  },
+  {
+   "text": "H-6550 Székváros, Töröki utca 231.",
+   "bbox": [
+    398,
+    465,
+    780,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    522,
+    213,
+    535
+   ]
+  },
+  {
+   "text": "+36 30 266 8850",
+   "bbox": [
+    399,
+    517,
+    600,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    574,
+    200,
+    587
+   ]
+  },
+  {
+   "text": "vass.edit@gmail.com",
+   "bbox": [
+    399,
+    566,
+    614,
+    594
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    626,
+    246,
+    643
+   ]
+  },
+  {
+   "text": "8506848030",
+   "bbox": [
+    399,
+    620,
+    551,
+    641
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    678,
+    192,
+    691
+   ]
+  },
+  {
+   "text": "048 936 202",
+   "bbox": [
+    399,
+    674,
+    554,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    756,
+    254,
+    776
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    800,
+    408,
+    817
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    845,
+    270,
+    858
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    890,
+    429,
+    907
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    992,
+    140,
+    1006
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2026. 03. 17.",
+   "bbox": [
+    188,
+    986,
+    513,
+    1009
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1042,
+    971,
+    1053
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-1908 Baja, Dunaszéki utca 76.",
+  "adoszam": "11492249-3-39",
+  "datum": "2025.06.06.",
+  "ido": "15:35",
+  "nyugtaszam": "9908/36243",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 800 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "814"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "556"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1421"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2962"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1093"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "954"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ÉLELMISZER KFT.",
+   "bbox": [
+    116,
+    30,
+    468,
+    51
+   ]
+  },
+  {
+   "text": "H-1908 Baja, Dunaszéki utca 76.",
+   "bbox": [
+    90,
+    67,
+    493,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 11492249-3-39",
+   "bbox": [
+    149,
+    95,
+    435,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    141,
+    343,
+    159
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    184,
+    234,
+    201
+   ]
+  },
+  {
+   "text": "814 A00",
+   "bbox": [
+    462,
+    184,
+    560,
+    201
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    218,
+    220,
+    233
+   ]
+  },
+  {
+   "text": "556 B00",
+   "bbox": [
+    462,
+    216,
+    560,
+    233
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    250,
+    206,
+    265
+   ]
+  },
+  {
+   "text": "1421 A00",
+   "bbox": [
+    448,
+    248,
+    560,
+    265
+   ]
+  },
+  {
+   "text": "2 DB x 1481",
+   "bbox": [
+    24,
+    280,
+    167,
+    295
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    306,
+    164,
+    323
+   ]
+  },
+  {
+   "text": "2962 B00",
+   "bbox": [
+    448,
+    306,
+    560,
+    323
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    338,
+    192,
+    355
+   ]
+  },
+  {
+   "text": "1093 B00",
+   "bbox": [
+    448,
+    338,
+    560,
+    355
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    370,
+    136,
+    387
+   ]
+  },
+  {
+   "text": "954 C00",
+   "bbox": [
+    462,
+    370,
+    560,
+    387
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    413,
+    194,
+    435
+   ]
+  },
+  {
+   "text": "7 800 Ft",
+   "bbox": [
+    424,
+    415,
+    560,
+    435
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    454,
+    165,
+    473
+   ]
+  },
+  {
+   "text": "7 800 Ft",
+   "bbox": [
+    448,
+    456,
+    560,
+    473
+   ]
+  },
+  {
+   "text": "2025.06.06.",
+   "bbox": [
+    24,
+    502,
+    167,
+    518
+   ]
+  },
+  {
+   "text": "15:35",
+   "bbox": [
+    495,
+    502,
+    560,
+    518
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9908/36243",
+   "bbox": [
+    24,
+    533,
+    310,
+    553
+   ]
+  },
+  {
+   "text": "AP A87842564",
+   "bbox": [
+    24,
+    566,
+    180,
+    582
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    187,
+    609,
+    397,
+    627
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  584,
+  672
+ ]
+}

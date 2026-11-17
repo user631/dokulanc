@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "JAKAB DISZKONT KFT.",
+  "uzlet_cim": "H-8626 Lajosligetfalu, Kecskeméti utca 132.",
+  "adoszam": "41537185-2-04",
+  "datum": "2026.12.18.",
+  "ido": "13:12",
+  "nyugtaszam": "3988/27504",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "16 227 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "666"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "477"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1011"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2571"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "367"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6936"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "563"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3636"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JAKAB DISZKONT KFT.",
+   "bbox": [
+    188,
+    33,
+    435,
+    48
+   ]
+  },
+  {
+   "text": "H-8626 Lajosligetfalu, Kecskeméti utca 132.",
+   "bbox": [
+    75,
+    64,
+    548,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 41537185-2-04",
+   "bbox": [
+    191,
+    88,
+    433,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    133,
+    355,
+    150
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    177,
+    120,
+    191
+   ]
+  },
+  {
+   "text": "666 C00",
+   "bbox": [
+    516,
+    177,
+    600,
+    191
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    207,
+    132,
+    221
+   ]
+  },
+  {
+   "text": "477 A00",
+   "bbox": [
+    516,
+    207,
+    600,
+    221
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    237,
+    168,
+    251
+   ]
+  },
+  {
+   "text": "1011 B00",
+   "bbox": [
+    504,
+    237,
+    600,
+    251
+   ]
+  },
+  {
+   "text": "3 DB x 857",
+   "bbox": [
+    24,
+    267,
+    124,
+    279
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    291,
+    120,
+    305
+   ]
+  },
+  {
+   "text": "2571 C00",
+   "bbox": [
+    504,
+    291,
+    600,
+    305
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    321,
+    192,
+    335
+   ]
+  },
+  {
+   "text": "367 A00",
+   "bbox": [
+    516,
+    321,
+    600,
+    335
+   ]
+  },
+  {
+   "text": "3 DB x 2312",
+   "bbox": [
+    24,
+    351,
+    134,
+    363
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    375,
+    252,
+    389
+   ]
+  },
+  {
+   "text": "6936 C00",
+   "bbox": [
+    504,
+    375,
+    600,
+    389
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    405,
+    192,
+    419
+   ]
+  },
+  {
+   "text": "563 C00",
+   "bbox": [
+    516,
+    405,
+    600,
+    419
+   ]
+  },
+  {
+   "text": "3 DB x 1212",
+   "bbox": [
+    24,
+    435,
+    134,
+    447
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    459,
+    144,
+    473
+   ]
+  },
+  {
+   "text": "3636 C00",
+   "bbox": [
+    504,
+    459,
+    600,
+    473
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    497,
+    150,
+    518
+   ]
+  },
+  {
+   "text": "16 227 Ft",
+   "bbox": [
+    474,
+    501,
+    600,
+    518
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    536,
+    144,
+    555
+   ]
+  },
+  {
+   "text": "16 227 Ft",
+   "bbox": [
+    492,
+    541,
+    600,
+    555
+   ]
+  },
+  {
+   "text": "2026.12.18.",
+   "bbox": [
+    24,
+    584,
+    145,
+    597
+   ]
+  },
+  {
+   "text": "13:12",
+   "bbox": [
+    545,
+    584,
+    600,
+    597
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3988/27504",
+   "bbox": [
+    24,
+    610,
+    266,
+    629
+   ]
+  },
+  {
+   "text": "AP A96931737",
+   "bbox": [
+    24,
+    644,
+    156,
+    657
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    252,
+    683,
+    372,
+    700
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  624,
+  746
+ ]
+}

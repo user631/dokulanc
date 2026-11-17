@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/00040",
+  "kiallitas_datuma": "2025.12.10.",
+  "teljesites_datuma": "2025.12.07.",
+  "fizetesi_hatarido": "2026.01.09.",
+  "elado_nev": "Molnár Szolgáltató Kft.",
+  "elado_cim": "H-5428 Veszprém, Tamásivégi utca 107.",
+  "elado_adoszam": "45734683-5-35",
+  "vevo_nev": "Nagy Consulting Zrt.",
+  "vevo_cim": "H-3295 Györgybánya, Hátvárai utca 26.",
+  "vevo_adoszam": "83434264-2-33",
+  "bankszamla": "HU37 8959 5446 1795 8337 8109 1695",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "362 170 Ft",
+  "afa_osszesen": "73 058 Ft",
+  "brutto_osszesen": "435 228 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "11 330",
+    "netto": "56 650",
+    "afa_kulcs": "5%",
+    "afa": "2 832",
+    "brutto": "59 482"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "3 hó",
+    "egysegar": "82 620",
+    "netto": "247 860",
+    "afa_kulcs": "27%",
+    "afa": "66 922",
+    "brutto": "314 782"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "3 év",
+    "egysegar": "18 140",
+    "netto": "54 420",
+    "afa_kulcs": "5%",
+    "afa": "2 721",
+    "brutto": "57 141"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "3 240",
+    "netto": "3 240",
+    "afa_kulcs": "18%",
+    "afa": "583",
+    "brutto": "3 823"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    517,
+    82,
+    724,
+    123
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/00040",
+   "bbox": [
+    416,
+    145,
+    824,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    81,
+    225,
+    170,
+    246
+   ]
+  },
+  {
+   "text": "Molnár Szolgáltató Kft.",
+   "bbox": [
+    81,
+    264,
+    405,
+    291
+   ]
+  },
+  {
+   "text": "H-5428 Veszprém, Tamásivégi utca 107.",
+   "bbox": [
+    81,
+    301,
+    524,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 45734683-5-35",
+   "bbox": [
+    80,
+    334,
+    365,
+    357
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    226,
+    708,
+    246
+   ]
+  },
+  {
+   "text": "Nagy Consulting Zrt.",
+   "bbox": [
+    630,
+    265,
+    919,
+    291
+   ]
+  },
+  {
+   "text": "H-3295 Györgybánya, Hátvárai utca 26.",
+   "bbox": [
+    630,
+    301,
+    1069,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 83434264-2-33",
+   "bbox": [
+    629,
+    334,
+    918,
+    357
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    81,
+    405,
+    304,
+    424
+   ]
+  },
+  {
+   "text": "2025.12.10.",
+   "bbox": [
+    381,
+    411,
+    509,
+    428
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    81,
+    440,
+    317,
+    464
+   ]
+  },
+  {
+   "text": "2025.12.07.",
+   "bbox": [
+    381,
+    446,
+    511,
+    463
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    81,
+    475,
+    307,
+    494
+   ]
+  },
+  {
+   "text": "2026.01.09.",
+   "bbox": [
+    381,
+    476,
+    514,
+    499
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    81,
+    510,
+    253,
+    529
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    381,
+    510,
+    480,
+    534
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    557,
+    219,
+    579
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    558,
+    597,
+    579
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    647,
+    557,
+    750,
+    579
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    557,
+    878,
+    574
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    874,
+    553,
+    943,
+    574
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    553,
+    1046,
+    574
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    557,
+    1159,
+    574
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    601,
+    554,
+    622
+   ]
+  },
+  {
+   "text": "11 330",
+   "bbox": [
+    688,
+    606,
+    749,
+    622
+   ]
+  },
+  {
+   "text": "56 650",
+   "bbox": [
+    811,
+    602,
+    878,
+    622
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    913,
+    602,
+    943,
+    622
+   ]
+  },
+  {
+   "text": "2 832",
+   "bbox": [
+    991,
+    602,
+    1045,
+    622
+   ]
+  },
+  {
+   "text": "59 482",
+   "bbox": [
+    1093,
+    602,
+    1159,
+    622
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    81,
+    601,
+    347,
+    623
+   ]
+  },
+  {
+   "text": "3 hó",
+   "bbox": [
+    512,
+    639,
+    554,
+    660
+   ]
+  },
+  {
+   "text": "82 620",
+   "bbox": [
+    681,
+    640,
+    749,
+    656
+   ]
+  },
+  {
+   "text": "247 860",
+   "bbox": [
+    799,
+    640,
+    878,
+    660
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    640,
+    943,
+    660
+   ]
+  },
+  {
+   "text": "66 922",
+   "bbox": [
+    980,
+    640,
+    1045,
+    660
+   ]
+  },
+  {
+   "text": "314 782",
+   "bbox": [
+    1085,
+    640,
+    1159,
+    660
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    81,
+    639,
+    362,
+    661
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    512,
+    677,
+    552,
+    698
+   ]
+  },
+  {
+   "text": "18 140",
+   "bbox": [
+    687,
+    678,
+    749,
+    698
+   ]
+  },
+  {
+   "text": "54 420",
+   "bbox": [
+    811,
+    682,
+    878,
+    698
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    913,
+    678,
+    943,
+    698
+   ]
+  },
+  {
+   "text": "2 721",
+   "bbox": [
+    996,
+    682,
+    1045,
+    698
+   ]
+  },
+  {
+   "text": "57 141",
+   "bbox": [
+    1101,
+    682,
+    1159,
+    698
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    81,
+    677,
+    346,
+    699
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    512,
+    720,
+    599,
+    737
+   ]
+  },
+  {
+   "text": "3 240",
+   "bbox": [
+    694,
+    720,
+    749,
+    736
+   ]
+  },
+  {
+   "text": "3 240",
+   "bbox": [
+    823,
+    720,
+    878,
+    736
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    903,
+    716,
+    943,
+    732
+   ]
+  },
+  {
+   "text": "583",
+   "bbox": [
+    1008,
+    716,
+    1045,
+    736
+   ]
+  },
+  {
+   "text": "3 823",
+   "bbox": [
+    1105,
+    716,
+    1159,
+    736
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    81,
+    715,
+    260,
+    737
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    650,
+    773,
+    829,
+    793
+   ]
+  },
+  {
+   "text": "362 170 Ft",
+   "bbox": [
+    1038,
+    775,
+    1159,
+    798
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    664,
+    808,
+    829,
+    832
+   ]
+  },
+  {
+   "text": "73 058 Ft",
+   "bbox": [
+    1049,
+    814,
+    1159,
+    837
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    681,
+    851,
+    829,
+    877
+   ]
+  },
+  {
+   "text": "435 228 Ft",
+   "bbox": [
+    1019,
+    853,
+    1160,
+    876
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU37 8959 5446 1795 8337 8109 1695",
+   "bbox": [
+    81,
+    921,
+    691,
+    943
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    81,
+    953,
+    714,
+    974
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    462,
+    1653,
+    777,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

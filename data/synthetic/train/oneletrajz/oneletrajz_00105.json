@@ -1,0 +1,350 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Lakatos Magdolna",
+  "email": "lakatos.magdolna@gmail.com",
+  "telefon": "+36 20 217 7483",
+  "lakcim": "H-2468 Hódmezővásárhely, Kunhetveni utca 162.",
+  "szuletesi_datum": "1988. 10. 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Barna Tech Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2014"
+   },
+   {
+    "ceg": "Takács és Társa Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Excel",
+   "SAP",
+   "Git",
+   "JavaScript",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    213,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    155,
+    97,
+    169
+   ]
+  },
+  {
+   "text": "lakatos.magdolna@gmail.com",
+   "bbox": [
+    40,
+    178,
+    300,
+    196
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    211,
+    109,
+    225
+   ]
+  },
+  {
+   "text": "+36 20 217 7483",
+   "bbox": [
+    40,
+    234,
+    187,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    107,
+    281
+   ]
+  },
+  {
+   "text": "H-2468 Hódmezővásárhely,",
+   "bbox": [
+    40,
+    290,
+    282,
+    308
+   ]
+  },
+  {
+   "text": "Kunhetveni utca 162.",
+   "bbox": [
+    40,
+    313,
+    223,
+    327
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    345,
+    187,
+    360
+   ]
+  },
+  {
+   "text": "1988. 10. 24.",
+   "bbox": [
+    40,
+    369,
+    153,
+    383
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    428,
+    196,
+    449
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    471,
+    133,
+    490
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    524,
+    181,
+    545
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    567,
+    160,
+    586
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    594,
+    88,
+    609
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    621,
+    79,
+    636
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    648,
+    66,
+    663
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    675,
+    133,
+    694
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    702,
+    65,
+    717
+   ]
+  },
+  {
+   "text": "Lakatos Magdolna",
+   "bbox": [
+    450,
+    117,
+    840,
+    158
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    182,
+    565,
+    209
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    249,
+    688,
+    272
+   ]
+  },
+  {
+   "text": "2013 – 2014",
+   "bbox": [
+    450,
+    300,
+    570,
+    315
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Barna Tech Zrt.",
+   "bbox": [
+    450,
+    323,
+    852,
+    344
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    366,
+    570,
+    381
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Takács és Társa Bt.",
+   "bbox": [
+    450,
+    389,
+    895,
+    410
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    440,
+    610,
+    465
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    493,
+    570,
+    508
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    517,
+    641,
+    537
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    543,
+    581,
+    562
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    584,
+    570,
+    599
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    607,
+    704,
+    628
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    634,
+    633,
+    653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

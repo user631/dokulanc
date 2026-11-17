@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Németh Péter",
+  "email": "nemeth.peter@freemail.hu",
+  "telefon": "+36 30 526 4641",
+  "lakcim": "H-5521 Váchídvég, Hetvenházai utca 217.",
+  "szuletesi_datum": "1988. június 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2007 – 2011"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hegedűs Consulting Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "ceg": "Varga Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2011 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Python",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    95,
+    180,
+    115
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    139,
+    91,
+    152
+   ]
+  },
+  {
+   "text": "nemeth.peter@freemail.hu",
+   "bbox": [
+    40,
+    160,
+    244,
+    177
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    191,
+    100,
+    204
+   ]
+  },
+  {
+   "text": "+36 30 526 4641",
+   "bbox": [
+    40,
+    213,
+    166,
+    225
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    243,
+    97,
+    256
+   ]
+  },
+  {
+   "text": "H-5521 Váchídvég, Hetvenházai utca 217.",
+   "bbox": [
+    40,
+    264,
+    356,
+    281
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    295,
+    168,
+    308
+   ]
+  },
+  {
+   "text": "1988. június 15.",
+   "bbox": [
+    40,
+    316,
+    157,
+    333
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    374,
+    175,
+    394
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    414,
+    137,
+    432
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    466,
+    153,
+    486
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    507,
+    131,
+    524
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    531,
+    96,
+    549
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    556,
+    234,
+    574
+   ]
+  },
+  {
+   "text": "Németh Péter",
+   "bbox": [
+    450,
+    107,
+    730,
+    139
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    170,
+    639,
+    193
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    232,
+    662,
+    254
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    281,
+    550,
+    294
+   ]
+  },
+  {
+   "text": "tesztmérnök – Hegedűs Consulting Bt.",
+   "bbox": [
+    450,
+    303,
+    811,
+    323
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    343,
+    550,
+    356
+   ]
+  },
+  {
+   "text": "irodavezető – Varga Logisztika Kft.",
+   "bbox": [
+    450,
+    365,
+    780,
+    385
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    415,
+    597,
+    437
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    464,
+    550,
+    477
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    486,
+    686,
+    506
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    448,
+    509,
+    504,
+    527
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    549,
+    550,
+    562
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    571,
+    678,
+    591
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    594,
+    523,
+    612
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

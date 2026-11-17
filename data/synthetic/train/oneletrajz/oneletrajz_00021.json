@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Pataki Bianka",
+  "email": "pataki.bianka@citromail.hu",
+  "telefon": "+36 30 529 7687",
+  "lakcim": "H-9500 Oroszhetvenváros, Nagyhídi tér 3.",
+  "szuletesi_datum": "1976.08.22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "1996 – 2001"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Papp Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2002 – 2003"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2001 – 2002"
+   },
+   {
+    "ceg": "Kovács Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2000 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "SAP",
+   "csapatmunka",
+   "Java",
+   "B kategóriás jogosítvány",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Pataki Bianka",
+   "bbox": [
+    469,
+    93,
+    771,
+    129
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    522,
+    163,
+    718,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    215,
+    163,
+    232
+   ]
+  },
+  {
+   "text": "pataki.bianka@citromail.hu",
+   "bbox": [
+    330,
+    215,
+    603,
+    237
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    176,
+    264
+   ]
+  },
+  {
+   "text": "+36 30 529 7687",
+   "bbox": [
+    330,
+    248,
+    495,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    279,
+    171,
+    296
+   ]
+  },
+  {
+   "text": "H-9500 Oroszhetvenváros, Nagyhídi tér 3.",
+   "bbox": [
+    330,
+    278,
+    746,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    264,
+    328
+   ]
+  },
+  {
+   "text": "1976.08.22.",
+   "bbox": [
+    330,
+    312,
+    450,
+    328
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    331,
+    389
+   ]
+  },
+  {
+   "text": "2002 – 2003",
+   "bbox": [
+    90,
+    416,
+    208,
+    432
+   ]
+  },
+  {
+   "text": "irodavezető – Papp Consulting Kft.",
+   "bbox": [
+    90,
+    442,
+    459,
+    464
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    90,
+    484,
+    208,
+    500
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Szolgáltató Kft.",
+   "bbox": [
+    89,
+    510,
+    513,
+    532
+   ]
+  },
+  {
+   "text": "2000 – 2001",
+   "bbox": [
+    90,
+    552,
+    208,
+    568
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács Logisztika Bt.",
+   "bbox": [
+    90,
+    578,
+    448,
+    600
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    631,
+    253,
+    655
+   ]
+  },
+  {
+   "text": "1996 – 2001",
+   "bbox": [
+    90,
+    682,
+    208,
+    698
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    708,
+    357,
+    730
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    90,
+    732,
+    153,
+    755
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    90,
+    776,
+    208,
+    792
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    802,
+    349,
+    824
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    826,
+    179,
+    849
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    881,
+    223,
+    905
+   ]
+  },
+  {
+   "text": "spanyol (B1), angol (B2)",
+   "bbox": [
+    90,
+    932,
+    326,
+    953
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    981,
+    215,
+    1005
+   ]
+  },
+  {
+   "text": "Docker, SAP, csapatmunka, Java, B kategóriás jogosítvány, Linux",
+   "bbox": [
+    90,
+    1030,
+    739,
+    1053
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

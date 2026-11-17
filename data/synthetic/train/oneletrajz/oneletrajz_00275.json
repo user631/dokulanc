@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Pap János",
+  "email": "pap.janos@example.hu",
+  "telefon": "+36 70 207 3154",
+  "lakcim": "H-4706 Nyékmellékvár, Bácstapolcai utca 80.",
+  "szuletesi_datum": "1987. 12. 13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Tech Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "prezentáció",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Pap János",
+   "bbox": [
+    508,
+    119,
+    732,
+    166
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    525,
+    187,
+    715,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    161,
+    255
+   ]
+  },
+  {
+   "text": "pap.janos@example.hu",
+   "bbox": [
+    330,
+    238,
+    554,
+    260
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    270,
+    173,
+    287
+   ]
+  },
+  {
+   "text": "+36 70 207 3154",
+   "bbox": [
+    330,
+    271,
+    495,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    302,
+    168,
+    319
+   ]
+  },
+  {
+   "text": "H-4706 Nyékmellékvár, Bácstapolcai utca 80.",
+   "bbox": [
+    330,
+    302,
+    763,
+    324
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    334,
+    261,
+    351
+   ]
+  },
+  {
+   "text": "1987. 12. 13.",
+   "bbox": [
+    330,
+    335,
+    453,
+    351
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    389,
+    330,
+    414
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    439,
+    209,
+    455
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Tech Zrt.",
+   "bbox": [
+    90,
+    465,
+    388,
+    482
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    519,
+    257,
+    544
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    569,
+    209,
+    585
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    595,
+    642,
+    617
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    620,
+    282,
+    642
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    663,
+    209,
+    679
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    689,
+    366,
+    706
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    714,
+    277,
+    736
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    769,
+    227,
+    794
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    818,
+    200,
+    839
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    869,
+    214,
+    894
+   ]
+  },
+  {
+   "text": "Excel, prezentáció, projektmenedzsment",
+   "bbox": [
+    90,
+    918,
+    479,
+    940
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

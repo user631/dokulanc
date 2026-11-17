@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2025/02425",
+  "kiallitas_datuma": "2025-12-12",
+  "teljesites_datuma": "2025-12-11",
+  "fizetesi_hatarido": "2025-12-20",
+  "elado_nev": "Balogh Trade Kft.",
+  "elado_cim": "H-3832 Németi, Petőfi sándor utca 95.",
+  "elado_adoszam": "17073565-2-25",
+  "vevo_nev": "Szabó Trade Kft.",
+  "vevo_cim": "H-9316 Ligetvár, Keresztkövesdi utca 31.",
+  "vevo_adoszam": "80883487-2-28",
+  "bankszamla": "15688888-83332760",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "69 020 Ft",
+  "afa_osszesen": "13 201 Ft",
+  "brutto_osszesen": "82 221 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "2 db",
+    "egysegar": "940",
+    "netto": "1 880",
+    "afa_kulcs": "5%",
+    "afa": "94",
+    "brutto": "1 974"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "22 820",
+    "netto": "22 820",
+    "afa_kulcs": "5%",
+    "afa": "1 141",
+    "brutto": "23 961"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "2 óra",
+    "egysegar": "10 200",
+    "netto": "20 400",
+    "afa_kulcs": "27%",
+    "afa": "5 508",
+    "brutto": "25 908"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "5 980",
+    "netto": "23 920",
+    "afa_kulcs": "27%",
+    "afa": "6 458",
+    "brutto": "30 378"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    529,
+    102,
+    710,
+    142
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2025/02425",
+   "bbox": [
+    435,
+    166,
+    804,
+    187
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    101,
+    246,
+    178,
+    264
+   ]
+  },
+  {
+   "text": "Balogh Trade Kft.",
+   "bbox": [
+    101,
+    281,
+    318,
+    302
+   ]
+  },
+  {
+   "text": "H-3832 Németi, Petőfi sándor utca 95.",
+   "bbox": [
+    101,
+    311,
+    490,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 17073565-2-25",
+   "bbox": [
+    101,
+    339,
+    368,
+    356
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    246,
+    700,
+    264
+   ]
+  },
+  {
+   "text": "Szabó Trade Kft.",
+   "bbox": [
+    630,
+    280,
+    835,
+    298
+   ]
+  },
+  {
+   "text": "H-9316 Ligetvár, Keresztkövesdi utca 31.",
+   "bbox": [
+    630,
+    311,
+    1049,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 80883487-2-28",
+   "bbox": [
+    630,
+    339,
+    897,
+    356
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    101,
+    405,
+    256,
+    419
+   ]
+  },
+  {
+   "text": "2025-12-12",
+   "bbox": [
+    101,
+    433,
+    215,
+    447
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    405,
+    530,
+    422
+   ]
+  },
+  {
+   "text": "2025-12-11",
+   "bbox": [
+    360,
+    433,
+    474,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    405,
+    778,
+    419
+   ]
+  },
+  {
+   "text": "2025-12-20",
+   "bbox": [
+    619,
+    433,
+    733,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    405,
+    999,
+    419
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    878,
+    432,
+    983,
+    451
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    101,
+    479,
+    216,
+    496
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    481,
+    584,
+    496
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    657,
+    479,
+    745,
+    496
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    479,
+    869,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    476,
+    931,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    993,
+    476,
+    1030,
+    493
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    479,
+    1139,
+    493
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    516,
+    519,
+    555,
+    532
+   ]
+  },
+  {
+   "text": "940",
+   "bbox": [
+    711,
+    520,
+    744,
+    532
+   ]
+  },
+  {
+   "text": "1 880",
+   "bbox": [
+    819,
+    520,
+    869,
+    532
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    902,
+    520,
+    931,
+    532
+   ]
+  },
+  {
+   "text": "94",
+   "bbox": [
+    1008,
+    520,
+    1030,
+    532
+   ]
+  },
+  {
+   "text": "1 974",
+   "bbox": [
+    1089,
+    520,
+    1139,
+    532
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    101,
+    518,
+    205,
+    535
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    516,
+    551,
+    553,
+    565
+   ]
+  },
+  {
+   "text": "22 820",
+   "bbox": [
+    683,
+    553,
+    744,
+    565
+   ]
+  },
+  {
+   "text": "22 820",
+   "bbox": [
+    808,
+    553,
+    869,
+    565
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    902,
+    553,
+    931,
+    565
+   ]
+  },
+  {
+   "text": "1 141",
+   "bbox": [
+    980,
+    553,
+    1030,
+    565
+   ]
+  },
+  {
+   "text": "23 961",
+   "bbox": [
+    1078,
+    553,
+    1139,
+    565
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    101,
+    551,
+    337,
+    568
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    516,
+    584,
+    560,
+    598
+   ]
+  },
+  {
+   "text": "10 200",
+   "bbox": [
+    683,
+    586,
+    744,
+    598
+   ]
+  },
+  {
+   "text": "20 400",
+   "bbox": [
+    808,
+    586,
+    869,
+    598
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    891,
+    586,
+    931,
+    598
+   ]
+  },
+  {
+   "text": "5 508",
+   "bbox": [
+    980,
+    586,
+    1030,
+    598
+   ]
+  },
+  {
+   "text": "25 908",
+   "bbox": [
+    1078,
+    586,
+    1139,
+    598
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    101,
+    584,
+    338,
+    601
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    516,
+    618,
+    574,
+    631
+   ]
+  },
+  {
+   "text": "5 980",
+   "bbox": [
+    694,
+    619,
+    744,
+    631
+   ]
+  },
+  {
+   "text": "23 920",
+   "bbox": [
+    808,
+    619,
+    869,
+    631
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    891,
+    619,
+    931,
+    631
+   ]
+  },
+  {
+   "text": "6 458",
+   "bbox": [
+    980,
+    619,
+    1030,
+    631
+   ]
+  },
+  {
+   "text": "30 378",
+   "bbox": [
+    1078,
+    619,
+    1139,
+    631
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    101,
+    617,
+    333,
+    634
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    638,
+    671,
+    809,
+    688
+   ]
+  },
+  {
+   "text": "69 020 Ft",
+   "bbox": [
+    1040,
+    672,
+    1139,
+    688
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    701,
+    809,
+    722
+   ]
+  },
+  {
+   "text": "13 201 Ft",
+   "bbox": [
+    1040,
+    706,
+    1139,
+    722
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    572,
+    739,
+    809,
+    756
+   ]
+  },
+  {
+   "text": "82 221 Ft",
+   "bbox": [
+    1026,
+    740,
+    1139,
+    756
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 15688888-83332760",
+   "bbox": [
+    101,
+    803,
+    479,
+    818
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    101,
+    830,
+    667,
+    846
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

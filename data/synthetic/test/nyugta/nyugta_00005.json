@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KELEMEN CSEMEGE KFT.",
+  "uzlet_cim": "H-2094 Pilisligetháza, Hetvenberényi tér 194.",
+  "adoszam": "22304388-2-51",
+  "datum": "2026.08.10.",
+  "ido": "15:52",
+  "nyugtaszam": "3369/05958",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "14 205 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1056"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "690"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1073"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1293"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "500"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "512"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1475"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "810"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "634"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "5634"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "528"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KELEMEN CSEMEGE KFT.",
+   "bbox": [
+    113,
+    37,
+    433,
+    52
+   ]
+  },
+  {
+   "text": "H-2094 Pilisligetháza, Hetvenberényi",
+   "bbox": [
+    39,
+    71,
+    507,
+    89
+   ]
+  },
+  {
+   "text": "tér 194.",
+   "bbox": [
+    221,
+    99,
+    325,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 22304388-2-51",
+   "bbox": [
+    130,
+    124,
+    416,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    221,
+    172,
+    325,
+    188
+   ]
+  },
+  {
+   "text": "3 DB x 352",
+   "bbox": [
+    24,
+    215,
+    154,
+    228
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    242,
+    220,
+    256
+   ]
+  },
+  {
+   "text": "1056 B00",
+   "bbox": [
+    410,
+    241,
+    522,
+    256
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    273,
+    136,
+    288
+   ]
+  },
+  {
+   "text": "690 B00",
+   "bbox": [
+    424,
+    273,
+    522,
+    288
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    305,
+    192,
+    320
+   ]
+  },
+  {
+   "text": "1073 B00",
+   "bbox": [
+    410,
+    305,
+    522,
+    320
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    337,
+    136,
+    352
+   ]
+  },
+  {
+   "text": "1293 B00",
+   "bbox": [
+    410,
+    337,
+    522,
+    352
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    369,
+    150,
+    384
+   ]
+  },
+  {
+   "text": "500 B00",
+   "bbox": [
+    424,
+    369,
+    522,
+    384
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    401,
+    178,
+    416
+   ]
+  },
+  {
+   "text": "512 A00",
+   "bbox": [
+    424,
+    401,
+    522,
+    416
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    433,
+    164,
+    448
+   ]
+  },
+  {
+   "text": "1475 A00",
+   "bbox": [
+    410,
+    433,
+    522,
+    448
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    465,
+    150,
+    480
+   ]
+  },
+  {
+   "text": "810 A00",
+   "bbox": [
+    424,
+    465,
+    522,
+    480
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    497,
+    220,
+    512
+   ]
+  },
+  {
+   "text": "634 C00",
+   "bbox": [
+    424,
+    497,
+    522,
+    512
+   ]
+  },
+  {
+   "text": "3 DB x 1878",
+   "bbox": [
+    24,
+    529,
+    167,
+    542
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    556,
+    164,
+    570
+   ]
+  },
+  {
+   "text": "5634 B00",
+   "bbox": [
+    410,
+    555,
+    522,
+    570
+   ]
+  },
+  {
+   "text": "3 DB x 176",
+   "bbox": [
+    24,
+    587,
+    154,
+    600
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    613,
+    220,
+    632
+   ]
+  },
+  {
+   "text": "528 C00",
+   "bbox": [
+    424,
+    613,
+    522,
+    628
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    654,
+    194,
+    676
+   ]
+  },
+  {
+   "text": "14 205 Ft",
+   "bbox": [
+    369,
+    659,
+    522,
+    676
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    695,
+    136,
+    714
+   ]
+  },
+  {
+   "text": "14 205 Ft",
+   "bbox": [
+    396,
+    699,
+    522,
+    714
+   ]
+  },
+  {
+   "text": "2026.08.10.",
+   "bbox": [
+    24,
+    745,
+    167,
+    759
+   ]
+  },
+  {
+   "text": "15:52",
+   "bbox": [
+    457,
+    745,
+    522,
+    759
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3369/05958",
+   "bbox": [
+    24,
+    774,
+    310,
+    793
+   ]
+  },
+  {
+   "text": "AP A51479616",
+   "bbox": [
+    24,
+    809,
+    180,
+    823
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    203,
+    850,
+    343,
+    868
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  546,
+  912
+ ]
+}

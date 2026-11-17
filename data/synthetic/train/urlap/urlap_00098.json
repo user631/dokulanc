@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kovács Norbert",
+  "anyja_neve": "Oláh Gábor",
+  "szuletesi_hely": "Alsótamásivég",
+  "szuletesi_datum": "1997.09.21.",
+  "lakcim": "H-7174 Hátkőrös, Szegedi utca 55.",
+  "telefon": "+36 30 392 3612",
+  "email": "kovacs.norbert@freemail.hu",
+  "adoazonosito_jel": "8477457603",
+  "taj_szam": "811 000 808",
+  "kelt": "Veszprém, 2026.04.15."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    413,
+    90,
+    827,
+    122
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    485,
+    144,
+    754,
+    159
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    196,
+    299,
+    216
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    250,
+    139,
+    263
+   ]
+  },
+  {
+   "text": "Kovács Norbert",
+   "bbox": [
+    386,
+    251,
+    534,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    101,
+    301,
+    196,
+    318
+   ]
+  },
+  {
+   "text": "Oláh Gábor",
+   "bbox": [
+    386,
+    298,
+    497,
+    313
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    352,
+    218,
+    369
+   ]
+  },
+  {
+   "text": "Alsótamásivég",
+   "bbox": [
+    385,
+    352,
+    527,
+    371
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    403,
+    209,
+    416
+   ]
+  },
+  {
+   "text": "1997.09.21.",
+   "bbox": [
+    386,
+    404,
+    500,
+    419
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    454,
+    165,
+    467
+   ]
+  },
+  {
+   "text": "H-7174 Hátkőrös, Szegedi utca 55.",
+   "bbox": [
+    386,
+    455,
+    721,
+    474
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    505,
+    210,
+    518
+   ]
+  },
+  {
+   "text": "+36 30 392 3612",
+   "bbox": [
+    386,
+    506,
+    548,
+    521
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    556,
+    192,
+    569
+   ]
+  },
+  {
+   "text": "kovacs.norbert@freemail.hu",
+   "bbox": [
+    386,
+    555,
+    656,
+    574
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    101,
+    607,
+    240,
+    624
+   ]
+  },
+  {
+   "text": "8477457603",
+   "bbox": [
+    386,
+    609,
+    506,
+    624
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    658,
+    187,
+    671
+   ]
+  },
+  {
+   "text": "811 000 808",
+   "bbox": [
+    386,
+    659,
+    506,
+    674
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    735,
+    252,
+    754
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    779,
+    418,
+    796
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    824,
+    265,
+    837
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    134,
+    869,
+    433,
+    886
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    970,
+    128,
+    984
+   ]
+  },
+  {
+   "text": "Veszprém, 2026.04.15.",
+   "bbox": [
+    180,
+    967,
+    403,
+    986
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1019,
+    982,
+    1030
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

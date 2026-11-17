@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kiss István",
+  "email": "kiss.istvan@example.hu",
+  "telefon": "+36 70 558 9933",
+  "lakcim": "H-7362 Széknémeti, Györgyfalvai utca 138.",
+  "szuletesi_datum": "1976.08.23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1994 – 1998"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Consulting Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "1999 – 2003"
+   },
+   {
+    "ceg": "Hegedűs Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "1998 – 1999"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "C#",
+   "Excel",
+   "projektmenedzsment",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss István",
+   "bbox": [
+    492,
+    94,
+    747,
+    128
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    162,
+    707,
+    179
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    162,
+    226
+   ]
+  },
+  {
+   "text": "kiss.istvan@example.hu",
+   "bbox": [
+    330,
+    212,
+    534,
+    230
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    241,
+    171,
+    255
+   ]
+  },
+  {
+   "text": "+36 70 558 9933",
+   "bbox": [
+    330,
+    242,
+    473,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    270,
+    169,
+    284
+   ]
+  },
+  {
+   "text": "H-7362 Széknémeti, Györgyfalvai utca 138.",
+   "bbox": [
+    330,
+    269,
+    693,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    299,
+    255,
+    313
+   ]
+  },
+  {
+   "text": "1976.08.23.",
+   "bbox": [
+    330,
+    300,
+    429,
+    316
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    349,
+    327,
+    371
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    401,
+    198,
+    414
+   ]
+  },
+  {
+   "text": "értékesítő – Szabó Consulting Bt.",
+   "bbox": [
+    90,
+    420,
+    431,
+    439
+   ]
+  },
+  {
+   "text": "1998 – 1999",
+   "bbox": [
+    90,
+    460,
+    194,
+    476
+   ]
+  },
+  {
+   "text": "tesztmérnök – Hegedűs Zrt.",
+   "bbox": [
+    90,
+    482,
+    376,
+    501
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    532,
+    257,
+    554
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    90,
+    581,
+    194,
+    597
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    603,
+    287,
+    622
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    625,
+    220,
+    644
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    90,
+    669,
+    195,
+    682
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    688,
+    344,
+    707
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    711,
+    306,
+    729
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    761,
+    222,
+    783
+   ]
+  },
+  {
+   "text": "angol (C1), spanyol (B1)",
+   "bbox": [
+    90,
+    809,
+    288,
+    827
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    855,
+    213,
+    877
+   ]
+  },
+  {
+   "text": "JavaScript, C#, Excel, projektmenedzsment, Git",
+   "bbox": [
+    90,
+    903,
+    495,
+    921
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

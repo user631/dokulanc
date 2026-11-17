@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Márton Katalin",
+  "email": "marton.katalin@example.hu",
+  "telefon": "+36 20 897 4550",
+  "lakcim": "H-1980 Pécs, Pécsi út 98.",
+  "szuletesi_datum": "2002. 01. 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2020 – 2025"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Tech Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Kiss Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Tóth és Társa Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Git",
+   "prezentáció",
+   "Excel",
+   "Java",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Márton Katalin",
+   "bbox": [
+    441,
+    120,
+    799,
+    160
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    186,
+    679,
+    216
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    244,
+    169,
+    261
+   ]
+  },
+  {
+   "text": "marton.katalin@example.hu",
+   "bbox": [
+    330,
+    244,
+    603,
+    265
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    276,
+    180,
+    293
+   ]
+  },
+  {
+   "text": "+36 20 897 4550",
+   "bbox": [
+    330,
+    277,
+    499,
+    293
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    307,
+    177,
+    325
+   ]
+  },
+  {
+   "text": "H-1980 Pécs, Pécsi út 98.",
+   "bbox": [
+    330,
+    307,
+    579,
+    329
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    339,
+    275,
+    357
+   ]
+  },
+  {
+   "text": "2002. 01. 12.",
+   "bbox": [
+    330,
+    341,
+    461,
+    357
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    393,
+    357,
+    418
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    90,
+    444,
+    240,
+    465
+   ]
+  },
+  {
+   "text": "irodavezető – Kovács Tech Kft.",
+   "bbox": [
+    90,
+    470,
+    447,
+    488
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    512,
+    240,
+    533
+   ]
+  },
+  {
+   "text": "adatelemző – Kiss Logisztika Kft.",
+   "bbox": [
+    90,
+    538,
+    474,
+    561
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    580,
+    240,
+    601
+   ]
+  },
+  {
+   "text": "rendszergazda – Tóth és Társa Kft.",
+   "bbox": [
+    90,
+    606,
+    494,
+    629
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    658,
+    269,
+    684
+   ]
+  },
+  {
+   "text": "2020 – 2025",
+   "bbox": [
+    90,
+    711,
+    212,
+    727
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    736,
+    691,
+    759
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    761,
+    324,
+    779
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    805,
+    212,
+    821
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    830,
+    424,
+    853
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    856,
+    279,
+    877
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    908,
+    236,
+    934
+   ]
+  },
+  {
+   "text": "német (B2), angol (C1)",
+   "bbox": [
+    90,
+    959,
+    314,
+    981
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1008,
+    225,
+    1034
+   ]
+  },
+  {
+   "text": "csapatmunka, Git, prezentáció, Excel, Java, SQL",
+   "bbox": [
+    90,
+    1059,
+    560,
+    1081
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

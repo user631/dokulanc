@@ -1,0 +1,436 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-6427 Bácsvég, Mátrahetveni utca 101.",
+  "adoszam": "23704949-2-03",
+  "datum": "2024.05.25.",
+  "ido": "15:00",
+  "nyugtaszam": "0955/63341",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "23 184 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2364"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8355"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "322"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1163"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "570"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2430"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "563"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2946"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "646"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2757"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1068"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    176,
+    36,
+    372,
+    49
+   ]
+  },
+  {
+   "text": "H-6427 Bácsvég, Mátrahetveni utca 101.",
+   "bbox": [
+    66,
+    65,
+    484,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23704949-2-03",
+   "bbox": [
+    154,
+    87,
+    396,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    232,
+    130,
+    318,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 1182",
+   "bbox": [
+    24,
+    170,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    193,
+    144,
+    205
+   ]
+  },
+  {
+   "text": "2364 B00",
+   "bbox": [
+    431,
+    192,
+    527,
+    205
+   ]
+  },
+  {
+   "text": "3 DB x 2785",
+   "bbox": [
+    24,
+    220,
+    134,
+    231
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    242,
+    132,
+    255
+   ]
+  },
+  {
+   "text": "8355 C00",
+   "bbox": [
+    431,
+    242,
+    527,
+    255
+   ]
+  },
+  {
+   "text": "2 DB x 161",
+   "bbox": [
+    24,
+    270,
+    124,
+    281
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    292,
+    192,
+    308
+   ]
+  },
+  {
+   "text": "322 C00",
+   "bbox": [
+    443,
+    292,
+    527,
+    305
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    320,
+    120,
+    333
+   ]
+  },
+  {
+   "text": "1163 A00",
+   "bbox": [
+    431,
+    320,
+    527,
+    333
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    348,
+    132,
+    361
+   ]
+  },
+  {
+   "text": "570 C00",
+   "bbox": [
+    443,
+    348,
+    527,
+    361
+   ]
+  },
+  {
+   "text": "3 DB x 810",
+   "bbox": [
+    24,
+    376,
+    124,
+    387
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    398,
+    132,
+    411
+   ]
+  },
+  {
+   "text": "2430 B00",
+   "bbox": [
+    431,
+    398,
+    527,
+    411
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    426,
+    120,
+    439
+   ]
+  },
+  {
+   "text": "563 A00",
+   "bbox": [
+    443,
+    426,
+    527,
+    439
+   ]
+  },
+  {
+   "text": "3 DB x 982",
+   "bbox": [
+    24,
+    454,
+    124,
+    465
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    476,
+    168,
+    489
+   ]
+  },
+  {
+   "text": "2946 C00",
+   "bbox": [
+    431,
+    476,
+    527,
+    489
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    504,
+    120,
+    517
+   ]
+  },
+  {
+   "text": "646 A00",
+   "bbox": [
+    443,
+    504,
+    527,
+    517
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    532,
+    252,
+    545
+   ]
+  },
+  {
+   "text": "2757 C00",
+   "bbox": [
+    431,
+    532,
+    527,
+    545
+   ]
+  },
+  {
+   "text": "3 DB x 356",
+   "bbox": [
+    24,
+    560,
+    124,
+    571
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    582,
+    156,
+    598
+   ]
+  },
+  {
+   "text": "1068 A00",
+   "bbox": [
+    431,
+    582,
+    527,
+    595
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    618,
+    164,
+    638
+   ]
+  },
+  {
+   "text": "23 184 Ft",
+   "bbox": [
+    401,
+    623,
+    528,
+    638
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    657,
+    144,
+    673
+   ]
+  },
+  {
+   "text": "23 184 Ft",
+   "bbox": [
+    419,
+    660,
+    527,
+    673
+   ]
+  },
+  {
+   "text": "2024.05.25.",
+   "bbox": [
+    24,
+    702,
+    145,
+    713
+   ]
+  },
+  {
+   "text": "15:00",
+   "bbox": [
+    472,
+    702,
+    527,
+    713
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0955/63341",
+   "bbox": [
+    24,
+    727,
+    266,
+    742
+   ]
+  },
+  {
+   "text": "AP A16802927",
+   "bbox": [
+    24,
+    758,
+    156,
+    769
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    154,
+    795,
+    396,
+    810
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  551,
+  854
+ ]
+}

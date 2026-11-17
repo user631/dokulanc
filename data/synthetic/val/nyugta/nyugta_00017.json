@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MOLNÁR CSEMEGE BT.",
+  "uzlet_cim": "H-7468 Hátnémeti, Pilismindszenti utca 3.",
+  "adoszam": "68847418-2-23",
+  "datum": "2025.02.02.",
+  "ido": "15:52",
+  "nyugtaszam": "2473/14444",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 355 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1968"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "617"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "590"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "387"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "99"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "694"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR CSEMEGE BT.",
+   "bbox": [
+    192,
+    28,
+    444,
+    49
+   ]
+  },
+  {
+   "text": "H-7468 Hátnémeti, Pilismindszenti utca 3.",
+   "bbox": [
+    72,
+    66,
+    564,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 68847418-2-23",
+   "bbox": [
+    186,
+    91,
+    450,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    137,
+    363,
+    154
+   ]
+  },
+  {
+   "text": "2 DB x 984",
+   "bbox": [
+    24,
+    180,
+    134,
+    193
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    206,
+    180,
+    221
+   ]
+  },
+  {
+   "text": "1968 B00",
+   "bbox": [
+    509,
+    206,
+    613,
+    221
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    237,
+    232,
+    252
+   ]
+  },
+  {
+   "text": "617 A00",
+   "bbox": [
+    522,
+    237,
+    613,
+    252
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    268,
+    128,
+    283
+   ]
+  },
+  {
+   "text": "590 C00",
+   "bbox": [
+    522,
+    268,
+    613,
+    283
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    299,
+    167,
+    314
+   ]
+  },
+  {
+   "text": "387 B00",
+   "bbox": [
+    522,
+    299,
+    613,
+    314
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    330,
+    102,
+    345
+   ]
+  },
+  {
+   "text": "99 A00",
+   "bbox": [
+    535,
+    330,
+    613,
+    345
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    361,
+    128,
+    376
+   ]
+  },
+  {
+   "text": "694 A00",
+   "bbox": [
+    522,
+    361,
+    613,
+    376
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    400,
+    174,
+    422
+   ]
+  },
+  {
+   "text": "4 355 Ft",
+   "bbox": [
+    493,
+    405,
+    613,
+    422
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    440,
+    128,
+    460
+   ]
+  },
+  {
+   "text": "4 355 Ft",
+   "bbox": [
+    509,
+    445,
+    613,
+    460
+   ]
+  },
+  {
+   "text": "2025.02.02.",
+   "bbox": [
+    24,
+    490,
+    156,
+    503
+   ]
+  },
+  {
+   "text": "15:52",
+   "bbox": [
+    553,
+    490,
+    613,
+    503
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2473/14444",
+   "bbox": [
+    24,
+    517,
+    288,
+    536
+   ]
+  },
+  {
+   "text": "AP A72319218",
+   "bbox": [
+    24,
+    552,
+    168,
+    565
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    186,
+    590,
+    450,
+    609
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  637,
+  655
+ ]
+}

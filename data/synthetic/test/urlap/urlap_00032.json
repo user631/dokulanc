@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Hegedűs Lilla",
+  "anyja_neve": "Pataki Gizella",
+  "szuletesi_hely": "Györgydevecser",
+  "szuletesi_datum": "2003. 10. 03.",
+  "lakcim": "H-4937 Devecser, Arany jános utca 33.",
+  "telefon": "+36 70 599 7630",
+  "email": "hegedus.lilla@example.hu",
+  "adoazonosito_jel": "8499483429",
+  "taj_szam": "337 074 361",
+  "kelt": "Debrecen, 2025. 03. 01."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    494,
+    94,
+    745,
+    126
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    205,
+    292,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    260,
+    144,
+    273
+   ]
+  },
+  {
+   "text": "Hegedűs Lilla",
+   "bbox": [
+    424,
+    256,
+    619,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    312,
+    203,
+    330
+   ]
+  },
+  {
+   "text": "Pataki Gizella",
+   "bbox": [
+    424,
+    305,
+    634,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    365,
+    225,
+    383
+   ]
+  },
+  {
+   "text": "Györgydevecser",
+   "bbox": [
+    424,
+    357,
+    640,
+    386
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    418,
+    216,
+    432
+   ]
+  },
+  {
+   "text": "2003. 10. 03.",
+   "bbox": [
+    424,
+    414,
+    600,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    471,
+    173,
+    485
+   ]
+  },
+  {
+   "text": "H-4937 Devecser, Arany jános utca 33.",
+   "bbox": [
+    424,
+    464,
+    964,
+    492
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    524,
+    216,
+    538
+   ]
+  },
+  {
+   "text": "+36 70 599 7630",
+   "bbox": [
+    424,
+    519,
+    653,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    577,
+    203,
+    591
+   ]
+  },
+  {
+   "text": "hegedus.lilla@example.hu",
+   "bbox": [
+    424,
+    571,
+    806,
+    600
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    630,
+    249,
+    648
+   ]
+  },
+  {
+   "text": "8499483429",
+   "bbox": [
+    424,
+    626,
+    594,
+    645
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    684,
+    192,
+    697
+   ]
+  },
+  {
+   "text": "337 074 361",
+   "bbox": [
+    424,
+    679,
+    593,
+    699
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    763,
+    258,
+    783
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    807,
+    424,
+    825
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    852,
+    275,
+    866
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    897,
+    441,
+    915
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    999,
+    135,
+    1014
+   ]
+  },
+  {
+   "text": "Debrecen, 2025. 03. 01.",
+   "bbox": [
+    183,
+    994,
+    485,
+    1018
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1049,
+    980,
+    1061
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

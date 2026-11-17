@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Gulyás Márta",
+  "email": "gulyas.marta@freemail.hu",
+  "telefon": "+36 20 927 9387",
+  "lakcim": "H-8979 Mezőtótkövesd, Székhidai utca 76.",
+  "szuletesi_datum": "1998. 01. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sipos Logisztika Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Sárközi Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2024 – 2025"
+   },
+   {
+    "ceg": "Nagy Consulting Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2022 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Excel",
+   "projektmenedzsment",
+   "SAP",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    110,
+    230,
+    134
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    158,
+    112,
+    174
+   ]
+  },
+  {
+   "text": "gulyas.marta@freemail.hu",
+   "bbox": [
+    40,
+    182,
+    305,
+    202
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    216,
+    123,
+    232
+   ]
+  },
+  {
+   "text": "+36 20 927 9387",
+   "bbox": [
+    40,
+    241,
+    220,
+    256
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    273,
+    119,
+    290
+   ]
+  },
+  {
+   "text": "H-8979 Mezőtótkövesd,",
+   "bbox": [
+    40,
+    297,
+    280,
+    317
+   ]
+  },
+  {
+   "text": "Székhidai utca 76.",
+   "bbox": [
+    40,
+    321,
+    226,
+    338
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    355,
+    219,
+    372
+   ]
+  },
+  {
+   "text": "1998. 01. 18.",
+   "bbox": [
+    40,
+    381,
+    179,
+    396
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    440,
+    218,
+    464
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    484,
+    166,
+    505
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    538,
+    196,
+    562
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    583,
+    70,
+    599
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    610,
+    95,
+    627
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    638,
+    263,
+    659
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    667,
+    81,
+    683
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    694,
+    115,
+    711
+   ]
+  },
+  {
+   "text": "Gulyás Márta",
+   "bbox": [
+    450,
+    118,
+    790,
+    165
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    185,
+    583,
+    215
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    254,
+    743,
+    279
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    305,
+    623,
+    326
+   ]
+  },
+  {
+   "text": "értékesítő – Sipos Logisztika Kft.",
+   "bbox": [
+    450,
+    331,
+    874,
+    354
+   ]
+  },
+  {
+   "text": "2024 – 2025",
+   "bbox": [
+    450,
+    374,
+    592,
+    390
+   ]
+  },
+  {
+   "text": "irodavezető – Sárközi Kft.",
+   "bbox": [
+    450,
+    399,
+    782,
+    417
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    442,
+    592,
+    458
+   ]
+  },
+  {
+   "text": "projektmenedzser – Nagy Consulting Bt.",
+   "bbox": [
+    450,
+    467,
+    968,
+    490
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    519,
+    649,
+    545
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    450,
+    572,
+    592,
+    588
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    597,
+    1114,
+    620
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    622,
+    671,
+    640
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    666,
+    592,
+    682
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    691,
+    776,
+    709
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    716,
+    735,
+    738
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

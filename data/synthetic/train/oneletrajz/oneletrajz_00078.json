@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Juhász Krisztina",
+  "email": "juhasz.krisztina@example.hu",
+  "telefon": "06 1 468 9202",
+  "lakcim": "H-9645 Tapolcadevecser, Háthalasi utca 245.",
+  "szuletesi_datum": "1994.05.30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2013 – 2018"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bognár Consulting Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2022 – 2023"
+   },
+   {
+    "ceg": "Nagy Trade Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2018 – 2022"
+   },
+   {
+    "ceg": "Szűcs Trade Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2017 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Git",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    200,
+    118
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    98,
+    158
+   ]
+  },
+  {
+   "text": "juhasz.krisztina@example.hu",
+   "bbox": [
+    40,
+    167,
+    304,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    112,
+    216
+   ]
+  },
+  {
+   "text": "06 1 468 9202",
+   "bbox": [
+    40,
+    226,
+    158,
+    240
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    259,
+    106,
+    274
+   ]
+  },
+  {
+   "text": "H-9645 Tapolcadevecser, Háthalasi",
+   "bbox": [
+    40,
+    282,
+    356,
+    302
+   ]
+  },
+  {
+   "text": "utca 245.",
+   "bbox": [
+    40,
+    308,
+    123,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    341,
+    192,
+    356
+   ]
+  },
+  {
+   "text": "1994.05.30.",
+   "bbox": [
+    40,
+    366,
+    141,
+    380
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    427,
+    186,
+    448
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    470,
+    155,
+    489
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    498,
+    132,
+    517
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    553,
+    166,
+    574
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    596,
+    82,
+    611
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    624,
+    68,
+    639
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    651,
+    166,
+    671
+   ]
+  },
+  {
+   "text": "Juhász Krisztina",
+   "bbox": [
+    450,
+    105,
+    802,
+    139
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    175,
+    646,
+    194
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    691,
+    263
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    450,
+    290,
+    568,
+    306
+   ]
+  },
+  {
+   "text": "irodavezető – Bognár Consulting Bt.",
+   "bbox": [
+    450,
+    316,
+    833,
+    338
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    358,
+    568,
+    374
+   ]
+  },
+  {
+   "text": "értékesítő – Nagy Trade Bt.",
+   "bbox": [
+    450,
+    384,
+    740,
+    406
+   ]
+  },
+  {
+   "text": "2017 – 2018",
+   "bbox": [
+    450,
+    426,
+    568,
+    442
+   ]
+  },
+  {
+   "text": "értékesítő – Szűcs Trade Kft.",
+   "bbox": [
+    450,
+    452,
+    758,
+    469
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    505,
+    613,
+    529
+   ]
+  },
+  {
+   "text": "2013 – 2018",
+   "bbox": [
+    450,
+    556,
+    568,
+    572
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    582,
+    717,
+    604
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    607,
+    586,
+    629
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    650,
+    568,
+    666
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    676,
+    724,
+    693
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    700,
+    539,
+    723
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

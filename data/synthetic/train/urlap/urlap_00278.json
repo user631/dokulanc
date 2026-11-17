@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Papp József",
+  "anyja_neve": "Tóth Nikolett",
+  "szuletesi_hely": "Belsőmindszentberény",
+  "szuletesi_datum": "1965.06.28.",
+  "lakcim": "H-4745 Kecskemét, Nádasdi utca 141.",
+  "telefon": "+36 20 311 4885",
+  "email": "papp.jozsef@gmail.com",
+  "adoazonosito_jel": "8359729751",
+  "taj_szam": "159 730 821",
+  "kelt": "Pilisszékfalu, 2026.07.11."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    530,
+    112,
+    711,
+    137
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    477,
+    161,
+    764,
+    178
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    216,
+    303,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    271,
+    155,
+    284
+   ]
+  },
+  {
+   "text": "Papp József",
+   "bbox": [
+    412,
+    266,
+    576,
+    295
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    323,
+    214,
+    341
+   ]
+  },
+  {
+   "text": "Tóth Nikolett",
+   "bbox": [
+    412,
+    315,
+    602,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    376,
+    236,
+    394
+   ]
+  },
+  {
+   "text": "Belsőmindszentberény",
+   "bbox": [
+    412,
+    373,
+    728,
+    402
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    429,
+    227,
+    443
+   ]
+  },
+  {
+   "text": "1965.06.28.",
+   "bbox": [
+    412,
+    425,
+    572,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    482,
+    184,
+    496
+   ]
+  },
+  {
+   "text": "H-4745 Kecskemét, Nádasdi utca 141.",
+   "bbox": [
+    412,
+    479,
+    943,
+    504
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    535,
+    227,
+    549
+   ]
+  },
+  {
+   "text": "+36 20 311 4885",
+   "bbox": [
+    412,
+    531,
+    640,
+    550
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    588,
+    214,
+    602
+   ]
+  },
+  {
+   "text": "papp.jozsef@gmail.com",
+   "bbox": [
+    412,
+    585,
+    742,
+    614
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    641,
+    260,
+    659
+   ]
+  },
+  {
+   "text": "8359729751",
+   "bbox": [
+    412,
+    642,
+    582,
+    661
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    695,
+    203,
+    708
+   ]
+  },
+  {
+   "text": "159 730 821",
+   "bbox": [
+    412,
+    690,
+    581,
+    709
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    774,
+    269,
+    794
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    818,
+    435,
+    836
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    863,
+    286,
+    877
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    908,
+    452,
+    926
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1010,
+    146,
+    1025
+   ]
+  },
+  {
+   "text": "Pilisszékfalu, 2026.07.11.",
+   "bbox": [
+    194,
+    1006,
+    522,
+    1033
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1060,
+    969,
+    1072
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

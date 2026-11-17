@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Szilágyi Gergely",
+  "anyja_neve": "Varga Attila",
+  "szuletesi_hely": "Belsőmártonvég",
+  "szuletesi_datum": "1957. 03. 12.",
+  "lakcim": "H-8337 Újmártonfalva, Szabadság utca 13.",
+  "telefon": "+36 20 543 1720",
+  "email": "szilagyi.gergely@example.hu",
+  "adoazonosito_jel": "8329429654",
+  "taj_szam": "464 007 287",
+  "kelt": "Tiszafürdőberény, 2026. 03. 25."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    531,
+    98,
+    710,
+    125
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    458,
+    148,
+    782,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    201,
+    323,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    260,
+    146,
+    275
+   ]
+  },
+  {
+   "text": "Szilágyi Gergely",
+   "bbox": [
+    401,
+    258,
+    572,
+    280
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    101,
+    314,
+    215,
+    333
+   ]
+  },
+  {
+   "text": "Varga Attila",
+   "bbox": [
+    401,
+    312,
+    524,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    368,
+    242,
+    387
+   ]
+  },
+  {
+   "text": "Belsőmártonvég",
+   "bbox": [
+    401,
+    364,
+    572,
+    386
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    422,
+    231,
+    437
+   ]
+  },
+  {
+   "text": "1957. 03. 12.",
+   "bbox": [
+    401,
+    421,
+    540,
+    438
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    476,
+    178,
+    491
+   ]
+  },
+  {
+   "text": "H-8337 Újmártonfalva, Szabadság utca 13.",
+   "bbox": [
+    401,
+    470,
+    855,
+    496
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    530,
+    232,
+    545
+   ]
+  },
+  {
+   "text": "+36 20 543 1720",
+   "bbox": [
+    401,
+    528,
+    579,
+    545
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    584,
+    210,
+    599
+   ]
+  },
+  {
+   "text": "szilagyi.gergely@example.hu",
+   "bbox": [
+    401,
+    582,
+    708,
+    604
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    101,
+    638,
+    268,
+    657
+   ]
+  },
+  {
+   "text": "8329429654",
+   "bbox": [
+    401,
+    635,
+    531,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    692,
+    204,
+    707
+   ]
+  },
+  {
+   "text": "464 007 287",
+   "bbox": [
+    401,
+    693,
+    532,
+    710
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    771,
+    272,
+    793
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    817,
+    476,
+    836
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    862,
+    291,
+    877
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    134,
+    907,
+    494,
+    926
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    1009,
+    134,
+    1025
+   ]
+  },
+  {
+   "text": "Tiszafürdőberény, 2026. 03. 25.",
+   "bbox": [
+    180,
+    1006,
+    516,
+    1028
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1059,
+    987,
+    1072
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

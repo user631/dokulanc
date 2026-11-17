@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szűcs Viktória",
+  "email": "szucs.viktoria@gmail.com",
+  "telefon": "+36 70 742 3902",
+  "lakcim": "H-8125 Szolnok, Dózsa györgy tér 132.",
+  "szuletesi_datum": "1999. 11. 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Halász Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2021 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "projektmenedzsment",
+   "JavaScript",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szűcs Viktória",
+   "bbox": [
+    490,
+    101,
+    749,
+    132
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    533,
+    170,
+    706,
+    191
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    144,
+    235
+   ]
+  },
+  {
+   "text": "szucs.viktoria@gmail.com",
+   "bbox": [
+    330,
+    222,
+    531,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    251,
+    155,
+    264
+   ]
+  },
+  {
+   "text": "+36 70 742 3902",
+   "bbox": [
+    330,
+    252,
+    461,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    280,
+    149,
+    293
+   ]
+  },
+  {
+   "text": "H-8125 Szolnok, Dózsa györgy tér 132.",
+   "bbox": [
+    330,
+    280,
+    630,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    309,
+    222,
+    322
+   ]
+  },
+  {
+   "text": "1999. 11. 26.",
+   "bbox": [
+    330,
+    310,
+    433,
+    322
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    358,
+    277,
+    378
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    408,
+    187,
+    420
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Halász Tech Kft.",
+   "bbox": [
+    90,
+    429,
+    465,
+    447
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    479,
+    218,
+    499
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    529,
+    187,
+    541
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    550,
+    317,
+    568
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    574,
+    354,
+    590
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    614,
+    187,
+    626
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    635,
+    323,
+    653
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    659,
+    157,
+    675
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    708,
+    197,
+    728
+   ]
+  },
+  {
+   "text": "angol (C1), német (B2)",
+   "bbox": [
+    90,
+    757,
+    262,
+    773
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    802,
+    188,
+    822
+   ]
+  },
+  {
+   "text": "Git, prezentáció, projektmenedzsment, JavaScript, SAP",
+   "bbox": [
+    90,
+    851,
+    510,
+    867
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

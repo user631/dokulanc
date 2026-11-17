@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FAZEKAS CSEMEGE BT.",
+  "uzlet_cim": "H-1761 Salgótarján, Béke utca 54.",
+  "adoszam": "74058521-2-11",
+  "datum": "2026.06.27.",
+  "ido": "13:09",
+  "nyugtaszam": "4443/89526",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 960 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "379"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2166"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "415"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FAZEKAS CSEMEGE BT.",
+   "bbox": [
+    165,
+    35,
+    431,
+    49
+   ]
+  },
+  {
+   "text": "H-1761 Salgótarján, Béke utca 54.",
+   "bbox": [
+    116,
+    63,
+    479,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 74058521-2-11",
+   "bbox": [
+    177,
+    88,
+    419,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    131,
+    343,
+    147
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    172,
+    206,
+    187
+   ]
+  },
+  {
+   "text": "379 B00",
+   "bbox": [
+    481,
+    172,
+    572,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 1083",
+   "bbox": [
+    24,
+    201,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    226,
+    154,
+    239
+   ]
+  },
+  {
+   "text": "2166 A00",
+   "bbox": [
+    468,
+    224,
+    572,
+    239
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    253,
+    167,
+    271
+   ]
+  },
+  {
+   "text": "415 A00",
+   "bbox": [
+    481,
+    253,
+    572,
+    268
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    292,
+    174,
+    312
+   ]
+  },
+  {
+   "text": "2 960 Ft",
+   "bbox": [
+    452,
+    294,
+    572,
+    312
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    331,
+    167,
+    348
+   ]
+  },
+  {
+   "text": "2 960 Ft",
+   "bbox": [
+    468,
+    333,
+    572,
+    348
+   ]
+  },
+  {
+   "text": "2026.06.27.",
+   "bbox": [
+    24,
+    375,
+    145,
+    389
+   ]
+  },
+  {
+   "text": "13:09",
+   "bbox": [
+    517,
+    375,
+    572,
+    389
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4443/89526",
+   "bbox": [
+    24,
+    403,
+    266,
+    421
+   ]
+  },
+  {
+   "text": "AP A60074099",
+   "bbox": [
+    24,
+    433,
+    156,
+    447
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    166,
+    473,
+    430,
+    489
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  596,
+  534
+ ]
+}

@@ -1,0 +1,696 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/08637",
+  "kiallitas_datuma": "2024. október 4.",
+  "teljesites_datuma": "2024. október 3.",
+  "fizetesi_hatarido": "2024. október 12.",
+  "elado_nev": "Király Logisztika Bt.",
+  "elado_cim": "H-9536 Hajdúgyörgyvár, Arany jános utca 68.",
+  "elado_adoszam": "49724961-2-18",
+  "vevo_nev": "Németh és Társa Zrt.",
+  "vevo_cim": "H-6108 Mosonmindszentbánya, Nagykanizsai utca 114.",
+  "vevo_adoszam": "44176356-5-03",
+  "bankszamla": "76786662-45600489-64074036",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "272 580 Ft",
+  "afa_osszesen": "73 595 Ft",
+  "brutto_osszesen": "346 175 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "12 460",
+    "netto": "12 460",
+    "afa_kulcs": "27%",
+    "afa": "3 364",
+    "brutto": "15 824"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "3 db",
+    "egysegar": "62 530",
+    "netto": "187 590",
+    "afa_kulcs": "27%",
+    "afa": "50 649",
+    "brutto": "238 239"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "3 010",
+    "netto": "6 020",
+    "afa_kulcs": "27%",
+    "afa": "1 625",
+    "brutto": "7 645"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "8 990",
+    "netto": "44 950",
+    "afa_kulcs": "27%",
+    "afa": "12 136",
+    "brutto": "57 086"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "4 db",
+    "egysegar": "5 390",
+    "netto": "21 560",
+    "afa_kulcs": "27%",
+    "afa": "5 821",
+    "brutto": "27 381"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    456,
+    80,
+    784,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/08637",
+   "bbox": [
+    452,
+    144,
+    787,
+    164
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    83,
+    225,
+    140,
+    241
+   ]
+  },
+  {
+   "text": "Németh és Társa Zrt.",
+   "bbox": [
+    83,
+    261,
+    290,
+    277
+   ]
+  },
+  {
+   "text": "H-6108 Mosonmindszentbánya, Nagykanizsai utca 114.",
+   "bbox": [
+    83,
+    294,
+    583,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 44176356-5-03",
+   "bbox": [
+    83,
+    324,
+    313,
+    340
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    225,
+    693,
+    241
+   ]
+  },
+  {
+   "text": "Király Logisztika Bt.",
+   "bbox": [
+    630,
+    261,
+    822,
+    281
+   ]
+  },
+  {
+   "text": "H-9536 Hajdúgyörgyvár, Arany jános utca 68.",
+   "bbox": [
+    630,
+    294,
+    1038,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 49724961-2-18",
+   "bbox": [
+    630,
+    324,
+    860,
+    340
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    83,
+    393,
+    237,
+    408
+   ]
+  },
+  {
+   "text": "2024. október 4.",
+   "bbox": [
+    383,
+    392,
+    532,
+    408
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    83,
+    425,
+    252,
+    444
+   ]
+  },
+  {
+   "text": "2024. október 3.",
+   "bbox": [
+    383,
+    424,
+    532,
+    440
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    83,
+    457,
+    241,
+    472
+   ]
+  },
+  {
+   "text": "2024. október 12.",
+   "bbox": [
+    383,
+    456,
+    543,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    83,
+    489,
+    204,
+    504
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    383,
+    488,
+    456,
+    504
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    83,
+    533,
+    184,
+    549
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    534,
+    573,
+    549
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    678,
+    533,
+    748,
+    549
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    533,
+    877,
+    546
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    895,
+    530,
+    942,
+    546
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    530,
+    1044,
+    546
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    533,
+    1157,
+    546
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    512,
+    574,
+    552,
+    587
+   ]
+  },
+  {
+   "text": "12 460",
+   "bbox": [
+    694,
+    575,
+    748,
+    587
+   ]
+  },
+  {
+   "text": "12 460",
+   "bbox": [
+    823,
+    575,
+    877,
+    587
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    575,
+    942,
+    587
+   ]
+  },
+  {
+   "text": "3 364",
+   "bbox": [
+    1000,
+    575,
+    1044,
+    587
+   ]
+  },
+  {
+   "text": "15 824",
+   "bbox": [
+    1103,
+    575,
+    1157,
+    587
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    83,
+    574,
+    172,
+    587
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    512,
+    609,
+    546,
+    622
+   ]
+  },
+  {
+   "text": "62 530",
+   "bbox": [
+    694,
+    610,
+    748,
+    622
+   ]
+  },
+  {
+   "text": "187 590",
+   "bbox": [
+    813,
+    610,
+    877,
+    622
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    610,
+    942,
+    622
+   ]
+  },
+  {
+   "text": "50 649",
+   "bbox": [
+    990,
+    610,
+    1044,
+    622
+   ]
+  },
+  {
+   "text": "238 239",
+   "bbox": [
+    1093,
+    610,
+    1157,
+    622
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    83,
+    609,
+    178,
+    622
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    512,
+    644,
+    586,
+    657
+   ]
+  },
+  {
+   "text": "3 010",
+   "bbox": [
+    704,
+    645,
+    748,
+    657
+   ]
+  },
+  {
+   "text": "6 020",
+   "bbox": [
+    833,
+    645,
+    877,
+    657
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    645,
+    942,
+    657
+   ]
+  },
+  {
+   "text": "1 625",
+   "bbox": [
+    1000,
+    645,
+    1044,
+    657
+   ]
+  },
+  {
+   "text": "7 645",
+   "bbox": [
+    1113,
+    645,
+    1157,
+    657
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    83,
+    644,
+    171,
+    660
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    679,
+    546,
+    692
+   ]
+  },
+  {
+   "text": "8 990",
+   "bbox": [
+    704,
+    680,
+    748,
+    692
+   ]
+  },
+  {
+   "text": "44 950",
+   "bbox": [
+    823,
+    680,
+    877,
+    692
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    680,
+    942,
+    692
+   ]
+  },
+  {
+   "text": "12 136",
+   "bbox": [
+    990,
+    680,
+    1044,
+    692
+   ]
+  },
+  {
+   "text": "57 086",
+   "bbox": [
+    1103,
+    680,
+    1157,
+    692
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    83,
+    679,
+    220,
+    695
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    714,
+    546,
+    727
+   ]
+  },
+  {
+   "text": "5 390",
+   "bbox": [
+    704,
+    715,
+    748,
+    727
+   ]
+  },
+  {
+   "text": "21 560",
+   "bbox": [
+    823,
+    715,
+    877,
+    727
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    715,
+    942,
+    727
+   ]
+  },
+  {
+   "text": "5 821",
+   "bbox": [
+    1000,
+    715,
+    1044,
+    727
+   ]
+  },
+  {
+   "text": "27 381",
+   "bbox": [
+    1103,
+    715,
+    1157,
+    727
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    83,
+    714,
+    236,
+    730
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    680,
+    768,
+    827,
+    785
+   ]
+  },
+  {
+   "text": "272 580 Ft",
+   "bbox": [
+    1056,
+    770,
+    1157,
+    785
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    697,
+    802,
+    827,
+    821
+   ]
+  },
+  {
+   "text": "73 595 Ft",
+   "bbox": [
+    1068,
+    806,
+    1157,
+    821
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    638,
+    841,
+    827,
+    857
+   ]
+  },
+  {
+   "text": "346 175 Ft",
+   "bbox": [
+    1056,
+    842,
+    1157,
+    857
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 76786662-45600489-64074036",
+   "bbox": [
+    83,
+    907,
+    513,
+    921
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    83,
+    937,
+    581,
+    952
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    441,
+    1654,
+    798,
+    1669
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

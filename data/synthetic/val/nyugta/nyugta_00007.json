@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZILÁGYI CSEMEGE KFT.",
+  "uzlet_cim": "H-6708 Kaposvár, Györgyberényi utca 24.",
+  "adoszam": "59975151-2-34",
+  "datum": "2025.09.22.",
+  "ido": "21:56",
+  "nyugtaszam": "4688/68844",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 857 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "237"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1620"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZILÁGYI CSEMEGE KFT.",
+   "bbox": [
+    115,
+    28,
+    409,
+    50
+   ]
+  },
+  {
+   "text": "H-6708 Kaposvár, Györgyberényi utca 24.",
+   "bbox": [
+    28,
+    67,
+    496,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59975151-2-34",
+   "bbox": [
+    130,
+    92,
+    394,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    217,
+    139,
+    308,
+    157
+   ]
+  },
+  {
+   "text": "3 DB x 79",
+   "bbox": [
+    24,
+    185,
+    132,
+    198
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    211,
+    102,
+    226
+   ]
+  },
+  {
+   "text": "237 C00",
+   "bbox": [
+    409,
+    211,
+    500,
+    226
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    243,
+    154,
+    258
+   ]
+  },
+  {
+   "text": "1620 A00",
+   "bbox": [
+    396,
+    243,
+    500,
+    258
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    282,
+    159,
+    305
+   ]
+  },
+  {
+   "text": "1 857 Ft",
+   "bbox": [
+    380,
+    287,
+    500,
+    305
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    324,
+    168,
+    344
+   ]
+  },
+  {
+   "text": "1 857 Ft",
+   "bbox": [
+    396,
+    328,
+    500,
+    344
+   ]
+  },
+  {
+   "text": "2025.09.22.",
+   "bbox": [
+    24,
+    375,
+    156,
+    389
+   ]
+  },
+  {
+   "text": "21:56",
+   "bbox": [
+    440,
+    375,
+    500,
+    389
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4688/68844",
+   "bbox": [
+    24,
+    402,
+    288,
+    423
+   ]
+  },
+  {
+   "text": "AP A61443045",
+   "bbox": [
+    24,
+    439,
+    168,
+    453
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    119,
+    478,
+    405,
+    498
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  524,
+  544
+ ]
+}

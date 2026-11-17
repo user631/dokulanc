@@ -1,0 +1,374 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Balog Norbert",
+  "email": "balog.norbert@freemail.hu",
+  "telefon": "+36 70 785 3477",
+  "lakcim": "H-4640 Pécs, Fürdővárai utca 112.",
+  "szuletesi_datum": "1980. 01. 31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1998 – 2002"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Logisztika Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "ceg": "Jónás és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2003 – 2006"
+   },
+   {
+    "ceg": "Kovács Szolgáltató Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2002 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "B kategóriás jogosítvány",
+   "projektmenedzsment",
+   "prezentáció",
+   "SQL",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    89,
+    229,
+    113
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    140,
+    104,
+    155
+   ]
+  },
+  {
+   "text": "balog.norbert@freemail.hu",
+   "bbox": [
+    40,
+    165,
+    295,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    116,
+    215
+   ]
+  },
+  {
+   "text": "+36 70 785 3477",
+   "bbox": [
+    40,
+    225,
+    202,
+    240
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    259,
+    114,
+    275
+   ]
+  },
+  {
+   "text": "H-4640 Pécs, Fürdővárai utca 112.",
+   "bbox": [
+    40,
+    285,
+    374,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    319,
+    203,
+    335
+   ]
+  },
+  {
+   "text": "1980. 01. 31.",
+   "bbox": [
+    40,
+    345,
+    166,
+    360
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    404,
+    210,
+    428
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    450,
+    162,
+    470
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    479,
+    152,
+    499
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    533,
+    195,
+    557
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    579,
+    86,
+    595
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    608,
+    277,
+    628
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    637,
+    241,
+    657
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    666,
+    152,
+    686
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    695,
+    84,
+    712
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    724,
+    142,
+    744
+   ]
+  },
+  {
+   "text": "Balog Norbert",
+   "bbox": [
+    450,
+    99,
+    764,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    170,
+    680,
+    195
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    708,
+    260
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    287,
+    579,
+    304
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Nagy Logisztika Zrt.",
+   "bbox": [
+    448,
+    313,
+    877,
+    337
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    450,
+    357,
+    579,
+    374
+   ]
+  },
+  {
+   "text": "értékesítő – Jónás és Társa Kft.",
+   "bbox": [
+    450,
+    383,
+    808,
+    402
+   ]
+  },
+  {
+   "text": "2002 – 2003",
+   "bbox": [
+    450,
+    427,
+    579,
+    444
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kovács Szolgáltató Kft.",
+   "bbox": [
+    448,
+    453,
+    915,
+    477
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    508,
+    627,
+    533
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    560,
+    579,
+    577
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    582,
+    640,
+    610
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    614,
+    701,
+    631
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    657,
+    579,
+    674
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    683,
+    803,
+    707
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    711,
+    646,
+    733
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

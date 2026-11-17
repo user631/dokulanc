@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOCSIS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-4025 Kunligetvég, Veszprémi tér 47.",
+  "adoszam": "33867566-2-30",
+  "datum": "2025.04.22.",
+  "ido": "11:01",
+  "nyugtaszam": "5501/59201",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 299 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "229"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1473"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "882"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1350"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "216"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOCSIS ÉLELMISZER KFT.",
+   "bbox": [
+    146,
+    31,
+    454,
+    49
+   ]
+  },
+  {
+   "text": "H-4025 Kunligetvég, Veszprémi tér 47.",
+   "bbox": [
+    96,
+    63,
+    503,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 33867566-2-30",
+   "bbox": [
+    179,
+    88,
+    421,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    255,
+    131,
+    345,
+    147
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    172,
+    128,
+    187
+   ]
+  },
+  {
+   "text": "1149 B00",
+   "bbox": [
+    473,
+    172,
+    577,
+    187
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    203,
+    193,
+    216
+   ]
+  },
+  {
+   "text": "229 A00",
+   "bbox": [
+    486,
+    201,
+    577,
+    216
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    230,
+    154,
+    245
+   ]
+  },
+  {
+   "text": "1473 C00",
+   "bbox": [
+    473,
+    230,
+    577,
+    245
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    259,
+    219,
+    274
+   ]
+  },
+  {
+   "text": "882 B00",
+   "bbox": [
+    486,
+    259,
+    577,
+    274
+   ]
+  },
+  {
+   "text": "3 DB x 450",
+   "bbox": [
+    24,
+    288,
+    134,
+    301
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    313,
+    206,
+    326
+   ]
+  },
+  {
+   "text": "1350 B00",
+   "bbox": [
+    473,
+    311,
+    577,
+    326
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    340,
+    206,
+    358
+   ]
+  },
+  {
+   "text": "216 A00",
+   "bbox": [
+    486,
+    340,
+    577,
+    355
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    379,
+    174,
+    399
+   ]
+  },
+  {
+   "text": "5 299 Ft",
+   "bbox": [
+    457,
+    381,
+    577,
+    399
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    418,
+    167,
+    435
+   ]
+  },
+  {
+   "text": "5 299 Ft",
+   "bbox": [
+    473,
+    420,
+    577,
+    435
+   ]
+  },
+  {
+   "text": "2025.04.22.",
+   "bbox": [
+    24,
+    462,
+    145,
+    476
+   ]
+  },
+  {
+   "text": "11:01",
+   "bbox": [
+    522,
+    462,
+    577,
+    476
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5501/59201",
+   "bbox": [
+    24,
+    490,
+    266,
+    508
+   ]
+  },
+  {
+   "text": "AP A81164751",
+   "bbox": [
+    24,
+    520,
+    156,
+    534
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    168,
+    560,
+    432,
+    576
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  601,
+  621
+ ]
+}

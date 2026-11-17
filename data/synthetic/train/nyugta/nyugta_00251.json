@@ -1,0 +1,272 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KIRÁLY DISZKONT KFT.",
+  "uzlet_cim": "H-1242 Hátkövesd, Egeri utca 174.",
+  "adoszam": "86686295-2-39",
+  "datum": "2024.07.31.",
+  "ido": "14:53",
+  "nyugtaszam": "8159/29662",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 945 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "622"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2076"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "565"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "67"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1003"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "612"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KIRÁLY DISZKONT KFT.",
+   "bbox": [
+    130,
+    28,
+    410,
+    50
+   ]
+  },
+  {
+   "text": "H-1242 Hátkövesd, Egeri utca 174.",
+   "bbox": [
+    72,
+    67,
+    468,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 86686295-2-39",
+   "bbox": [
+    138,
+    92,
+    402,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    139,
+    316,
+    157
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    185,
+    128,
+    200
+   ]
+  },
+  {
+   "text": "622 A00",
+   "bbox": [
+    425,
+    185,
+    516,
+    200
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    217,
+    271,
+    232
+   ]
+  },
+  {
+   "text": "2076 A00",
+   "bbox": [
+    412,
+    217,
+    516,
+    232
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    249,
+    206,
+    264
+   ]
+  },
+  {
+   "text": "565 A00",
+   "bbox": [
+    425,
+    249,
+    516,
+    264
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    281,
+    102,
+    296
+   ]
+  },
+  {
+   "text": "67 B00",
+   "bbox": [
+    438,
+    281,
+    516,
+    296
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    313,
+    128,
+    328
+   ]
+  },
+  {
+   "text": "1003 B00",
+   "bbox": [
+    412,
+    313,
+    516,
+    328
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    345,
+    232,
+    360
+   ]
+  },
+  {
+   "text": "612 C00",
+   "bbox": [
+    425,
+    345,
+    516,
+    360
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    384,
+    174,
+    407
+   ]
+  },
+  {
+   "text": "4 945 Ft",
+   "bbox": [
+    396,
+    389,
+    516,
+    407
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    426,
+    128,
+    446
+   ]
+  },
+  {
+   "text": "4 945 Ft",
+   "bbox": [
+    412,
+    430,
+    516,
+    446
+   ]
+  },
+  {
+   "text": "2024.07.31.",
+   "bbox": [
+    24,
+    477,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "14:53",
+   "bbox": [
+    456,
+    477,
+    516,
+    491
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8159/29662",
+   "bbox": [
+    24,
+    504,
+    288,
+    525
+   ]
+  },
+  {
+   "text": "AP A99034300",
+   "bbox": [
+    24,
+    541,
+    168,
+    555
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    205,
+    581,
+    335,
+    600
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  540,
+  646
+ ]
+}

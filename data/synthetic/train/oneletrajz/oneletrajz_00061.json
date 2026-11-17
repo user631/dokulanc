@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tóth Antal",
+  "email": "toth.antal@freemail.hu",
+  "telefon": "+36 70 344 2111",
+  "lakcim": "H-6040 Mindszentapáti, Petőfi sándor utca 166.",
+  "szuletesi_datum": "1983. június 3.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Király Szolgáltató Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2007 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "SQL",
+   "Excel",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    188,
+    130
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    93,
+    168
+   ]
+  },
+  {
+   "text": "toth.antal@freemail.hu",
+   "bbox": [
+    40,
+    176,
+    219,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    208,
+    105,
+    222
+   ]
+  },
+  {
+   "text": "+36 70 344 2111",
+   "bbox": [
+    40,
+    231,
+    177,
+    244
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    262,
+    99,
+    276
+   ]
+  },
+  {
+   "text": "H-6040 Mindszentapáti, Petőfi sándor utca",
+   "bbox": [
+    40,
+    284,
+    379,
+    302
+   ]
+  },
+  {
+   "text": "166.",
+   "bbox": [
+    40,
+    307,
+    74,
+    320
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    338,
+    175,
+    352
+   ]
+  },
+  {
+   "text": "1983. június 3.",
+   "bbox": [
+    40,
+    361,
+    154,
+    378
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    419,
+    180,
+    440
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    461,
+    122,
+    478
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    487,
+    143,
+    505
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    539,
+    158,
+    560
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    581,
+    153,
+    599
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    608,
+    73,
+    623
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    633,
+    83,
+    647
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    659,
+    151,
+    677
+   ]
+  },
+  {
+   "text": "Tóth Antal",
+   "bbox": [
+    450,
+    121,
+    670,
+    154
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    186,
+    628,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    248,
+    674,
+    272
+   ]
+  },
+  {
+   "text": "2007 – 2008",
+   "bbox": [
+    450,
+    298,
+    558,
+    312
+   ]
+  },
+  {
+   "text": "rendszergazda – Király Szolgáltató Kft.",
+   "bbox": [
+    450,
+    321,
+    829,
+    342
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    372,
+    606,
+    396
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    422,
+    558,
+    436
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    445,
+    638,
+    466
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    469,
+    685,
+    489
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    450,
+    510,
+    558,
+    524
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    533,
+    746,
+    554
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    557,
+    672,
+    577
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó József",
+  "email": "szabo.jozsef@freemail.hu",
+  "telefon": "06 1 343 4754",
+  "lakcim": "H-8003 Székbánya, Mosonmagyaróvári utca 55.",
+  "szuletesi_datum": "1990. 03. 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2008 – 2013"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Trade Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2012 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "SAP",
+   "SQL",
+   "Python",
+   "C#",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó József",
+   "bbox": [
+    494,
+    83,
+    745,
+    118
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    518,
+    157,
+    721,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    156,
+    228
+   ]
+  },
+  {
+   "text": "szabo.jozsef@freemail.hu",
+   "bbox": [
+    330,
+    212,
+    570,
+    232
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    245,
+    168,
+    261
+   ]
+  },
+  {
+   "text": "06 1 343 4754",
+   "bbox": [
+    330,
+    246,
+    465,
+    261
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    163,
+    294
+   ]
+  },
+  {
+   "text": "H-8003 Székbánya, Mosonmagyaróvári utca 55.",
+   "bbox": [
+    330,
+    277,
+    773,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    248,
+    327
+   ]
+  },
+  {
+   "text": "1990. 03. 14.",
+   "bbox": [
+    330,
+    312,
+    454,
+    327
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    310,
+    388
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    418,
+    207,
+    433
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Tóth Trade Bt.",
+   "bbox": [
+    90,
+    444,
+    458,
+    464
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    497,
+    241,
+    521
+   ]
+  },
+  {
+   "text": "2008 – 2013",
+   "bbox": [
+    90,
+    551,
+    207,
+    566
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    577,
+    283,
+    597
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    603,
+    232,
+    624
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    648,
+    207,
+    663
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    674,
+    387,
+    694
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    700,
+    329,
+    721
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    754,
+    216,
+    778
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    806,
+    194,
+    827
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    856,
+    206,
+    880
+   ]
+  },
+  {
+   "text": "JavaScript, SAP, SQL, Python, C#, Excel",
+   "bbox": [
+    90,
+    909,
+    446,
+    929
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

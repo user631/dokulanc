@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2024/04800",
+  "kiallitas_datuma": "2024. 08. 11.",
+  "teljesites_datuma": "2024. 08. 07.",
+  "fizetesi_hatarido": "2024. 09. 10.",
+  "elado_nev": "Horváth Consulting Bt.",
+  "elado_cim": "H-8512 Veszprém, Arany jános utca 96.",
+  "elado_adoszam": "91332246-4-02",
+  "vevo_nev": "Fekete Consulting Kft.",
+  "vevo_cim": "H-2280 Salgótarján, Arany jános tér 167.",
+  "vevo_adoszam": "38631887-4-29",
+  "bankszamla": "32345946-50925348",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "220 610 Ft",
+  "afa_osszesen": "58 139 Ft",
+  "brutto_osszesen": "278 749 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "6 480",
+    "netto": "6 480",
+    "afa_kulcs": "5%",
+    "afa": "324",
+    "brutto": "6 804"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "42 740",
+    "netto": "42 740",
+    "afa_kulcs": "27%",
+    "afa": "11 540",
+    "brutto": "54 280"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "36 130",
+    "netto": "108 390",
+    "afa_kulcs": "27%",
+    "afa": "29 265",
+    "brutto": "137 655"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "15 750",
+    "netto": "63 000",
+    "afa_kulcs": "27%",
+    "afa": "17 010",
+    "brutto": "80 010"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH",
+   "bbox": [
+    100,
+    117,
+    232,
+    141
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    985,
+    105,
+    1154,
+    140
+   ]
+  },
+  {
+   "text": "Sorszám: A-2024/04800",
+   "bbox": [
+    858,
+    162,
+    1154,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    86,
+    241,
+    169,
+    261
+   ]
+  },
+  {
+   "text": "Horváth Consulting Bt.",
+   "bbox": [
+    86,
+    277,
+    390,
+    302
+   ]
+  },
+  {
+   "text": "H-8512 Veszprém, Arany jános utca 96.",
+   "bbox": [
+    86,
+    311,
+    531,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 91332246-4-02",
+   "bbox": [
+    86,
+    341,
+    377,
+    359
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    241,
+    706,
+    261
+   ]
+  },
+  {
+   "text": "Fekete Consulting Kft.",
+   "bbox": [
+    630,
+    278,
+    928,
+    302
+   ]
+  },
+  {
+   "text": "H-2280 Salgótarján, Arany jános tér 167.",
+   "bbox": [
+    630,
+    311,
+    1092,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 38631887-4-29",
+   "bbox": [
+    630,
+    341,
+    921,
+    359
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    86,
+    409,
+    299,
+    427
+   ]
+  },
+  {
+   "text": "2024. 08. 11.",
+   "bbox": [
+    386,
+    411,
+    538,
+    427
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    86,
+    441,
+    318,
+    463
+   ]
+  },
+  {
+   "text": "2024. 08. 07.",
+   "bbox": [
+    386,
+    443,
+    538,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    86,
+    473,
+    304,
+    491
+   ]
+  },
+  {
+   "text": "2024. 09. 10.",
+   "bbox": [
+    386,
+    475,
+    538,
+    491
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    86,
+    505,
+    252,
+    523
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    386,
+    505,
+    488,
+    527
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    548,
+    217,
+    568
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    550,
+    591,
+    568
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    548,
+    749,
+    568
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    548,
+    876,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    874,
+    545,
+    940,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    545,
+    1041,
+    564
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    548,
+    1154,
+    564
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    590,
+    556,
+    605
+   ]
+  },
+  {
+   "text": "6 480",
+   "bbox": [
+    693,
+    591,
+    748,
+    605
+   ]
+  },
+  {
+   "text": "6 480",
+   "bbox": [
+    821,
+    591,
+    876,
+    605
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    591,
+    940,
+    605
+   ]
+  },
+  {
+   "text": "324",
+   "bbox": [
+    1005,
+    591,
+    1041,
+    605
+   ]
+  },
+  {
+   "text": "6 804",
+   "bbox": [
+    1099,
+    591,
+    1154,
+    605
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    86,
+    590,
+    348,
+    609
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    513,
+    625,
+    554,
+    640
+   ]
+  },
+  {
+   "text": "42 740",
+   "bbox": [
+    681,
+    626,
+    748,
+    640
+   ]
+  },
+  {
+   "text": "42 740",
+   "bbox": [
+    809,
+    626,
+    876,
+    640
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    626,
+    940,
+    640
+   ]
+  },
+  {
+   "text": "11 540",
+   "bbox": [
+    974,
+    626,
+    1041,
+    640
+   ]
+  },
+  {
+   "text": "54 280",
+   "bbox": [
+    1087,
+    626,
+    1154,
+    640
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    86,
+    625,
+    257,
+    644
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    513,
+    660,
+    605,
+    675
+   ]
+  },
+  {
+   "text": "36 130",
+   "bbox": [
+    681,
+    661,
+    748,
+    675
+   ]
+  },
+  {
+   "text": "108 390",
+   "bbox": [
+    797,
+    661,
+    876,
+    675
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    661,
+    940,
+    675
+   ]
+  },
+  {
+   "text": "29 265",
+   "bbox": [
+    974,
+    661,
+    1041,
+    675
+   ]
+  },
+  {
+   "text": "137 655",
+   "bbox": [
+    1075,
+    661,
+    1154,
+    675
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    86,
+    660,
+    295,
+    679
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    513,
+    695,
+    563,
+    710
+   ]
+  },
+  {
+   "text": "15 750",
+   "bbox": [
+    681,
+    696,
+    748,
+    710
+   ]
+  },
+  {
+   "text": "63 000",
+   "bbox": [
+    809,
+    696,
+    876,
+    710
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    696,
+    940,
+    710
+   ]
+  },
+  {
+   "text": "17 010",
+   "bbox": [
+    974,
+    696,
+    1041,
+    710
+   ]
+  },
+  {
+   "text": "80 010",
+   "bbox": [
+    1087,
+    696,
+    1154,
+    710
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    86,
+    695,
+    377,
+    714
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    638,
+    750,
+    824,
+    769
+   ]
+  },
+  {
+   "text": "220 610 Ft",
+   "bbox": [
+    1026,
+    752,
+    1154,
+    769
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    782,
+    824,
+    805
+   ]
+  },
+  {
+   "text": "58 139 Ft",
+   "bbox": [
+    1041,
+    788,
+    1154,
+    805
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    591,
+    823,
+    824,
+    846
+   ]
+  },
+  {
+   "text": "278 749 Ft",
+   "bbox": [
+    1017,
+    824,
+    1154,
+    841
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 32345946-50925348",
+   "bbox": [
+    86,
+    888,
+    502,
+    905
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    467,
+    1650,
+    772,
+    1667
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

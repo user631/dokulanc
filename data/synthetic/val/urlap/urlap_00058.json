@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Tóth Mónika",
+  "anyja_neve": "Varga Hanna",
+  "szuletesi_hely": "Hídkövesd",
+  "szuletesi_datum": "1983.11.06.",
+  "lakcim": "H-3229 Nagyhídapáti, Egyházasszéki utca 94.",
+  "telefon": "+36 70 917 7396",
+  "email": "toth.monika@citromail.hu",
+  "adoazonosito_jel": "8426773718",
+  "taj_szam": "038 806 742",
+  "kelt": "Váctamásiháza, 2024.10.28."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    452,
+    93,
+    788,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    199,
+    307,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    252,
+    140,
+    266
+   ]
+  },
+  {
+   "text": "Tóth Mónika",
+   "bbox": [
+    417,
+    247,
+    542,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    103,
+    304,
+    197,
+    321
+   ]
+  },
+  {
+   "text": "Varga Hanna",
+   "bbox": [
+    417,
+    296,
+    549,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    354,
+    216,
+    372
+   ]
+  },
+  {
+   "text": "Hídkövesd",
+   "bbox": [
+    416,
+    348,
+    513,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    405,
+    208,
+    419
+   ]
+  },
+  {
+   "text": "1983.11.06.",
+   "bbox": [
+    416,
+    400,
+    535,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    456,
+    164,
+    470
+   ]
+  },
+  {
+   "text": "H-3229 Nagyhídapáti, Egyházasszéki utca 94.",
+   "bbox": [
+    416,
+    447,
+    894,
+    474
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    103,
+    507,
+    209,
+    521
+   ]
+  },
+  {
+   "text": "+36 70 917 7396",
+   "bbox": [
+    417,
+    504,
+    599,
+    522
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    558,
+    192,
+    572
+   ]
+  },
+  {
+   "text": "toth.monika@citromail.hu",
+   "bbox": [
+    416,
+    553,
+    673,
+    573
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    103,
+    609,
+    240,
+    627
+   ]
+  },
+  {
+   "text": "8426773718",
+   "bbox": [
+    417,
+    607,
+    560,
+    625
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    103,
+    660,
+    186,
+    674
+   ]
+  },
+  {
+   "text": "038 806 742",
+   "bbox": [
+    417,
+    657,
+    564,
+    675
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    737,
+    265,
+    758
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    781,
+    408,
+    799
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    826,
+    262,
+    840
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    136,
+    871,
+    428,
+    889
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    973,
+    130,
+    988
+   ]
+  },
+  {
+   "text": "Váctamásiháza, 2024.10.28.",
+   "bbox": [
+    182,
+    969,
+    447,
+    987
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1021,
+    979,
+    1033
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

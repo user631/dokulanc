@@ -1,0 +1,299 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "ILLÉS ÉLELMISZER BT.",
+  "uzlet_cim": "H-8834 Újligetfalva, Béke utca 229.",
+  "adoszam": "31521024-2-18",
+  "datum": "2025.07.24.",
+  "ido": "07:59",
+  "nyugtaszam": "3878/94875",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 297 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2864"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1292"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "746"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "778"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "574"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2043"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ILLÉS ÉLELMISZER BT.",
+   "bbox": [
+    116,
+    31,
+    436,
+    52
+   ]
+  },
+  {
+   "text": "H-8834 Újligetfalva, Béke utca 229.",
+   "bbox": [
+    48,
+    68,
+    503,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 31521024-2-18",
+   "bbox": [
+    133,
+    96,
+    419,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    144,
+    328,
+    160
+   ]
+  },
+  {
+   "text": "2 DB x 1432",
+   "bbox": [
+    24,
+    187,
+    167,
+    200
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    214,
+    206,
+    228
+   ]
+  },
+  {
+   "text": "2864 A00",
+   "bbox": [
+    417,
+    213,
+    529,
+    228
+   ]
+  },
+  {
+   "text": "2 DB x 646",
+   "bbox": [
+    24,
+    245,
+    154,
+    258
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    271,
+    220,
+    286
+   ]
+  },
+  {
+   "text": "1292 B00",
+   "bbox": [
+    417,
+    271,
+    529,
+    286
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    303,
+    136,
+    318
+   ]
+  },
+  {
+   "text": "746 B00",
+   "bbox": [
+    431,
+    303,
+    529,
+    318
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    335,
+    234,
+    350
+   ]
+  },
+  {
+   "text": "778 B00",
+   "bbox": [
+    431,
+    335,
+    529,
+    350
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    368,
+    220,
+    382
+   ]
+  },
+  {
+   "text": "574 A00",
+   "bbox": [
+    431,
+    367,
+    529,
+    382
+   ]
+  },
+  {
+   "text": "3 DB x 681",
+   "bbox": [
+    24,
+    399,
+    154,
+    412
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    425,
+    136,
+    440
+   ]
+  },
+  {
+   "text": "2043 A00",
+   "bbox": [
+    417,
+    425,
+    529,
+    440
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    466,
+    194,
+    488
+   ]
+  },
+  {
+   "text": "8 297 Ft",
+   "bbox": [
+    393,
+    471,
+    529,
+    488
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    507,
+    136,
+    526
+   ]
+  },
+  {
+   "text": "8 297 Ft",
+   "bbox": [
+    417,
+    511,
+    529,
+    526
+   ]
+  },
+  {
+   "text": "2025.07.24.",
+   "bbox": [
+    24,
+    557,
+    167,
+    571
+   ]
+  },
+  {
+   "text": "07:59",
+   "bbox": [
+    464,
+    557,
+    529,
+    571
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3878/94875",
+   "bbox": [
+    24,
+    586,
+    310,
+    605
+   ]
+  },
+  {
+   "text": "AP A16057556",
+   "bbox": [
+    24,
+    621,
+    180,
+    635
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    170,
+    660,
+    381,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  553,
+  724
+ ]
+}

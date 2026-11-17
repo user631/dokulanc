@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/01593",
+  "kiallitas_datuma": "2025-06-11",
+  "teljesites_datuma": "2025-06-09",
+  "fizetesi_hatarido": "2025-06-19",
+  "elado_nev": "Bálint Trade Kft.",
+  "elado_cim": "H-8363 Mezőtapolcabánya, Mindszentnémetii utca 189.",
+  "elado_adoszam": "75864178-2-27",
+  "vevo_nev": "Nagy Tech Kft.",
+  "vevo_cim": "H-7816 Győr, Györgyapátii utca 10.",
+  "vevo_adoszam": "39118097-2-36",
+  "bankszamla": "94416262-04948976-62162688",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "893 590 Ft",
+  "afa_osszesen": "241 269 Ft",
+  "brutto_osszesen": "1 134 859 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "12 db",
+    "egysegar": "13 520",
+    "netto": "162 240",
+    "afa_kulcs": "27%",
+    "afa": "43 805",
+    "brutto": "206 045"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "146 270",
+    "netto": "731 350",
+    "afa_kulcs": "27%",
+    "afa": "197 464",
+    "brutto": "928 814"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BÁLINT",
+   "bbox": [
+    102,
+    104,
+    202,
+    126
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    963,
+    83,
+    1170,
+    124
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/01593",
+   "bbox": [
+    875,
+    146,
+    1168,
+    173
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    72,
+    226,
+    161,
+    247
+   ]
+  },
+  {
+   "text": "Bálint Trade Kft.",
+   "bbox": [
+    72,
+    265,
+    305,
+    286
+   ]
+  },
+  {
+   "text": "H-8363 Mezőtapolcabánya, Mindszentnémetii",
+   "bbox": [
+    72,
+    302,
+    584,
+    326
+   ]
+  },
+  {
+   "text": "utca 189.",
+   "bbox": [
+    72,
+    336,
+    172,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 75864178-2-27",
+   "bbox": [
+    71,
+    368,
+    354,
+    391
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    227,
+    708,
+    247
+   ]
+  },
+  {
+   "text": "Nagy Tech Kft.",
+   "bbox": [
+    630,
+    266,
+    832,
+    292
+   ]
+  },
+  {
+   "text": "H-7816 Győr, Györgyapátii utca 10.",
+   "bbox": [
+    630,
+    302,
+    1017,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 39118097-2-36",
+   "bbox": [
+    629,
+    335,
+    912,
+    359
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    72,
+    439,
+    261,
+    456
+   ]
+  },
+  {
+   "text": "2025-06-11",
+   "bbox": [
+    72,
+    472,
+    193,
+    493
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    346,
+    439,
+    548,
+    461
+   ]
+  },
+  {
+   "text": "2025-06-09",
+   "bbox": [
+    346,
+    472,
+    476,
+    493
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    439,
+    813,
+    456
+   ]
+  },
+  {
+   "text": "2025-06-19",
+   "bbox": [
+    620,
+    472,
+    745,
+    493
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    894,
+    439,
+    1040,
+    456
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    893,
+    471,
+    1013,
+    494
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    72,
+    523,
+    210,
+    545
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    524,
+    595,
+    545
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    523,
+    752,
+    545
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    523,
+    883,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    879,
+    519,
+    948,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    519,
+    1053,
+    540
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    523,
+    1168,
+    540
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    510,
+    567,
+    561,
+    584
+   ]
+  },
+  {
+   "text": "13 520",
+   "bbox": [
+    687,
+    572,
+    751,
+    588
+   ]
+  },
+  {
+   "text": "162 240",
+   "bbox": [
+    807,
+    568,
+    883,
+    588
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    568,
+    948,
+    588
+   ]
+  },
+  {
+   "text": "43 805",
+   "bbox": [
+    984,
+    568,
+    1052,
+    588
+   ]
+  },
+  {
+   "text": "206 045",
+   "bbox": [
+    1087,
+    568,
+    1168,
+    588
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    72,
+    567,
+    199,
+    589
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    510,
+    605,
+    552,
+    626
+   ]
+  },
+  {
+   "text": "146 270",
+   "bbox": [
+    676,
+    606,
+    751,
+    626
+   ]
+  },
+  {
+   "text": "731 350",
+   "bbox": [
+    808,
+    610,
+    883,
+    626
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    606,
+    948,
+    626
+   ]
+  },
+  {
+   "text": "197 464",
+   "bbox": [
+    979,
+    606,
+    1052,
+    626
+   ]
+  },
+  {
+   "text": "928 814",
+   "bbox": [
+    1092,
+    606,
+    1168,
+    626
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    72,
+    605,
+    353,
+    627
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    659,
+    663,
+    838,
+    683
+   ]
+  },
+  {
+   "text": "893 590 Ft",
+   "bbox": [
+    1041,
+    665,
+    1168,
+    688
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    673,
+    698,
+    838,
+    722
+   ]
+  },
+  {
+   "text": "241 269 Ft",
+   "bbox": [
+    1045,
+    704,
+    1168,
+    727
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    600,
+    741,
+    838,
+    767
+   ]
+  },
+  {
+   "text": "1 134 859 Ft",
+   "bbox": [
+    1010,
+    743,
+    1169,
+    766
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 94416262-04948976-62162688",
+   "bbox": [
+    72,
+    811,
+    609,
+    833
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    462,
+    1662,
+    777,
+    1681
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VÖRÖS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-2702 Mellékhida, Petőfi sándor tér 196.",
+  "adoszam": "37369383-4-51",
+  "datum": "2025.02.28.",
+  "ido": "17:02",
+  "nyugtaszam": "1233/28232",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "17 520 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1025"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "982"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "193"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1095"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "354"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3054"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "592"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1283"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7104"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1260"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "578"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VÖRÖS ÉLELMISZER KFT.",
+   "bbox": [
+    107,
+    30,
+    423,
+    51
+   ]
+  },
+  {
+   "text": "H-2702 Mellékhida, Petőfi sándor tér",
+   "bbox": [
+    32,
+    70,
+    500,
+    86
+   ]
+  },
+  {
+   "text": "196.",
+   "bbox": [
+    240,
+    97,
+    292,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 37369383-4-51",
+   "bbox": [
+    123,
+    121,
+    409,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    217,
+    167,
+    315,
+    183
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    211,
+    234,
+    225
+   ]
+  },
+  {
+   "text": "1025 A00",
+   "bbox": [
+    397,
+    211,
+    509,
+    225
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    242,
+    136,
+    256
+   ]
+  },
+  {
+   "text": "982 C00",
+   "bbox": [
+    411,
+    242,
+    509,
+    256
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    273,
+    220,
+    290
+   ]
+  },
+  {
+   "text": "193 A00",
+   "bbox": [
+    411,
+    273,
+    509,
+    287
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    305,
+    164,
+    318
+   ]
+  },
+  {
+   "text": "1095 A00",
+   "bbox": [
+    397,
+    304,
+    509,
+    318
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    336,
+    220,
+    349
+   ]
+  },
+  {
+   "text": "354 C00",
+   "bbox": [
+    411,
+    335,
+    509,
+    349
+   ]
+  },
+  {
+   "text": "3 DB x 1018",
+   "bbox": [
+    24,
+    364,
+    156,
+    377
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    392,
+    206,
+    405
+   ]
+  },
+  {
+   "text": "3054 B00",
+   "bbox": [
+    397,
+    391,
+    509,
+    405
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    422,
+    150,
+    436
+   ]
+  },
+  {
+   "text": "592 A00",
+   "bbox": [
+    411,
+    422,
+    509,
+    436
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    453,
+    192,
+    467
+   ]
+  },
+  {
+   "text": "1283 A00",
+   "bbox": [
+    397,
+    453,
+    509,
+    467
+   ]
+  },
+  {
+   "text": "3 DB x 2368",
+   "bbox": [
+    24,
+    482,
+    156,
+    495
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    509,
+    150,
+    523
+   ]
+  },
+  {
+   "text": "7104 B00",
+   "bbox": [
+    397,
+    509,
+    509,
+    523
+   ]
+  },
+  {
+   "text": "3 DB x 420",
+   "bbox": [
+    24,
+    538,
+    144,
+    551
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    565,
+    178,
+    582
+   ]
+  },
+  {
+   "text": "1260 B00",
+   "bbox": [
+    397,
+    565,
+    509,
+    579
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    596,
+    248,
+    610
+   ]
+  },
+  {
+   "text": "578 C00",
+   "bbox": [
+    411,
+    596,
+    509,
+    610
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    634,
+    184,
+    656
+   ]
+  },
+  {
+   "text": "17 520 Ft",
+   "bbox": [
+    365,
+    639,
+    509,
+    656
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    677,
+    136,
+    694
+   ]
+  },
+  {
+   "text": "17 520 Ft",
+   "bbox": [
+    383,
+    680,
+    509,
+    694
+   ]
+  },
+  {
+   "text": "2025.02.28.",
+   "bbox": [
+    24,
+    724,
+    167,
+    737
+   ]
+  },
+  {
+   "text": "17:02",
+   "bbox": [
+    444,
+    724,
+    509,
+    737
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1233/28232",
+   "bbox": [
+    24,
+    752,
+    310,
+    770
+   ]
+  },
+  {
+   "text": "AP A58364049",
+   "bbox": [
+    24,
+    786,
+    180,
+    799
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    167,
+    825,
+    363,
+    843
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  533,
+  887
+ ]
+}

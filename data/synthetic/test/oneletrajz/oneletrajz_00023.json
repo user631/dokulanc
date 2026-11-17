@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Bognár Tünde",
+  "email": "bognar.tunde@freemail.hu",
+  "telefon": "06 1 535 5047",
+  "lakcim": "H-4645 Fa, Ózdi utca 153.",
+  "szuletesi_datum": "1994. július 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vincze Szolgáltató Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2020 – 2022"
+   },
+   {
+    "ceg": "Bakos és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "prezentáció",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    102,
+    213,
+    123
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    149,
+    97,
+    163
+   ]
+  },
+  {
+   "text": "bognar.tunde@freemail.hu",
+   "bbox": [
+    40,
+    172,
+    269,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    205,
+    109,
+    219
+   ]
+  },
+  {
+   "text": "06 1 535 5047",
+   "bbox": [
+    40,
+    228,
+    165,
+    242
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    260,
+    107,
+    275
+   ]
+  },
+  {
+   "text": "H-4645 Fa, Ózdi utca 153.",
+   "bbox": [
+    40,
+    280,
+    267,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    316,
+    187,
+    331
+   ]
+  },
+  {
+   "text": "1994. július 29.",
+   "bbox": [
+    40,
+    340,
+    170,
+    358
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    399,
+    196,
+    420
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    442,
+    144,
+    461
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    495,
+    181,
+    516
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    538,
+    226,
+    557
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    565,
+    143,
+    584
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    592,
+    88,
+    607
+   ]
+  },
+  {
+   "text": "Bognár Tünde",
+   "bbox": [
+    450,
+    110,
+    753,
+    152
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    180,
+    637,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    688,
+    266
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    450,
+    294,
+    570,
+    309
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Vincze Szolgáltató Kft.",
+   "bbox": [
+    450,
+    317,
+    983,
+    338
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    360,
+    570,
+    375
+   ]
+  },
+  {
+   "text": "irodavezető – Bakos és Társa Kft.",
+   "bbox": [
+    450,
+    383,
+    795,
+    400
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    434,
+    610,
+    459
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    487,
+    570,
+    502
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    510,
+    735,
+    531
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    537,
+    773,
+    556
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    578,
+    570,
+    593
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    601,
+    715,
+    618
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    628,
+    533,
+    647
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Varga Zsófia",
+  "anyja_neve": "Szabó Gábor",
+  "szuletesi_hely": "Hetvenkövesd",
+  "szuletesi_datum": "1976.03.04.",
+  "lakcim": "H-7187 Alsógyörgyvárad, József attila utca 108.",
+  "telefon": "06 1 163 4015",
+  "email": "varga.zsofia@freemail.hu",
+  "adoazonosito_jel": "8398741279",
+  "taj_szam": "166 538 330",
+  "kelt": "Tótháza, 2026.07.18."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    424,
+    98,
+    815,
+    131
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    493,
+    150,
+    747,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    202,
+    291,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    254,
+    140,
+    267
+   ]
+  },
+  {
+   "text": "Varga Zsófia",
+   "bbox": [
+    433,
+    249,
+    549,
+    270
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    305,
+    195,
+    322
+   ]
+  },
+  {
+   "text": "Szabó Gábor",
+   "bbox": [
+    433,
+    300,
+    552,
+    316
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    355,
+    214,
+    373
+   ]
+  },
+  {
+   "text": "Hetvenkövesd",
+   "bbox": [
+    433,
+    351,
+    563,
+    367
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    406,
+    208,
+    420
+   ]
+  },
+  {
+   "text": "1976.03.04.",
+   "bbox": [
+    433,
+    403,
+    536,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    457,
+    163,
+    471
+   ]
+  },
+  {
+   "text": "H-7187 Alsógyörgyvárad, József attila utca 108.",
+   "bbox": [
+    433,
+    457,
+    870,
+    478
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    508,
+    208,
+    522
+   ]
+  },
+  {
+   "text": "06 1 163 4015",
+   "bbox": [
+    433,
+    509,
+    561,
+    524
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    559,
+    191,
+    573
+   ]
+  },
+  {
+   "text": "varga.zsofia@freemail.hu",
+   "bbox": [
+    433,
+    555,
+    667,
+    576
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    610,
+    243,
+    628
+   ]
+  },
+  {
+   "text": "8398741279",
+   "bbox": [
+    433,
+    608,
+    543,
+    623
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    662,
+    182,
+    675
+   ]
+  },
+  {
+   "text": "166 538 330",
+   "bbox": [
+    433,
+    662,
+    544,
+    677
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    740,
+    255,
+    761
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    782,
+    410,
+    800
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    827,
+    262,
+    841
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    872,
+    431,
+    890
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    976,
+    129,
+    990
+   ]
+  },
+  {
+   "text": "Tótháza, 2026.07.18.",
+   "bbox": [
+    183,
+    972,
+    371,
+    991
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1025,
+    978,
+    1036
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Erika",
+  "email": "horvath.erika@citromail.hu",
+  "telefon": "+36 70 903 6268",
+  "lakcim": "H-5090 Mindszentváros, Mosontapolcai utca 245.",
+  "szuletesi_datum": "1996. 06. 05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   },
+   {
+    "ceg": "Vass Szolgáltató Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2020 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "SQL",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    79,
+    161,
+    96
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    122,
+    83,
+    134
+   ]
+  },
+  {
+   "text": "horvath.erika@citromail.hu",
+   "bbox": [
+    40,
+    143,
+    232,
+    157
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    174,
+    93,
+    186
+   ]
+  },
+  {
+   "text": "+36 70 903 6268",
+   "bbox": [
+    40,
+    196,
+    159,
+    207
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    226,
+    88,
+    238
+   ]
+  },
+  {
+   "text": "H-5090 Mindszentváros, Mosontapolcai utca",
+   "bbox": [
+    40,
+    247,
+    354,
+    262
+   ]
+  },
+  {
+   "text": "245.",
+   "bbox": [
+    40,
+    269,
+    71,
+    280
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    299,
+    153,
+    311
+   ]
+  },
+  {
+   "text": "1996. 06. 05.",
+   "bbox": [
+    40,
+    321,
+    132,
+    332
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    379,
+    156,
+    396
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    419,
+    129,
+    434
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    444,
+    120,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    496,
+    136,
+    513
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    536,
+    78,
+    548
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    562,
+    68,
+    575
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    587,
+    72,
+    598
+   ]
+  },
+  {
+   "text": "Horváth Erika",
+   "bbox": [
+    450,
+    83,
+    693,
+    113
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    150,
+    546,
+    173
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    214,
+    637,
+    234
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    263,
+    566,
+    279
+   ]
+  },
+  {
+   "text": "rendszergazda – Nagy és Társa Kft.",
+   "bbox": [
+    450,
+    285,
+    738,
+    303
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    326,
+    547,
+    338
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Vass Szolgáltató Kft.",
+   "bbox": [
+    450,
+    347,
+    775,
+    365
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    397,
+    578,
+    417
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    450,
+    447,
+    547,
+    459
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    465,
+    588,
+    486
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    450,
+    492,
+    655,
+    505
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    532,
+    547,
+    544
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    553,
+    683,
+    571
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    577,
+    647,
+    593
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

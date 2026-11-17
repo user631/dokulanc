@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2026/01472",
+  "kiallitas_datuma": "2026. november 17.",
+  "teljesites_datuma": "2026. november 12.",
+  "fizetesi_hatarido": "2026. november 25.",
+  "elado_nev": "Nagy Consulting Bt.",
+  "elado_cim": "H-6141 Tatabánya, Dunaújvárosi tér 198.",
+  "elado_adoszam": "96066959-2-41",
+  "vevo_nev": "Kovács Consulting Zrt.",
+  "vevo_cim": "H-2542 Alsómártonvég, Arany jános utca 75.",
+  "vevo_adoszam": "46027320-2-42",
+  "bankszamla": "25127982-90797699-59955405",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "254 090 Ft",
+  "afa_osszesen": "68 604 Ft",
+  "brutto_osszesen": "322 694 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "19 810",
+    "netto": "198 100",
+    "afa_kulcs": "27%",
+    "afa": "53 487",
+    "brutto": "251 587"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "5 db",
+    "egysegar": "7 870",
+    "netto": "39 350",
+    "afa_kulcs": "27%",
+    "afa": "10 624",
+    "brutto": "49 974"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "4 db",
+    "egysegar": "4 160",
+    "netto": "16 640",
+    "afa_kulcs": "27%",
+    "afa": "4 493",
+    "brutto": "21 133"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    548,
+    105,
+    692,
+    138
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2026/01472",
+   "bbox": [
+    448,
+    162,
+    792,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    97,
+    242,
+    167,
+    260
+   ]
+  },
+  {
+   "text": "Nagy Consulting Bt.",
+   "bbox": [
+    97,
+    277,
+    316,
+    298
+   ]
+  },
+  {
+   "text": "H-6141 Tatabánya, Dunaújvárosi tér 198.",
+   "bbox": [
+    97,
+    307,
+    468,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 96066959-2-41",
+   "bbox": [
+    96,
+    335,
+    325,
+    352
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    242,
+    693,
+    260
+   ]
+  },
+  {
+   "text": "Kovács Consulting Zrt.",
+   "bbox": [
+    630,
+    276,
+    879,
+    298
+   ]
+  },
+  {
+   "text": "H-2542 Alsómártonvég, Arany jános utca 75.",
+   "bbox": [
+    630,
+    307,
+    1029,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 46027320-2-42",
+   "bbox": [
+    629,
+    335,
+    858,
+    352
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    97,
+    401,
+    267,
+    418
+   ]
+  },
+  {
+   "text": "2026. november 17.",
+   "bbox": [
+    397,
+    402,
+    576,
+    418
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    97,
+    431,
+    282,
+    452
+   ]
+  },
+  {
+   "text": "2026. november 12.",
+   "bbox": [
+    397,
+    432,
+    576,
+    448
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    97,
+    461,
+    272,
+    478
+   ]
+  },
+  {
+   "text": "2026. november 25.",
+   "bbox": [
+    397,
+    462,
+    576,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    97,
+    491,
+    231,
+    508
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    397,
+    491,
+    478,
+    512
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    533,
+    202,
+    550
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    535,
+    577,
+    550
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    667,
+    533,
+    746,
+    550
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    533,
+    871,
+    547
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    530,
+    933,
+    547
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    530,
+    1033,
+    547
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1088,
+    533,
+    1143,
+    547
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    515,
+    573,
+    595,
+    586
+   ]
+  },
+  {
+   "text": "19 810",
+   "bbox": [
+    695,
+    574,
+    745,
+    586
+   ]
+  },
+  {
+   "text": "198 100",
+   "bbox": [
+    812,
+    574,
+    871,
+    586
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    574,
+    933,
+    586
+   ]
+  },
+  {
+   "text": "53 487",
+   "bbox": [
+    983,
+    574,
+    1033,
+    586
+   ]
+  },
+  {
+   "text": "251 587",
+   "bbox": [
+    1084,
+    574,
+    1143,
+    586
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    96,
+    572,
+    264,
+    589
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    515,
+    606,
+    547,
+    619
+   ]
+  },
+  {
+   "text": "7 870",
+   "bbox": [
+    704,
+    607,
+    745,
+    619
+   ]
+  },
+  {
+   "text": "39 350",
+   "bbox": [
+    821,
+    607,
+    871,
+    619
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    607,
+    933,
+    619
+   ]
+  },
+  {
+   "text": "10 624",
+   "bbox": [
+    983,
+    607,
+    1033,
+    619
+   ]
+  },
+  {
+   "text": "49 974",
+   "bbox": [
+    1093,
+    607,
+    1143,
+    619
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    97,
+    605,
+    221,
+    619
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    515,
+    639,
+    547,
+    652
+   ]
+  },
+  {
+   "text": "4 160",
+   "bbox": [
+    704,
+    640,
+    745,
+    652
+   ]
+  },
+  {
+   "text": "16 640",
+   "bbox": [
+    821,
+    640,
+    871,
+    652
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    640,
+    933,
+    652
+   ]
+  },
+  {
+   "text": "4 493",
+   "bbox": [
+    992,
+    640,
+    1033,
+    652
+   ]
+  },
+  {
+   "text": "21 133",
+   "bbox": [
+    1093,
+    640,
+    1143,
+    652
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    97,
+    638,
+    245,
+    655
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    668,
+    692,
+    813,
+    709
+   ]
+  },
+  {
+   "text": "254 090 Ft",
+   "bbox": [
+    1045,
+    693,
+    1143,
+    709
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    722,
+    813,
+    743
+   ]
+  },
+  {
+   "text": "68 604 Ft",
+   "bbox": [
+    1056,
+    727,
+    1143,
+    743
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    604,
+    760,
+    813,
+    777
+   ]
+  },
+  {
+   "text": "322 694 Ft",
+   "bbox": [
+    1032,
+    761,
+    1143,
+    777
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 25127982-90797699-59955405",
+   "bbox": [
+    97,
+    824,
+    503,
+    839
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2025/09908",
+  "kiallitas_datuma": "2025. 07. 24.",
+  "teljesites_datuma": "2025. 07. 19.",
+  "fizetesi_hatarido": "2025. 08. 08.",
+  "elado_nev": "Juhász Tech Kft.",
+  "elado_cim": "H-8717 Fürdőháza, Szabadság utca 129.",
+  "elado_adoszam": "27976263-2-33",
+  "vevo_nev": "Varga és Társa Kft.",
+  "vevo_cim": "H-3377 Tótfalu, Drávaszéki út 3.",
+  "vevo_adoszam": "97839466-2-41",
+  "bankszamla": "HU71 1646 3509 9287 7874 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "17 560 Ft",
+  "afa_osszesen": "4 741 Ft",
+  "brutto_osszesen": "22 301 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "4 390",
+    "netto": "17 560",
+    "afa_kulcs": "27%",
+    "afa": "4 741",
+    "brutto": "22 301"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    383,
+    79,
+    856,
+    114
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/09908",
+   "bbox": [
+    405,
+    136,
+    835,
+    159
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    215,
+    153,
+    235
+   ]
+  },
+  {
+   "text": "Juhász Tech Kft.",
+   "bbox": [
+    70,
+    251,
+    289,
+    271
+   ]
+  },
+  {
+   "text": "H-8717 Fürdőháza, Szabadság utca 129.",
+   "bbox": [
+    70,
+    285,
+    524,
+    307
+   ]
+  },
+  {
+   "text": "Adószám: 27976263-2-33",
+   "bbox": [
+    70,
+    315,
+    361,
+    333
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    215,
+    706,
+    235
+   ]
+  },
+  {
+   "text": "Varga és Társa Kft.",
+   "bbox": [
+    630,
+    251,
+    886,
+    276
+   ]
+  },
+  {
+   "text": "H-3377 Tótfalu, Drávaszéki út 3.",
+   "bbox": [
+    630,
+    285,
+    995,
+    307
+   ]
+  },
+  {
+   "text": "Adószám: 97839466-2-41",
+   "bbox": [
+    630,
+    315,
+    921,
+    333
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    70,
+    383,
+    283,
+    401
+   ]
+  },
+  {
+   "text": "2025. 07. 24.",
+   "bbox": [
+    370,
+    385,
+    522,
+    401
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    70,
+    415,
+    302,
+    437
+   ]
+  },
+  {
+   "text": "2025. 07. 19.",
+   "bbox": [
+    370,
+    417,
+    522,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    70,
+    447,
+    288,
+    465
+   ]
+  },
+  {
+   "text": "2025. 08. 08.",
+   "bbox": [
+    370,
+    449,
+    522,
+    465
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    70,
+    479,
+    236,
+    497
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    370,
+    479,
+    494,
+    501
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    522,
+    201,
+    542
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    524,
+    588,
+    542
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    522,
+    753,
+    542
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    522,
+    884,
+    538
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    519,
+    950,
+    538
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1012,
+    519,
+    1054,
+    538
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1102,
+    522,
+    1170,
+    538
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    510,
+    564,
+    602,
+    579
+   ]
+  },
+  {
+   "text": "4 390",
+   "bbox": [
+    697,
+    565,
+    752,
+    579
+   ]
+  },
+  {
+   "text": "17 560",
+   "bbox": [
+    817,
+    565,
+    884,
+    579
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    565,
+    950,
+    579
+   ]
+  },
+  {
+   "text": "4 741",
+   "bbox": [
+    999,
+    565,
+    1054,
+    579
+   ]
+  },
+  {
+   "text": "22 301",
+   "bbox": [
+    1103,
+    565,
+    1170,
+    579
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    70,
+    564,
+    183,
+    583
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    654,
+    619,
+    840,
+    638
+   ]
+  },
+  {
+   "text": "17 560 Ft",
+   "bbox": [
+    1057,
+    621,
+    1170,
+    638
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    672,
+    651,
+    840,
+    674
+   ]
+  },
+  {
+   "text": "4 741 Ft",
+   "bbox": [
+    1072,
+    657,
+    1170,
+    674
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    607,
+    692,
+    840,
+    715
+   ]
+  },
+  {
+   "text": "22 301 Ft",
+   "bbox": [
+    1049,
+    693,
+    1170,
+    710
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU71 1646 3509 9287 7874 0000 0000",
+   "bbox": [
+    70,
+    757,
+    679,
+    774
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    467,
+    1666,
+    772,
+    1683
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

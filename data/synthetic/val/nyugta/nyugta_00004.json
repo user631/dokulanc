@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LUKÁCS MARKET KFT.",
+  "uzlet_cim": "H-2068 Budakeresztvár, Miskolci utca 129.",
+  "adoszam": "52955468-3-22",
+  "datum": "2026.08.25.",
+  "ido": "17:10",
+  "nyugtaszam": "8659/88820",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "6 616 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1069"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1198"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2587"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "209"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1136"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "417"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LUKÁCS MARKET KFT.",
+   "bbox": [
+    159,
+    30,
+    411,
+    50
+   ]
+  },
+  {
+   "text": "H-2068 Budakeresztvár, Miskolci utca 129.",
+   "bbox": [
+    39,
+    68,
+    531,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 52955468-3-22",
+   "bbox": [
+    153,
+    91,
+    417,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    137,
+    334,
+    152
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    179,
+    219,
+    193
+   ]
+  },
+  {
+   "text": "1069 B00",
+   "bbox": [
+    442,
+    179,
+    546,
+    193
+   ]
+  },
+  {
+   "text": "2 DB x 599",
+   "bbox": [
+    24,
+    208,
+    134,
+    220
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    233,
+    167,
+    247
+   ]
+  },
+  {
+   "text": "1198 A00",
+   "bbox": [
+    442,
+    233,
+    546,
+    247
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    263,
+    271,
+    277
+   ]
+  },
+  {
+   "text": "2587 A00",
+   "bbox": [
+    442,
+    263,
+    546,
+    277
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    293,
+    206,
+    310
+   ]
+  },
+  {
+   "text": "209 B00",
+   "bbox": [
+    455,
+    293,
+    546,
+    307
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    323,
+    128,
+    337
+   ]
+  },
+  {
+   "text": "1136 A00",
+   "bbox": [
+    442,
+    323,
+    546,
+    337
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    353,
+    167,
+    370
+   ]
+  },
+  {
+   "text": "417 C00",
+   "bbox": [
+    455,
+    353,
+    546,
+    367
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    392,
+    168,
+    412
+   ]
+  },
+  {
+   "text": "6 616 Ft",
+   "bbox": [
+    418,
+    396,
+    546,
+    412
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    432,
+    168,
+    449
+   ]
+  },
+  {
+   "text": "6 616 Ft",
+   "bbox": [
+    442,
+    435,
+    546,
+    449
+   ]
+  },
+  {
+   "text": "2026.08.25.",
+   "bbox": [
+    24,
+    478,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "17:10",
+   "bbox": [
+    486,
+    478,
+    546,
+    491
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8659/88820",
+   "bbox": [
+    24,
+    505,
+    288,
+    523
+   ]
+  },
+  {
+   "text": "AP A97857266",
+   "bbox": [
+    24,
+    538,
+    168,
+    551
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    220,
+    579,
+    350,
+    594
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  570,
+  638
+ ]
+}

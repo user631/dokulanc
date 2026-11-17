@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Farkas Ilona",
+  "anyja_neve": "Kovács Tamás",
+  "szuletesi_hely": "Hátfalva",
+  "szuletesi_datum": "1980. 02. 04.",
+  "lakcim": "H-7276 Pécs, József attila utca 179.",
+  "telefon": "+36 70 287 3236",
+  "email": "farkas.ilona@citromail.hu",
+  "adoazonosito_jel": "8413062276",
+  "taj_szam": "154 214 311",
+  "kelt": "Dunaújváros, 2026. 11. 08."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    413,
+    106,
+    827,
+    138
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    493,
+    160,
+    746,
+    175
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    212,
+    315,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    266,
+    155,
+    279
+   ]
+  },
+  {
+   "text": "Farkas Ilona",
+   "bbox": [
+    418,
+    268,
+    537,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    317,
+    212,
+    334
+   ]
+  },
+  {
+   "text": "Kovács Tamás",
+   "bbox": [
+    418,
+    318,
+    561,
+    333
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    368,
+    234,
+    385
+   ]
+  },
+  {
+   "text": "Hátfalva",
+   "bbox": [
+    418,
+    366,
+    497,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    419,
+    225,
+    432
+   ]
+  },
+  {
+   "text": "1980. 02. 04.",
+   "bbox": [
+    418,
+    415,
+    544,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    470,
+    181,
+    483
+   ]
+  },
+  {
+   "text": "H-7276 Pécs, József attila utca 179.",
+   "bbox": [
+    418,
+    472,
+    764,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    521,
+    226,
+    534
+   ]
+  },
+  {
+   "text": "+36 70 287 3236",
+   "bbox": [
+    418,
+    522,
+    580,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    572,
+    208,
+    585
+   ]
+  },
+  {
+   "text": "farkas.ilona@citromail.hu",
+   "bbox": [
+    418,
+    574,
+    661,
+    593
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    623,
+    256,
+    640
+   ]
+  },
+  {
+   "text": "8413062276",
+   "bbox": [
+    418,
+    620,
+    538,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    674,
+    203,
+    687
+   ]
+  },
+  {
+   "text": "154 214 311",
+   "bbox": [
+    418,
+    676,
+    538,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    751,
+    268,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    795,
+    434,
+    812
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    840,
+    281,
+    853
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    885,
+    449,
+    902
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    986,
+    144,
+    1000
+   ]
+  },
+  {
+   "text": "Dunaújváros, 2026. 11. 08.",
+   "bbox": [
+    196,
+    983,
+    455,
+    1002
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1035,
+    966,
+    1046
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

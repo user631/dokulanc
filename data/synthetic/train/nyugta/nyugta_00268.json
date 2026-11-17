@@ -1,0 +1,374 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HAJDU ÉLELMISZER BT.",
+  "uzlet_cim": "H-1209 Mosonligetvég, József attila út 28.",
+  "adoszam": "92887402-2-11",
+  "datum": "2025.07.18.",
+  "ido": "15:33",
+  "nyugtaszam": "0398/94359",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "17 368 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1216"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "6681"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2231"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "719"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3711"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "488"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1584"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "389"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "349"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HAJDU ÉLELMISZER BT.",
+   "bbox": [
+    177,
+    28,
+    417,
+    47
+   ]
+  },
+  {
+   "text": "H-1209 Mosonligetvég, József attila út 28.",
+   "bbox": [
+    87,
+    63,
+    507,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 92887402-2-11",
+   "bbox": [
+    187,
+    86,
+    407,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    127,
+    337,
+    142
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    168,
+    167,
+    181
+   ]
+  },
+  {
+   "text": "1216 C00",
+   "bbox": [
+    482,
+    168,
+    570,
+    181
+   ]
+  },
+  {
+   "text": "3 DB x 2227",
+   "bbox": [
+    24,
+    196,
+    123,
+    207
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    218,
+    123,
+    231
+   ]
+  },
+  {
+   "text": "6681 B00",
+   "bbox": [
+    482,
+    218,
+    570,
+    231
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    246,
+    233,
+    259
+   ]
+  },
+  {
+   "text": "2231 C00",
+   "bbox": [
+    482,
+    246,
+    570,
+    259
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    274,
+    112,
+    287
+   ]
+  },
+  {
+   "text": "719 B00",
+   "bbox": [
+    493,
+    274,
+    570,
+    287
+   ]
+  },
+  {
+   "text": "3 DB x 1237",
+   "bbox": [
+    24,
+    302,
+    123,
+    313
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    324,
+    112,
+    337
+   ]
+  },
+  {
+   "text": "3711 A00",
+   "bbox": [
+    482,
+    324,
+    570,
+    337
+   ]
+  },
+  {
+   "text": "2 DB x 244",
+   "bbox": [
+    24,
+    352,
+    114,
+    363
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    374,
+    178,
+    390
+   ]
+  },
+  {
+   "text": "488 C00",
+   "bbox": [
+    493,
+    374,
+    570,
+    387
+   ]
+  },
+  {
+   "text": "3 DB x 528",
+   "bbox": [
+    24,
+    402,
+    114,
+    413
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    424,
+    178,
+    437
+   ]
+  },
+  {
+   "text": "1584 B00",
+   "bbox": [
+    482,
+    424,
+    570,
+    437
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    451,
+    145,
+    468
+   ]
+  },
+  {
+   "text": "389 A00",
+   "bbox": [
+    493,
+    452,
+    570,
+    465
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    480,
+    178,
+    493
+   ]
+  },
+  {
+   "text": "349 A00",
+   "bbox": [
+    493,
+    480,
+    570,
+    493
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    516,
+    154,
+    536
+   ]
+  },
+  {
+   "text": "17 368 Ft",
+   "bbox": [
+    453,
+    520,
+    570,
+    536
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    554,
+    112,
+    571
+   ]
+  },
+  {
+   "text": "17 368 Ft",
+   "bbox": [
+    471,
+    558,
+    570,
+    571
+   ]
+  },
+  {
+   "text": "2025.07.18.",
+   "bbox": [
+    24,
+    601,
+    134,
+    612
+   ]
+  },
+  {
+   "text": "15:33",
+   "bbox": [
+    520,
+    601,
+    570,
+    612
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0398/94359",
+   "bbox": [
+    24,
+    626,
+    244,
+    642
+   ]
+  },
+  {
+   "text": "AP A63784589",
+   "bbox": [
+    24,
+    657,
+    144,
+    668
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    222,
+    693,
+    372,
+    709
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  594,
+  754
+ ]
+}

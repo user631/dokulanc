@@ -1,0 +1,374 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "PINTÉR KISBOLT BT.",
+  "uzlet_cim": "H-4857 Vácmindszentberény, Budatóti utca 179.",
+  "adoszam": "58033236-2-24",
+  "datum": "2026.09.21.",
+  "ido": "11:50",
+  "nyugtaszam": "4148/14320",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 765 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1512"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1024"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "610"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1881"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1548"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1550"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1184"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "478"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "978"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PINTÉR KISBOLT BT.",
+   "bbox": [
+    133,
+    30,
+    403,
+    51
+   ]
+  },
+  {
+   "text": "H-4857 Vácmindszentberény, Budatóti",
+   "bbox": [
+    40,
+    70,
+    495,
+    87
+   ]
+  },
+  {
+   "text": "utca 179.",
+   "bbox": [
+    209,
+    97,
+    326,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58033236-2-24",
+   "bbox": [
+    125,
+    121,
+    411,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    219,
+    167,
+    317,
+    183
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    212,
+    164,
+    225
+   ]
+  },
+  {
+   "text": "1512 C00",
+   "bbox": [
+    401,
+    211,
+    513,
+    225
+   ]
+  },
+  {
+   "text": "2 DB x 512",
+   "bbox": [
+    24,
+    240,
+    144,
+    253
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    267,
+    178,
+    281
+   ]
+  },
+  {
+   "text": "1024 A00",
+   "bbox": [
+    401,
+    267,
+    513,
+    281
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    298,
+    220,
+    312
+   ]
+  },
+  {
+   "text": "610 C00",
+   "bbox": [
+    415,
+    298,
+    513,
+    312
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    329,
+    150,
+    343
+   ]
+  },
+  {
+   "text": "1881 A00",
+   "bbox": [
+    401,
+    329,
+    513,
+    343
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    360,
+    164,
+    374
+   ]
+  },
+  {
+   "text": "1548 C00",
+   "bbox": [
+    401,
+    360,
+    513,
+    374
+   ]
+  },
+  {
+   "text": "2 DB x 775",
+   "bbox": [
+    24,
+    389,
+    144,
+    402
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    416,
+    150,
+    430
+   ]
+  },
+  {
+   "text": "1550 C00",
+   "bbox": [
+    401,
+    416,
+    513,
+    430
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    447,
+    192,
+    461
+   ]
+  },
+  {
+   "text": "1184 C00",
+   "bbox": [
+    401,
+    447,
+    513,
+    461
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    478,
+    150,
+    492
+   ]
+  },
+  {
+   "text": "478 C00",
+   "bbox": [
+    415,
+    478,
+    513,
+    492
+   ]
+  },
+  {
+   "text": "2 DB x 489",
+   "bbox": [
+    24,
+    507,
+    144,
+    520
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    535,
+    220,
+    548
+   ]
+  },
+  {
+   "text": "978 A00",
+   "bbox": [
+    415,
+    534,
+    513,
+    548
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    572,
+    184,
+    594
+   ]
+  },
+  {
+   "text": "10 765 Ft",
+   "bbox": [
+    369,
+    577,
+    513,
+    594
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    615,
+    136,
+    632
+   ]
+  },
+  {
+   "text": "10 765 Ft",
+   "bbox": [
+    387,
+    618,
+    513,
+    632
+   ]
+  },
+  {
+   "text": "2026.09.21.",
+   "bbox": [
+    24,
+    662,
+    167,
+    675
+   ]
+  },
+  {
+   "text": "11:50",
+   "bbox": [
+    448,
+    662,
+    513,
+    675
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4148/14320",
+   "bbox": [
+    24,
+    690,
+    310,
+    708
+   ]
+  },
+  {
+   "text": "AP A68521007",
+   "bbox": [
+    24,
+    724,
+    180,
+    737
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    169,
+    763,
+    365,
+    781
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  537,
+  825
+ ]
+}

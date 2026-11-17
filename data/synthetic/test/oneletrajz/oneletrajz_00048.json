@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Bogdán Ádám",
+  "email": "bogdan.adam@outlook.com",
+  "telefon": "+36 70 518 7816",
+  "lakcim": "H-1537 Keresztkövesd, Ady endre út 81.",
+  "szuletesi_datum": "1996.04.22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2015 – 2018"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Consulting Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2024"
+   },
+   {
+    "ceg": "Kovács Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2019 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Git",
+   "B kategóriás jogosítvány",
+   "prezentáció",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bogdán Ádám",
+   "bbox": [
+    449,
+    111,
+    790,
+    170
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    191,
+    731,
+    218
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    246,
+    172,
+    264
+   ]
+  },
+  {
+   "text": "bogdan.adam@outlook.com",
+   "bbox": [
+    330,
+    246,
+    612,
+    269
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    279,
+    185,
+    297
+   ]
+  },
+  {
+   "text": "+36 70 518 7816",
+   "bbox": [
+    330,
+    280,
+    511,
+    297
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    312,
+    180,
+    330
+   ]
+  },
+  {
+   "text": "H-1537 Keresztkövesd, Ady endre út 81.",
+   "bbox": [
+    330,
+    311,
+    741,
+    335
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    345,
+    286,
+    363
+   ]
+  },
+  {
+   "text": "1996.04.22.",
+   "bbox": [
+    330,
+    346,
+    455,
+    363
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    399,
+    362,
+    425
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    90,
+    452,
+    221,
+    469
+   ]
+  },
+  {
+   "text": "adatelemző – Nagy Consulting Zrt.",
+   "bbox": [
+    90,
+    477,
+    504,
+    502
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    90,
+    522,
+    221,
+    539
+   ]
+  },
+  {
+   "text": "rendszergazda – Kovács Bt.",
+   "bbox": [
+    90,
+    547,
+    419,
+    572
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    601,
+    274,
+    628
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    90,
+    655,
+    221,
+    672
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    676,
+    286,
+    705
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    707,
+    358,
+    726
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    752,
+    221,
+    769
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    777,
+    394,
+    797
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    804,
+    347,
+    828
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    858,
+    242,
+    885
+   ]
+  },
+  {
+   "text": "német (B1), francia (A2)",
+   "bbox": [
+    90,
+    910,
+    340,
+    934
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    960,
+    233,
+    987
+   ]
+  },
+  {
+   "text": "projektmenedzsment, Git, B kategóriás jogosítvány, prezentáció, ügyfélkezelés",
+   "bbox": [
+    90,
+    1012,
+    878,
+    1036
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

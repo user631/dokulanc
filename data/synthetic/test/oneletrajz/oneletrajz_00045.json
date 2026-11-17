@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Varga Brigitta",
+  "email": "varga.brigitta@freemail.hu",
+  "telefon": "+36 30 472 6068",
+  "lakcim": "H-5004 Békéscsaba, Fürdődevecseri utca 234.",
+  "szuletesi_datum": "1999. 03. 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Magyar Szolgáltató Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2021 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "SQL",
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Varga Brigitta",
+   "bbox": [
+    451,
+    113,
+    788,
+    159
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    181,
+    716,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    234,
+    169,
+    251
+   ]
+  },
+  {
+   "text": "varga.brigitta@freemail.hu",
+   "bbox": [
+    330,
+    234,
+    590,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    266,
+    180,
+    283
+   ]
+  },
+  {
+   "text": "+36 30 472 6068",
+   "bbox": [
+    330,
+    267,
+    499,
+    283
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    177,
+    315
+   ]
+  },
+  {
+   "text": "H-5004 Békéscsaba, Fürdődevecseri utca 234.",
+   "bbox": [
+    330,
+    297,
+    781,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    329,
+    275,
+    347
+   ]
+  },
+  {
+   "text": "1999. 03. 23.",
+   "bbox": [
+    330,
+    331,
+    461,
+    347
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    383,
+    357,
+    408
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    90,
+    435,
+    212,
+    451
+   ]
+  },
+  {
+   "text": "rendszergazda – Magyar Szolgáltató Kft.",
+   "bbox": [
+    90,
+    460,
+    561,
+    483
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    512,
+    269,
+    538
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    90,
+    565,
+    212,
+    581
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    590,
+    483,
+    613
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    615,
+    245,
+    637
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    659,
+    212,
+    675
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    684,
+    442,
+    707
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    709,
+    175,
+    731
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    762,
+    236,
+    788
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    814,
+    191,
+    835
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    862,
+    225,
+    888
+   ]
+  },
+  {
+   "text": "Linux, SQL, prezentáció, B kategóriás jogosítvány, C#",
+   "bbox": [
+    90,
+    913,
+    615,
+    935
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

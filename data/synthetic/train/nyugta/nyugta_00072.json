@@ -1,0 +1,303 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NÉMETH ÉLELMISZER BT.",
+  "uzlet_cim": "H-7966 Hátapáti, Mosonmagyaróvári út 162.",
+  "adoszam": "81401440-5-33",
+  "datum": "2026.03.16.",
+  "ido": "15:46",
+  "nyugtaszam": "7505/42151",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "6 056 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "632"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2005"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1604"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "629"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "531"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "306"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "349"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH ÉLELMISZER BT.",
+   "bbox": [
+    136,
+    28,
+    388,
+    47
+   ]
+  },
+  {
+   "text": "H-7966 Hátapáti, Mosonmagyaróvári út 162.",
+   "bbox": [
+    57,
+    63,
+    467,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81401440-5-33",
+   "bbox": [
+    152,
+    86,
+    372,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    127,
+    302,
+    142
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    168,
+    178,
+    181
+   ]
+  },
+  {
+   "text": "632 A00",
+   "bbox": [
+    423,
+    168,
+    500,
+    181
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    196,
+    123,
+    209
+   ]
+  },
+  {
+   "text": "2005 A00",
+   "bbox": [
+    412,
+    196,
+    500,
+    209
+   ]
+  },
+  {
+   "text": "2 DB x 802",
+   "bbox": [
+    24,
+    224,
+    114,
+    235
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    246,
+    123,
+    259
+   ]
+  },
+  {
+   "text": "1604 C00",
+   "bbox": [
+    412,
+    246,
+    500,
+    259
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    274,
+    200,
+    287
+   ]
+  },
+  {
+   "text": "629 C00",
+   "bbox": [
+    423,
+    274,
+    500,
+    287
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    302,
+    123,
+    315
+   ]
+  },
+  {
+   "text": "531 C00",
+   "bbox": [
+    423,
+    302,
+    500,
+    315
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    330,
+    167,
+    343
+   ]
+  },
+  {
+   "text": "306 B00",
+   "bbox": [
+    423,
+    330,
+    500,
+    343
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    358,
+    178,
+    371
+   ]
+  },
+  {
+   "text": "349 A00",
+   "bbox": [
+    423,
+    358,
+    500,
+    371
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    394,
+    154,
+    414
+   ]
+  },
+  {
+   "text": "6 056 Ft",
+   "bbox": [
+    396,
+    398,
+    500,
+    414
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    432,
+    112,
+    449
+   ]
+  },
+  {
+   "text": "6 056 Ft",
+   "bbox": [
+    412,
+    436,
+    500,
+    449
+   ]
+  },
+  {
+   "text": "2026.03.16.",
+   "bbox": [
+    24,
+    479,
+    134,
+    490
+   ]
+  },
+  {
+   "text": "15:46",
+   "bbox": [
+    450,
+    479,
+    500,
+    490
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7505/42151",
+   "bbox": [
+    24,
+    504,
+    244,
+    520
+   ]
+  },
+  {
+   "text": "AP A91223330",
+   "bbox": [
+    24,
+    535,
+    144,
+    546
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    187,
+    571,
+    337,
+    587
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  524,
+  632
+ ]
+}

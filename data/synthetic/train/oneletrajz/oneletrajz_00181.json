@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szücs Zsófia",
+  "email": "szucs.zsofia@citromail.hu",
+  "telefon": "+36 20 731 7973",
+  "lakcim": "H-8946 Egyházasfürdővára, Szerbgyörgyi utca 117.",
+  "szuletesi_datum": "2002. 05. 05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2021 – 2026"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Varga Szolgáltató Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Juhász Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "projektmenedzsment",
+   "JavaScript",
+   "Python",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szücs Zsófia",
+   "bbox": [
+    507,
+    107,
+    733,
+    140
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    537,
+    178,
+    703,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    148,
+    243
+   ]
+  },
+  {
+   "text": "szucs.zsofia@citromail.hu",
+   "bbox": [
+    330,
+    229,
+    545,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    259,
+    159,
+    273
+   ]
+  },
+  {
+   "text": "+36 20 731 7973",
+   "bbox": [
+    330,
+    260,
+    465,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    153,
+    303
+   ]
+  },
+  {
+   "text": "H-8946 Egyházasfürdővára, Szerbgyörgyi utca 117.",
+   "bbox": [
+    330,
+    289,
+    745,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    229,
+    333
+   ]
+  },
+  {
+   "text": "2002. 05. 05.",
+   "bbox": [
+    330,
+    320,
+    435,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    289,
+    390
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    419,
+    215,
+    437
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szabó Szolgáltató Kft.",
+   "bbox": [
+    90,
+    444,
+    469,
+    462
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    483,
+    215,
+    501
+   ]
+  },
+  {
+   "text": "tesztmérnök – Varga Szolgáltató Bt.",
+   "bbox": [
+    90,
+    508,
+    396,
+    526
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    547,
+    215,
+    565
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Juhász Logisztika Kft.",
+   "bbox": [
+    89,
+    572,
+    417,
+    590
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    622,
+    227,
+    642
+   ]
+  },
+  {
+   "text": "2021 – 2026",
+   "bbox": [
+    90,
+    672,
+    190,
+    685
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    693,
+    233,
+    714
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    719,
+    304,
+    737
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    760,
+    190,
+    773
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    784,
+    333,
+    802
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    807,
+    254,
+    825
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    858,
+    202,
+    878
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    907,
+    186,
+    925
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    954,
+    192,
+    974
+   ]
+  },
+  {
+   "text": "Java, projektmenedzsment, JavaScript, Python, csapatmunka",
+   "bbox": [
+    90,
+    1003,
+    595,
+    1021
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Szalai Marcell",
+  "anyja_neve": "Szabó István",
+  "szuletesi_hely": "Váctótháza",
+  "szuletesi_datum": "1964.05.06.",
+  "lakcim": "H-9454 Bakonymellékkőrös, Somogymártoni utca 241.",
+  "telefon": "06 1 593 8791",
+  "email": "szalai.marcell@outlook.com",
+  "adoazonosito_jel": "8355545125",
+  "taj_szam": "530 244 567",
+  "kelt": "Debrecen, 2026.12.22."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    354,
+    88,
+    887,
+    121
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    195,
+    300,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    249,
+    137,
+    264
+   ]
+  },
+  {
+   "text": "Szalai Marcell",
+   "bbox": [
+    424,
+    246,
+    583,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    302,
+    198,
+    320
+   ]
+  },
+  {
+   "text": "Szabó István",
+   "bbox": [
+    424,
+    300,
+    573,
+    320
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    353,
+    222,
+    372
+   ]
+  },
+  {
+   "text": "Váctótháza",
+   "bbox": [
+    424,
+    350,
+    550,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    405,
+    213,
+    420
+   ]
+  },
+  {
+   "text": "1964.05.06.",
+   "bbox": [
+    424,
+    403,
+    558,
+    423
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    457,
+    166,
+    472
+   ]
+  },
+  {
+   "text": "H-9454 Bakonymellékkőrös, Somogymártoni utca 241.",
+   "bbox": [
+    424,
+    453,
+    1030,
+    479
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    509,
+    213,
+    524
+   ]
+  },
+  {
+   "text": "06 1 593 8791",
+   "bbox": [
+    424,
+    508,
+    587,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    561,
+    196,
+    576
+   ]
+  },
+  {
+   "text": "szalai.marcell@outlook.com",
+   "bbox": [
+    424,
+    561,
+    729,
+    581
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    613,
+    247,
+    632
+   ]
+  },
+  {
+   "text": "8355545125",
+   "bbox": [
+    424,
+    613,
+    570,
+    632
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    665,
+    186,
+    680
+   ]
+  },
+  {
+   "text": "530 244 567",
+   "bbox": [
+    424,
+    663,
+    573,
+    682
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    743,
+    257,
+    765
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    787,
+    433,
+    806
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    832,
+    275,
+    847
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    877,
+    450,
+    896
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    980,
+    131,
+    995
+   ]
+  },
+  {
+   "text": "Debrecen, 2026.12.22.",
+   "bbox": [
+    177,
+    979,
+    405,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1029,
+    986,
+    1042
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

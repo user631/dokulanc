@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2026/00638",
+  "kiallitas_datuma": "2026-05-30",
+  "teljesites_datuma": "2026-05-29",
+  "fizetesi_hatarido": "2026-06-14",
+  "elado_nev": "Nagy Logisztika Kft.",
+  "elado_cim": "H-8861 Békéshalas, Tiszaháti tér 143.",
+  "elado_adoszam": "87802210-3-33",
+  "vevo_nev": "Varga Attila",
+  "vevo_cim": "H-6787 Mosonhetvennémeti, Dunaújvárosi utca 60.",
+  "vevo_adoszam": null,
+  "bankszamla": "45142444-88700142",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "2 020 Ft",
+  "afa_osszesen": "364 Ft",
+  "brutto_osszesen": "2 384 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 020",
+    "netto": "2 020",
+    "afa_kulcs": "18%",
+    "afa": "364",
+    "brutto": "2 384"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    134,
+    122,
+    196,
+    139
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    774,
+    97,
+    1155,
+    138
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/00638",
+   "bbox": [
+    843,
+    160,
+    1155,
+    181
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    241,
+    163,
+    261
+   ]
+  },
+  {
+   "text": "Nagy Logisztika Kft.",
+   "bbox": [
+    85,
+    280,
+    335,
+    306
+   ]
+  },
+  {
+   "text": "H-8861 Békéshalas, Tiszaháti tér 143.",
+   "bbox": [
+    85,
+    315,
+    508,
+    339
+   ]
+  },
+  {
+   "text": "Adószám: 87802210-3-33",
+   "bbox": [
+    85,
+    348,
+    361,
+    368
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    241,
+    702,
+    261
+   ]
+  },
+  {
+   "text": "Varga Attila",
+   "bbox": [
+    630,
+    280,
+    778,
+    306
+   ]
+  },
+  {
+   "text": "H-6787 Mosonhetvennémeti, Dunaújvárosi",
+   "bbox": [
+    630,
+    315,
+    1102,
+    340
+   ]
+  },
+  {
+   "text": "utca 60.",
+   "bbox": [
+    630,
+    350,
+    722,
+    368
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    85,
+    419,
+    252,
+    436
+   ]
+  },
+  {
+   "text": "2026-05-30",
+   "bbox": [
+    85,
+    452,
+    207,
+    469
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    419,
+    537,
+    441
+   ]
+  },
+  {
+   "text": "2026-05-29",
+   "bbox": [
+    352,
+    452,
+    474,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    419,
+    796,
+    436
+   ]
+  },
+  {
+   "text": "2026-06-14",
+   "bbox": [
+    619,
+    452,
+    741,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    419,
+    1020,
+    436
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    886,
+    450,
+    1006,
+    474
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    504,
+    210,
+    525
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    504,
+    588,
+    525
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    504,
+    749,
+    525
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    504,
+    876,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    500,
+    941,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1001,
+    500,
+    1042,
+    520
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1090,
+    504,
+    1155,
+    520
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    513,
+    548,
+    597,
+    564
+   ]
+  },
+  {
+   "text": "2 020",
+   "bbox": [
+    693,
+    548,
+    748,
+    564
+   ]
+  },
+  {
+   "text": "2 020",
+   "bbox": [
+    821,
+    548,
+    876,
+    564
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    904,
+    548,
+    941,
+    564
+   ]
+  },
+  {
+   "text": "364",
+   "bbox": [
+    1006,
+    548,
+    1042,
+    564
+   ]
+  },
+  {
+   "text": "2 384",
+   "bbox": [
+    1100,
+    548,
+    1155,
+    564
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    85,
+    543,
+    232,
+    569
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    641,
+    606,
+    825,
+    626
+   ]
+  },
+  {
+   "text": "2 020 Ft",
+   "bbox": [
+    1059,
+    607,
+    1155,
+    626
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    641,
+    825,
+    665
+   ]
+  },
+  {
+   "text": "364 Ft",
+   "bbox": [
+    1081,
+    646,
+    1155,
+    665
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    578,
+    684,
+    825,
+    704
+   ]
+  },
+  {
+   "text": "2 384 Ft",
+   "bbox": [
+    1054,
+    685,
+    1155,
+    704
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 45142444-88700142",
+   "bbox": [
+    85,
+    752,
+    498,
+    771
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    460,
+    1648,
+    779,
+    1668
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

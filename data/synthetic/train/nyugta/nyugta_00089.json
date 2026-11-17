@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS KISBOLT BT.",
+  "uzlet_cim": "H-3209 Györgyfalva, Szegedi utca 158.",
+  "adoszam": "43041787-2-26",
+  "datum": "2024.12.01.",
+  "ido": "20:51",
+  "nyugtaszam": "5650/68854",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 811 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3096"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "406"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "237"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1043"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "583"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "533"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "695"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "936"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2302"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "554"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "426"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS KISBOLT BT.",
+   "bbox": [
+    163,
+    31,
+    397,
+    48
+   ]
+  },
+  {
+   "text": "H-3209 Györgyfalva, Szegedi utca 158.",
+   "bbox": [
+    76,
+    63,
+    483,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 43041787-2-26",
+   "bbox": [
+    159,
+    87,
+    401,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    128,
+    323,
+    143
+   ]
+  },
+  {
+   "text": "2 DB x 1548",
+   "bbox": [
+    24,
+    168,
+    134,
+    180
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    190,
+    144,
+    204
+   ]
+  },
+  {
+   "text": "3096 A00",
+   "bbox": [
+    440,
+    190,
+    536,
+    204
+   ]
+  },
+  {
+   "text": "2 DB x 203",
+   "bbox": [
+    24,
+    218,
+    124,
+    230
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    240,
+    192,
+    257
+   ]
+  },
+  {
+   "text": "406 A00",
+   "bbox": [
+    452,
+    240,
+    536,
+    254
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    269,
+    180,
+    282
+   ]
+  },
+  {
+   "text": "237 B00",
+   "bbox": [
+    452,
+    268,
+    536,
+    282
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    296,
+    204,
+    310
+   ]
+  },
+  {
+   "text": "1043 C00",
+   "bbox": [
+    440,
+    296,
+    536,
+    310
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    324,
+    120,
+    338
+   ]
+  },
+  {
+   "text": "583 B00",
+   "bbox": [
+    452,
+    324,
+    536,
+    338
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    352,
+    132,
+    366
+   ]
+  },
+  {
+   "text": "533 A00",
+   "bbox": [
+    452,
+    352,
+    536,
+    366
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    380,
+    132,
+    394
+   ]
+  },
+  {
+   "text": "695 B00",
+   "bbox": [
+    452,
+    380,
+    536,
+    394
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    408,
+    120,
+    422
+   ]
+  },
+  {
+   "text": "936 B00",
+   "bbox": [
+    452,
+    408,
+    536,
+    422
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    436,
+    252,
+    450
+   ]
+  },
+  {
+   "text": "2302 B00",
+   "bbox": [
+    440,
+    436,
+    536,
+    450
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    464,
+    156,
+    478
+   ]
+  },
+  {
+   "text": "554 B00",
+   "bbox": [
+    452,
+    464,
+    536,
+    478
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    492,
+    156,
+    509
+   ]
+  },
+  {
+   "text": "426 B00",
+   "bbox": [
+    452,
+    492,
+    536,
+    506
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    530,
+    150,
+    549
+   ]
+  },
+  {
+   "text": "10 811 Ft",
+   "bbox": [
+    410,
+    532,
+    536,
+    549
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    568,
+    156,
+    584
+   ]
+  },
+  {
+   "text": "10 811 Ft",
+   "bbox": [
+    428,
+    570,
+    536,
+    584
+   ]
+  },
+  {
+   "text": "2024.12.01.",
+   "bbox": [
+    24,
+    612,
+    145,
+    625
+   ]
+  },
+  {
+   "text": "20:51",
+   "bbox": [
+    481,
+    612,
+    536,
+    625
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5650/68854",
+   "bbox": [
+    24,
+    639,
+    266,
+    656
+   ]
+  },
+  {
+   "text": "AP A84012102",
+   "bbox": [
+    24,
+    668,
+    156,
+    681
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    197,
+    706,
+    362,
+    721
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  560,
+  766
+ ]
+}

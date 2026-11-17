@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Takács Ákos",
+  "anyja_neve": "Szabó László",
+  "szuletesi_hely": "Baja",
+  "szuletesi_datum": "1959. 06. 19.",
+  "lakcim": "H-7006 Békéscsaba, Kaposvári utca 209.",
+  "telefon": "+36 20 154 6505",
+  "email": "takacs.akos@citromail.hu",
+  "adoazonosito_jel": "8337715023",
+  "taj_szam": "568 175 925",
+  "kelt": "Némettapolcafalva, 2025. 02. 24."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    507,
+    91,
+    732,
+    123
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    493,
+    145,
+    746,
+    160
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    91,
+    197,
+    300,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    103,
+    251,
+    140,
+    264
+   ]
+  },
+  {
+   "text": "Takács Ákos",
+   "bbox": [
+    434,
+    245,
+    558,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    302,
+    197,
+    319
+   ]
+  },
+  {
+   "text": "Szabó László",
+   "bbox": [
+    434,
+    302,
+    564,
+    317
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    103,
+    353,
+    219,
+    370
+   ]
+  },
+  {
+   "text": "Baja",
+   "bbox": [
+    434,
+    350,
+    477,
+    369
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    103,
+    404,
+    210,
+    417
+   ]
+  },
+  {
+   "text": "1959. 06. 19.",
+   "bbox": [
+    434,
+    400,
+    560,
+    415
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    103,
+    455,
+    166,
+    468
+   ]
+  },
+  {
+   "text": "H-7006 Békéscsaba, Kaposvári utca 209.",
+   "bbox": [
+    434,
+    456,
+    831,
+    475
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    103,
+    506,
+    211,
+    519
+   ]
+  },
+  {
+   "text": "+36 20 154 6505",
+   "bbox": [
+    434,
+    508,
+    596,
+    523
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    103,
+    557,
+    193,
+    570
+   ]
+  },
+  {
+   "text": "takacs.akos@citromail.hu",
+   "bbox": [
+    434,
+    556,
+    681,
+    575
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    608,
+    241,
+    625
+   ]
+  },
+  {
+   "text": "8337715023",
+   "bbox": [
+    434,
+    605,
+    554,
+    620
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    103,
+    659,
+    188,
+    672
+   ]
+  },
+  {
+   "text": "568 175 925",
+   "bbox": [
+    434,
+    656,
+    554,
+    671
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    91,
+    736,
+    253,
+    755
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    136,
+    780,
+    419,
+    797
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    136,
+    825,
+    266,
+    838
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    870,
+    434,
+    887
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    91,
+    971,
+    129,
+    985
+   ]
+  },
+  {
+   "text": "Némettapolcafalva, 2025. 02. 24.",
+   "bbox": [
+    181,
+    968,
+    498,
+    987
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1020,
+    981,
+    1031
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

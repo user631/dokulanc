@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALOGH DISZKONT KFT.",
+  "uzlet_cim": "H-7261 Lajoshetvenháza, Nagykanizsai utca 145.",
+  "adoszam": "92460629-2-20",
+  "datum": "2024.03.13.",
+  "ido": "12:19",
+  "nyugtaszam": "4858/41975",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 356 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2968"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "388"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH DISZKONT KFT.",
+   "bbox": [
+    188,
+    33,
+    448,
+    48
+   ]
+  },
+  {
+   "text": "H-7261 Lajoshetvenháza, Nagykanizsai utca 145.",
+   "bbox": [
+    88,
+    65,
+    548,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 92460629-2-20",
+   "bbox": [
+    208,
+    88,
+    428,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    276,
+    130,
+    360,
+    146
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    173,
+    132,
+    186
+   ]
+  },
+  {
+   "text": "2968 A00",
+   "bbox": [
+    517,
+    173,
+    613,
+    186
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    202,
+    192,
+    215
+   ]
+  },
+  {
+   "text": "388 A00",
+   "bbox": [
+    529,
+    202,
+    613,
+    215
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    238,
+    164,
+    259
+   ]
+  },
+  {
+   "text": "3 356 Ft",
+   "bbox": [
+    501,
+    243,
+    613,
+    259
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    278,
+    144,
+    295
+   ]
+  },
+  {
+   "text": "3 356 Ft",
+   "bbox": [
+    517,
+    282,
+    613,
+    295
+   ]
+  },
+  {
+   "text": "2024.03.13.",
+   "bbox": [
+    24,
+    325,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "12:19",
+   "bbox": [
+    563,
+    325,
+    613,
+    337
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4858/41975",
+   "bbox": [
+    24,
+    351,
+    244,
+    368
+   ]
+  },
+  {
+   "text": "AP A85746097",
+   "bbox": [
+    24,
+    383,
+    144,
+    395
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    235,
+    419,
+    400,
+    436
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  637,
+  482
+ ]
+}

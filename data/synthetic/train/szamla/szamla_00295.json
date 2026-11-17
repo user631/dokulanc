@@ -1,0 +1,705 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2024/02198",
+  "kiallitas_datuma": "2024-01-05",
+  "teljesites_datuma": "2024-01-05",
+  "fizetesi_hatarido": "2024-01-20",
+  "elado_nev": "Magyar Trade Zrt.",
+  "elado_cim": "H-7549 Magyarszékkövesd, Németii utca 168.",
+  "elado_adoszam": "28264015-2-32",
+  "vevo_nev": "Dudás Tech Bt.",
+  "vevo_cim": "H-7111 Dunakeszi, Mártonnémetii utca 50.",
+  "vevo_adoszam": "10721456-5-43",
+  "bankszamla": "14162271-10086819-34696885",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "295 200 Ft",
+  "afa_osszesen": "67 015 Ft",
+  "brutto_osszesen": "362 215 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "6 440",
+    "netto": "6 440",
+    "afa_kulcs": "27%",
+    "afa": "1 739",
+    "brutto": "8 179"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "5 db",
+    "egysegar": "4 920",
+    "netto": "24 600",
+    "afa_kulcs": "27%",
+    "afa": "6 642",
+    "brutto": "31 242"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "166 030",
+    "netto": "166 030",
+    "afa_kulcs": "27%",
+    "afa": "44 828",
+    "brutto": "210 858"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "14 420",
+    "netto": "57 680",
+    "afa_kulcs": "5%",
+    "afa": "2 884",
+    "brutto": "60 564"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "5 db",
+    "egysegar": "8 090",
+    "netto": "40 450",
+    "afa_kulcs": "27%",
+    "afa": "10 922",
+    "brutto": "51 372"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MAGYAR",
+   "bbox": [
+    108,
+    117,
+    215,
+    134
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    972,
+    90,
+    1159,
+    132
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/02198",
+   "bbox": [
+    866,
+    156,
+    1159,
+    176
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    80,
+    236,
+    155,
+    256
+   ]
+  },
+  {
+   "text": "Dudás Tech Bt.",
+   "bbox": [
+    81,
+    275,
+    282,
+    295
+   ]
+  },
+  {
+   "text": "H-7111 Dunakeszi, Mártonnémetii utca 50.",
+   "bbox": [
+    81,
+    312,
+    560,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 10721456-5-43",
+   "bbox": [
+    80,
+    345,
+    371,
+    363
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    236,
+    714,
+    256
+   ]
+  },
+  {
+   "text": "Magyar Trade Zrt.",
+   "bbox": [
+    630,
+    275,
+    861,
+    300
+   ]
+  },
+  {
+   "text": "H-7549 Magyarszékkövesd, Németii utca 168.",
+   "bbox": [
+    630,
+    312,
+    1148,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 28264015-2-32",
+   "bbox": [
+    629,
+    345,
+    920,
+    363
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    81,
+    414,
+    247,
+    431
+   ]
+  },
+  {
+   "text": "2024-01-05",
+   "bbox": [
+    81,
+    447,
+    201,
+    464
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    414,
+    531,
+    435
+   ]
+  },
+  {
+   "text": "2024-01-05",
+   "bbox": [
+    350,
+    447,
+    470,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    414,
+    789,
+    431
+   ]
+  },
+  {
+   "text": "2024-01-20",
+   "bbox": [
+    619,
+    447,
+    739,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    414,
+    1019,
+    431
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    888,
+    447,
+    988,
+    469
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    498,
+    208,
+    519
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    499,
+    586,
+    519
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    498,
+    749,
+    519
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    498,
+    878,
+    515
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    495,
+    943,
+    516
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    495,
+    1045,
+    515
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1094,
+    498,
+    1159,
+    515
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    512,
+    543,
+    576,
+    559
+   ]
+  },
+  {
+   "text": "6 440",
+   "bbox": [
+    695,
+    543,
+    749,
+    559
+   ]
+  },
+  {
+   "text": "6 440",
+   "bbox": [
+    824,
+    543,
+    878,
+    559
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    543,
+    943,
+    559
+   ]
+  },
+  {
+   "text": "1 739",
+   "bbox": [
+    991,
+    543,
+    1045,
+    559
+   ]
+  },
+  {
+   "text": "8 179",
+   "bbox": [
+    1105,
+    543,
+    1159,
+    559
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    81,
+    543,
+    340,
+    563
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    581,
+    554,
+    597
+   ]
+  },
+  {
+   "text": "4 920",
+   "bbox": [
+    695,
+    581,
+    749,
+    597
+   ]
+  },
+  {
+   "text": "24 600",
+   "bbox": [
+    812,
+    581,
+    878,
+    597
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    581,
+    943,
+    597
+   ]
+  },
+  {
+   "text": "6 642",
+   "bbox": [
+    991,
+    581,
+    1045,
+    597
+   ]
+  },
+  {
+   "text": "31 242",
+   "bbox": [
+    1093,
+    581,
+    1159,
+    597
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    81,
+    581,
+    273,
+    601
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    512,
+    619,
+    554,
+    635
+   ]
+  },
+  {
+   "text": "166 030",
+   "bbox": [
+    671,
+    619,
+    749,
+    635
+   ]
+  },
+  {
+   "text": "166 030",
+   "bbox": [
+    800,
+    619,
+    878,
+    635
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    619,
+    943,
+    635
+   ]
+  },
+  {
+   "text": "44 828",
+   "bbox": [
+    979,
+    619,
+    1045,
+    635
+   ]
+  },
+  {
+   "text": "210 858",
+   "bbox": [
+    1081,
+    619,
+    1159,
+    635
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    81,
+    619,
+    360,
+    639
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    512,
+    657,
+    553,
+    673
+   ]
+  },
+  {
+   "text": "14 420",
+   "bbox": [
+    683,
+    657,
+    749,
+    673
+   ]
+  },
+  {
+   "text": "57 680",
+   "bbox": [
+    812,
+    657,
+    878,
+    673
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    657,
+    943,
+    673
+   ]
+  },
+  {
+   "text": "2 884",
+   "bbox": [
+    991,
+    657,
+    1045,
+    673
+   ]
+  },
+  {
+   "text": "60 564",
+   "bbox": [
+    1093,
+    657,
+    1159,
+    673
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    81,
+    657,
+    345,
+    677
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    695,
+    554,
+    711
+   ]
+  },
+  {
+   "text": "8 090",
+   "bbox": [
+    695,
+    695,
+    749,
+    711
+   ]
+  },
+  {
+   "text": "40 450",
+   "bbox": [
+    812,
+    695,
+    878,
+    711
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    695,
+    943,
+    711
+   ]
+  },
+  {
+   "text": "10 922",
+   "bbox": [
+    979,
+    695,
+    1045,
+    711
+   ]
+  },
+  {
+   "text": "51 372",
+   "bbox": [
+    1093,
+    695,
+    1159,
+    711
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    81,
+    695,
+    248,
+    711
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    646,
+    754,
+    829,
+    773
+   ]
+  },
+  {
+   "text": "295 200 Ft",
+   "bbox": [
+    1038,
+    754,
+    1160,
+    773
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    787,
+    829,
+    812
+   ]
+  },
+  {
+   "text": "67 015 Ft",
+   "bbox": [
+    1052,
+    793,
+    1160,
+    812
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    685,
+    832,
+    829,
+    856
+   ]
+  },
+  {
+   "text": "362 215 Ft",
+   "bbox": [
+    1036,
+    832,
+    1159,
+    851
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 14162271-10086819-34696885",
+   "bbox": [
+    81,
+    901,
+    609,
+    918
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    81,
+    934,
+    746,
+    953
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    466,
+    1653,
+    774,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

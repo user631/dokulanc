@@ -1,0 +1,334 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Zsolt",
+  "email": "kovacs.zsolt@freemail.hu",
+  "telefon": "06 1 947 1799",
+  "lakcim": "H-4457 Tóthida, Mezőmelléki utca 160.",
+  "szuletesi_datum": "1980. 10. 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1998 – 2001"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hajdu Consulting Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2010 – 2011"
+   },
+   {
+    "ceg": "Szabó Trade Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "ceg": "Gáspár Logisztika Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "SQL",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    188,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    93,
+    159
+   ]
+  },
+  {
+   "text": "kovacs.zsolt@freemail.hu",
+   "bbox": [
+    40,
+    167,
+    239,
+    183
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    105,
+    213
+   ]
+  },
+  {
+   "text": "06 1 947 1799",
+   "bbox": [
+    40,
+    222,
+    155,
+    235
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    253,
+    99,
+    267
+   ]
+  },
+  {
+   "text": "H-4457 Tóthida, Mezőmelléki utca 160.",
+   "bbox": [
+    40,
+    275,
+    350,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    307,
+    175,
+    321
+   ]
+  },
+  {
+   "text": "1980. 10. 28.",
+   "bbox": [
+    40,
+    330,
+    142,
+    343
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    388,
+    180,
+    409
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    430,
+    131,
+    447
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    482,
+    158,
+    503
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    525,
+    73,
+    538
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    551,
+    73,
+    566
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    576,
+    83,
+    590
+   ]
+  },
+  {
+   "text": "Kovács Zsolt",
+   "bbox": [
+    450,
+    112,
+    709,
+    145
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    175,
+    559,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    239,
+    674,
+    263
+   ]
+  },
+  {
+   "text": "2010 – 2011",
+   "bbox": [
+    450,
+    289,
+    558,
+    303
+   ]
+  },
+  {
+   "text": "rendszergazda – Hajdu Consulting Kft.",
+   "bbox": [
+    450,
+    312,
+    828,
+    333
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    353,
+    558,
+    367
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szabó Trade Kft.",
+   "bbox": [
+    450,
+    376,
+    900,
+    397
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    417,
+    558,
+    431
+   ]
+  },
+  {
+   "text": "adatelemző – Gáspár Logisztika Zrt.",
+   "bbox": [
+    450,
+    440,
+    799,
+    461
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    491,
+    606,
+    515
+   ]
+  },
+  {
+   "text": "1998 – 2001",
+   "bbox": [
+    450,
+    541,
+    558,
+    555
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    564,
+    694,
+    585
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    588,
+    571,
+    608
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    629,
+    558,
+    643
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    652,
+    746,
+    673
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    676,
+    622,
+    696
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

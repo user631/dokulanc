@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tóth József",
+  "email": "toth.jozsef@citromail.hu",
+  "telefon": "+36 30 752 8000",
+  "lakcim": "H-8846 Híddevecser, Tapolcavégi utca 177.",
+  "szuletesi_datum": "1991.07.05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2009 – 2014"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Trade Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2019 – 2023"
+   },
+   {
+    "ceg": "Pintér és Társa Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2017 – 2019"
+   },
+   {
+    "ceg": "Farkas Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Excel",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth József",
+   "bbox": [
+    495,
+    107,
+    746,
+    140
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    534,
+    174,
+    705,
+    191
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    225,
+    153,
+    239
+   ]
+  },
+  {
+   "text": "toth.jozsef@citromail.hu",
+   "bbox": [
+    330,
+    225,
+    535,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    254,
+    165,
+    268
+   ]
+  },
+  {
+   "text": "+36 30 752 8000",
+   "bbox": [
+    330,
+    254,
+    477,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    163,
+    297
+   ]
+  },
+  {
+   "text": "H-8846 Híddevecser, Tapolcavégi utca 177.",
+   "bbox": [
+    330,
+    283,
+    710,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    243,
+    326
+   ]
+  },
+  {
+   "text": "1991.07.05.",
+   "bbox": [
+    330,
+    312,
+    433,
+    326
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    361,
+    309,
+    383
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    410,
+    199,
+    424
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szabó Trade Zrt.",
+   "bbox": [
+    90,
+    433,
+    473,
+    452
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    90,
+    472,
+    199,
+    486
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Pintér és Társa Kft.",
+   "bbox": [
+    89,
+    495,
+    440,
+    514
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    534,
+    199,
+    548
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Farkas Kft.",
+   "bbox": [
+    90,
+    557,
+    420,
+    576
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    606,
+    238,
+    628
+   ]
+  },
+  {
+   "text": "2009 – 2014",
+   "bbox": [
+    90,
+    655,
+    199,
+    669
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    678,
+    416,
+    697
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    701,
+    232,
+    719
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    740,
+    199,
+    754
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    763,
+    328,
+    782
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    786,
+    254,
+    804
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    835,
+    214,
+    857
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    884,
+    185,
+    902
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    929,
+    211,
+    951
+   ]
+  },
+  {
+   "text": "Java, Excel, prezentáció",
+   "bbox": [
+    90,
+    978,
+    301,
+    996
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Varga Dániel",
+  "anyja_neve": "Sándor Attila",
+  "szuletesi_hely": "Győr",
+  "szuletesi_datum": "1966.08.18.",
+  "lakcim": "H-8333 Piliskeresztkőrös, Szigetszentmiklósi utca 220.",
+  "telefon": "+36 30 148 7533",
+  "email": "varga.daniel@freemail.hu",
+  "adoazonosito_jel": "8363889393",
+  "taj_szam": "271 803 414",
+  "kelt": "Pilistótapáti, 2026.11.30."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    417,
+    91,
+    822,
+    129
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    434,
+    149,
+    805,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    203,
+    366,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    259,
+    153,
+    276
+   ]
+  },
+  {
+   "text": "Varga Dániel",
+   "bbox": [
+    413,
+    261,
+    566,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    314,
+    229,
+    334
+   ]
+  },
+  {
+   "text": "Sándor Attila",
+   "bbox": [
+    413,
+    309,
+    568,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    367,
+    258,
+    388
+   ]
+  },
+  {
+   "text": "Győr",
+   "bbox": [
+    413,
+    366,
+    472,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    421,
+    246,
+    438
+   ]
+  },
+  {
+   "text": "1966.08.18.",
+   "bbox": [
+    413,
+    424,
+    560,
+    442
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    475,
+    186,
+    492
+   ]
+  },
+  {
+   "text": "H-8333 Piliskeresztkőrös, Szigetszentmiklósi utca 220.",
+   "bbox": [
+    413,
+    477,
+    1074,
+    501
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    529,
+    245,
+    546
+   ]
+  },
+  {
+   "text": "+36 30 148 7533",
+   "bbox": [
+    413,
+    526,
+    622,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    583,
+    224,
+    600
+   ]
+  },
+  {
+   "text": "varga.daniel@freemail.hu",
+   "bbox": [
+    413,
+    579,
+    721,
+    603
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    637,
+    286,
+    658
+   ]
+  },
+  {
+   "text": "8363889393",
+   "bbox": [
+    413,
+    634,
+    563,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    691,
+    211,
+    708
+   ]
+  },
+  {
+   "text": "271 803 414",
+   "bbox": [
+    413,
+    690,
+    564,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    772,
+    308,
+    796
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    816,
+    509,
+    837
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    861,
+    311,
+    878
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    906,
+    529,
+    927
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    1011,
+    143,
+    1028
+   ]
+  },
+  {
+   "text": "Pilistótapáti, 2026.11.30.",
+   "bbox": [
+    180,
+    1007,
+    484,
+    1031
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1060,
+    990,
+    1074
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

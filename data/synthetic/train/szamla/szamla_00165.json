@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2025/07643",
+  "kiallitas_datuma": "2025.05.30.",
+  "teljesites_datuma": "2025.05.28.",
+  "fizetesi_hatarido": "2025.06.14.",
+  "elado_nev": "Jakab és Társa Zrt.",
+  "elado_cim": "H-5080 Pécs, Mártonnádasdi út 179.",
+  "elado_adoszam": "24596161-2-06",
+  "vevo_nev": "Horváth Imre",
+  "vevo_cim": "H-1563 Szerbligethida, Alsómártoni utca 75.",
+  "vevo_adoszam": null,
+  "bankszamla": "07440067-98123771",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "369 110 Ft",
+  "afa_osszesen": "35 165 Ft",
+  "brutto_osszesen": "404 275 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "5 db",
+    "egysegar": "13 060",
+    "netto": "65 300",
+    "afa_kulcs": "27%",
+    "afa": "17 631",
+    "brutto": "82 931"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "12 év",
+    "egysegar": "24 430",
+    "netto": "293 160",
+    "afa_kulcs": "5%",
+    "afa": "14 658",
+    "brutto": "307 818"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "10 650",
+    "netto": "10 650",
+    "afa_kulcs": "27%",
+    "afa": "2 876",
+    "brutto": "13 526"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JAKAB",
+   "bbox": [
+    139,
+    135,
+    216,
+    153
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    993,
+    116,
+    1142,
+    150
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2025/07643",
+   "bbox": [
+    871,
+    173,
+    1142,
+    196
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    98,
+    254,
+    169,
+    272
+   ]
+  },
+  {
+   "text": "Jakab és Társa Zrt.",
+   "bbox": [
+    98,
+    289,
+    319,
+    307
+   ]
+  },
+  {
+   "text": "H-5080 Pécs, Mártonnádasdi út 179.",
+   "bbox": [
+    98,
+    321,
+    435,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 24596161-2-06",
+   "bbox": [
+    97,
+    350,
+    332,
+    367
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    254,
+    695,
+    272
+   ]
+  },
+  {
+   "text": "Horváth Imre",
+   "bbox": [
+    630,
+    289,
+    788,
+    307
+   ]
+  },
+  {
+   "text": "H-1563 Szerbligethida, Alsómártoni utca 75.",
+   "bbox": [
+    630,
+    321,
+    1040,
+    342
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    98,
+    417,
+    278,
+    434
+   ]
+  },
+  {
+   "text": "2025.05.30.",
+   "bbox": [
+    398,
+    418,
+    504,
+    434
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    98,
+    448,
+    293,
+    469
+   ]
+  },
+  {
+   "text": "2025.05.28.",
+   "bbox": [
+    398,
+    449,
+    504,
+    465
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    98,
+    479,
+    280,
+    496
+   ]
+  },
+  {
+   "text": "2025.06.14.",
+   "bbox": [
+    398,
+    480,
+    504,
+    496
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    98,
+    510,
+    237,
+    527
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    398,
+    510,
+    471,
+    527
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    98,
+    553,
+    209,
+    571
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    554,
+    582,
+    571
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    553,
+    745,
+    571
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    553,
+    870,
+    567
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    876,
+    550,
+    933,
+    567
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    550,
+    1033,
+    567
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1085,
+    553,
+    1142,
+    567
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    515,
+    593,
+    551,
+    607
+   ]
+  },
+  {
+   "text": "13 060",
+   "bbox": [
+    689,
+    594,
+    745,
+    607
+   ]
+  },
+  {
+   "text": "65 300",
+   "bbox": [
+    814,
+    594,
+    870,
+    607
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    594,
+    933,
+    607
+   ]
+  },
+  {
+   "text": "17 631",
+   "bbox": [
+    976,
+    594,
+    1032,
+    607
+   ]
+  },
+  {
+   "text": "82 931",
+   "bbox": [
+    1086,
+    594,
+    1142,
+    607
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    98,
+    593,
+    233,
+    607
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    515,
+    627,
+    559,
+    641
+   ]
+  },
+  {
+   "text": "24 430",
+   "bbox": [
+    689,
+    628,
+    745,
+    641
+   ]
+  },
+  {
+   "text": "293 160",
+   "bbox": [
+    804,
+    628,
+    870,
+    641
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    905,
+    628,
+    933,
+    641
+   ]
+  },
+  {
+   "text": "14 658",
+   "bbox": [
+    976,
+    628,
+    1032,
+    641
+   ]
+  },
+  {
+   "text": "307 818",
+   "bbox": [
+    1076,
+    628,
+    1142,
+    641
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    98,
+    627,
+    311,
+    645
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    661,
+    556,
+    675
+   ]
+  },
+  {
+   "text": "10 650",
+   "bbox": [
+    689,
+    662,
+    745,
+    675
+   ]
+  },
+  {
+   "text": "10 650",
+   "bbox": [
+    814,
+    662,
+    870,
+    675
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    662,
+    933,
+    675
+   ]
+  },
+  {
+   "text": "2 876",
+   "bbox": [
+    986,
+    662,
+    1032,
+    675
+   ]
+  },
+  {
+   "text": "13 526",
+   "bbox": [
+    1086,
+    662,
+    1142,
+    675
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    98,
+    661,
+    335,
+    679
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    656,
+    715,
+    812,
+    733
+   ]
+  },
+  {
+   "text": "369 110 Ft",
+   "bbox": [
+    1038,
+    717,
+    1143,
+    733
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    746,
+    812,
+    768
+   ]
+  },
+  {
+   "text": "35 165 Ft",
+   "bbox": [
+    1050,
+    752,
+    1143,
+    768
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    590,
+    785,
+    812,
+    803
+   ]
+  },
+  {
+   "text": "404 275 Ft",
+   "bbox": [
+    1024,
+    787,
+    1143,
+    803
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 07440067-98123771",
+   "bbox": [
+    98,
+    849,
+    446,
+    866
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

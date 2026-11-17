@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Fülöp Lili",
+  "email": "fulop.lili@gmail.com",
+  "telefon": "06 1 333 6294",
+  "lakcim": "H-3898 Szerbmellékháza, Miskolci utca 6.",
+  "szuletesi_datum": "1981. december 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1999 – 2003"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vass Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2005 – 2007"
+   },
+   {
+    "ceg": "Kelemen Trade Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2003 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Python",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Fülöp Lili",
+   "bbox": [
+    500,
+    112,
+    739,
+    157
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    554,
+    176,
+    685,
+    204
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    172,
+    248
+   ]
+  },
+  {
+   "text": "fulop.lili@gmail.com",
+   "bbox": [
+    330,
+    231,
+    545,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    262,
+    185,
+    279
+   ]
+  },
+  {
+   "text": "06 1 333 6294",
+   "bbox": [
+    330,
+    263,
+    481,
+    279
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    180,
+    310
+   ]
+  },
+  {
+   "text": "H-3898 Szerbmellékháza, Miskolci utca 6.",
+   "bbox": [
+    330,
+    293,
+    773,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    324,
+    288,
+    341
+   ]
+  },
+  {
+   "text": "1981. december 30.",
+   "bbox": [
+    330,
+    324,
+    543,
+    341
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    375,
+    401
+   ]
+  },
+  {
+   "text": "2005 – 2007",
+   "bbox": [
+    90,
+    427,
+    221,
+    443
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Vass Kft.",
+   "bbox": [
+    90,
+    451,
+    571,
+    473
+   ]
+  },
+  {
+   "text": "2003 – 2005",
+   "bbox": [
+    90,
+    493,
+    221,
+    509
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kelemen Trade Zrt.",
+   "bbox": [
+    90,
+    518,
+    588,
+    539
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    568,
+    280,
+    594
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    620,
+    221,
+    636
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    640,
+    293,
+    666
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    669,
+    347,
+    686
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    711,
+    221,
+    727
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    735,
+    394,
+    757
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    760,
+    363,
+    781
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    811,
+    247,
+    837
+   ]
+  },
+  {
+   "text": "angol (C1), német (B2)",
+   "bbox": [
+    90,
+    862,
+    339,
+    883
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    909,
+    239,
+    935
+   ]
+  },
+  {
+   "text": "SQL, Python, SAP",
+   "bbox": [
+    90,
+    960,
+    276,
+    981
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

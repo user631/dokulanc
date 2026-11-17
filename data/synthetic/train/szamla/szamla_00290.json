@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2026/03612",
+  "kiallitas_datuma": "2026. július 9.",
+  "teljesites_datuma": "2026. július 6.",
+  "fizetesi_hatarido": "2026. július 24.",
+  "elado_nev": "Simon Szolgáltató Kft.",
+  "elado_cim": "H-5096 Hetvenapáti, Borsodligeti tér 120.",
+  "elado_adoszam": "48334684-2-39",
+  "vevo_nev": "Pál Tech Kft.",
+  "vevo_cim": "H-5079 Kishídvég, Ady endre utca 77.",
+  "vevo_adoszam": "96223617-2-33",
+  "bankszamla": "HU96 1146 8224 5603 4231 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "24 940 Ft",
+  "afa_osszesen": "6 734 Ft",
+  "brutto_osszesen": "31 674 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "12 300",
+    "netto": "12 300",
+    "afa_kulcs": "27%",
+    "afa": "3 321",
+    "brutto": "15 621"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "2 db",
+    "egysegar": "6 320",
+    "netto": "12 640",
+    "afa_kulcs": "27%",
+    "afa": "3 413",
+    "brutto": "16 053"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON",
+   "bbox": [
+    118,
+    109,
+    188,
+    124
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    837,
+    86,
+    1167,
+    113
+   ]
+  },
+  {
+   "text": "Sorszám: E-2026/03612",
+   "bbox": [
+    953,
+    144,
+    1167,
+    163
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    73,
+    225,
+    125,
+    240
+   ]
+  },
+  {
+   "text": "Pál Tech Kft.",
+   "bbox": [
+    73,
+    259,
+    187,
+    274
+   ]
+  },
+  {
+   "text": "H-5079 Kishídvég, Ady endre utca 77.",
+   "bbox": [
+    73,
+    290,
+    381,
+    308
+   ]
+  },
+  {
+   "text": "Adószám: 96223617-2-33",
+   "bbox": [
+    73,
+    318,
+    281,
+    332
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    225,
+    687,
+    240
+   ]
+  },
+  {
+   "text": "Simon Szolgáltató Kft.",
+   "bbox": [
+    630,
+    259,
+    831,
+    278
+   ]
+  },
+  {
+   "text": "H-5096 Hetvenapáti, Borsodligeti tér 120.",
+   "bbox": [
+    630,
+    290,
+    974,
+    308
+   ]
+  },
+  {
+   "text": "Adószám: 48334684-2-39",
+   "bbox": [
+    630,
+    318,
+    838,
+    332
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    73,
+    384,
+    185,
+    396
+   ]
+  },
+  {
+   "text": "2026. július 9.",
+   "bbox": [
+    73,
+    411,
+    182,
+    427
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    346,
+    384,
+    471,
+    399
+   ]
+  },
+  {
+   "text": "2026. július 6.",
+   "bbox": [
+    346,
+    411,
+    455,
+    427
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    384,
+    736,
+    396
+   ]
+  },
+  {
+   "text": "2026. július 24.",
+   "bbox": [
+    619,
+    411,
+    738,
+    427
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    384,
+    982,
+    396
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    892,
+    411,
+    953,
+    424
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    73,
+    458,
+    163,
+    473
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    459,
+    565,
+    473
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    689,
+    458,
+    751,
+    473
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    841,
+    458,
+    882,
+    470
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    908,
+    455,
+    948,
+    470
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1024,
+    455,
+    1052,
+    470
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1121,
+    458,
+    1167,
+    470
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    510,
+    497,
+    546,
+    509
+   ]
+  },
+  {
+   "text": "12 300",
+   "bbox": [
+    702,
+    498,
+    751,
+    509
+   ]
+  },
+  {
+   "text": "12 300",
+   "bbox": [
+    833,
+    498,
+    882,
+    509
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    918,
+    498,
+    948,
+    509
+   ]
+  },
+  {
+   "text": "3 321",
+   "bbox": [
+    1012,
+    498,
+    1052,
+    509
+   ]
+  },
+  {
+   "text": "15 621",
+   "bbox": [
+    1118,
+    498,
+    1167,
+    509
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    73,
+    497,
+    152,
+    509
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    510,
+    530,
+    541,
+    542
+   ]
+  },
+  {
+   "text": "6 320",
+   "bbox": [
+    711,
+    531,
+    751,
+    542
+   ]
+  },
+  {
+   "text": "12 640",
+   "bbox": [
+    833,
+    531,
+    882,
+    542
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    918,
+    531,
+    948,
+    542
+   ]
+  },
+  {
+   "text": "3 413",
+   "bbox": [
+    1012,
+    531,
+    1052,
+    542
+   ]
+  },
+  {
+   "text": "16 053",
+   "bbox": [
+    1118,
+    531,
+    1167,
+    542
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    73,
+    530,
+    211,
+    545
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    703,
+    584,
+    837,
+    598
+   ]
+  },
+  {
+   "text": "24 940 Ft",
+   "bbox": [
+    1085,
+    585,
+    1167,
+    598
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    718,
+    615,
+    837,
+    632
+   ]
+  },
+  {
+   "text": "6 734 Ft",
+   "bbox": [
+    1096,
+    619,
+    1167,
+    632
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    742,
+    652,
+    837,
+    670
+   ]
+  },
+  {
+   "text": "31 674 Ft",
+   "bbox": [
+    1085,
+    653,
+    1167,
+    666
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU96 1146 8224 5603 4231 0000 0000",
+   "bbox": [
+    73,
+    716,
+    521,
+    729
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    465,
+    1666,
+    774,
+    1680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FODOR DISZKONT BT.",
+  "uzlet_cim": "H-1505 Drávaszékfa, Törökmindszenti tér 137.",
+  "adoszam": "34108615-5-12",
+  "datum": "2026.05.09.",
+  "ido": "07:56",
+  "nyugtaszam": "3883/76004",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 826 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1438"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "772"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1097"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "570"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2727"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1222"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FODOR DISZKONT BT.",
+   "bbox": [
+    153,
+    33,
+    369,
+    47
+   ]
+  },
+  {
+   "text": "H-1505 Drávaszékfa, Törökmindszenti tér 137.",
+   "bbox": [
+    41,
+    63,
+    481,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34108615-5-12",
+   "bbox": [
+    151,
+    86,
+    371,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    127,
+    301,
+    142
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    168,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "1438 C00",
+   "bbox": [
+    410,
+    168,
+    498,
+    181
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    196,
+    112,
+    209
+   ]
+  },
+  {
+   "text": "772 C00",
+   "bbox": [
+    421,
+    196,
+    498,
+    209
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    224,
+    189,
+    237
+   ]
+  },
+  {
+   "text": "1097 A00",
+   "bbox": [
+    410,
+    224,
+    498,
+    237
+   ]
+  },
+  {
+   "text": "2 DB x 285",
+   "bbox": [
+    24,
+    252,
+    114,
+    263
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    274,
+    167,
+    287
+   ]
+  },
+  {
+   "text": "570 A00",
+   "bbox": [
+    421,
+    274,
+    498,
+    287
+   ]
+  },
+  {
+   "text": "3 DB x 909",
+   "bbox": [
+    24,
+    302,
+    114,
+    313
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    324,
+    112,
+    337
+   ]
+  },
+  {
+   "text": "2727 C00",
+   "bbox": [
+    410,
+    324,
+    498,
+    337
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    352,
+    112,
+    365
+   ]
+  },
+  {
+   "text": "1222 A00",
+   "bbox": [
+    410,
+    352,
+    498,
+    365
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    389,
+    141,
+    408
+   ]
+  },
+  {
+   "text": "7 826 Ft",
+   "bbox": [
+    394,
+    392,
+    498,
+    408
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    426,
+    112,
+    443
+   ]
+  },
+  {
+   "text": "7 826 Ft",
+   "bbox": [
+    410,
+    430,
+    498,
+    443
+   ]
+  },
+  {
+   "text": "2026.05.09.",
+   "bbox": [
+    24,
+    473,
+    134,
+    484
+   ]
+  },
+  {
+   "text": "07:56",
+   "bbox": [
+    448,
+    473,
+    498,
+    484
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3883/76004",
+   "bbox": [
+    24,
+    498,
+    244,
+    514
+   ]
+  },
+  {
+   "text": "AP A33295425",
+   "bbox": [
+    24,
+    529,
+    144,
+    540
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    186,
+    565,
+    336,
+    581
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  522,
+  626
+ ]
+}

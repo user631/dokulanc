@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "JUHÁSZ MARKET KFT.",
+  "uzlet_cim": "H-1052 Mindszentháza, Hetvendevecseri utca 46.",
+  "adoszam": "23575200-4-08",
+  "datum": "2024.10.04.",
+  "ido": "13:27",
+  "nyugtaszam": "9794/42781",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "6 198 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "459"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "210"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "98"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "436"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "599"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3018"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "476"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "902"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JUHÁSZ MARKET KFT.",
+   "bbox": [
+    188,
+    30,
+    440,
+    49
+   ]
+  },
+  {
+   "text": "H-1052 Mindszentháza, Hetvendevecseri utca 46.",
+   "bbox": [
+    38,
+    64,
+    590,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23575200-4-08",
+   "bbox": [
+    182,
+    90,
+    446,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    266,
+    135,
+    362,
+    151
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    178,
+    206,
+    192
+   ]
+  },
+  {
+   "text": "459 B00",
+   "bbox": [
+    514,
+    176,
+    605,
+    192
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    206,
+    206,
+    225
+   ]
+  },
+  {
+   "text": "210 C00",
+   "bbox": [
+    514,
+    206,
+    605,
+    222
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    238,
+    102,
+    252
+   ]
+  },
+  {
+   "text": "98 C00",
+   "bbox": [
+    527,
+    236,
+    605,
+    252
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    266,
+    141,
+    282
+   ]
+  },
+  {
+   "text": "436 A00",
+   "bbox": [
+    514,
+    266,
+    605,
+    282
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    296,
+    206,
+    312
+   ]
+  },
+  {
+   "text": "599 B00",
+   "bbox": [
+    514,
+    296,
+    605,
+    312
+   ]
+  },
+  {
+   "text": "3 DB x 1006",
+   "bbox": [
+    24,
+    325,
+    145,
+    339
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    350,
+    128,
+    366
+   ]
+  },
+  {
+   "text": "3018 A00",
+   "bbox": [
+    501,
+    350,
+    605,
+    366
+   ]
+  },
+  {
+   "text": "2 DB x 238",
+   "bbox": [
+    24,
+    379,
+    134,
+    393
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    406,
+    193,
+    420
+   ]
+  },
+  {
+   "text": "476 A00",
+   "bbox": [
+    514,
+    404,
+    605,
+    420
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    434,
+    219,
+    450
+   ]
+  },
+  {
+   "text": "902 C00",
+   "bbox": [
+    514,
+    434,
+    605,
+    450
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    474,
+    184,
+    495
+   ]
+  },
+  {
+   "text": "6 198 Ft",
+   "bbox": [
+    477,
+    476,
+    605,
+    495
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    515,
+    128,
+    532
+   ]
+  },
+  {
+   "text": "6 198 Ft",
+   "bbox": [
+    501,
+    516,
+    605,
+    532
+   ]
+  },
+  {
+   "text": "2024.10.04.",
+   "bbox": [
+    24,
+    560,
+    156,
+    574
+   ]
+  },
+  {
+   "text": "13:27",
+   "bbox": [
+    545,
+    560,
+    605,
+    574
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9794/42781",
+   "bbox": [
+    24,
+    588,
+    288,
+    607
+   ]
+  },
+  {
+   "text": "AP A62157512",
+   "bbox": [
+    24,
+    620,
+    168,
+    634
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    216,
+    660,
+    411,
+    677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  629,
+  722
+ ]
+}

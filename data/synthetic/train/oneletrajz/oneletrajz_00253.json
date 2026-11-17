@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Tibor",
+  "email": "nagy.tibor@outlook.com",
+  "telefon": "+36 20 204 5772",
+  "lakcim": "H-6016 Kaposvár, Hetvenfalui utca 19.",
+  "szuletesi_datum": "1982. január 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2001 – 2005"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Oláh és Társa Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2005 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "C#",
+   "SQL",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Tibor",
+   "bbox": [
+    479,
+    111,
+    761,
+    155
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    175,
+    681,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    228,
+    170,
+    244
+   ]
+  },
+  {
+   "text": "nagy.tibor@outlook.com",
+   "bbox": [
+    330,
+    228,
+    574,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    181,
+    274
+   ]
+  },
+  {
+   "text": "+36 20 204 5772",
+   "bbox": [
+    330,
+    259,
+    510,
+    274
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    177,
+    304
+   ]
+  },
+  {
+   "text": "H-6016 Kaposvár, Hetvenfalui utca 19.",
+   "bbox": [
+    330,
+    287,
+    724,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    277,
+    334
+   ]
+  },
+  {
+   "text": "1982. január 26.",
+   "bbox": [
+    330,
+    317,
+    502,
+    338
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    360,
+    393
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    90,
+    419,
+    221,
+    434
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Oláh és Társa Kft.",
+   "bbox": [
+    90,
+    442,
+    647,
+    463
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    492,
+    270,
+    517
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    543,
+    221,
+    558
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    566,
+    489,
+    587
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    589,
+    247,
+    610
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    631,
+    221,
+    646
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    654,
+    427,
+    675
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    677,
+    178,
+    698
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    728,
+    241,
+    753
+   ]
+  },
+  {
+   "text": "angol (C1), francia (A2)",
+   "bbox": [
+    90,
+    778,
+    330,
+    798
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    824,
+    232,
+    849
+   ]
+  },
+  {
+   "text": "csapatmunka, C#, SQL, ügyfélkezelés",
+   "bbox": [
+    90,
+    873,
+    471,
+    894
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

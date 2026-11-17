@@ -1,0 +1,354 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS KISBOLT KFT.",
+  "uzlet_cim": "H-4523 Balatongyörgyharaszti, Dunaújvárosi utca 183.",
+  "adoszam": "17177030-2-28",
+  "datum": "2024.02.29.",
+  "ido": "20:24",
+  "nyugtaszam": "5972/40553",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 413 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "959"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "420"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "740"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2200"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1103"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "761"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "674"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1656"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS KISBOLT KFT.",
+   "bbox": [
+    190,
+    31,
+    437,
+    48
+   ]
+  },
+  {
+   "text": "H-4523 Balatongyörgyharaszti, Dunaújvárosi utca 183.",
+   "bbox": [
+    28,
+    63,
+    600,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 17177030-2-28",
+   "bbox": [
+    193,
+    87,
+    435,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    272,
+    128,
+    357,
+    143
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    168,
+    120,
+    182
+   ]
+  },
+  {
+   "text": "959 C00",
+   "bbox": [
+    521,
+    168,
+    605,
+    182
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    196,
+    132,
+    210
+   ]
+  },
+  {
+   "text": "420 A00",
+   "bbox": [
+    521,
+    196,
+    605,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 370",
+   "bbox": [
+    24,
+    224,
+    124,
+    236
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    246,
+    156,
+    263
+   ]
+  },
+  {
+   "text": "740 B00",
+   "bbox": [
+    521,
+    246,
+    605,
+    260
+   ]
+  },
+  {
+   "text": "2 DB x 1100",
+   "bbox": [
+    24,
+    274,
+    134,
+    286
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    297,
+    144,
+    310
+   ]
+  },
+  {
+   "text": "2200 A00",
+   "bbox": [
+    509,
+    296,
+    605,
+    310
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    324,
+    144,
+    338
+   ]
+  },
+  {
+   "text": "1103 C00",
+   "bbox": [
+    509,
+    324,
+    605,
+    338
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    352,
+    120,
+    366
+   ]
+  },
+  {
+   "text": "761 C00",
+   "bbox": [
+    521,
+    352,
+    605,
+    366
+   ]
+  },
+  {
+   "text": "2 DB x 337",
+   "bbox": [
+    24,
+    380,
+    124,
+    392
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    403,
+    192,
+    416
+   ]
+  },
+  {
+   "text": "674 C00",
+   "bbox": [
+    521,
+    402,
+    605,
+    416
+   ]
+  },
+  {
+   "text": "3 DB x 552",
+   "bbox": [
+    24,
+    430,
+    124,
+    442
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    452,
+    156,
+    466
+   ]
+  },
+  {
+   "text": "1656 A00",
+   "bbox": [
+    509,
+    452,
+    605,
+    466
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    490,
+    164,
+    509
+   ]
+  },
+  {
+   "text": "8 413 Ft",
+   "bbox": [
+    493,
+    492,
+    605,
+    509
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    528,
+    144,
+    544
+   ]
+  },
+  {
+   "text": "8 413 Ft",
+   "bbox": [
+    509,
+    530,
+    605,
+    544
+   ]
+  },
+  {
+   "text": "2024.02.29.",
+   "bbox": [
+    24,
+    572,
+    145,
+    585
+   ]
+  },
+  {
+   "text": "20:24",
+   "bbox": [
+    550,
+    572,
+    605,
+    585
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5972/40553",
+   "bbox": [
+    24,
+    599,
+    266,
+    616
+   ]
+  },
+  {
+   "text": "AP A32291497",
+   "bbox": [
+    24,
+    628,
+    156,
+    641
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    231,
+    666,
+    396,
+    681
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  629,
+  726
+ ]
+}

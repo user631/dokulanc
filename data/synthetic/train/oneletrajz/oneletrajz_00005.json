@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Borbély Renáta",
+  "email": "borbely.renata@citromail.hu",
+  "telefon": "06 1 548 3414",
+  "lakcim": "H-1741 Hetvenvég, Bakonyfürdői utca 193.",
+  "szuletesi_datum": "1975. április 6.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "1993 – 1997"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1989 – 1993"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fehér Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2001 – 2005"
+   },
+   {
+    "ceg": "Varga Szolgáltató Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Java",
+   "prezentáció",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    205,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    101,
+    161
+   ]
+  },
+  {
+   "text": "borbely.renata@citromail.hu",
+   "bbox": [
+    40,
+    171,
+    307,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    205,
+    115,
+    221
+   ]
+  },
+  {
+   "text": "06 1 548 3414",
+   "bbox": [
+    40,
+    231,
+    168,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    265,
+    110,
+    281
+   ]
+  },
+  {
+   "text": "H-1741 Hetvenvég, Bakonyfürdői",
+   "bbox": [
+    40,
+    290,
+    345,
+    310
+   ]
+  },
+  {
+   "text": "utca 193.",
+   "bbox": [
+    40,
+    316,
+    127,
+    331
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    350,
+    194,
+    366
+   ]
+  },
+  {
+   "text": "1975. április 6.",
+   "bbox": [
+    40,
+    375,
+    181,
+    395
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    436,
+    193,
+    460
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    481,
+    158,
+    503
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    536,
+    170,
+    560
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    582,
+    65,
+    598
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    611,
+    85,
+    627
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    638,
+    157,
+    661
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    667,
+    282,
+    690
+   ]
+  },
+  {
+   "text": "Borbély Renáta",
+   "bbox": [
+    450,
+    106,
+    785,
+    151
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    173,
+    580,
+    203
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    242,
+    699,
+    268
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    295,
+    568,
+    311
+   ]
+  },
+  {
+   "text": "irodavezető – Fehér Bt.",
+   "bbox": [
+    450,
+    321,
+    715,
+    339
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    365,
+    568,
+    381
+   ]
+  },
+  {
+   "text": "irodavezető – Varga Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    391,
+    853,
+    414
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    445,
+    618,
+    471
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    498,
+    568,
+    514
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    524,
+    833,
+    547
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    551,
+    616,
+    568
+   ]
+  },
+  {
+   "text": "1989 – 1993",
+   "bbox": [
+    450,
+    595,
+    568,
+    611
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    621,
+    719,
+    644
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    648,
+    655,
+    670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

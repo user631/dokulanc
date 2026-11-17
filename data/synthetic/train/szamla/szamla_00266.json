@@ -1,0 +1,608 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2025/09076",
+  "kiallitas_datuma": "2025.11.30.",
+  "teljesites_datuma": "2025.11.29.",
+  "fizetesi_hatarido": "2025.12.08.",
+  "elado_nev": "Farkas Szolgáltató Kft.",
+  "elado_cim": "H-4161 Tapolcafa, Mosonmelléki utca 47.",
+  "elado_adoszam": "45145638-4-51",
+  "vevo_nev": "Varga Patrik",
+  "vevo_cim": "H-7596 Hódmezővásárhely, Györgyházai utca 139.",
+  "vevo_adoszam": null,
+  "bankszamla": "58224830-36990634-62016540",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "320 750 Ft",
+  "afa_osszesen": "84 491 Ft",
+  "brutto_osszesen": "405 241 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "12 óra",
+    "egysegar": "21 890",
+    "netto": "262 680",
+    "afa_kulcs": "27%",
+    "afa": "70 924",
+    "brutto": "333 604"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "3 óra",
+    "egysegar": "15 090",
+    "netto": "45 270",
+    "afa_kulcs": "27%",
+    "afa": "12 223",
+    "brutto": "57 493"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "3 200",
+    "netto": "3 200",
+    "afa_kulcs": "27%",
+    "afa": "864",
+    "brutto": "4 064"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "12 db",
+    "egysegar": "800",
+    "netto": "9 600",
+    "afa_kulcs": "5%",
+    "afa": "480",
+    "brutto": "10 080"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    425,
+    78,
+    815,
+    122
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/09076",
+   "bbox": [
+    442,
+    139,
+    797,
+    161
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    71,
+    219,
+    141,
+    238
+   ]
+  },
+  {
+   "text": "Farkas Szolgáltató Kft.",
+   "bbox": [
+    71,
+    256,
+    333,
+    281
+   ]
+  },
+  {
+   "text": "H-4161 Tapolcafa, Mosonmelléki utca 47.",
+   "bbox": [
+    71,
+    290,
+    488,
+    313
+   ]
+  },
+  {
+   "text": "Adószám: 45145638-4-51",
+   "bbox": [
+    71,
+    321,
+    326,
+    339
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    220,
+    697,
+    238
+   ]
+  },
+  {
+   "text": "Varga Patrik",
+   "bbox": [
+    630,
+    256,
+    775,
+    281
+   ]
+  },
+  {
+   "text": "H-7596 Hódmezővásárhely, Györgyházai utca 139.",
+   "bbox": [
+    630,
+    290,
+    1136,
+    313
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    71,
+    391,
+    251,
+    408
+   ]
+  },
+  {
+   "text": "2025.11.30.",
+   "bbox": [
+    371,
+    392,
+    482,
+    408
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    71,
+    424,
+    264,
+    446
+   ]
+  },
+  {
+   "text": "2025.11.29.",
+   "bbox": [
+    371,
+    425,
+    482,
+    441
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    71,
+    457,
+    254,
+    474
+   ]
+  },
+  {
+   "text": "2025.12.08.",
+   "bbox": [
+    371,
+    458,
+    482,
+    474
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    71,
+    490,
+    212,
+    507
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    371,
+    489,
+    483,
+    512
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    71,
+    534,
+    188,
+    554
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    535,
+    580,
+    554
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    666,
+    534,
+    751,
+    554
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    828,
+    534,
+    883,
+    549
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    530,
+    949,
+    549
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1015,
+    530,
+    1053,
+    549
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1108,
+    534,
+    1169,
+    549
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    510,
+    576,
+    566,
+    591
+   ]
+  },
+  {
+   "text": "21 890",
+   "bbox": [
+    691,
+    577,
+    751,
+    591
+   ]
+  },
+  {
+   "text": "262 680",
+   "bbox": [
+    812,
+    577,
+    883,
+    591
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    577,
+    949,
+    591
+   ]
+  },
+  {
+   "text": "70 924",
+   "bbox": [
+    993,
+    577,
+    1053,
+    591
+   ]
+  },
+  {
+   "text": "333 604",
+   "bbox": [
+    1098,
+    577,
+    1169,
+    591
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    71,
+    576,
+    169,
+    591
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    510,
+    612,
+    555,
+    627
+   ]
+  },
+  {
+   "text": "15 090",
+   "bbox": [
+    691,
+    613,
+    751,
+    627
+   ]
+  },
+  {
+   "text": "45 270",
+   "bbox": [
+    823,
+    613,
+    883,
+    627
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    613,
+    949,
+    627
+   ]
+  },
+  {
+   "text": "12 223",
+   "bbox": [
+    993,
+    613,
+    1053,
+    627
+   ]
+  },
+  {
+   "text": "57 493",
+   "bbox": [
+    1109,
+    613,
+    1169,
+    627
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    71,
+    612,
+    306,
+    632
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    648,
+    550,
+    663
+   ]
+  },
+  {
+   "text": "3 200",
+   "bbox": [
+    702,
+    649,
+    751,
+    663
+   ]
+  },
+  {
+   "text": "3 200",
+   "bbox": [
+    834,
+    649,
+    883,
+    663
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    649,
+    949,
+    663
+   ]
+  },
+  {
+   "text": "864",
+   "bbox": [
+    1020,
+    649,
+    1053,
+    663
+   ]
+  },
+  {
+   "text": "4 064",
+   "bbox": [
+    1120,
+    649,
+    1169,
+    663
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    71,
+    648,
+    224,
+    668
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    510,
+    684,
+    561,
+    699
+   ]
+  },
+  {
+   "text": "800",
+   "bbox": [
+    718,
+    685,
+    751,
+    699
+   ]
+  },
+  {
+   "text": "9 600",
+   "bbox": [
+    834,
+    685,
+    883,
+    699
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    922,
+    685,
+    949,
+    699
+   ]
+  },
+  {
+   "text": "480",
+   "bbox": [
+    1020,
+    685,
+    1053,
+    699
+   ]
+  },
+  {
+   "text": "10 080",
+   "bbox": [
+    1109,
+    685,
+    1169,
+    699
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    71,
+    684,
+    174,
+    704
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    671,
+    741,
+    839,
+    759
+   ]
+  },
+  {
+   "text": "320 750 Ft",
+   "bbox": [
+    1057,
+    742,
+    1169,
+    759
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    774,
+    839,
+    796
+   ]
+  },
+  {
+   "text": "84 491 Ft",
+   "bbox": [
+    1070,
+    779,
+    1169,
+    796
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    613,
+    815,
+    839,
+    833
+   ]
+  },
+  {
+   "text": "405 241 Ft",
+   "bbox": [
+    1050,
+    816,
+    1169,
+    833
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 58224830-36990634-62016540",
+   "bbox": [
+    71,
+    881,
+    549,
+    898
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    71,
+    912,
+    641,
+    930
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

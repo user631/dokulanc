@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Horváth Ilona",
+  "email": "horvath.ilona@gmail.com",
+  "telefon": "+36 70 765 7268",
+  "lakcim": "H-6799 Nagykanizsa, Györgydevecseri utca 31.",
+  "szuletesi_datum": "2000. 07. 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2020 – 2025"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Pintér és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Farkas Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "ügyfélkezelés",
+   "Java",
+   "Python",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Ilona",
+   "bbox": [
+    476,
+    109,
+    764,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    522,
+    176,
+    718,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    153,
+    241
+   ]
+  },
+  {
+   "text": "horvath.ilona@gmail.com",
+   "bbox": [
+    330,
+    227,
+    548,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    165,
+    270
+   ]
+  },
+  {
+   "text": "+36 70 765 7268",
+   "bbox": [
+    330,
+    256,
+    477,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    163,
+    299
+   ]
+  },
+  {
+   "text": "H-6799 Nagykanizsa, Györgydevecseri utca 31.",
+   "bbox": [
+    330,
+    285,
+    743,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    243,
+    328
+   ]
+  },
+  {
+   "text": "2000. 07. 28.",
+   "bbox": [
+    330,
+    314,
+    443,
+    328
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    363,
+    309,
+    385
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    90,
+    412,
+    222,
+    430
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Tech Kft.",
+   "bbox": [
+    90,
+    435,
+    421,
+    454
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    474,
+    222,
+    492
+   ]
+  },
+  {
+   "text": "irodavezető – Pintér és Társa Kft.",
+   "bbox": [
+    90,
+    497,
+    408,
+    512
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    536,
+    222,
+    554
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Farkas Logisztika Kft.",
+   "bbox": [
+    90,
+    559,
+    524,
+    578
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    608,
+    238,
+    630
+   ]
+  },
+  {
+   "text": "2020 – 2025",
+   "bbox": [
+    90,
+    657,
+    199,
+    671
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    680,
+    416,
+    699
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    703,
+    232,
+    721
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    742,
+    199,
+    756
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    765,
+    328,
+    784
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    788,
+    254,
+    806
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    837,
+    214,
+    859
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (C1)",
+   "bbox": [
+    90,
+    886,
+    277,
+    904
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    931,
+    211,
+    953
+   ]
+  },
+  {
+   "text": "SQL, ügyfélkezelés, Java, Python, JavaScript",
+   "bbox": [
+    90,
+    980,
+    483,
+    998
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

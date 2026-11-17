@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ ABC KFT.",
+  "uzlet_cim": "H-9992 Hátfalu, Kuntóti utca 106.",
+  "adoszam": "51103840-2-11",
+  "datum": "2024.09.28.",
+  "ido": "09:45",
+  "nyugtaszam": "1808/77969",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 993 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "849"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "422"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1557"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "169"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2301"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7695"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ABC KFT.",
+   "bbox": [
+    194,
+    30,
+    390,
+    50
+   ]
+  },
+  {
+   "text": "H-9992 Hátfalu, Kuntóti utca 106.",
+   "bbox": [
+    94,
+    68,
+    490,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 51103840-2-11",
+   "bbox": [
+    160,
+    91,
+    424,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    243,
+    137,
+    341,
+    152
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    179,
+    141,
+    193
+   ]
+  },
+  {
+   "text": "849 B00",
+   "bbox": [
+    470,
+    179,
+    561,
+    193
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    209,
+    206,
+    223
+   ]
+  },
+  {
+   "text": "422 B00",
+   "bbox": [
+    470,
+    209,
+    561,
+    223
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    240,
+    193,
+    253
+   ]
+  },
+  {
+   "text": "1557 B00",
+   "bbox": [
+    457,
+    239,
+    561,
+    253
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    269,
+    206,
+    286
+   ]
+  },
+  {
+   "text": "169 B00",
+   "bbox": [
+    470,
+    269,
+    561,
+    283
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    299,
+    271,
+    313
+   ]
+  },
+  {
+   "text": "2301 B00",
+   "bbox": [
+    457,
+    299,
+    561,
+    313
+   ]
+  },
+  {
+   "text": "3 DB x 2565",
+   "bbox": [
+    24,
+    328,
+    145,
+    340
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    353,
+    141,
+    367
+   ]
+  },
+  {
+   "text": "7695 C00",
+   "bbox": [
+    457,
+    353,
+    561,
+    367
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    391,
+    184,
+    412
+   ]
+  },
+  {
+   "text": "12 993 Ft",
+   "bbox": [
+    417,
+    396,
+    561,
+    412
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    432,
+    155,
+    449
+   ]
+  },
+  {
+   "text": "12 993 Ft",
+   "bbox": [
+    444,
+    435,
+    561,
+    449
+   ]
+  },
+  {
+   "text": "2024.09.28.",
+   "bbox": [
+    24,
+    478,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "09:45",
+   "bbox": [
+    501,
+    478,
+    561,
+    491
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1808/77969",
+   "bbox": [
+    24,
+    505,
+    288,
+    523
+   ]
+  },
+  {
+   "text": "AP A79206115",
+   "bbox": [
+    24,
+    538,
+    168,
+    551
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    227,
+    579,
+    357,
+    594
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  585,
+  638
+ ]
+}

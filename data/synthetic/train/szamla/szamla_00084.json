@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2026/07089",
+  "kiallitas_datuma": "2026. 02. 10.",
+  "teljesites_datuma": "2026. 02. 08.",
+  "fizetesi_hatarido": "2026. 02. 18.",
+  "elado_nev": "Major Logisztika Bt.",
+  "elado_cim": "H-4155 Hídvég, Ligetapátii tér 158.",
+  "elado_adoszam": "70226407-2-43",
+  "vevo_nev": "Kovács Consulting Bt.",
+  "vevo_cim": "H-7081 Tapolcahida, Rácligeti utca 220.",
+  "vevo_adoszam": "93049890-5-32",
+  "bankszamla": "64363563-68223153",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "243 130 Ft",
+  "afa_osszesen": "65 645 Ft",
+  "brutto_osszesen": "308 775 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 150",
+    "netto": "5 150",
+    "afa_kulcs": "27%",
+    "afa": "1 390",
+    "brutto": "6 540"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "237 980",
+    "netto": "237 980",
+    "afa_kulcs": "27%",
+    "afa": "64 255",
+    "brutto": "302 235"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    438,
+    96,
+    802,
+    133
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/07089",
+   "bbox": [
+    453,
+    160,
+    787,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    96,
+    239,
+    162,
+    256
+   ]
+  },
+  {
+   "text": "Major Logisztika Bt.",
+   "bbox": [
+    96,
+    274,
+    300,
+    294
+   ]
+  },
+  {
+   "text": "H-4155 Hídvég, Ligetapátii tér 158.",
+   "bbox": [
+    96,
+    306,
+    407,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 70226407-2-43",
+   "bbox": [
+    95,
+    334,
+    326,
+    349
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    239,
+    689,
+    256
+   ]
+  },
+  {
+   "text": "Kovács Consulting Bt.",
+   "bbox": [
+    630,
+    273,
+    860,
+    294
+   ]
+  },
+  {
+   "text": "H-7081 Tapolcahida, Rácligeti utca 220.",
+   "bbox": [
+    630,
+    306,
+    984,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 93049890-5-32",
+   "bbox": [
+    629,
+    334,
+    860,
+    349
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    96,
+    400,
+    258,
+    415
+   ]
+  },
+  {
+   "text": "2026. 02. 10.",
+   "bbox": [
+    396,
+    400,
+    514,
+    415
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    96,
+    430,
+    272,
+    449
+   ]
+  },
+  {
+   "text": "2026. 02. 08.",
+   "bbox": [
+    396,
+    430,
+    514,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    96,
+    460,
+    262,
+    475
+   ]
+  },
+  {
+   "text": "2026. 02. 18.",
+   "bbox": [
+    396,
+    460,
+    514,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    96,
+    490,
+    225,
+    505
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    396,
+    490,
+    466,
+    505
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    532,
+    193,
+    547
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    532,
+    572,
+    547
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    532,
+    745,
+    547
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    828,
+    532,
+    871,
+    544
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    529,
+    934,
+    544
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    529,
+    1034,
+    544
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    532,
+    1144,
+    544
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    515,
+    571,
+    564,
+    583
+   ]
+  },
+  {
+   "text": "5 150",
+   "bbox": [
+    704,
+    571,
+    745,
+    583
+   ]
+  },
+  {
+   "text": "5 150",
+   "bbox": [
+    830,
+    571,
+    871,
+    583
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    571,
+    934,
+    583
+   ]
+  },
+  {
+   "text": "1 390",
+   "bbox": [
+    992,
+    571,
+    1033,
+    583
+   ]
+  },
+  {
+   "text": "6 540",
+   "bbox": [
+    1103,
+    571,
+    1144,
+    583
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    96,
+    570,
+    298,
+    586
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    515,
+    604,
+    587,
+    616
+   ]
+  },
+  {
+   "text": "237 980",
+   "bbox": [
+    686,
+    604,
+    745,
+    616
+   ]
+  },
+  {
+   "text": "237 980",
+   "bbox": [
+    812,
+    604,
+    871,
+    616
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    604,
+    934,
+    616
+   ]
+  },
+  {
+   "text": "64 255",
+   "bbox": [
+    983,
+    604,
+    1033,
+    616
+   ]
+  },
+  {
+   "text": "302 235",
+   "bbox": [
+    1085,
+    604,
+    1144,
+    616
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    96,
+    604,
+    267,
+    619
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    659,
+    658,
+    814,
+    673
+   ]
+  },
+  {
+   "text": "243 130 Ft",
+   "bbox": [
+    1041,
+    658,
+    1144,
+    673
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    668,
+    688,
+    814,
+    707
+   ]
+  },
+  {
+   "text": "65 645 Ft",
+   "bbox": [
+    1053,
+    692,
+    1144,
+    707
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    628,
+    725,
+    814,
+    745
+   ]
+  },
+  {
+   "text": "308 775 Ft",
+   "bbox": [
+    1040,
+    726,
+    1144,
+    741
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 64363563-68223153",
+   "bbox": [
+    96,
+    789,
+    442,
+    803
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    506,
+    1643,
+    734,
+    1657
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

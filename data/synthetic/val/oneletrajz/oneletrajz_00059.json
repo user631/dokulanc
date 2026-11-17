@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Pintér Edit",
+  "email": "pinter.edit@gmail.com",
+  "telefon": "+36 30 798 2237",
+  "lakcim": "H-9849 Nagykanizsa, Drávafürdői utca 68.",
+  "szuletesi_datum": "1977.12.11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1997 – 2000"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lukács Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2008 – 2010"
+   },
+   {
+    "ceg": "Kis Logisztika Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "ceg": "Máté Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2001 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "ügyfélkezelés",
+   "SAP",
+   "projektmenedzsment",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    81,
+    181,
+    101
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    128,
+    92,
+    142
+   ]
+  },
+  {
+   "text": "pinter.edit@gmail.com",
+   "bbox": [
+    40,
+    152,
+    232,
+    170
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    186,
+    103,
+    200
+   ]
+  },
+  {
+   "text": "+36 30 798 2237",
+   "bbox": [
+    40,
+    211,
+    175,
+    224
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    244,
+    97,
+    258
+   ]
+  },
+  {
+   "text": "H-9849 Nagykanizsa, Drávafürdői utca",
+   "bbox": [
+    40,
+    268,
+    355,
+    286
+   ]
+  },
+  {
+   "text": "68.",
+   "bbox": [
+    40,
+    293,
+    65,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    326,
+    173,
+    340
+   ]
+  },
+  {
+   "text": "1977.12.11.",
+   "bbox": [
+    40,
+    351,
+    135,
+    364
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    411,
+    173,
+    431
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    454,
+    145,
+    473
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    482,
+    134,
+    501
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    537,
+    150,
+    557
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    581,
+    154,
+    599
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    609,
+    153,
+    627
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    638,
+    73,
+    651
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    665,
+    221,
+    683
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    694,
+    76,
+    707
+   ]
+  },
+  {
+   "text": "Pintér Edit",
+   "bbox": [
+    450,
+    86,
+    649,
+    119
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    157,
+    559,
+    182
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    223,
+    662,
+    246
+   ]
+  },
+  {
+   "text": "2008 – 2010",
+   "bbox": [
+    450,
+    276,
+    559,
+    290
+   ]
+  },
+  {
+   "text": "rendszergazda – Lukács Tech Kft.",
+   "bbox": [
+    450,
+    301,
+    759,
+    321
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    344,
+    559,
+    358
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kis Logisztika Kft.",
+   "bbox": [
+    450,
+    369,
+    810,
+    389
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    450,
+    412,
+    559,
+    426
+   ]
+  },
+  {
+   "text": "adatelemző – Máté Logisztika Kft.",
+   "bbox": [
+    450,
+    437,
+    771,
+    457
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    489,
+    597,
+    512
+   ]
+  },
+  {
+   "text": "1997 – 2000",
+   "bbox": [
+    450,
+    542,
+    559,
+    556
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    567,
+    689,
+    587
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    593,
+    574,
+    612
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    636,
+    559,
+    650
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    661,
+    717,
+    681
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    686,
+    529,
+    706
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

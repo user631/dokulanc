@@ -1,0 +1,299 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "LAKATOS KISBOLT KFT.",
+  "uzlet_cim": "H-7767 Hídvárad, Ceglédi utca 117.",
+  "adoszam": "93415419-2-39",
+  "datum": "2024.03.30.",
+  "ido": "10:33",
+  "nyugtaszam": "6119/02520",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 571 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1191"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4332"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2253"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1088"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "486"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "221"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS KISBOLT KFT.",
+   "bbox": [
+    174,
+    34,
+    434,
+    48
+   ]
+  },
+  {
+   "text": "H-7767 Hídvárad, Ceglédi utca 117.",
+   "bbox": [
+    117,
+    63,
+    491,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 93415419-2-39",
+   "bbox": [
+    183,
+    87,
+    425,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    128,
+    347,
+    143
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    169,
+    180,
+    182
+   ]
+  },
+  {
+   "text": "1191 A00",
+   "bbox": [
+    489,
+    168,
+    585,
+    182
+   ]
+  },
+  {
+   "text": "3 DB x 1444",
+   "bbox": [
+    24,
+    196,
+    134,
+    208
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    219,
+    144,
+    232
+   ]
+  },
+  {
+   "text": "4332 C00",
+   "bbox": [
+    489,
+    218,
+    585,
+    232
+   ]
+  },
+  {
+   "text": "3 DB x 751",
+   "bbox": [
+    24,
+    246,
+    124,
+    258
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    268,
+    132,
+    282
+   ]
+  },
+  {
+   "text": "2253 A00",
+   "bbox": [
+    489,
+    268,
+    585,
+    282
+   ]
+  },
+  {
+   "text": "2 DB x 544",
+   "bbox": [
+    24,
+    296,
+    124,
+    308
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    319,
+    192,
+    332
+   ]
+  },
+  {
+   "text": "1088 B00",
+   "bbox": [
+    489,
+    318,
+    585,
+    332
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    346,
+    192,
+    360
+   ]
+  },
+  {
+   "text": "486 C00",
+   "bbox": [
+    501,
+    346,
+    585,
+    360
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    374,
+    192,
+    391
+   ]
+  },
+  {
+   "text": "221 C00",
+   "bbox": [
+    501,
+    374,
+    585,
+    388
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    412,
+    164,
+    431
+   ]
+  },
+  {
+   "text": "9 571 Ft",
+   "bbox": [
+    473,
+    414,
+    585,
+    431
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    450,
+    144,
+    466
+   ]
+  },
+  {
+   "text": "9 571 Ft",
+   "bbox": [
+    489,
+    452,
+    585,
+    466
+   ]
+  },
+  {
+   "text": "2024.03.30.",
+   "bbox": [
+    24,
+    494,
+    145,
+    507
+   ]
+  },
+  {
+   "text": "10:33",
+   "bbox": [
+    530,
+    494,
+    585,
+    507
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6119/02520",
+   "bbox": [
+    24,
+    521,
+    266,
+    538
+   ]
+  },
+  {
+   "text": "AP A24410841",
+   "bbox": [
+    24,
+    550,
+    156,
+    563
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    249,
+    588,
+    359,
+    603
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  609,
+  648
+ ]
+}

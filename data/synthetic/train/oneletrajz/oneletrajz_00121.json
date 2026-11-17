@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Váradi Gábor",
+  "email": "varadi.gabor@freemail.hu",
+  "telefon": "+36 70 687 9722",
+  "lakcim": "H-8022 Érd, Hátharasztii utca 179.",
+  "szuletesi_datum": "1984.05.16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Török Consulting Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2014 – 2015"
+   },
+   {
+    "ceg": "Pap Logisztika Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "ceg": "Kovács Tech Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2008 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Docker",
+   "Java",
+   "ügyfélkezelés",
+   "Excel",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    94,
+    175,
+    114
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    89,
+    154
+   ]
+  },
+  {
+   "text": "varadi.gabor@freemail.hu",
+   "bbox": [
+    40,
+    164,
+    243,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    100,
+    210
+   ]
+  },
+  {
+   "text": "+36 70 687 9722",
+   "bbox": [
+    40,
+    221,
+    171,
+    233
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    253,
+    94,
+    266
+   ]
+  },
+  {
+   "text": "H-8022 Érd, Hátharasztii utca 179.",
+   "bbox": [
+    40,
+    273,
+    305,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    309,
+    167,
+    322
+   ]
+  },
+  {
+   "text": "1984.05.16.",
+   "bbox": [
+    40,
+    333,
+    135,
+    345
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    392,
+    168,
+    411
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    433,
+    121,
+    451
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    488,
+    147,
+    507
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    530,
+    84,
+    543
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    556,
+    97,
+    570
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    584,
+    75,
+    597
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    610,
+    150,
+    628
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    637,
+    82,
+    651
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    665,
+    138,
+    682
+   ]
+  },
+  {
+   "text": "Váradi Gábor",
+   "bbox": [
+    450,
+    99,
+    697,
+    130
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    170,
+    639,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    234,
+    654,
+    255
+   ]
+  },
+  {
+   "text": "2014 – 2015",
+   "bbox": [
+    450,
+    286,
+    558,
+    299
+   ]
+  },
+  {
+   "text": "rendszergazda – Török Consulting Zrt.",
+   "bbox": [
+    450,
+    310,
+    798,
+    329
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    352,
+    558,
+    365
+   ]
+  },
+  {
+   "text": "rendszergazda – Pap Logisztika Zrt.",
+   "bbox": [
+    450,
+    376,
+    771,
+    395
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    418,
+    558,
+    431
+   ]
+  },
+  {
+   "text": "rendszergazda – Kovács Tech Zrt.",
+   "bbox": [
+    450,
+    442,
+    753,
+    461
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    492,
+    588,
+    514
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    545,
+    558,
+    558
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    566,
+    601,
+    588
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    594,
+    659,
+    608
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    636,
+    558,
+    649
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    660,
+    722,
+    679
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    685,
+    524,
+    703
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Farkas Eszter",
+  "email": "farkas.eszter@freemail.hu",
+  "telefon": "+36 70 434 1115",
+  "lakcim": "H-7298 Tótháza, Tótberényi utca 115.",
+  "szuletesi_datum": "2001.05.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lukács Logisztika Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2023 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "C#",
+   "Excel",
+   "Git",
+   "Docker",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    94,
+    200,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    100,
+    156
+   ]
+  },
+  {
+   "text": "farkas.eszter@freemail.hu",
+   "bbox": [
+    40,
+    165,
+    261,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    112,
+    214
+   ]
+  },
+  {
+   "text": "+36 70 434 1115",
+   "bbox": [
+    40,
+    224,
+    190,
+    238
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    106,
+    272
+   ]
+  },
+  {
+   "text": "H-7298 Tótháza, Tótberényi utca 115.",
+   "bbox": [
+    40,
+    281,
+    367,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    315,
+    191,
+    330
+   ]
+  },
+  {
+   "text": "2001.05.14.",
+   "bbox": [
+    40,
+    340,
+    140,
+    354
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    400,
+    194,
+    422
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    443,
+    152,
+    464
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    498,
+    169,
+    520
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    541,
+    105,
+    562
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    570,
+    65,
+    585
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    597,
+    87,
+    613
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    625,
+    66,
+    641
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    653,
+    106,
+    669
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    681,
+    132,
+    702
+   ]
+  },
+  {
+   "text": "Farkas Eszter",
+   "bbox": [
+    450,
+    105,
+    728,
+    140
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    174,
+    663,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    690,
+    263
+   ]
+  },
+  {
+   "text": "2023 – 2025",
+   "bbox": [
+    450,
+    288,
+    569,
+    304
+   ]
+  },
+  {
+   "text": "rendszergazda – Lukács Logisztika Kft.",
+   "bbox": [
+    450,
+    314,
+    860,
+    336
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    368,
+    617,
+    393
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    418,
+    569,
+    434
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    444,
+    1002,
+    466
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    469,
+    685,
+    486
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    512,
+    569,
+    528
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    538,
+    708,
+    560
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    563,
+    535,
+    585
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

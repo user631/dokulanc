@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Lakatos György",
+  "anyja_neve": "Lengyel Nándor",
+  "szuletesi_hely": "Balatonmelléknádasd",
+  "szuletesi_datum": "1980.09.28.",
+  "lakcim": "H-9979 Hajdúmindszentvár, Béke utca 150.",
+  "telefon": "06 1 893 8323",
+  "email": "lakatos.gyorgy@example.hu",
+  "adoazonosito_jel": "8415433700",
+  "taj_szam": "118 050 597",
+  "kelt": "Szeged, 2026.12.28."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    282,
+    91,
+    958,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    202,
+    354,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    254,
+    150,
+    271
+   ]
+  },
+  {
+   "text": "Lakatos György",
+   "bbox": [
+    400,
+    251,
+    598,
+    279
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    309,
+    225,
+    328
+   ]
+  },
+  {
+   "text": "Lengyel Nándor",
+   "bbox": [
+    400,
+    308,
+    602,
+    337
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    360,
+    250,
+    381
+   ]
+  },
+  {
+   "text": "Balatonmelléknádasd",
+   "bbox": [
+    400,
+    361,
+    671,
+    383
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    413,
+    237,
+    430
+   ]
+  },
+  {
+   "text": "1980.09.28.",
+   "bbox": [
+    400,
+    416,
+    562,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    466,
+    180,
+    483
+   ]
+  },
+  {
+   "text": "H-9979 Hajdúmindszentvár, Béke utca 150.",
+   "bbox": [
+    400,
+    464,
+    981,
+    492
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    519,
+    236,
+    536
+   ]
+  },
+  {
+   "text": "06 1 893 8323",
+   "bbox": [
+    400,
+    522,
+    610,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    572,
+    215,
+    589
+   ]
+  },
+  {
+   "text": "lakatos.gyorgy@example.hu",
+   "bbox": [
+    400,
+    567,
+    741,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    625,
+    275,
+    646
+   ]
+  },
+  {
+   "text": "8415433700",
+   "bbox": [
+    400,
+    626,
+    580,
+    644
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    678,
+    205,
+    695
+   ]
+  },
+  {
+   "text": "118 050 597",
+   "bbox": [
+    400,
+    678,
+    582,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    760,
+    299,
+    783
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    802,
+    489,
+    823
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    847,
+    301,
+    864
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    892,
+    508,
+    913
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    997,
+    142,
+    1014
+   ]
+  },
+  {
+   "text": "Szeged, 2026.12.28.",
+   "bbox": [
+    180,
+    999,
+    430,
+    1024
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1046,
+    988,
+    1060
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

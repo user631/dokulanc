@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2026/02054",
+  "kiallitas_datuma": "2026-08-25",
+  "teljesites_datuma": "2026-08-22",
+  "fizetesi_hatarido": "2026-09-02",
+  "elado_nev": "Szabó Consulting Bt.",
+  "elado_cim": "H-1648 Fürdőváros, Drávagyörgyi utca 149.",
+  "elado_adoszam": "14288935-5-41",
+  "vevo_nev": "Kovács Trade Zrt.",
+  "vevo_cim": "H-1932 Ligetvár, Petőfi utca 41.",
+  "vevo_adoszam": "27451289-3-41",
+  "bankszamla": "HU78 7522 3296 6707 6387 9729 7336",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "3 091 970 Ft",
+  "afa_osszesen": "831 482 Ft",
+  "brutto_osszesen": "3 923 452 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "15 230",
+    "netto": "15 230",
+    "afa_kulcs": "5%",
+    "afa": "762",
+    "brutto": "15 992"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "255 980",
+    "netto": "3 071 760",
+    "afa_kulcs": "27%",
+    "afa": "829 375",
+    "brutto": "3 901 135"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "2 csomag",
+    "egysegar": "2 490",
+    "netto": "4 980",
+    "afa_kulcs": "27%",
+    "afa": "1 345",
+    "brutto": "6 325"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    545,
+    116,
+    694,
+    150
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/02054",
+   "bbox": [
+    426,
+    171,
+    814,
+    194
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    101,
+    251,
+    173,
+    271
+   ]
+  },
+  {
+   "text": "Kovács Trade Zrt.",
+   "bbox": [
+    101,
+    290,
+    324,
+    310
+   ]
+  },
+  {
+   "text": "H-1932 Ligetvár, Petőfi utca 41.",
+   "bbox": [
+    101,
+    325,
+    444,
+    350
+   ]
+  },
+  {
+   "text": "Adószám: 27451289-3-41",
+   "bbox": [
+    101,
+    358,
+    379,
+    377
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    251,
+    708,
+    271
+   ]
+  },
+  {
+   "text": "Szabó Consulting Bt.",
+   "bbox": [
+    630,
+    290,
+    894,
+    316
+   ]
+  },
+  {
+   "text": "H-1648 Fürdőváros, Drávagyörgyi utca 149.",
+   "bbox": [
+    630,
+    325,
+    1108,
+    350
+   ]
+  },
+  {
+   "text": "Adószám: 14288935-5-41",
+   "bbox": [
+    630,
+    358,
+    908,
+    377
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    101,
+    429,
+    295,
+    448
+   ]
+  },
+  {
+   "text": "2026-08-25",
+   "bbox": [
+    401,
+    430,
+    525,
+    448
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    101,
+    464,
+    314,
+    489
+   ]
+  },
+  {
+   "text": "2026-08-22",
+   "bbox": [
+    401,
+    465,
+    525,
+    483
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    101,
+    499,
+    301,
+    518
+   ]
+  },
+  {
+   "text": "2026-09-02",
+   "bbox": [
+    401,
+    500,
+    525,
+    518
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    101,
+    534,
+    256,
+    553
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    401,
+    534,
+    487,
+    553
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    101,
+    580,
+    230,
+    602
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    581,
+    593,
+    602
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    580,
+    744,
+    602
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    809,
+    580,
+    869,
+    597
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    576,
+    931,
+    597
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    576,
+    1031,
+    597
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1072,
+    580,
+    1139,
+    597
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    516,
+    624,
+    557,
+    641
+   ]
+  },
+  {
+   "text": "15 230",
+   "bbox": [
+    678,
+    625,
+    744,
+    641
+   ]
+  },
+  {
+   "text": "15 230",
+   "bbox": [
+    803,
+    625,
+    869,
+    641
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    901,
+    625,
+    931,
+    641
+   ]
+  },
+  {
+   "text": "762",
+   "bbox": [
+    994,
+    625,
+    1030,
+    641
+   ]
+  },
+  {
+   "text": "15 992",
+   "bbox": [
+    1073,
+    625,
+    1139,
+    641
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    101,
+    624,
+    364,
+    646
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    516,
+    662,
+    621,
+    679
+   ]
+  },
+  {
+   "text": "255 980",
+   "bbox": [
+    666,
+    663,
+    744,
+    679
+   ]
+  },
+  {
+   "text": "3 071 760",
+   "bbox": [
+    773,
+    663,
+    869,
+    679
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    663,
+    931,
+    679
+   ]
+  },
+  {
+   "text": "829 375",
+   "bbox": [
+    952,
+    663,
+    1030,
+    679
+   ]
+  },
+  {
+   "text": "3 901 135",
+   "bbox": [
+    1043,
+    663,
+    1139,
+    679
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    101,
+    662,
+    312,
+    684
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    516,
+    701,
+    609,
+    722
+   ]
+  },
+  {
+   "text": "2 490",
+   "bbox": [
+    690,
+    701,
+    744,
+    717
+   ]
+  },
+  {
+   "text": "4 980",
+   "bbox": [
+    815,
+    701,
+    869,
+    717
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    701,
+    931,
+    717
+   ]
+  },
+  {
+   "text": "1 345",
+   "bbox": [
+    976,
+    701,
+    1030,
+    717
+   ]
+  },
+  {
+   "text": "6 325",
+   "bbox": [
+    1085,
+    701,
+    1139,
+    717
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    101,
+    700,
+    357,
+    722
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    627,
+    761,
+    809,
+    780
+   ]
+  },
+  {
+   "text": "3 091 970 Ft",
+   "bbox": [
+    998,
+    762,
+    1139,
+    780
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    646,
+    796,
+    809,
+    819
+   ]
+  },
+  {
+   "text": "831 482 Ft",
+   "bbox": [
+    1019,
+    801,
+    1139,
+    819
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    675,
+    839,
+    809,
+    864
+   ]
+  },
+  {
+   "text": "3 923 452 Ft",
+   "bbox": [
+    989,
+    840,
+    1139,
+    858
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU78 7522 3296 6707 6387 9729 7336",
+   "bbox": [
+    101,
+    906,
+    704,
+    924
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    467,
+    1632,
+    772,
+    1652
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

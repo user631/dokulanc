@@ -1,0 +1,696 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2025/06143",
+  "kiallitas_datuma": "2025. október 7.",
+  "teljesites_datuma": "2025. október 7.",
+  "fizetesi_hatarido": "2025. október 22.",
+  "elado_nev": "Bognár és Társa Kft.",
+  "elado_cim": "H-8337 Törökfürdőkövesd, Mellékbányai utca 181.",
+  "elado_adoszam": "67031524-3-37",
+  "vevo_nev": "Balogh Consulting Zrt.",
+  "vevo_cim": "H-7981 Balatonmellékfa, Arany jános út 215.",
+  "vevo_adoszam": "59211666-2-26",
+  "bankszamla": "26511256-54620674",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "820 900 Ft",
+  "afa_osszesen": "182 061 Ft",
+  "brutto_osszesen": "1 002 961 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "206 270",
+    "netto": "618 810",
+    "afa_kulcs": "27%",
+    "afa": "167 079",
+    "brutto": "785 889"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 360",
+    "netto": "2 360",
+    "afa_kulcs": "27%",
+    "afa": "637",
+    "brutto": "2 997"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "12 év",
+    "egysegar": "14 660",
+    "netto": "175 920",
+    "afa_kulcs": "5%",
+    "afa": "8 796",
+    "brutto": "184 716"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "19 810",
+    "netto": "19 810",
+    "afa_kulcs": "27%",
+    "afa": "5 349",
+    "brutto": "25 159"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "4 db",
+    "egysegar": "1 000",
+    "netto": "4 000",
+    "afa_kulcs": "5%",
+    "afa": "200",
+    "brutto": "4 200"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    550,
+    117,
+    690,
+    149
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/06143",
+   "bbox": [
+    442,
+    171,
+    797,
+    192
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    103,
+    251,
+    173,
+    269
+   ]
+  },
+  {
+   "text": "Bognár és Társa Kft.",
+   "bbox": [
+    103,
+    287,
+    333,
+    311
+   ]
+  },
+  {
+   "text": "H-8337 Törökfürdőkövesd, Mellékbányai utca 181.",
+   "bbox": [
+    103,
+    320,
+    593,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 67031524-3-37",
+   "bbox": [
+    103,
+    350,
+    353,
+    367
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    251,
+    694,
+    269
+   ]
+  },
+  {
+   "text": "Balogh Consulting Zrt.",
+   "bbox": [
+    630,
+    287,
+    888,
+    311
+   ]
+  },
+  {
+   "text": "H-7981 Balatonmellékfa, Arany jános út 215.",
+   "bbox": [
+    630,
+    320,
+    1058,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 59211666-2-26",
+   "bbox": [
+    630,
+    350,
+    880,
+    367
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    103,
+    418,
+    243,
+    432
+   ]
+  },
+  {
+   "text": "2025. október 7.",
+   "bbox": [
+    103,
+    446,
+    251,
+    462
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    361,
+    418,
+    513,
+    436
+   ]
+  },
+  {
+   "text": "2025. október 7.",
+   "bbox": [
+    361,
+    446,
+    509,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    418,
+    763,
+    432
+   ]
+  },
+  {
+   "text": "2025. október 22.",
+   "bbox": [
+    619,
+    446,
+    778,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    877,
+    418,
+    987,
+    432
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    877,
+    446,
+    950,
+    462
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    103,
+    496,
+    212,
+    514
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    497,
+    583,
+    514
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    664,
+    496,
+    744,
+    514
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    496,
+    868,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    493,
+    930,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    493,
+    1029,
+    510
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1079,
+    496,
+    1137,
+    510
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    516,
+    537,
+    597,
+    551
+   ]
+  },
+  {
+   "text": "206 270",
+   "bbox": [
+    679,
+    538,
+    744,
+    551
+   ]
+  },
+  {
+   "text": "618 810",
+   "bbox": [
+    803,
+    538,
+    868,
+    551
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    538,
+    930,
+    551
+   ]
+  },
+  {
+   "text": "167 079",
+   "bbox": [
+    963,
+    538,
+    1028,
+    551
+   ]
+  },
+  {
+   "text": "785 889",
+   "bbox": [
+    1072,
+    538,
+    1137,
+    551
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    103,
+    537,
+    284,
+    555
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    516,
+    573,
+    596,
+    590
+   ]
+  },
+  {
+   "text": "2 360",
+   "bbox": [
+    699,
+    573,
+    744,
+    586
+   ]
+  },
+  {
+   "text": "2 360",
+   "bbox": [
+    823,
+    573,
+    868,
+    586
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    573,
+    930,
+    586
+   ]
+  },
+  {
+   "text": "637",
+   "bbox": [
+    998,
+    573,
+    1028,
+    586
+   ]
+  },
+  {
+   "text": "2 997",
+   "bbox": [
+    1092,
+    573,
+    1137,
+    586
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    103,
+    572,
+    323,
+    590
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    516,
+    607,
+    561,
+    621
+   ]
+  },
+  {
+   "text": "14 660",
+   "bbox": [
+    689,
+    608,
+    744,
+    621
+   ]
+  },
+  {
+   "text": "175 920",
+   "bbox": [
+    803,
+    608,
+    868,
+    621
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    608,
+    930,
+    621
+   ]
+  },
+  {
+   "text": "8 796",
+   "bbox": [
+    983,
+    608,
+    1028,
+    621
+   ]
+  },
+  {
+   "text": "184 716",
+   "bbox": [
+    1072,
+    608,
+    1137,
+    621
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    103,
+    607,
+    332,
+    625
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    516,
+    642,
+    551,
+    656
+   ]
+  },
+  {
+   "text": "19 810",
+   "bbox": [
+    689,
+    643,
+    744,
+    656
+   ]
+  },
+  {
+   "text": "19 810",
+   "bbox": [
+    813,
+    643,
+    868,
+    656
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    643,
+    930,
+    656
+   ]
+  },
+  {
+   "text": "5 349",
+   "bbox": [
+    983,
+    643,
+    1028,
+    656
+   ]
+  },
+  {
+   "text": "25 159",
+   "bbox": [
+    1082,
+    643,
+    1137,
+    656
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    103,
+    642,
+    256,
+    660
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    516,
+    677,
+    553,
+    691
+   ]
+  },
+  {
+   "text": "1 000",
+   "bbox": [
+    699,
+    678,
+    744,
+    691
+   ]
+  },
+  {
+   "text": "4 000",
+   "bbox": [
+    823,
+    678,
+    868,
+    691
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    678,
+    930,
+    691
+   ]
+  },
+  {
+   "text": "200",
+   "bbox": [
+    998,
+    678,
+    1028,
+    691
+   ]
+  },
+  {
+   "text": "4 200",
+   "bbox": [
+    1092,
+    678,
+    1137,
+    691
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    103,
+    677,
+    201,
+    695
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    732,
+    807,
+    750
+   ]
+  },
+  {
+   "text": "820 900 Ft",
+   "bbox": [
+    1034,
+    734,
+    1137,
+    750
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    665,
+    764,
+    807,
+    786
+   ]
+  },
+  {
+   "text": "182 061 Ft",
+   "bbox": [
+    1034,
+    770,
+    1137,
+    786
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    689,
+    805,
+    807,
+    827
+   ]
+  },
+  {
+   "text": "1 002 961 Ft",
+   "bbox": [
+    1007,
+    806,
+    1137,
+    822
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 26511256-54620674",
+   "bbox": [
+    103,
+    870,
+    455,
+    886
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    103,
+    899,
+    639,
+    917
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    488,
+    1633,
+    752,
+    1650
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

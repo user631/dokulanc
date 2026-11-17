@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS MARKET BT.",
+  "uzlet_cim": "H-8188 Egyházastótnémeti, Szabadság utca 5.",
+  "adoszam": "43919633-2-26",
+  "datum": "2025.03.27.",
+  "ido": "09:43",
+  "nyugtaszam": "9473/87317",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "8 979 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "2079"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1164"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2838"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "431"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "781"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1686"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS MARKET BT.",
+   "bbox": [
+    187,
+    30,
+    425,
+    50
+   ]
+  },
+  {
+   "text": "H-8188 Egyházastótnémeti, Szabadság utca 5.",
+   "bbox": [
+    69,
+    66,
+    542,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 43919633-2-26",
+   "bbox": [
+    185,
+    89,
+    427,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    133,
+    352,
+    148
+   ]
+  },
+  {
+   "text": "3 DB x 693",
+   "bbox": [
+    24,
+    174,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    198,
+    167,
+    211
+   ]
+  },
+  {
+   "text": "2079 A00",
+   "bbox": [
+    485,
+    198,
+    589,
+    211
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    227,
+    180,
+    240
+   ]
+  },
+  {
+   "text": "1164 A00",
+   "bbox": [
+    485,
+    227,
+    589,
+    240
+   ]
+  },
+  {
+   "text": "3 DB x 946",
+   "bbox": [
+    24,
+    255,
+    134,
+    266
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    280,
+    193,
+    292
+   ]
+  },
+  {
+   "text": "2838 A00",
+   "bbox": [
+    485,
+    279,
+    589,
+    292
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    308,
+    206,
+    321
+   ]
+  },
+  {
+   "text": "431 B00",
+   "bbox": [
+    498,
+    308,
+    589,
+    321
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    337,
+    128,
+    350
+   ]
+  },
+  {
+   "text": "781 A00",
+   "bbox": [
+    498,
+    337,
+    589,
+    350
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    367,
+    154,
+    379
+   ]
+  },
+  {
+   "text": "1686 A00",
+   "bbox": [
+    485,
+    366,
+    589,
+    379
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    404,
+    159,
+    423
+   ]
+  },
+  {
+   "text": "8 979 Ft",
+   "bbox": [
+    469,
+    407,
+    589,
+    423
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    443,
+    167,
+    459
+   ]
+  },
+  {
+   "text": "8 979 Ft",
+   "bbox": [
+    485,
+    446,
+    589,
+    459
+   ]
+  },
+  {
+   "text": "2025.03.27.",
+   "bbox": [
+    24,
+    488,
+    145,
+    500
+   ]
+  },
+  {
+   "text": "09:43",
+   "bbox": [
+    534,
+    488,
+    589,
+    500
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9473/87317",
+   "bbox": [
+    24,
+    514,
+    266,
+    531
+   ]
+  },
+  {
+   "text": "AP A27638584",
+   "bbox": [
+    24,
+    546,
+    156,
+    558
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    174,
+    584,
+    438,
+    600
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  613,
+  644
+ ]
+}

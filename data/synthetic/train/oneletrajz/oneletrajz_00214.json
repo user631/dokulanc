@@ -1,0 +1,331 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Magyar Éva",
+  "email": "magyar.eva@freemail.hu",
+  "telefon": "+36 20 193 2651",
+  "lakcim": "H-9023 Ózd, Szabadság tér 17.",
+  "szuletesi_datum": "2002.11.25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2022 – 2026"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mezei Consulting Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Fazekas Logisztika Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Python",
+   "C#",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    232,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    102,
+    161
+   ]
+  },
+  {
+   "text": "magyar.eva@freemail.hu",
+   "bbox": [
+    40,
+    171,
+    252,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    108,
+    221
+   ]
+  },
+  {
+   "text": "+36 20 193 2651",
+   "bbox": [
+    40,
+    232,
+    188,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    110,
+    281
+   ]
+  },
+  {
+   "text": "H-9023 Ózd, Szabadság tér 17.",
+   "bbox": [
+    40,
+    287,
+    304,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    327,
+    183,
+    341
+   ]
+  },
+  {
+   "text": "2002.11.25.",
+   "bbox": [
+    40,
+    352,
+    143,
+    366
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    412,
+    213,
+    435
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    457,
+    133,
+    477
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    486,
+    140,
+    506
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    541,
+    194,
+    564
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    587,
+    80,
+    602
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    615,
+    102,
+    636
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    645,
+    66,
+    660
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    673,
+    156,
+    694
+   ]
+  },
+  {
+   "text": "Magyar Éva",
+   "bbox": [
+    450,
+    97,
+    702,
+    149
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    174,
+    565,
+    203
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    686,
+    268
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    295,
+    594,
+    316
+   ]
+  },
+  {
+   "text": "értékesítő – Mezei Consulting Bt.",
+   "bbox": [
+    450,
+    323,
+    791,
+    344
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    365,
+    594,
+    386
+   ]
+  },
+  {
+   "text": "irodavezető – Fazekas Logisztika Bt.",
+   "bbox": [
+    450,
+    393,
+    826,
+    414
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    447,
+    615,
+    471
+   ]
+  },
+  {
+   "text": "2022 – 2026",
+   "bbox": [
+    450,
+    499,
+    570,
+    514
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    526,
+    640,
+    547
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    449,
+    552,
+    579,
+    573
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    596,
+    570,
+    611
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    623,
+    719,
+    639
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    649,
+    631,
+    670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

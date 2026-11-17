@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Varga Zsolt",
+  "email": "varga.zsolt@example.hu",
+  "telefon": "06 1 807 8688",
+  "lakcim": "H-1945 Németmártonapáti, Ligetvárai utca 112.",
+  "szuletesi_datum": "1994. február 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nemes Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "ceg": "Tóth és Társa Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2018 – 2022"
+   },
+   {
+    "ceg": "Németh Trade Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2016 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "SAP",
+   "Linux",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Varga Zsolt",
+   "bbox": [
+    487,
+    109,
+    751,
+    153
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    175,
+    720,
+    199
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    226,
+    161,
+    242
+   ]
+  },
+  {
+   "text": "varga.zsolt@example.hu",
+   "bbox": [
+    330,
+    226,
+    549,
+    246
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    172,
+    272
+   ]
+  },
+  {
+   "text": "06 1 807 8688",
+   "bbox": [
+    330,
+    257,
+    458,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    285,
+    168,
+    302
+   ]
+  },
+  {
+   "text": "H-1945 Németmártonapáti, Ligetvárai utca 112.",
+   "bbox": [
+    330,
+    285,
+    758,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    259,
+    332
+   ]
+  },
+  {
+   "text": "1994. február 9.",
+   "bbox": [
+    330,
+    315,
+    473,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    330,
+    391
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    417,
+    201,
+    432
+   ]
+  },
+  {
+   "text": "adatelemző – Nemes Kft.",
+   "bbox": [
+    90,
+    440,
+    353,
+    457
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    481,
+    201,
+    496
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Tóth és Társa Zrt.",
+   "bbox": [
+    90,
+    504,
+    586,
+    525
+   ]
+  },
+  {
+   "text": "2016 – 2018",
+   "bbox": [
+    90,
+    545,
+    201,
+    560
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Németh Trade Zrt.",
+   "bbox": [
+    90,
+    568,
+    592,
+    589
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    618,
+    252,
+    643
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    669,
+    201,
+    684
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    692,
+    278,
+    713
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    715,
+    395,
+    736
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    757,
+    201,
+    772
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    780,
+    356,
+    797
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    803,
+    320,
+    824
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    854,
+    224,
+    879
+   ]
+  },
+  {
+   "text": "német (B2), német (B1)",
+   "bbox": [
+    90,
+    903,
+    306,
+    924
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    950,
+    216,
+    975
+   ]
+  },
+  {
+   "text": "Java, SAP, Linux, csapatmunka",
+   "bbox": [
+    90,
+    1000,
+    365,
+    1020
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

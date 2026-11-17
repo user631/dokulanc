@@ -1,0 +1,379 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALÁZS KISBOLT KFT.",
+  "uzlet_cim": "H-3257 Hátháza, Pilistamásii utca 222.",
+  "adoszam": "56716227-4-19",
+  "datum": "2025.10.29.",
+  "ido": "17:17",
+  "nyugtaszam": "3679/77786",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 591 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2238"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "572"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2628"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1146"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1329"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3396"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2205"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "77"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALÁZS KISBOLT KFT.",
+   "bbox": [
+    145,
+    30,
+    430,
+    50
+   ]
+  },
+  {
+   "text": "H-3257 Hátháza, Pilistamásii utca 222.",
+   "bbox": [
+    41,
+    65,
+    535,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56716227-4-19",
+   "bbox": [
+    145,
+    92,
+    431,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    240,
+    138,
+    337,
+    155
+   ]
+  },
+  {
+   "text": "2 DB x 1119",
+   "bbox": [
+    24,
+    180,
+    156,
+    194
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    205,
+    234,
+    222
+   ]
+  },
+  {
+   "text": "2238 C00",
+   "bbox": [
+    441,
+    205,
+    553,
+    222
+   ]
+  },
+  {
+   "text": "2 DB x 286",
+   "bbox": [
+    24,
+    236,
+    144,
+    250
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    264,
+    206,
+    278
+   ]
+  },
+  {
+   "text": "572 C00",
+   "bbox": [
+    455,
+    261,
+    553,
+    278
+   ]
+  },
+  {
+   "text": "3 DB x 876",
+   "bbox": [
+    24,
+    292,
+    144,
+    306
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    317,
+    136,
+    334
+   ]
+  },
+  {
+   "text": "2628 C00",
+   "bbox": [
+    441,
+    317,
+    553,
+    334
+   ]
+  },
+  {
+   "text": "2 DB x 573",
+   "bbox": [
+    24,
+    348,
+    144,
+    362
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    373,
+    248,
+    390
+   ]
+  },
+  {
+   "text": "1146 B00",
+   "bbox": [
+    441,
+    373,
+    553,
+    390
+   ]
+  },
+  {
+   "text": "3 DB x 443",
+   "bbox": [
+    24,
+    404,
+    144,
+    418
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    432,
+    220,
+    446
+   ]
+  },
+  {
+   "text": "1329 A00",
+   "bbox": [
+    441,
+    429,
+    553,
+    446
+   ]
+  },
+  {
+   "text": "3 DB x 1132",
+   "bbox": [
+    24,
+    460,
+    156,
+    474
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    485,
+    192,
+    502
+   ]
+  },
+  {
+   "text": "3396 A00",
+   "bbox": [
+    441,
+    485,
+    553,
+    502
+   ]
+  },
+  {
+   "text": "3 DB x 735",
+   "bbox": [
+    24,
+    516,
+    144,
+    530
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    541,
+    150,
+    558
+   ]
+  },
+  {
+   "text": "2205 B00",
+   "bbox": [
+    441,
+    541,
+    553,
+    558
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    575,
+    108,
+    589
+   ]
+  },
+  {
+   "text": "77 B00",
+   "bbox": [
+    469,
+    572,
+    553,
+    589
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    614,
+    184,
+    635
+   ]
+  },
+  {
+   "text": "13 591 Ft",
+   "bbox": [
+    409,
+    615,
+    553,
+    635
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    655,
+    178,
+    673
+   ]
+  },
+  {
+   "text": "13 591 Ft",
+   "bbox": [
+    427,
+    656,
+    553,
+    673
+   ]
+  },
+  {
+   "text": "2025.10.29.",
+   "bbox": [
+    24,
+    701,
+    167,
+    716
+   ]
+  },
+  {
+   "text": "17:17",
+   "bbox": [
+    488,
+    701,
+    553,
+    716
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3679/77786",
+   "bbox": [
+    24,
+    730,
+    310,
+    750
+   ]
+  },
+  {
+   "text": "AP A72290041",
+   "bbox": [
+    24,
+    763,
+    180,
+    778
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    145,
+    805,
+    431,
+    822
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  577,
+  867
+ ]
+}

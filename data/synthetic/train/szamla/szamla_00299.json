@@ -1,0 +1,849 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2025/09481",
+  "kiallitas_datuma": "2025-06-14",
+  "teljesites_datuma": "2025-06-14",
+  "fizetesi_hatarido": "2025-07-14",
+  "elado_nev": "Varga Consulting Kft.",
+  "elado_cim": "H-5658 Törökgyörgyvég, Mártonfai utca 148.",
+  "elado_adoszam": "87962242-4-29",
+  "vevo_nev": "Balogh Ferenc",
+  "vevo_cim": "H-6899 Mellékvárad, Hetvendevecseri utca 43.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU23 2777 7095 2906 8755 2031 6471",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "222 010 Ft",
+  "afa_osszesen": "34 150 Ft",
+  "brutto_osszesen": "256 160 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "12 420",
+    "netto": "12 420",
+    "afa_kulcs": "27%",
+    "afa": "3 353",
+    "brutto": "15 773"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "3 csomag",
+    "egysegar": "2 360",
+    "netto": "7 080",
+    "afa_kulcs": "27%",
+    "afa": "1 912",
+    "brutto": "8 992"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "3 860",
+    "netto": "3 860",
+    "afa_kulcs": "27%",
+    "afa": "1 042",
+    "brutto": "4 902"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "2 db",
+    "egysegar": "780",
+    "netto": "1 560",
+    "afa_kulcs": "5%",
+    "afa": "78",
+    "brutto": "1 638"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "4 280",
+    "netto": "51 360",
+    "afa_kulcs": "27%",
+    "afa": "13 867",
+    "brutto": "65 227"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "5 oldal",
+    "egysegar": "6 010",
+    "netto": "30 050",
+    "afa_kulcs": "27%",
+    "afa": "8 114",
+    "brutto": "38 164"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "12 db",
+    "egysegar": "9 640",
+    "netto": "115 680",
+    "afa_kulcs": "5%",
+    "afa": "5 784",
+    "brutto": "121 464"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    372,
+    106,
+    868,
+    143
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/09481",
+   "bbox": [
+    381,
+    162,
+    859,
+    188
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    97,
+    243,
+    187,
+    264
+   ]
+  },
+  {
+   "text": "Varga Consulting Kft.",
+   "bbox": [
+    97,
+    282,
+    409,
+    307
+   ]
+  },
+  {
+   "text": "H-5658 Törökgyörgyvég, Mártonfai utca",
+   "bbox": [
+    97,
+    317,
+    577,
+    341
+   ]
+  },
+  {
+   "text": "148.",
+   "bbox": [
+    97,
+    350,
+    151,
+    368
+   ]
+  },
+  {
+   "text": "Adószám: 87962242-4-29",
+   "bbox": [
+    97,
+    381,
+    412,
+    400
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    243,
+    712,
+    264
+   ]
+  },
+  {
+   "text": "Balogh Ferenc",
+   "bbox": [
+    630,
+    282,
+    838,
+    307
+   ]
+  },
+  {
+   "text": "H-6899 Mellékvárad, Hetvendevecseri",
+   "bbox": [
+    630,
+    317,
+    1085,
+    341
+   ]
+  },
+  {
+   "text": "utca 43.",
+   "bbox": [
+    630,
+    350,
+    728,
+    368
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    97,
+    450,
+    288,
+    467
+   ]
+  },
+  {
+   "text": "2025-06-14",
+   "bbox": [
+    97,
+    482,
+    237,
+    499
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    450,
+    567,
+    471
+   ]
+  },
+  {
+   "text": "2025-06-14",
+   "bbox": [
+    358,
+    482,
+    498,
+    499
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    450,
+    816,
+    467
+   ]
+  },
+  {
+   "text": "2025-07-14",
+   "bbox": [
+    619,
+    482,
+    759,
+    499
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    450,
+    1029,
+    467
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    880,
+    480,
+    1012,
+    504
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    532,
+    242,
+    553
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    533,
+    601,
+    553
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    637,
+    532,
+    746,
+    553
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    805,
+    532,
+    871,
+    549
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    860,
+    528,
+    933,
+    549
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    987,
+    528,
+    1034,
+    549
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1068,
+    532,
+    1143,
+    549
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    575,
+    570,
+    592
+   ]
+  },
+  {
+   "text": "12 420",
+   "bbox": [
+    673,
+    576,
+    745,
+    592
+   ]
+  },
+  {
+   "text": "12 420",
+   "bbox": [
+    799,
+    576,
+    871,
+    592
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    884,
+    576,
+    933,
+    592
+   ]
+  },
+  {
+   "text": "3 353",
+   "bbox": [
+    974,
+    576,
+    1033,
+    592
+   ]
+  },
+  {
+   "text": "15 773",
+   "bbox": [
+    1071,
+    576,
+    1143,
+    592
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    97,
+    575,
+    423,
+    596
+   ]
+  },
+  {
+   "text": "3 csomag",
+   "bbox": [
+    515,
+    613,
+    616,
+    633
+   ]
+  },
+  {
+   "text": "2 360",
+   "bbox": [
+    686,
+    613,
+    745,
+    629
+   ]
+  },
+  {
+   "text": "7 080",
+   "bbox": [
+    812,
+    613,
+    871,
+    629
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    884,
+    613,
+    933,
+    629
+   ]
+  },
+  {
+   "text": "1 912",
+   "bbox": [
+    974,
+    613,
+    1033,
+    629
+   ]
+  },
+  {
+   "text": "8 992",
+   "bbox": [
+    1084,
+    613,
+    1143,
+    629
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    97,
+    612,
+    373,
+    633
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    649,
+    561,
+    666
+   ]
+  },
+  {
+   "text": "3 860",
+   "bbox": [
+    686,
+    650,
+    745,
+    666
+   ]
+  },
+  {
+   "text": "3 860",
+   "bbox": [
+    812,
+    650,
+    871,
+    666
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    884,
+    650,
+    933,
+    666
+   ]
+  },
+  {
+   "text": "1 042",
+   "bbox": [
+    974,
+    650,
+    1033,
+    666
+   ]
+  },
+  {
+   "text": "4 902",
+   "bbox": [
+    1084,
+    650,
+    1143,
+    666
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    97,
+    649,
+    286,
+    670
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    515,
+    686,
+    561,
+    703
+   ]
+  },
+  {
+   "text": "780",
+   "bbox": [
+    706,
+    687,
+    745,
+    703
+   ]
+  },
+  {
+   "text": "1 560",
+   "bbox": [
+    812,
+    687,
+    871,
+    703
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    897,
+    687,
+    933,
+    703
+   ]
+  },
+  {
+   "text": "78",
+   "bbox": [
+    1007,
+    687,
+    1033,
+    703
+   ]
+  },
+  {
+   "text": "1 638",
+   "bbox": [
+    1084,
+    687,
+    1143,
+    703
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    97,
+    686,
+    224,
+    707
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    515,
+    723,
+    631,
+    740
+   ]
+  },
+  {
+   "text": "4 280",
+   "bbox": [
+    686,
+    724,
+    745,
+    740
+   ]
+  },
+  {
+   "text": "51 360",
+   "bbox": [
+    799,
+    724,
+    871,
+    740
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    884,
+    724,
+    933,
+    740
+   ]
+  },
+  {
+   "text": "13 867",
+   "bbox": [
+    961,
+    724,
+    1033,
+    740
+   ]
+  },
+  {
+   "text": "65 227",
+   "bbox": [
+    1071,
+    724,
+    1143,
+    740
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    97,
+    723,
+    224,
+    744
+   ]
+  },
+  {
+   "text": "5 oldal",
+   "bbox": [
+    515,
+    760,
+    586,
+    777
+   ]
+  },
+  {
+   "text": "6 010",
+   "bbox": [
+    686,
+    761,
+    745,
+    777
+   ]
+  },
+  {
+   "text": "30 050",
+   "bbox": [
+    799,
+    761,
+    871,
+    777
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    884,
+    761,
+    933,
+    777
+   ]
+  },
+  {
+   "text": "8 114",
+   "bbox": [
+    974,
+    761,
+    1033,
+    777
+   ]
+  },
+  {
+   "text": "38 164",
+   "bbox": [
+    1071,
+    761,
+    1143,
+    777
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    97,
+    760,
+    384,
+    781
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    515,
+    797,
+    574,
+    814
+   ]
+  },
+  {
+   "text": "9 640",
+   "bbox": [
+    686,
+    798,
+    745,
+    814
+   ]
+  },
+  {
+   "text": "115 680",
+   "bbox": [
+    786,
+    798,
+    871,
+    814
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    897,
+    798,
+    933,
+    814
+   ]
+  },
+  {
+   "text": "5 784",
+   "bbox": [
+    974,
+    798,
+    1033,
+    814
+   ]
+  },
+  {
+   "text": "121 464",
+   "bbox": [
+    1058,
+    798,
+    1143,
+    814
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    97,
+    797,
+    389,
+    818
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    611,
+    854,
+    813,
+    875
+   ]
+  },
+  {
+   "text": "222 010 Ft",
+   "bbox": [
+    1005,
+    856,
+    1143,
+    875
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    632,
+    887,
+    813,
+    913
+   ]
+  },
+  {
+   "text": "34 150 Ft",
+   "bbox": [
+    1021,
+    894,
+    1143,
+    913
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    528,
+    930,
+    813,
+    951
+   ]
+  },
+  {
+   "text": "256 160 Ft",
+   "bbox": [
+    990,
+    932,
+    1143,
+    951
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU23 2777 7095 2906 8755 2031 6471",
+   "bbox": [
+    97,
+    998,
+    786,
+    1017
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    97,
+    1029,
+    798,
+    1050
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    452,
+    1638,
+    788,
+    1657
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

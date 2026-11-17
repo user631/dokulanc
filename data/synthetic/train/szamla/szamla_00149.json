@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/05014",
+  "kiallitas_datuma": "2024.11.28.",
+  "teljesites_datuma": "2024.11.28.",
+  "fizetesi_hatarido": "2024.12.13.",
+  "elado_nev": "Kis Bt.",
+  "elado_cim": "H-2538 Némethídbánya, Miskolci utca 117.",
+  "elado_adoszam": "10491355-3-09",
+  "vevo_nev": "Kiss Orsolya",
+  "vevo_cim": "H-1714 Györgykövesd, Érdi utca 123.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU25 9403 3623 5710 8403 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "361 910 Ft",
+  "afa_osszesen": "95 566 Ft",
+  "brutto_osszesen": "457 476 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "12 140",
+    "netto": "12 140",
+    "afa_kulcs": "27%",
+    "afa": "3 278",
+    "brutto": "15 418"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "34 000",
+    "netto": "340 000",
+    "afa_kulcs": "27%",
+    "afa": "91 800",
+    "brutto": "431 800"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "9 770",
+    "netto": "9 770",
+    "afa_kulcs": "5%",
+    "afa": "488",
+    "brutto": "10 258"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    553,
+    87,
+    687,
+    118
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/05014",
+   "bbox": [
+    456,
+    143,
+    783,
+    161
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    79,
+    224,
+    145,
+    241
+   ]
+  },
+  {
+   "text": "Kis Bt.",
+   "bbox": [
+    79,
+    259,
+    148,
+    276
+   ]
+  },
+  {
+   "text": "H-2538 Némethídbánya, Miskolci utca 117.",
+   "bbox": [
+    79,
+    291,
+    476,
+    311
+   ]
+  },
+  {
+   "text": "Adószám: 10491355-3-09",
+   "bbox": [
+    79,
+    320,
+    312,
+    336
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    224,
+    690,
+    241
+   ]
+  },
+  {
+   "text": "Kiss Orsolya",
+   "bbox": [
+    630,
+    259,
+    758,
+    281
+   ]
+  },
+  {
+   "text": "H-1714 Györgykövesd, Érdi utca 123.",
+   "bbox": [
+    630,
+    288,
+    974,
+    311
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    79,
+    387,
+    241,
+    403
+   ]
+  },
+  {
+   "text": "2024.11.28.",
+   "bbox": [
+    379,
+    388,
+    491,
+    403
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    79,
+    418,
+    260,
+    438
+   ]
+  },
+  {
+   "text": "2024.11.28.",
+   "bbox": [
+    379,
+    419,
+    491,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    79,
+    449,
+    250,
+    465
+   ]
+  },
+  {
+   "text": "2024.12.13.",
+   "bbox": [
+    379,
+    450,
+    491,
+    465
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    79,
+    480,
+    211,
+    496
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    379,
+    480,
+    454,
+    496
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    79,
+    522,
+    180,
+    540
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    523,
+    573,
+    540
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    522,
+    749,
+    540
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    833,
+    522,
+    879,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    899,
+    519,
+    944,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    519,
+    1048,
+    536
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1107,
+    522,
+    1161,
+    536
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    563,
+    545,
+    576
+   ]
+  },
+  {
+   "text": "12 140",
+   "bbox": [
+    699,
+    563,
+    749,
+    576
+   ]
+  },
+  {
+   "text": "12 140",
+   "bbox": [
+    829,
+    563,
+    879,
+    576
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    915,
+    563,
+    944,
+    576
+   ]
+  },
+  {
+   "text": "3 278",
+   "bbox": [
+    1006,
+    563,
+    1047,
+    576
+   ]
+  },
+  {
+   "text": "15 418",
+   "bbox": [
+    1111,
+    563,
+    1161,
+    576
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    79,
+    562,
+    180,
+    580
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    511,
+    597,
+    596,
+    610
+   ]
+  },
+  {
+   "text": "34 000",
+   "bbox": [
+    699,
+    597,
+    749,
+    610
+   ]
+  },
+  {
+   "text": "340 000",
+   "bbox": [
+    820,
+    597,
+    879,
+    610
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    915,
+    597,
+    944,
+    610
+   ]
+  },
+  {
+   "text": "91 800",
+   "bbox": [
+    997,
+    597,
+    1047,
+    610
+   ]
+  },
+  {
+   "text": "431 800",
+   "bbox": [
+    1102,
+    597,
+    1161,
+    610
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    79,
+    596,
+    254,
+    614
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    631,
+    545,
+    644
+   ]
+  },
+  {
+   "text": "9 770",
+   "bbox": [
+    708,
+    631,
+    749,
+    644
+   ]
+  },
+  {
+   "text": "9 770",
+   "bbox": [
+    838,
+    631,
+    879,
+    644
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    924,
+    631,
+    944,
+    644
+   ]
+  },
+  {
+   "text": "488",
+   "bbox": [
+    1020,
+    631,
+    1047,
+    644
+   ]
+  },
+  {
+   "text": "10 258",
+   "bbox": [
+    1111,
+    631,
+    1161,
+    644
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    79,
+    630,
+    297,
+    648
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    684,
+    831,
+    702
+   ]
+  },
+  {
+   "text": "361 910 Ft",
+   "bbox": [
+    1054,
+    686,
+    1161,
+    702
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    693,
+    716,
+    831,
+    737
+   ]
+  },
+  {
+   "text": "95 566 Ft",
+   "bbox": [
+    1066,
+    721,
+    1161,
+    737
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    719,
+    755,
+    831,
+    777
+   ]
+  },
+  {
+   "text": "457 476 Ft",
+   "bbox": [
+    1047,
+    756,
+    1161,
+    772
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU25 9403 3623 5710 8403 0000 0000",
+   "bbox": [
+    79,
+    819,
+    566,
+    835
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    79,
+    847,
+    606,
+    864
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    437,
+    1658,
+    803,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

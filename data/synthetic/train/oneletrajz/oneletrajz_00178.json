@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Éva",
+  "email": "szabo.eva@gmail.com",
+  "telefon": "+36 30 256 6940",
+  "lakcim": "H-4630 Hídhida, Békésmártoni utca 149.",
+  "szuletesi_datum": "1995.04.28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nemes Trade Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2022 – jelenleg"
+   },
+   {
+    "ceg": "Kiss Tech Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "ceg": "Simon Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2018 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Git",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Éva",
+   "bbox": [
+    500,
+    92,
+    740,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    166,
+    676,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    165,
+    239
+   ]
+  },
+  {
+   "text": "szabo.eva@gmail.com",
+   "bbox": [
+    330,
+    222,
+    535,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    175,
+    270
+   ]
+  },
+  {
+   "text": "+36 30 256 6940",
+   "bbox": [
+    330,
+    254,
+    487,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    173,
+    301
+   ]
+  },
+  {
+   "text": "H-4630 Hídhida, Békésmártoni utca 149.",
+   "bbox": [
+    330,
+    284,
+    705,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    265,
+    332
+   ]
+  },
+  {
+   "text": "1995.04.28.",
+   "bbox": [
+    330,
+    316,
+    436,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    344,
+    392
+   ]
+  },
+  {
+   "text": "2022 – jelenleg",
+   "bbox": [
+    90,
+    417,
+    232,
+    438
+   ]
+  },
+  {
+   "text": "rendszergazda – Nemes Trade Kft.",
+   "bbox": [
+    90,
+    443,
+    468,
+    464
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    90,
+    484,
+    203,
+    500
+   ]
+  },
+  {
+   "text": "rendszergazda – Kiss Tech Zrt.",
+   "bbox": [
+    90,
+    509,
+    427,
+    530
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    90,
+    550,
+    203,
+    566
+   ]
+  },
+  {
+   "text": "irodavezető – Simon Kft.",
+   "bbox": [
+    90,
+    574,
+    363,
+    592
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    625,
+    260,
+    651
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    677,
+    203,
+    693
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    702,
+    291,
+    723
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    726,
+    408,
+    747
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    768,
+    203,
+    784
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    792,
+    371,
+    810
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    817,
+    270,
+    838
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    868,
+    230,
+    894
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    919,
+    195,
+    940
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    966,
+    223,
+    992
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, Git, csapatmunka, projektmenedzsment",
+   "bbox": [
+    90,
+    1017,
+    596,
+    1038
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

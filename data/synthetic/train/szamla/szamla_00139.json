@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2024/02242",
+  "kiallitas_datuma": "2024-02-20",
+  "teljesites_datuma": "2024-02-17",
+  "fizetesi_hatarido": "2024-03-06",
+  "elado_nev": "Molnár Szolgáltató Kft.",
+  "elado_cim": "H-5924 Szombathely, Keresztfalui utca 43.",
+  "elado_adoszam": "27823251-5-24",
+  "vevo_nev": "Horváth Szolgáltató Zrt.",
+  "vevo_cim": "H-5511 Székkövesd, Dunaújvárosi utca 128.",
+  "vevo_adoszam": "56484320-5-17",
+  "bankszamla": "24887171-17501280",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "14 050 Ft",
+  "afa_osszesen": "3 794 Ft",
+  "brutto_osszesen": "17 844 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "5 csomag",
+    "egysegar": "2 810",
+    "netto": "14 050",
+    "afa_kulcs": "27%",
+    "afa": "3 794",
+    "brutto": "17 844"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    551,
+    94,
+    688,
+    125
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/02242",
+   "bbox": [
+    446,
+    147,
+    793,
+    168
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    80,
+    228,
+    139,
+    245
+   ]
+  },
+  {
+   "text": "Horváth Szolgáltató Zrt.",
+   "bbox": [
+    80,
+    263,
+    340,
+    285
+   ]
+  },
+  {
+   "text": "H-5511 Székkövesd, Dunaújvárosi utca 128.",
+   "bbox": [
+    80,
+    295,
+    481,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 56484320-5-17",
+   "bbox": [
+    80,
+    324,
+    314,
+    340
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    228,
+    695,
+    245
+   ]
+  },
+  {
+   "text": "Molnár Szolgáltató Kft.",
+   "bbox": [
+    630,
+    263,
+    881,
+    285
+   ]
+  },
+  {
+   "text": "H-5924 Szombathely, Keresztfalui utca 43.",
+   "bbox": [
+    630,
+    295,
+    1019,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 27823251-5-24",
+   "bbox": [
+    630,
+    324,
+    864,
+    340
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    80,
+    390,
+    217,
+    404
+   ]
+  },
+  {
+   "text": "2024-02-20",
+   "bbox": [
+    80,
+    419,
+    184,
+    433
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    390,
+    499,
+    408
+   ]
+  },
+  {
+   "text": "2024-02-17",
+   "bbox": [
+    350,
+    419,
+    454,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    390,
+    760,
+    404
+   ]
+  },
+  {
+   "text": "2024-03-06",
+   "bbox": [
+    620,
+    419,
+    724,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    390,
+    996,
+    404
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    890,
+    418,
+    987,
+    438
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    80,
+    467,
+    186,
+    484
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    467,
+    576,
+    484
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    467,
+    750,
+    484
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    467,
+    879,
+    480
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    893,
+    463,
+    944,
+    480
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    463,
+    1046,
+    480
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    467,
+    1160,
+    480
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    512,
+    507,
+    590,
+    524
+   ]
+  },
+  {
+   "text": "2 810",
+   "bbox": [
+    704,
+    507,
+    749,
+    520
+   ]
+  },
+  {
+   "text": "14 050",
+   "bbox": [
+    824,
+    507,
+    879,
+    520
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    507,
+    944,
+    520
+   ]
+  },
+  {
+   "text": "3 794",
+   "bbox": [
+    1001,
+    507,
+    1046,
+    520
+   ]
+  },
+  {
+   "text": "17 844",
+   "bbox": [
+    1105,
+    507,
+    1160,
+    520
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    80,
+    506,
+    293,
+    524
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    678,
+    561,
+    830,
+    578
+   ]
+  },
+  {
+   "text": "14 050 Ft",
+   "bbox": [
+    1070,
+    562,
+    1160,
+    578
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    694,
+    592,
+    830,
+    613
+   ]
+  },
+  {
+   "text": "3 794 Ft",
+   "bbox": [
+    1082,
+    597,
+    1160,
+    613
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    626,
+    631,
+    830,
+    648
+   ]
+  },
+  {
+   "text": "17 844 Ft",
+   "bbox": [
+    1063,
+    632,
+    1160,
+    648
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 24887171-17501280",
+   "bbox": [
+    80,
+    696,
+    418,
+    711
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    80,
+    724,
+    598,
+    741
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    500,
+    1657,
+    740,
+    1673
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

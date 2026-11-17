@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PAP ABC KFT.",
+  "uzlet_cim": "H-1648 Újhídnádasd, Petőfi utca 224.",
+  "adoszam": "53352246-5-23",
+  "datum": "2025.08.11.",
+  "ido": "11:13",
+  "nyugtaszam": "2940/13817",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "20 801 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "998"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "640"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "275"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "444"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "448"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5016"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "850"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7764"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1465"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2406"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "495"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAP ABC KFT.",
+   "bbox": [
+    214,
+    33,
+    370,
+    48
+   ]
+  },
+  {
+   "text": "H-1648 Újhídnádasd, Petőfi utca 224.",
+   "bbox": [
+    112,
+    63,
+    472,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53352246-5-23",
+   "bbox": [
+    182,
+    88,
+    402,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    130,
+    334,
+    146
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    173,
+    120,
+    186
+   ]
+  },
+  {
+   "text": "998 B00",
+   "bbox": [
+    477,
+    173,
+    561,
+    186
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    202,
+    120,
+    215
+   ]
+  },
+  {
+   "text": "640 A00",
+   "bbox": [
+    477,
+    202,
+    561,
+    215
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    231,
+    180,
+    244
+   ]
+  },
+  {
+   "text": "275 C00",
+   "bbox": [
+    477,
+    231,
+    561,
+    244
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    260,
+    192,
+    273
+   ]
+  },
+  {
+   "text": "444 B00",
+   "bbox": [
+    477,
+    260,
+    561,
+    273
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    288,
+    156,
+    306
+   ]
+  },
+  {
+   "text": "448 C00",
+   "bbox": [
+    477,
+    289,
+    561,
+    302
+   ]
+  },
+  {
+   "text": "2 DB x 2508",
+   "bbox": [
+    24,
+    318,
+    134,
+    329
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    341,
+    252,
+    354
+   ]
+  },
+  {
+   "text": "5016 B00",
+   "bbox": [
+    465,
+    341,
+    561,
+    354
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    370,
+    204,
+    383
+   ]
+  },
+  {
+   "text": "850 B00",
+   "bbox": [
+    477,
+    370,
+    561,
+    383
+   ]
+  },
+  {
+   "text": "3 DB x 2588",
+   "bbox": [
+    24,
+    399,
+    134,
+    410
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    422,
+    132,
+    435
+   ]
+  },
+  {
+   "text": "7764 B00",
+   "bbox": [
+    465,
+    422,
+    561,
+    435
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    451,
+    180,
+    464
+   ]
+  },
+  {
+   "text": "1465 A00",
+   "bbox": [
+    465,
+    451,
+    561,
+    464
+   ]
+  },
+  {
+   "text": "3 DB x 802",
+   "bbox": [
+    24,
+    480,
+    124,
+    491
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    503,
+    216,
+    516
+   ]
+  },
+  {
+   "text": "2406 A00",
+   "bbox": [
+    465,
+    503,
+    561,
+    516
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    532,
+    192,
+    545
+   ]
+  },
+  {
+   "text": "495 C00",
+   "bbox": [
+    477,
+    532,
+    561,
+    545
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    569,
+    150,
+    589
+   ]
+  },
+  {
+   "text": "20 801 Ft",
+   "bbox": [
+    435,
+    573,
+    561,
+    589
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    608,
+    144,
+    625
+   ]
+  },
+  {
+   "text": "20 801 Ft",
+   "bbox": [
+    453,
+    612,
+    561,
+    625
+   ]
+  },
+  {
+   "text": "2025.08.11.",
+   "bbox": [
+    24,
+    655,
+    134,
+    667
+   ]
+  },
+  {
+   "text": "11:13",
+   "bbox": [
+    511,
+    655,
+    561,
+    667
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2940/13817",
+   "bbox": [
+    24,
+    681,
+    244,
+    698
+   ]
+  },
+  {
+   "text": "AP A51784313",
+   "bbox": [
+    24,
+    713,
+    144,
+    725
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    237,
+    749,
+    347,
+    766
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  585,
+  812
+ ]
+}

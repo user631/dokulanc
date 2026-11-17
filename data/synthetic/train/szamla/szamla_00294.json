@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/01252",
+  "kiallitas_datuma": "2026. 06. 05.",
+  "teljesites_datuma": "2026. 06. 05.",
+  "fizetesi_hatarido": "2026. 06. 20.",
+  "elado_nev": "Orbán Szolgáltató Kft.",
+  "elado_cim": "H-4514 Hetvenfalva, Tótkőrösi utca 44.",
+  "elado_adoszam": "41259830-2-28",
+  "vevo_nev": "Varga Szolgáltató Kft.",
+  "vevo_cim": "H-5833 Kaposvár, Borsodmártoni utca 42.",
+  "vevo_adoszam": "66989943-3-15",
+  "bankszamla": "HU57 8337 3468 3681 1375 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "407 610 Ft",
+  "afa_osszesen": "110 054 Ft",
+  "brutto_osszesen": "517 664 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "4 hó",
+    "egysegar": "82 110",
+    "netto": "328 440",
+    "afa_kulcs": "27%",
+    "afa": "88 679",
+    "brutto": "417 119"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "5 150",
+    "netto": "25 750",
+    "afa_kulcs": "27%",
+    "afa": "6 952",
+    "brutto": "32 702"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "2 óra",
+    "egysegar": "26 710",
+    "netto": "53 420",
+    "afa_kulcs": "27%",
+    "afa": "14 423",
+    "brutto": "67 843"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ORBÁN",
+   "bbox": [
+    127,
+    121,
+    213,
+    145
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    971,
+    101,
+    1151,
+    146
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/01252",
+   "bbox": [
+    875,
+    165,
+    1150,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    246,
+    171,
+    267
+   ]
+  },
+  {
+   "text": "Orbán Szolgáltató Kft.",
+   "bbox": [
+    90,
+    284,
+    381,
+    310
+   ]
+  },
+  {
+   "text": "H-4514 Hetvenfalva, Tótkőrösi utca 44.",
+   "bbox": [
+    90,
+    320,
+    508,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 41259830-2-28",
+   "bbox": [
+    89,
+    352,
+    362,
+    371
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    246,
+    703,
+    267
+   ]
+  },
+  {
+   "text": "Varga Szolgáltató Kft.",
+   "bbox": [
+    629,
+    284,
+    918,
+    310
+   ]
+  },
+  {
+   "text": "H-5833 Kaposvár, Borsodmártoni utca 42.",
+   "bbox": [
+    630,
+    320,
+    1076,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 66989943-3-15",
+   "bbox": [
+    629,
+    352,
+    902,
+    371
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    90,
+    421,
+    262,
+    438
+   ]
+  },
+  {
+   "text": "2026. 06. 05.",
+   "bbox": [
+    90,
+    453,
+    229,
+    470
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    421,
+    542,
+    442
+   ]
+  },
+  {
+   "text": "2026. 06. 05.",
+   "bbox": [
+    355,
+    453,
+    494,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    421,
+    794,
+    438
+   ]
+  },
+  {
+   "text": "2026. 06. 20.",
+   "bbox": [
+    620,
+    453,
+    759,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    421,
+    1016,
+    438
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    885,
+    451,
+    996,
+    475
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    503,
+    217,
+    524
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    504,
+    590,
+    524
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    503,
+    748,
+    524
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    503,
+    874,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    499,
+    938,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    499,
+    1039,
+    520
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1083,
+    503,
+    1150,
+    520
+   ]
+  },
+  {
+   "text": "4 hó",
+   "bbox": [
+    514,
+    546,
+    555,
+    563
+   ]
+  },
+  {
+   "text": "82 110",
+   "bbox": [
+    685,
+    547,
+    747,
+    563
+   ]
+  },
+  {
+   "text": "328 440",
+   "bbox": [
+    801,
+    547,
+    874,
+    563
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    547,
+    938,
+    563
+   ]
+  },
+  {
+   "text": "88 679",
+   "bbox": [
+    976,
+    547,
+    1038,
+    563
+   ]
+  },
+  {
+   "text": "417 119",
+   "bbox": [
+    1077,
+    547,
+    1150,
+    563
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    90,
+    546,
+    354,
+    567
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    514,
+    583,
+    556,
+    600
+   ]
+  },
+  {
+   "text": "5 150",
+   "bbox": [
+    696,
+    584,
+    747,
+    600
+   ]
+  },
+  {
+   "text": "25 750",
+   "bbox": [
+    812,
+    584,
+    874,
+    600
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    584,
+    938,
+    600
+   ]
+  },
+  {
+   "text": "6 952",
+   "bbox": [
+    987,
+    584,
+    1038,
+    600
+   ]
+  },
+  {
+   "text": "32 702",
+   "bbox": [
+    1088,
+    584,
+    1150,
+    600
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    90,
+    583,
+    255,
+    604
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    514,
+    620,
+    562,
+    637
+   ]
+  },
+  {
+   "text": "26 710",
+   "bbox": [
+    685,
+    621,
+    747,
+    637
+   ]
+  },
+  {
+   "text": "53 420",
+   "bbox": [
+    812,
+    621,
+    874,
+    637
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    621,
+    938,
+    637
+   ]
+  },
+  {
+   "text": "14 423",
+   "bbox": [
+    976,
+    621,
+    1038,
+    637
+   ]
+  },
+  {
+   "text": "67 843",
+   "bbox": [
+    1088,
+    621,
+    1150,
+    637
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    89,
+    620,
+    198,
+    637
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    645,
+    677,
+    820,
+    698
+   ]
+  },
+  {
+   "text": "407 610 Ft",
+   "bbox": [
+    1029,
+    679,
+    1151,
+    698
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    710,
+    820,
+    736
+   ]
+  },
+  {
+   "text": "110 054 Ft",
+   "bbox": [
+    1029,
+    717,
+    1151,
+    736
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    568,
+    753,
+    820,
+    774
+   ]
+  },
+  {
+   "text": "517 664 Ft",
+   "bbox": [
+    1015,
+    755,
+    1151,
+    774
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU57 8337 3468 3681 1375 0000 0000",
+   "bbox": [
+    90,
+    821,
+    685,
+    840
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    476,
+    1645,
+    763,
+    1664
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

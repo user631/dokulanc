@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Major Dávid",
+  "anyja_neve": "Horváth Nikoletta",
+  "szuletesi_hely": "Mindszentvég",
+  "szuletesi_datum": "1992.03.09.",
+  "lakcim": "H-4114 Székkövesd, Tatabányai utca 34.",
+  "telefon": "+36 20 174 3963",
+  "email": "major.david@gmail.com",
+  "adoazonosito_jel": "8457239684",
+  "taj_szam": "510 739 058",
+  "kelt": "Bácsfürdővárad, 2025.10.25."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    435,
+    89,
+    804,
+    121
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    483,
+    145,
+    757,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    200,
+    287,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    255,
+    139,
+    268
+   ]
+  },
+  {
+   "text": "Major Dávid",
+   "bbox": [
+    420,
+    253,
+    539,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    307,
+    198,
+    325
+   ]
+  },
+  {
+   "text": "Horváth Nikoletta",
+   "bbox": [
+    420,
+    304,
+    589,
+    320
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    360,
+    220,
+    378
+   ]
+  },
+  {
+   "text": "Mindszentvég",
+   "bbox": [
+    420,
+    360,
+    551,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    413,
+    211,
+    427
+   ]
+  },
+  {
+   "text": "1992.03.09.",
+   "bbox": [
+    420,
+    416,
+    534,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    466,
+    168,
+    480
+   ]
+  },
+  {
+   "text": "H-4114 Székkövesd, Tatabányai utca 34.",
+   "bbox": [
+    420,
+    467,
+    805,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    519,
+    211,
+    533
+   ]
+  },
+  {
+   "text": "+36 20 174 3963",
+   "bbox": [
+    420,
+    521,
+    583,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    572,
+    198,
+    586
+   ]
+  },
+  {
+   "text": "major.david@gmail.com",
+   "bbox": [
+    420,
+    569,
+    651,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    625,
+    244,
+    643
+   ]
+  },
+  {
+   "text": "8457239684",
+   "bbox": [
+    420,
+    626,
+    540,
+    641
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    679,
+    187,
+    692
+   ]
+  },
+  {
+   "text": "510 739 058",
+   "bbox": [
+    420,
+    679,
+    540,
+    694
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    758,
+    253,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    802,
+    419,
+    820
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    847,
+    270,
+    861
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    892,
+    436,
+    910
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    994,
+    130,
+    1009
+   ]
+  },
+  {
+   "text": "Bácsfürdővárad, 2025.10.25.",
+   "bbox": [
+    178,
+    991,
+    452,
+    1011
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1044,
+    985,
+    1056
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

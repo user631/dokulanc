@@ -1,0 +1,321 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tamás Ferenc",
+  "email": "tamas.ferenc@citromail.hu",
+  "telefon": "+36 70 957 5977",
+  "lakcim": "H-8867 Hátdevecser, Pécsi utca 51.",
+  "szuletesi_datum": "1987. november 1.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2007 – 2012"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vörös Consulting Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2015 – 2017"
+   },
+   {
+    "ceg": "Virág Consulting Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Linux",
+   "projektmenedzsment",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    85,
+    208,
+    107
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    131,
+    101,
+    146
+   ]
+  },
+  {
+   "text": "tamas.ferenc@citromail.hu",
+   "bbox": [
+    40,
+    154,
+    264,
+    171
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    187,
+    111,
+    202
+   ]
+  },
+  {
+   "text": "+36 70 957 5977",
+   "bbox": [
+    40,
+    211,
+    182,
+    225
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    242,
+    107,
+    258
+   ]
+  },
+  {
+   "text": "H-8867 Hátdevecser, Pécsi utca 51.",
+   "bbox": [
+    40,
+    266,
+    336,
+    284
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    298,
+    193,
+    314
+   ]
+  },
+  {
+   "text": "1987. november 1.",
+   "bbox": [
+    40,
+    322,
+    198,
+    337
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    382,
+    195,
+    404
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    424,
+    134,
+    444
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    478,
+    176,
+    500
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    521,
+    74,
+    536
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    548,
+    87,
+    563
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    574,
+    228,
+    594
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    600,
+    259,
+    621
+   ]
+  },
+  {
+   "text": "Tamás Ferenc",
+   "bbox": [
+    450,
+    92,
+    764,
+    130
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    162,
+    633,
+    182
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    225,
+    704,
+    250
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    450,
+    276,
+    563,
+    292
+   ]
+  },
+  {
+   "text": "projektmenedzser – Vörös Consulting Kft.",
+   "bbox": [
+    450,
+    301,
+    912,
+    322
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    342,
+    563,
+    358
+   ]
+  },
+  {
+   "text": "értékesítő – Virág Consulting Bt.",
+   "bbox": [
+    450,
+    366,
+    809,
+    388
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    417,
+    620,
+    443
+   ]
+  },
+  {
+   "text": "2007 – 2012",
+   "bbox": [
+    450,
+    469,
+    563,
+    485
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    489,
+    632,
+    515
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    518,
+    693,
+    539
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    560,
+    563,
+    576
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    584,
+    715,
+    606
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    609,
+    531,
+    630
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

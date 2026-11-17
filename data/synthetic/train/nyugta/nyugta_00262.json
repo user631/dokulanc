@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZŰCS MARKET BT.",
+  "uzlet_cim": "H-6892 Nyírmártonvár, Dózsa györgy utca 149.",
+  "adoszam": "41141881-5-32",
+  "datum": "2024.09.13.",
+  "ido": "08:04",
+  "nyugtaszam": "8047/37280",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 998 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2079"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "461"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2469"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1380"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "556"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "760"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "405"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1411"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3435"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3042"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZŰCS MARKET BT.",
+   "bbox": [
+    199,
+    30,
+    439,
+    51
+   ]
+  },
+  {
+   "text": "H-6892 Nyírmártonvár, Dózsa györgy utca 149.",
+   "bbox": [
+    33,
+    70,
+    605,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 41141881-5-32",
+   "bbox": [
+    176,
+    94,
+    462,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    140,
+    368,
+    156
+   ]
+  },
+  {
+   "text": "3 DB x 693",
+   "bbox": [
+    24,
+    182,
+    144,
+    195
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    209,
+    136,
+    223
+   ]
+  },
+  {
+   "text": "2079 A00",
+   "bbox": [
+    503,
+    209,
+    615,
+    223
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    241,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "461 C00",
+   "bbox": [
+    517,
+    240,
+    615,
+    254
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    271,
+    150,
+    285
+   ]
+  },
+  {
+   "text": "2469 A00",
+   "bbox": [
+    503,
+    271,
+    615,
+    285
+   ]
+  },
+  {
+   "text": "2 DB x 690",
+   "bbox": [
+    24,
+    300,
+    144,
+    313
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    327,
+    178,
+    341
+   ]
+  },
+  {
+   "text": "1380 A00",
+   "bbox": [
+    503,
+    327,
+    615,
+    341
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    358,
+    150,
+    372
+   ]
+  },
+  {
+   "text": "556 A00",
+   "bbox": [
+    517,
+    358,
+    615,
+    372
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    389,
+    248,
+    403
+   ]
+  },
+  {
+   "text": "760 B00",
+   "bbox": [
+    517,
+    389,
+    615,
+    403
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    420,
+    220,
+    434
+   ]
+  },
+  {
+   "text": "405 A00",
+   "bbox": [
+    517,
+    420,
+    615,
+    434
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    452,
+    164,
+    465
+   ]
+  },
+  {
+   "text": "1411 B00",
+   "bbox": [
+    503,
+    451,
+    615,
+    465
+   ]
+  },
+  {
+   "text": "3 DB x 1145",
+   "bbox": [
+    24,
+    480,
+    156,
+    493
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    507,
+    234,
+    521
+   ]
+  },
+  {
+   "text": "3435 A00",
+   "bbox": [
+    503,
+    507,
+    615,
+    521
+   ]
+  },
+  {
+   "text": "3 DB x 1014",
+   "bbox": [
+    24,
+    536,
+    156,
+    549
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    563,
+    164,
+    577
+   ]
+  },
+  {
+   "text": "3042 C00",
+   "bbox": [
+    503,
+    563,
+    615,
+    577
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    601,
+    184,
+    623
+   ]
+  },
+  {
+   "text": "15 998 Ft",
+   "bbox": [
+    471,
+    606,
+    615,
+    623
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    644,
+    136,
+    661
+   ]
+  },
+  {
+   "text": "15 998 Ft",
+   "bbox": [
+    489,
+    647,
+    615,
+    661
+   ]
+  },
+  {
+   "text": "2024.09.13.",
+   "bbox": [
+    24,
+    691,
+    167,
+    704
+   ]
+  },
+  {
+   "text": "08:04",
+   "bbox": [
+    550,
+    691,
+    615,
+    704
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8047/37280",
+   "bbox": [
+    24,
+    719,
+    310,
+    737
+   ]
+  },
+  {
+   "text": "AP A91364512",
+   "bbox": [
+    24,
+    753,
+    180,
+    766
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    220,
+    792,
+    416,
+    810
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  639,
+  854
+ ]
+}

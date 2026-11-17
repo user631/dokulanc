@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Norbert",
+  "email": "kovacs.norbert@citromail.hu",
+  "telefon": "+36 30 803 9590",
+  "lakcim": "H-5844 Felsőhetvenvár, Salgótarjáni utca 75.",
+  "szuletesi_datum": "1995. április 16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2013 – 2018"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete és Társa Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Tóth Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "ceg": "Molnár Szolgáltató Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "SQL",
+   "Python",
+   "prezentáció",
+   "C#",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    87,
+    175,
+    107
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    89,
+    147
+   ]
+  },
+  {
+   "text": "kovacs.norbert@citromail.hu",
+   "bbox": [
+    40,
+    157,
+    266,
+    172
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    100,
+    203
+   ]
+  },
+  {
+   "text": "+36 30 803 9590",
+   "bbox": [
+    40,
+    214,
+    171,
+    226
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    246,
+    94,
+    259
+   ]
+  },
+  {
+   "text": "H-5844 Felsőhetvenvár, Salgótarjáni utca",
+   "bbox": [
+    40,
+    269,
+    357,
+    285
+   ]
+  },
+  {
+   "text": "75.",
+   "bbox": [
+    40,
+    293,
+    65,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    325,
+    167,
+    338
+   ]
+  },
+  {
+   "text": "1995. április 16.",
+   "bbox": [
+    40,
+    348,
+    164,
+    364
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    408,
+    168,
+    427
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    449,
+    136,
+    467
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    504,
+    147,
+    523
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    546,
+    84,
+    559
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    573,
+    71,
+    588
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    599,
+    99,
+    617
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    627,
+    138,
+    644
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    654,
+    61,
+    667
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    680,
+    218,
+    698
+   ]
+  },
+  {
+   "text": "Kovács Norbert",
+   "bbox": [
+    450,
+    92,
+    738,
+    123
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    164,
+    621,
+    181
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    654,
+    248
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    278,
+    580,
+    296
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Fekete és Társa Kft.",
+   "bbox": [
+    450,
+    303,
+    838,
+    322
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    345,
+    558,
+    358
+   ]
+  },
+  {
+   "text": "projektmenedzser – Tóth Kft.",
+   "bbox": [
+    450,
+    369,
+    721,
+    388
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    411,
+    558,
+    424
+   ]
+  },
+  {
+   "text": "adatelemző – Molnár Szolgáltató Bt.",
+   "bbox": [
+    450,
+    435,
+    783,
+    454
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    485,
+    588,
+    507
+   ]
+  },
+  {
+   "text": "2013 – 2018",
+   "bbox": [
+    450,
+    538,
+    558,
+    551
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    559,
+    601,
+    581
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    587,
+    670,
+    605
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    629,
+    558,
+    642
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    653,
+    684,
+    668
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    678,
+    617,
+    696
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

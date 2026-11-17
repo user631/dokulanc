@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Horváth Lajos",
+  "anyja_neve": "Kiss László",
+  "szuletesi_hely": "Pilismellékfa",
+  "szuletesi_datum": "1973.04.24.",
+  "lakcim": "H-5177 Mátrafürdőbánya, Ceglédi utca 58.",
+  "telefon": "+36 70 785 4657",
+  "email": "horvath.lajos@example.hu",
+  "adoazonosito_jel": "8388299026",
+  "taj_szam": "297 321 516",
+  "kelt": "Fürdőapáti, 2025.03.28."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    449,
+    94,
+    792,
+    124
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    486,
+    150,
+    753,
+    165
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    203,
+    283,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    259,
+    144,
+    272
+   ]
+  },
+  {
+   "text": "Horváth Lajos",
+   "bbox": [
+    404,
+    261,
+    563,
+    287
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    311,
+    199,
+    327
+   ]
+  },
+  {
+   "text": "Kiss László",
+   "bbox": [
+    404,
+    308,
+    527,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    363,
+    217,
+    379
+   ]
+  },
+  {
+   "text": "Pilismellékfa",
+   "bbox": [
+    404,
+    360,
+    546,
+    380
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    415,
+    209,
+    428
+   ]
+  },
+  {
+   "text": "1973.04.24.",
+   "bbox": [
+    404,
+    417,
+    538,
+    437
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    467,
+    167,
+    480
+   ]
+  },
+  {
+   "text": "H-5177 Mátrafürdőbánya, Ceglédi utca 58.",
+   "bbox": [
+    404,
+    465,
+    882,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    519,
+    211,
+    532
+   ]
+  },
+  {
+   "text": "+36 70 785 4657",
+   "bbox": [
+    404,
+    520,
+    602,
+    539
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    571,
+    192,
+    584
+   ]
+  },
+  {
+   "text": "horvath.lajos@example.hu",
+   "bbox": [
+    404,
+    568,
+    697,
+    594
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    623,
+    242,
+    639
+   ]
+  },
+  {
+   "text": "8388299026",
+   "bbox": [
+    404,
+    625,
+    554,
+    645
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    675,
+    184,
+    688
+   ]
+  },
+  {
+   "text": "297 321 516",
+   "bbox": [
+    404,
+    671,
+    545,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    751,
+    246,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    797,
+    410,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    842,
+    267,
+    855
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    887,
+    423,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    987,
+    134,
+    1001
+   ]
+  },
+  {
+   "text": "Fürdőapáti, 2025.03.28.",
+   "bbox": [
+    187,
+    989,
+    429,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1037,
+    975,
+    1048
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

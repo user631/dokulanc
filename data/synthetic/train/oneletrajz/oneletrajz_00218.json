@@ -1,0 +1,341 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Takács Ernő",
+  "email": "takacs.erno@citromail.hu",
+  "telefon": "+36 20 770 6808",
+  "lakcim": "H-5138 Győr, Pécsi tér 40.",
+  "szuletesi_datum": "1979. 08. 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "1998 – 2001"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2005 – 2007"
+   },
+   {
+    "ceg": "Szőke Trade Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2002 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "csapatmunka",
+   "Python",
+   "Docker",
+   "prezentáció",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    86,
+    193,
+    107
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    131,
+    93,
+    144
+   ]
+  },
+  {
+   "text": "takacs.erno@citromail.hu",
+   "bbox": [
+    40,
+    152,
+    228,
+    167
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    104,
+    196
+   ]
+  },
+  {
+   "text": "+36 20 770 6808",
+   "bbox": [
+    40,
+    205,
+    166,
+    217
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    234,
+    100,
+    248
+   ]
+  },
+  {
+   "text": "H-5138 Győr, Pécsi tér 40.",
+   "bbox": [
+    40,
+    255,
+    234,
+    272
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    286,
+    177,
+    300
+   ]
+  },
+  {
+   "text": "1979. 08. 15.",
+   "bbox": [
+    40,
+    309,
+    137,
+    321
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    365,
+    181,
+    386
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    406,
+    124,
+    424
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    457,
+    164,
+    478
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    498,
+    144,
+    516
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    523,
+    143,
+    541
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    548,
+    95,
+    566
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    573,
+    95,
+    587
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    598,
+    129,
+    616
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    624,
+    64,
+    637
+   ]
+  },
+  {
+   "text": "Takács Ernő",
+   "bbox": [
+    450,
+    94,
+    712,
+    130
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    158,
+    552,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    223,
+    686,
+    246
+   ]
+  },
+  {
+   "text": "2005 – 2007",
+   "bbox": [
+    450,
+    272,
+    552,
+    286
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Tech Bt.",
+   "bbox": [
+    449,
+    293,
+    776,
+    314
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    450,
+    334,
+    552,
+    348
+   ]
+  },
+  {
+   "text": "rendszergazda – Szőke Trade Zrt.",
+   "bbox": [
+    450,
+    355,
+    790,
+    376
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    406,
+    608,
+    429
+   ]
+  },
+  {
+   "text": "1998 – 2001",
+   "bbox": [
+    450,
+    455,
+    552,
+    469
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    476,
+    792,
+    497
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    450,
+    500,
+    583,
+    519
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    540,
+    552,
+    554
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    561,
+    695,
+    582
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    585,
+    522,
+    604
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,433 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS CSEMEGE BT.",
+  "uzlet_cim": "H-2924 Dunahídvég, Hódmezővásárhelyi utca 189.",
+  "adoszam": "75967934-2-25",
+  "datum": "2024.09.03.",
+  "ido": "10:03",
+  "nyugtaszam": "4638/30377",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "18 919 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "705"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "520"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "777"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "92"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1339"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "990"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1307"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "800"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "301"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "764"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8778"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2646"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS CSEMEGE BT.",
+   "bbox": [
+    151,
+    36,
+    375,
+    50
+   ]
+  },
+  {
+   "text": "H-2924 Dunahídvég, Hódmezővásárhelyi",
+   "bbox": [
+    47,
+    68,
+    479,
+    85
+   ]
+  },
+  {
+   "text": "utca 189.",
+   "bbox": [
+    209,
+    94,
+    317,
+    107
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 75967934-2-25",
+   "bbox": [
+    131,
+    117,
+    395,
+    133
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    214,
+    163,
+    312,
+    178
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    205,
+    141,
+    219
+   ]
+  },
+  {
+   "text": "705 C00",
+   "bbox": [
+    412,
+    205,
+    503,
+    219
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    235,
+    128,
+    249
+   ]
+  },
+  {
+   "text": "520 B00",
+   "bbox": [
+    412,
+    235,
+    503,
+    249
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    265,
+    128,
+    279
+   ]
+  },
+  {
+   "text": "777 B00",
+   "bbox": [
+    412,
+    265,
+    503,
+    279
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    296,
+    102,
+    309
+   ]
+  },
+  {
+   "text": "92 B00",
+   "bbox": [
+    425,
+    295,
+    503,
+    309
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    325,
+    154,
+    339
+   ]
+  },
+  {
+   "text": "1339 C00",
+   "bbox": [
+    399,
+    325,
+    503,
+    339
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    355,
+    180,
+    369
+   ]
+  },
+  {
+   "text": "990 C00",
+   "bbox": [
+    412,
+    355,
+    503,
+    369
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    386,
+    193,
+    399
+   ]
+  },
+  {
+   "text": "1307 C00",
+   "bbox": [
+    399,
+    385,
+    503,
+    399
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    415,
+    232,
+    429
+   ]
+  },
+  {
+   "text": "800 A00",
+   "bbox": [
+    412,
+    415,
+    503,
+    429
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    446,
+    206,
+    459
+   ]
+  },
+  {
+   "text": "301 C00",
+   "bbox": [
+    412,
+    445,
+    503,
+    459
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    475,
+    206,
+    489
+   ]
+  },
+  {
+   "text": "764 C00",
+   "bbox": [
+    412,
+    475,
+    503,
+    489
+   ]
+  },
+  {
+   "text": "3 DB x 2926",
+   "bbox": [
+    24,
+    504,
+    145,
+    516
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    529,
+    141,
+    543
+   ]
+  },
+  {
+   "text": "8778 A00",
+   "bbox": [
+    399,
+    529,
+    503,
+    543
+   ]
+  },
+  {
+   "text": "3 DB x 882",
+   "bbox": [
+    24,
+    558,
+    134,
+    570
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    583,
+    219,
+    597
+   ]
+  },
+  {
+   "text": "2646 A00",
+   "bbox": [
+    399,
+    583,
+    503,
+    597
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    621,
+    184,
+    642
+   ]
+  },
+  {
+   "text": "18 919 Ft",
+   "bbox": [
+    359,
+    626,
+    503,
+    642
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    662,
+    128,
+    679
+   ]
+  },
+  {
+   "text": "18 919 Ft",
+   "bbox": [
+    386,
+    665,
+    503,
+    679
+   ]
+  },
+  {
+   "text": "2024.09.03.",
+   "bbox": [
+    24,
+    708,
+    156,
+    721
+   ]
+  },
+  {
+   "text": "10:03",
+   "bbox": [
+    443,
+    708,
+    503,
+    721
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4638/30377",
+   "bbox": [
+    24,
+    735,
+    288,
+    753
+   ]
+  },
+  {
+   "text": "AP A19307852",
+   "bbox": [
+    24,
+    768,
+    168,
+    781
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    120,
+    808,
+    406,
+    824
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  527,
+  868
+ ]
+}

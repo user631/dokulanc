@@ -1,0 +1,424 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FARKAS CSEMEGE KFT.",
+  "uzlet_cim": "H-6148 Ligetkőrös, Fürdőhalasi utca 24.",
+  "adoszam": "62685850-5-26",
+  "datum": "2024.01.02.",
+  "ido": "16:36",
+  "nyugtaszam": "6941/96359",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 981 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "655"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1447"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1137"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "669"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "333"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "231"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1330"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1503"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1144"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "403"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1180"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1049"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS CSEMEGE KFT.",
+   "bbox": [
+    156,
+    33,
+    422,
+    49
+   ]
+  },
+  {
+   "text": "H-6148 Ligetkőrös, Fürdőhalasi utca 24.",
+   "bbox": [
+    55,
+    66,
+    523,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 62685850-5-26",
+   "bbox": [
+    157,
+    91,
+    421,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    244,
+    137,
+    334,
+    154
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    181,
+    232,
+    196
+   ]
+  },
+  {
+   "text": "655 B00",
+   "bbox": [
+    463,
+    181,
+    554,
+    196
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    212,
+    193,
+    227
+   ]
+  },
+  {
+   "text": "1447 B00",
+   "bbox": [
+    450,
+    212,
+    554,
+    227
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    243,
+    180,
+    258
+   ]
+  },
+  {
+   "text": "1137 B00",
+   "bbox": [
+    450,
+    243,
+    554,
+    258
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    274,
+    167,
+    289
+   ]
+  },
+  {
+   "text": "669 C00",
+   "bbox": [
+    463,
+    274,
+    554,
+    289
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    305,
+    206,
+    320
+   ]
+  },
+  {
+   "text": "333 B00",
+   "bbox": [
+    463,
+    305,
+    554,
+    320
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    336,
+    193,
+    351
+   ]
+  },
+  {
+   "text": "231 A00",
+   "bbox": [
+    463,
+    336,
+    554,
+    351
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    367,
+    154,
+    382
+   ]
+  },
+  {
+   "text": "1330 C00",
+   "bbox": [
+    450,
+    367,
+    554,
+    382
+   ]
+  },
+  {
+   "text": "3 DB x 501",
+   "bbox": [
+    24,
+    397,
+    134,
+    410
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    423,
+    128,
+    438
+   ]
+  },
+  {
+   "text": "1503 C00",
+   "bbox": [
+    450,
+    423,
+    554,
+    438
+   ]
+  },
+  {
+   "text": "2 DB x 572",
+   "bbox": [
+    24,
+    453,
+    134,
+    466
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    479,
+    141,
+    494
+   ]
+  },
+  {
+   "text": "1144 B00",
+   "bbox": [
+    450,
+    479,
+    554,
+    494
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    510,
+    206,
+    525
+   ]
+  },
+  {
+   "text": "403 C00",
+   "bbox": [
+    463,
+    510,
+    554,
+    525
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    541,
+    219,
+    556
+   ]
+  },
+  {
+   "text": "1180 B00",
+   "bbox": [
+    450,
+    541,
+    554,
+    556
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    572,
+    128,
+    587
+   ]
+  },
+  {
+   "text": "1049 A00",
+   "bbox": [
+    450,
+    572,
+    554,
+    587
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    611,
+    174,
+    633
+   ]
+  },
+  {
+   "text": "10 981 Ft",
+   "bbox": [
+    419,
+    616,
+    554,
+    633
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    651,
+    167,
+    671
+   ]
+  },
+  {
+   "text": "10 981 Ft",
+   "bbox": [
+    437,
+    656,
+    554,
+    671
+   ]
+  },
+  {
+   "text": "2024.01.02.",
+   "bbox": [
+    24,
+    701,
+    156,
+    714
+   ]
+  },
+  {
+   "text": "16:36",
+   "bbox": [
+    494,
+    701,
+    554,
+    714
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6941/96359",
+   "bbox": [
+    24,
+    728,
+    288,
+    747
+   ]
+  },
+  {
+   "text": "AP A95734767",
+   "bbox": [
+    24,
+    763,
+    168,
+    776
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    199,
+    801,
+    379,
+    820
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  578,
+  866
+ ]
+}

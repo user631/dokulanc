@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Kiss Imre",
+  "anyja_neve": "Molnár Julianna",
+  "szuletesi_hely": "Drávatapolcavég",
+  "szuletesi_datum": "1963. 03. 05.",
+  "lakcim": "H-8068 Pusztatamásibánya, Budai utca 245.",
+  "telefon": "+36 70 456 4871",
+  "email": "kiss.imre@citromail.hu",
+  "adoazonosito_jel": "8351262152",
+  "taj_szam": "444 162 623",
+  "kelt": "Győr, 2025. 05. 13."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    505,
+    88,
+    734,
+    123
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    483,
+    142,
+    756,
+    158
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    194,
+    302,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    247,
+    135,
+    261
+   ]
+  },
+  {
+   "text": "Kiss Imre",
+   "bbox": [
+    423,
+    245,
+    531,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    299,
+    192,
+    316
+   ]
+  },
+  {
+   "text": "Molnár Julianna",
+   "bbox": [
+    423,
+    297,
+    615,
+    317
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    349,
+    211,
+    367
+   ]
+  },
+  {
+   "text": "Drávatapolcavég",
+   "bbox": [
+    423,
+    348,
+    618,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    400,
+    203,
+    414
+   ]
+  },
+  {
+   "text": "1963. 03. 05.",
+   "bbox": [
+    423,
+    398,
+    595,
+    413
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    451,
+    159,
+    465
+   ]
+  },
+  {
+   "text": "H-8068 Pusztatamásibánya, Budai utca 245.",
+   "bbox": [
+    423,
+    447,
+    971,
+    473
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    502,
+    204,
+    516
+   ]
+  },
+  {
+   "text": "+36 70 456 4871",
+   "bbox": [
+    423,
+    500,
+    650,
+    517
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    553,
+    187,
+    567
+   ]
+  },
+  {
+   "text": "kiss.imre@citromail.hu",
+   "bbox": [
+    423,
+    547,
+    685,
+    567
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    604,
+    235,
+    622
+   ]
+  },
+  {
+   "text": "8351262152",
+   "bbox": [
+    423,
+    604,
+    593,
+    620
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    655,
+    181,
+    669
+   ]
+  },
+  {
+   "text": "444 162 623",
+   "bbox": [
+    423,
+    652,
+    594,
+    669
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    732,
+    260,
+    753
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    776,
+    403,
+    794
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    821,
+    257,
+    835
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    866,
+    423,
+    884
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    968,
+    125,
+    983
+   ]
+  },
+  {
+   "text": "Győr, 2025. 05. 13.",
+   "bbox": [
+    177,
+    968,
+    394,
+    993
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1016,
+    984,
+    1028
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

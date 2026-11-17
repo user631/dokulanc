@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SIMON ABC KFT.",
+  "uzlet_cim": "H-2583 Pécs, Hídházai út 8.",
+  "adoszam": "44294603-2-41",
+  "datum": "2026.10.21.",
+  "ido": "21:29",
+  "nyugtaszam": "5513/99090",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "15 012 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1954"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "961"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4930"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "744"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "588"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "239"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1157"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "777"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "73"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1635"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "820"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1134"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON ABC KFT.",
+   "bbox": [
+    202,
+    36,
+    412,
+    51
+   ]
+  },
+  {
+   "text": "H-2583 Pécs, Hídházai út 8.",
+   "bbox": [
+    131,
+    70,
+    482,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 44294603-2-41",
+   "bbox": [
+    164,
+    94,
+    450,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    140,
+    356,
+    156
+   ]
+  },
+  {
+   "text": "2 DB x 977",
+   "bbox": [
+    24,
+    182,
+    144,
+    195
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    209,
+    136,
+    223
+   ]
+  },
+  {
+   "text": "1954 A00",
+   "bbox": [
+    479,
+    209,
+    591,
+    223
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    240,
+    192,
+    254
+   ]
+  },
+  {
+   "text": "961 C00",
+   "bbox": [
+    493,
+    240,
+    591,
+    254
+   ]
+  },
+  {
+   "text": "2 DB x 2465",
+   "bbox": [
+    24,
+    269,
+    156,
+    282
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    296,
+    150,
+    310
+   ]
+  },
+  {
+   "text": "4930 A00",
+   "bbox": [
+    479,
+    296,
+    591,
+    310
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    327,
+    136,
+    341
+   ]
+  },
+  {
+   "text": "744 A00",
+   "bbox": [
+    493,
+    327,
+    591,
+    341
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    358,
+    178,
+    372
+   ]
+  },
+  {
+   "text": "588 B00",
+   "bbox": [
+    493,
+    358,
+    591,
+    372
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    389,
+    220,
+    406
+   ]
+  },
+  {
+   "text": "239 C00",
+   "bbox": [
+    493,
+    389,
+    591,
+    403
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    421,
+    206,
+    434
+   ]
+  },
+  {
+   "text": "1157 B00",
+   "bbox": [
+    479,
+    420,
+    591,
+    434
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    451,
+    136,
+    465
+   ]
+  },
+  {
+   "text": "777 C00",
+   "bbox": [
+    493,
+    451,
+    591,
+    465
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    483,
+    108,
+    496
+   ]
+  },
+  {
+   "text": "73 C00",
+   "bbox": [
+    507,
+    482,
+    591,
+    496
+   ]
+  },
+  {
+   "text": "3 DB x 545",
+   "bbox": [
+    24,
+    511,
+    144,
+    524
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    538,
+    150,
+    552
+   ]
+  },
+  {
+   "text": "1635 B00",
+   "bbox": [
+    479,
+    538,
+    591,
+    552
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    569,
+    150,
+    583
+   ]
+  },
+  {
+   "text": "820 C00",
+   "bbox": [
+    493,
+    569,
+    591,
+    583
+   ]
+  },
+  {
+   "text": "3 DB x 378",
+   "bbox": [
+    24,
+    598,
+    144,
+    611
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    625,
+    220,
+    639
+   ]
+  },
+  {
+   "text": "1134 A00",
+   "bbox": [
+    479,
+    625,
+    591,
+    639
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    664,
+    168,
+    685
+   ]
+  },
+  {
+   "text": "15 012 Ft",
+   "bbox": [
+    447,
+    668,
+    591,
+    685
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    706,
+    164,
+    723
+   ]
+  },
+  {
+   "text": "15 012 Ft",
+   "bbox": [
+    465,
+    709,
+    591,
+    723
+   ]
+  },
+  {
+   "text": "2026.10.21.",
+   "bbox": [
+    24,
+    753,
+    167,
+    766
+   ]
+  },
+  {
+   "text": "21:29",
+   "bbox": [
+    526,
+    753,
+    591,
+    766
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5513/99090",
+   "bbox": [
+    24,
+    781,
+    310,
+    799
+   ]
+  },
+  {
+   "text": "AP A10258261",
+   "bbox": [
+    24,
+    815,
+    180,
+    828
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    208,
+    854,
+    404,
+    872
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  615,
+  916
+ ]
+}

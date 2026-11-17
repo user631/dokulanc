@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS KISBOLT BT.",
+  "uzlet_cim": "H-9045 Keresztháza, Mártonbányai utca 142.",
+  "adoszam": "86652304-4-42",
+  "datum": "2025.06.11.",
+  "ido": "20:59",
+  "nyugtaszam": "4959/14405",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 853 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "848"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2617"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1291"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "181"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2891"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "656"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "421"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "948"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS KISBOLT BT.",
+   "bbox": [
+    185,
+    28,
+    419,
+    48
+   ]
+  },
+  {
+   "text": "H-9045 Keresztháza, Mártonbányai utca 142.",
+   "bbox": [
+    92,
+    65,
+    512,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 86652304-4-42",
+   "bbox": [
+    192,
+    88,
+    412,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    130,
+    344,
+    146
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    173,
+    204,
+    186
+   ]
+  },
+  {
+   "text": "848 C00",
+   "bbox": [
+    497,
+    173,
+    581,
+    186
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    202,
+    252,
+    215
+   ]
+  },
+  {
+   "text": "2617 A00",
+   "bbox": [
+    485,
+    202,
+    581,
+    215
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    231,
+    144,
+    244
+   ]
+  },
+  {
+   "text": "1291 B00",
+   "bbox": [
+    485,
+    231,
+    581,
+    244
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    260,
+    192,
+    277
+   ]
+  },
+  {
+   "text": "181 B00",
+   "bbox": [
+    497,
+    260,
+    581,
+    273
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    289,
+    132,
+    302
+   ]
+  },
+  {
+   "text": "2891 A00",
+   "bbox": [
+    485,
+    289,
+    581,
+    302
+   ]
+  },
+  {
+   "text": "2 DB x 328",
+   "bbox": [
+    24,
+    318,
+    124,
+    329
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    341,
+    192,
+    354
+   ]
+  },
+  {
+   "text": "656 C00",
+   "bbox": [
+    497,
+    341,
+    581,
+    354
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    370,
+    192,
+    383
+   ]
+  },
+  {
+   "text": "421 B00",
+   "bbox": [
+    497,
+    370,
+    581,
+    383
+   ]
+  },
+  {
+   "text": "2 DB x 474",
+   "bbox": [
+    24,
+    399,
+    124,
+    410
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    422,
+    192,
+    435
+   ]
+  },
+  {
+   "text": "948 B00",
+   "bbox": [
+    497,
+    422,
+    581,
+    435
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    458,
+    164,
+    479
+   ]
+  },
+  {
+   "text": "9 853 Ft",
+   "bbox": [
+    469,
+    463,
+    581,
+    479
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    498,
+    156,
+    515
+   ]
+  },
+  {
+   "text": "9 853 Ft",
+   "bbox": [
+    485,
+    502,
+    581,
+    515
+   ]
+  },
+  {
+   "text": "2025.06.11.",
+   "bbox": [
+    24,
+    545,
+    134,
+    557
+   ]
+  },
+  {
+   "text": "20:59",
+   "bbox": [
+    531,
+    545,
+    581,
+    557
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4959/14405",
+   "bbox": [
+    24,
+    571,
+    244,
+    588
+   ]
+  },
+  {
+   "text": "AP A96279074",
+   "bbox": [
+    24,
+    603,
+    144,
+    615
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    181,
+    639,
+    423,
+    656
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  605,
+  702
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Simon Ilona",
+  "email": "simon.ilona@outlook.com",
+  "telefon": "+36 30 267 6381",
+  "lakcim": "H-1419 Székesfehérvár, Ady endre utca 112.",
+  "szuletesi_datum": "1979. 06. 09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hajdu Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "ceg": "Szabó Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "ceg": "Faragó Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2003 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "prezentáció",
+   "Excel",
+   "Python",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    198,
+    124
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    149,
+    91,
+    161
+   ]
+  },
+  {
+   "text": "simon.ilona@outlook.com",
+   "bbox": [
+    40,
+    169,
+    233,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    99,
+    213
+   ]
+  },
+  {
+   "text": "+36 30 267 6381",
+   "bbox": [
+    40,
+    222,
+    164,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    253,
+    97,
+    265
+   ]
+  },
+  {
+   "text": "H-1419 Székesfehérvár, Ady endre utca 112.",
+   "bbox": [
+    40,
+    273,
+    377,
+    289
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    305,
+    168,
+    317
+   ]
+  },
+  {
+   "text": "1979. 06. 09.",
+   "bbox": [
+    40,
+    326,
+    137,
+    338
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    384,
+    182,
+    403
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    424,
+    141,
+    441
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    476,
+    170,
+    495
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    516,
+    147,
+    533
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    541,
+    133,
+    558
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    566,
+    84,
+    579
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    591,
+    96,
+    608
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    616,
+    63,
+    629
+   ]
+  },
+  {
+   "text": "Simon Ilona",
+   "bbox": [
+    450,
+    112,
+    693,
+    143
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    176,
+    556,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    669,
+    262
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    289,
+    559,
+    303
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Hajdu Zrt.",
+   "bbox": [
+    450,
+    312,
+    825,
+    331
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    351,
+    559,
+    365
+   ]
+  },
+  {
+   "text": "rendszergazda – Szabó Tech Kft.",
+   "bbox": [
+    450,
+    374,
+    762,
+    393
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    450,
+    413,
+    559,
+    427
+   ]
+  },
+  {
+   "text": "irodavezető – Faragó Logisztika Kft.",
+   "bbox": [
+    450,
+    436,
+    794,
+    455
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    485,
+    598,
+    507
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    450,
+    534,
+    559,
+    548
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    553,
+    608,
+    576
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    580,
+    681,
+    598
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    619,
+    559,
+    633
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    642,
+    688,
+    661
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    665,
+    614,
+    683
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

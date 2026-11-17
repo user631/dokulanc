@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Kovács Ádám",
+  "anyja_neve": "Simon Ágnes",
+  "szuletesi_hely": "Szenttamásiapáti",
+  "szuletesi_datum": "1980. 09. 17.",
+  "lakcim": "H-5657 Pilistapolcavárad, Hátkőrösi utca 54.",
+  "telefon": "+36 20 198 8304",
+  "email": "kovacs.adam@outlook.com",
+  "adoazonosito_jel": "8415322038",
+  "taj_szam": "433 207 919",
+  "kelt": "Pécs, 2024. 09. 20."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    536,
+    111,
+    705,
+    137
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    474,
+    156,
+    765,
+    174
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    211,
+    313,
+    233
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    263,
+    148,
+    278
+   ]
+  },
+  {
+   "text": "Kovács Ádám",
+   "bbox": [
+    398,
+    259,
+    593,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    316,
+    208,
+    336
+   ]
+  },
+  {
+   "text": "Simon Ágnes",
+   "bbox": [
+    398,
+    308,
+    585,
+    338
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    369,
+    230,
+    389
+   ]
+  },
+  {
+   "text": "Szenttamásiapáti",
+   "bbox": [
+    398,
+    363,
+    658,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    422,
+    223,
+    437
+   ]
+  },
+  {
+   "text": "1980. 09. 17.",
+   "bbox": [
+    398,
+    417,
+    574,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    475,
+    173,
+    490
+   ]
+  },
+  {
+   "text": "H-5657 Pilistapolcavárad, Hátkőrösi utca 54.",
+   "bbox": [
+    398,
+    472,
+    1038,
+    501
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    528,
+    221,
+    543
+   ]
+  },
+  {
+   "text": "+36 20 198 8304",
+   "bbox": [
+    398,
+    523,
+    627,
+    542
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    581,
+    204,
+    596
+   ]
+  },
+  {
+   "text": "kovacs.adam@outlook.com",
+   "bbox": [
+    398,
+    573,
+    789,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    634,
+    261,
+    654
+   ]
+  },
+  {
+   "text": "8415322038",
+   "bbox": [
+    398,
+    633,
+    568,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    687,
+    192,
+    702
+   ]
+  },
+  {
+   "text": "433 207 919",
+   "bbox": [
+    398,
+    684,
+    567,
+    704
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    769,
+    274,
+    791
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    811,
+    443,
+    831
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    856,
+    281,
+    871
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    901,
+    463,
+    921
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    1006,
+    137,
+    1022
+   ]
+  },
+  {
+   "text": "Pécs, 2024. 09. 20.",
+   "bbox": [
+    187,
+    1001,
+    423,
+    1022
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1055,
+    977,
+    1068
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

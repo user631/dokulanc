@@ -1,0 +1,341 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Bogdán Gergő",
+  "email": "bogdan.gergo@outlook.com",
+  "telefon": "+36 70 736 4340",
+  "lakcim": "H-6377 Érd, Pilisháti utca 160.",
+  "szuletesi_datum": "2000.02.29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Consulting Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Jakab Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "ügyfélkezelés",
+   "csapatmunka",
+   "Python",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    192,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    95,
+    160
+   ]
+  },
+  {
+   "text": "bogdan.gergo@outlook.com",
+   "bbox": [
+    40,
+    169,
+    281,
+    187
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    202,
+    107,
+    216
+   ]
+  },
+  {
+   "text": "+36 70 736 4340",
+   "bbox": [
+    40,
+    226,
+    178,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    258,
+    102,
+    272
+   ]
+  },
+  {
+   "text": "H-6377 Érd, Pilisháti utca 160.",
+   "bbox": [
+    40,
+    278,
+    289,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    314,
+    180,
+    328
+   ]
+  },
+  {
+   "text": "2000.02.29.",
+   "bbox": [
+    40,
+    338,
+    132,
+    351
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    397,
+    187,
+    418
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    439,
+    139,
+    457
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    466,
+    125,
+    484
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    520,
+    163,
+    541
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    562,
+    83,
+    577
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    589,
+    156,
+    609
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    616,
+    155,
+    636
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    643,
+    102,
+    663
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    670,
+    254,
+    690
+   ]
+  },
+  {
+   "text": "Bogdán Gergő",
+   "bbox": [
+    450,
+    111,
+    756,
+    155
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    177,
+    634,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    681,
+    265
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    290,
+    589,
+    311
+   ]
+  },
+  {
+   "text": "rendszergazda – Farkas Consulting Bt.",
+   "bbox": [
+    450,
+    315,
+    844,
+    337
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    356,
+    589,
+    377
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Jakab Logisztika Kft.",
+   "bbox": [
+    448,
+    381,
+    839,
+    403
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    433,
+    609,
+    458
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    484,
+    561,
+    499
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    508,
+    738,
+    530
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    533,
+    568,
+    554
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    575,
+    561,
+    590
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    599,
+    740,
+    621
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    624,
+    631,
+    645
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

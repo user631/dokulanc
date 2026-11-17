@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Takács Máté",
+  "email": "takacs.mate@example.hu",
+  "telefon": "+36 20 256 9363",
+  "lakcim": "H-9800 Szeged, Szegedi utca 28.",
+  "szuletesi_datum": "1989.03.26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2009 – 2014"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth és Társa Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2017 – 2018"
+   },
+   {
+    "ceg": "Nagy Consulting Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "ceg": "Nagy Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2013 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "SAP",
+   "SQL",
+   "Excel",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    85,
+    200,
+    107
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    132,
+    100,
+    147
+   ]
+  },
+  {
+   "text": "takacs.mate@example.hu",
+   "bbox": [
+    40,
+    156,
+    260,
+    176
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    112,
+    205
+   ]
+  },
+  {
+   "text": "+36 20 256 9363",
+   "bbox": [
+    40,
+    215,
+    190,
+    229
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    106,
+    263
+   ]
+  },
+  {
+   "text": "H-9800 Szeged, Szegedi utca 28.",
+   "bbox": [
+    40,
+    272,
+    326,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    306,
+    191,
+    321
+   ]
+  },
+  {
+   "text": "1989.03.26.",
+   "bbox": [
+    40,
+    331,
+    140,
+    345
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    391,
+    194,
+    413
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    434,
+    152,
+    455
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    462,
+    133,
+    483
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    517,
+    169,
+    539
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    560,
+    106,
+    576
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    589,
+    77,
+    604
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    617,
+    77,
+    634
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    644,
+    87,
+    660
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    672,
+    235,
+    693
+   ]
+  },
+  {
+   "text": "Takács Máté",
+   "bbox": [
+    450,
+    96,
+    720,
+    131
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    165,
+    663,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    229,
+    690,
+    254
+   ]
+  },
+  {
+   "text": "2017 – 2018",
+   "bbox": [
+    450,
+    279,
+    569,
+    295
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Tóth és Társa Kft.",
+   "bbox": [
+    450,
+    305,
+    879,
+    327
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    347,
+    569,
+    363
+   ]
+  },
+  {
+   "text": "projektmenedzser – Nagy Consulting Kft.",
+   "bbox": [
+    450,
+    373,
+    891,
+    395
+   ]
+  },
+  {
+   "text": "2013 – 2014",
+   "bbox": [
+    450,
+    415,
+    569,
+    431
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Nagy Tech Bt.",
+   "bbox": [
+    448,
+    441,
+    784,
+    463
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    495,
+    617,
+    520
+   ]
+  },
+  {
+   "text": "2009 – 2014",
+   "bbox": [
+    450,
+    545,
+    569,
+    561
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    571,
+    745,
+    593
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    596,
+    781,
+    618
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    639,
+    569,
+    655
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    665,
+    712,
+    687
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    690,
+    535,
+    712
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

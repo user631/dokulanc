@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Antal Ádám",
+  "anyja_neve": "Farkas Veronika",
+  "szuletesi_hely": "Szerbtamásihida",
+  "szuletesi_datum": "1993. 11. 22.",
+  "lakcim": "H-9353 Tamásinémeti, Hetvennádasdi út 60.",
+  "telefon": "+36 20 360 2842",
+  "email": "antal.adam@gmail.com",
+  "adoazonosito_jel": "8463460038",
+  "taj_szam": "333 008 555",
+  "kelt": "Szentszékbánya, 2025. 10. 11."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    288,
+    83,
+    952,
+    120
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    452,
+    139,
+    788,
+    156
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    192,
+    340,
+    214
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    246,
+    140,
+    261
+   ]
+  },
+  {
+   "text": "Antal Ádám",
+   "bbox": [
+    380,
+    238,
+    508,
+    260
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    299,
+    210,
+    317
+   ]
+  },
+  {
+   "text": "Farkas Veronika",
+   "bbox": [
+    380,
+    300,
+    556,
+    317
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    350,
+    234,
+    369
+   ]
+  },
+  {
+   "text": "Szerbtamásihida",
+   "bbox": [
+    380,
+    350,
+    563,
+    368
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    402,
+    224,
+    417
+   ]
+  },
+  {
+   "text": "1993. 11. 22.",
+   "bbox": [
+    380,
+    405,
+    532,
+    421
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    454,
+    170,
+    469
+   ]
+  },
+  {
+   "text": "H-9353 Tamásinémeti, Hetvennádasdi út 60.",
+   "bbox": [
+    380,
+    455,
+    880,
+    477
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    506,
+    223,
+    521
+   ]
+  },
+  {
+   "text": "+36 20 360 2842",
+   "bbox": [
+    380,
+    505,
+    576,
+    521
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    558,
+    204,
+    573
+   ]
+  },
+  {
+   "text": "antal.adam@gmail.com",
+   "bbox": [
+    380,
+    556,
+    639,
+    577
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    610,
+    262,
+    629
+   ]
+  },
+  {
+   "text": "8463460038",
+   "bbox": [
+    380,
+    607,
+    520,
+    623
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    662,
+    194,
+    677
+   ]
+  },
+  {
+   "text": "333 008 555",
+   "bbox": [
+    380,
+    665,
+    522,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    741,
+    287,
+    762
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    784,
+    460,
+    803
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    829,
+    282,
+    844
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    874,
+    481,
+    893
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    977,
+    131,
+    993
+   ]
+  },
+  {
+   "text": "Szentszékbánya, 2025. 10. 11.",
+   "bbox": [
+    173,
+    973,
+    520,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1026,
+    993,
+    1039
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

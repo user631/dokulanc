@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Szabó László",
+  "anyja_neve": "Varga István",
+  "szuletesi_hely": "Veszprém",
+  "szuletesi_datum": "1987. 03. 31.",
+  "lakcim": "H-7189 Tamásibánya, Szabadság tér 231.",
+  "telefon": "+36 20 535 4063",
+  "email": "szabo.laszlo@freemail.hu",
+  "adoazonosito_jel": "8439187874",
+  "taj_szam": "063 023 424",
+  "kelt": "Sopron, 2024. 07. 21."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    482,
+    111,
+    758,
+    149
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    442,
+    169,
+    798,
+    188
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    110,
+    223,
+    386,
+    248
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    122,
+    279,
+    173,
+    296
+   ]
+  },
+  {
+   "text": "Szabó László",
+   "bbox": [
+    422,
+    274,
+    617,
+    304
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    122,
+    334,
+    249,
+    354
+   ]
+  },
+  {
+   "text": "Varga István",
+   "bbox": [
+    422,
+    332,
+    623,
+    361
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    122,
+    387,
+    278,
+    408
+   ]
+  },
+  {
+   "text": "Veszprém",
+   "bbox": [
+    422,
+    383,
+    561,
+    412
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    122,
+    441,
+    266,
+    458
+   ]
+  },
+  {
+   "text": "1987. 03. 31.",
+   "bbox": [
+    422,
+    437,
+    611,
+    457
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    122,
+    495,
+    206,
+    512
+   ]
+  },
+  {
+   "text": "H-7189 Tamásibánya, Szabadság tér 231.",
+   "bbox": [
+    422,
+    492,
+    1044,
+    522
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    122,
+    549,
+    265,
+    566
+   ]
+  },
+  {
+   "text": "+36 20 535 4063",
+   "bbox": [
+    422,
+    547,
+    665,
+    567
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    122,
+    603,
+    244,
+    620
+   ]
+  },
+  {
+   "text": "szabo.laszlo@freemail.hu",
+   "bbox": [
+    422,
+    600,
+    805,
+    630
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    122,
+    657,
+    306,
+    678
+   ]
+  },
+  {
+   "text": "8439187874",
+   "bbox": [
+    422,
+    657,
+    603,
+    678
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    122,
+    711,
+    231,
+    728
+   ]
+  },
+  {
+   "text": "063 023 424",
+   "bbox": [
+    422,
+    709,
+    603,
+    729
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    110,
+    792,
+    328,
+    816
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    155,
+    836,
+    529,
+    857
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    155,
+    881,
+    331,
+    898
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    155,
+    926,
+    549,
+    947
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    110,
+    1031,
+    163,
+    1048
+   ]
+  },
+  {
+   "text": "Sopron, 2024. 07. 21.",
+   "bbox": [
+    200,
+    1027,
+    476,
+    1054
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    910,
+    1080,
+    970,
+    1094
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

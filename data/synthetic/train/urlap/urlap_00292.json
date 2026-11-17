@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Takács Zsuzsanna",
+  "anyja_neve": "Tóth Bálint",
+  "szuletesi_hely": "Sopron",
+  "szuletesi_datum": "1984.02.26.",
+  "lakcim": "H-3085 Keresztháza, Kossuth utca 164.",
+  "telefon": "+36 70 753 4563",
+  "email": "takacs.zsuzsanna@freemail.hu",
+  "adoazonosito_jel": "8427899181",
+  "taj_szam": "689 473 740",
+  "kelt": "Fürdővár, 2026.05.23."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    271,
+    102,
+    969,
+    140
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    434,
+    160,
+    805,
+    179
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    214,
+    377,
+    239
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    270,
+    164,
+    287
+   ]
+  },
+  {
+   "text": "Takács Zsuzsanna",
+   "bbox": [
+    405,
+    272,
+    624,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    325,
+    240,
+    345
+   ]
+  },
+  {
+   "text": "Tóth Bálint",
+   "bbox": [
+    405,
+    323,
+    535,
+    342
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    378,
+    269,
+    399
+   ]
+  },
+  {
+   "text": "Sopron",
+   "bbox": [
+    405,
+    379,
+    491,
+    402
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    432,
+    257,
+    449
+   ]
+  },
+  {
+   "text": "1984.02.26.",
+   "bbox": [
+    405,
+    433,
+    552,
+    451
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    486,
+    197,
+    503
+   ]
+  },
+  {
+   "text": "H-3085 Keresztháza, Kossuth utca 164.",
+   "bbox": [
+    405,
+    487,
+    883,
+    511
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    540,
+    256,
+    557
+   ]
+  },
+  {
+   "text": "+36 70 753 4563",
+   "bbox": [
+    405,
+    539,
+    614,
+    557
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    594,
+    235,
+    611
+   ]
+  },
+  {
+   "text": "takacs.zsuzsanna@freemail.hu",
+   "bbox": [
+    405,
+    594,
+    776,
+    615
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    648,
+    297,
+    669
+   ]
+  },
+  {
+   "text": "8427899181",
+   "bbox": [
+    405,
+    650,
+    555,
+    668
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    702,
+    222,
+    719
+   ]
+  },
+  {
+   "text": "689 473 740",
+   "bbox": [
+    405,
+    705,
+    556,
+    723
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    783,
+    319,
+    807
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    827,
+    520,
+    848
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    872,
+    322,
+    889
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    917,
+    540,
+    938
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    1022,
+    154,
+    1039
+   ]
+  },
+  {
+   "text": "Fürdővár, 2026.05.23.",
+   "bbox": [
+    191,
+    1018,
+    462,
+    1042
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    919,
+    1071,
+    979,
+    1085
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

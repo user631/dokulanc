@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-8921 Németmindszentapáti, Nyéktamásii tér 193.",
+  "adoszam": "98671834-2-26",
+  "datum": "2025.01.12.",
+  "ido": "11:55",
+  "nyugtaszam": "2665/79682",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 126 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "638"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2732"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "440"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "949"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2979"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "537"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "315"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1536"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    214,
+    33,
+    424,
+    50
+   ]
+  },
+  {
+   "text": "H-8921 Németmindszentapáti, Nyéktamásii tér 193.",
+   "bbox": [
+    31,
+    67,
+    607,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98671834-2-26",
+   "bbox": [
+    187,
+    92,
+    451,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    274,
+    139,
+    365,
+    157
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    185,
+    128,
+    200
+   ]
+  },
+  {
+   "text": "638 C00",
+   "bbox": [
+    524,
+    185,
+    615,
+    200
+   ]
+  },
+  {
+   "text": "2 DB x 1366",
+   "bbox": [
+    24,
+    217,
+    156,
+    230
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    243,
+    154,
+    258
+   ]
+  },
+  {
+   "text": "2732 A00",
+   "bbox": [
+    511,
+    243,
+    615,
+    258
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    275,
+    206,
+    290
+   ]
+  },
+  {
+   "text": "440 A00",
+   "bbox": [
+    524,
+    275,
+    615,
+    290
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    307,
+    128,
+    322
+   ]
+  },
+  {
+   "text": "949 C00",
+   "bbox": [
+    524,
+    307,
+    615,
+    322
+   ]
+  },
+  {
+   "text": "3 DB x 993",
+   "bbox": [
+    24,
+    339,
+    144,
+    352
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    365,
+    180,
+    380
+   ]
+  },
+  {
+   "text": "2979 C00",
+   "bbox": [
+    511,
+    365,
+    615,
+    380
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    397,
+    206,
+    412
+   ]
+  },
+  {
+   "text": "537 A00",
+   "bbox": [
+    524,
+    397,
+    615,
+    412
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    429,
+    193,
+    444
+   ]
+  },
+  {
+   "text": "315 A00",
+   "bbox": [
+    524,
+    429,
+    615,
+    444
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    461,
+    193,
+    476
+   ]
+  },
+  {
+   "text": "1536 A00",
+   "bbox": [
+    511,
+    461,
+    615,
+    476
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    500,
+    174,
+    523
+   ]
+  },
+  {
+   "text": "10 126 Ft",
+   "bbox": [
+    480,
+    505,
+    615,
+    523
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    542,
+    168,
+    562
+   ]
+  },
+  {
+   "text": "10 126 Ft",
+   "bbox": [
+    498,
+    546,
+    615,
+    562
+   ]
+  },
+  {
+   "text": "2025.01.12.",
+   "bbox": [
+    24,
+    593,
+    156,
+    607
+   ]
+  },
+  {
+   "text": "11:55",
+   "bbox": [
+    555,
+    593,
+    615,
+    607
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2665/79682",
+   "bbox": [
+    24,
+    620,
+    288,
+    641
+   ]
+  },
+  {
+   "text": "AP A61496490",
+   "bbox": [
+    24,
+    657,
+    168,
+    671
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    221,
+    696,
+    416,
+    716
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  639,
+  762
+ ]
+}

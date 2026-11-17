@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2024/05715",
+  "kiallitas_datuma": "2024. december 28.",
+  "teljesites_datuma": "2024. december 24.",
+  "fizetesi_hatarido": "2025. január 12.",
+  "elado_nev": "Fábián Szolgáltató Zrt.",
+  "elado_cim": "H-3749 Tiszatótbánya, Székkövesdi utca 31.",
+  "elado_adoszam": "18138492-4-14",
+  "vevo_nev": "Molnár Tech Zrt.",
+  "vevo_cim": "H-5524 Mellékhida, Bakonyi utca 26.",
+  "vevo_adoszam": "29412163-2-27",
+  "bankszamla": "61767298-75843448-57130346",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "125 020 Ft",
+  "afa_osszesen": "8 675 Ft",
+  "brutto_osszesen": "133 695 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "11 020",
+    "netto": "11 020",
+    "afa_kulcs": "27%",
+    "afa": "2 975",
+    "brutto": "13 995"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "12 év",
+    "egysegar": "9 500",
+    "netto": "114 000",
+    "afa_kulcs": "5%",
+    "afa": "5 700",
+    "brutto": "119 700"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    539,
+    93,
+    700,
+    133
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/05715",
+   "bbox": [
+    415,
+    156,
+    826,
+    176
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    91,
+    237,
+    161,
+    256
+   ]
+  },
+  {
+   "text": "Molnár Tech Zrt.",
+   "bbox": [
+    91,
+    275,
+    294,
+    294
+   ]
+  },
+  {
+   "text": "H-5524 Mellékhida, Bakonyi utca 26.",
+   "bbox": [
+    91,
+    309,
+    487,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 29412163-2-27",
+   "bbox": [
+    91,
+    341,
+    362,
+    360
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    237,
+    707,
+    256
+   ]
+  },
+  {
+   "text": "Fábián Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    274,
+    907,
+    299
+   ]
+  },
+  {
+   "text": "H-3749 Tiszatótbánya, Székkövesdi utca 31.",
+   "bbox": [
+    630,
+    309,
+    1107,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 18138492-4-14",
+   "bbox": [
+    630,
+    341,
+    901,
+    360
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    91,
+    411,
+    245,
+    427
+   ]
+  },
+  {
+   "text": "2024. december 28.",
+   "bbox": [
+    91,
+    442,
+    297,
+    459
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    411,
+    528,
+    431
+   ]
+  },
+  {
+   "text": "2024. december 24.",
+   "bbox": [
+    355,
+    442,
+    561,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    411,
+    782,
+    427
+   ]
+  },
+  {
+   "text": "2025. január 12.",
+   "bbox": [
+    619,
+    441,
+    788,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    411,
+    1007,
+    427
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    883,
+    441,
+    966,
+    459
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    494,
+    209,
+    513
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    494,
+    585,
+    513
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    494,
+    746,
+    513
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    494,
+    873,
+    509
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    490,
+    937,
+    509
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    490,
+    1038,
+    509
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1087,
+    494,
+    1149,
+    509
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    514,
+    536,
+    561,
+    552
+   ]
+  },
+  {
+   "text": "11 020",
+   "bbox": [
+    685,
+    537,
+    746,
+    552
+   ]
+  },
+  {
+   "text": "11 020",
+   "bbox": [
+    812,
+    537,
+    873,
+    552
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    537,
+    937,
+    552
+   ]
+  },
+  {
+   "text": "2 975",
+   "bbox": [
+    987,
+    537,
+    1037,
+    552
+   ]
+  },
+  {
+   "text": "13 995",
+   "bbox": [
+    1088,
+    537,
+    1149,
+    552
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    91,
+    536,
+    381,
+    556
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    514,
+    573,
+    564,
+    589
+   ]
+  },
+  {
+   "text": "9 500",
+   "bbox": [
+    696,
+    574,
+    746,
+    589
+   ]
+  },
+  {
+   "text": "114 000",
+   "bbox": [
+    801,
+    574,
+    873,
+    589
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    913,
+    574,
+    937,
+    589
+   ]
+  },
+  {
+   "text": "5 700",
+   "bbox": [
+    987,
+    574,
+    1037,
+    589
+   ]
+  },
+  {
+   "text": "119 700",
+   "bbox": [
+    1077,
+    574,
+    1149,
+    589
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    91,
+    573,
+    349,
+    593
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    630,
+    819,
+    650
+   ]
+  },
+  {
+   "text": "125 020 Ft",
+   "bbox": [
+    1032,
+    632,
+    1149,
+    650
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    664,
+    819,
+    688
+   ]
+  },
+  {
+   "text": "8 675 Ft",
+   "bbox": [
+    1058,
+    670,
+    1149,
+    688
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    582,
+    707,
+    819,
+    726
+   ]
+  },
+  {
+   "text": "133 695 Ft",
+   "bbox": [
+    1018,
+    708,
+    1149,
+    726
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 61767298-75843448-57130346",
+   "bbox": [
+    91,
+    774,
+    581,
+    792
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    400,
+    1643,
+    841,
+    1662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

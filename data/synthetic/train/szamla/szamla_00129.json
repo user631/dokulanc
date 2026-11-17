@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2024/09431",
+  "kiallitas_datuma": "2024. december 3.",
+  "teljesites_datuma": "2024. december 3.",
+  "fizetesi_hatarido": "2024. december 18.",
+  "elado_nev": "Molnár és Társa Bt.",
+  "elado_cim": "H-5776 Vác, Győri utca 235.",
+  "elado_adoszam": "93128269-2-27",
+  "vevo_nev": "Vass Orsolya",
+  "vevo_cim": "H-3059 Mindszentkőrös, József attila utca 1.",
+  "vevo_adoszam": null,
+  "bankszamla": "43223156-38796300-34647758",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "131 900 Ft",
+  "afa_osszesen": "35 454 Ft",
+  "brutto_osszesen": "167 354 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "13 460",
+    "netto": "13 460",
+    "afa_kulcs": "27%",
+    "afa": "3 634",
+    "brutto": "17 094"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "12 óra",
+    "egysegar": "9 810",
+    "netto": "117 720",
+    "afa_kulcs": "27%",
+    "afa": "31 784",
+    "brutto": "149 504"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "720",
+    "netto": "720",
+    "afa_kulcs": "5%",
+    "afa": "36",
+    "brutto": "756"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR",
+   "bbox": [
+    118,
+    121,
+    224,
+    144
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    715,
+    109,
+    1149,
+    142
+   ]
+  },
+  {
+   "text": "Sorszám: A-2024/09431",
+   "bbox": [
+    856,
+    166,
+    1149,
+    186
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    91,
+    246,
+    175,
+    266
+   ]
+  },
+  {
+   "text": "Molnár és Társa Bt.",
+   "bbox": [
+    91,
+    285,
+    345,
+    305
+   ]
+  },
+  {
+   "text": "H-5776 Vác, Győri utca 235.",
+   "bbox": [
+    91,
+    322,
+    409,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 93128269-2-27",
+   "bbox": [
+    90,
+    355,
+    381,
+    373
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    246,
+    704,
+    266
+   ]
+  },
+  {
+   "text": "Vass Orsolya",
+   "bbox": [
+    629,
+    285,
+    803,
+    310
+   ]
+  },
+  {
+   "text": "H-3059 Mindszentkőrös, József attila utca 1.",
+   "bbox": [
+    630,
+    322,
+    1129,
+    344
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    91,
+    424,
+    290,
+    444
+   ]
+  },
+  {
+   "text": "2024. december 3.",
+   "bbox": [
+    391,
+    426,
+    601,
+    444
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    91,
+    459,
+    308,
+    484
+   ]
+  },
+  {
+   "text": "2024. december 3.",
+   "bbox": [
+    391,
+    461,
+    601,
+    479
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    91,
+    494,
+    296,
+    514
+   ]
+  },
+  {
+   "text": "2024. december 18.",
+   "bbox": [
+    391,
+    496,
+    615,
+    514
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    91,
+    529,
+    250,
+    549
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    391,
+    531,
+    480,
+    549
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    576,
+    218,
+    597
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    577,
+    588,
+    597
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    648,
+    576,
+    746,
+    597
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    576,
+    873,
+    593
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    573,
+    937,
+    594
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    573,
+    1037,
+    593
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    576,
+    1149,
+    593
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    621,
+    556,
+    637
+   ]
+  },
+  {
+   "text": "13 460",
+   "bbox": [
+    680,
+    621,
+    746,
+    637
+   ]
+  },
+  {
+   "text": "13 460",
+   "bbox": [
+    807,
+    621,
+    873,
+    637
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    621,
+    937,
+    637
+   ]
+  },
+  {
+   "text": "3 634",
+   "bbox": [
+    983,
+    621,
+    1037,
+    637
+   ]
+  },
+  {
+   "text": "17 094",
+   "bbox": [
+    1083,
+    621,
+    1149,
+    637
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    91,
+    621,
+    258,
+    637
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    514,
+    659,
+    575,
+    675
+   ]
+  },
+  {
+   "text": "9 810",
+   "bbox": [
+    692,
+    659,
+    746,
+    675
+   ]
+  },
+  {
+   "text": "117 720",
+   "bbox": [
+    795,
+    659,
+    873,
+    675
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    659,
+    937,
+    675
+   ]
+  },
+  {
+   "text": "31 784",
+   "bbox": [
+    971,
+    659,
+    1037,
+    675
+   ]
+  },
+  {
+   "text": "149 504",
+   "bbox": [
+    1071,
+    659,
+    1149,
+    675
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    91,
+    659,
+    388,
+    679
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    697,
+    556,
+    713
+   ]
+  },
+  {
+   "text": "720",
+   "bbox": [
+    710,
+    697,
+    746,
+    713
+   ]
+  },
+  {
+   "text": "720",
+   "bbox": [
+    837,
+    697,
+    873,
+    713
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    905,
+    697,
+    937,
+    713
+   ]
+  },
+  {
+   "text": "36",
+   "bbox": [
+    1013,
+    697,
+    1037,
+    713
+   ]
+  },
+  {
+   "text": "756",
+   "bbox": [
+    1113,
+    697,
+    1149,
+    713
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    91,
+    697,
+    207,
+    717
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    636,
+    756,
+    819,
+    775
+   ]
+  },
+  {
+   "text": "131 900 Ft",
+   "bbox": [
+    1028,
+    756,
+    1150,
+    775
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    646,
+    789,
+    819,
+    814
+   ]
+  },
+  {
+   "text": "35 454 Ft",
+   "bbox": [
+    1042,
+    795,
+    1150,
+    814
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    567,
+    834,
+    819,
+    853
+   ]
+  },
+  {
+   "text": "167 354 Ft",
+   "bbox": [
+    1026,
+    834,
+    1149,
+    853
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 43223156-38796300-34647758",
+   "bbox": [
+    91,
+    903,
+    619,
+    920
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

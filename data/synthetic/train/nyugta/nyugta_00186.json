@@ -1,0 +1,347 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET KFT.",
+  "uzlet_cim": "H-1306 Rácszékháza, Szolnoki utca 153.",
+  "adoszam": "58230354-2-15",
+  "datum": "2024.06.12.",
+  "ido": "19:23",
+  "nyugtaszam": "4685/26785",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 436 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "223"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1814"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "442"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "704"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2451"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "829"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1244"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "825"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "904"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET KFT.",
+   "bbox": [
+    174,
+    34,
+    398,
+    49
+   ]
+  },
+  {
+   "text": "H-1306 Rácszékháza, Szolnoki utca 153.",
+   "bbox": [
+    58,
+    64,
+    514,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58230354-2-15",
+   "bbox": [
+    154,
+    90,
+    418,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    135,
+    334,
+    151
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    176,
+    206,
+    195
+   ]
+  },
+  {
+   "text": "223 C00",
+   "bbox": [
+    458,
+    176,
+    549,
+    192
+   ]
+  },
+  {
+   "text": "2 DB x 907",
+   "bbox": [
+    24,
+    205,
+    134,
+    219
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    230,
+    180,
+    246
+   ]
+  },
+  {
+   "text": "1814 B00",
+   "bbox": [
+    445,
+    230,
+    549,
+    246
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    260,
+    206,
+    276
+   ]
+  },
+  {
+   "text": "442 B00",
+   "bbox": [
+    458,
+    260,
+    549,
+    276
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    290,
+    128,
+    306
+   ]
+  },
+  {
+   "text": "704 A00",
+   "bbox": [
+    458,
+    290,
+    549,
+    306
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    320,
+    271,
+    336
+   ]
+  },
+  {
+   "text": "2451 C00",
+   "bbox": [
+    445,
+    320,
+    549,
+    336
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    350,
+    232,
+    366
+   ]
+  },
+  {
+   "text": "829 A00",
+   "bbox": [
+    458,
+    350,
+    549,
+    366
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    380,
+    154,
+    396
+   ]
+  },
+  {
+   "text": "1244 B00",
+   "bbox": [
+    445,
+    380,
+    549,
+    396
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    410,
+    128,
+    426
+   ]
+  },
+  {
+   "text": "825 A00",
+   "bbox": [
+    458,
+    410,
+    549,
+    426
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    440,
+    219,
+    456
+   ]
+  },
+  {
+   "text": "904 C00",
+   "bbox": [
+    458,
+    440,
+    549,
+    456
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    480,
+    168,
+    501
+   ]
+  },
+  {
+   "text": "9 436 Ft",
+   "bbox": [
+    421,
+    482,
+    549,
+    501
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    521,
+    155,
+    538
+   ]
+  },
+  {
+   "text": "9 436 Ft",
+   "bbox": [
+    445,
+    522,
+    549,
+    538
+   ]
+  },
+  {
+   "text": "2024.06.12.",
+   "bbox": [
+    24,
+    566,
+    156,
+    580
+   ]
+  },
+  {
+   "text": "19:23",
+   "bbox": [
+    489,
+    566,
+    549,
+    580
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4685/26785",
+   "bbox": [
+    24,
+    594,
+    288,
+    613
+   ]
+  },
+  {
+   "text": "AP A33320433",
+   "bbox": [
+    24,
+    626,
+    168,
+    640
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    221,
+    666,
+    351,
+    683
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  573,
+  728
+ ]
+}

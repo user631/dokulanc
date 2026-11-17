@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Horváth Piroska",
+  "anyja_neve": "Juhász Ilona",
+  "szuletesi_hely": "Mosonmagyaróvár",
+  "szuletesi_datum": "1964. 06. 12.",
+  "lakcim": "H-2770 Keresztapáti, Érdi tér 114.",
+  "telefon": "+36 20 999 4463",
+  "email": "horvath.piroska@citromail.hu",
+  "adoazonosito_jel": "8355917650",
+  "taj_szam": "781 738 884",
+  "kelt": "Hátvára, 2026. 03. 09."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    508,
+    94,
+    732,
+    129
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    474,
+    148,
+    765,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    203,
+    305,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    255,
+    140,
+    270
+   ]
+  },
+  {
+   "text": "Horváth Piroska",
+   "bbox": [
+    423,
+    255,
+    583,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    101,
+    308,
+    200,
+    328
+   ]
+  },
+  {
+   "text": "Juhász Ilona",
+   "bbox": [
+    423,
+    309,
+    545,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    361,
+    222,
+    381
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár",
+   "bbox": [
+    423,
+    357,
+    614,
+    380
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    414,
+    215,
+    429
+   ]
+  },
+  {
+   "text": "1964. 06. 12.",
+   "bbox": [
+    423,
+    416,
+    546,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    467,
+    165,
+    482
+   ]
+  },
+  {
+   "text": "H-2770 Keresztapáti, Érdi tér 114.",
+   "bbox": [
+    423,
+    463,
+    759,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    101,
+    520,
+    213,
+    535
+   ]
+  },
+  {
+   "text": "+36 20 999 4463",
+   "bbox": [
+    423,
+    521,
+    589,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    573,
+    196,
+    588
+   ]
+  },
+  {
+   "text": "horvath.piroska@citromail.hu",
+   "bbox": [
+    423,
+    574,
+    723,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    101,
+    626,
+    253,
+    646
+   ]
+  },
+  {
+   "text": "8355917650",
+   "bbox": [
+    423,
+    630,
+    543,
+    646
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    101,
+    679,
+    184,
+    694
+   ]
+  },
+  {
+   "text": "781 738 884",
+   "bbox": [
+    423,
+    678,
+    543,
+    694
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    761,
+    266,
+    783
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    803,
+    435,
+    823
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    848,
+    273,
+    863
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    134,
+    893,
+    455,
+    913
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    998,
+    129,
+    1014
+   ]
+  },
+  {
+   "text": "Hátvára, 2026. 03. 09.",
+   "bbox": [
+    179,
+    994,
+    392,
+    1015
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1047,
+    985,
+    1060
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

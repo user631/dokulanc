@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NOVÁK KISBOLT BT.",
+  "uzlet_cim": "H-4689 Tótdevecser, Németháti utca 6.",
+  "adoszam": "31899851-2-22",
+  "datum": "2025.06.19.",
+  "ido": "09:19",
+  "nyugtaszam": "5786/13621",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "3 137 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1416"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "800"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "619"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "302"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NOVÁK KISBOLT BT.",
+   "bbox": [
+    187,
+    28,
+    408,
+    48
+   ]
+  },
+  {
+   "text": "H-4689 Tótdevecser, Németháti utca 6.",
+   "bbox": [
+    113,
+    65,
+    483,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 31899851-2-22",
+   "bbox": [
+    188,
+    88,
+    408,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    130,
+    340,
+    146
+   ]
+  },
+  {
+   "text": "3 DB x 472",
+   "bbox": [
+    24,
+    173,
+    124,
+    184
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    196,
+    192,
+    209
+   ]
+  },
+  {
+   "text": "1416 B00",
+   "bbox": [
+    477,
+    196,
+    573,
+    209
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    225,
+    216,
+    238
+   ]
+  },
+  {
+   "text": "800 A00",
+   "bbox": [
+    489,
+    225,
+    573,
+    238
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    254,
+    156,
+    267
+   ]
+  },
+  {
+   "text": "619 C00",
+   "bbox": [
+    489,
+    254,
+    573,
+    267
+   ]
+  },
+  {
+   "text": "2 DB x 151",
+   "bbox": [
+    24,
+    283,
+    124,
+    294
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    306,
+    192,
+    323
+   ]
+  },
+  {
+   "text": "302 C00",
+   "bbox": [
+    489,
+    306,
+    573,
+    319
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    342,
+    164,
+    363
+   ]
+  },
+  {
+   "text": "3 137 Ft",
+   "bbox": [
+    461,
+    347,
+    573,
+    363
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    382,
+    156,
+    399
+   ]
+  },
+  {
+   "text": "3 137 Ft",
+   "bbox": [
+    477,
+    386,
+    573,
+    399
+   ]
+  },
+  {
+   "text": "2025.06.19.",
+   "bbox": [
+    24,
+    429,
+    134,
+    441
+   ]
+  },
+  {
+   "text": "09:19",
+   "bbox": [
+    523,
+    429,
+    573,
+    441
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5786/13621",
+   "bbox": [
+    24,
+    455,
+    244,
+    472
+   ]
+  },
+  {
+   "text": "AP A43280484",
+   "bbox": [
+    24,
+    487,
+    144,
+    499
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    177,
+    523,
+    419,
+    540
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  597,
+  586
+ ]
+}

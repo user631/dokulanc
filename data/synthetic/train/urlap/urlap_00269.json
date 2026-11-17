@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Papp Judit",
+  "anyja_neve": "Sipos Mária",
+  "szuletesi_hely": "Belsőhetvenvárad",
+  "szuletesi_datum": "2005. 01. 21.",
+  "lakcim": "H-1234 Nagyszékfalu, Tótkőrösi utca 88.",
+  "telefon": "06 1 343 9999",
+  "email": "papp.judit@freemail.hu",
+  "adoazonosito_jel": "8504242382",
+  "taj_szam": "428 768 814",
+  "kelt": "Békéscsaba, 2026. 06. 29."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    537,
+    115,
+    704,
+    139
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    502,
+    162,
+    737,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    214,
+    288,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    268,
+    154,
+    281
+   ]
+  },
+  {
+   "text": "Papp Judit",
+   "bbox": [
+    406,
+    265,
+    496,
+    284
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    119,
+    318,
+    207,
+    335
+   ]
+  },
+  {
+   "text": "Sipos Mária",
+   "bbox": [
+    406,
+    313,
+    510,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    369,
+    225,
+    386
+   ]
+  },
+  {
+   "text": "Belsőhetvenvárad",
+   "bbox": [
+    406,
+    365,
+    558,
+    380
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    420,
+    217,
+    433
+   ]
+  },
+  {
+   "text": "2005. 01. 21.",
+   "bbox": [
+    406,
+    420,
+    519,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    471,
+    179,
+    484
+   ]
+  },
+  {
+   "text": "H-1234 Nagyszékfalu, Tótkőrösi utca 88.",
+   "bbox": [
+    406,
+    469,
+    759,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    119,
+    522,
+    217,
+    535
+   ]
+  },
+  {
+   "text": "06 1 343 9999",
+   "bbox": [
+    406,
+    523,
+    531,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    573,
+    205,
+    586
+   ]
+  },
+  {
+   "text": "papp.judit@freemail.hu",
+   "bbox": [
+    405,
+    570,
+    608,
+    589
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    119,
+    624,
+    247,
+    641
+   ]
+  },
+  {
+   "text": "8504242382",
+   "bbox": [
+    406,
+    623,
+    516,
+    637
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    119,
+    676,
+    197,
+    688
+   ]
+  },
+  {
+   "text": "428 768 814",
+   "bbox": [
+    406,
+    676,
+    515,
+    690
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    752,
+    257,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    796,
+    407,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    841,
+    274,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    152,
+    886,
+    424,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    987,
+    144,
+    1000
+   ]
+  },
+  {
+   "text": "Békéscsaba, 2026. 06. 29.",
+   "bbox": [
+    197,
+    983,
+    417,
+    1001
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    923,
+    1036,
+    963,
+    1047
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

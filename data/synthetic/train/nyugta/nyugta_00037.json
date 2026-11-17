@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH DISZKONT BT.",
+  "uzlet_cim": "H-4366 Belsőszékvárad, Hetvenváradi utca 180.",
+  "adoszam": "23927968-2-18",
+  "datum": "2025.12.21.",
+  "ido": "15:21",
+  "nyugtaszam": "6706/69317",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "3 068 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1079"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1989"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH DISZKONT BT.",
+   "bbox": [
+    183,
+    28,
+    404,
+    48
+   ]
+  },
+  {
+   "text": "H-4366 Belsőszékvárad, Hetvenváradi utca 180.",
+   "bbox": [
+    46,
+    64,
+    541,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23927968-2-18",
+   "bbox": [
+    173,
+    88,
+    415,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    252,
+    133,
+    337,
+    150
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    177,
+    144,
+    191
+   ]
+  },
+  {
+   "text": "1079 B00",
+   "bbox": [
+    468,
+    177,
+    564,
+    191
+   ]
+  },
+  {
+   "text": "3 DB x 663",
+   "bbox": [
+    24,
+    207,
+    124,
+    219
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    231,
+    132,
+    245
+   ]
+  },
+  {
+   "text": "1989 A00",
+   "bbox": [
+    468,
+    231,
+    564,
+    245
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    269,
+    150,
+    290
+   ]
+  },
+  {
+   "text": "3 068 Ft",
+   "bbox": [
+    452,
+    273,
+    564,
+    290
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    308,
+    120,
+    327
+   ]
+  },
+  {
+   "text": "3 068 Ft",
+   "bbox": [
+    468,
+    313,
+    564,
+    327
+   ]
+  },
+  {
+   "text": "2025.12.21.",
+   "bbox": [
+    24,
+    356,
+    145,
+    369
+   ]
+  },
+  {
+   "text": "15:21",
+   "bbox": [
+    509,
+    356,
+    564,
+    369
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6706/69317",
+   "bbox": [
+    24,
+    382,
+    266,
+    401
+   ]
+  },
+  {
+   "text": "AP A66330920",
+   "bbox": [
+    24,
+    416,
+    156,
+    429
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    162,
+    455,
+    426,
+    472
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  588,
+  518
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NEMES KISBOLT KFT.",
+  "uzlet_cim": "H-1254 Tótapáti, Mindszenthalasi tér 171.",
+  "adoszam": "57455200-3-17",
+  "datum": "2024.10.25.",
+  "ido": "16:01",
+  "nyugtaszam": "2768/63891",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "11 681 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2634"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "221"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "536"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "693"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "715"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "431"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "773"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "4632"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "380"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "666"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NEMES KISBOLT KFT.",
+   "bbox": [
+    193,
+    36,
+    428,
+    49
+   ]
+  },
+  {
+   "text": "H-1254 Tótapáti, Mindszenthalasi tér 171.",
+   "bbox": [
+    85,
+    65,
+    536,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 57455200-3-17",
+   "bbox": [
+    190,
+    87,
+    432,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    268,
+    130,
+    354,
+    144
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    170,
+    252,
+    183
+   ]
+  },
+  {
+   "text": "2634 C00",
+   "bbox": [
+    503,
+    170,
+    599,
+    183
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    198,
+    192,
+    214
+   ]
+  },
+  {
+   "text": "221 A00",
+   "bbox": [
+    515,
+    198,
+    599,
+    211
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    227,
+    192,
+    239
+   ]
+  },
+  {
+   "text": "536 A00",
+   "bbox": [
+    515,
+    226,
+    599,
+    239
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    254,
+    120,
+    267
+   ]
+  },
+  {
+   "text": "693 C00",
+   "bbox": [
+    515,
+    254,
+    599,
+    267
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    282,
+    120,
+    295
+   ]
+  },
+  {
+   "text": "715 C00",
+   "bbox": [
+    515,
+    282,
+    599,
+    295
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    310,
+    156,
+    326
+   ]
+  },
+  {
+   "text": "431 C00",
+   "bbox": [
+    515,
+    310,
+    599,
+    323
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    338,
+    132,
+    351
+   ]
+  },
+  {
+   "text": "773 B00",
+   "bbox": [
+    515,
+    338,
+    599,
+    351
+   ]
+  },
+  {
+   "text": "3 DB x 1544",
+   "bbox": [
+    24,
+    366,
+    134,
+    377
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    389,
+    180,
+    401
+   ]
+  },
+  {
+   "text": "4632 C00",
+   "bbox": [
+    503,
+    388,
+    599,
+    401
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    416,
+    192,
+    429
+   ]
+  },
+  {
+   "text": "380 A00",
+   "bbox": [
+    515,
+    416,
+    599,
+    429
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    444,
+    120,
+    457
+   ]
+  },
+  {
+   "text": "666 B00",
+   "bbox": [
+    515,
+    444,
+    599,
+    457
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    480,
+    164,
+    500
+   ]
+  },
+  {
+   "text": "11 681 Ft",
+   "bbox": [
+    473,
+    485,
+    600,
+    500
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    519,
+    120,
+    535
+   ]
+  },
+  {
+   "text": "11 681 Ft",
+   "bbox": [
+    491,
+    522,
+    599,
+    535
+   ]
+  },
+  {
+   "text": "2024.10.25.",
+   "bbox": [
+    24,
+    564,
+    145,
+    575
+   ]
+  },
+  {
+   "text": "16:01",
+   "bbox": [
+    544,
+    564,
+    599,
+    575
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2768/63891",
+   "bbox": [
+    24,
+    589,
+    266,
+    604
+   ]
+  },
+  {
+   "text": "AP A18773090",
+   "bbox": [
+    24,
+    620,
+    156,
+    631
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    227,
+    657,
+    393,
+    672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  623,
+  716
+ ]
+}

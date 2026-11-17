@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szalai Krisztina",
+  "email": "szalai.krisztina@example.hu",
+  "telefon": "06 1 115 7307",
+  "lakcim": "H-6776 Szentkeresztvég, Lajoshídi utca 241.",
+  "szuletesi_datum": "1995. augusztus 25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Katona Trade Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "csapatmunka",
+   "Linux",
+   "projektmenedzsment",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    107,
+    192,
+    128
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    96,
+    167
+   ]
+  },
+  {
+   "text": "szalai.krisztina@example.hu",
+   "bbox": [
+    40,
+    176,
+    282,
+    194
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    109,
+    223
+   ]
+  },
+  {
+   "text": "06 1 115 7307",
+   "bbox": [
+    40,
+    232,
+    158,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    265,
+    103,
+    279
+   ]
+  },
+  {
+   "text": "H-6776 Szentkeresztvég, Lajoshídi utca",
+   "bbox": [
+    40,
+    287,
+    374,
+    306
+   ]
+  },
+  {
+   "text": "241.",
+   "bbox": [
+    40,
+    311,
+    77,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    344,
+    183,
+    358
+   ]
+  },
+  {
+   "text": "1995. augusztus 25.",
+   "bbox": [
+    40,
+    367,
+    209,
+    385
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    427,
+    181,
+    448
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    468,
+    139,
+    488
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    523,
+    160,
+    544
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    566,
+    68,
+    580
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    591,
+    148,
+    611
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    619,
+    159,
+    638
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    647,
+    88,
+    661
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    673,
+    232,
+    692
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    699,
+    260,
+    719
+   ]
+  },
+  {
+   "text": "Szalai Krisztina",
+   "bbox": [
+    450,
+    115,
+    770,
+    149
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    183,
+    665,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    680,
+    271
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    298,
+    558,
+    313
+   ]
+  },
+  {
+   "text": "tesztmérnök – Katona Trade Kft.",
+   "bbox": [
+    450,
+    322,
+    787,
+    339
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    374,
+    605,
+    398
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    425,
+    558,
+    440
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    446,
+    620,
+    471
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    474,
+    691,
+    494
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    516,
+    558,
+    531
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    540,
+    701,
+    562
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    565,
+    533,
+    585
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

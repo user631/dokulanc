@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Dávid",
+  "email": "kovacs.david@outlook.com",
+  "telefon": "+36 20 424 3165",
+  "lakcim": "H-2950 Vác, Hídvégi utca 180.",
+  "szuletesi_datum": "1981. február 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2000 – 2004"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1996 – 2000"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Trade Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2010 – 2011"
+   },
+   {
+    "ceg": "Pap Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2008 – 2010"
+   },
+   {
+    "ceg": "Szücs Tech Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Docker",
+   "prezentáció",
+   "projektmenedzsment",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Dávid",
+   "bbox": [
+    486,
+    109,
+    754,
+    144
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    180,
+    676,
+    207
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    156,
+    254
+   ]
+  },
+  {
+   "text": "kovacs.david@outlook.com",
+   "bbox": [
+    330,
+    238,
+    586,
+    257
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    271,
+    168,
+    287
+   ]
+  },
+  {
+   "text": "+36 20 424 3165",
+   "bbox": [
+    330,
+    272,
+    488,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    304,
+    163,
+    320
+   ]
+  },
+  {
+   "text": "H-2950 Vác, Hídvégi utca 180.",
+   "bbox": [
+    330,
+    303,
+    610,
+    324
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    337,
+    248,
+    353
+   ]
+  },
+  {
+   "text": "1981. február 14.",
+   "bbox": [
+    330,
+    336,
+    493,
+    353
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    390,
+    310,
+    414
+   ]
+  },
+  {
+   "text": "2010 – 2011",
+   "bbox": [
+    90,
+    444,
+    207,
+    459
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Trade Zrt.",
+   "bbox": [
+    89,
+    470,
+    423,
+    490
+   ]
+  },
+  {
+   "text": "2008 – 2010",
+   "bbox": [
+    90,
+    514,
+    207,
+    529
+   ]
+  },
+  {
+   "text": "adatelemző – Pap Trade Kft.",
+   "bbox": [
+    90,
+    540,
+    371,
+    560
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    584,
+    207,
+    599
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szücs Tech Bt.",
+   "bbox": [
+    90,
+    610,
+    416,
+    630
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    663,
+    241,
+    687
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    717,
+    207,
+    732
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    743,
+    430,
+    763
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    770,
+    400,
+    790
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    90,
+    814,
+    207,
+    829
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    840,
+    332,
+    860
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    866,
+    329,
+    887
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    920,
+    216,
+    944
+   ]
+  },
+  {
+   "text": "angol (C1), német (B1)",
+   "bbox": [
+    90,
+    972,
+    299,
+    993
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1022,
+    206,
+    1046
+   ]
+  },
+  {
+   "text": "C#, Docker, prezentáció, projektmenedzsment, Excel",
+   "bbox": [
+    90,
+    1074,
+    576,
+    1095
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

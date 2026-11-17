@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ ABC BT.",
+  "uzlet_cim": "H-1656 Hátharaszti, Györgyvárai utca 198.",
+  "adoszam": "84166942-2-40",
+  "datum": "2026.06.24.",
+  "ido": "15:36",
+  "nyugtaszam": "4022/00210",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 907 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1374"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2214"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2240"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "88"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "384"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "215"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1277"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "797"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "610"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1466"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1242"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ABC BT.",
+   "bbox": [
+    160,
+    30,
+    368,
+    51
+   ]
+  },
+  {
+   "text": "H-1656 Hátharaszti, Györgyvárai utca",
+   "bbox": [
+    30,
+    67,
+    498,
+    88
+   ]
+  },
+  {
+   "text": "198.",
+   "bbox": [
+    238,
+    96,
+    290,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 84166942-2-40",
+   "bbox": [
+    121,
+    123,
+    407,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    213,
+    169,
+    315,
+    187
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    214,
+    206,
+    229
+   ]
+  },
+  {
+   "text": "1374 C00",
+   "bbox": [
+    392,
+    212,
+    504,
+    229
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    244,
+    150,
+    261
+   ]
+  },
+  {
+   "text": "2214 C00",
+   "bbox": [
+    392,
+    244,
+    504,
+    261
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    276,
+    290,
+    293
+   ]
+  },
+  {
+   "text": "2240 B00",
+   "bbox": [
+    392,
+    276,
+    504,
+    293
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    310,
+    108,
+    325
+   ]
+  },
+  {
+   "text": "88 B00",
+   "bbox": [
+    420,
+    308,
+    504,
+    325
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    340,
+    220,
+    357
+   ]
+  },
+  {
+   "text": "384 C00",
+   "bbox": [
+    406,
+    340,
+    504,
+    357
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    374,
+    207,
+    389
+   ]
+  },
+  {
+   "text": "215 A00",
+   "bbox": [
+    406,
+    372,
+    504,
+    389
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    404,
+    136,
+    421
+   ]
+  },
+  {
+   "text": "1277 B00",
+   "bbox": [
+    392,
+    404,
+    504,
+    421
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    436,
+    150,
+    453
+   ]
+  },
+  {
+   "text": "797 B00",
+   "bbox": [
+    406,
+    436,
+    504,
+    453
+   ]
+  },
+  {
+   "text": "2 DB x 305",
+   "bbox": [
+    24,
+    468,
+    154,
+    483
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    496,
+    220,
+    511
+   ]
+  },
+  {
+   "text": "610 C00",
+   "bbox": [
+    406,
+    494,
+    504,
+    511
+   ]
+  },
+  {
+   "text": "2 DB x 733",
+   "bbox": [
+    24,
+    526,
+    154,
+    541
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    552,
+    136,
+    569
+   ]
+  },
+  {
+   "text": "1466 C00",
+   "bbox": [
+    392,
+    552,
+    504,
+    569
+   ]
+  },
+  {
+   "text": "3 DB x 414",
+   "bbox": [
+    24,
+    584,
+    154,
+    599
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    610,
+    150,
+    627
+   ]
+  },
+  {
+   "text": "1242 B00",
+   "bbox": [
+    392,
+    610,
+    504,
+    627
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    653,
+    177,
+    675
+   ]
+  },
+  {
+   "text": "11 907 Ft",
+   "bbox": [
+    351,
+    655,
+    504,
+    675
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    694,
+    165,
+    713
+   ]
+  },
+  {
+   "text": "11 907 Ft",
+   "bbox": [
+    378,
+    696,
+    504,
+    713
+   ]
+  },
+  {
+   "text": "2026.06.24.",
+   "bbox": [
+    24,
+    742,
+    167,
+    758
+   ]
+  },
+  {
+   "text": "15:36",
+   "bbox": [
+    439,
+    742,
+    504,
+    758
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4022/00210",
+   "bbox": [
+    24,
+    773,
+    310,
+    793
+   ]
+  },
+  {
+   "text": "AP A35493228",
+   "bbox": [
+    24,
+    806,
+    180,
+    822
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    159,
+    849,
+    369,
+    867
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  528,
+  912
+ ]
+}

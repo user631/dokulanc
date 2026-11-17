@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS MARKET KFT.",
+  "uzlet_cim": "H-1655 Balatonligethalas, Hátkövesdi utca 244.",
+  "adoszam": "55388867-2-31",
+  "datum": "2024.03.07.",
+  "ido": "09:29",
+  "nyugtaszam": "5045/41997",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 680 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "175"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1518"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1992"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "93"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "829"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1206"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1104"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "763"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS MARKET KFT.",
+   "bbox": [
+    146,
+    28,
+    380,
+    48
+   ]
+  },
+  {
+   "text": "H-1655 Balatonligethalas, Hátkövesdi utca 244.",
+   "bbox": [
+    33,
+    65,
+    493,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 55388867-2-31",
+   "bbox": [
+    153,
+    88,
+    373,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    221,
+    130,
+    305,
+    146
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    173,
+    192,
+    190
+   ]
+  },
+  {
+   "text": "175 B00",
+   "bbox": [
+    418,
+    173,
+    502,
+    186
+   ]
+  },
+  {
+   "text": "2 DB x 759",
+   "bbox": [
+    24,
+    202,
+    124,
+    213
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    225,
+    120,
+    238
+   ]
+  },
+  {
+   "text": "1518 B00",
+   "bbox": [
+    406,
+    225,
+    502,
+    238
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    254,
+    252,
+    267
+   ]
+  },
+  {
+   "text": "1992 B00",
+   "bbox": [
+    406,
+    254,
+    502,
+    267
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    283,
+    96,
+    296
+   ]
+  },
+  {
+   "text": "93 C00",
+   "bbox": [
+    430,
+    283,
+    502,
+    296
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    312,
+    168,
+    325
+   ]
+  },
+  {
+   "text": "829 C00",
+   "bbox": [
+    418,
+    312,
+    502,
+    325
+   ]
+  },
+  {
+   "text": "3 DB x 402",
+   "bbox": [
+    24,
+    341,
+    124,
+    352
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    363,
+    156,
+    381
+   ]
+  },
+  {
+   "text": "1206 C00",
+   "bbox": [
+    406,
+    364,
+    502,
+    377
+   ]
+  },
+  {
+   "text": "2 DB x 552",
+   "bbox": [
+    24,
+    393,
+    124,
+    404
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    416,
+    132,
+    429
+   ]
+  },
+  {
+   "text": "1104 A00",
+   "bbox": [
+    406,
+    416,
+    502,
+    429
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    445,
+    132,
+    458
+   ]
+  },
+  {
+   "text": "763 C00",
+   "bbox": [
+    418,
+    445,
+    502,
+    458
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    481,
+    164,
+    502
+   ]
+  },
+  {
+   "text": "7 680 Ft",
+   "bbox": [
+    390,
+    486,
+    502,
+    502
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    521,
+    144,
+    538
+   ]
+  },
+  {
+   "text": "7 680 Ft",
+   "bbox": [
+    406,
+    525,
+    502,
+    538
+   ]
+  },
+  {
+   "text": "2024.03.07.",
+   "bbox": [
+    24,
+    568,
+    134,
+    580
+   ]
+  },
+  {
+   "text": "09:29",
+   "bbox": [
+    452,
+    568,
+    502,
+    580
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5045/41997",
+   "bbox": [
+    24,
+    594,
+    244,
+    611
+   ]
+  },
+  {
+   "text": "AP A43955363",
+   "bbox": [
+    24,
+    626,
+    144,
+    638
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    142,
+    662,
+    384,
+    679
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  526,
+  725
+ ]
+}

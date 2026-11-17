@@ -1,0 +1,696 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2024/04264",
+  "kiallitas_datuma": "2024. január 10.",
+  "teljesites_datuma": "2024. január 9.",
+  "fizetesi_hatarido": "2024. január 18.",
+  "elado_nev": "Szabó Trade Zrt.",
+  "elado_cim": "H-4091 Tatabánya, Bajai utca 39.",
+  "elado_adoszam": "37425524-5-02",
+  "vevo_nev": "Tóth Szolgáltató Bt.",
+  "vevo_cim": "H-6311 Szerbmindszentvára, Hetvenkövesdi utca 161.",
+  "vevo_adoszam": "18199497-2-16",
+  "bankszamla": "HU63 1216 4150 4628 5917 0239 6688",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "257 750 Ft",
+  "afa_osszesen": "57 361 Ft",
+  "brutto_osszesen": "315 111 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "11 120",
+    "netto": "55 600",
+    "afa_kulcs": "5%",
+    "afa": "2 780",
+    "brutto": "58 380"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "1 640",
+    "netto": "1 640",
+    "afa_kulcs": "27%",
+    "afa": "443",
+    "brutto": "2 083"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "4 500",
+    "netto": "18 000",
+    "afa_kulcs": "27%",
+    "afa": "4 860",
+    "brutto": "22 860"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "37 070",
+    "netto": "37 070",
+    "afa_kulcs": "27%",
+    "afa": "10 009",
+    "brutto": "47 079"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "12 db",
+    "egysegar": "12 120",
+    "netto": "145 440",
+    "afa_kulcs": "27%",
+    "afa": "39 269",
+    "brutto": "184 709"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    116,
+    113,
+    207,
+    137
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    982,
+    101,
+    1158,
+    137
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/04264",
+   "bbox": [
+    817,
+    157,
+    1158,
+    182
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    237,
+    169,
+    258
+   ]
+  },
+  {
+   "text": "Szabó Trade Zrt.",
+   "bbox": [
+    82,
+    274,
+    313,
+    295
+   ]
+  },
+  {
+   "text": "H-4091 Tatabánya, Bajai utca 39.",
+   "bbox": [
+    82,
+    309,
+    477,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 37425524-5-02",
+   "bbox": [
+    82,
+    340,
+    389,
+    359
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    237,
+    709,
+    258
+   ]
+  },
+  {
+   "text": "Tóth Szolgáltató Bt.",
+   "bbox": [
+    630,
+    274,
+    908,
+    300
+   ]
+  },
+  {
+   "text": "H-6311 Szerbmindszentvára,",
+   "bbox": [
+    630,
+    309,
+    970,
+    332
+   ]
+  },
+  {
+   "text": "Hetvenkövesdi utca 161.",
+   "bbox": [
+    630,
+    341,
+    920,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 18199497-2-16",
+   "bbox": [
+    630,
+    371,
+    937,
+    390
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    82,
+    439,
+    263,
+    456
+   ]
+  },
+  {
+   "text": "2024. január 10.",
+   "bbox": [
+    82,
+    469,
+    269,
+    491
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    439,
+    550,
+    460
+   ]
+  },
+  {
+   "text": "2024. január 9.",
+   "bbox": [
+    351,
+    469,
+    524,
+    491
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    439,
+    807,
+    456
+   ]
+  },
+  {
+   "text": "2024. január 18.",
+   "bbox": [
+    620,
+    469,
+    807,
+    491
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    439,
+    1031,
+    456
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    889,
+    469,
+    1013,
+    491
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    519,
+    218,
+    540
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    521,
+    592,
+    540
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    646,
+    519,
+    749,
+    540
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    519,
+    878,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    515,
+    942,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    515,
+    1045,
+    536
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1087,
+    519,
+    1158,
+    536
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    562,
+    556,
+    578
+   ]
+  },
+  {
+   "text": "11 120",
+   "bbox": [
+    677,
+    563,
+    749,
+    578
+   ]
+  },
+  {
+   "text": "55 600",
+   "bbox": [
+    806,
+    563,
+    878,
+    578
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    907,
+    563,
+    942,
+    578
+   ]
+  },
+  {
+   "text": "2 780",
+   "bbox": [
+    986,
+    563,
+    1045,
+    578
+   ]
+  },
+  {
+   "text": "58 380",
+   "bbox": [
+    1086,
+    563,
+    1158,
+    578
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    82,
+    561,
+    358,
+    582
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    598,
+    556,
+    614
+   ]
+  },
+  {
+   "text": "1 640",
+   "bbox": [
+    690,
+    599,
+    749,
+    614
+   ]
+  },
+  {
+   "text": "1 640",
+   "bbox": [
+    819,
+    599,
+    878,
+    614
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    599,
+    942,
+    614
+   ]
+  },
+  {
+   "text": "443",
+   "bbox": [
+    1006,
+    599,
+    1045,
+    614
+   ]
+  },
+  {
+   "text": "2 083",
+   "bbox": [
+    1099,
+    599,
+    1158,
+    614
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    82,
+    598,
+    259,
+    618
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    512,
+    634,
+    578,
+    650
+   ]
+  },
+  {
+   "text": "4 500",
+   "bbox": [
+    690,
+    635,
+    749,
+    650
+   ]
+  },
+  {
+   "text": "18 000",
+   "bbox": [
+    806,
+    635,
+    878,
+    650
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    635,
+    942,
+    650
+   ]
+  },
+  {
+   "text": "4 860",
+   "bbox": [
+    986,
+    635,
+    1045,
+    650
+   ]
+  },
+  {
+   "text": "22 860",
+   "bbox": [
+    1086,
+    635,
+    1158,
+    650
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    82,
+    633,
+    353,
+    654
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    512,
+    670,
+    609,
+    686
+   ]
+  },
+  {
+   "text": "37 070",
+   "bbox": [
+    677,
+    671,
+    749,
+    686
+   ]
+  },
+  {
+   "text": "37 070",
+   "bbox": [
+    806,
+    671,
+    878,
+    686
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    671,
+    942,
+    686
+   ]
+  },
+  {
+   "text": "10 009",
+   "bbox": [
+    973,
+    671,
+    1045,
+    686
+   ]
+  },
+  {
+   "text": "47 079",
+   "bbox": [
+    1086,
+    671,
+    1158,
+    686
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    82,
+    669,
+    303,
+    690
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    706,
+    569,
+    722
+   ]
+  },
+  {
+   "text": "12 120",
+   "bbox": [
+    677,
+    707,
+    749,
+    722
+   ]
+  },
+  {
+   "text": "145 440",
+   "bbox": [
+    793,
+    707,
+    878,
+    722
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    707,
+    942,
+    722
+   ]
+  },
+  {
+   "text": "39 269",
+   "bbox": [
+    973,
+    707,
+    1045,
+    722
+   ]
+  },
+  {
+   "text": "184 709",
+   "bbox": [
+    1073,
+    707,
+    1158,
+    722
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    82,
+    705,
+    253,
+    722
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    634,
+    763,
+    828,
+    782
+   ]
+  },
+  {
+   "text": "257 750 Ft",
+   "bbox": [
+    1029,
+    764,
+    1158,
+    782
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    653,
+    796,
+    828,
+    819
+   ]
+  },
+  {
+   "text": "57 361 Ft",
+   "bbox": [
+    1044,
+    801,
+    1158,
+    819
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    558,
+    836,
+    828,
+    856
+   ]
+  },
+  {
+   "text": "315 111 Ft",
+   "bbox": [
+    1013,
+    838,
+    1158,
+    856
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU63 1216 4150 4628 5917 0239 6688",
+   "bbox": [
+    82,
+    903,
+    733,
+    921
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

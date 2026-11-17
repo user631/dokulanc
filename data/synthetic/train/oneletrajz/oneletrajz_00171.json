@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nemes Tímea",
+  "email": "nemes.timea@freemail.hu",
+  "telefon": "06 1 142 2935",
+  "lakcim": "H-4549 Újtamásikőrös, Kossuth utca 154.",
+  "szuletesi_datum": "1979. szeptember 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Linux",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nemes Tímea",
+   "bbox": [
+    464,
+    97,
+    775,
+    136
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    533,
+    166,
+    706,
+    185
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    161,
+    233
+   ]
+  },
+  {
+   "text": "nemes.timea@freemail.hu",
+   "bbox": [
+    330,
+    217,
+    565,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    172,
+    263
+   ]
+  },
+  {
+   "text": "06 1 142 2935",
+   "bbox": [
+    330,
+    248,
+    458,
+    263
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    276,
+    168,
+    293
+   ]
+  },
+  {
+   "text": "H-4549 Újtamásikőrös, Kossuth utca 154.",
+   "bbox": [
+    330,
+    272,
+    699,
+    297
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    306,
+    259,
+    323
+   ]
+  },
+  {
+   "text": "1979. szeptember 10.",
+   "bbox": [
+    330,
+    307,
+    524,
+    327
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    358,
+    330,
+    382
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    408,
+    201,
+    423
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Molnár Logisztika Kft.",
+   "bbox": [
+    90,
+    431,
+    564,
+    452
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    481,
+    252,
+    506
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    90,
+    532,
+    201,
+    547
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    555,
+    633,
+    576
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    578,
+    260,
+    599
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    90,
+    620,
+    201,
+    635
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    643,
+    387,
+    664
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    666,
+    169,
+    687
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    717,
+    224,
+    742
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    766,
+    192,
+    787
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    813,
+    216,
+    838
+   ]
+  },
+  {
+   "text": "Docker, Linux, csapatmunka, projektmenedzsment",
+   "bbox": [
+    90,
+    863,
+    541,
+    883
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

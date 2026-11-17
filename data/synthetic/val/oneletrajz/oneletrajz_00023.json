@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Oláh Tibor",
+  "email": "olah.tibor@example.hu",
+  "telefon": "06 1 390 1148",
+  "lakcim": "H-4882 Veszprém, Dózsa györgy út 151.",
+  "szuletesi_datum": "1988.07.23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Borbély Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "JavaScript",
+   "C#",
+   "SAP",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Oláh Tibor",
+   "bbox": [
+    495,
+    102,
+    744,
+    142
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    168,
+    679,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    226,
+    169,
+    243
+   ]
+  },
+  {
+   "text": "olah.tibor@example.hu",
+   "bbox": [
+    330,
+    226,
+    555,
+    247
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    180,
+    275
+   ]
+  },
+  {
+   "text": "06 1 390 1148",
+   "bbox": [
+    330,
+    259,
+    471,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    177,
+    307
+   ]
+  },
+  {
+   "text": "H-4882 Veszprém, Dózsa györgy út 151.",
+   "bbox": [
+    330,
+    289,
+    725,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    321,
+    275,
+    339
+   ]
+  },
+  {
+   "text": "1988.07.23.",
+   "bbox": [
+    330,
+    323,
+    447,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    375,
+    357,
+    400
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    427,
+    212,
+    443
+   ]
+  },
+  {
+   "text": "adatelemző – Borbély Consulting Kft.",
+   "bbox": [
+    90,
+    452,
+    523,
+    475
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    504,
+    269,
+    530
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    90,
+    557,
+    212,
+    573
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    578,
+    281,
+    605
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    607,
+    343,
+    629
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    651,
+    212,
+    667
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    676,
+    373,
+    699
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    702,
+    279,
+    723
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    754,
+    236,
+    780
+   ]
+  },
+  {
+   "text": "angol (B2), német (B2)",
+   "bbox": [
+    90,
+    805,
+    314,
+    827
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    854,
+    225,
+    880
+   ]
+  },
+  {
+   "text": "csapatmunka, JavaScript, C#, SAP, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    905,
+    676,
+    927
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

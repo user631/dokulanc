@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Papp József",
+  "email": "papp.jozsef@example.hu",
+  "telefon": "+36 70 255 5378",
+  "lakcim": "H-1328 Váchídvég, József attila utca 28.",
+  "szuletesi_datum": "1988. június 1.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sipos Szolgáltató Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Git",
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "prezentáció",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    87,
+    212,
+    107
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    131,
+    97,
+    144
+   ]
+  },
+  {
+   "text": "papp.jozsef@example.hu",
+   "bbox": [
+    40,
+    152,
+    232,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    108,
+    196
+   ]
+  },
+  {
+   "text": "+36 70 255 5378",
+   "bbox": [
+    40,
+    205,
+    166,
+    220
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    235,
+    105,
+    248
+   ]
+  },
+  {
+   "text": "H-1328 Váchídvég, József attila utca 28.",
+   "bbox": [
+    40,
+    256,
+    344,
+    273
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    287,
+    181,
+    300
+   ]
+  },
+  {
+   "text": "1988. június 1.",
+   "bbox": [
+    40,
+    308,
+    149,
+    325
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    366,
+    198,
+    386
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    406,
+    120,
+    423
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    458,
+    179,
+    478
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    498,
+    97,
+    516
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    524,
+    64,
+    537
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    548,
+    146,
+    566
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    573,
+    234,
+    591
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    598,
+    132,
+    616
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    624,
+    122,
+    641
+   ]
+  },
+  {
+   "text": "Papp József",
+   "bbox": [
+    450,
+    94,
+    718,
+    136
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    163,
+    643,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    224,
+    687,
+    246
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    276,
+    556,
+    289
+   ]
+  },
+  {
+   "text": "tesztmérnök – Sipos Szolgáltató Kft.",
+   "bbox": [
+    450,
+    295,
+    824,
+    314
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    345,
+    617,
+    367
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    394,
+    561,
+    407
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    416,
+    647,
+    435
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    438,
+    580,
+    457
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    479,
+    564,
+    492
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    501,
+    745,
+    520
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    524,
+    666,
+    542
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

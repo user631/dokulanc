@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET BT.",
+  "uzlet_cim": "H-6546 Szombathely, Békéscsabai út 171.",
+  "adoszam": "52793066-2-37",
+  "datum": "2024.06.09.",
+  "ido": "16:24",
+  "nyugtaszam": "0287/60551",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "7 539 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4161"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1147"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2168"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "63"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET BT.",
+   "bbox": [
+    173,
+    28,
+    383,
+    49
+   ]
+  },
+  {
+   "text": "H-6546 Szombathely, Békéscsabai út 171.",
+   "bbox": [
+    44,
+    66,
+    512,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 52793066-2-37",
+   "bbox": [
+    146,
+    91,
+    410,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    233,
+    137,
+    323,
+    154
+   ]
+  },
+  {
+   "text": "3 DB x 1387",
+   "bbox": [
+    24,
+    180,
+    145,
+    193
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    206,
+    154,
+    221
+   ]
+  },
+  {
+   "text": "4161 A00",
+   "bbox": [
+    428,
+    206,
+    532,
+    221
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    237,
+    128,
+    252
+   ]
+  },
+  {
+   "text": "1147 B00",
+   "bbox": [
+    428,
+    237,
+    532,
+    252
+   ]
+  },
+  {
+   "text": "2 DB x 1084",
+   "bbox": [
+    24,
+    267,
+    145,
+    280
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    293,
+    180,
+    308
+   ]
+  },
+  {
+   "text": "2168 A00",
+   "bbox": [
+    428,
+    293,
+    532,
+    308
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    324,
+    102,
+    339
+   ]
+  },
+  {
+   "text": "63 C00",
+   "bbox": [
+    454,
+    324,
+    532,
+    339
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    363,
+    174,
+    385
+   ]
+  },
+  {
+   "text": "7 539 Ft",
+   "bbox": [
+    412,
+    368,
+    532,
+    385
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    403,
+    167,
+    423
+   ]
+  },
+  {
+   "text": "7 539 Ft",
+   "bbox": [
+    428,
+    408,
+    532,
+    423
+   ]
+  },
+  {
+   "text": "2024.06.09.",
+   "bbox": [
+    24,
+    453,
+    156,
+    466
+   ]
+  },
+  {
+   "text": "16:24",
+   "bbox": [
+    472,
+    453,
+    532,
+    466
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0287/60551",
+   "bbox": [
+    24,
+    480,
+    288,
+    499
+   ]
+  },
+  {
+   "text": "AP A60581912",
+   "bbox": [
+    24,
+    515,
+    168,
+    528
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    188,
+    553,
+    368,
+    572
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  556,
+  618
+ ]
+}

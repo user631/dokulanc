@@ -1,0 +1,274 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SÁNDOR MARKET KFT.",
+  "uzlet_cim": "H-8423 Mártonkövesd, Hátfalui utca 48.",
+  "adoszam": "27594168-4-10",
+  "datum": "2024.02.29.",
+  "ido": "13:10",
+  "nyugtaszam": "6357/25704",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "4 802 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "582"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1228"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "768"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "530"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "248"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "946"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SÁNDOR MARKET KFT.",
+   "bbox": [
+    167,
+    31,
+    419,
+    49
+   ]
+  },
+  {
+   "text": "H-8423 Mártonkövesd, Hátfalui utca 48.",
+   "bbox": [
+    84,
+    63,
+    502,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 27594168-4-10",
+   "bbox": [
+    172,
+    88,
+    414,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    131,
+    338,
+    147
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    172,
+    232,
+    187
+   ]
+  },
+  {
+   "text": "582 C00",
+   "bbox": [
+    472,
+    172,
+    563,
+    187
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    201,
+    128,
+    216
+   ]
+  },
+  {
+   "text": "1228 A00",
+   "bbox": [
+    459,
+    201,
+    563,
+    216
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    230,
+    206,
+    245
+   ]
+  },
+  {
+   "text": "768 B00",
+   "bbox": [
+    472,
+    230,
+    563,
+    245
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    259,
+    141,
+    274
+   ]
+  },
+  {
+   "text": "530 B00",
+   "bbox": [
+    472,
+    259,
+    563,
+    274
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    288,
+    206,
+    306
+   ]
+  },
+  {
+   "text": "248 B00",
+   "bbox": [
+    472,
+    288,
+    563,
+    303
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    317,
+    180,
+    332
+   ]
+  },
+  {
+   "text": "946 C00",
+   "bbox": [
+    472,
+    317,
+    563,
+    332
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    356,
+    159,
+    376
+   ]
+  },
+  {
+   "text": "4 802 Ft",
+   "bbox": [
+    443,
+    358,
+    563,
+    376
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    395,
+    167,
+    412
+   ]
+  },
+  {
+   "text": "4 802 Ft",
+   "bbox": [
+    459,
+    397,
+    563,
+    412
+   ]
+  },
+  {
+   "text": "2024.02.29.",
+   "bbox": [
+    24,
+    439,
+    145,
+    453
+   ]
+  },
+  {
+   "text": "13:10",
+   "bbox": [
+    508,
+    439,
+    563,
+    453
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6357/25704",
+   "bbox": [
+    24,
+    467,
+    266,
+    485
+   ]
+  },
+  {
+   "text": "AP A28235722",
+   "bbox": [
+    24,
+    497,
+    156,
+    511
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    233,
+    537,
+    353,
+    553
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  587,
+  598
+ ]
+}

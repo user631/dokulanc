@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Andrea",
+  "anyja_neve": "Molnár Péter",
+  "szuletesi_hely": "Alsógyörgyhalas",
+  "szuletesi_datum": "1999.06.17.",
+  "lakcim": "H-8178 Székkőrös, Dunakeszii utca 63.",
+  "telefon": "+36 30 619 3091",
+  "email": "nagy.andrea@example.hu",
+  "adoazonosito_jel": "8483799650",
+  "taj_szam": "758 905 039",
+  "kelt": "Tapolcaharaszti, 2024.04.12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    421,
+    95,
+    818,
+    129
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    480,
+    148,
+    760,
+    165
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    201,
+    301,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    254,
+    139,
+    268
+   ]
+  },
+  {
+   "text": "Nagy Andrea",
+   "bbox": [
+    434,
+    255,
+    561,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    306,
+    198,
+    324
+   ]
+  },
+  {
+   "text": "Molnár Péter",
+   "bbox": [
+    434,
+    306,
+    560,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    358,
+    220,
+    376
+   ]
+  },
+  {
+   "text": "Alsógyörgyhalas",
+   "bbox": [
+    434,
+    353,
+    592,
+    375
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    410,
+    212,
+    424
+   ]
+  },
+  {
+   "text": "1999.06.17.",
+   "bbox": [
+    434,
+    407,
+    545,
+    423
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    462,
+    164,
+    476
+   ]
+  },
+  {
+   "text": "H-8178 Székkőrös, Dunakeszii utca 63.",
+   "bbox": [
+    434,
+    463,
+    806,
+    483
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    514,
+    212,
+    528
+   ]
+  },
+  {
+   "text": "+36 30 619 3091",
+   "bbox": [
+    434,
+    512,
+    599,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    566,
+    195,
+    580
+   ]
+  },
+  {
+   "text": "nagy.andrea@example.hu",
+   "bbox": [
+    434,
+    564,
+    685,
+    586
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    618,
+    247,
+    636
+   ]
+  },
+  {
+   "text": "8483799650",
+   "bbox": [
+    434,
+    616,
+    554,
+    632
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    670,
+    183,
+    684
+   ]
+  },
+  {
+   "text": "758 905 039",
+   "bbox": [
+    434,
+    671,
+    554,
+    687
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    749,
+    260,
+    771
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    792,
+    428,
+    810
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    837,
+    269,
+    851
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    882,
+    444,
+    900
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    986,
+    128,
+    1001
+   ]
+  },
+  {
+   "text": "Tapolcaharaszti, 2024.04.12.",
+   "bbox": [
+    180,
+    982,
+    450,
+    1004
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1035,
+    982,
+    1047
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

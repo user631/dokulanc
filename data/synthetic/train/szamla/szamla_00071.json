@@ -1,0 +1,390 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/02362",
+  "kiallitas_datuma": "2026. 10. 05.",
+  "teljesites_datuma": "2026. 09. 30.",
+  "fizetesi_hatarido": "2026. 10. 13.",
+  "elado_nev": "Boros Szolgáltató Kft.",
+  "elado_cim": "H-9093 Mellékváros, Szentkereszti utca 229.",
+  "elado_adoszam": "60890797-2-07",
+  "vevo_nev": "Gáspár Enikő",
+  "vevo_cim": "H-4257 Ózd, Törökmelléki utca 198.",
+  "vevo_adoszam": null,
+  "bankszamla": "15241375-18635731-61381395",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "132 100 Ft",
+  "afa_osszesen": "35 667 Ft",
+  "brutto_osszesen": "167 767 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "26 420",
+    "netto": "132 100",
+    "afa_kulcs": "27%",
+    "afa": "35 667",
+    "brutto": "167 767"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOROS",
+   "bbox": [
+    112,
+    107,
+    187,
+    124
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    1005,
+    82,
+    1170,
+    123
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/02362",
+   "bbox": [
+    863,
+    145,
+    1170,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    226,
+    148,
+    246
+   ]
+  },
+  {
+   "text": "Boros Szolgáltató Kft.",
+   "bbox": [
+    70,
+    265,
+    342,
+    291
+   ]
+  },
+  {
+   "text": "H-9093 Mellékváros, Szentkereszti utca 229.",
+   "bbox": [
+    70,
+    300,
+    568,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 60890797-2-07",
+   "bbox": [
+    70,
+    333,
+    346,
+    353
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    226,
+    702,
+    246
+   ]
+  },
+  {
+   "text": "Gáspár Enikő",
+   "bbox": [
+    630,
+    265,
+    793,
+    291
+   ]
+  },
+  {
+   "text": "H-4257 Ózd, Törökmelléki utca 198.",
+   "bbox": [
+    630,
+    296,
+    1035,
+    324
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    70,
+    404,
+    237,
+    421
+   ]
+  },
+  {
+   "text": "2026. 10. 05.",
+   "bbox": [
+    70,
+    437,
+    215,
+    454
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    345,
+    404,
+    530,
+    426
+   ]
+  },
+  {
+   "text": "2026. 09. 30.",
+   "bbox": [
+    345,
+    437,
+    490,
+    454
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    404,
+    797,
+    421
+   ]
+  },
+  {
+   "text": "2026. 10. 13.",
+   "bbox": [
+    620,
+    437,
+    765,
+    454
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    895,
+    404,
+    1029,
+    421
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    895,
+    435,
+    1015,
+    459
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    489,
+    195,
+    510
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    489,
+    585,
+    510
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    662,
+    489,
+    753,
+    510
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    489,
+    884,
+    505
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    485,
+    950,
+    505
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    485,
+    1054,
+    505
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    489,
+    1170,
+    505
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    510,
+    531,
+    552,
+    549
+   ]
+  },
+  {
+   "text": "26 420",
+   "bbox": [
+    685,
+    533,
+    752,
+    549
+   ]
+  },
+  {
+   "text": "132 100",
+   "bbox": [
+    805,
+    533,
+    884,
+    549
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    533,
+    950,
+    549
+   ]
+  },
+  {
+   "text": "35 667",
+   "bbox": [
+    987,
+    533,
+    1054,
+    549
+   ]
+  },
+  {
+   "text": "167 767",
+   "bbox": [
+    1091,
+    533,
+    1170,
+    549
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    70,
+    531,
+    251,
+    554
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    656,
+    591,
+    840,
+    611
+   ]
+  },
+  {
+   "text": "132 100 Ft",
+   "bbox": [
+    1046,
+    592,
+    1170,
+    611
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    677,
+    626,
+    840,
+    650
+   ]
+  },
+  {
+   "text": "35 667 Ft",
+   "bbox": [
+    1060,
+    631,
+    1170,
+    650
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    593,
+    669,
+    840,
+    689
+   ]
+  },
+  {
+   "text": "167 767 Ft",
+   "bbox": [
+    1039,
+    670,
+    1170,
+    689
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 15241375-18635731-61381395",
+   "bbox": [
+    70,
+    737,
+    596,
+    756
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

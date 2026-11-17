@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Dániel",
+  "email": "kovacs.daniel@citromail.hu",
+  "telefon": "06 1 421 1144",
+  "lakcim": "H-1782 Hetvenhida, Veszprémi utca 72.",
+  "szuletesi_datum": "2003.02.06.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Trade Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Balogh Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Java",
+   "Git",
+   "ügyfélkezelés",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    86,
+    222,
+    109
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    101,
+    150
+   ]
+  },
+  {
+   "text": "kovacs.daniel@citromail.hu",
+   "bbox": [
+    40,
+    159,
+    282,
+    178
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    193,
+    111,
+    208
+   ]
+  },
+  {
+   "text": "06 1 421 1144",
+   "bbox": [
+    40,
+    217,
+    168,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    109,
+    266
+   ]
+  },
+  {
+   "text": "H-1782 Hetvenhida, Veszprémi utca",
+   "bbox": [
+    40,
+    275,
+    361,
+    294
+   ]
+  },
+  {
+   "text": "72.",
+   "bbox": [
+    40,
+    299,
+    68,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    333,
+    193,
+    348
+   ]
+  },
+  {
+   "text": "2003.02.06.",
+   "bbox": [
+    40,
+    357,
+    146,
+    372
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    416,
+    202,
+    439
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    462,
+    161,
+    481
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    514,
+    189,
+    537
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    560,
+    67,
+    575
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    588,
+    86,
+    603
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    616,
+    67,
+    631
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    644,
+    172,
+    663
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    672,
+    92,
+    687
+   ]
+  },
+  {
+   "text": "Kovács Dániel",
+   "bbox": [
+    450,
+    95,
+    767,
+    129
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    161,
+    567,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    230,
+    692,
+    254
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    281,
+    597,
+    301
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Trade Kft.",
+   "bbox": [
+    448,
+    307,
+    819,
+    329
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    349,
+    597,
+    369
+   ]
+  },
+  {
+   "text": "értékesítő – Balogh Consulting Kft.",
+   "bbox": [
+    450,
+    375,
+    834,
+    397
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    428,
+    617,
+    452
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    450,
+    479,
+    570,
+    495
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    505,
+    1024,
+    527
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    531,
+    642,
+    551
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    573,
+    570,
+    589
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    599,
+    721,
+    621
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    625,
+    633,
+    645
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

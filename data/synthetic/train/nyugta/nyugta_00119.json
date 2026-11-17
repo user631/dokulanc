@@ -1,0 +1,250 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS MARKET BT.",
+  "uzlet_cim": "H-6234 Mezőkeresztfa, Ráchídi utca 40.",
+  "adoszam": "22495071-2-05",
+  "datum": "2024.10.09.",
+  "ido": "17:18",
+  "nyugtaszam": "7207/45186",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 537 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "535"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "734"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "581"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1409"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2278"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS MARKET BT.",
+   "bbox": [
+    165,
+    30,
+    403,
+    49
+   ]
+  },
+  {
+   "text": "H-6234 Mezőkeresztfa, Ráchídi utca 40.",
+   "bbox": [
+    56,
+    64,
+    512,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 22495071-2-05",
+   "bbox": [
+    152,
+    90,
+    416,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    135,
+    332,
+    151
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    176,
+    206,
+    192
+   ]
+  },
+  {
+   "text": "535 A00",
+   "bbox": [
+    454,
+    176,
+    545,
+    192
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    206,
+    141,
+    222
+   ]
+  },
+  {
+   "text": "734 C00",
+   "bbox": [
+    454,
+    206,
+    545,
+    222
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    236,
+    128,
+    252
+   ]
+  },
+  {
+   "text": "581 A00",
+   "bbox": [
+    454,
+    236,
+    545,
+    252
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    268,
+    193,
+    282
+   ]
+  },
+  {
+   "text": "1409 A00",
+   "bbox": [
+    441,
+    266,
+    545,
+    282
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    296,
+    271,
+    312
+   ]
+  },
+  {
+   "text": "2278 C00",
+   "bbox": [
+    441,
+    296,
+    545,
+    312
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    336,
+    184,
+    357
+   ]
+  },
+  {
+   "text": "5 537 Ft",
+   "bbox": [
+    417,
+    338,
+    545,
+    357
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    377,
+    168,
+    394
+   ]
+  },
+  {
+   "text": "5 537 Ft",
+   "bbox": [
+    441,
+    378,
+    545,
+    394
+   ]
+  },
+  {
+   "text": "2024.10.09.",
+   "bbox": [
+    24,
+    422,
+    156,
+    436
+   ]
+  },
+  {
+   "text": "17:18",
+   "bbox": [
+    485,
+    422,
+    545,
+    436
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7207/45186",
+   "bbox": [
+    24,
+    450,
+    288,
+    469
+   ]
+  },
+  {
+   "text": "AP A54895713",
+   "bbox": [
+    24,
+    482,
+    168,
+    496
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    141,
+    522,
+    427,
+    539
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  569,
+  584
+ ]
+}

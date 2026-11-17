@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "LAKATOS CSEMEGE KFT.",
+  "uzlet_cim": "H-2945 Hódmezővásárhely, Drávaháti utca 11.",
+  "adoszam": "67467824-5-35",
+  "datum": "2026.09.05.",
+  "ido": "10:25",
+  "nyugtaszam": "7281/56815",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "4 339 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1234"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1559"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "365"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "836"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "345"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS CSEMEGE KFT.",
+   "bbox": [
+    141,
+    35,
+    461,
+    51
+   ]
+  },
+  {
+   "text": "H-2945 Hódmezővásárhely, Drávaháti utca",
+   "bbox": [
+    47,
+    67,
+    554,
+    88
+   ]
+  },
+  {
+   "text": "11.",
+   "bbox": [
+    281,
+    96,
+    320,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 67467824-5-35",
+   "bbox": [
+    158,
+    123,
+    444,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    169,
+    352,
+    187
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    214,
+    206,
+    229
+   ]
+  },
+  {
+   "text": "1234 B00",
+   "bbox": [
+    467,
+    212,
+    579,
+    229
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    244,
+    164,
+    261
+   ]
+  },
+  {
+   "text": "1559 C00",
+   "bbox": [
+    467,
+    244,
+    579,
+    261
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    276,
+    220,
+    293
+   ]
+  },
+  {
+   "text": "365 B00",
+   "bbox": [
+    481,
+    276,
+    579,
+    293
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    308,
+    150,
+    325
+   ]
+  },
+  {
+   "text": "836 C00",
+   "bbox": [
+    481,
+    308,
+    579,
+    325
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    342,
+    207,
+    357
+   ]
+  },
+  {
+   "text": "345 C00",
+   "bbox": [
+    481,
+    340,
+    579,
+    357
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    383,
+    194,
+    405
+   ]
+  },
+  {
+   "text": "4 339 Ft",
+   "bbox": [
+    443,
+    385,
+    579,
+    405
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    424,
+    165,
+    443
+   ]
+  },
+  {
+   "text": "4 339 Ft",
+   "bbox": [
+    467,
+    426,
+    579,
+    443
+   ]
+  },
+  {
+   "text": "2026.09.05.",
+   "bbox": [
+    24,
+    472,
+    167,
+    488
+   ]
+  },
+  {
+   "text": "10:25",
+   "bbox": [
+    514,
+    472,
+    579,
+    488
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7281/56815",
+   "bbox": [
+    24,
+    503,
+    310,
+    523
+   ]
+  },
+  {
+   "text": "AP A60479434",
+   "bbox": [
+    24,
+    536,
+    180,
+    552
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    196,
+    579,
+    406,
+    597
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  603,
+  642
+ ]
+}

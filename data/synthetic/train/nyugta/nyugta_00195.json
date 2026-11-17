@@ -1,0 +1,303 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "CSONKA CSEMEGE KFT.",
+  "uzlet_cim": "H-4541 Hetvenapáti, Váci út 18.",
+  "adoszam": "94646720-2-32",
+  "datum": "2026.11.01.",
+  "ido": "16:20",
+  "nyugtaszam": "5313/13117",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 203 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1224"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1135"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "632"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "340"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2584"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "227"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "61"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "CSONKA CSEMEGE KFT.",
+   "bbox": [
+    168,
+    36,
+    415,
+    49
+   ]
+  },
+  {
+   "text": "H-4541 Hetvenapáti, Váci út 18.",
+   "bbox": [
+    121,
+    65,
+    462,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 94646720-2-32",
+   "bbox": [
+    171,
+    87,
+    413,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    249,
+    130,
+    335,
+    144
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    170,
+    168,
+    183
+   ]
+  },
+  {
+   "text": "1224 C00",
+   "bbox": [
+    464,
+    170,
+    560,
+    183
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    198,
+    204,
+    211
+   ]
+  },
+  {
+   "text": "1135 A00",
+   "bbox": [
+    464,
+    198,
+    560,
+    211
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    226,
+    192,
+    239
+   ]
+  },
+  {
+   "text": "632 B00",
+   "bbox": [
+    476,
+    226,
+    560,
+    239
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    254,
+    192,
+    267
+   ]
+  },
+  {
+   "text": "340 C00",
+   "bbox": [
+    476,
+    254,
+    560,
+    267
+   ]
+  },
+  {
+   "text": "2 DB x 1292",
+   "bbox": [
+    24,
+    282,
+    134,
+    293
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    304,
+    144,
+    317
+   ]
+  },
+  {
+   "text": "2584 B00",
+   "bbox": [
+    464,
+    304,
+    560,
+    317
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    332,
+    192,
+    348
+   ]
+  },
+  {
+   "text": "227 B00",
+   "bbox": [
+    476,
+    332,
+    560,
+    345
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    361,
+    96,
+    373
+   ]
+  },
+  {
+   "text": "61 B00",
+   "bbox": [
+    488,
+    360,
+    560,
+    373
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    396,
+    164,
+    416
+   ]
+  },
+  {
+   "text": "6 203 Ft",
+   "bbox": [
+    448,
+    401,
+    561,
+    416
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    435,
+    144,
+    451
+   ]
+  },
+  {
+   "text": "6 203 Ft",
+   "bbox": [
+    464,
+    438,
+    560,
+    451
+   ]
+  },
+  {
+   "text": "2026.11.01.",
+   "bbox": [
+    24,
+    480,
+    145,
+    491
+   ]
+  },
+  {
+   "text": "16:20",
+   "bbox": [
+    505,
+    480,
+    560,
+    491
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5313/13117",
+   "bbox": [
+    24,
+    505,
+    266,
+    520
+   ]
+  },
+  {
+   "text": "AP A48580051",
+   "bbox": [
+    24,
+    536,
+    156,
+    547
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    171,
+    573,
+    413,
+    588
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  584,
+  632
+ ]
+}

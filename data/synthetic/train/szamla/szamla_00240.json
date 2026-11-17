@@ -1,0 +1,498 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/01501",
+  "kiallitas_datuma": "2025. június 16.",
+  "teljesites_datuma": "2025. június 16.",
+  "fizetesi_hatarido": "2025. július 1.",
+  "elado_nev": "Farkas Consulting Bt.",
+  "elado_cim": "H-7307 Bakonyszékkövesd, Ceglédi utca 114.",
+  "elado_adoszam": "22389543-2-34",
+  "vevo_nev": "Tóth Zrt.",
+  "vevo_cim": "H-6357 Szerbmártonfalva, Székesfehérvári utca 63.",
+  "vevo_adoszam": "21097924-2-30",
+  "bankszamla": "HU06 5678 9429 2630 1814 8301 3338",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "443 760 Ft",
+  "afa_osszesen": "119 815 Ft",
+  "brutto_osszesen": "563 575 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "62 560",
+    "netto": "62 560",
+    "afa_kulcs": "27%",
+    "afa": "16 891",
+    "brutto": "79 451"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "38 120",
+    "netto": "381 200",
+    "afa_kulcs": "27%",
+    "afa": "102 924",
+    "brutto": "484 124"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS",
+   "bbox": [
+    135,
+    147,
+    244,
+    165
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    944,
+    121,
+    1130,
+    162
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/01501",
+   "bbox": [
+    814,
+    185,
+    1130,
+    207
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    110,
+    266,
+    190,
+    284
+   ]
+  },
+  {
+   "text": "Farkas Consulting Bt.",
+   "bbox": [
+    110,
+    301,
+    384,
+    324
+   ]
+  },
+  {
+   "text": "H-7307 Bakonyszékkövesd, Ceglédi utca 114.",
+   "bbox": [
+    110,
+    333,
+    593,
+    354
+   ]
+  },
+  {
+   "text": "Adószám: 22389543-2-34",
+   "bbox": [
+    110,
+    362,
+    385,
+    379
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    266,
+    703,
+    284
+   ]
+  },
+  {
+   "text": "Tóth Zrt.",
+   "bbox": [
+    630,
+    301,
+    741,
+    319
+   ]
+  },
+  {
+   "text": "H-6357 Szerbmártonfalva, Székesfehérvári",
+   "bbox": [
+    630,
+    333,
+    1086,
+    354
+   ]
+  },
+  {
+   "text": "utca 63.",
+   "bbox": [
+    630,
+    363,
+    716,
+    379
+   ]
+  },
+  {
+   "text": "Adószám: 21097924-2-30",
+   "bbox": [
+    630,
+    391,
+    905,
+    408
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    110,
+    458,
+    309,
+    475
+   ]
+  },
+  {
+   "text": "2025. június 16.",
+   "bbox": [
+    410,
+    458,
+    581,
+    479
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    110,
+    489,
+    327,
+    510
+   ]
+  },
+  {
+   "text": "2025. június 16.",
+   "bbox": [
+    410,
+    489,
+    581,
+    510
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    110,
+    520,
+    315,
+    537
+   ]
+  },
+  {
+   "text": "2025. július 1.",
+   "bbox": [
+    410,
+    520,
+    561,
+    541
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    110,
+    551,
+    267,
+    568
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    410,
+    551,
+    507,
+    572
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    110,
+    594,
+    235,
+    612
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    518,
+    595,
+    592,
+    612
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    648,
+    594,
+    742,
+    612
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    809,
+    594,
+    864,
+    608
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    591,
+    926,
+    608
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    982,
+    591,
+    1022,
+    608
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1066,
+    594,
+    1130,
+    608
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    518,
+    634,
+    557,
+    648
+   ]
+  },
+  {
+   "text": "62 560",
+   "bbox": [
+    681,
+    635,
+    742,
+    648
+   ]
+  },
+  {
+   "text": "62 560",
+   "bbox": [
+    803,
+    635,
+    864,
+    648
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    885,
+    635,
+    926,
+    648
+   ]
+  },
+  {
+   "text": "16 891",
+   "bbox": [
+    961,
+    635,
+    1022,
+    648
+   ]
+  },
+  {
+   "text": "79 451",
+   "bbox": [
+    1069,
+    635,
+    1130,
+    648
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    110,
+    634,
+    369,
+    652
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    518,
+    668,
+    618,
+    682
+   ]
+  },
+  {
+   "text": "38 120",
+   "bbox": [
+    681,
+    669,
+    742,
+    682
+   ]
+  },
+  {
+   "text": "381 200",
+   "bbox": [
+    792,
+    669,
+    864,
+    682
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    885,
+    669,
+    926,
+    682
+   ]
+  },
+  {
+   "text": "102 924",
+   "bbox": [
+    950,
+    669,
+    1022,
+    682
+   ]
+  },
+  {
+   "text": "484 124",
+   "bbox": [
+    1058,
+    669,
+    1130,
+    682
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    110,
+    668,
+    311,
+    686
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    624,
+    722,
+    800,
+    740
+   ]
+  },
+  {
+   "text": "443 760 Ft",
+   "bbox": [
+    1008,
+    724,
+    1130,
+    740
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    641,
+    753,
+    800,
+    775
+   ]
+  },
+  {
+   "text": "119 815 Ft",
+   "bbox": [
+    1008,
+    759,
+    1130,
+    775
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    660,
+    792,
+    800,
+    814
+   ]
+  },
+  {
+   "text": "563 575 Ft",
+   "bbox": [
+    994,
+    794,
+    1130,
+    810
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU06 5678 9429 2630 1814 8301 3338",
+   "bbox": [
+    110,
+    856,
+    708,
+    873
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    110,
+    885,
+    709,
+    902
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    411,
+    1627,
+    828,
+    1643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

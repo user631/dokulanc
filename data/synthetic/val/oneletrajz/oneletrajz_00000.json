@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Varga Katalin",
+  "email": "varga.katalin@freemail.hu",
+  "telefon": "+36 70 226 8722",
+  "lakcim": "H-3024 Oroszgyörgyvár, Orosztapolcai utca 215.",
+  "szuletesi_datum": "1979.03.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1999 – 2004"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Simon Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2003 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "ügyfélkezelés",
+   "SAP",
+   "C#",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    161,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    83,
+    160
+   ]
+  },
+  {
+   "text": "varga.katalin@freemail.hu",
+   "bbox": [
+    40,
+    169,
+    223,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    93,
+    212
+   ]
+  },
+  {
+   "text": "+36 70 226 8722",
+   "bbox": [
+    40,
+    222,
+    159,
+    233
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    252,
+    88,
+    264
+   ]
+  },
+  {
+   "text": "H-3024 Oroszgyörgyvár, Orosztapolcai utca 215.",
+   "bbox": [
+    40,
+    273,
+    377,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    304,
+    153,
+    316
+   ]
+  },
+  {
+   "text": "1979.03.14.",
+   "bbox": [
+    40,
+    326,
+    124,
+    337
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    384,
+    156,
+    401
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    424,
+    110,
+    439
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    476,
+    136,
+    493
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    517,
+    72,
+    528
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    541,
+    137,
+    556
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    567,
+    67,
+    578
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    592,
+    59,
+    603
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    616,
+    113,
+    631
+   ]
+  },
+  {
+   "text": "Varga Katalin",
+   "bbox": [
+    450,
+    110,
+    688,
+    146
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    178,
+    623,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    637,
+    260
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    450,
+    290,
+    547,
+    302
+   ]
+  },
+  {
+   "text": "tesztmérnök – Simon Zrt.",
+   "bbox": [
+    450,
+    311,
+    661,
+    325
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    361,
+    578,
+    381
+   ]
+  },
+  {
+   "text": "1999 – 2004",
+   "bbox": [
+    450,
+    411,
+    547,
+    423
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    432,
+    611,
+    450
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    456,
+    569,
+    472
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    496,
+    547,
+    508
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    517,
+    697,
+    535
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    541,
+    600,
+    557
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

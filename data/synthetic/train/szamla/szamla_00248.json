@@ -1,0 +1,626 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/02223",
+  "kiallitas_datuma": "2025. április 22.",
+  "teljesites_datuma": "2025. április 22.",
+  "fizetesi_hatarido": "2025. május 22.",
+  "elado_nev": "Bognár Consulting Zrt.",
+  "elado_cim": "H-9016 Szeged, Ligetnémetii tér 113.",
+  "elado_adoszam": "27970762-2-38",
+  "vevo_nev": "Balog Trade Zrt.",
+  "vevo_cim": "H-6582 Cegléd, Nagymelléki utca 94.",
+  "vevo_adoszam": "17122676-2-07",
+  "bankszamla": "60997698-83409220-91103941",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "1 873 790 Ft",
+  "afa_osszesen": "505 693 Ft",
+  "brutto_osszesen": "2 389 483 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "7 310",
+    "netto": "14 620",
+    "afa_kulcs": "27%",
+    "afa": "3 947",
+    "brutto": "18 567"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 550",
+    "netto": "2 550",
+    "afa_kulcs": "18%",
+    "afa": "459",
+    "brutto": "3 009"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "154 500",
+    "netto": "1 854 000",
+    "afa_kulcs": "27%",
+    "afa": "500 580",
+    "brutto": "2 354 580"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 620",
+    "netto": "2 620",
+    "afa_kulcs": "27%",
+    "afa": "707",
+    "brutto": "3 327"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOGNÁR",
+   "bbox": [
+    114,
+    123,
+    229,
+    145
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    729,
+    101,
+    1149,
+    147
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/02223",
+   "bbox": [
+    868,
+    166,
+    1149,
+    188
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    91,
+    246,
+    168,
+    263
+   ]
+  },
+  {
+   "text": "Bognár Consulting Zrt.",
+   "bbox": [
+    91,
+    281,
+    364,
+    303
+   ]
+  },
+  {
+   "text": "H-9016 Szeged, Ligetnémetii tér 113.",
+   "bbox": [
+    91,
+    313,
+    431,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 27970762-2-38",
+   "bbox": [
+    90,
+    342,
+    335,
+    362
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    246,
+    697,
+    263
+   ]
+  },
+  {
+   "text": "Balog Trade Zrt.",
+   "bbox": [
+    630,
+    281,
+    824,
+    303
+   ]
+  },
+  {
+   "text": "H-6582 Cegléd, Nagymelléki utca 94.",
+   "bbox": [
+    630,
+    313,
+    977,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 17122676-2-07",
+   "bbox": [
+    629,
+    342,
+    867,
+    362
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    91,
+    409,
+    277,
+    425
+   ]
+  },
+  {
+   "text": "2025. április 22.",
+   "bbox": [
+    391,
+    409,
+    544,
+    430
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    91,
+    440,
+    288,
+    461
+   ]
+  },
+  {
+   "text": "2025. április 22.",
+   "bbox": [
+    391,
+    440,
+    544,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    91,
+    471,
+    279,
+    487
+   ]
+  },
+  {
+   "text": "2025. május 22.",
+   "bbox": [
+    391,
+    471,
+    542,
+    492
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    91,
+    502,
+    234,
+    518
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    391,
+    502,
+    473,
+    523
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    544,
+    199,
+    562
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    545,
+    582,
+    562
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    664,
+    544,
+    747,
+    562
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    544,
+    873,
+    558
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    541,
+    937,
+    558
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    996,
+    541,
+    1038,
+    558
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    544,
+    1149,
+    558
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    514,
+    584,
+    548,
+    598
+   ]
+  },
+  {
+   "text": "7 310",
+   "bbox": [
+    704,
+    588,
+    746,
+    601
+   ]
+  },
+  {
+   "text": "14 620",
+   "bbox": [
+    820,
+    585,
+    873,
+    601
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    585,
+    937,
+    601
+   ]
+  },
+  {
+   "text": "3 947",
+   "bbox": [
+    994,
+    588,
+    1038,
+    601
+   ]
+  },
+  {
+   "text": "18 567",
+   "bbox": [
+    1097,
+    585,
+    1150,
+    601
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    91,
+    584,
+    193,
+    602
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    514,
+    622,
+    586,
+    636
+   ]
+  },
+  {
+   "text": "2 550",
+   "bbox": [
+    701,
+    622,
+    746,
+    635
+   ]
+  },
+  {
+   "text": "2 550",
+   "bbox": [
+    828,
+    622,
+    873,
+    635
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    903,
+    619,
+    937,
+    632
+   ]
+  },
+  {
+   "text": "459",
+   "bbox": [
+    1007,
+    622,
+    1037,
+    635
+   ]
+  },
+  {
+   "text": "3 009",
+   "bbox": [
+    1103,
+    622,
+    1149,
+    635
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    91,
+    618,
+    237,
+    636
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    514,
+    652,
+    600,
+    666
+   ]
+  },
+  {
+   "text": "154 500",
+   "bbox": [
+    682,
+    656,
+    746,
+    669
+   ]
+  },
+  {
+   "text": "1 854 000",
+   "bbox": [
+    793,
+    653,
+    873,
+    669
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    653,
+    937,
+    669
+   ]
+  },
+  {
+   "text": "500 580",
+   "bbox": [
+    969,
+    653,
+    1037,
+    669
+   ]
+  },
+  {
+   "text": "2 354 580",
+   "bbox": [
+    1069,
+    653,
+    1149,
+    669
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    91,
+    652,
+    264,
+    670
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    514,
+    690,
+    586,
+    704
+   ]
+  },
+  {
+   "text": "2 620",
+   "bbox": [
+    701,
+    687,
+    746,
+    700
+   ]
+  },
+  {
+   "text": "2 620",
+   "bbox": [
+    828,
+    687,
+    873,
+    700
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    687,
+    937,
+    703
+   ]
+  },
+  {
+   "text": "707",
+   "bbox": [
+    1008,
+    690,
+    1038,
+    703
+   ]
+  },
+  {
+   "text": "3 327",
+   "bbox": [
+    1106,
+    690,
+    1150,
+    703
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    91,
+    686,
+    302,
+    704
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    664,
+    741,
+    819,
+    758
+   ]
+  },
+  {
+   "text": "1 873 790 Ft",
+   "bbox": [
+    1031,
+    742,
+    1149,
+    762
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    772,
+    819,
+    793
+   ]
+  },
+  {
+   "text": "505 693 Ft",
+   "bbox": [
+    1044,
+    777,
+    1149,
+    797
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    618,
+    811,
+    819,
+    833
+   ]
+  },
+  {
+   "text": "2 389 483 Ft",
+   "bbox": [
+    1007,
+    812,
+    1149,
+    832
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 60997698-83409220-91103941",
+   "bbox": [
+    91,
+    876,
+    533,
+    895
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    435,
+    1647,
+    803,
+    1662
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY DISZKONT KFT.",
+  "uzlet_cim": "H-7675 Kaposvár, Györgyváradi utca 42.",
+  "adoszam": "25861572-4-36",
+  "datum": "2025.08.16.",
+  "ido": "15:20",
+  "nyugtaszam": "2344/97549",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 228 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "482"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "576"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "786"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "792"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "597"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1437"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1968"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "590"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY DISZKONT KFT.",
+   "bbox": [
+    161,
+    33,
+    413,
+    49
+   ]
+  },
+  {
+   "text": "H-7675 Kaposvár, Györgyváradi utca 42.",
+   "bbox": [
+    59,
+    66,
+    515,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 25861572-4-36",
+   "bbox": [
+    155,
+    91,
+    419,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    242,
+    137,
+    332,
+    154
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    181,
+    206,
+    196
+   ]
+  },
+  {
+   "text": "482 C00",
+   "bbox": [
+    460,
+    181,
+    551,
+    196
+   ]
+  },
+  {
+   "text": "3 DB x 192",
+   "bbox": [
+    24,
+    211,
+    134,
+    224
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    237,
+    206,
+    256
+   ]
+  },
+  {
+   "text": "576 C00",
+   "bbox": [
+    460,
+    237,
+    551,
+    252
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    268,
+    219,
+    283
+   ]
+  },
+  {
+   "text": "786 A00",
+   "bbox": [
+    460,
+    268,
+    551,
+    283
+   ]
+  },
+  {
+   "text": "3 DB x 264",
+   "bbox": [
+    24,
+    298,
+    134,
+    311
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    324,
+    193,
+    339
+   ]
+  },
+  {
+   "text": "792 B00",
+   "bbox": [
+    460,
+    324,
+    551,
+    339
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    355,
+    167,
+    370
+   ]
+  },
+  {
+   "text": "597 C00",
+   "bbox": [
+    460,
+    355,
+    551,
+    370
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    386,
+    154,
+    401
+   ]
+  },
+  {
+   "text": "1437 B00",
+   "bbox": [
+    447,
+    386,
+    551,
+    401
+   ]
+  },
+  {
+   "text": "2 DB x 984",
+   "bbox": [
+    24,
+    416,
+    134,
+    429
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    442,
+    193,
+    457
+   ]
+  },
+  {
+   "text": "1968 A00",
+   "bbox": [
+    447,
+    442,
+    551,
+    457
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    473,
+    206,
+    488
+   ]
+  },
+  {
+   "text": "590 B00",
+   "bbox": [
+    460,
+    473,
+    551,
+    488
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    512,
+    174,
+    534
+   ]
+  },
+  {
+   "text": "7 228 Ft",
+   "bbox": [
+    431,
+    517,
+    551,
+    534
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    552,
+    154,
+    572
+   ]
+  },
+  {
+   "text": "7 228 Ft",
+   "bbox": [
+    447,
+    557,
+    551,
+    572
+   ]
+  },
+  {
+   "text": "2025.08.16.",
+   "bbox": [
+    24,
+    602,
+    156,
+    615
+   ]
+  },
+  {
+   "text": "15:20",
+   "bbox": [
+    491,
+    602,
+    551,
+    615
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2344/97549",
+   "bbox": [
+    24,
+    629,
+    288,
+    648
+   ]
+  },
+  {
+   "text": "AP A94056525",
+   "bbox": [
+    24,
+    664,
+    168,
+    677
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    155,
+    702,
+    419,
+    721
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  575,
+  767
+ ]
+}

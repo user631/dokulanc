@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kovács Gábor",
+  "anyja_neve": "Bodnár Csaba",
+  "szuletesi_hely": "Drávamártonapáti",
+  "szuletesi_datum": "1975. 01. 17.",
+  "lakcim": "H-6066 Nagykanizsa, Béke utca 181.",
+  "telefon": "06 1 987 2643",
+  "email": "kovacs.gabor@citromail.hu",
+  "adoazonosito_jel": "8394624952",
+  "taj_szam": "833 950 411",
+  "kelt": "Mártonvég, 2024. 04. 23."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    378,
+    88,
+    861,
+    122
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    199,
+    324,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    253,
+    141,
+    268
+   ]
+  },
+  {
+   "text": "Kovács Gábor",
+   "bbox": [
+    432,
+    249,
+    573,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    306,
+    204,
+    325
+   ]
+  },
+  {
+   "text": "Bodnár Csaba",
+   "bbox": [
+    432,
+    306,
+    575,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    359,
+    229,
+    378
+   ]
+  },
+  {
+   "text": "Drávamártonapáti",
+   "bbox": [
+    432,
+    360,
+    620,
+    382
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    412,
+    219,
+    427
+   ]
+  },
+  {
+   "text": "1975. 01. 17.",
+   "bbox": [
+    432,
+    418,
+    555,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    465,
+    172,
+    480
+   ]
+  },
+  {
+   "text": "H-6066 Nagykanizsa, Béke utca 181.",
+   "bbox": [
+    432,
+    464,
+    805,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    518,
+    220,
+    533
+   ]
+  },
+  {
+   "text": "06 1 987 2643",
+   "bbox": [
+    432,
+    519,
+    578,
+    539
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    571,
+    204,
+    586
+   ]
+  },
+  {
+   "text": "kovacs.gabor@citromail.hu",
+   "bbox": [
+    432,
+    570,
+    708,
+    592
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    624,
+    254,
+    643
+   ]
+  },
+  {
+   "text": "8394624952",
+   "bbox": [
+    432,
+    623,
+    562,
+    643
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    677,
+    192,
+    692
+   ]
+  },
+  {
+   "text": "833 950 411",
+   "bbox": [
+    432,
+    678,
+    556,
+    698
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    757,
+    283,
+    779
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    801,
+    445,
+    820
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    846,
+    282,
+    861
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    891,
+    459,
+    910
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    994,
+    133,
+    1010
+   ]
+  },
+  {
+   "text": "Mártonvég, 2024. 04. 23.",
+   "bbox": [
+    178,
+    991,
+    436,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    936,
+    1043,
+    987,
+    1056
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

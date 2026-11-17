@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Mészáros Zsolt",
+  "email": "meszaros.zsolt@gmail.com",
+  "telefon": "06 1 346 3270",
+  "lakcim": "H-8942 Miskolc, József attila út 200.",
+  "szuletesi_datum": "1992. március 1.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Consulting Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "ceg": "Fodor Tech Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "JavaScript",
+   "csapatmunka",
+   "SAP",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Mészáros Zsolt",
+   "bbox": [
+    450,
+    108,
+    790,
+    143
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    512,
+    178,
+    727,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    161,
+    246
+   ]
+  },
+  {
+   "text": "meszaros.zsolt@gmail.com",
+   "bbox": [
+    330,
+    231,
+    595,
+    250
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    262,
+    173,
+    277
+   ]
+  },
+  {
+   "text": "06 1 346 3270",
+   "bbox": [
+    330,
+    262,
+    468,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    292,
+    171,
+    308
+   ]
+  },
+  {
+   "text": "H-8942 Miskolc, József attila út 200.",
+   "bbox": [
+    330,
+    293,
+    678,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    260,
+    339
+   ]
+  },
+  {
+   "text": "1992. március 1.",
+   "bbox": [
+    330,
+    324,
+    490,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    375,
+    328,
+    398
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    90,
+    426,
+    210,
+    441
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kovács Consulting Kft.",
+   "bbox": [
+    90,
+    449,
+    479,
+    470
+   ]
+  },
+  {
+   "text": "2016 – 2018",
+   "bbox": [
+    90,
+    492,
+    210,
+    507
+   ]
+  },
+  {
+   "text": "adatelemző – Fodor Tech Kft.",
+   "bbox": [
+    90,
+    515,
+    391,
+    532
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    566,
+    250,
+    591
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    619,
+    210,
+    634
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    643,
+    281,
+    663
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    669,
+    221,
+    688
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    710,
+    210,
+    725
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    733,
+    384,
+    754
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    760,
+    335,
+    779
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    809,
+    223,
+    834
+   ]
+  },
+  {
+   "text": "olasz (A2), német (B2)",
+   "bbox": [
+    90,
+    862,
+    305,
+    881
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    907,
+    220,
+    932
+   ]
+  },
+  {
+   "text": "Git, JavaScript, csapatmunka, SAP, Excel",
+   "bbox": [
+    90,
+    960,
+    490,
+    979
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Virág Erzsébet",
+  "email": "virag.erzsebet@gmail.com",
+  "telefon": "+36 20 956 8696",
+  "lakcim": "H-3866 Hídvárad, Mezőtapolcai utca 242.",
+  "szuletesi_datum": "1988.02.02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2011 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "C#",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    106,
+    220,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    107,
+    173
+   ]
+  },
+  {
+   "text": "virag.erzsebet@gmail.com",
+   "bbox": [
+    40,
+    181,
+    285,
+    202
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    216,
+    117,
+    233
+   ]
+  },
+  {
+   "text": "+36 20 956 8696",
+   "bbox": [
+    40,
+    242,
+    197,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    276,
+    115,
+    293
+   ]
+  },
+  {
+   "text": "H-3866 Hídvárad, Mezőtapolcai utca",
+   "bbox": [
+    40,
+    301,
+    375,
+    322
+   ]
+  },
+  {
+   "text": "242.",
+   "bbox": [
+    40,
+    327,
+    79,
+    343
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    361,
+    207,
+    378
+   ]
+  },
+  {
+   "text": "1988.02.02.",
+   "bbox": [
+    40,
+    387,
+    146,
+    403
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    446,
+    207,
+    472
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    492,
+    149,
+    514
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    522,
+    137,
+    543
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    575,
+    187,
+    601
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    621,
+    278,
+    643
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    651,
+    168,
+    672
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    681,
+    69,
+    697
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    710,
+    77,
+    726
+   ]
+  },
+  {
+   "text": "Virág Erzsébet",
+   "bbox": [
+    449,
+    116,
+    792,
+    163
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    188,
+    645,
+    209
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    253,
+    722,
+    279
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    306,
+    581,
+    323
+   ]
+  },
+  {
+   "text": "adatelemző – Fekete Consulting Kft.",
+   "bbox": [
+    450,
+    331,
+    883,
+    356
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    385,
+    634,
+    412
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    450,
+    439,
+    581,
+    456
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    464,
+    749,
+    489
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    492,
+    589,
+    515
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    536,
+    581,
+    553
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    561,
+    792,
+    586
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    588,
+    707,
+    612
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

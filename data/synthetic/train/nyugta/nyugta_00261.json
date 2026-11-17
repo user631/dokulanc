@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "LAKATOS KISBOLT BT.",
+  "uzlet_cim": "H-6913 Hídvár, Petőfi sándor utca 151.",
+  "adoszam": "63936836-4-44",
+  "datum": "2024.02.14.",
+  "ido": "09:32",
+  "nyugtaszam": "5659/97233",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 505 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5240"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1444"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1124"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "697"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS KISBOLT BT.",
+   "bbox": [
+    179,
+    36,
+    426,
+    49
+   ]
+  },
+  {
+   "text": "H-6913 Hídvár, Petőfi sándor utca 151.",
+   "bbox": [
+    94,
+    65,
+    512,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 63936836-4-44",
+   "bbox": [
+    182,
+    87,
+    424,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    130,
+    346,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 2620",
+   "bbox": [
+    24,
+    170,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    192,
+    252,
+    205
+   ]
+  },
+  {
+   "text": "5240 C00",
+   "bbox": [
+    487,
+    192,
+    583,
+    205
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    221,
+    144,
+    233
+   ]
+  },
+  {
+   "text": "1444 A00",
+   "bbox": [
+    487,
+    220,
+    583,
+    233
+   ]
+  },
+  {
+   "text": "2 DB x 562",
+   "bbox": [
+    24,
+    248,
+    124,
+    259
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    270,
+    156,
+    283
+   ]
+  },
+  {
+   "text": "1124 C00",
+   "bbox": [
+    487,
+    270,
+    583,
+    283
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    298,
+    132,
+    311
+   ]
+  },
+  {
+   "text": "697 C00",
+   "bbox": [
+    499,
+    298,
+    583,
+    311
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    336,
+    150,
+    354
+   ]
+  },
+  {
+   "text": "8 505 Ft",
+   "bbox": [
+    471,
+    339,
+    584,
+    354
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    373,
+    120,
+    389
+   ]
+  },
+  {
+   "text": "8 505 Ft",
+   "bbox": [
+    487,
+    376,
+    583,
+    389
+   ]
+  },
+  {
+   "text": "2024.02.14.",
+   "bbox": [
+    24,
+    418,
+    145,
+    429
+   ]
+  },
+  {
+   "text": "09:32",
+   "bbox": [
+    528,
+    418,
+    583,
+    429
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5659/97233",
+   "bbox": [
+    24,
+    443,
+    266,
+    458
+   ]
+  },
+  {
+   "text": "AP A50974592",
+   "bbox": [
+    24,
+    474,
+    156,
+    485
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    219,
+    511,
+    385,
+    526
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  607,
+  570
+ ]
+}

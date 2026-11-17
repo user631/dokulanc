@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Kovács Tech Bt.",
+  "felado_cim": "H-7966 Tapolcavárad, Béke utca 237.",
+  "cimzett": "Antal Gergely",
+  "cimzett_cim": "H-2033 Mindszentberény, Arany jános utca 95.",
+  "datum": "2026. július 3.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "REF-2026/28496",
+  "hatarido": "2026. július 24",
+  "teendo": "a SZ-2026/05684 számú számla 350 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Papp Zsolt"
+ },
+ "lines": [
+  {
+   "text": "Kovács Tech Bt.",
+   "bbox": [
+    120,
+    100,
+    334,
+    122
+   ]
+  },
+  {
+   "text": "H-7966 Tapolcavárad, Béke utca 237.",
+   "bbox": [
+    120,
+    136,
+    428,
+    154
+   ]
+  },
+  {
+   "text": "Tel.: 06 1 592 9258   E-mail: info@kovacs.hu",
+   "bbox": [
+    120,
+    159,
+    484,
+    175
+   ]
+  },
+  {
+   "text": "Antal Gergely",
+   "bbox": [
+    120,
+    243,
+    267,
+    265
+   ]
+  },
+  {
+   "text": "H-2033 Mindszentberény",
+   "bbox": [
+    120,
+    273,
+    377,
+    296
+   ]
+  },
+  {
+   "text": "Arany jános utca 95.",
+   "bbox": [
+    120,
+    302,
+    324,
+    325
+   ]
+  },
+  {
+   "text": "Hátdevecser, 2026. július 3.",
+   "bbox": [
+    847,
+    371,
+    1120,
+    394
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    120,
+    425,
+    386,
+    447
+   ]
+  },
+  {
+   "text": "Ügyszám: REF-2026/28496",
+   "bbox": [
+    120,
+    455,
+    387,
+    480
+   ]
+  },
+  {
+   "text": "Tisztelt Ügyfelünk!",
+   "bbox": [
+    120,
+    518,
+    308,
+    543
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2026/05684 számú, 2026. május 19. kelt számla 350 000 Ft összegű",
+   "bbox": [
+    120,
+    569,
+    1116,
+    592
+   ]
+  },
+  {
+   "text": "ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    120,
+    602,
+    674,
+    625
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2026. július 24 napjáig szíveskedjen átutalni a",
+   "bbox": [
+    120,
+    649,
+    989,
+    672
+   ]
+  },
+  {
+   "text": "88689751-24685679-44456831 számú bankszámlánkra.",
+   "bbox": [
+    120,
+    682,
+    672,
+    700
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    120,
+    729,
+    950,
+    752
+   ]
+  },
+  {
+   "text": "Tisztelettel:",
+   "bbox": [
+    120,
+    807,
+    235,
+    824
+   ]
+  },
+  {
+   "text": "Papp Zsolt",
+   "bbox": [
+    160,
+    900,
+    274,
+    922
+   ]
+  },
+  {
+   "text": "pénzügyi vezető",
+   "bbox": [
+    160,
+    928,
+    311,
+    949
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

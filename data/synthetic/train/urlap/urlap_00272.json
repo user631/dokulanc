@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Szabó Judit",
+  "anyja_neve": "Pataki Melinda",
+  "szuletesi_hely": "Kiskeresztkövesd",
+  "szuletesi_datum": "1967.11.29.",
+  "lakcim": "H-2722 Mosonmagyaróvár, Váctamásii utca 32.",
+  "telefon": "+36 70 909 1199",
+  "email": "szabo.judit@gmail.com",
+  "adoazonosito_jel": "8368567439",
+  "taj_szam": "430 023 172",
+  "kelt": "Tótfa, 2025.06.08."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    354,
+    86,
+    887,
+    119
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    85,
+    193,
+    298,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    97,
+    247,
+    135,
+    262
+   ]
+  },
+  {
+   "text": "Szabó Judit",
+   "bbox": [
+    412,
+    248,
+    525,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    97,
+    300,
+    196,
+    318
+   ]
+  },
+  {
+   "text": "Pataki Melinda",
+   "bbox": [
+    412,
+    301,
+    557,
+    318
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    97,
+    351,
+    220,
+    370
+   ]
+  },
+  {
+   "text": "Kiskeresztkövesd",
+   "bbox": [
+    412,
+    352,
+    579,
+    369
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    97,
+    403,
+    211,
+    418
+   ]
+  },
+  {
+   "text": "1967.11.29.",
+   "bbox": [
+    412,
+    402,
+    532,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    97,
+    455,
+    164,
+    470
+   ]
+  },
+  {
+   "text": "H-2722 Mosonmagyaróvár, Váctamásii utca 32.",
+   "bbox": [
+    412,
+    454,
+    880,
+    477
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    97,
+    507,
+    211,
+    522
+   ]
+  },
+  {
+   "text": "+36 70 909 1199",
+   "bbox": [
+    412,
+    504,
+    577,
+    520
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    97,
+    559,
+    194,
+    574
+   ]
+  },
+  {
+   "text": "szabo.judit@gmail.com",
+   "bbox": [
+    412,
+    557,
+    641,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    97,
+    611,
+    245,
+    630
+   ]
+  },
+  {
+   "text": "8368567439",
+   "bbox": [
+    412,
+    610,
+    532,
+    626
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    97,
+    663,
+    184,
+    678
+   ]
+  },
+  {
+   "text": "430 023 172",
+   "bbox": [
+    412,
+    660,
+    534,
+    676
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    85,
+    741,
+    255,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    130,
+    785,
+    431,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    130,
+    830,
+    273,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    130,
+    875,
+    448,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    85,
+    978,
+    129,
+    993
+   ]
+  },
+  {
+   "text": "Tótfa, 2025.06.08.",
+   "bbox": [
+    175,
+    973,
+    364,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1027,
+    988,
+    1040
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

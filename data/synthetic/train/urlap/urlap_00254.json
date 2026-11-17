@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Jakab Éva",
+  "anyja_neve": "Balázs József",
+  "szuletesi_hely": "Tiszafürdőnémeti",
+  "szuletesi_datum": "1973. 03. 02.",
+  "lakcim": "H-5718 Györgyvára, Mátratamásii utca 78.",
+  "telefon": "+36 20 170 9321",
+  "email": "jakab.eva@example.hu",
+  "adoazonosito_jel": "8387765988",
+  "taj_szam": "465 263 758",
+  "kelt": "Györgyháza, 2026. 06. 26."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    501,
+    99,
+    738,
+    136
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    208,
+    326,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    262,
+    150,
+    277
+   ]
+  },
+  {
+   "text": "Jakab Éva",
+   "bbox": [
+    398,
+    254,
+    512,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    315,
+    210,
+    333
+   ]
+  },
+  {
+   "text": "Balázs József",
+   "bbox": [
+    398,
+    309,
+    549,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    366,
+    230,
+    385
+   ]
+  },
+  {
+   "text": "Tiszafürdőnémeti",
+   "bbox": [
+    398,
+    363,
+    587,
+    385
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    418,
+    221,
+    433
+   ]
+  },
+  {
+   "text": "1973. 03. 02.",
+   "bbox": [
+    399,
+    417,
+    545,
+    438
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    470,
+    175,
+    485
+   ]
+  },
+  {
+   "text": "H-5718 Györgyvára, Mátratamásii utca 78.",
+   "bbox": [
+    398,
+    465,
+    861,
+    495
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    522,
+    222,
+    537
+   ]
+  },
+  {
+   "text": "+36 20 170 9321",
+   "bbox": [
+    399,
+    519,
+    591,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    574,
+    205,
+    589
+   ]
+  },
+  {
+   "text": "jakab.eva@example.hu",
+   "bbox": [
+    397,
+    571,
+    633,
+    594
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    626,
+    252,
+    645
+   ]
+  },
+  {
+   "text": "8387765988",
+   "bbox": [
+    399,
+    624,
+    555,
+    645
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    678,
+    196,
+    693
+   ]
+  },
+  {
+   "text": "465 263 758",
+   "bbox": [
+    399,
+    678,
+    551,
+    699
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    757,
+    281,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    800,
+    432,
+    819
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    845,
+    278,
+    860
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    890,
+    452,
+    909
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    993,
+    141,
+    1009
+   ]
+  },
+  {
+   "text": "Györgyháza, 2026. 06. 26.",
+   "bbox": [
+    189,
+    989,
+    448,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1042,
+    973,
+    1055
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

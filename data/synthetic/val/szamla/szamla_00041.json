@@ -1,0 +1,626 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2025/01383",
+  "kiallitas_datuma": "2025. július 20.",
+  "teljesites_datuma": "2025. július 17.",
+  "fizetesi_hatarido": "2025. július 11.",
+  "elado_nev": "Szabó Logisztika Kft.",
+  "elado_cim": "H-7034 Debrecen, Ceglédi utca 45.",
+  "elado_adoszam": "13820774-2-03",
+  "vevo_nev": "Fülöp és Társa Kft.",
+  "vevo_cim": "H-9678 Cegléd, Dózsa györgy utca 89.",
+  "vevo_adoszam": "47257953-2-26",
+  "bankszamla": "19548746-37090567-32293772",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "3 073 760 Ft",
+  "afa_osszesen": "827 828 Ft",
+  "brutto_osszesen": "3 901 588 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "10 karton",
+    "egysegar": "2 320",
+    "netto": "23 200",
+    "afa_kulcs": "18%",
+    "afa": "4 176",
+    "brutto": "27 376"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "3 180",
+    "netto": "3 180",
+    "afa_kulcs": "27%",
+    "afa": "859",
+    "brutto": "4 039"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "10 hó",
+    "egysegar": "142 150",
+    "netto": "1 421 500",
+    "afa_kulcs": "27%",
+    "afa": "383 805",
+    "brutto": "1 805 305"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "135 490",
+    "netto": "1 625 880",
+    "afa_kulcs": "27%",
+    "afa": "438 988",
+    "brutto": "2 064 868"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    128,
+    125,
+    217,
+    147
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    704,
+    104,
+    1147,
+    152
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/01383",
+   "bbox": [
+    846,
+    167,
+    1147,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    93,
+    247,
+    177,
+    266
+   ]
+  },
+  {
+   "text": "Szabó Logisztika Kft.",
+   "bbox": [
+    93,
+    284,
+    361,
+    308
+   ]
+  },
+  {
+   "text": "H-7034 Debrecen, Ceglédi utca 45.",
+   "bbox": [
+    93,
+    320,
+    449,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 13820774-2-03",
+   "bbox": [
+    92,
+    351,
+    357,
+    372
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    247,
+    702,
+    266
+   ]
+  },
+  {
+   "text": "Fülöp és Társa Kft.",
+   "bbox": [
+    630,
+    284,
+    871,
+    308
+   ]
+  },
+  {
+   "text": "H-9678 Cegléd, Dózsa györgy utca 89.",
+   "bbox": [
+    630,
+    320,
+    1019,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 47257953-2-26",
+   "bbox": [
+    629,
+    351,
+    892,
+    372
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    93,
+    419,
+    263,
+    434
+   ]
+  },
+  {
+   "text": "2025. július 20.",
+   "bbox": [
+    93,
+    448,
+    245,
+    470
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    356,
+    419,
+    536,
+    438
+   ]
+  },
+  {
+   "text": "2025. július 17.",
+   "bbox": [
+    356,
+    448,
+    502,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    419,
+    791,
+    434
+   ]
+  },
+  {
+   "text": "2025. július 11.",
+   "bbox": [
+    619,
+    448,
+    763,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    882,
+    419,
+    1012,
+    434
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    882,
+    448,
+    960,
+    465
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    93,
+    499,
+    215,
+    518
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    500,
+    591,
+    518
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    499,
+    747,
+    518
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    499,
+    872,
+    514
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    874,
+    495,
+    936,
+    514
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    495,
+    1037,
+    514
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1079,
+    499,
+    1147,
+    514
+   ]
+  },
+  {
+   "text": "10 karton",
+   "bbox": [
+    514,
+    541,
+    599,
+    556
+   ]
+  },
+  {
+   "text": "2 320",
+   "bbox": [
+    696,
+    545,
+    746,
+    560
+   ]
+  },
+  {
+   "text": "23 200",
+   "bbox": [
+    810,
+    545,
+    872,
+    560
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    899,
+    542,
+    936,
+    556
+   ]
+  },
+  {
+   "text": "4 176",
+   "bbox": [
+    990,
+    542,
+    1036,
+    560
+   ]
+  },
+  {
+   "text": "27 376",
+   "bbox": [
+    1089,
+    542,
+    1147,
+    560
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    92,
+    537,
+    223,
+    560
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    577,
+    600,
+    592
+   ]
+  },
+  {
+   "text": "3 180",
+   "bbox": [
+    697,
+    578,
+    746,
+    596
+   ]
+  },
+  {
+   "text": "3 180",
+   "bbox": [
+    823,
+    578,
+    872,
+    596
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    578,
+    936,
+    596
+   ]
+  },
+  {
+   "text": "859",
+   "bbox": [
+    1002,
+    578,
+    1036,
+    596
+   ]
+  },
+  {
+   "text": "4 039",
+   "bbox": [
+    1097,
+    581,
+    1147,
+    596
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    93,
+    577,
+    201,
+    596
+   ]
+  },
+  {
+   "text": "10 hó",
+   "bbox": [
+    514,
+    613,
+    563,
+    628
+   ]
+  },
+  {
+   "text": "142 150",
+   "bbox": [
+    678,
+    617,
+    746,
+    632
+   ]
+  },
+  {
+   "text": "1 421 500",
+   "bbox": [
+    787,
+    617,
+    872,
+    632
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    614,
+    936,
+    632
+   ]
+  },
+  {
+   "text": "383 805",
+   "bbox": [
+    962,
+    614,
+    1036,
+    632
+   ]
+  },
+  {
+   "text": "1 805 305",
+   "bbox": [
+    1059,
+    614,
+    1147,
+    632
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    93,
+    613,
+    350,
+    632
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    514,
+    649,
+    611,
+    664
+   ]
+  },
+  {
+   "text": "135 490",
+   "bbox": [
+    676,
+    653,
+    746,
+    668
+   ]
+  },
+  {
+   "text": "1 625 880",
+   "bbox": [
+    784,
+    650,
+    872,
+    668
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    650,
+    936,
+    668
+   ]
+  },
+  {
+   "text": "438 988",
+   "bbox": [
+    962,
+    650,
+    1036,
+    668
+   ]
+  },
+  {
+   "text": "2 064 868",
+   "bbox": [
+    1057,
+    650,
+    1147,
+    668
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    93,
+    649,
+    285,
+    668
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    652,
+    706,
+    817,
+    724
+   ]
+  },
+  {
+   "text": "3 073 760 Ft",
+   "bbox": [
+    1013,
+    707,
+    1147,
+    728
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    664,
+    739,
+    817,
+    761
+   ]
+  },
+  {
+   "text": "827 828 Ft",
+   "bbox": [
+    1033,
+    744,
+    1147,
+    765
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    599,
+    780,
+    817,
+    803
+   ]
+  },
+  {
+   "text": "3 901 588 Ft",
+   "bbox": [
+    997,
+    781,
+    1147,
+    802
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 19548746-37090567-32293772",
+   "bbox": [
+    93,
+    846,
+    573,
+    867
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    480,
+    1643,
+    759,
+    1661
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

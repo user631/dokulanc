@@ -1,0 +1,458 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOZMA MARKET BT.",
+  "uzlet_cim": "H-6824 Melléknémeti, Békéscsabai utca 65.",
+  "adoszam": "14617173-4-39",
+  "datum": "2024.08.01.",
+  "ido": "14:10",
+  "nyugtaszam": "7661/94980",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "18 675 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "418"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "764"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "383"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1212"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "711"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2577"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "180"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1178"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "6702"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "441"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2955"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1154"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOZMA MARKET BT.",
+   "bbox": [
+    182,
+    33,
+    374,
+    47
+   ]
+  },
+  {
+   "text": "H-6824 Melléknémeti, Békéscsabai utca 65.",
+   "bbox": [
+    73,
+    63,
+    483,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 14617173-4-39",
+   "bbox": [
+    168,
+    86,
+    388,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    239,
+    127,
+    318,
+    142
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    168,
+    178,
+    181
+   ]
+  },
+  {
+   "text": "418 A00",
+   "bbox": [
+    456,
+    168,
+    533,
+    181
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    196,
+    123,
+    209
+   ]
+  },
+  {
+   "text": "764 B00",
+   "bbox": [
+    456,
+    196,
+    533,
+    209
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    224,
+    178,
+    237
+   ]
+  },
+  {
+   "text": "383 B00",
+   "bbox": [
+    456,
+    224,
+    533,
+    237
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    252,
+    134,
+    265
+   ]
+  },
+  {
+   "text": "1212 B00",
+   "bbox": [
+    445,
+    252,
+    533,
+    265
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    280,
+    112,
+    293
+   ]
+  },
+  {
+   "text": "711 A00",
+   "bbox": [
+    456,
+    280,
+    533,
+    293
+   ]
+  },
+  {
+   "text": "3 DB x 859",
+   "bbox": [
+    24,
+    308,
+    114,
+    319
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    330,
+    189,
+    343
+   ]
+  },
+  {
+   "text": "2577 B00",
+   "bbox": [
+    445,
+    330,
+    533,
+    343
+   ]
+  },
+  {
+   "text": "3 DB x 60",
+   "bbox": [
+    24,
+    358,
+    105,
+    369
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    380,
+    90,
+    393
+   ]
+  },
+  {
+   "text": "180 A00",
+   "bbox": [
+    456,
+    380,
+    533,
+    393
+   ]
+  },
+  {
+   "text": "2 DB x 589",
+   "bbox": [
+    24,
+    408,
+    114,
+    419
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    430,
+    178,
+    443
+   ]
+  },
+  {
+   "text": "1178 B00",
+   "bbox": [
+    445,
+    430,
+    533,
+    443
+   ]
+  },
+  {
+   "text": "3 DB x 2234",
+   "bbox": [
+    24,
+    458,
+    123,
+    469
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    480,
+    123,
+    493
+   ]
+  },
+  {
+   "text": "6702 A00",
+   "bbox": [
+    445,
+    480,
+    533,
+    493
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    507,
+    145,
+    524
+   ]
+  },
+  {
+   "text": "441 B00",
+   "bbox": [
+    456,
+    508,
+    533,
+    521
+   ]
+  },
+  {
+   "text": "3 DB x 985",
+   "bbox": [
+    24,
+    536,
+    114,
+    547
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    558,
+    167,
+    571
+   ]
+  },
+  {
+   "text": "2955 C00",
+   "bbox": [
+    445,
+    558,
+    533,
+    571
+   ]
+  },
+  {
+   "text": "2 DB x 577",
+   "bbox": [
+    24,
+    586,
+    114,
+    597
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    608,
+    123,
+    621
+   ]
+  },
+  {
+   "text": "1154 A00",
+   "bbox": [
+    445,
+    608,
+    533,
+    621
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    644,
+    154,
+    664
+   ]
+  },
+  {
+   "text": "18 675 Ft",
+   "bbox": [
+    416,
+    648,
+    533,
+    664
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    682,
+    134,
+    699
+   ]
+  },
+  {
+   "text": "18 675 Ft",
+   "bbox": [
+    434,
+    686,
+    533,
+    699
+   ]
+  },
+  {
+   "text": "2024.08.01.",
+   "bbox": [
+    24,
+    729,
+    134,
+    740
+   ]
+  },
+  {
+   "text": "14:10",
+   "bbox": [
+    483,
+    729,
+    533,
+    740
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7661/94980",
+   "bbox": [
+    24,
+    754,
+    244,
+    770
+   ]
+  },
+  {
+   "text": "AP A35018247",
+   "bbox": [
+    24,
+    785,
+    144,
+    796
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    228,
+    821,
+    328,
+    837
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  557,
+  882
+ ]
+}

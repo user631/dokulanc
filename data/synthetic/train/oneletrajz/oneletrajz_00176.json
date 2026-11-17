@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Sándor Ilona",
+  "email": "sandor.ilona@citromail.hu",
+  "telefon": "+36 70 785 2781",
+  "lakcim": "H-4057 Pilishátnémeti, Kossuth utca 223.",
+  "szuletesi_datum": "1987. 12. 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Nagy Logisztika Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "ceg": "Márton Szolgáltató Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2010 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Python",
+   "C#",
+   "csapatmunka",
+   "Docker",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Sándor Ilona",
+   "bbox": [
+    457,
+    111,
+    783,
+    149
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    523,
+    179,
+    717,
+    197
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    167,
+    244
+   ]
+  },
+  {
+   "text": "sandor.ilona@citromail.hu",
+   "bbox": [
+    330,
+    229,
+    578,
+    246
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    179,
+    273
+   ]
+  },
+  {
+   "text": "+36 70 785 2781",
+   "bbox": [
+    330,
+    259,
+    499,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    174,
+    302
+   ]
+  },
+  {
+   "text": "H-4057 Pilishátnémeti, Kossuth utca 223.",
+   "bbox": [
+    330,
+    287,
+    725,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    273,
+    331
+   ]
+  },
+  {
+   "text": "1987. 12. 11.",
+   "bbox": [
+    330,
+    317,
+    461,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    366,
+    347,
+    389
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    415,
+    212,
+    429
+   ]
+  },
+  {
+   "text": "irodavezető – Varga és Társa Kft.",
+   "bbox": [
+    90,
+    436,
+    462,
+    457
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    477,
+    212,
+    491
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Logisztika Kft.",
+   "bbox": [
+    90,
+    498,
+    529,
+    519
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    90,
+    539,
+    212,
+    553
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Márton Szolgáltató Bt.",
+   "bbox": [
+    90,
+    560,
+    604,
+    581
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    611,
+    263,
+    634
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    90,
+    660,
+    212,
+    674
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    681,
+    667,
+    702
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    705,
+    323,
+    720
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    745,
+    212,
+    759
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    766,
+    429,
+    787
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    790,
+    275,
+    809
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    840,
+    233,
+    863
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    888,
+    192,
+    907
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    934,
+    227,
+    957
+   ]
+  },
+  {
+   "text": "SQL, Python, C#, csapatmunka, Docker, projektmenedzsment",
+   "bbox": [
+    90,
+    982,
+    686,
+    1001
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

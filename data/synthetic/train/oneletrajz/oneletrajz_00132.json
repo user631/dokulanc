@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balázs Vivien",
+  "email": "balazs.vivien@citromail.hu",
+  "telefon": "+36 70 714 8046",
+  "lakcim": "H-1397 Magyarkeresztkőrös, Kunkereszti utca 136.",
+  "szuletesi_datum": "1986.01.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "SQL",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    241,
+    134
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    158,
+    114,
+    175
+   ]
+  },
+  {
+   "text": "balazs.vivien@citromail.hu",
+   "bbox": [
+    40,
+    183,
+    324,
+    202
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    218,
+    127,
+    235
+   ]
+  },
+  {
+   "text": "+36 70 714 8046",
+   "bbox": [
+    40,
+    244,
+    221,
+    260
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    278,
+    122,
+    295
+   ]
+  },
+  {
+   "text": "H-1397 Magyarkeresztkőrös,",
+   "bbox": [
+    40,
+    303,
+    346,
+    324
+   ]
+  },
+  {
+   "text": "Kunkereszti utca 136.",
+   "bbox": [
+    40,
+    328,
+    270,
+    345
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    363,
+    230,
+    380
+   ]
+  },
+  {
+   "text": "1986.01.09.",
+   "bbox": [
+    40,
+    389,
+    168,
+    405
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    448,
+    226,
+    474
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    495,
+    171,
+    516
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    524,
+    152,
+    545
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    577,
+    203,
+    603
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    624,
+    117,
+    641
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    654,
+    85,
+    674
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    683,
+    153,
+    703
+   ]
+  },
+  {
+   "text": "Balázs Vivien",
+   "bbox": [
+    450,
+    118,
+    799,
+    157
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    190,
+    676,
+    211
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    255,
+    754,
+    281
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    308,
+    601,
+    325
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Farkas Logisztika Kft.",
+   "bbox": [
+    450,
+    333,
+    1055,
+    358
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    387,
+    654,
+    414
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    450,
+    441,
+    601,
+    458
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    466,
+    1143,
+    491
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    493,
+    736,
+    512
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    538,
+    601,
+    555
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    563,
+    855,
+    588
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    590,
+    751,
+    614
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

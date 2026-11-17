@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-4542 Pusztadevecser, Lajosgyörgyi utca 139.",
+  "adoszam": "70720956-2-17",
+  "datum": "2025.08.31.",
+  "ido": "11:11",
+  "nyugtaszam": "9265/88872",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 812 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "237"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2300"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1183"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "130"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2090"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1272"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2625"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "390"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1114"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "471"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    170,
+    36,
+    396,
+    51
+   ]
+  },
+  {
+   "text": "H-4542 Pusztadevecser, Lajosgyörgyi utca",
+   "bbox": [
+    24,
+    70,
+    544,
+    87
+   ]
+  },
+  {
+   "text": "139.",
+   "bbox": [
+    258,
+    97,
+    310,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 70720956-2-17",
+   "bbox": [
+    141,
+    121,
+    427,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    235,
+    167,
+    333,
+    183
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    211,
+    220,
+    228
+   ]
+  },
+  {
+   "text": "237 C00",
+   "bbox": [
+    446,
+    211,
+    544,
+    225
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    242,
+    290,
+    256
+   ]
+  },
+  {
+   "text": "2300 C00",
+   "bbox": [
+    432,
+    242,
+    544,
+    256
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    273,
+    234,
+    287
+   ]
+  },
+  {
+   "text": "1183 A00",
+   "bbox": [
+    432,
+    273,
+    544,
+    287
+   ]
+  },
+  {
+   "text": "2 DB x 65",
+   "bbox": [
+    24,
+    302,
+    132,
+    315
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    330,
+    108,
+    343
+   ]
+  },
+  {
+   "text": "130 A00",
+   "bbox": [
+    446,
+    329,
+    544,
+    343
+   ]
+  },
+  {
+   "text": "2 DB x 1045",
+   "bbox": [
+    24,
+    358,
+    156,
+    371
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    385,
+    136,
+    399
+   ]
+  },
+  {
+   "text": "2090 A00",
+   "bbox": [
+    432,
+    385,
+    544,
+    399
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    416,
+    192,
+    430
+   ]
+  },
+  {
+   "text": "1272 A00",
+   "bbox": [
+    432,
+    416,
+    544,
+    430
+   ]
+  },
+  {
+   "text": "3 DB x 875",
+   "bbox": [
+    24,
+    445,
+    144,
+    458
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    472,
+    136,
+    486
+   ]
+  },
+  {
+   "text": "2625 B00",
+   "bbox": [
+    432,
+    472,
+    544,
+    486
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    503,
+    220,
+    517
+   ]
+  },
+  {
+   "text": "390 A00",
+   "bbox": [
+    446,
+    503,
+    544,
+    517
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    535,
+    206,
+    548
+   ]
+  },
+  {
+   "text": "1114 A00",
+   "bbox": [
+    432,
+    534,
+    544,
+    548
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    565,
+    178,
+    579
+   ]
+  },
+  {
+   "text": "471 B00",
+   "bbox": [
+    446,
+    565,
+    544,
+    579
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    603,
+    184,
+    625
+   ]
+  },
+  {
+   "text": "11 812 Ft",
+   "bbox": [
+    400,
+    608,
+    544,
+    625
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    646,
+    164,
+    663
+   ]
+  },
+  {
+   "text": "11 812 Ft",
+   "bbox": [
+    418,
+    649,
+    544,
+    663
+   ]
+  },
+  {
+   "text": "2025.08.31.",
+   "bbox": [
+    24,
+    693,
+    167,
+    706
+   ]
+  },
+  {
+   "text": "11:11",
+   "bbox": [
+    479,
+    693,
+    544,
+    706
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9265/88872",
+   "bbox": [
+    24,
+    721,
+    310,
+    739
+   ]
+  },
+  {
+   "text": "AP A61548449",
+   "bbox": [
+    24,
+    755,
+    180,
+    768
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    219,
+    796,
+    349,
+    812
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  568,
+  856
+ ]
+}

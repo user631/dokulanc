@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-8220 Magyarmártonberény, Györgyhalasi utca 82.",
+  "adoszam": "53775977-2-25",
+  "datum": "2025.08.25.",
+  "ido": "19:40",
+  "nyugtaszam": "0713/61923",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 217 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "648"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "569"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ÉLELMISZER KFT.",
+   "bbox": [
+    155,
+    31,
+    441,
+    48
+   ]
+  },
+  {
+   "text": "H-8220 Magyarmártonberény, Györgyhalasi utca 82.",
+   "bbox": [
+    34,
+    63,
+    562,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53775977-2-25",
+   "bbox": [
+    177,
+    87,
+    419,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    128,
+    341,
+    143
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    168,
+    132,
+    182
+   ]
+  },
+  {
+   "text": "648 A00",
+   "bbox": [
+    489,
+    168,
+    573,
+    182
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    196,
+    120,
+    210
+   ]
+  },
+  {
+   "text": "569 B00",
+   "bbox": [
+    489,
+    196,
+    573,
+    210
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    234,
+    164,
+    253
+   ]
+  },
+  {
+   "text": "1 217 Ft",
+   "bbox": [
+    461,
+    236,
+    573,
+    253
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    272,
+    156,
+    288
+   ]
+  },
+  {
+   "text": "1 217 Ft",
+   "bbox": [
+    477,
+    274,
+    573,
+    288
+   ]
+  },
+  {
+   "text": "2025.08.25.",
+   "bbox": [
+    24,
+    316,
+    145,
+    329
+   ]
+  },
+  {
+   "text": "19:40",
+   "bbox": [
+    518,
+    316,
+    573,
+    329
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0713/61923",
+   "bbox": [
+    24,
+    343,
+    266,
+    360
+   ]
+  },
+  {
+   "text": "AP A46125500",
+   "bbox": [
+    24,
+    372,
+    156,
+    385
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    177,
+    410,
+    419,
+    425
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  597,
+  470
+ ]
+}

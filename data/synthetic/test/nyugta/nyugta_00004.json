@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BALÁZS KISBOLT KFT.",
+  "uzlet_cim": "H-9885 Fürdőharaszti, Nagygyörgyi utca 241.",
+  "adoszam": "47150894-5-05",
+  "datum": "2026.08.18.",
+  "ido": "17:56",
+  "nyugtaszam": "4680/22149",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 934 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2150"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1237"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "731"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "520"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1047"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "249"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALÁZS KISBOLT KFT.",
+   "bbox": [
+    190,
+    28,
+    418,
+    47
+   ]
+  },
+  {
+   "text": "H-9885 Fürdőharaszti, Nagygyörgyi utca 241.",
+   "bbox": [
+    89,
+    63,
+    519,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 47150894-5-05",
+   "bbox": [
+    194,
+    86,
+    414,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    127,
+    344,
+    142
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "2150 C00",
+   "bbox": [
+    496,
+    168,
+    584,
+    181
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    196,
+    134,
+    209
+   ]
+  },
+  {
+   "text": "1237 A00",
+   "bbox": [
+    496,
+    196,
+    584,
+    209
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    224,
+    189,
+    237
+   ]
+  },
+  {
+   "text": "731 C00",
+   "bbox": [
+    507,
+    224,
+    584,
+    237
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    252,
+    123,
+    265
+   ]
+  },
+  {
+   "text": "520 C00",
+   "bbox": [
+    507,
+    252,
+    584,
+    265
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    280,
+    167,
+    293
+   ]
+  },
+  {
+   "text": "1047 B00",
+   "bbox": [
+    496,
+    280,
+    584,
+    293
+   ]
+  },
+  {
+   "text": "3 DB x 83",
+   "bbox": [
+    24,
+    308,
+    105,
+    319
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    330,
+    90,
+    343
+   ]
+  },
+  {
+   "text": "249 A00",
+   "bbox": [
+    507,
+    330,
+    584,
+    343
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    367,
+    141,
+    386
+   ]
+  },
+  {
+   "text": "5 934 Ft",
+   "bbox": [
+    480,
+    370,
+    584,
+    386
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    404,
+    134,
+    421
+   ]
+  },
+  {
+   "text": "5 934 Ft",
+   "bbox": [
+    496,
+    408,
+    584,
+    421
+   ]
+  },
+  {
+   "text": "2026.08.18.",
+   "bbox": [
+    24,
+    451,
+    134,
+    462
+   ]
+  },
+  {
+   "text": "17:56",
+   "bbox": [
+    534,
+    451,
+    584,
+    462
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4680/22149",
+   "bbox": [
+    24,
+    476,
+    244,
+    492
+   ]
+  },
+  {
+   "text": "AP A23151862",
+   "bbox": [
+    24,
+    507,
+    144,
+    518
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    194,
+    543,
+    414,
+    559
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  608,
+  604
+ ]
+}

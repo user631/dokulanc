@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MÉSZÁROS MARKET KFT.",
+  "uzlet_cim": "H-1985 Pusztatamásinádasd, Magyarszéki utca 84.",
+  "adoszam": "87321951-5-38",
+  "datum": "2024.03.30.",
+  "ido": "15:39",
+  "nyugtaszam": "9831/35531",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 396 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "546"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "850"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÉSZÁROS MARKET KFT.",
+   "bbox": [
+    142,
+    28,
+    402,
+    48
+   ]
+  },
+  {
+   "text": "H-1985 Pusztatamásinádasd, Magyarszéki utca 84.",
+   "bbox": [
+    37,
+    65,
+    507,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 87321951-5-38",
+   "bbox": [
+    162,
+    88,
+    382,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    230,
+    130,
+    314,
+    146
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    173,
+    132,
+    186
+   ]
+  },
+  {
+   "text": "546 A00",
+   "bbox": [
+    437,
+    173,
+    521,
+    186
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    202,
+    120,
+    215
+   ]
+  },
+  {
+   "text": "850 C00",
+   "bbox": [
+    437,
+    202,
+    521,
+    215
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    239,
+    150,
+    259
+   ]
+  },
+  {
+   "text": "1 396 Ft",
+   "bbox": [
+    409,
+    243,
+    521,
+    259
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    278,
+    144,
+    295
+   ]
+  },
+  {
+   "text": "1 396 Ft",
+   "bbox": [
+    425,
+    282,
+    521,
+    295
+   ]
+  },
+  {
+   "text": "2024.03.30.",
+   "bbox": [
+    24,
+    325,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "15:39",
+   "bbox": [
+    471,
+    325,
+    521,
+    337
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9831/35531",
+   "bbox": [
+    24,
+    351,
+    244,
+    368
+   ]
+  },
+  {
+   "text": "AP A56469431",
+   "bbox": [
+    24,
+    383,
+    144,
+    395
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    151,
+    419,
+    393,
+    436
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  545,
+  482
+ ]
+}

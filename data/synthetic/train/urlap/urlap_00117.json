@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Orosz Gréta",
+  "anyja_neve": "Varga Vivien",
+  "szuletesi_hely": "Nagykanizsa",
+  "szuletesi_datum": "1982.03.08.",
+  "lakcim": "H-5682 Veszprém, Kossuth utca 142.",
+  "telefon": "+36 30 555 2781",
+  "email": "orosz.greta@citromail.hu",
+  "adoazonosito_jel": "8420694546",
+  "taj_szam": "455 118 974",
+  "kelt": "Hídvárad, 2026.12.28."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    449,
+    82,
+    792,
+    112
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    486,
+    138,
+    753,
+    153
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    85,
+    191,
+    271,
+    210
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    97,
+    247,
+    132,
+    260
+   ]
+  },
+  {
+   "text": "Orosz Gréta",
+   "bbox": [
+    390,
+    243,
+    499,
+    259
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    97,
+    299,
+    187,
+    315
+   ]
+  },
+  {
+   "text": "Varga Vivien",
+   "bbox": [
+    390,
+    301,
+    502,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    97,
+    351,
+    205,
+    367
+   ]
+  },
+  {
+   "text": "Nagykanizsa",
+   "bbox": [
+    390,
+    353,
+    502,
+    372
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    97,
+    403,
+    197,
+    416
+   ]
+  },
+  {
+   "text": "1982.03.08.",
+   "bbox": [
+    390,
+    405,
+    496,
+    419
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    97,
+    455,
+    155,
+    468
+   ]
+  },
+  {
+   "text": "H-5682 Veszprém, Kossuth utca 142.",
+   "bbox": [
+    390,
+    455,
+    720,
+    475
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    97,
+    507,
+    199,
+    520
+   ]
+  },
+  {
+   "text": "+36 30 555 2781",
+   "bbox": [
+    390,
+    504,
+    537,
+    518
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    97,
+    559,
+    180,
+    572
+   ]
+  },
+  {
+   "text": "orosz.greta@citromail.hu",
+   "bbox": [
+    390,
+    557,
+    623,
+    576
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    97,
+    611,
+    230,
+    627
+   ]
+  },
+  {
+   "text": "8420694546",
+   "bbox": [
+    390,
+    609,
+    500,
+    623
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    97,
+    663,
+    172,
+    676
+   ]
+  },
+  {
+   "text": "455 118 974",
+   "bbox": [
+    390,
+    660,
+    499,
+    674
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    85,
+    739,
+    234,
+    758
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    130,
+    785,
+    398,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    130,
+    830,
+    255,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    130,
+    875,
+    411,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    85,
+    975,
+    122,
+    989
+   ]
+  },
+  {
+   "text": "Hídvárad, 2026.12.28.",
+   "bbox": [
+    175,
+    971,
+    374,
+    991
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    943,
+    1025,
+    987,
+    1036
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

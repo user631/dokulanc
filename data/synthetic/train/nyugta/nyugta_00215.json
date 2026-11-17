@@ -1,0 +1,383 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MEZEI KISBOLT KFT.",
+  "uzlet_cim": "H-2717 Eger, Mezőtóti utca 202.",
+  "adoszam": "59119911-5-13",
+  "datum": "2024.08.04.",
+  "ido": "10:57",
+  "nyugtaszam": "8931/57818",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 636 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "66"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "663"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "799"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1262"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3495"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1647"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2346"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2082"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "276"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MEZEI KISBOLT KFT.",
+   "bbox": [
+    164,
+    34,
+    416,
+    49
+   ]
+  },
+  {
+   "text": "H-2717 Eger, Mezőtóti utca 202.",
+   "bbox": [
+    104,
+    64,
+    476,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59119911-5-13",
+   "bbox": [
+    158,
+    90,
+    422,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    242,
+    135,
+    338,
+    151
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    178,
+    102,
+    192
+   ]
+  },
+  {
+   "text": "66 C00",
+   "bbox": [
+    478,
+    176,
+    556,
+    192
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    206,
+    232,
+    222
+   ]
+  },
+  {
+   "text": "663 B00",
+   "bbox": [
+    465,
+    206,
+    556,
+    222
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    236,
+    206,
+    252
+   ]
+  },
+  {
+   "text": "799 A00",
+   "bbox": [
+    465,
+    236,
+    556,
+    252
+   ]
+  },
+  {
+   "text": "2 DB x 631",
+   "bbox": [
+    24,
+    265,
+    134,
+    279
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    290,
+    128,
+    306
+   ]
+  },
+  {
+   "text": "1262 C00",
+   "bbox": [
+    452,
+    290,
+    556,
+    306
+   ]
+  },
+  {
+   "text": "3 DB x 1165",
+   "bbox": [
+    24,
+    319,
+    145,
+    333
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    346,
+    154,
+    360
+   ]
+  },
+  {
+   "text": "3495 A00",
+   "bbox": [
+    452,
+    344,
+    556,
+    360
+   ]
+  },
+  {
+   "text": "3 DB x 549",
+   "bbox": [
+    24,
+    373,
+    134,
+    387
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    400,
+    206,
+    414
+   ]
+  },
+  {
+   "text": "1647 B00",
+   "bbox": [
+    452,
+    398,
+    556,
+    414
+   ]
+  },
+  {
+   "text": "2 DB x 1173",
+   "bbox": [
+    24,
+    427,
+    145,
+    441
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    452,
+    128,
+    468
+   ]
+  },
+  {
+   "text": "2346 C00",
+   "bbox": [
+    452,
+    452,
+    556,
+    468
+   ]
+  },
+  {
+   "text": "3 DB x 694",
+   "bbox": [
+    24,
+    481,
+    134,
+    495
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    506,
+    141,
+    522
+   ]
+  },
+  {
+   "text": "2082 C00",
+   "bbox": [
+    452,
+    506,
+    556,
+    522
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    538,
+    193,
+    552
+   ]
+  },
+  {
+   "text": "276 A00",
+   "bbox": [
+    465,
+    536,
+    556,
+    552
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    576,
+    184,
+    597
+   ]
+  },
+  {
+   "text": "12 636 Ft",
+   "bbox": [
+    412,
+    578,
+    556,
+    597
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    617,
+    155,
+    634
+   ]
+  },
+  {
+   "text": "12 636 Ft",
+   "bbox": [
+    439,
+    618,
+    556,
+    634
+   ]
+  },
+  {
+   "text": "2024.08.04.",
+   "bbox": [
+    24,
+    662,
+    156,
+    676
+   ]
+  },
+  {
+   "text": "10:57",
+   "bbox": [
+    496,
+    662,
+    556,
+    676
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8931/57818",
+   "bbox": [
+    24,
+    690,
+    288,
+    709
+   ]
+  },
+  {
+   "text": "AP A74510887",
+   "bbox": [
+    24,
+    722,
+    168,
+    736
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    147,
+    762,
+    433,
+    779
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  580,
+  824
+ ]
+}

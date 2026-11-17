@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/03192",
+  "kiallitas_datuma": "2025.04.14.",
+  "teljesites_datuma": "2025.04.11.",
+  "fizetesi_hatarido": "2025.05.14.",
+  "elado_nev": "Hegedüs Szolgáltató Kft.",
+  "elado_cim": "H-7106 Keresztvár, Zalaegerszegi utca 15.",
+  "elado_adoszam": "69018646-5-18",
+  "vevo_nev": "Kiss Consulting Kft.",
+  "vevo_cim": "H-1582 Nyírligetnémeti, Felsőtamásii tér 189.",
+  "vevo_adoszam": "55690759-2-27",
+  "bankszamla": "17355986-32986263-49348173",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "226 900 Ft",
+  "afa_osszesen": "11 345 Ft",
+  "brutto_osszesen": "238 245 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "11 820",
+    "netto": "59 100",
+    "afa_kulcs": "5%",
+    "afa": "2 955",
+    "brutto": "62 055"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "10 év",
+    "egysegar": "16 780",
+    "netto": "167 800",
+    "afa_kulcs": "5%",
+    "afa": "8 390",
+    "brutto": "176 190"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    429,
+    102,
+    811,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/03192",
+   "bbox": [
+    453,
+    158,
+    787,
+    174
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    94,
+    237,
+    160,
+    254
+   ]
+  },
+  {
+   "text": "Hegedüs Szolgáltató Kft.",
+   "bbox": [
+    94,
+    271,
+    348,
+    292
+   ]
+  },
+  {
+   "text": "H-7106 Keresztvár, Zalaegerszegi utca 15.",
+   "bbox": [
+    94,
+    304,
+    475,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 69018646-5-18",
+   "bbox": [
+    93,
+    332,
+    324,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    237,
+    689,
+    254
+   ]
+  },
+  {
+   "text": "Kiss Consulting Kft.",
+   "bbox": [
+    630,
+    272,
+    836,
+    292
+   ]
+  },
+  {
+   "text": "H-1582 Nyírligetnémeti, Felsőtamásii tér 189.",
+   "bbox": [
+    630,
+    304,
+    1032,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 55690759-2-27",
+   "bbox": [
+    629,
+    332,
+    860,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    94,
+    398,
+    223,
+    410
+   ]
+  },
+  {
+   "text": "2025.04.14.",
+   "bbox": [
+    94,
+    424,
+    197,
+    438
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    398,
+    497,
+    413
+   ]
+  },
+  {
+   "text": "2025.04.11.",
+   "bbox": [
+    357,
+    424,
+    460,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    398,
+    753,
+    410
+   ]
+  },
+  {
+   "text": "2025.05.14.",
+   "bbox": [
+    620,
+    424,
+    723,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    398,
+    985,
+    410
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    883,
+    424,
+    951,
+    438
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    94,
+    472,
+    191,
+    487
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    472,
+    571,
+    487
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    472,
+    746,
+    487
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    472,
+    872,
+    484
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    469,
+    935,
+    484
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1001,
+    469,
+    1036,
+    484
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1095,
+    472,
+    1146,
+    484
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    514,
+    511,
+    546,
+    523
+   ]
+  },
+  {
+   "text": "11 820",
+   "bbox": [
+    696,
+    511,
+    746,
+    523
+   ]
+  },
+  {
+   "text": "59 100",
+   "bbox": [
+    822,
+    511,
+    872,
+    523
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    511,
+    935,
+    523
+   ]
+  },
+  {
+   "text": "2 955",
+   "bbox": [
+    994,
+    511,
+    1035,
+    523
+   ]
+  },
+  {
+   "text": "62 055",
+   "bbox": [
+    1096,
+    511,
+    1146,
+    523
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    94,
+    510,
+    298,
+    526
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    514,
+    544,
+    555,
+    556
+   ]
+  },
+  {
+   "text": "16 780",
+   "bbox": [
+    696,
+    544,
+    746,
+    556
+   ]
+  },
+  {
+   "text": "167 800",
+   "bbox": [
+    813,
+    544,
+    872,
+    556
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    544,
+    935,
+    556
+   ]
+  },
+  {
+   "text": "8 390",
+   "bbox": [
+    994,
+    544,
+    1035,
+    556
+   ]
+  },
+  {
+   "text": "176 190",
+   "bbox": [
+    1087,
+    544,
+    1146,
+    556
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    94,
+    543,
+    301,
+    559
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    661,
+    598,
+    816,
+    613
+   ]
+  },
+  {
+   "text": "226 900 Ft",
+   "bbox": [
+    1043,
+    598,
+    1146,
+    613
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    670,
+    628,
+    816,
+    647
+   ]
+  },
+  {
+   "text": "11 345 Ft",
+   "bbox": [
+    1055,
+    632,
+    1146,
+    647
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    606,
+    665,
+    816,
+    681
+   ]
+  },
+  {
+   "text": "238 245 Ft",
+   "bbox": [
+    1042,
+    666,
+    1146,
+    681
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 17355986-32986263-49348173",
+   "bbox": [
+    94,
+    729,
+    534,
+    743
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    451,
+    1645,
+    787,
+    1659
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

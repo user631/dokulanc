@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2026/07553",
+  "kiallitas_datuma": "2026.10.08.",
+  "teljesites_datuma": "2026.10.08.",
+  "fizetesi_hatarido": "2026.10.16.",
+  "elado_nev": "Tóth Zrt.",
+  "elado_cim": "H-6072 Pilismindszentvárad, Zalaegerszegi utca 85.",
+  "elado_adoszam": "73858335-4-31",
+  "vevo_nev": "Sárközi Consulting Bt.",
+  "vevo_cim": "H-7393 Baja, Hetvenfalvai tér 201.",
+  "vevo_adoszam": "74086784-4-10",
+  "bankszamla": "HU56 1528 9630 3498 6319 3509 6998",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "89 050 Ft",
+  "afa_osszesen": "24 044 Ft",
+  "brutto_osszesen": "113 094 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "5 db",
+    "egysegar": "17 810",
+    "netto": "89 050",
+    "afa_kulcs": "27%",
+    "afa": "24 044",
+    "brutto": "113 094"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    538,
+    97,
+    702,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/07553",
+   "bbox": [
+    414,
+    154,
+    826,
+    179
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    89,
+    234,
+    167,
+    254
+   ]
+  },
+  {
+   "text": "Sárközi Consulting Bt.",
+   "bbox": [
+    90,
+    272,
+    391,
+    298
+   ]
+  },
+  {
+   "text": "H-7393 Baja, Hetvenfalvai tér 201.",
+   "bbox": [
+    90,
+    309,
+    458,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 74086784-4-10",
+   "bbox": [
+    89,
+    341,
+    367,
+    363
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    234,
+    717,
+    254
+   ]
+  },
+  {
+   "text": "Tóth Zrt.",
+   "bbox": [
+    630,
+    272,
+    751,
+    292
+   ]
+  },
+  {
+   "text": "H-6072 Pilismindszentvárad, Zalaegerszegi",
+   "bbox": [
+    630,
+    309,
+    1091,
+    332
+   ]
+  },
+  {
+   "text": "utca 85.",
+   "bbox": [
+    630,
+    342,
+    714,
+    363
+   ]
+  },
+  {
+   "text": "Adószám: 73858335-4-31",
+   "bbox": [
+    629,
+    373,
+    901,
+    395
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    90,
+    442,
+    268,
+    458
+   ]
+  },
+  {
+   "text": "2026.10.08.",
+   "bbox": [
+    90,
+    474,
+    213,
+    490
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    442,
+    544,
+    463
+   ]
+  },
+  {
+   "text": "2026.10.08.",
+   "bbox": [
+    355,
+    474,
+    478,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    442,
+    800,
+    458
+   ]
+  },
+  {
+   "text": "2026.10.16.",
+   "bbox": [
+    620,
+    474,
+    738,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    442,
+    1020,
+    458
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    885,
+    473,
+    967,
+    490
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    524,
+    220,
+    545
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    525,
+    595,
+    545
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    524,
+    747,
+    545
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    524,
+    874,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    520,
+    938,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    991,
+    520,
+    1039,
+    540
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1080,
+    524,
+    1150,
+    540
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    514,
+    567,
+    554,
+    587
+   ]
+  },
+  {
+   "text": "17 810",
+   "bbox": [
+    687,
+    568,
+    747,
+    587
+   ]
+  },
+  {
+   "text": "89 050",
+   "bbox": [
+    807,
+    568,
+    874,
+    587
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    568,
+    938,
+    587
+   ]
+  },
+  {
+   "text": "24 044",
+   "bbox": [
+    972,
+    572,
+    1038,
+    587
+   ]
+  },
+  {
+   "text": "113 094",
+   "bbox": [
+    1078,
+    572,
+    1150,
+    587
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    90,
+    567,
+    210,
+    588
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    624,
+    820,
+    643
+   ]
+  },
+  {
+   "text": "89 050 Ft",
+   "bbox": [
+    1042,
+    625,
+    1150,
+    648
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    660,
+    658,
+    820,
+    681
+   ]
+  },
+  {
+   "text": "24 044 Ft",
+   "bbox": [
+    1043,
+    663,
+    1150,
+    685
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    565,
+    700,
+    820,
+    719
+   ]
+  },
+  {
+   "text": "113 094 Ft",
+   "bbox": [
+    1021,
+    701,
+    1150,
+    724
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU56 1528 9630 3498 6319 3509 6998",
+   "bbox": [
+    90,
+    769,
+    685,
+    790
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

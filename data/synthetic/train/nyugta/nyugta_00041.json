@@ -1,0 +1,387 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH MARKET BT.",
+  "uzlet_cim": "H-9596 Mártonharaszti, Petőfi utca 155.",
+  "adoszam": "98174887-2-06",
+  "datum": "2025.07.02.",
+  "ido": "16:17",
+  "nyugtaszam": "7255/94544",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "17 377 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "583"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1293"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "609"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "154"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4098"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1272"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "303"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7146"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "323"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1596"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH MARKET BT.",
+   "bbox": [
+    155,
+    36,
+    393,
+    50
+   ]
+  },
+  {
+   "text": "H-9596 Mártonharaszti, Petőfi utca 155.",
+   "bbox": [
+    40,
+    68,
+    508,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98174887-2-06",
+   "bbox": [
+    142,
+    91,
+    406,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    137,
+    323,
+    152
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    179,
+    167,
+    193
+   ]
+  },
+  {
+   "text": "583 C00",
+   "bbox": [
+    434,
+    179,
+    525,
+    193
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    209,
+    128,
+    223
+   ]
+  },
+  {
+   "text": "1293 B00",
+   "bbox": [
+    421,
+    209,
+    525,
+    223
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    239,
+    128,
+    253
+   ]
+  },
+  {
+   "text": "609 C00",
+   "bbox": [
+    434,
+    239,
+    525,
+    253
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    269,
+    206,
+    286
+   ]
+  },
+  {
+   "text": "154 B00",
+   "bbox": [
+    434,
+    269,
+    525,
+    283
+   ]
+  },
+  {
+   "text": "2 DB x 2049",
+   "bbox": [
+    24,
+    298,
+    145,
+    310
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    323,
+    271,
+    337
+   ]
+  },
+  {
+   "text": "4098 C00",
+   "bbox": [
+    421,
+    323,
+    525,
+    337
+   ]
+  },
+  {
+   "text": "2 DB x 636",
+   "bbox": [
+    24,
+    352,
+    134,
+    364
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    377,
+    232,
+    391
+   ]
+  },
+  {
+   "text": "1272 C00",
+   "bbox": [
+    421,
+    377,
+    525,
+    391
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    408,
+    194,
+    421
+   ]
+  },
+  {
+   "text": "303 B00",
+   "bbox": [
+    434,
+    407,
+    525,
+    421
+   ]
+  },
+  {
+   "text": "3 DB x 2382",
+   "bbox": [
+    24,
+    436,
+    145,
+    448
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    461,
+    141,
+    475
+   ]
+  },
+  {
+   "text": "7146 A00",
+   "bbox": [
+    421,
+    461,
+    525,
+    475
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    491,
+    206,
+    505
+   ]
+  },
+  {
+   "text": "323 B00",
+   "bbox": [
+    434,
+    491,
+    525,
+    505
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    522,
+    193,
+    535
+   ]
+  },
+  {
+   "text": "1596 A00",
+   "bbox": [
+    421,
+    521,
+    525,
+    535
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    559,
+    184,
+    580
+   ]
+  },
+  {
+   "text": "17 377 Ft",
+   "bbox": [
+    381,
+    564,
+    525,
+    580
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    600,
+    155,
+    617
+   ]
+  },
+  {
+   "text": "17 377 Ft",
+   "bbox": [
+    408,
+    603,
+    525,
+    617
+   ]
+  },
+  {
+   "text": "2025.07.02.",
+   "bbox": [
+    24,
+    646,
+    156,
+    659
+   ]
+  },
+  {
+   "text": "16:17",
+   "bbox": [
+    465,
+    646,
+    525,
+    659
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7255/94544",
+   "bbox": [
+    24,
+    673,
+    288,
+    691
+   ]
+  },
+  {
+   "text": "AP A40184825",
+   "bbox": [
+    24,
+    706,
+    168,
+    719
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    209,
+    747,
+    339,
+    762
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  549,
+  806
+ ]
+}

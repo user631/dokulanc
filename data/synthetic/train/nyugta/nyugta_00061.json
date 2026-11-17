@@ -1,0 +1,336 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH MARKET BT.",
+  "uzlet_cim": "H-8640 Keresztvára, Györgyfai út 165.",
+  "adoszam": "81955097-2-04",
+  "datum": "2024.10.18.",
+  "ido": "10:26",
+  "nyugtaszam": "4714/97857",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 996 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "985"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "912"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "266"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "150"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4482"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "654"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "371"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2676"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH MARKET BT.",
+   "bbox": [
+    154,
+    30,
+    424,
+    51
+   ]
+  },
+  {
+   "text": "H-8640 Keresztvára, Györgyfai út 165.",
+   "bbox": [
+    48,
+    70,
+    529,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81955097-2-04",
+   "bbox": [
+    146,
+    94,
+    432,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    240,
+    140,
+    338,
+    156
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    184,
+    136,
+    198
+   ]
+  },
+  {
+   "text": "985 C00",
+   "bbox": [
+    456,
+    184,
+    554,
+    198
+   ]
+  },
+  {
+   "text": "2 DB x 456",
+   "bbox": [
+    24,
+    213,
+    144,
+    226
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    241,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "912 A00",
+   "bbox": [
+    456,
+    240,
+    554,
+    254
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    272,
+    206,
+    285
+   ]
+  },
+  {
+   "text": "266 C00",
+   "bbox": [
+    456,
+    271,
+    554,
+    285
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    302,
+    220,
+    319
+   ]
+  },
+  {
+   "text": "150 C00",
+   "bbox": [
+    456,
+    302,
+    554,
+    316
+   ]
+  },
+  {
+   "text": "3 DB x 1494",
+   "bbox": [
+    24,
+    331,
+    156,
+    344
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    359,
+    164,
+    372
+   ]
+  },
+  {
+   "text": "4482 C00",
+   "bbox": [
+    442,
+    358,
+    554,
+    372
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    389,
+    150,
+    403
+   ]
+  },
+  {
+   "text": "654 C00",
+   "bbox": [
+    456,
+    389,
+    554,
+    403
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    420,
+    178,
+    434
+   ]
+  },
+  {
+   "text": "371 B00",
+   "bbox": [
+    456,
+    420,
+    554,
+    434
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    451,
+    290,
+    465
+   ]
+  },
+  {
+   "text": "2676 C00",
+   "bbox": [
+    442,
+    451,
+    554,
+    465
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    489,
+    184,
+    511
+   ]
+  },
+  {
+   "text": "10 996 Ft",
+   "bbox": [
+    410,
+    494,
+    554,
+    511
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    532,
+    164,
+    549
+   ]
+  },
+  {
+   "text": "10 996 Ft",
+   "bbox": [
+    428,
+    535,
+    554,
+    549
+   ]
+  },
+  {
+   "text": "2024.10.18.",
+   "bbox": [
+    24,
+    579,
+    167,
+    592
+   ]
+  },
+  {
+   "text": "10:26",
+   "bbox": [
+    489,
+    579,
+    554,
+    592
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4714/97857",
+   "bbox": [
+    24,
+    607,
+    310,
+    625
+   ]
+  },
+  {
+   "text": "AP A24007628",
+   "bbox": [
+    24,
+    641,
+    180,
+    654
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    190,
+    680,
+    386,
+    698
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  578,
+  742
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALLA KISBOLT KFT.",
+  "uzlet_cim": "H-5542 Rácszékváros, Salgótarjáni tér 41.",
+  "adoszam": "67851982-2-11",
+  "datum": "2026.03.24.",
+  "ido": "14:59",
+  "nyugtaszam": "1214/47471",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 880 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1216"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "897"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1248"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2685"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1932"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "321"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "581"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALLA KISBOLT KFT.",
+   "bbox": [
+    172,
+    35,
+    460,
+    51
+   ]
+  },
+  {
+   "text": "H-5542 Rácszékváros, Salgótarjáni tér 41.",
+   "bbox": [
+    49,
+    67,
+    582,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 67851982-2-11",
+   "bbox": [
+    173,
+    95,
+    459,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    141,
+    367,
+    159
+   ]
+  },
+  {
+   "text": "2 DB x 608",
+   "bbox": [
+    24,
+    184,
+    154,
+    199
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    210,
+    150,
+    227
+   ]
+  },
+  {
+   "text": "1216 A00",
+   "bbox": [
+    496,
+    210,
+    608,
+    227
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    242,
+    248,
+    259
+   ]
+  },
+  {
+   "text": "897 A00",
+   "bbox": [
+    510,
+    242,
+    608,
+    259
+   ]
+  },
+  {
+   "text": "3 DB x 416",
+   "bbox": [
+    24,
+    274,
+    154,
+    289
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    300,
+    150,
+    317
+   ]
+  },
+  {
+   "text": "1248 B00",
+   "bbox": [
+    496,
+    300,
+    608,
+    317
+   ]
+  },
+  {
+   "text": "3 DB x 895",
+   "bbox": [
+    24,
+    332,
+    154,
+    347
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    358,
+    192,
+    375
+   ]
+  },
+  {
+   "text": "2685 B00",
+   "bbox": [
+    496,
+    358,
+    608,
+    375
+   ]
+  },
+  {
+   "text": "3 DB x 644",
+   "bbox": [
+    24,
+    390,
+    154,
+    405
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    416,
+    136,
+    433
+   ]
+  },
+  {
+   "text": "1932 A00",
+   "bbox": [
+    496,
+    416,
+    608,
+    433
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    450,
+    207,
+    465
+   ]
+  },
+  {
+   "text": "321 B00",
+   "bbox": [
+    510,
+    448,
+    608,
+    465
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    480,
+    220,
+    497
+   ]
+  },
+  {
+   "text": "581 A00",
+   "bbox": [
+    510,
+    480,
+    608,
+    497
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    523,
+    177,
+    545
+   ]
+  },
+  {
+   "text": "8 880 Ft",
+   "bbox": [
+    472,
+    525,
+    608,
+    545
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    564,
+    165,
+    583
+   ]
+  },
+  {
+   "text": "8 880 Ft",
+   "bbox": [
+    496,
+    566,
+    608,
+    583
+   ]
+  },
+  {
+   "text": "2026.03.24.",
+   "bbox": [
+    24,
+    612,
+    167,
+    628
+   ]
+  },
+  {
+   "text": "14:59",
+   "bbox": [
+    543,
+    612,
+    608,
+    628
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1214/47471",
+   "bbox": [
+    24,
+    643,
+    310,
+    663
+   ]
+  },
+  {
+   "text": "AP A34527837",
+   "bbox": [
+    24,
+    676,
+    180,
+    692
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    211,
+    719,
+    421,
+    737
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  632,
+  782
+ ]
+}

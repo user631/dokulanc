@@ -1,0 +1,279 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS MARKET BT.",
+  "uzlet_cim": "H-4692 Vácmártonváros, Budapesti utca 235.",
+  "adoszam": "98133378-5-41",
+  "datum": "2024.02.26.",
+  "ido": "17:56",
+  "nyugtaszam": "3535/61941",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 128 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "998"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1092"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "786"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1053"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1299"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS MARKET BT.",
+   "bbox": [
+    162,
+    35,
+    372,
+    49
+   ]
+  },
+  {
+   "text": "H-4692 Vácmártonváros, Budapesti utca 235.",
+   "bbox": [
+    36,
+    63,
+    498,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98133378-5-41",
+   "bbox": [
+    146,
+    88,
+    388,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    131,
+    312,
+    147
+   ]
+  },
+  {
+   "text": "2 DB x 499",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    195,
+    128,
+    210
+   ]
+  },
+  {
+   "text": "998 A00",
+   "bbox": [
+    419,
+    195,
+    510,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 546",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    247,
+    141,
+    262
+   ]
+  },
+  {
+   "text": "1092 B00",
+   "bbox": [
+    406,
+    247,
+    510,
+    262
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    276,
+    206,
+    291
+   ]
+  },
+  {
+   "text": "786 C00",
+   "bbox": [
+    419,
+    276,
+    510,
+    291
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    305,
+    180,
+    320
+   ]
+  },
+  {
+   "text": "1053 C00",
+   "bbox": [
+    406,
+    305,
+    510,
+    320
+   ]
+  },
+  {
+   "text": "3 DB x 433",
+   "bbox": [
+    24,
+    334,
+    134,
+    347
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    357,
+    206,
+    372
+   ]
+  },
+  {
+   "text": "1299 A00",
+   "bbox": [
+    406,
+    357,
+    510,
+    372
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    396,
+    159,
+    416
+   ]
+  },
+  {
+   "text": "5 128 Ft",
+   "bbox": [
+    390,
+    398,
+    510,
+    416
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    435,
+    167,
+    452
+   ]
+  },
+  {
+   "text": "5 128 Ft",
+   "bbox": [
+    406,
+    437,
+    510,
+    452
+   ]
+  },
+  {
+   "text": "2024.02.26.",
+   "bbox": [
+    24,
+    479,
+    145,
+    493
+   ]
+  },
+  {
+   "text": "17:56",
+   "bbox": [
+    455,
+    479,
+    510,
+    493
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3535/61941",
+   "bbox": [
+    24,
+    507,
+    266,
+    525
+   ]
+  },
+  {
+   "text": "AP A24012480",
+   "bbox": [
+    24,
+    537,
+    156,
+    551
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    207,
+    577,
+    327,
+    593
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  534,
+  638
+ ]
+}

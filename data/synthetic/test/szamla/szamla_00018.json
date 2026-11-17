@@ -1,0 +1,795 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2026/07925",
+  "kiallitas_datuma": "2026-05-27",
+  "teljesites_datuma": "2026-05-27",
+  "fizetesi_hatarido": "2026-06-04",
+  "elado_nev": "Nagy Consulting Zrt.",
+  "elado_cim": "H-5669 Mátrahetvenapáti, Hetvenvárosi utca 13.",
+  "elado_adoszam": "46292913-4-28",
+  "vevo_nev": "Bodnár Consulting Kft.",
+  "vevo_cim": "H-9207 Pilistamásivár, Dunaújvárosi utca 187.",
+  "vevo_adoszam": "23734953-4-13",
+  "bankszamla": "45807521-16840764",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "497 560 Ft",
+  "afa_osszesen": "127 911 Ft",
+  "brutto_osszesen": "625 471 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "10 csomag",
+    "egysegar": "2 660",
+    "netto": "26 600",
+    "afa_kulcs": "27%",
+    "afa": "7 182",
+    "brutto": "33 782"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "2 hó",
+    "egysegar": "51 050",
+    "netto": "102 100",
+    "afa_kulcs": "27%",
+    "afa": "27 567",
+    "brutto": "129 667"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "12 óra",
+    "egysegar": "10 700",
+    "netto": "128 400",
+    "afa_kulcs": "27%",
+    "afa": "34 668",
+    "brutto": "163 068"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "29 230",
+    "netto": "29 230",
+    "afa_kulcs": "5%",
+    "afa": "1 462",
+    "brutto": "30 692"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "148 710",
+    "netto": "148 710",
+    "afa_kulcs": "27%",
+    "afa": "40 152",
+    "brutto": "188 862"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "12 db",
+    "egysegar": "5 210",
+    "netto": "62 520",
+    "afa_kulcs": "27%",
+    "afa": "16 880",
+    "brutto": "79 400"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    156,
+    144,
+    218,
+    161
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    713,
+    126,
+    1133,
+    160
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/07925",
+   "bbox": [
+    826,
+    182,
+    1133,
+    203
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    107,
+    263,
+    185,
+    283
+   ]
+  },
+  {
+   "text": "Nagy Consulting Zrt.",
+   "bbox": [
+    107,
+    302,
+    364,
+    328
+   ]
+  },
+  {
+   "text": "H-5669 Mátrahetvenapáti, Hetvenvárosi",
+   "bbox": [
+    107,
+    337,
+    553,
+    362
+   ]
+  },
+  {
+   "text": "utca 13.",
+   "bbox": [
+    107,
+    372,
+    199,
+    390
+   ]
+  },
+  {
+   "text": "Adószám: 46292913-4-28",
+   "bbox": [
+    107,
+    403,
+    383,
+    423
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    263,
+    702,
+    283
+   ]
+  },
+  {
+   "text": "Bodnár Consulting Kft.",
+   "bbox": [
+    630,
+    302,
+    916,
+    328
+   ]
+  },
+  {
+   "text": "H-9207 Pilistamásivár, Dunaújvárosi utca",
+   "bbox": [
+    630,
+    337,
+    1087,
+    362
+   ]
+  },
+  {
+   "text": "187.",
+   "bbox": [
+    630,
+    372,
+    678,
+    390
+   ]
+  },
+  {
+   "text": "Adószám: 23734953-4-13",
+   "bbox": [
+    630,
+    403,
+    906,
+    423
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    107,
+    475,
+    301,
+    494
+   ]
+  },
+  {
+   "text": "2026-05-27",
+   "bbox": [
+    407,
+    476,
+    529,
+    494
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    107,
+    510,
+    323,
+    534
+   ]
+  },
+  {
+   "text": "2026-05-27",
+   "bbox": [
+    407,
+    511,
+    529,
+    529
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    107,
+    545,
+    313,
+    564
+   ]
+  },
+  {
+   "text": "2026-06-04",
+   "bbox": [
+    407,
+    546,
+    529,
+    564
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    107,
+    580,
+    265,
+    599
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    407,
+    579,
+    497,
+    599
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    107,
+    627,
+    232,
+    648
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    627,
+    592,
+    648
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    653,
+    627,
+    744,
+    648
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    808,
+    627,
+    866,
+    643
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    623,
+    927,
+    643
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    984,
+    623,
+    1025,
+    643
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1068,
+    627,
+    1133,
+    643
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    517,
+    671,
+    621,
+    692
+   ]
+  },
+  {
+   "text": "2 660",
+   "bbox": [
+    688,
+    671,
+    743,
+    687
+   ]
+  },
+  {
+   "text": "26 600",
+   "bbox": [
+    799,
+    671,
+    866,
+    687
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    671,
+    927,
+    687
+   ]
+  },
+  {
+   "text": "7 182",
+   "bbox": [
+    970,
+    671,
+    1025,
+    687
+   ]
+  },
+  {
+   "text": "33 782",
+   "bbox": [
+    1066,
+    671,
+    1133,
+    687
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    107,
+    669,
+    367,
+    692
+   ]
+  },
+  {
+   "text": "2 hó",
+   "bbox": [
+    517,
+    707,
+    560,
+    725
+   ]
+  },
+  {
+   "text": "51 050",
+   "bbox": [
+    676,
+    709,
+    743,
+    725
+   ]
+  },
+  {
+   "text": "102 100",
+   "bbox": [
+    787,
+    709,
+    866,
+    725
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    709,
+    927,
+    725
+   ]
+  },
+  {
+   "text": "27 567",
+   "bbox": [
+    958,
+    709,
+    1025,
+    725
+   ]
+  },
+  {
+   "text": "129 667",
+   "bbox": [
+    1054,
+    709,
+    1133,
+    725
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    107,
+    707,
+    391,
+    730
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    517,
+    745,
+    581,
+    763
+   ]
+  },
+  {
+   "text": "10 700",
+   "bbox": [
+    676,
+    747,
+    743,
+    763
+   ]
+  },
+  {
+   "text": "128 400",
+   "bbox": [
+    787,
+    747,
+    866,
+    763
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    747,
+    927,
+    763
+   ]
+  },
+  {
+   "text": "34 668",
+   "bbox": [
+    958,
+    747,
+    1025,
+    763
+   ]
+  },
+  {
+   "text": "163 068",
+   "bbox": [
+    1054,
+    747,
+    1133,
+    763
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    107,
+    745,
+    377,
+    768
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    517,
+    783,
+    559,
+    801
+   ]
+  },
+  {
+   "text": "29 230",
+   "bbox": [
+    676,
+    785,
+    743,
+    801
+   ]
+  },
+  {
+   "text": "29 230",
+   "bbox": [
+    799,
+    785,
+    866,
+    801
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    902,
+    785,
+    927,
+    801
+   ]
+  },
+  {
+   "text": "1 462",
+   "bbox": [
+    970,
+    785,
+    1025,
+    801
+   ]
+  },
+  {
+   "text": "30 692",
+   "bbox": [
+    1066,
+    785,
+    1133,
+    801
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    107,
+    783,
+    382,
+    806
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    517,
+    823,
+    613,
+    839
+   ]
+  },
+  {
+   "text": "148 710",
+   "bbox": [
+    664,
+    823,
+    743,
+    839
+   ]
+  },
+  {
+   "text": "148 710",
+   "bbox": [
+    787,
+    823,
+    866,
+    839
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    823,
+    927,
+    839
+   ]
+  },
+  {
+   "text": "40 152",
+   "bbox": [
+    958,
+    823,
+    1025,
+    839
+   ]
+  },
+  {
+   "text": "188 862",
+   "bbox": [
+    1054,
+    823,
+    1133,
+    839
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    107,
+    821,
+    318,
+    844
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    517,
+    861,
+    572,
+    877
+   ]
+  },
+  {
+   "text": "5 210",
+   "bbox": [
+    688,
+    861,
+    743,
+    877
+   ]
+  },
+  {
+   "text": "62 520",
+   "bbox": [
+    799,
+    861,
+    866,
+    877
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    861,
+    927,
+    877
+   ]
+  },
+  {
+   "text": "16 880",
+   "bbox": [
+    958,
+    861,
+    1025,
+    877
+   ]
+  },
+  {
+   "text": "79 400",
+   "bbox": [
+    1066,
+    861,
+    1133,
+    877
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    107,
+    859,
+    304,
+    882
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    619,
+    919,
+    803,
+    939
+   ]
+  },
+  {
+   "text": "497 560 Ft",
+   "bbox": [
+    1009,
+    920,
+    1133,
+    939
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    640,
+    954,
+    803,
+    978
+   ]
+  },
+  {
+   "text": "127 911 Ft",
+   "bbox": [
+    1009,
+    959,
+    1133,
+    978
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    556,
+    997,
+    803,
+    1017
+   ]
+  },
+  {
+   "text": "625 471 Ft",
+   "bbox": [
+    1002,
+    998,
+    1133,
+    1017
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 45807521-16840764",
+   "bbox": [
+    107,
+    1065,
+    520,
+    1084
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    107,
+    1098,
+    752,
+    1118
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    460,
+    1626,
+    779,
+    1646
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

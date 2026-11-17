@@ -1,0 +1,759 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2026/03872",
+  "kiallitas_datuma": "2026-11-27",
+  "teljesites_datuma": "2026-11-22",
+  "fizetesi_hatarido": "2026-12-27",
+  "elado_nev": "Kiss Consulting Kft.",
+  "elado_cim": "H-4111 Bakonygyörgyvára, Szolnoki tér 112.",
+  "elado_adoszam": "95375199-2-15",
+  "vevo_nev": "Szilágyi Zsolt",
+  "vevo_cim": "H-1536 Németkeresztháza, Miskolci utca 93.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU79 6346 3141 5708 4167 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 188 410 Ft",
+  "afa_osszesen": "316 660 Ft",
+  "brutto_osszesen": "1 505 070 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "5 310",
+    "netto": "5 310",
+    "afa_kulcs": "27%",
+    "afa": "1 434",
+    "brutto": "6 744"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "9 410",
+    "netto": "9 410",
+    "afa_kulcs": "27%",
+    "afa": "2 541",
+    "brutto": "11 951"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "2 db",
+    "egysegar": "117 730",
+    "netto": "235 460",
+    "afa_kulcs": "27%",
+    "afa": "63 574",
+    "brutto": "299 034"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "169 810",
+    "netto": "849 050",
+    "afa_kulcs": "27%",
+    "afa": "229 244",
+    "brutto": "1 078 294"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "42 380",
+    "netto": "42 380",
+    "afa_kulcs": "27%",
+    "afa": "11 443",
+    "brutto": "53 823"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "10 csomag",
+    "egysegar": "4 680",
+    "netto": "46 800",
+    "afa_kulcs": "18%",
+    "afa": "8 424",
+    "brutto": "55 224"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    540,
+    95,
+    700,
+    132
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/03872",
+   "bbox": [
+    462,
+    155,
+    777,
+    175
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    88,
+    235,
+    151,
+    252
+   ]
+  },
+  {
+   "text": "Kiss Consulting Kft.",
+   "bbox": [
+    88,
+    269,
+    288,
+    291
+   ]
+  },
+  {
+   "text": "H-4111 Bakonygyörgyvára, Szolnoki tér 112.",
+   "bbox": [
+    88,
+    301,
+    478,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 95375199-2-15",
+   "bbox": [
+    88,
+    329,
+    315,
+    344
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    236,
+    688,
+    252
+   ]
+  },
+  {
+   "text": "Szilágyi Zsolt",
+   "bbox": [
+    630,
+    269,
+    766,
+    291
+   ]
+  },
+  {
+   "text": "H-1536 Németkeresztháza, Miskolci utca 93.",
+   "bbox": [
+    630,
+    301,
+    1015,
+    319
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    88,
+    394,
+    218,
+    407
+   ]
+  },
+  {
+   "text": "2026-11-27",
+   "bbox": [
+    88,
+    422,
+    184,
+    435
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    354,
+    394,
+    494,
+    411
+   ]
+  },
+  {
+   "text": "2026-11-22",
+   "bbox": [
+    354,
+    422,
+    450,
+    435
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    394,
+    752,
+    407
+   ]
+  },
+  {
+   "text": "2026-12-27",
+   "bbox": [
+    620,
+    422,
+    716,
+    435
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    394,
+    987,
+    407
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    886,
+    421,
+    978,
+    439
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    88,
+    468,
+    186,
+    485
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    469,
+    572,
+    485
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    468,
+    747,
+    485
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    468,
+    875,
+    481
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    465,
+    939,
+    481
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    465,
+    1040,
+    481
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    468,
+    1152,
+    481
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    507,
+    547,
+    520
+   ]
+  },
+  {
+   "text": "5 310",
+   "bbox": [
+    706,
+    508,
+    747,
+    520
+   ]
+  },
+  {
+   "text": "5 310",
+   "bbox": [
+    834,
+    508,
+    875,
+    520
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    508,
+    939,
+    520
+   ]
+  },
+  {
+   "text": "1 434",
+   "bbox": [
+    999,
+    508,
+    1040,
+    520
+   ]
+  },
+  {
+   "text": "6 744",
+   "bbox": [
+    1111,
+    508,
+    1152,
+    520
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    88,
+    507,
+    240,
+    524
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    513,
+    540,
+    552,
+    553
+   ]
+  },
+  {
+   "text": "9 410",
+   "bbox": [
+    706,
+    541,
+    747,
+    553
+   ]
+  },
+  {
+   "text": "9 410",
+   "bbox": [
+    834,
+    541,
+    875,
+    553
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    541,
+    939,
+    553
+   ]
+  },
+  {
+   "text": "2 541",
+   "bbox": [
+    999,
+    541,
+    1040,
+    553
+   ]
+  },
+  {
+   "text": "11 951",
+   "bbox": [
+    1102,
+    541,
+    1152,
+    553
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    88,
+    540,
+    315,
+    557
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    513,
+    573,
+    547,
+    586
+   ]
+  },
+  {
+   "text": "117 730",
+   "bbox": [
+    688,
+    574,
+    747,
+    586
+   ]
+  },
+  {
+   "text": "235 460",
+   "bbox": [
+    816,
+    574,
+    875,
+    586
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    574,
+    939,
+    586
+   ]
+  },
+  {
+   "text": "63 574",
+   "bbox": [
+    990,
+    574,
+    1040,
+    586
+   ]
+  },
+  {
+   "text": "299 034",
+   "bbox": [
+    1093,
+    574,
+    1152,
+    586
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    88,
+    573,
+    179,
+    586
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    513,
+    606,
+    586,
+    619
+   ]
+  },
+  {
+   "text": "169 810",
+   "bbox": [
+    688,
+    607,
+    747,
+    619
+   ]
+  },
+  {
+   "text": "849 050",
+   "bbox": [
+    816,
+    607,
+    875,
+    619
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    607,
+    939,
+    619
+   ]
+  },
+  {
+   "text": "229 244",
+   "bbox": [
+    981,
+    607,
+    1040,
+    619
+   ]
+  },
+  {
+   "text": "1 078 294",
+   "bbox": [
+    1079,
+    607,
+    1152,
+    619
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    88,
+    606,
+    250,
+    623
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    513,
+    639,
+    545,
+    652
+   ]
+  },
+  {
+   "text": "42 380",
+   "bbox": [
+    697,
+    640,
+    747,
+    652
+   ]
+  },
+  {
+   "text": "42 380",
+   "bbox": [
+    825,
+    640,
+    875,
+    652
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    640,
+    939,
+    652
+   ]
+  },
+  {
+   "text": "11 443",
+   "bbox": [
+    990,
+    640,
+    1040,
+    652
+   ]
+  },
+  {
+   "text": "53 823",
+   "bbox": [
+    1102,
+    640,
+    1152,
+    652
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    88,
+    639,
+    225,
+    656
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    513,
+    673,
+    595,
+    689
+   ]
+  },
+  {
+   "text": "4 680",
+   "bbox": [
+    706,
+    673,
+    747,
+    685
+   ]
+  },
+  {
+   "text": "46 800",
+   "bbox": [
+    825,
+    673,
+    875,
+    685
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    673,
+    939,
+    685
+   ]
+  },
+  {
+   "text": "8 424",
+   "bbox": [
+    999,
+    673,
+    1040,
+    685
+   ]
+  },
+  {
+   "text": "55 224",
+   "bbox": [
+    1102,
+    673,
+    1152,
+    685
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    88,
+    672,
+    227,
+    689
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    727,
+    822,
+    742
+   ]
+  },
+  {
+   "text": "1 188 410 Ft",
+   "bbox": [
+    1040,
+    727,
+    1152,
+    742
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    757,
+    822,
+    776
+   ]
+  },
+  {
+   "text": "316 660 Ft",
+   "bbox": [
+    1057,
+    761,
+    1152,
+    776
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    713,
+    794,
+    822,
+    815
+   ]
+  },
+  {
+   "text": "1 505 070 Ft",
+   "bbox": [
+    1031,
+    795,
+    1152,
+    810
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU79 6346 3141 5708 4167 0000 0000",
+   "bbox": [
+    88,
+    858,
+    555,
+    872
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    88,
+    885,
+    558,
+    901
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    452,
+    1651,
+    787,
+    1665
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

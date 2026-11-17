@@ -1,0 +1,320 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kocsis Zsuzsanna",
+  "email": "kocsis.zsuzsanna@freemail.hu",
+  "telefon": "+36 70 175 8588",
+  "lakcim": "H-1028 Györgyháza, Székdevecseri utca 33.",
+  "szuletesi_datum": "1984. 09. 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Szolgáltató Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "ceg": "Tóth Szolgáltató Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "csapatmunka",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    220,
+    124
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    107,
+    165
+   ]
+  },
+  {
+   "text": "kocsis.zsuzsanna@freemail.hu",
+   "bbox": [
+    40,
+    173,
+    319,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    208,
+    117,
+    225
+   ]
+  },
+  {
+   "text": "+36 70 175 8588",
+   "bbox": [
+    40,
+    234,
+    197,
+    250
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    268,
+    115,
+    285
+   ]
+  },
+  {
+   "text": "H-1028 Györgyháza, Székdevecseri",
+   "bbox": [
+    40,
+    293,
+    363,
+    314
+   ]
+  },
+  {
+   "text": "utca 33.",
+   "bbox": [
+    40,
+    319,
+    115,
+    335
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    353,
+    207,
+    370
+   ]
+  },
+  {
+   "text": "1984. 09. 17.",
+   "bbox": [
+    40,
+    379,
+    160,
+    395
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    207,
+    464
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    485,
+    141,
+    506
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    538,
+    187,
+    564
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    586,
+    79,
+    606
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    614,
+    168,
+    635
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    643,
+    90,
+    660
+   ]
+  },
+  {
+   "text": "Kocsis Zsuzsanna",
+   "bbox": [
+    450,
+    110,
+    861,
+    147
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    179,
+    672,
+    206
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    722,
+    271
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    298,
+    581,
+    315
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kovács Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    323,
+    1078,
+    348
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    368,
+    581,
+    385
+   ]
+  },
+  {
+   "text": "tesztmérnök – Tóth Szolgáltató Kft.",
+   "bbox": [
+    450,
+    393,
+    877,
+    418
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    447,
+    634,
+    474
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    501,
+    581,
+    518
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    526,
+    858,
+    551
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    554,
+    613,
+    572
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    450,
+    598,
+    581,
+    615
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    623,
+    740,
+    648
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    650,
+    707,
+    674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

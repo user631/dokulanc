@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Takács Tibor",
+  "anyja_neve": "Balogh Máté",
+  "szuletesi_hely": "Székfalu",
+  "szuletesi_datum": "1958. 09. 27.",
+  "lakcim": "H-8888 Szerbtamásivára, Belsőtamásii utca 159.",
+  "telefon": "+36 20 217 2289",
+  "email": "takacs.tibor@freemail.hu",
+  "adoazonosito_jel": "8335069522",
+  "taj_szam": "151 773 063",
+  "kelt": "Debrecen, 2025. 07. 01."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    453,
+    92,
+    788,
+    121
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    495,
+    146,
+    745,
+    160
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    198,
+    271,
+    216
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    253,
+    140,
+    265
+   ]
+  },
+  {
+   "text": "Takács Tibor",
+   "bbox": [
+    431,
+    254,
+    537,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    106,
+    304,
+    190,
+    319
+   ]
+  },
+  {
+   "text": "Balogh Máté",
+   "bbox": [
+    431,
+    303,
+    539,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    355,
+    208,
+    370
+   ]
+  },
+  {
+   "text": "Székfalu",
+   "bbox": [
+    431,
+    356,
+    501,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    406,
+    201,
+    418
+   ]
+  },
+  {
+   "text": "1958. 09. 27.",
+   "bbox": [
+    431,
+    407,
+    544,
+    420
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    457,
+    162,
+    469
+   ]
+  },
+  {
+   "text": "H-8888 Szerbtamásivára, Belsőtamásii utca 159.",
+   "bbox": [
+    431,
+    452,
+    840,
+    469
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    508,
+    204,
+    520
+   ]
+  },
+  {
+   "text": "+36 20 217 2289",
+   "bbox": [
+    431,
+    510,
+    577,
+    523
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    559,
+    187,
+    571
+   ]
+  },
+  {
+   "text": "takacs.tibor@freemail.hu",
+   "bbox": [
+    431,
+    555,
+    647,
+    571
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    106,
+    610,
+    233,
+    625
+   ]
+  },
+  {
+   "text": "8335069522",
+   "bbox": [
+    431,
+    608,
+    541,
+    621
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    661,
+    177,
+    673
+   ]
+  },
+  {
+   "text": "151 773 063",
+   "bbox": [
+    431,
+    663,
+    540,
+    676
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    736,
+    234,
+    754
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    782,
+    393,
+    797
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    827,
+    258,
+    839
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    139,
+    872,
+    407,
+    887
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    972,
+    128,
+    985
+   ]
+  },
+  {
+   "text": "Debrecen, 2025. 07. 01.",
+   "bbox": [
+    184,
+    968,
+    388,
+    985
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    936,
+    1022,
+    975,
+    1032
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

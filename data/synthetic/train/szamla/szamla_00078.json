@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2024/07702",
+  "kiallitas_datuma": "2024. augusztus 15.",
+  "teljesites_datuma": "2024. augusztus 13.",
+  "fizetesi_hatarido": "2024. augusztus 30.",
+  "elado_nev": "Rácz Trade Kft.",
+  "elado_cim": "H-3242 Balatonmártonkőrös, Kunháti utca 213.",
+  "elado_adoszam": "64890610-4-20",
+  "vevo_nev": "Bognár és Társa Kft.",
+  "vevo_cim": "H-6278 Székvég, Keresztkőrösi utca 249.",
+  "vevo_adoszam": "87586590-2-24",
+  "bankszamla": "99943716-00945561",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "2 340 Ft",
+  "afa_osszesen": "632 Ft",
+  "brutto_osszesen": "2 972 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 340",
+    "netto": "2 340",
+    "afa_kulcs": "27%",
+    "afa": "632",
+    "brutto": "2 972"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ",
+   "bbox": [
+    114,
+    102,
+    185,
+    124
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1006,
+    87,
+    1170,
+    121
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2024/07702",
+   "bbox": [
+    870,
+    145,
+    1170,
+    169
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    224,
+    157,
+    244
+   ]
+  },
+  {
+   "text": "Rácz Trade Kft.",
+   "bbox": [
+    70,
+    262,
+    277,
+    282
+   ]
+  },
+  {
+   "text": "H-3242 Balatonmártonkőrös, Kunháti utca 213.",
+   "bbox": [
+    70,
+    299,
+    574,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 64890610-4-20",
+   "bbox": [
+    69,
+    331,
+    351,
+    353
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    224,
+    707,
+    244
+   ]
+  },
+  {
+   "text": "Bognár és Társa Kft.",
+   "bbox": [
+    630,
+    262,
+    903,
+    288
+   ]
+  },
+  {
+   "text": "H-6278 Székvég, Keresztkőrösi utca 249.",
+   "bbox": [
+    630,
+    299,
+    1065,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 87586590-2-24",
+   "bbox": [
+    629,
+    331,
+    908,
+    353
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    70,
+    401,
+    281,
+    419
+   ]
+  },
+  {
+   "text": "2024. augusztus 15.",
+   "bbox": [
+    370,
+    403,
+    577,
+    424
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    70,
+    435,
+    295,
+    458
+   ]
+  },
+  {
+   "text": "2024. augusztus 13.",
+   "bbox": [
+    370,
+    437,
+    577,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    70,
+    469,
+    285,
+    487
+   ]
+  },
+  {
+   "text": "2024. augusztus 30.",
+   "bbox": [
+    370,
+    471,
+    582,
+    492
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    70,
+    503,
+    235,
+    521
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    369,
+    503,
+    489,
+    526
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    548,
+    200,
+    569
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    549,
+    591,
+    569
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    548,
+    752,
+    569
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    825,
+    548,
+    884,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    544,
+    950,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    544,
+    1055,
+    564
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    548,
+    1170,
+    564
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    510,
+    596,
+    595,
+    612
+   ]
+  },
+  {
+   "text": "2 340",
+   "bbox": [
+    698,
+    596,
+    752,
+    611
+   ]
+  },
+  {
+   "text": "2 340",
+   "bbox": [
+    830,
+    596,
+    884,
+    611
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    592,
+    950,
+    611
+   ]
+  },
+  {
+   "text": "632",
+   "bbox": [
+    1018,
+    592,
+    1054,
+    611
+   ]
+  },
+  {
+   "text": "2 972",
+   "bbox": [
+    1118,
+    596,
+    1170,
+    611
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    70,
+    591,
+    319,
+    612
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    668,
+    648,
+    840,
+    667
+   ]
+  },
+  {
+   "text": "2 340 Ft",
+   "bbox": [
+    1077,
+    649,
+    1170,
+    671
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    682,
+    840,
+    705
+   ]
+  },
+  {
+   "text": "632 Ft",
+   "bbox": [
+    1098,
+    687,
+    1170,
+    709
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    615,
+    725,
+    840,
+    748
+   ]
+  },
+  {
+   "text": "2 972 Ft",
+   "bbox": [
+    1069,
+    725,
+    1170,
+    748
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 99943716-00945561",
+   "bbox": [
+    70,
+    793,
+    469,
+    814
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

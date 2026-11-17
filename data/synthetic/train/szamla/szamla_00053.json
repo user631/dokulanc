@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2026/00860",
+  "kiallitas_datuma": "2026. november 8.",
+  "teljesites_datuma": "2026. november 8.",
+  "fizetesi_hatarido": "2026. november 16.",
+  "elado_nev": "Bakos és Társa Kft.",
+  "elado_cim": "H-1040 Nagykanizsa, Tamásifai utca 216.",
+  "elado_adoszam": "80251981-2-23",
+  "vevo_nev": "Balogh Consulting Bt.",
+  "vevo_cim": "H-7091 Mártonvára, Nagykanizsai utca 26.",
+  "vevo_adoszam": "51422934-2-43",
+  "bankszamla": "HU59 7081 4415 6822 0208 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "117 470 Ft",
+  "afa_osszesen": "22 905 Ft",
+  "brutto_osszesen": "140 375 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "3 db",
+    "egysegar": "5 600",
+    "netto": "16 800",
+    "afa_kulcs": "27%",
+    "afa": "4 536",
+    "brutto": "21 336"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "27 580",
+    "netto": "27 580",
+    "afa_kulcs": "5%",
+    "afa": "1 379",
+    "brutto": "28 959"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "7 410",
+    "netto": "14 820",
+    "afa_kulcs": "27%",
+    "afa": "4 001",
+    "brutto": "18 821"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "12 karton",
+    "egysegar": "2 540",
+    "netto": "30 480",
+    "afa_kulcs": "18%",
+    "afa": "5 486",
+    "brutto": "35 966"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "27 790",
+    "netto": "27 790",
+    "afa_kulcs": "27%",
+    "afa": "7 503",
+    "brutto": "35 293"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    434,
+    120,
+    805,
+    150
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/00860",
+   "bbox": [
+    451,
+    173,
+    788,
+    193
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    106,
+    254,
+    164,
+    270
+   ]
+  },
+  {
+   "text": "Balogh Consulting Bt.",
+   "bbox": [
+    106,
+    287,
+    330,
+    309
+   ]
+  },
+  {
+   "text": "H-7091 Mártonvára, Nagykanizsai utca 26.",
+   "bbox": [
+    106,
+    319,
+    476,
+    339
+   ]
+  },
+  {
+   "text": "Adószám: 51422934-2-43",
+   "bbox": [
+    106,
+    347,
+    333,
+    362
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    253,
+    693,
+    270
+   ]
+  },
+  {
+   "text": "Bakos és Társa Kft.",
+   "bbox": [
+    630,
+    287,
+    824,
+    304
+   ]
+  },
+  {
+   "text": "H-1040 Nagykanizsa, Tamásifai utca 216.",
+   "bbox": [
+    630,
+    319,
+    985,
+    339
+   ]
+  },
+  {
+   "text": "Adószám: 80251981-2-23",
+   "bbox": [
+    630,
+    347,
+    857,
+    362
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    106,
+    413,
+    265,
+    428
+   ]
+  },
+  {
+   "text": "2026. november 8.",
+   "bbox": [
+    406,
+    413,
+    568,
+    428
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    106,
+    443,
+    278,
+    463
+   ]
+  },
+  {
+   "text": "2026. november 8.",
+   "bbox": [
+    406,
+    443,
+    568,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    106,
+    473,
+    268,
+    488
+   ]
+  },
+  {
+   "text": "2026. november 16.",
+   "bbox": [
+    406,
+    473,
+    579,
+    488
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    106,
+    503,
+    230,
+    518
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    406,
+    503,
+    474,
+    518
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    106,
+    544,
+    204,
+    561
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    545,
+    576,
+    561
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    544,
+    743,
+    561
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    544,
+    866,
+    557
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    541,
+    928,
+    557
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    993,
+    541,
+    1026,
+    557
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1082,
+    544,
+    1134,
+    557
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    517,
+    583,
+    551,
+    596
+   ]
+  },
+  {
+   "text": "5 600",
+   "bbox": [
+    702,
+    584,
+    743,
+    596
+   ]
+  },
+  {
+   "text": "16 800",
+   "bbox": [
+    816,
+    584,
+    866,
+    596
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    584,
+    928,
+    596
+   ]
+  },
+  {
+   "text": "4 536",
+   "bbox": [
+    985,
+    584,
+    1026,
+    596
+   ]
+  },
+  {
+   "text": "21 336",
+   "bbox": [
+    1084,
+    584,
+    1134,
+    596
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    106,
+    583,
+    240,
+    600
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    517,
+    616,
+    549,
+    629
+   ]
+  },
+  {
+   "text": "27 580",
+   "bbox": [
+    693,
+    617,
+    743,
+    629
+   ]
+  },
+  {
+   "text": "27 580",
+   "bbox": [
+    816,
+    617,
+    866,
+    629
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    905,
+    617,
+    928,
+    629
+   ]
+  },
+  {
+   "text": "1 379",
+   "bbox": [
+    985,
+    617,
+    1026,
+    629
+   ]
+  },
+  {
+   "text": "28 959",
+   "bbox": [
+    1084,
+    617,
+    1134,
+    629
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    106,
+    616,
+    311,
+    633
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    517,
+    649,
+    551,
+    662
+   ]
+  },
+  {
+   "text": "7 410",
+   "bbox": [
+    702,
+    650,
+    743,
+    662
+   ]
+  },
+  {
+   "text": "14 820",
+   "bbox": [
+    816,
+    650,
+    866,
+    662
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    650,
+    928,
+    662
+   ]
+  },
+  {
+   "text": "4 001",
+   "bbox": [
+    985,
+    650,
+    1026,
+    662
+   ]
+  },
+  {
+   "text": "18 821",
+   "bbox": [
+    1084,
+    650,
+    1134,
+    662
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    106,
+    649,
+    203,
+    666
+   ]
+  },
+  {
+   "text": "12 karton",
+   "bbox": [
+    517,
+    682,
+    589,
+    695
+   ]
+  },
+  {
+   "text": "2 540",
+   "bbox": [
+    702,
+    683,
+    743,
+    695
+   ]
+  },
+  {
+   "text": "30 480",
+   "bbox": [
+    816,
+    683,
+    866,
+    695
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    896,
+    683,
+    928,
+    695
+   ]
+  },
+  {
+   "text": "5 486",
+   "bbox": [
+    985,
+    683,
+    1026,
+    695
+   ]
+  },
+  {
+   "text": "35 966",
+   "bbox": [
+    1084,
+    683,
+    1134,
+    695
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    106,
+    679,
+    215,
+    699
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    517,
+    715,
+    556,
+    728
+   ]
+  },
+  {
+   "text": "27 790",
+   "bbox": [
+    693,
+    716,
+    743,
+    728
+   ]
+  },
+  {
+   "text": "27 790",
+   "bbox": [
+    816,
+    716,
+    866,
+    728
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    716,
+    928,
+    728
+   ]
+  },
+  {
+   "text": "7 503",
+   "bbox": [
+    985,
+    716,
+    1026,
+    728
+   ]
+  },
+  {
+   "text": "35 293",
+   "bbox": [
+    1084,
+    716,
+    1134,
+    728
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    106,
+    715,
+    193,
+    728
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    657,
+    770,
+    804,
+    785
+   ]
+  },
+  {
+   "text": "117 470 Ft",
+   "bbox": [
+    1039,
+    770,
+    1134,
+    785
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    672,
+    800,
+    804,
+    819
+   ]
+  },
+  {
+   "text": "22 905 Ft",
+   "bbox": [
+    1050,
+    804,
+    1134,
+    819
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    629,
+    837,
+    804,
+    858
+   ]
+  },
+  {
+   "text": "140 375 Ft",
+   "bbox": [
+    1031,
+    838,
+    1134,
+    853
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU59 7081 4415 6822 0208 0000 0000",
+   "bbox": [
+    106,
+    901,
+    573,
+    915
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    106,
+    928,
+    576,
+    944
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

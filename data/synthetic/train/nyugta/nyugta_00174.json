@@ -1,0 +1,391 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KIS DISZKONT KFT.",
+  "uzlet_cim": "H-6471 Mellékfalu, Újtapolcai utca 169.",
+  "adoszam": "95991236-2-22",
+  "datum": "2024.01.27.",
+  "ido": "21:27",
+  "nyugtaszam": "5578/91763",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 591 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "392"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "686"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2217"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "543"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "596"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2937"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "636"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "81"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1131"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "662"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "710"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KIS DISZKONT KFT.",
+   "bbox": [
+    168,
+    34,
+    389,
+    48
+   ]
+  },
+  {
+   "text": "H-6471 Mellékfalu, Újtapolcai utca 169.",
+   "bbox": [
+    64,
+    63,
+    493,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 95991236-2-22",
+   "bbox": [
+    158,
+    87,
+    400,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    237,
+    128,
+    322,
+    143
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    168,
+    192,
+    182
+   ]
+  },
+  {
+   "text": "392 C00",
+   "bbox": [
+    451,
+    168,
+    535,
+    182
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    196,
+    216,
+    210
+   ]
+  },
+  {
+   "text": "686 A00",
+   "bbox": [
+    451,
+    196,
+    535,
+    210
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    224,
+    132,
+    238
+   ]
+  },
+  {
+   "text": "2217 A00",
+   "bbox": [
+    439,
+    224,
+    535,
+    238
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    252,
+    156,
+    266
+   ]
+  },
+  {
+   "text": "543 C00",
+   "bbox": [
+    451,
+    252,
+    535,
+    266
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    280,
+    120,
+    294
+   ]
+  },
+  {
+   "text": "596 B00",
+   "bbox": [
+    451,
+    280,
+    535,
+    294
+   ]
+  },
+  {
+   "text": "3 DB x 979",
+   "bbox": [
+    24,
+    308,
+    124,
+    320
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    330,
+    120,
+    344
+   ]
+  },
+  {
+   "text": "2937 A00",
+   "bbox": [
+    439,
+    330,
+    535,
+    344
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    358,
+    120,
+    372
+   ]
+  },
+  {
+   "text": "636 B00",
+   "bbox": [
+    451,
+    358,
+    535,
+    372
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    387,
+    96,
+    400
+   ]
+  },
+  {
+   "text": "81 B00",
+   "bbox": [
+    463,
+    386,
+    535,
+    400
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    414,
+    144,
+    428
+   ]
+  },
+  {
+   "text": "1131 B00",
+   "bbox": [
+    439,
+    414,
+    535,
+    428
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    442,
+    132,
+    456
+   ]
+  },
+  {
+   "text": "662 A00",
+   "bbox": [
+    451,
+    442,
+    535,
+    456
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    470,
+    192,
+    484
+   ]
+  },
+  {
+   "text": "710 C00",
+   "bbox": [
+    451,
+    470,
+    535,
+    484
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    508,
+    164,
+    527
+   ]
+  },
+  {
+   "text": "10 591 Ft",
+   "bbox": [
+    409,
+    510,
+    535,
+    527
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    546,
+    144,
+    562
+   ]
+  },
+  {
+   "text": "10 591 Ft",
+   "bbox": [
+    427,
+    548,
+    535,
+    562
+   ]
+  },
+  {
+   "text": "2024.01.27.",
+   "bbox": [
+    24,
+    590,
+    145,
+    603
+   ]
+  },
+  {
+   "text": "21:27",
+   "bbox": [
+    480,
+    590,
+    535,
+    603
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5578/91763",
+   "bbox": [
+    24,
+    617,
+    266,
+    634
+   ]
+  },
+  {
+   "text": "AP A86199014",
+   "bbox": [
+    24,
+    646,
+    156,
+    659
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    158,
+    684,
+    400,
+    699
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  559,
+  744
+ ]
+}

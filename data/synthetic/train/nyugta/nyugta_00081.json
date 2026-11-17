@@ -1,0 +1,356 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS MARKET BT.",
+  "uzlet_cim": "H-7960 Cegléd, Ráchídi utca 212.",
+  "adoszam": "76401705-5-27",
+  "datum": "2024.06.07.",
+  "ido": "16:53",
+  "nyugtaszam": "5228/59269",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 799 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2442"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "267"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "81"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "393"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1275"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "883"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "207"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1302"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "949"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS MARKET BT.",
+   "bbox": [
+    146,
+    37,
+    386,
+    52
+   ]
+  },
+  {
+   "text": "H-7960 Cegléd, Ráchídi utca 212.",
+   "bbox": [
+    58,
+    71,
+    474,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 76401705-5-27",
+   "bbox": [
+    123,
+    96,
+    409,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    214,
+    144,
+    318,
+    160
+   ]
+  },
+  {
+   "text": "3 DB x 814",
+   "bbox": [
+    24,
+    187,
+    154,
+    200
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    213,
+    136,
+    228
+   ]
+  },
+  {
+   "text": "2442 B00",
+   "bbox": [
+    397,
+    213,
+    509,
+    228
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    246,
+    207,
+    260
+   ]
+  },
+  {
+   "text": "267 C00",
+   "bbox": [
+    411,
+    245,
+    509,
+    260
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    278,
+    108,
+    292
+   ]
+  },
+  {
+   "text": "81 B00",
+   "bbox": [
+    425,
+    277,
+    509,
+    292
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    309,
+    220,
+    324
+   ]
+  },
+  {
+   "text": "393 B00",
+   "bbox": [
+    411,
+    309,
+    509,
+    324
+   ]
+  },
+  {
+   "text": "3 DB x 425",
+   "bbox": [
+    24,
+    341,
+    154,
+    354
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    367,
+    150,
+    382
+   ]
+  },
+  {
+   "text": "1275 B00",
+   "bbox": [
+    397,
+    367,
+    509,
+    382
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    399,
+    136,
+    414
+   ]
+  },
+  {
+   "text": "883 B00",
+   "bbox": [
+    411,
+    399,
+    509,
+    414
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    431,
+    220,
+    450
+   ]
+  },
+  {
+   "text": "207 B00",
+   "bbox": [
+    411,
+    431,
+    509,
+    446
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    463,
+    164,
+    478
+   ]
+  },
+  {
+   "text": "1302 B00",
+   "bbox": [
+    397,
+    463,
+    509,
+    478
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    495,
+    192,
+    510
+   ]
+  },
+  {
+   "text": "949 C00",
+   "bbox": [
+    411,
+    495,
+    509,
+    510
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    537,
+    177,
+    558
+   ]
+  },
+  {
+   "text": "7 799 Ft",
+   "bbox": [
+    373,
+    541,
+    509,
+    558
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    577,
+    136,
+    596
+   ]
+  },
+  {
+   "text": "7 799 Ft",
+   "bbox": [
+    397,
+    581,
+    509,
+    596
+   ]
+  },
+  {
+   "text": "2024.06.07.",
+   "bbox": [
+    24,
+    627,
+    167,
+    641
+   ]
+  },
+  {
+   "text": "16:53",
+   "bbox": [
+    444,
+    627,
+    509,
+    641
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5228/59269",
+   "bbox": [
+    24,
+    656,
+    310,
+    675
+   ]
+  },
+  {
+   "text": "AP A57566381",
+   "bbox": [
+    24,
+    691,
+    180,
+    705
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    112,
+    730,
+    420,
+    750
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  533,
+  794
+ ]
+}

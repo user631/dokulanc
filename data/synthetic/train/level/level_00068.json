@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Lakatos Tech Kft.",
+  "felado_cim": "H-3106 Kereszthida, Szabadság utca 113.",
+  "cimzett": "Sándor Zsuzsanna",
+  "cimzett_cim": "H-6918 Nagykanizsa, Szerbi utca 123.",
+  "datum": "2024. június 1.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "REF-2024/13497",
+  "hatarido": "2024. június 21",
+  "teendo": "a SZ-2024/06069 számú számla 43 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Tóth Roland"
+ },
+ "lines": [
+  {
+   "text": "Lakatos Tech Kft.",
+   "bbox": [
+    109,
+    85,
+    406,
+    110
+   ]
+  },
+  {
+   "text": "H-3106 Kereszthida, Szabadság utca 113.",
+   "bbox": [
+    109,
+    127,
+    526,
+    149
+   ]
+  },
+  {
+   "text": "Tel.: 06 1 138 4755   E-mail: info@lakatos.hu",
+   "bbox": [
+    109,
+    154,
+    568,
+    175
+   ]
+  },
+  {
+   "text": "Sándor Zsuzsanna",
+   "bbox": [
+    109,
+    240,
+    367,
+    261
+   ]
+  },
+  {
+   "text": "H-6918 Nagykanizsa",
+   "bbox": [
+    109,
+    276,
+    358,
+    302
+   ]
+  },
+  {
+   "text": "Szerbi utca 123.",
+   "bbox": [
+    109,
+    309,
+    297,
+    334
+   ]
+  },
+  {
+   "text": "Tiszatapolcaapáti, 2024. június 1.",
+   "bbox": [
+    729,
+    381,
+    1131,
+    408
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    109,
+    438,
+    459,
+    465
+   ]
+  },
+  {
+   "text": "Ügyszám: REF-2024/13497",
+   "bbox": [
+    109,
+    471,
+    442,
+    502
+   ]
+  },
+  {
+   "text": "Tisztelt Címzett!",
+   "bbox": [
+    109,
+    542,
+    305,
+    563
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2024/06069 számú, 2024. május 10. kelt számla 43",
+   "bbox": [
+    109,
+    595,
+    1131,
+    622
+   ]
+  },
+  {
+   "text": "000 Ft összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    109,
+    632,
+    951,
+    659
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2024. június 21 napjáig szíveskedjen átutalni",
+   "bbox": [
+    109,
+    683,
+    1125,
+    710
+   ]
+  },
+  {
+   "text": "a 34162895-04256821-11778156 számú bankszámlánkra.",
+   "bbox": [
+    109,
+    720,
+    792,
+    746
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    108,
+    771,
+    1082,
+    798
+   ]
+  },
+  {
+   "text": "Tisztelettel:",
+   "bbox": [
+    109,
+    853,
+    248,
+    873
+   ]
+  },
+  {
+   "text": "Tóth Roland",
+   "bbox": [
+    149,
+    949,
+    321,
+    970
+   ]
+  },
+  {
+   "text": "pénzügyi vezető",
+   "bbox": [
+    149,
+    982,
+    322,
+    1006
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

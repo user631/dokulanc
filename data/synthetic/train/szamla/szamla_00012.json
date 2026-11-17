@@ -1,0 +1,840 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/05346",
+  "kiallitas_datuma": "2025.01.18.",
+  "teljesites_datuma": "2025.01.17.",
+  "fizetesi_hatarido": "2025.01.26.",
+  "elado_nev": "Orsós Consulting Zrt.",
+  "elado_cim": "H-8089 Alsótapolcafalva, Ligetházai tér 224.",
+  "elado_adoszam": "10378058-2-38",
+  "vevo_nev": "Kiss Zsolt",
+  "vevo_cim": "H-6356 Békésgyörgyvár, Miskolci utca 53.",
+  "vevo_adoszam": null,
+  "bankszamla": "20566344-28374729",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 285 090 Ft",
+  "afa_osszesen": "346 725 Ft",
+  "brutto_osszesen": "1 631 815 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "12 óra",
+    "egysegar": "9 530",
+    "netto": "114 360",
+    "afa_kulcs": "27%",
+    "afa": "30 877",
+    "brutto": "145 237"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "3 db",
+    "egysegar": "13 640",
+    "netto": "40 920",
+    "afa_kulcs": "27%",
+    "afa": "11 048",
+    "brutto": "51 968"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "95 490",
+    "netto": "954 900",
+    "afa_kulcs": "27%",
+    "afa": "257 823",
+    "brutto": "1 212 723"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "4 600",
+    "netto": "55 200",
+    "afa_kulcs": "27%",
+    "afa": "14 904",
+    "brutto": "70 104"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "105 740",
+    "netto": "105 740",
+    "afa_kulcs": "27%",
+    "afa": "28 550",
+    "brutto": "134 290"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "4 csomag",
+    "egysegar": "2 800",
+    "netto": "11 200",
+    "afa_kulcs": "27%",
+    "afa": "3 024",
+    "brutto": "14 224"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 770",
+    "netto": "2 770",
+    "afa_kulcs": "18%",
+    "afa": "499",
+    "brutto": "3 269"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ORSÓS",
+   "bbox": [
+    130,
+    124,
+    217,
+    147
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    996,
+    112,
+    1146,
+    144
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/05346",
+   "bbox": [
+    839,
+    169,
+    1146,
+    188
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    94,
+    249,
+    173,
+    268
+   ]
+  },
+  {
+   "text": "Orsós Consulting Zrt.",
+   "bbox": [
+    94,
+    287,
+    360,
+    311
+   ]
+  },
+  {
+   "text": "H-8089 Alsótapolcafalva, Ligetházai tér 224.",
+   "bbox": [
+    94,
+    323,
+    559,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 10378058-2-38",
+   "bbox": [
+    93,
+    355,
+    366,
+    372
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    249,
+    700,
+    268
+   ]
+  },
+  {
+   "text": "Kiss Zsolt",
+   "bbox": [
+    630,
+    287,
+    753,
+    306
+   ]
+  },
+  {
+   "text": "H-6356 Békésgyörgyvár, Miskolci utca 53.",
+   "bbox": [
+    630,
+    323,
+    1074,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    94,
+    424,
+    258,
+    440
+   ]
+  },
+  {
+   "text": "2025.01.18.",
+   "bbox": [
+    94,
+    454,
+    216,
+    471
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    424,
+    537,
+    444
+   ]
+  },
+  {
+   "text": "2025.01.17.",
+   "bbox": [
+    357,
+    454,
+    479,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    424,
+    789,
+    440
+   ]
+  },
+  {
+   "text": "2025.01.26.",
+   "bbox": [
+    620,
+    454,
+    742,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    424,
+    1013,
+    440
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    883,
+    454,
+    998,
+    476
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    94,
+    506,
+    221,
+    526
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    507,
+    588,
+    526
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    650,
+    506,
+    747,
+    526
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    506,
+    872,
+    522
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    503,
+    935,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    503,
+    1036,
+    522
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1083,
+    506,
+    1146,
+    522
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    514,
+    550,
+    575,
+    565
+   ]
+  },
+  {
+   "text": "9 530",
+   "bbox": [
+    692,
+    550,
+    746,
+    565
+   ]
+  },
+  {
+   "text": "114 360",
+   "bbox": [
+    794,
+    550,
+    872,
+    565
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    550,
+    935,
+    565
+   ]
+  },
+  {
+   "text": "30 877",
+   "bbox": [
+    969,
+    550,
+    1035,
+    565
+   ]
+  },
+  {
+   "text": "145 237",
+   "bbox": [
+    1068,
+    550,
+    1146,
+    565
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    94,
+    550,
+    390,
+    569
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    514,
+    587,
+    556,
+    602
+   ]
+  },
+  {
+   "text": "13 640",
+   "bbox": [
+    680,
+    587,
+    746,
+    602
+   ]
+  },
+  {
+   "text": "40 920",
+   "bbox": [
+    806,
+    587,
+    872,
+    602
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    587,
+    935,
+    602
+   ]
+  },
+  {
+   "text": "11 048",
+   "bbox": [
+    969,
+    587,
+    1035,
+    602
+   ]
+  },
+  {
+   "text": "51 968",
+   "bbox": [
+    1080,
+    587,
+    1146,
+    602
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    94,
+    587,
+    256,
+    602
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    514,
+    624,
+    619,
+    639
+   ]
+  },
+  {
+   "text": "95 490",
+   "bbox": [
+    680,
+    624,
+    746,
+    639
+   ]
+  },
+  {
+   "text": "954 900",
+   "bbox": [
+    794,
+    624,
+    872,
+    639
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    624,
+    935,
+    639
+   ]
+  },
+  {
+   "text": "257 823",
+   "bbox": [
+    957,
+    624,
+    1035,
+    639
+   ]
+  },
+  {
+   "text": "1 212 723",
+   "bbox": [
+    1050,
+    624,
+    1146,
+    639
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    94,
+    624,
+    312,
+    643
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    514,
+    661,
+    590,
+    676
+   ]
+  },
+  {
+   "text": "4 600",
+   "bbox": [
+    692,
+    661,
+    746,
+    676
+   ]
+  },
+  {
+   "text": "55 200",
+   "bbox": [
+    806,
+    661,
+    872,
+    676
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    661,
+    935,
+    676
+   ]
+  },
+  {
+   "text": "14 904",
+   "bbox": [
+    969,
+    661,
+    1035,
+    676
+   ]
+  },
+  {
+   "text": "70 104",
+   "bbox": [
+    1080,
+    661,
+    1146,
+    676
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    94,
+    661,
+    353,
+    680
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    514,
+    698,
+    556,
+    713
+   ]
+  },
+  {
+   "text": "105 740",
+   "bbox": [
+    668,
+    698,
+    746,
+    713
+   ]
+  },
+  {
+   "text": "105 740",
+   "bbox": [
+    794,
+    698,
+    872,
+    713
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    698,
+    935,
+    713
+   ]
+  },
+  {
+   "text": "28 550",
+   "bbox": [
+    969,
+    698,
+    1035,
+    713
+   ]
+  },
+  {
+   "text": "134 290",
+   "bbox": [
+    1068,
+    698,
+    1146,
+    713
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    94,
+    698,
+    372,
+    717
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    514,
+    735,
+    608,
+    754
+   ]
+  },
+  {
+   "text": "2 800",
+   "bbox": [
+    692,
+    735,
+    746,
+    750
+   ]
+  },
+  {
+   "text": "11 200",
+   "bbox": [
+    806,
+    735,
+    872,
+    750
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    735,
+    935,
+    750
+   ]
+  },
+  {
+   "text": "3 024",
+   "bbox": [
+    981,
+    735,
+    1035,
+    750
+   ]
+  },
+  {
+   "text": "14 224",
+   "bbox": [
+    1080,
+    735,
+    1146,
+    750
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    94,
+    735,
+    344,
+    754
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    514,
+    772,
+    608,
+    791
+   ]
+  },
+  {
+   "text": "2 770",
+   "bbox": [
+    692,
+    772,
+    746,
+    787
+   ]
+  },
+  {
+   "text": "2 770",
+   "bbox": [
+    818,
+    772,
+    872,
+    787
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    892,
+    772,
+    935,
+    787
+   ]
+  },
+  {
+   "text": "499",
+   "bbox": [
+    999,
+    772,
+    1035,
+    787
+   ]
+  },
+  {
+   "text": "3 269",
+   "bbox": [
+    1092,
+    772,
+    1146,
+    787
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    94,
+    772,
+    272,
+    791
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    634,
+    829,
+    816,
+    847
+   ]
+  },
+  {
+   "text": "1 285 090 Ft",
+   "bbox": [
+    1005,
+    829,
+    1146,
+    847
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    644,
+    862,
+    816,
+    885
+   ]
+  },
+  {
+   "text": "346 725 Ft",
+   "bbox": [
+    1026,
+    867,
+    1146,
+    885
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    676,
+    903,
+    816,
+    928
+   ]
+  },
+  {
+   "text": "1 631 815 Ft",
+   "bbox": [
+    1004,
+    905,
+    1147,
+    923
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 20566344-28374729",
+   "bbox": [
+    94,
+    972,
+    505,
+    989
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    94,
+    1004,
+    711,
+    1023
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    399,
+    1641,
+    841,
+    1659
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Lakatos Erzsébet",
+  "anyja_neve": "Orosz Ágnes",
+  "szuletesi_hely": "Györgyberény",
+  "szuletesi_datum": "1964.05.20.",
+  "lakcim": "H-5579 Dunaújváros, Szabadság utca 206.",
+  "telefon": "06 1 339 9172",
+  "email": "lakatos.erzsebet@citromail.hu",
+  "adoazonosito_jel": "8355688244",
+  "taj_szam": "075 854 175",
+  "kelt": "Mindszentfalu, 2026.01.03."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    459,
+    111,
+    780,
+    145
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    110,
+    221,
+    329,
+    243
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    122,
+    274,
+    163,
+    290
+   ]
+  },
+  {
+   "text": "Lakatos Erzsébet",
+   "bbox": [
+    428,
+    274,
+    602,
+    292
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    122,
+    329,
+    229,
+    347
+   ]
+  },
+  {
+   "text": "Orosz Ágnes",
+   "bbox": [
+    428,
+    324,
+    553,
+    350
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    122,
+    380,
+    254,
+    400
+   ]
+  },
+  {
+   "text": "Györgyberény",
+   "bbox": [
+    428,
+    377,
+    572,
+    400
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    122,
+    433,
+    244,
+    449
+   ]
+  },
+  {
+   "text": "1964.05.20.",
+   "bbox": [
+    428,
+    436,
+    548,
+    452
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    122,
+    486,
+    193,
+    502
+   ]
+  },
+  {
+   "text": "H-5579 Dunaújváros, Szabadság utca 206.",
+   "bbox": [
+    428,
+    483,
+    855,
+    506
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    122,
+    539,
+    244,
+    555
+   ]
+  },
+  {
+   "text": "06 1 339 9172",
+   "bbox": [
+    428,
+    538,
+    569,
+    554
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    122,
+    592,
+    226,
+    608
+   ]
+  },
+  {
+   "text": "lakatos.erzsebet@citromail.hu",
+   "bbox": [
+    428,
+    595,
+    744,
+    614
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    122,
+    645,
+    280,
+    665
+   ]
+  },
+  {
+   "text": "8355688244",
+   "bbox": [
+    428,
+    643,
+    548,
+    659
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    122,
+    698,
+    215,
+    714
+   ]
+  },
+  {
+   "text": "075 854 175",
+   "bbox": [
+    428,
+    698,
+    550,
+    714
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    110,
+    779,
+    285,
+    801
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    155,
+    822,
+    478,
+    842
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    155,
+    867,
+    308,
+    883
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    155,
+    912,
+    491,
+    932
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    110,
+    1017,
+    155,
+    1032
+   ]
+  },
+  {
+   "text": "Mindszentfalu, 2026.01.03.",
+   "bbox": [
+    200,
+    1013,
+    480,
+    1034
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    914,
+    1064,
+    965,
+    1078
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

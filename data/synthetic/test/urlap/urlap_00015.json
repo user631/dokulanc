@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Szilágyi László",
+  "anyja_neve": "Németh György",
+  "szuletesi_hely": "Zalaegerszeg",
+  "szuletesi_datum": "1992.04.14.",
+  "lakcim": "H-9574 Szolnok, Budatóti tér 5.",
+  "telefon": "06 1 563 2351",
+  "email": "szilagyi.laszlo@example.hu",
+  "adoazonosito_jel": "8457594877",
+  "taj_szam": "342 066 735",
+  "kelt": "Székapáti, 2026.12.29."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    452,
+    107,
+    788,
+    139
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    485,
+    161,
+    754,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    213,
+    316,
+    233
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    267,
+    156,
+    280
+   ]
+  },
+  {
+   "text": "Szilágyi László",
+   "bbox": [
+    404,
+    269,
+    548,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    318,
+    213,
+    335
+   ]
+  },
+  {
+   "text": "Németh György",
+   "bbox": [
+    404,
+    315,
+    554,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    369,
+    235,
+    386
+   ]
+  },
+  {
+   "text": "Zalaegerszeg",
+   "bbox": [
+    404,
+    365,
+    535,
+    384
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    420,
+    226,
+    433
+   ]
+  },
+  {
+   "text": "1992.04.14.",
+   "bbox": [
+    404,
+    416,
+    518,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    471,
+    182,
+    484
+   ]
+  },
+  {
+   "text": "H-9574 Szolnok, Budatóti tér 5.",
+   "bbox": [
+    404,
+    470,
+    703,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    119,
+    522,
+    227,
+    535
+   ]
+  },
+  {
+   "text": "06 1 563 2351",
+   "bbox": [
+    404,
+    520,
+    542,
+    535
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    573,
+    209,
+    586
+   ]
+  },
+  {
+   "text": "szilagyi.laszlo@example.hu",
+   "bbox": [
+    404,
+    575,
+    671,
+    594
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    624,
+    257,
+    641
+   ]
+  },
+  {
+   "text": "8457594877",
+   "bbox": [
+    404,
+    624,
+    524,
+    639
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    119,
+    675,
+    204,
+    688
+   ]
+  },
+  {
+   "text": "342 066 735",
+   "bbox": [
+    404,
+    674,
+    524,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    752,
+    269,
+    771
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    796,
+    435,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    841,
+    282,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    886,
+    450,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    987,
+    145,
+    1001
+   ]
+  },
+  {
+   "text": "Székapáti, 2026.12.29.",
+   "bbox": [
+    197,
+    984,
+    418,
+    1003
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1036,
+    965,
+    1047
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

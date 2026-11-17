@@ -1,0 +1,363 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET KFT.",
+  "uzlet_cim": "H-6543 Hódmezővásárhely, Szabadság utca 224.",
+  "adoszam": "19051853-2-23",
+  "datum": "2025.04.21.",
+  "ido": "11:38",
+  "nyugtaszam": "1155/31701",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 560 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "553"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "868"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "291"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1479"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1276"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1617"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5076"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "500"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET KFT.",
+   "bbox": [
+    185,
+    35,
+    441,
+    51
+   ]
+  },
+  {
+   "text": "H-6543 Hódmezővásárhely, Szabadság utca 224.",
+   "bbox": [
+    27,
+    67,
+    599,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 19051853-2-23",
+   "bbox": [
+    170,
+    95,
+    456,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    141,
+    364,
+    159
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    184,
+    136,
+    201
+   ]
+  },
+  {
+   "text": "553 B00",
+   "bbox": [
+    504,
+    184,
+    602,
+    201
+   ]
+  },
+  {
+   "text": "2 DB x 434",
+   "bbox": [
+    24,
+    216,
+    154,
+    231
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    242,
+    150,
+    259
+   ]
+  },
+  {
+   "text": "868 B00",
+   "bbox": [
+    504,
+    242,
+    602,
+    259
+   ]
+  },
+  {
+   "text": "3 DB x 97",
+   "bbox": [
+    24,
+    274,
+    141,
+    289
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    302,
+    108,
+    317
+   ]
+  },
+  {
+   "text": "291 B00",
+   "bbox": [
+    504,
+    300,
+    602,
+    317
+   ]
+  },
+  {
+   "text": "3 DB x 493",
+   "bbox": [
+    24,
+    332,
+    154,
+    347
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    358,
+    220,
+    375
+   ]
+  },
+  {
+   "text": "1479 C00",
+   "bbox": [
+    490,
+    358,
+    602,
+    375
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    390,
+    136,
+    407
+   ]
+  },
+  {
+   "text": "1276 A00",
+   "bbox": [
+    490,
+    390,
+    602,
+    407
+   ]
+  },
+  {
+   "text": "3 DB x 539",
+   "bbox": [
+    24,
+    422,
+    154,
+    437
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    448,
+    136,
+    465
+   ]
+  },
+  {
+   "text": "1617 A00",
+   "bbox": [
+    490,
+    448,
+    602,
+    465
+   ]
+  },
+  {
+   "text": "2 DB x 2538",
+   "bbox": [
+    24,
+    480,
+    167,
+    495
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    506,
+    150,
+    523
+   ]
+  },
+  {
+   "text": "5076 B00",
+   "bbox": [
+    490,
+    506,
+    602,
+    523
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    538,
+    178,
+    555
+   ]
+  },
+  {
+   "text": "500 B00",
+   "bbox": [
+    504,
+    538,
+    602,
+    555
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    581,
+    177,
+    603
+   ]
+  },
+  {
+   "text": "11 560 Ft",
+   "bbox": [
+    449,
+    583,
+    602,
+    603
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    622,
+    165,
+    641
+   ]
+  },
+  {
+   "text": "11 560 Ft",
+   "bbox": [
+    476,
+    624,
+    602,
+    641
+   ]
+  },
+  {
+   "text": "2025.04.21.",
+   "bbox": [
+    24,
+    670,
+    167,
+    686
+   ]
+  },
+  {
+   "text": "11:38",
+   "bbox": [
+    537,
+    670,
+    602,
+    686
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1155/31701",
+   "bbox": [
+    24,
+    701,
+    310,
+    721
+   ]
+  },
+  {
+   "text": "AP A42825985",
+   "bbox": [
+    24,
+    734,
+    180,
+    750
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    159,
+    777,
+    467,
+    795
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  626,
+  840
+ ]
+}

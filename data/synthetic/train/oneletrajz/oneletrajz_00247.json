@@ -1,0 +1,344 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Erzsébet",
+  "email": "toth.erzsebet@outlook.com",
+  "telefon": "+36 70 173 6371",
+  "lakcim": "H-9805 Miskolc, Tótvégi utca 46.",
+  "szuletesi_datum": "2002. január 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Consulting Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2032 – jelenleg"
+   },
+   {
+    "ceg": "Farkas Trade Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Python",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    205,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    101,
+    166
+   ]
+  },
+  {
+   "text": "toth.erzsebet@outlook.com",
+   "bbox": [
+    40,
+    176,
+    297,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    210,
+    115,
+    226
+   ]
+  },
+  {
+   "text": "+36 70 173 6371",
+   "bbox": [
+    40,
+    236,
+    190,
+    251
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    270,
+    110,
+    286
+   ]
+  },
+  {
+   "text": "H-9805 Miskolc, Tótvégi utca 46.",
+   "bbox": [
+    40,
+    295,
+    345,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    330,
+    194,
+    346
+   ]
+  },
+  {
+   "text": "2002. január 11.",
+   "bbox": [
+    40,
+    355,
+    194,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    416,
+    193,
+    440
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    461,
+    158,
+    483
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    489,
+    150,
+    512
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    545,
+    170,
+    569
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    591,
+    109,
+    607
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    620,
+    108,
+    641
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    649,
+    170,
+    670
+   ]
+  },
+  {
+   "text": "Tóth Erzsébet",
+   "bbox": [
+    450,
+    111,
+    759,
+    146
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    178,
+    580,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    699,
+    273
+   ]
+  },
+  {
+   "text": "2032 – jelenleg",
+   "bbox": [
+    450,
+    299,
+    606,
+    321
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács Consulting Zrt.",
+   "bbox": [
+    450,
+    326,
+    839,
+    349
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    369,
+    606,
+    391
+   ]
+  },
+  {
+   "text": "irodavezető – Farkas Trade Kft.",
+   "bbox": [
+    450,
+    396,
+    805,
+    414
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    439,
+    606,
+    461
+   ]
+  },
+  {
+   "text": "rendszergazda – Szabó Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    466,
+    884,
+    489
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    520,
+    618,
+    546
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    450,
+    573,
+    568,
+    589
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    599,
+    1022,
+    622
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    625,
+    654,
+    643
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    670,
+    568,
+    686
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    696,
+    722,
+    719
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    723,
+    655,
+    745
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

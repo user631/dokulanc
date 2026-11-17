@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Horváth Sándor",
+  "anyja_neve": "Molnár László",
+  "szuletesi_hely": "Mellékfalu",
+  "szuletesi_datum": "1980.11.27.",
+  "lakcim": "H-4540 Drávatamásihalas, Salgótarjáni utca 55.",
+  "telefon": "+36 70 414 7798",
+  "email": "horvath.sandor@freemail.hu",
+  "adoazonosito_jel": "8416038152",
+  "taj_szam": "845 380 071",
+  "kelt": "Belsőtamásivárad, 2026.10.24."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    331,
+    102,
+    910,
+    136
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    474,
+    155,
+    765,
+    172
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    208,
+    308,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    261,
+    146,
+    275
+   ]
+  },
+  {
+   "text": "Horváth Sándor",
+   "bbox": [
+    410,
+    259,
+    563,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    313,
+    205,
+    331
+   ]
+  },
+  {
+   "text": "Molnár László",
+   "bbox": [
+    410,
+    310,
+    543,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    365,
+    227,
+    383
+   ]
+  },
+  {
+   "text": "Mellékfalu",
+   "bbox": [
+    410,
+    361,
+    510,
+    378
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    417,
+    219,
+    431
+   ]
+  },
+  {
+   "text": "1980.11.27.",
+   "bbox": [
+    410,
+    414,
+    521,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    469,
+    171,
+    483
+   ]
+  },
+  {
+   "text": "H-4540 Drávatamásihalas, Salgótarjáni utca 55.",
+   "bbox": [
+    410,
+    464,
+    860,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    521,
+    219,
+    535
+   ]
+  },
+  {
+   "text": "+36 70 414 7798",
+   "bbox": [
+    410,
+    517,
+    575,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    573,
+    202,
+    587
+   ]
+  },
+  {
+   "text": "horvath.sandor@freemail.hu",
+   "bbox": [
+    410,
+    569,
+    684,
+    588
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    625,
+    254,
+    643
+   ]
+  },
+  {
+   "text": "8416038152",
+   "bbox": [
+    410,
+    626,
+    530,
+    642
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    677,
+    190,
+    691
+   ]
+  },
+  {
+   "text": "845 380 071",
+   "bbox": [
+    410,
+    674,
+    530,
+    690
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    756,
+    267,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    799,
+    435,
+    817
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    844,
+    276,
+    858
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    889,
+    451,
+    907
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    993,
+    135,
+    1008
+   ]
+  },
+  {
+   "text": "Belsőtamásivárad, 2026.10.24.",
+   "bbox": [
+    187,
+    989,
+    477,
+    1009
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1042,
+    975,
+    1054
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

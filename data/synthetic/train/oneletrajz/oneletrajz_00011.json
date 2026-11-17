@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Dudás Csaba",
+  "email": "dudas.csaba@citromail.hu",
+  "telefon": "06 1 184 5947",
+  "lakcim": "H-6497 Székhalas, Tapolcabányai út 202.",
+  "szuletesi_datum": "2002.08.30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pál Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Magyar Trade Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "JavaScript",
+   "Docker",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Dudás Csaba",
+   "bbox": [
+    467,
+    117,
+    772,
+    153
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    188,
+    728,
+    212
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    241,
+    163,
+    257
+   ]
+  },
+  {
+   "text": "dudas.csaba@citromail.hu",
+   "bbox": [
+    330,
+    241,
+    586,
+    261
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    273,
+    173,
+    289
+   ]
+  },
+  {
+   "text": "06 1 184 5947",
+   "bbox": [
+    330,
+    273,
+    468,
+    289
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    304,
+    172,
+    321
+   ]
+  },
+  {
+   "text": "H-6497 Székhalas, Tapolcabányai út 202.",
+   "bbox": [
+    330,
+    305,
+    733,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    336,
+    262,
+    353
+   ]
+  },
+  {
+   "text": "2002.08.30.",
+   "bbox": [
+    330,
+    337,
+    444,
+    353
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    390,
+    332,
+    414
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    441,
+    237,
+    461
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Pál Kft.",
+   "bbox": [
+    88,
+    467,
+    356,
+    489
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    509,
+    237,
+    529
+   ]
+  },
+  {
+   "text": "rendszergazda – Magyar Trade Zrt.",
+   "bbox": [
+    90,
+    535,
+    471,
+    557
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    588,
+    257,
+    612
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    639,
+    210,
+    655
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    665,
+    467,
+    687
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    691,
+    411,
+    711
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    733,
+    210,
+    749
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    759,
+    368,
+    776
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    785,
+    273,
+    805
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    838,
+    227,
+    862
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    889,
+    212,
+    909
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    938,
+    223,
+    962
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, JavaScript, Docker, SAP",
+   "bbox": [
+    90,
+    989,
+    474,
+    1009
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

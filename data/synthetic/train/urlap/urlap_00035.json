@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Juhász Kitti",
+  "anyja_neve": "Horváth Sándor",
+  "szuletesi_hely": "Eger",
+  "szuletesi_datum": "2004.10.21.",
+  "lakcim": "H-5171 Hátváros, Tótvári utca 136.",
+  "telefon": "+36 20 168 4802",
+  "email": "juhasz.kitti@freemail.hu",
+  "adoazonosito_jel": "8503325276",
+  "taj_szam": "936 900 212",
+  "kelt": "Mártonvég, 2025.03.03."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    483,
+    87,
+    757,
+    122
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    461,
+    144,
+    778,
+    163
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    200,
+    332,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    257,
+    142,
+    272
+   ]
+  },
+  {
+   "text": "Juhász Kitti",
+   "bbox": [
+    382,
+    253,
+    539,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    310,
+    206,
+    331
+   ]
+  },
+  {
+   "text": "Horváth Sándor",
+   "bbox": [
+    383,
+    307,
+    595,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    364,
+    230,
+    385
+   ]
+  },
+  {
+   "text": "Eger",
+   "bbox": [
+    383,
+    359,
+    445,
+    387
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    418,
+    221,
+    434
+   ]
+  },
+  {
+   "text": "2004.10.21.",
+   "bbox": [
+    383,
+    415,
+    556,
+    435
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    472,
+    176,
+    488
+   ]
+  },
+  {
+   "text": "H-5171 Hátváros, Tótvári utca 136.",
+   "bbox": [
+    383,
+    466,
+    876,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    526,
+    223,
+    542
+   ]
+  },
+  {
+   "text": "+36 20 168 4802",
+   "bbox": [
+    383,
+    523,
+    637,
+    543
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    580,
+    210,
+    596
+   ]
+  },
+  {
+   "text": "juhasz.kitti@freemail.hu",
+   "bbox": [
+    378,
+    575,
+    692,
+    604
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    634,
+    257,
+    655
+   ]
+  },
+  {
+   "text": "8503325276",
+   "bbox": [
+    383,
+    635,
+    573,
+    654
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    689,
+    197,
+    704
+   ]
+  },
+  {
+   "text": "936 900 212",
+   "bbox": [
+    383,
+    689,
+    574,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    768,
+    287,
+    791
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    813,
+    454,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    858,
+    285,
+    874
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    903,
+    470,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    1006,
+    134,
+    1023
+   ]
+  },
+  {
+   "text": "Mártonvég, 2025.03.03.",
+   "bbox": [
+    177,
+    1008,
+    486,
+    1035
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1055,
+    989,
+    1069
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MÉSZÁROS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-9659 Budapest, Petőfi sándor utca 138.",
+  "adoszam": "11473819-3-12",
+  "datum": "2026.03.02.",
+  "ido": "14:51",
+  "nyugtaszam": "5153/65863",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 907 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "560"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "469"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1878"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÉSZÁROS ÉLELMISZER KFT.",
+   "bbox": [
+    92,
+    30,
+    452,
+    50
+   ]
+  },
+  {
+   "text": "H-9659 Budapest, Petőfi sándor utca",
+   "bbox": [
+    44,
+    65,
+    499,
+    86
+   ]
+  },
+  {
+   "text": "138.",
+   "bbox": [
+    246,
+    94,
+    298,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 11473819-3-12",
+   "bbox": [
+    129,
+    119,
+    415,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    165,
+    321,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 280",
+   "bbox": [
+    24,
+    207,
+    144,
+    221
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    235,
+    206,
+    249
+   ]
+  },
+  {
+   "text": "560 A00",
+   "bbox": [
+    423,
+    232,
+    521,
+    249
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    263,
+    150,
+    280
+   ]
+  },
+  {
+   "text": "469 B00",
+   "bbox": [
+    423,
+    263,
+    521,
+    280
+   ]
+  },
+  {
+   "text": "2 DB x 939",
+   "bbox": [
+    24,
+    294,
+    144,
+    308
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    319,
+    234,
+    336
+   ]
+  },
+  {
+   "text": "1878 C00",
+   "bbox": [
+    409,
+    319,
+    521,
+    336
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    361,
+    184,
+    382
+   ]
+  },
+  {
+   "text": "2 907 Ft",
+   "bbox": [
+    393,
+    362,
+    521,
+    382
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    402,
+    164,
+    420
+   ]
+  },
+  {
+   "text": "2 907 Ft",
+   "bbox": [
+    409,
+    403,
+    521,
+    420
+   ]
+  },
+  {
+   "text": "2026.03.02.",
+   "bbox": [
+    24,
+    448,
+    167,
+    463
+   ]
+  },
+  {
+   "text": "14:51",
+   "bbox": [
+    456,
+    448,
+    521,
+    463
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5153/65863",
+   "bbox": [
+    24,
+    477,
+    310,
+    497
+   ]
+  },
+  {
+   "text": "AP A25092088",
+   "bbox": [
+    24,
+    510,
+    180,
+    525
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    129,
+    552,
+    415,
+    569
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  545,
+  614
+ ]
+}

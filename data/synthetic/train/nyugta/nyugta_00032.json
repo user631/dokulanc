@@ -1,0 +1,277 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH MARKET KFT.",
+  "uzlet_cim": "H-8480 Budapest, Piliskereszti tér 133.",
+  "adoszam": "34016639-4-10",
+  "datum": "2025.03.13.",
+  "ido": "19:35",
+  "nyugtaszam": "1746/90336",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 012 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1734"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1209"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "264"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1145"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "660"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH MARKET KFT.",
+   "bbox": [
+    170,
+    31,
+    417,
+    48
+   ]
+  },
+  {
+   "text": "H-8480 Budapest, Piliskereszti tér 133.",
+   "bbox": [
+    79,
+    63,
+    508,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34016639-4-10",
+   "bbox": [
+    173,
+    87,
+    415,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    252,
+    128,
+    337,
+    143
+   ]
+  },
+  {
+   "text": "3 DB x 578",
+   "bbox": [
+    24,
+    168,
+    124,
+    180
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    190,
+    120,
+    204
+   ]
+  },
+  {
+   "text": "1734 A00",
+   "bbox": [
+    469,
+    190,
+    565,
+    204
+   ]
+  },
+  {
+   "text": "3 DB x 403",
+   "bbox": [
+    24,
+    218,
+    124,
+    230
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    241,
+    192,
+    254
+   ]
+  },
+  {
+   "text": "1209 B00",
+   "bbox": [
+    469,
+    240,
+    565,
+    254
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    269,
+    180,
+    282
+   ]
+  },
+  {
+   "text": "264 A00",
+   "bbox": [
+    481,
+    268,
+    565,
+    282
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    297,
+    180,
+    310
+   ]
+  },
+  {
+   "text": "1145 C00",
+   "bbox": [
+    469,
+    296,
+    565,
+    310
+   ]
+  },
+  {
+   "text": "3 DB x 220",
+   "bbox": [
+    24,
+    324,
+    124,
+    336
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    346,
+    192,
+    363
+   ]
+  },
+  {
+   "text": "660 A00",
+   "bbox": [
+    481,
+    346,
+    565,
+    360
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    384,
+    164,
+    403
+   ]
+  },
+  {
+   "text": "5 012 Ft",
+   "bbox": [
+    453,
+    386,
+    565,
+    403
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    422,
+    144,
+    438
+   ]
+  },
+  {
+   "text": "5 012 Ft",
+   "bbox": [
+    469,
+    424,
+    565,
+    438
+   ]
+  },
+  {
+   "text": "2025.03.13.",
+   "bbox": [
+    24,
+    466,
+    145,
+    479
+   ]
+  },
+  {
+   "text": "19:35",
+   "bbox": [
+    510,
+    466,
+    565,
+    479
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1746/90336",
+   "bbox": [
+    24,
+    493,
+    266,
+    510
+   ]
+  },
+  {
+   "text": "AP A91988804",
+   "bbox": [
+    24,
+    522,
+    156,
+    535
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    211,
+    560,
+    376,
+    575
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  589,
+  620
+ ]
+}

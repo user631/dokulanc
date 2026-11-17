@@ -1,0 +1,217 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "GULYÁS ÉLELMISZER BT.",
+  "uzlet_cim": "H-8479 Belsőtótvára, Ady endre utca 115.",
+  "adoszam": "42723402-2-37",
+  "datum": "2024.09.27.",
+  "ido": "19:00",
+  "nyugtaszam": "7225/71761",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 979 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "892"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "856"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "731"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "GULYÁS ÉLELMISZER BT.",
+   "bbox": [
+    176,
+    28,
+    449,
+    48
+   ]
+  },
+  {
+   "text": "H-8479 Belsőtótvára, Ady endre utca 115.",
+   "bbox": [
+    93,
+    64,
+    533,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 42723402-2-37",
+   "bbox": [
+    192,
+    88,
+    434,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    271,
+    133,
+    356,
+    150
+   ]
+  },
+  {
+   "text": "2 DB x 446",
+   "bbox": [
+    24,
+    177,
+    124,
+    189
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    201,
+    192,
+    215
+   ]
+  },
+  {
+   "text": "892 B00",
+   "bbox": [
+    518,
+    201,
+    602,
+    215
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    231,
+    216,
+    245
+   ]
+  },
+  {
+   "text": "856 B00",
+   "bbox": [
+    518,
+    231,
+    602,
+    245
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    261,
+    132,
+    275
+   ]
+  },
+  {
+   "text": "731 A00",
+   "bbox": [
+    518,
+    261,
+    602,
+    275
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    298,
+    164,
+    320
+   ]
+  },
+  {
+   "text": "2 979 Ft",
+   "bbox": [
+    490,
+    303,
+    602,
+    320
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    338,
+    156,
+    357
+   ]
+  },
+  {
+   "text": "2 979 Ft",
+   "bbox": [
+    506,
+    343,
+    602,
+    357
+   ]
+  },
+  {
+   "text": "2024.09.27.",
+   "bbox": [
+    24,
+    386,
+    145,
+    399
+   ]
+  },
+  {
+   "text": "19:00",
+   "bbox": [
+    547,
+    386,
+    602,
+    399
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7225/71761",
+   "bbox": [
+    24,
+    412,
+    266,
+    431
+   ]
+  },
+  {
+   "text": "AP A70760225",
+   "bbox": [
+    24,
+    446,
+    156,
+    459
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    253,
+    485,
+    373,
+    502
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  626,
+  548
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Dudás Ágnes",
+  "email": "dudas.agnes@gmail.com",
+  "telefon": "+36 70 710 9296",
+  "lakcim": "H-1569 Pilishetvenvég, Tamásivárai utca 85.",
+  "szuletesi_datum": "1995. október 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2015 – 2019"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss és Társa Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "ceg": "Mészáros Szolgáltató Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2020 – 2022"
+   },
+   {
+    "ceg": "Varga Logisztika Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2019 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Git",
+   "ügyfélkezelés",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    99,
+    188,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    144,
+    93,
+    158
+   ]
+  },
+  {
+   "text": "dudas.agnes@gmail.com",
+   "bbox": [
+    40,
+    166,
+    240,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    198,
+    105,
+    212
+   ]
+  },
+  {
+   "text": "+36 70 710 9296",
+   "bbox": [
+    40,
+    221,
+    177,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    252,
+    99,
+    266
+   ]
+  },
+  {
+   "text": "H-1569 Pilishetvenvég, Tamásivárai utca",
+   "bbox": [
+    40,
+    274,
+    356,
+    292
+   ]
+  },
+  {
+   "text": "85.",
+   "bbox": [
+    40,
+    297,
+    64,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    328,
+    175,
+    342
+   ]
+  },
+  {
+   "text": "1995. október 18.",
+   "bbox": [
+    40,
+    350,
+    181,
+    364
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    180,
+    430
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    451,
+    137,
+    468
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    503,
+    158,
+    524
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    546,
+    76,
+    559
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    571,
+    64,
+    585
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    597,
+    153,
+    615
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    623,
+    99,
+    637
+   ]
+  },
+  {
+   "text": "Dudás Ágnes",
+   "bbox": [
+    450,
+    103,
+    719,
+    154
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    174,
+    559,
+    200
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    674,
+    262
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    450,
+    288,
+    558,
+    302
+   ]
+  },
+  {
+   "text": "adatelemző – Kiss és Társa Kft.",
+   "bbox": [
+    450,
+    311,
+    749,
+    327
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    450,
+    352,
+    558,
+    366
+   ]
+  },
+  {
+   "text": "projektmenedzser – Mészáros Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    375,
+    898,
+    396
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    450,
+    416,
+    558,
+    430
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Varga Logisztika Bt.",
+   "bbox": [
+    448,
+    439,
+    815,
+    460
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    490,
+    606,
+    514
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    540,
+    558,
+    554
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    563,
+    638,
+    584
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    587,
+    685,
+    607
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    628,
+    558,
+    642
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    651,
+    727,
+    672
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    675,
+    672,
+    695
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "DUDÁS ABC BT.",
+  "uzlet_cim": "H-2516 Szeged, Arany jános utca 59.",
+  "adoszam": "84720643-2-33",
+  "datum": "2026.08.04.",
+  "ido": "15:33",
+  "nyugtaszam": "0091/38427",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 823 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2282"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "413"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1241"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "870"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2598"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1312"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1107"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "DUDÁS ABC BT.",
+   "bbox": [
+    186,
+    28,
+    342,
+    47
+   ]
+  },
+  {
+   "text": "H-2516 Szeged, Arany jános utca 59.",
+   "bbox": [
+    89,
+    63,
+    439,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 84720643-2-33",
+   "bbox": [
+    154,
+    86,
+    374,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    127,
+    304,
+    142
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "2282 C00",
+   "bbox": [
+    417,
+    168,
+    505,
+    181
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    196,
+    178,
+    209
+   ]
+  },
+  {
+   "text": "413 C00",
+   "bbox": [
+    428,
+    196,
+    505,
+    209
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "1241 B00",
+   "bbox": [
+    417,
+    224,
+    505,
+    237
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    252,
+    200,
+    265
+   ]
+  },
+  {
+   "text": "870 C00",
+   "bbox": [
+    428,
+    252,
+    505,
+    265
+   ]
+  },
+  {
+   "text": "2 DB x 1299",
+   "bbox": [
+    24,
+    280,
+    123,
+    291
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    302,
+    112,
+    315
+   ]
+  },
+  {
+   "text": "2598 C00",
+   "bbox": [
+    417,
+    302,
+    505,
+    315
+   ]
+  },
+  {
+   "text": "2 DB x 656",
+   "bbox": [
+    24,
+    330,
+    114,
+    341
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    352,
+    123,
+    365
+   ]
+  },
+  {
+   "text": "1312 B00",
+   "bbox": [
+    417,
+    352,
+    505,
+    365
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    380,
+    156,
+    393
+   ]
+  },
+  {
+   "text": "1107 C00",
+   "bbox": [
+    417,
+    380,
+    505,
+    393
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    416,
+    154,
+    436
+   ]
+  },
+  {
+   "text": "9 823 Ft",
+   "bbox": [
+    401,
+    420,
+    505,
+    436
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    454,
+    134,
+    471
+   ]
+  },
+  {
+   "text": "9 823 Ft",
+   "bbox": [
+    417,
+    458,
+    505,
+    471
+   ]
+  },
+  {
+   "text": "2026.08.04.",
+   "bbox": [
+    24,
+    501,
+    134,
+    512
+   ]
+  },
+  {
+   "text": "15:33",
+   "bbox": [
+    455,
+    501,
+    505,
+    512
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0091/38427",
+   "bbox": [
+    24,
+    526,
+    244,
+    542
+   ]
+  },
+  {
+   "text": "AP A82370258",
+   "bbox": [
+    24,
+    557,
+    144,
+    568
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    154,
+    593,
+    374,
+    609
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  529,
+  654
+ ]
+}

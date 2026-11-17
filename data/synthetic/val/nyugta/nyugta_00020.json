@@ -1,0 +1,374 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BALOGH KISBOLT KFT.",
+  "uzlet_cim": "H-1570 Mellékhida, Győri utca 188.",
+  "adoszam": "58686889-3-20",
+  "datum": "2025.03.21.",
+  "ido": "14:30",
+  "nyugtaszam": "8512/64075",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "15 054 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "928"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "379"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "507"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1448"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "982"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2816"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "713"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "237"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7044"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH KISBOLT KFT.",
+   "bbox": [
+    171,
+    33,
+    418,
+    48
+   ]
+  },
+  {
+   "text": "H-1570 Mellékhida, Győri utca 188.",
+   "bbox": [
+    108,
+    64,
+    482,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58686889-3-20",
+   "bbox": [
+    174,
+    88,
+    416,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    133,
+    338,
+    150
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    177,
+    120,
+    191
+   ]
+  },
+  {
+   "text": "928 B00",
+   "bbox": [
+    483,
+    177,
+    567,
+    191
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    206,
+    156,
+    225
+   ]
+  },
+  {
+   "text": "379 A00",
+   "bbox": [
+    483,
+    207,
+    567,
+    221
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    237,
+    120,
+    251
+   ]
+  },
+  {
+   "text": "507 C00",
+   "bbox": [
+    483,
+    237,
+    567,
+    251
+   ]
+  },
+  {
+   "text": "2 DB x 724",
+   "bbox": [
+    24,
+    267,
+    124,
+    279
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    291,
+    132,
+    305
+   ]
+  },
+  {
+   "text": "1448 A00",
+   "bbox": [
+    471,
+    291,
+    567,
+    305
+   ]
+  },
+  {
+   "text": "2 DB x 491",
+   "bbox": [
+    24,
+    321,
+    124,
+    333
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    345,
+    192,
+    359
+   ]
+  },
+  {
+   "text": "982 C00",
+   "bbox": [
+    483,
+    345,
+    567,
+    359
+   ]
+  },
+  {
+   "text": "2 DB x 1408",
+   "bbox": [
+    24,
+    375,
+    134,
+    387
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    399,
+    144,
+    413
+   ]
+  },
+  {
+   "text": "2816 C00",
+   "bbox": [
+    471,
+    399,
+    567,
+    413
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    429,
+    120,
+    443
+   ]
+  },
+  {
+   "text": "713 B00",
+   "bbox": [
+    483,
+    429,
+    567,
+    443
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    459,
+    192,
+    477
+   ]
+  },
+  {
+   "text": "237 C00",
+   "bbox": [
+    483,
+    459,
+    567,
+    473
+   ]
+  },
+  {
+   "text": "3 DB x 2348",
+   "bbox": [
+    24,
+    489,
+    134,
+    501
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    513,
+    252,
+    527
+   ]
+  },
+  {
+   "text": "7044 A00",
+   "bbox": [
+    471,
+    513,
+    567,
+    527
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    550,
+    164,
+    572
+   ]
+  },
+  {
+   "text": "15 054 Ft",
+   "bbox": [
+    441,
+    555,
+    567,
+    572
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    590,
+    156,
+    609
+   ]
+  },
+  {
+   "text": "15 054 Ft",
+   "bbox": [
+    459,
+    595,
+    567,
+    609
+   ]
+  },
+  {
+   "text": "2025.03.21.",
+   "bbox": [
+    24,
+    638,
+    145,
+    651
+   ]
+  },
+  {
+   "text": "14:30",
+   "bbox": [
+    512,
+    638,
+    567,
+    651
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8512/64075",
+   "bbox": [
+    24,
+    664,
+    266,
+    683
+   ]
+  },
+  {
+   "text": "AP A75672608",
+   "bbox": [
+    24,
+    698,
+    156,
+    711
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    205,
+    737,
+    385,
+    754
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  591,
+  800
+ ]
+}

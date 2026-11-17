@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR CSEMEGE KFT.",
+  "uzlet_cim": "H-2933 Alsómártonfalu, Salgótarjáni utca 175.",
+  "adoszam": "78864971-4-34",
+  "datum": "2026.01.10.",
+  "ido": "17:39",
+  "nyugtaszam": "0232/37685",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 384 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1282"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "450"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1556"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "6513"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "583"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR CSEMEGE KFT.",
+   "bbox": [
+    174,
+    28,
+    421,
+    48
+   ]
+  },
+  {
+   "text": "H-2933 Alsómártonfalu, Salgótarjáni utca 175.",
+   "bbox": [
+    50,
+    64,
+    545,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 78864971-4-34",
+   "bbox": [
+    177,
+    88,
+    419,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    133,
+    341,
+    150
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    177,
+    168,
+    191
+   ]
+  },
+  {
+   "text": "1282 A00",
+   "bbox": [
+    477,
+    177,
+    573,
+    191
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    206,
+    156,
+    225
+   ]
+  },
+  {
+   "text": "450 A00",
+   "bbox": [
+    489,
+    207,
+    573,
+    221
+   ]
+  },
+  {
+   "text": "2 DB x 778",
+   "bbox": [
+    24,
+    237,
+    124,
+    249
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    261,
+    204,
+    275
+   ]
+  },
+  {
+   "text": "1556 A00",
+   "bbox": [
+    477,
+    261,
+    573,
+    275
+   ]
+  },
+  {
+   "text": "3 DB x 2171",
+   "bbox": [
+    24,
+    291,
+    134,
+    303
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    315,
+    132,
+    329
+   ]
+  },
+  {
+   "text": "6513 A00",
+   "bbox": [
+    477,
+    315,
+    573,
+    329
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    345,
+    120,
+    359
+   ]
+  },
+  {
+   "text": "583 A00",
+   "bbox": [
+    489,
+    345,
+    573,
+    359
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    382,
+    164,
+    404
+   ]
+  },
+  {
+   "text": "10 384 Ft",
+   "bbox": [
+    447,
+    387,
+    573,
+    404
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    422,
+    120,
+    441
+   ]
+  },
+  {
+   "text": "10 384 Ft",
+   "bbox": [
+    465,
+    427,
+    573,
+    441
+   ]
+  },
+  {
+   "text": "2026.01.10.",
+   "bbox": [
+    24,
+    470,
+    145,
+    483
+   ]
+  },
+  {
+   "text": "17:39",
+   "bbox": [
+    518,
+    470,
+    573,
+    483
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0232/37685",
+   "bbox": [
+    24,
+    496,
+    266,
+    515
+   ]
+  },
+  {
+   "text": "AP A45801031",
+   "bbox": [
+    24,
+    530,
+    156,
+    543
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    208,
+    569,
+    388,
+    586
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  597,
+  632
+ ]
+}

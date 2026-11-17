@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ DISZKONT KFT.",
+  "uzlet_cim": "H-3745 Szolnok, Mindszentvárosi út 230.",
+  "adoszam": "10590368-4-25",
+  "datum": "2025.06.09.",
+  "ido": "07:40",
+  "nyugtaszam": "3393/29120",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "17 096 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "243"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "438"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "323"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "773"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "786"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2208"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1168"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "407"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3822"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "262"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "6666"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ DISZKONT KFT.",
+   "bbox": [
+    141,
+    28,
+    407,
+    49
+   ]
+  },
+  {
+   "text": "H-3745 Szolnok, Mindszentvárosi út 230.",
+   "bbox": [
+    40,
+    66,
+    508,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 10590368-4-25",
+   "bbox": [
+    142,
+    91,
+    406,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    229,
+    137,
+    319,
+    154
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    181,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "243 C00",
+   "bbox": [
+    433,
+    181,
+    524,
+    196
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    211,
+    167,
+    231
+   ]
+  },
+  {
+   "text": "438 A00",
+   "bbox": [
+    433,
+    212,
+    524,
+    227
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    243,
+    206,
+    258
+   ]
+  },
+  {
+   "text": "323 A00",
+   "bbox": [
+    433,
+    243,
+    524,
+    258
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    274,
+    128,
+    289
+   ]
+  },
+  {
+   "text": "773 A00",
+   "bbox": [
+    433,
+    274,
+    524,
+    289
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    305,
+    128,
+    320
+   ]
+  },
+  {
+   "text": "786 C00",
+   "bbox": [
+    433,
+    305,
+    524,
+    320
+   ]
+  },
+  {
+   "text": "2 DB x 1104",
+   "bbox": [
+    24,
+    335,
+    145,
+    348
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    361,
+    180,
+    376
+   ]
+  },
+  {
+   "text": "2208 B00",
+   "bbox": [
+    420,
+    361,
+    524,
+    376
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    392,
+    154,
+    407
+   ]
+  },
+  {
+   "text": "1168 A00",
+   "bbox": [
+    420,
+    392,
+    524,
+    407
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    423,
+    206,
+    438
+   ]
+  },
+  {
+   "text": "407 A00",
+   "bbox": [
+    433,
+    423,
+    524,
+    438
+   ]
+  },
+  {
+   "text": "3 DB x 1274",
+   "bbox": [
+    24,
+    453,
+    145,
+    466
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    479,
+    193,
+    494
+   ]
+  },
+  {
+   "text": "3822 C00",
+   "bbox": [
+    420,
+    479,
+    524,
+    494
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    510,
+    193,
+    525
+   ]
+  },
+  {
+   "text": "262 B00",
+   "bbox": [
+    433,
+    510,
+    524,
+    525
+   ]
+  },
+  {
+   "text": "3 DB x 2222",
+   "bbox": [
+    24,
+    540,
+    145,
+    553
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    566,
+    141,
+    581
+   ]
+  },
+  {
+   "text": "6666 B00",
+   "bbox": [
+    420,
+    566,
+    524,
+    581
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    605,
+    174,
+    627
+   ]
+  },
+  {
+   "text": "17 096 Ft",
+   "bbox": [
+    389,
+    610,
+    524,
+    627
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    645,
+    167,
+    665
+   ]
+  },
+  {
+   "text": "17 096 Ft",
+   "bbox": [
+    407,
+    650,
+    524,
+    665
+   ]
+  },
+  {
+   "text": "2025.06.09.",
+   "bbox": [
+    24,
+    695,
+    156,
+    708
+   ]
+  },
+  {
+   "text": "07:40",
+   "bbox": [
+    464,
+    695,
+    524,
+    708
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3393/29120",
+   "bbox": [
+    24,
+    722,
+    288,
+    741
+   ]
+  },
+  {
+   "text": "AP A85102785",
+   "bbox": [
+    24,
+    757,
+    168,
+    770
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    142,
+    795,
+    406,
+    814
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  548,
+  860
+ ]
+}

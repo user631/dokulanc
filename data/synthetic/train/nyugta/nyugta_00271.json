@@ -1,0 +1,374 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "VÁRADI ÉLELMISZER KFT.",
+  "uzlet_cim": "H-8455 Békéscsaba, Drávamártoni utca 180.",
+  "adoszam": "32075760-3-19",
+  "datum": "2025.11.27.",
+  "ido": "09:33",
+  "nyugtaszam": "8194/05281",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "9 728 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1155"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "144"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1290"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1020"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1912"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "173"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2288"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1158"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "588"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VÁRADI ÉLELMISZER KFT.",
+   "bbox": [
+    175,
+    28,
+    439,
+    47
+   ]
+  },
+  {
+   "text": "H-8455 Békéscsaba, Drávamártoni utca 180.",
+   "bbox": [
+    102,
+    63,
+    512,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 32075760-3-19",
+   "bbox": [
+    197,
+    86,
+    417,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    268,
+    127,
+    347,
+    142
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    168,
+    189,
+    181
+   ]
+  },
+  {
+   "text": "1155 C00",
+   "bbox": [
+    503,
+    168,
+    591,
+    181
+   ]
+  },
+  {
+   "text": "2 DB x 72",
+   "bbox": [
+    24,
+    196,
+    105,
+    207
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    218,
+    90,
+    231
+   ]
+  },
+  {
+   "text": "144 A00",
+   "bbox": [
+    514,
+    218,
+    591,
+    231
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    246,
+    134,
+    259
+   ]
+  },
+  {
+   "text": "1290 B00",
+   "bbox": [
+    503,
+    246,
+    591,
+    259
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    274,
+    134,
+    287
+   ]
+  },
+  {
+   "text": "1020 A00",
+   "bbox": [
+    503,
+    274,
+    591,
+    287
+   ]
+  },
+  {
+   "text": "2 DB x 956",
+   "bbox": [
+    24,
+    302,
+    114,
+    313
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    324,
+    112,
+    337
+   ]
+  },
+  {
+   "text": "1912 B00",
+   "bbox": [
+    503,
+    324,
+    591,
+    337
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    352,
+    178,
+    368
+   ]
+  },
+  {
+   "text": "173 A00",
+   "bbox": [
+    514,
+    352,
+    591,
+    365
+   ]
+  },
+  {
+   "text": "2 DB x 1144",
+   "bbox": [
+    24,
+    380,
+    123,
+    391
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    402,
+    167,
+    415
+   ]
+  },
+  {
+   "text": "2288 B00",
+   "bbox": [
+    503,
+    402,
+    591,
+    415
+   ]
+  },
+  {
+   "text": "3 DB x 386",
+   "bbox": [
+    24,
+    430,
+    114,
+    441
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    452,
+    178,
+    465
+   ]
+  },
+  {
+   "text": "1158 B00",
+   "bbox": [
+    503,
+    452,
+    591,
+    465
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    480,
+    178,
+    493
+   ]
+  },
+  {
+   "text": "588 A00",
+   "bbox": [
+    514,
+    480,
+    591,
+    493
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    517,
+    141,
+    536
+   ]
+  },
+  {
+   "text": "9 728 Ft",
+   "bbox": [
+    487,
+    520,
+    591,
+    536
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    554,
+    112,
+    571
+   ]
+  },
+  {
+   "text": "9 728 Ft",
+   "bbox": [
+    503,
+    558,
+    591,
+    571
+   ]
+  },
+  {
+   "text": "2025.11.27.",
+   "bbox": [
+    24,
+    601,
+    134,
+    612
+   ]
+  },
+  {
+   "text": "09:33",
+   "bbox": [
+    541,
+    601,
+    591,
+    612
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8194/05281",
+   "bbox": [
+    24,
+    626,
+    244,
+    642
+   ]
+  },
+  {
+   "text": "AP A69879099",
+   "bbox": [
+    24,
+    657,
+    144,
+    668
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    232,
+    693,
+    382,
+    709
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  615,
+  754
+ ]
+}

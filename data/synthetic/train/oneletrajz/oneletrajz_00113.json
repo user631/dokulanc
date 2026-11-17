@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Bálint András",
+  "email": "balint.andras@citromail.hu",
+  "telefon": "+36 70 125 4146",
+  "lakcim": "H-4173 Hajdúfalva, Petőfi sándor utca 68.",
+  "szuletesi_datum": "1986.07.02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pál Consulting Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2009 – 2012"
+   },
+   {
+    "ceg": "László Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2008 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "ügyfélkezelés",
+   "Java",
+   "Git",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bálint András",
+   "bbox": [
+    461,
+    116,
+    779,
+    152
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    182,
+    682,
+    212
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    241,
+    166,
+    258
+   ]
+  },
+  {
+   "text": "balint.andras@citromail.hu",
+   "bbox": [
+    330,
+    241,
+    604,
+    263
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    274,
+    180,
+    291
+   ]
+  },
+  {
+   "text": "+36 70 125 4146",
+   "bbox": [
+    330,
+    274,
+    504,
+    291
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    307,
+    177,
+    324
+   ]
+  },
+  {
+   "text": "H-4173 Hajdúfalva, Petőfi sándor utca 68.",
+   "bbox": [
+    330,
+    307,
+    759,
+    329
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    340,
+    273,
+    357
+   ]
+  },
+  {
+   "text": "1986.07.02.",
+   "bbox": [
+    330,
+    340,
+    452,
+    357
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    394,
+    348,
+    419
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    90,
+    446,
+    219,
+    463
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Pál Consulting Bt.",
+   "bbox": [
+    90,
+    472,
+    513,
+    496
+   ]
+  },
+  {
+   "text": "2008 – 2009",
+   "bbox": [
+    90,
+    516,
+    219,
+    533
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – László Kft.",
+   "bbox": [
+    90,
+    542,
+    426,
+    566
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    597,
+    267,
+    622
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    649,
+    219,
+    666
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    675,
+    687,
+    699
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    703,
+    300,
+    720
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    746,
+    219,
+    763
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    772,
+    384,
+    791
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    800,
+    352,
+    822
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    854,
+    236,
+    879
+   ]
+  },
+  {
+   "text": "angol (C1), spanyol (B1)",
+   "bbox": [
+    90,
+    906,
+    342,
+    928
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    956,
+    231,
+    981
+   ]
+  },
+  {
+   "text": "csapatmunka, ügyfélkezelés, Java, Git, SQL",
+   "bbox": [
+    90,
+    1008,
+    544,
+    1030
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

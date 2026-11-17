@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Gáspár András",
+  "email": "gaspar.andras@citromail.hu",
+  "telefon": "+36 20 285 4778",
+  "lakcim": "H-9907 Tapolcahalas, Hetvenváradi utca 116.",
+  "szuletesi_datum": "2002. 05. 07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hegedűs Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2031 – jelenleg"
+   },
+   {
+    "ceg": "Kerekes Trade Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Pásztor Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "projektmenedzsment",
+   "SQL",
+   "prezentáció",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Gáspár András",
+   "bbox": [
+    452,
+    100,
+    789,
+    144
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    526,
+    170,
+    713,
+    188
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    161,
+    238
+   ]
+  },
+  {
+   "text": "gaspar.andras@citromail.hu",
+   "bbox": [
+    330,
+    223,
+    600,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    254,
+    173,
+    269
+   ]
+  },
+  {
+   "text": "+36 20 285 4778",
+   "bbox": [
+    330,
+    254,
+    492,
+    269
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    171,
+    300
+   ]
+  },
+  {
+   "text": "H-9907 Tapolcahalas, Hetvenváradi utca 116.",
+   "bbox": [
+    330,
+    285,
+    769,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    260,
+    331
+   ]
+  },
+  {
+   "text": "2002. 05. 07.",
+   "bbox": [
+    330,
+    316,
+    456,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    328,
+    390
+   ]
+  },
+  {
+   "text": "2031 – jelenleg",
+   "bbox": [
+    90,
+    418,
+    237,
+    437
+   ]
+  },
+  {
+   "text": "rendszergazda – Hegedűs Bt.",
+   "bbox": [
+    90,
+    441,
+    392,
+    462
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    484,
+    237,
+    503
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kerekes Trade Kft.",
+   "bbox": [
+    88,
+    507,
+    458,
+    528
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    550,
+    237,
+    569
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Pásztor Tech Kft.",
+   "bbox": [
+    90,
+    573,
+    460,
+    594
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    624,
+    250,
+    649
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    90,
+    677,
+    210,
+    692
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    701,
+    281,
+    721
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    727,
+    428,
+    746
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    768,
+    210,
+    783
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    791,
+    344,
+    812
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    818,
+    335,
+    837
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    867,
+    223,
+    892
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    920,
+    187,
+    939
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    965,
+    220,
+    990
+   ]
+  },
+  {
+   "text": "Java, projektmenedzsment, SQL, prezentáció, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    1018,
+    775,
+    1037
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

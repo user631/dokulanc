@@ -1,0 +1,558 @@
+{
+ "szamla_foto.jpg": {
+  "tipus": "szamla",
+  "mezok": {
+   "szamlaszam": "A-2026/07227",
+   "kiallitas_datuma": "2026. május 11.",
+   "teljesites_datuma": "2026. május 7.",
+   "fizetesi_hatarido": "2026. június 10.",
+   "elado_nev": "Kovács Trade Kft.",
+   "elado_cim": "H-9139 Zalaegerszeg, Békéskereszti utca 21.",
+   "elado_adoszam": "27075362-2-25",
+   "vevo_nev": "Balogh és Társa Zrt.",
+   "vevo_cim": "H-2417 Rácfürdővára, Hajdúháti tér 238.",
+   "vevo_adoszam": "66815183-3-20",
+   "bankszamla": "72940552-76169871-68976841",
+   "fizetesi_mod": "készpénz",
+   "netto_osszesen": "875 890 Ft",
+   "afa_osszesen": "236 490 Ft",
+   "brutto_osszesen": "1 112 380 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "Domain regisztráció",
+     "mennyiseg": "2 db",
+     "egysegar": "4 000",
+     "netto": "8 000",
+     "afa_kulcs": "27%",
+     "afa": "2 160",
+     "brutto": "10 160"
+    },
+    {
+     "megnevezes": "Irodaszer csomag",
+     "mennyiseg": "10 db",
+     "egysegar": "7 020",
+     "netto": "70 200",
+     "afa_kulcs": "27%",
+     "afa": "18 954",
+     "brutto": "89 154"
+    },
+    {
+     "megnevezes": "Szállítási díj",
+     "mennyiseg": "10 alkalom",
+     "egysegar": "4 430",
+     "netto": "44 300",
+     "afa_kulcs": "27%",
+     "afa": "11 961",
+     "brutto": "56 261"
+    },
+    {
+     "megnevezes": "Webtárhely bérlés",
+     "mennyiseg": "12 év",
+     "egysegar": "28 450",
+     "netto": "341 400",
+     "afa_kulcs": "27%",
+     "afa": "92 178",
+     "brutto": "433 578"
+    },
+    {
+     "megnevezes": "Nyomtatópapír A4 500 lap",
+     "mennyiseg": "12 csomag",
+     "egysegar": "2 620",
+     "netto": "31 440",
+     "afa_kulcs": "27%",
+     "afa": "8 489",
+     "brutto": "39 929"
+    },
+    {
+     "megnevezes": "Monitor 27\"",
+     "mennyiseg": "3 db",
+     "egysegar": "126 850",
+     "netto": "380 550",
+     "afa_kulcs": "27%",
+     "afa": "102 748",
+     "brutto": "483 298"
+    }
+   ]
+  },
+  "hibak": []
+ },
+ "szamla_szkennelt.png": {
+  "tipus": "szamla",
+  "mezok": {
+   "szamlaszam": "A-2024/08021",
+   "kiallitas_datuma": "2024. március 8.",
+   "teljesites_datuma": "2024. március 7.",
+   "fizetesi_hatarido": "2024. április 7.",
+   "elado_nev": "Varga Szolgáltató Bt.",
+   "elado_cim": "H-9151 Zalaegerszeg, Melléknádasdi út 181.",
+   "elado_adoszam": "97680451-2-08",
+   "vevo_nev": "Kiss Consulting Kft.",
+   "vevo_cim": "H-5055 Hetvendevecser, Belsőhetveni utca 193.",
+   "vevo_adoszam": "88472672-2-44",
+   "bankszamla": "75136277-01079819-33190849",
+   "fizetesi_mod": "bankkártya",
+   "netto_osszesen": "879 610 Ft",
+   "afa_osszesen": "231 766 Ft",
+   "brutto_osszesen": "1 111 376 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "Webtárhely bérlés",
+     "mennyiseg": "12 év",
+     "egysegar": "31 050",
+     "netto": "372 600",
+     "afa_kulcs": "27%",
+     "afa": "100 602",
+     "brutto": "473 202"
+    },
+    {
+     "megnevezes": "Nyomtatópapír A4 500 lap",
+     "mennyiseg": "1 csomag",
+     "egysegar": "2 660",
+     "netto": "2 660",
+     "afa_kulcs": "27%",
+     "afa": "718",
+     "brutto": "3 378"
+    },
+    {
+     "megnevezes": "Fordítás angolról magyarra",
+     "mennyiseg": "1 oldal",
+     "egysegar": "4 050",
+     "netto": "4 050",
+     "afa_kulcs": "27%",
+     "afa": "1 094",
+     "brutto": "5 144"
+    },
+    {
+     "megnevezes": "Monitor 27\"",
+     "mennyiseg": "3 db",
+     "egysegar": "121 540",
+     "netto": "364 620",
+     "afa_kulcs": "27%",
+     "afa": "98 447",
+     "brutto": "463 067"
+    },
+    {
+     "megnevezes": "Gépjármű szerviz munkadíj",
+     "mennyiseg": "5 óra",
+     "egysegar": "12 200",
+     "netto": "61 000",
+     "afa_kulcs": "27%",
+     "afa": "16 470",
+     "brutto": "77 470"
+    },
+    {
+     "megnevezes": "Szakmai folyóirat előfizetés",
+     "mennyiseg": "1 év",
+     "egysegar": "26 040",
+     "netto": "26 040",
+     "afa_kulcs": "5%",
+     "afa": "1 302",
+     "brutto": "27 342"
+    },
+    {
+     "megnevezes": "Tanácsadás",
+     "mennyiseg": "2 óra",
+     "egysegar": "24 320",
+     "netto": "48 640",
+     "afa_kulcs": "27%",
+     "afa": "13 133",
+     "brutto": "61 773"
+    }
+   ]
+  },
+  "hibak": []
+ },
+ "nyugta_foto.jpg": {
+  "tipus": "nyugta",
+  "mezok": {
+   "uzlet_nev": "VASS KISBOLT KFT.",
+   "uzlet_cim": "H-8684 Tapolcahalas, Ceglédi utca 13.",
+   "adoszam": "96032082-5-05",
+   "datum": "2026.07.14.",
+   "ido": "20:48",
+   "nyugtaszam": "3089/63418",
+   "fizetesi_mod": "KÉSZPÉNZ",
+   "vegosszeg": "7 854 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "TEJ 2,8% 1L",
+     "osszeg": "360"
+    },
+    {
+     "megnevezes": "RIZS 1KG",
+     "osszeg": "837"
+    },
+    {
+     "megnevezes": "PAPRIKA KG",
+     "osszeg": "3264"
+    },
+    {
+     "megnevezes": "PARIZSI 300G",
+     "osszeg": "877"
+    },
+    {
+     "megnevezes": "LISZT BL55 1KG",
+     "osszeg": "864"
+    },
+    {
+     "megnevezes": "CUKOR 1KG",
+     "osszeg": "510"
+    },
+    {
+     "megnevezes": "CSOKOLADE 100G",
+     "osszeg": "1142"
+    }
+   ]
+  },
+  "hibak": []
+ },
+ "nyugta_szkennelt.png": {
+  "tipus": "nyugta",
+  "mezok": {
+   "uzlet_nev": "NEMES ABC BT.",
+   "uzlet_cim": "H-9196 Mindszenthalas, Kossuth utca 183.",
+   "adoszam": "66820527-2-38",
+   "datum": "2025.03.19.",
+   "ido": "08:39",
+   "nyugtaszam": "4596/72850",
+   "fizetesi_mod": "BANKKÁRTYA",
+   "vegosszeg": "8 863 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "VAJ 200G",
+     "osszeg": "1298"
+    },
+    {
+     "megnevezes": "PAPIRZSEBKENDO",
+     "osszeg": "446"
+    },
+    {
+     "megnevezes": "CUKOR 1KG",
+     "osszeg": "444"
+    },
+    {
+     "megnevezes": "BANAN 1KG",
+     "osszeg": "731"
+    },
+    {
+     "megnevezes": "ASVANYVIZ 1,5L",
+     "osszeg": "205"
+    },
+    {
+     "megnevezes": "UDITO 2L",
+     "osszeg": "768"
+    },
+    {
+     "megnevezes": "KAVE 250G",
+     "osszeg": "4718"
+    },
+    {
+     "megnevezes": "JOGHURT NATUR",
+     "osszeg": "253"
+    }
+   ]
+  },
+  "hibak": []
+ },
+ "level_foto.jpg": {
+  "tipus": "level",
+  "mezok": {
+   "felado": "Dudás Logisztika Kft.",
+   "felado_cim": "H-9486 Szombathely, Bácskereszti utca 69.",
+   "cimzett": "Nagy Sándor",
+   "cimzett_cim": "H-8875 Hajdúligethalas, Bácstamásii utca 9.",
+   "datum": "2025. 07. 20.",
+   "targy": "Szerződésmódosítás",
+   "ugyszam": "REF-2025/21253",
+   "hatarido": "2025. 08. 15",
+   "teendo": "a módosított szerződés aláírása és visszaküldése",
+   "alairo": "Kozma János"
+  },
+  "hibak": []
+ },
+ "level_szkennelt.png": {
+  "tipus": "level",
+  "mezok": {
+   "felado": "Orsós Zrt.",
+   "felado_cim": "H-9472 Tóthalas, Halasi utca 50.",
+   "cimzett": "Dr. Király Szabolcs",
+   "cimzett_cim": "H-8010 Tapolcakőrös, Kecskeméti utca 12.",
+   "datum": "2026. június 13.",
+   "targy": "Szerződésmódosítás",
+   "ugyszam": "REF-2026/95405",
+   "hatarido": "2026. június 21",
+   "teendo": "a módosított szerződés aláírása és visszaküldése",
+   "alairo": "Kis Anna"
+  },
+  "hibak": []
+ },
+ "oneletrajz_foto.jpg": {
+  "tipus": "oneletrajz",
+  "mezok": {
+   "nev": "Tóth Balázs",
+   "email": "toth.balazs@example.hu",
+   "telefon": "+36 30 777 9869",
+   "lakcim": "H-8283 Tapolcanádasd, Szabadság utca 240.",
+   "szuletesi_datum": "1999.11.22.",
+   "tanulmanyok": [
+    {
+     "intezmeny": "Óbudai Egyetem",
+     "szak": "mérnökinformatikus BSc",
+     "idoszak": "2017 – 2021"
+    },
+    {
+     "intezmeny": "Arany János Gimnázium",
+     "szak": "informatika tagozat",
+     "idoszak": "2013 – 2017"
+    }
+   ],
+   "munkahelyek": [
+    {
+     "ceg": "Sándor Bt.",
+     "pozicio": "junior fejlesztő",
+     "idoszak": "2024 – 2025"
+    },
+    {
+     "ceg": "Tóth Szolgáltató Bt.",
+     "pozicio": "irodavezető",
+     "idoszak": "2021 – 2024"
+    }
+   ],
+   "nyelvek": [
+    "spanyol (B1)"
+   ],
+   "keszsegek": [
+    "Docker",
+    "Linux",
+    "prezentáció",
+    "C#",
+    "SAP"
+   ]
+  },
+  "hibak": []
+ },
+ "oneletrajz_szkennelt.png": {
+  "tipus": "oneletrajz",
+  "mezok": {
+   "nev": "Oláh Mária",
+   "email": "olah.maria@gmail.com",
+   "telefon": "+36 20 795 9333",
+   "lakcim": "H-7283 Hídfa, Ady endre út 166.",
+   "szuletesi_datum": "1981. október 7.",
+   "tanulmanyok": [
+    {
+     "intezmeny": "Corvinus Egyetem",
+     "szak": "pénzügy MSc",
+     "idoszak": "1999 – 2003"
+    },
+    {
+     "intezmeny": "Bolyai János Gimnázium",
+     "szak": "informatika tagozat",
+     "idoszak": "1995 – 1999"
+    }
+   ],
+   "munkahelyek": [
+    {
+     "ceg": "Bogdán Zrt.",
+     "pozicio": "projektmenedzser",
+     "idoszak": "2007 – 2011"
+    },
+    {
+     "ceg": "Varga Logisztika Kft.",
+     "pozicio": "junior fejlesztő",
+     "idoszak": "2003 – 2007"
+    }
+   ],
+   "nyelvek": [
+    "spanyol (B1)"
+   ],
+   "keszsegek": [
+    "SQL",
+    "csapatmunka",
+    "Python",
+    "Docker",
+    "prezentáció",
+    "projektmenedzsment"
+   ]
+  },
+  "hibak": []
+ },
+ "urlap_foto.jpg": {
+  "tipus": "urlap",
+  "mezok": {
+   "urlap_cime": "IGÉNYLŐLAP",
+   "nev": "Nagy Mária",
+   "anyja_neve": "Varga György",
+   "szuletesi_hely": "Fa",
+   "szuletesi_datum": "1951. 08. 25.",
+   "lakcim": "H-8799 Váctapolcaberény, Egyházasmelléki utca 174.",
+   "telefon": "+36 20 850 7376",
+   "email": "nagy.maria@citromail.hu",
+   "adoazonosito_jel": "8309169493",
+   "taj_szam": "066 882 815",
+   "kelt": "Szeged, 2024. 06. 24."
+  },
+  "hibak": []
+ },
+ "urlap_szkennelt.png": {
+  "tipus": "urlap",
+  "mezok": {
+   "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+   "nev": "Juhász István",
+   "anyja_neve": "Fehér Gábor",
+   "szuletesi_hely": "Zalaegerszeg",
+   "szuletesi_datum": "1981. 11. 28.",
+   "lakcim": "H-1737 Hódmezővásárhely, Dunaújvárosi utca 202.",
+   "telefon": "+36 30 476 5958",
+   "email": "juhasz.istvan@freemail.hu",
+   "adoazonosito_jel": "8419698024",
+   "taj_szam": "582 201 802",
+   "kelt": "Vác, 2026. 02. 06."
+  },
+  "hibak": []
+ },
+ "szamla_hibas_foto.jpg": {
+  "tipus": "szamla",
+  "mezok": {
+   "szamlaszam": "E-2026/07471",
+   "kiallitas_datuma": "2026.10.18.",
+   "teljesites_datuma": "2026.10.18.",
+   "fizetesi_hatarido": "2026.11.17.",
+   "elado_nev": "Tamás Tech Zrt.",
+   "elado_cim": "H-3646 Kaposvár, Pilismindszenti utca 68.",
+   "elado_adoszam": "84432567-3-38",
+   "vevo_nev": "Tóth Kft.",
+   "vevo_cim": "H-8764 Mindszentvára, Belsőtamásii út 204.",
+   "vevo_adoszam": "65765236-5-32",
+   "bankszamla": "HU42 5569 6322 7926 4518 0000 0000",
+   "fizetesi_mod": "készpénz",
+   "netto_osszesen": "27 600 Ft",
+   "afa_osszesen": "1 380 Ft",
+   "brutto_osszesen": "28 980 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "Könyv: Gépi tanulás alapjai",
+     "mennyiseg": "3 db",
+     "egysegar": "9 200",
+     "netto": "27 600",
+     "afa_kulcs": "5%",
+     "afa": "1 380",
+     "brutto": "28 980"
+    }
+   ]
+  },
+  "hibak": [
+   "elado_adoszam"
+  ]
+ },
+ "nyugta_hibas_foto.jpg": {
+  "tipus": "nyugta",
+  "mezok": {
+   "uzlet_nev": "HORVÁTH MARKET BT.",
+   "uzlet_cim": "H-2330 Pusztafürdővára, Budapesti utca 41.",
+   "adoszam": "60031451-2-15",
+   "datum": "2026.07.25.",
+   "ido": "15:17",
+   "nyugtaszam": "6053/10354",
+   "fizetesi_mod": "BANKKÁRTYA",
+   "vegosszeg": "15 126 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "LISZT BL55 1KG",
+     "osszeg": "1149"
+    },
+    {
+     "megnevezes": "TOJAS 10DB",
+     "osszeg": "1408"
+    },
+    {
+     "megnevezes": "PARIZSI 300G",
+     "osszeg": "2661"
+    },
+    {
+     "megnevezes": "PARADICSOM KG",
+     "osszeg": "1172"
+    },
+    {
+     "megnevezes": "PAPRIKA KG",
+     "osszeg": "3434"
+    },
+    {
+     "megnevezes": "SAJT TRAPPISTA 500G",
+     "osszeg": "2032"
+    },
+    {
+     "megnevezes": "MOSOGATOSZER 1L",
+     "osszeg": "995"
+    },
+    {
+     "megnevezes": "BANAN 1KG",
+     "osszeg": "2265"
+    }
+   ]
+  },
+  "hibak": [
+   "vegosszeg"
+  ]
+ },
+ "urlap_hibas_foto.jpg": {
+  "tipus": "urlap",
+  "mezok": {
+   "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "nev": "Varga Ágnes",
+   "anyja_neve": "Fazekas Péter",
+   "szuletesi_hely": "Dunakeszi",
+   "szuletesi_datum": "1996. 01. 23.",
+   "lakcim": "H-5893 Szombathely, Miskolci utca 25.",
+   "telefon": "+36 30 592 6999",
+   "email": "varga.agnes@citromail.hu",
+   "adoazonosito_jel": "8471387557",
+   "taj_szam": "559 747 548",
+   "kelt": "Mindszentfa, 2024. 09. 29."
+  },
+  "hibak": [
+   "taj_szam"
+  ]
+ },
+ "szamla_digitalis.pdf": {
+  "tipus": "szamla",
+  "mezok": {
+   "szamlaszam": "KFT-2024/05210",
+   "kiallitas_datuma": "2024-07-04",
+   "teljesites_datuma": "2024-06-30",
+   "fizetesi_hatarido": "2024-08-03",
+   "elado_nev": "Kocsis Logisztika Zrt.",
+   "elado_cim": "H-3185 Tapolcadevecser, Mindszentvégi utca 4.",
+   "elado_adoszam": "58861938-2-32",
+   "vevo_nev": "Katona és Társa Bt.",
+   "vevo_cim": "H-7460 Felsőkeresztháza, Dózsa györgy utca 148.",
+   "vevo_adoszam": "43688287-2-19",
+   "bankszamla": "HU47 2855 6899 8329 8222 9004 4227",
+   "fizetesi_mod": "bankkártya",
+   "netto_osszesen": "31 930 Ft",
+   "afa_osszesen": "8 621 Ft",
+   "brutto_osszesen": "40 551 Ft",
+   "tetelek": [
+    {
+     "megnevezes": "Nyomtatópapír A4 500 lap",
+     "mennyiseg": "10 csomag",
+     "egysegar": "2 920",
+     "netto": "29 200",
+     "afa_kulcs": "27%",
+     "afa": "7 884",
+     "brutto": "37 084"
+    },
+    {
+     "megnevezes": "Szállítási díj",
+     "mennyiseg": "1 alkalom",
+     "egysegar": "2 730",
+     "netto": "2 730",
+     "afa_kulcs": "27%",
+     "afa": "737",
+     "brutto": "3 467"
+    }
+   ]
+  },
+  "hibak": []
+ }
+}

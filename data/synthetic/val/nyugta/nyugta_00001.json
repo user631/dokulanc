@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ DISZKONT BT.",
+  "uzlet_cim": "H-6076 Vácszékvára, József attila utca 213.",
+  "adoszam": "17799867-3-36",
+  "datum": "2025.01.06.",
+  "ido": "10:16",
+  "nyugtaszam": "8604/90837",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "977 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "415"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "562"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ DISZKONT BT.",
+   "bbox": [
+    169,
+    28,
+    385,
+    47
+   ]
+  },
+  {
+   "text": "H-6076 Vácszékvára, József attila utca 213.",
+   "bbox": [
+    62,
+    63,
+    492,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 17799867-3-36",
+   "bbox": [
+    167,
+    86,
+    387,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    127,
+    317,
+    142
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "415 C00",
+   "bbox": [
+    453,
+    168,
+    530,
+    181
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    196,
+    145,
+    209
+   ]
+  },
+  {
+   "text": "562 C00",
+   "bbox": [
+    453,
+    196,
+    530,
+    209
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    232,
+    154,
+    252
+   ]
+  },
+  {
+   "text": "977 Ft",
+   "bbox": [
+    452,
+    236,
+    530,
+    252
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    270,
+    112,
+    287
+   ]
+  },
+  {
+   "text": "977 Ft",
+   "bbox": [
+    464,
+    274,
+    530,
+    287
+   ]
+  },
+  {
+   "text": "2025.01.06.",
+   "bbox": [
+    24,
+    317,
+    134,
+    328
+   ]
+  },
+  {
+   "text": "10:16",
+   "bbox": [
+    480,
+    317,
+    530,
+    328
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8604/90837",
+   "bbox": [
+    24,
+    342,
+    244,
+    358
+   ]
+  },
+  {
+   "text": "AP A82747481",
+   "bbox": [
+    24,
+    373,
+    144,
+    384
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    167,
+    409,
+    387,
+    425
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  554,
+  470
+ ]
+}

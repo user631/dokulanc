@@ -1,0 +1,350 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Vincze Márta",
+  "email": "vincze.marta@outlook.com",
+  "telefon": "+36 20 398 2114",
+  "lakcim": "H-6043 Hátháza, Budapesti utca 117.",
+  "szuletesi_datum": "1987. 04. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2007 – 2012"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Consulting Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2012 – 2013"
+   },
+   {
+    "ceg": "Kovács Trade Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2011 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Git",
+   "Excel",
+   "ügyfélkezelés",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    106,
+    205,
+    130
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    155,
+    101,
+    171
+   ]
+  },
+  {
+   "text": "vincze.marta@outlook.com",
+   "bbox": [
+    40,
+    181,
+    292,
+    197
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    215,
+    115,
+    231
+   ]
+  },
+  {
+   "text": "+36 20 398 2114",
+   "bbox": [
+    40,
+    241,
+    190,
+    256
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    275,
+    110,
+    291
+   ]
+  },
+  {
+   "text": "H-6043 Hátháza, Budapesti utca",
+   "bbox": [
+    40,
+    300,
+    340,
+    320
+   ]
+  },
+  {
+   "text": "117.",
+   "bbox": [
+    40,
+    326,
+    81,
+    341
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    360,
+    194,
+    376
+   ]
+  },
+  {
+   "text": "1987. 04. 08.",
+   "bbox": [
+    40,
+    386,
+    164,
+    401
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    446,
+    193,
+    470
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    492,
+    137,
+    513
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    521,
+    161,
+    542
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    575,
+    170,
+    599
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    621,
+    170,
+    642
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    649,
+    70,
+    666
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    679,
+    92,
+    695
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    706,
+    172,
+    729
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    737,
+    76,
+    753
+   ]
+  },
+  {
+   "text": "Vincze Márta",
+   "bbox": [
+    450,
+    116,
+    735,
+    151
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    186,
+    682,
+    213
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    252,
+    699,
+    278
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    450,
+    305,
+    568,
+    321
+   ]
+  },
+  {
+   "text": "értékesítő – Varga Consulting Bt.",
+   "bbox": [
+    450,
+    331,
+    816,
+    354
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    450,
+    375,
+    568,
+    391
+   ]
+  },
+  {
+   "text": "irodavezető – Kovács Trade Zrt.",
+   "bbox": [
+    450,
+    401,
+    808,
+    419
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    455,
+    618,
+    481
+   ]
+  },
+  {
+   "text": "2007 – 2012",
+   "bbox": [
+    450,
+    508,
+    568,
+    524
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    534,
+    1022,
+    557
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    560,
+    654,
+    578
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    605,
+    568,
+    621
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    631,
+    719,
+    654
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    657,
+    544,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

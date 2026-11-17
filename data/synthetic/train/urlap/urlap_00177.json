@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Anita",
+  "anyja_neve": "Horváth Nikolett",
+  "szuletesi_hely": "Györgyfalva",
+  "szuletesi_datum": "1988. 05. 11.",
+  "lakcim": "H-9301 Baja, Székfai utca 10.",
+  "telefon": "+36 30 221 5863",
+  "email": "nagy.anita@freemail.hu",
+  "adoazonosito_jel": "8443255218",
+  "taj_szam": "469 559 712",
+  "kelt": "Mosonmagyaróvár, 2024. 11. 02."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    410,
+    110,
+    829,
+    146
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    166,
+    780,
+    184
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    221,
+    336,
+    245
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    276,
+    159,
+    291
+   ]
+  },
+  {
+   "text": "Nagy Anita",
+   "bbox": [
+    417,
+    272,
+    535,
+    295
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    329,
+    224,
+    350
+   ]
+  },
+  {
+   "text": "Horváth Nikolett",
+   "bbox": [
+    417,
+    325,
+    594,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    383,
+    247,
+    404
+   ]
+  },
+  {
+   "text": "Györgyfalva",
+   "bbox": [
+    417,
+    384,
+    543,
+    408
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    437,
+    238,
+    453
+   ]
+  },
+  {
+   "text": "1988. 05. 11.",
+   "bbox": [
+    417,
+    439,
+    550,
+    456
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    491,
+    186,
+    507
+   ]
+  },
+  {
+   "text": "H-9301 Baja, Székfai utca 10.",
+   "bbox": [
+    417,
+    490,
+    724,
+    514
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    117,
+    545,
+    239,
+    561
+   ]
+  },
+  {
+   "text": "+36 30 221 5863",
+   "bbox": [
+    417,
+    543,
+    597,
+    560
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    599,
+    219,
+    615
+   ]
+  },
+  {
+   "text": "nagy.anita@freemail.hu",
+   "bbox": [
+    417,
+    599,
+    669,
+    623
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    653,
+    277,
+    674
+   ]
+  },
+  {
+   "text": "8443255218",
+   "bbox": [
+    417,
+    652,
+    547,
+    669
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    117,
+    708,
+    209,
+    723
+   ]
+  },
+  {
+   "text": "469 559 712",
+   "bbox": [
+    417,
+    704,
+    548,
+    721
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    789,
+    292,
+    813
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    832,
+    473,
+    853
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    877,
+    297,
+    893
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    922,
+    493,
+    943
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    1027,
+    147,
+    1044
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár, 2024. 11. 02.",
+   "bbox": [
+    195,
+    1024,
+    539,
+    1048
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    920,
+    1076,
+    969,
+    1090
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

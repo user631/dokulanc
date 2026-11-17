@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kiss József",
+  "anyja_neve": "Nagy Gergely",
+  "szuletesi_hely": "Fürdőkőrös",
+  "szuletesi_datum": "1984. 12. 17.",
+  "lakcim": "H-9359 Keresztváros, Szolnoki utca 230.",
+  "telefon": "+36 70 953 4337",
+  "email": "kiss.jozsef@freemail.hu",
+  "adoazonosito_jel": "8430841113",
+  "taj_szam": "454 341 827",
+  "kelt": "Nagykanizsa, 2025. 07. 28."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    378,
+    96,
+    861,
+    130
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    96,
+    207,
+    332,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    261,
+    149,
+    276
+   ]
+  },
+  {
+   "text": "Kiss József",
+   "bbox": [
+    420,
+    256,
+    568,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    107,
+    314,
+    212,
+    333
+   ]
+  },
+  {
+   "text": "Nagy Gergely",
+   "bbox": [
+    420,
+    313,
+    607,
+    342
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    108,
+    367,
+    237,
+    386
+   ]
+  },
+  {
+   "text": "Fürdőkőrös",
+   "bbox": [
+    420,
+    362,
+    580,
+    387
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    108,
+    420,
+    227,
+    435
+   ]
+  },
+  {
+   "text": "1984. 12. 17.",
+   "bbox": [
+    420,
+    420,
+    596,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    108,
+    473,
+    180,
+    488
+   ]
+  },
+  {
+   "text": "H-9359 Keresztváros, Szolnoki utca 230.",
+   "bbox": [
+    420,
+    471,
+    984,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    526,
+    228,
+    541
+   ]
+  },
+  {
+   "text": "+36 70 953 4337",
+   "bbox": [
+    420,
+    522,
+    649,
+    542
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    108,
+    579,
+    212,
+    594
+   ]
+  },
+  {
+   "text": "kiss.jozsef@freemail.hu",
+   "bbox": [
+    420,
+    573,
+    750,
+    602
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    107,
+    632,
+    262,
+    651
+   ]
+  },
+  {
+   "text": "8430841113",
+   "bbox": [
+    420,
+    630,
+    590,
+    649
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    685,
+    200,
+    700
+   ]
+  },
+  {
+   "text": "454 341 827",
+   "bbox": [
+    420,
+    685,
+    590,
+    705
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    96,
+    765,
+    291,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    141,
+    809,
+    453,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    141,
+    854,
+    290,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    140,
+    899,
+    467,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    96,
+    1002,
+    141,
+    1018
+   ]
+  },
+  {
+   "text": "Nagykanizsa, 2025. 07. 28.",
+   "bbox": [
+    186,
+    998,
+    540,
+    1025
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1051,
+    979,
+    1064
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

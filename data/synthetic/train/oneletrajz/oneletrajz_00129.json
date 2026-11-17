@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss Dóra",
+  "email": "kiss.dora@citromail.hu",
+  "telefon": "+36 70 609 2030",
+  "lakcim": "H-4126 Györgykőrös, Ady endre utca 76.",
+  "szuletesi_datum": "1987. 08. 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2007 – 2012"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "ceg": "Molnár Trade Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2011 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "C#",
+   "Excel",
+   "Python",
+   "projektmenedzsment",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss Dóra",
+   "bbox": [
+    493,
+    109,
+    747,
+    149
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    495,
+    178,
+    744,
+    205
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    179,
+    250
+   ]
+  },
+  {
+   "text": "kiss.dora@citromail.hu",
+   "bbox": [
+    330,
+    233,
+    580,
+    253
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    192,
+    282
+   ]
+  },
+  {
+   "text": "+36 70 609 2030",
+   "bbox": [
+    330,
+    266,
+    526,
+    282
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    296,
+    187,
+    314
+   ]
+  },
+  {
+   "text": "H-4126 Györgykőrös, Ady endre utca 76.",
+   "bbox": [
+    330,
+    296,
+    787,
+    318
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    328,
+    300,
+    346
+   ]
+  },
+  {
+   "text": "1987. 08. 17.",
+   "bbox": [
+    330,
+    330,
+    482,
+    346
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    382,
+    383,
+    407
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    434,
+    232,
+    450
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy Zrt.",
+   "bbox": [
+    90,
+    459,
+    512,
+    482
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    502,
+    232,
+    518
+   ]
+  },
+  {
+   "text": "tesztmérnök – Molnár Trade Kft.",
+   "bbox": [
+    90,
+    527,
+    505,
+    545
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    579,
+    289,
+    605
+   ]
+  },
+  {
+   "text": "2007 – 2012",
+   "bbox": [
+    90,
+    632,
+    232,
+    648
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    657,
+    322,
+    680
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    682,
+    470,
+    704
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    726,
+    232,
+    742
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    751,
+    399,
+    774
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    776,
+    187,
+    798
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    829,
+    253,
+    855
+   ]
+  },
+  {
+   "text": "német (B1), francia (A2)",
+   "bbox": [
+    90,
+    880,
+    364,
+    902
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    929,
+    243,
+    955
+   ]
+  },
+  {
+   "text": "JavaScript, C#, Excel, Python, projektmenedzsment, prezentáció",
+   "bbox": [
+    90,
+    980,
+    810,
+    1002
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

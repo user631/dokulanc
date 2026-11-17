@@ -1,0 +1,417 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2026/00402",
+  "kiallitas_datuma": "2026-07-26",
+  "teljesites_datuma": "2026-07-23",
+  "fizetesi_hatarido": "2026-08-03",
+  "elado_nev": "Nagy Tech Kft.",
+  "elado_cim": "H-4739 Ózd, Arany jános út 139.",
+  "elado_adoszam": "74376164-4-41",
+  "vevo_nev": "Tóth Szolgáltató Zrt.",
+  "vevo_cim": "H-6524 Mártonhida, Petőfi utca 119.",
+  "vevo_adoszam": "43453119-5-11",
+  "bankszamla": "66462668-83908762-13558650",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "67 740 Ft",
+  "afa_osszesen": "18 290 Ft",
+  "brutto_osszesen": "86 030 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "22 580",
+    "netto": "67 740",
+    "afa_kulcs": "27%",
+    "afa": "18 290",
+    "brutto": "86 030"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    151,
+    139,
+    213,
+    156
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1004,
+    120,
+    1138,
+    151
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2026/00402",
+   "bbox": [
+    888,
+    176,
+    1138,
+    194
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    102,
+    257,
+    168,
+    274
+   ]
+  },
+  {
+   "text": "Nagy Tech Kft.",
+   "bbox": [
+    102,
+    292,
+    260,
+    314
+   ]
+  },
+  {
+   "text": "H-4739 Ózd, Arany jános út 139.",
+   "bbox": [
+    102,
+    321,
+    404,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 74376164-4-41",
+   "bbox": [
+    102,
+    353,
+    335,
+    369
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    257,
+    690,
+    274
+   ]
+  },
+  {
+   "text": "Tóth Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    292,
+    852,
+    314
+   ]
+  },
+  {
+   "text": "H-6524 Mártonhida, Petőfi utca 119.",
+   "bbox": [
+    630,
+    324,
+    969,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 43453119-5-11",
+   "bbox": [
+    630,
+    353,
+    863,
+    369
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    102,
+    420,
+    264,
+    436
+   ]
+  },
+  {
+   "text": "2026-07-26",
+   "bbox": [
+    402,
+    421,
+    506,
+    436
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    102,
+    451,
+    283,
+    471
+   ]
+  },
+  {
+   "text": "2026-07-23",
+   "bbox": [
+    402,
+    452,
+    506,
+    467
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    102,
+    482,
+    273,
+    498
+   ]
+  },
+  {
+   "text": "2026-08-03",
+   "bbox": [
+    402,
+    483,
+    506,
+    498
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    102,
+    513,
+    234,
+    529
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    402,
+    513,
+    487,
+    533
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    102,
+    555,
+    203,
+    573
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    556,
+    578,
+    573
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    555,
+    744,
+    573
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    555,
+    868,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    552,
+    930,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    996,
+    552,
+    1030,
+    569
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    555,
+    1138,
+    569
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    516,
+    596,
+    592,
+    609
+   ]
+  },
+  {
+   "text": "22 580",
+   "bbox": [
+    694,
+    596,
+    744,
+    609
+   ]
+  },
+  {
+   "text": "67 740",
+   "bbox": [
+    818,
+    596,
+    868,
+    609
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    596,
+    930,
+    609
+   ]
+  },
+  {
+   "text": "18 290",
+   "bbox": [
+    979,
+    596,
+    1029,
+    609
+   ]
+  },
+  {
+   "text": "86 030",
+   "bbox": [
+    1088,
+    596,
+    1138,
+    609
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    102,
+    595,
+    277,
+    613
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    652,
+    649,
+    808,
+    667
+   ]
+  },
+  {
+   "text": "67 740 Ft",
+   "bbox": [
+    1043,
+    651,
+    1138,
+    667
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    670,
+    681,
+    808,
+    702
+   ]
+  },
+  {
+   "text": "18 290 Ft",
+   "bbox": [
+    1043,
+    686,
+    1138,
+    702
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    598,
+    720,
+    808,
+    737
+   ]
+  },
+  {
+   "text": "86 030 Ft",
+   "bbox": [
+    1037,
+    721,
+    1138,
+    737
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 66462668-83908762-13558650",
+   "bbox": [
+    102,
+    784,
+    521,
+    800
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    102,
+    812,
+    629,
+    829
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    437,
+    1635,
+    803,
+    1651
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

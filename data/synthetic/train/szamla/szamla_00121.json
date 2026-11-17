@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/04464",
+  "kiallitas_datuma": "2025. március 31.",
+  "teljesites_datuma": "2025. március 28.",
+  "fizetesi_hatarido": "2025. április 8.",
+  "elado_nev": "Nagy Trade Kft.",
+  "elado_cim": "H-7647 Érd, Ady endre tér 81.",
+  "elado_adoszam": "43526064-3-34",
+  "vevo_nev": "Farkas Trade Kft.",
+  "vevo_cim": "H-8164 Hódmezővásárhely, Béke út 153.",
+  "vevo_adoszam": "66145978-2-07",
+  "bankszamla": "72895689-81022810-85913732",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "417 860 Ft",
+  "afa_osszesen": "112 670 Ft",
+  "brutto_osszesen": "530 530 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "3 430",
+    "netto": "17 150",
+    "afa_kulcs": "27%",
+    "afa": "4 630",
+    "brutto": "21 780"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 690",
+    "netto": "1 690",
+    "afa_kulcs": "18%",
+    "afa": "304",
+    "brutto": "1 994"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "3 hó",
+    "egysegar": "73 980",
+    "netto": "221 940",
+    "afa_kulcs": "27%",
+    "afa": "59 924",
+    "brutto": "281 864"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "177 080",
+    "netto": "177 080",
+    "afa_kulcs": "27%",
+    "afa": "47 812",
+    "brutto": "224 892"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    410,
+    92,
+    829,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/04464",
+   "bbox": [
+    423,
+    149,
+    817,
+    168
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    84,
+    229,
+    163,
+    248
+   ]
+  },
+  {
+   "text": "Nagy Trade Kft.",
+   "bbox": [
+    84,
+    267,
+    275,
+    291
+   ]
+  },
+  {
+   "text": "H-7647 Érd, Ady endre tér 81.",
+   "bbox": [
+    84,
+    299,
+    402,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 43526064-3-34",
+   "bbox": [
+    83,
+    335,
+    356,
+    352
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    229,
+    700,
+    248
+   ]
+  },
+  {
+   "text": "Farkas Trade Kft.",
+   "bbox": [
+    630,
+    267,
+    840,
+    286
+   ]
+  },
+  {
+   "text": "H-8164 Hódmezővásárhely, Béke út 153.",
+   "bbox": [
+    630,
+    303,
+    1064,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 66145978-2-07",
+   "bbox": [
+    629,
+    335,
+    902,
+    352
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    84,
+    403,
+    276,
+    422
+   ]
+  },
+  {
+   "text": "2025. március 31.",
+   "bbox": [
+    384,
+    405,
+    573,
+    422
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    84,
+    437,
+    293,
+    461
+   ]
+  },
+  {
+   "text": "2025. március 28.",
+   "bbox": [
+    384,
+    439,
+    573,
+    456
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    84,
+    471,
+    282,
+    490
+   ]
+  },
+  {
+   "text": "2025. április 8.",
+   "bbox": [
+    384,
+    473,
+    538,
+    495
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    84,
+    505,
+    238,
+    524
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    384,
+    507,
+    484,
+    529
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    84,
+    552,
+    211,
+    572
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    553,
+    586,
+    572
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    652,
+    552,
+    749,
+    572
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    552,
+    877,
+    568
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    879,
+    549,
+    941,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    549,
+    1044,
+    568
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    552,
+    1156,
+    568
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    596,
+    554,
+    611
+   ]
+  },
+  {
+   "text": "3 430",
+   "bbox": [
+    694,
+    596,
+    748,
+    611
+   ]
+  },
+  {
+   "text": "17 150",
+   "bbox": [
+    811,
+    596,
+    877,
+    611
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    596,
+    941,
+    611
+   ]
+  },
+  {
+   "text": "4 630",
+   "bbox": [
+    989,
+    596,
+    1043,
+    611
+   ]
+  },
+  {
+   "text": "21 780",
+   "bbox": [
+    1090,
+    596,
+    1156,
+    611
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    84,
+    596,
+    256,
+    615
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    512,
+    633,
+    590,
+    648
+   ]
+  },
+  {
+   "text": "1 690",
+   "bbox": [
+    694,
+    633,
+    748,
+    648
+   ]
+  },
+  {
+   "text": "1 690",
+   "bbox": [
+    823,
+    633,
+    877,
+    648
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    898,
+    633,
+    941,
+    648
+   ]
+  },
+  {
+   "text": "304",
+   "bbox": [
+    1007,
+    633,
+    1043,
+    648
+   ]
+  },
+  {
+   "text": "1 994",
+   "bbox": [
+    1102,
+    633,
+    1156,
+    648
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    83,
+    629,
+    230,
+    652
+   ]
+  },
+  {
+   "text": "3 hó",
+   "bbox": [
+    512,
+    670,
+    554,
+    685
+   ]
+  },
+  {
+   "text": "73 980",
+   "bbox": [
+    682,
+    670,
+    748,
+    685
+   ]
+  },
+  {
+   "text": "221 940",
+   "bbox": [
+    799,
+    670,
+    877,
+    685
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    670,
+    941,
+    685
+   ]
+  },
+  {
+   "text": "59 924",
+   "bbox": [
+    977,
+    670,
+    1043,
+    685
+   ]
+  },
+  {
+   "text": "281 864",
+   "bbox": [
+    1078,
+    670,
+    1156,
+    685
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    84,
+    670,
+    362,
+    689
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    512,
+    707,
+    605,
+    722
+   ]
+  },
+  {
+   "text": "177 080",
+   "bbox": [
+    670,
+    707,
+    748,
+    722
+   ]
+  },
+  {
+   "text": "177 080",
+   "bbox": [
+    799,
+    707,
+    877,
+    722
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    707,
+    941,
+    722
+   ]
+  },
+  {
+   "text": "47 812",
+   "bbox": [
+    977,
+    707,
+    1043,
+    722
+   ]
+  },
+  {
+   "text": "224 892",
+   "bbox": [
+    1078,
+    707,
+    1156,
+    722
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    84,
+    707,
+    302,
+    726
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    764,
+    826,
+    782
+   ]
+  },
+  {
+   "text": "417 860 Ft",
+   "bbox": [
+    1036,
+    764,
+    1156,
+    782
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    654,
+    797,
+    826,
+    820
+   ]
+  },
+  {
+   "text": "112 670 Ft",
+   "bbox": [
+    1036,
+    802,
+    1156,
+    820
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    686,
+    838,
+    826,
+    863
+   ]
+  },
+  {
+   "text": "530 530 Ft",
+   "bbox": [
+    1035,
+    840,
+    1157,
+    858
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 72895689-81022810-85913732",
+   "bbox": [
+    84,
+    907,
+    607,
+    924
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    84,
+    939,
+    701,
+    958
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    471,
+    1651,
+    769,
+    1669
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

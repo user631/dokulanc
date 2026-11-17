@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Németh Bence",
+  "anyja_neve": "Tóth Dávid",
+  "szuletesi_hely": "Nyékmellékkövesd",
+  "szuletesi_datum": "1995. 01. 10.",
+  "lakcim": "H-8286 Pécs, Petőfi utca 167.",
+  "telefon": "06 1 828 9653",
+  "email": "nemeth.bence@gmail.com",
+  "adoazonosito_jel": "8467602619",
+  "taj_szam": "890 919 271",
+  "kelt": "Hódmezővásárhely, 2026. 06. 18."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    490,
+    108,
+    750,
+    137
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    110,
+    214,
+    287,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    122,
+    269,
+    156,
+    281
+   ]
+  },
+  {
+   "text": "Németh Bence",
+   "bbox": [
+    406,
+    269,
+    547,
+    287
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    122,
+    320,
+    206,
+    335
+   ]
+  },
+  {
+   "text": "Tóth Dávid",
+   "bbox": [
+    406,
+    319,
+    520,
+    339
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    122,
+    371,
+    224,
+    386
+   ]
+  },
+  {
+   "text": "Nyékmellékkövesd",
+   "bbox": [
+    406,
+    364,
+    576,
+    386
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    122,
+    422,
+    217,
+    434
+   ]
+  },
+  {
+   "text": "1995. 01. 10.",
+   "bbox": [
+    405,
+    419,
+    531,
+    437
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    122,
+    473,
+    178,
+    485
+   ]
+  },
+  {
+   "text": "H-8286 Pécs, Petőfi utca 167.",
+   "bbox": [
+    405,
+    468,
+    722,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    122,
+    524,
+    220,
+    536
+   ]
+  },
+  {
+   "text": "06 1 828 9653",
+   "bbox": [
+    406,
+    526,
+    568,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    122,
+    575,
+    203,
+    587
+   ]
+  },
+  {
+   "text": "nemeth.bence@gmail.com",
+   "bbox": [
+    406,
+    575,
+    654,
+    599
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    122,
+    626,
+    249,
+    641
+   ]
+  },
+  {
+   "text": "8467602619",
+   "bbox": [
+    406,
+    623,
+    546,
+    641
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    122,
+    677,
+    193,
+    689
+   ]
+  },
+  {
+   "text": "890 919 271",
+   "bbox": [
+    406,
+    678,
+    540,
+    696
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    110,
+    752,
+    250,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    155,
+    798,
+    409,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    155,
+    843,
+    274,
+    855
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    155,
+    888,
+    423,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    110,
+    988,
+    144,
+    1001
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2026. 06. 18.",
+   "bbox": [
+    199,
+    985,
+    503,
+    1006
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    920,
+    1038,
+    959,
+    1048
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

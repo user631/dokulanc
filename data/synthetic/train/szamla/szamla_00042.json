@@ -1,0 +1,633 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/00086",
+  "kiallitas_datuma": "2026. december 30.",
+  "teljesites_datuma": "2026. december 29.",
+  "fizetesi_hatarido": "2027. január 29.",
+  "elado_nev": "Takács Szolgáltató Zrt.",
+  "elado_cim": "H-8976 Dunaújváros, Várai tér 1.",
+  "elado_adoszam": "21672710-4-43",
+  "vevo_nev": "Lakatos Kft.",
+  "vevo_cim": "H-7862 Törökhetvenvár, Nagykanizsai utca 195.",
+  "vevo_adoszam": "62457071-5-23",
+  "bankszamla": "HU15 3981 9286 5552 0618 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "185 870 Ft",
+  "afa_osszesen": "49 916 Ft",
+  "brutto_osszesen": "235 786 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "6 750",
+    "netto": "6 750",
+    "afa_kulcs": "27%",
+    "afa": "1 822",
+    "brutto": "8 572"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "2 db",
+    "egysegar": "610",
+    "netto": "1 220",
+    "afa_kulcs": "5%",
+    "afa": "61",
+    "brutto": "1 281"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "3 csomag",
+    "egysegar": "2 720",
+    "netto": "8 160",
+    "afa_kulcs": "27%",
+    "afa": "2 203",
+    "brutto": "10 363"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "3 év",
+    "egysegar": "56 580",
+    "netto": "169 740",
+    "afa_kulcs": "27%",
+    "afa": "45 830",
+    "brutto": "215 570"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAKÁCS",
+   "bbox": [
+    116,
+    115,
+    211,
+    139
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    714,
+    103,
+    1156,
+    140
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/00086",
+   "bbox": [
+    854,
+    159,
+    1156,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    84,
+    240,
+    165,
+    261
+   ]
+  },
+  {
+   "text": "Takács Szolgáltató Zrt.",
+   "bbox": [
+    84,
+    278,
+    385,
+    304
+   ]
+  },
+  {
+   "text": "H-8976 Dunaújváros, Várai tér 1.",
+   "bbox": [
+    84,
+    314,
+    437,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 21672710-4-43",
+   "bbox": [
+    83,
+    346,
+    356,
+    365
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    240,
+    703,
+    261
+   ]
+  },
+  {
+   "text": "Lakatos Kft.",
+   "bbox": [
+    630,
+    279,
+    788,
+    299
+   ]
+  },
+  {
+   "text": "H-7862 Törökhetvenvár, Nagykanizsai utca 195.",
+   "bbox": [
+    630,
+    314,
+    1141,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 62457071-5-23",
+   "bbox": [
+    629,
+    346,
+    902,
+    365
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    84,
+    415,
+    256,
+    432
+   ]
+  },
+  {
+   "text": "2026. december 30.",
+   "bbox": [
+    84,
+    446,
+    290,
+    464
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    415,
+    539,
+    436
+   ]
+  },
+  {
+   "text": "2026. december 29.",
+   "bbox": [
+    352,
+    446,
+    558,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    415,
+    794,
+    432
+   ]
+  },
+  {
+   "text": "2027. január 29.",
+   "bbox": [
+    620,
+    445,
+    790,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    415,
+    1019,
+    432
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    888,
+    445,
+    968,
+    464
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    84,
+    497,
+    211,
+    518
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    498,
+    588,
+    518
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    652,
+    497,
+    749,
+    518
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    497,
+    877,
+    514
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    493,
+    941,
+    514
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    493,
+    1044,
+    514
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    497,
+    1156,
+    514
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    540,
+    554,
+    557
+   ]
+  },
+  {
+   "text": "6 750",
+   "bbox": [
+    697,
+    541,
+    748,
+    557
+   ]
+  },
+  {
+   "text": "6 750",
+   "bbox": [
+    826,
+    541,
+    877,
+    557
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    541,
+    941,
+    557
+   ]
+  },
+  {
+   "text": "1 822",
+   "bbox": [
+    992,
+    541,
+    1043,
+    557
+   ]
+  },
+  {
+   "text": "8 572",
+   "bbox": [
+    1105,
+    541,
+    1156,
+    557
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    84,
+    540,
+    268,
+    561
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    512,
+    577,
+    554,
+    594
+   ]
+  },
+  {
+   "text": "610",
+   "bbox": [
+    715,
+    578,
+    748,
+    594
+   ]
+  },
+  {
+   "text": "1 220",
+   "bbox": [
+    826,
+    578,
+    877,
+    594
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    909,
+    578,
+    941,
+    594
+   ]
+  },
+  {
+   "text": "61",
+   "bbox": [
+    1021,
+    578,
+    1043,
+    594
+   ]
+  },
+  {
+   "text": "1 281",
+   "bbox": [
+    1105,
+    578,
+    1156,
+    594
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    84,
+    577,
+    195,
+    598
+   ]
+  },
+  {
+   "text": "3 csomag",
+   "bbox": [
+    512,
+    615,
+    601,
+    635
+   ]
+  },
+  {
+   "text": "2 720",
+   "bbox": [
+    697,
+    615,
+    748,
+    631
+   ]
+  },
+  {
+   "text": "8 160",
+   "bbox": [
+    826,
+    615,
+    877,
+    631
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    615,
+    941,
+    631
+   ]
+  },
+  {
+   "text": "2 203",
+   "bbox": [
+    992,
+    615,
+    1043,
+    631
+   ]
+  },
+  {
+   "text": "10 363",
+   "bbox": [
+    1094,
+    615,
+    1156,
+    631
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    84,
+    614,
+    327,
+    635
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    512,
+    651,
+    552,
+    668
+   ]
+  },
+  {
+   "text": "56 580",
+   "bbox": [
+    686,
+    652,
+    748,
+    668
+   ]
+  },
+  {
+   "text": "169 740",
+   "bbox": [
+    804,
+    652,
+    877,
+    668
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    652,
+    941,
+    668
+   ]
+  },
+  {
+   "text": "45 830",
+   "bbox": [
+    981,
+    652,
+    1043,
+    668
+   ]
+  },
+  {
+   "text": "215 570",
+   "bbox": [
+    1083,
+    652,
+    1156,
+    668
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    84,
+    651,
+    253,
+    672
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    651,
+    708,
+    826,
+    729
+   ]
+  },
+  {
+   "text": "185 870 Ft",
+   "bbox": [
+    1035,
+    710,
+    1157,
+    729
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    667,
+    741,
+    826,
+    767
+   ]
+  },
+  {
+   "text": "49 916 Ft",
+   "bbox": [
+    1049,
+    748,
+    1157,
+    767
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    683,
+    784,
+    826,
+    810
+   ]
+  },
+  {
+   "text": "235 786 Ft",
+   "bbox": [
+    1021,
+    786,
+    1157,
+    805
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU15 3981 9286 5552 0618 0000 0000",
+   "bbox": [
+    84,
+    852,
+    679,
+    871
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    84,
+    883,
+    702,
+    904
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    406,
+    1651,
+    832,
+    1670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

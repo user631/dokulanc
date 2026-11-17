@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZILÁGYI ABC BT.",
+  "uzlet_cim": "H-1667 Keresztdevecser, Györgyberényi utca 118.",
+  "adoszam": "84919001-2-23",
+  "datum": "2025.06.07.",
+  "ido": "12:27",
+  "nyugtaszam": "7130/79859",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 689 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1147"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1542"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZILÁGYI ABC BT.",
+   "bbox": [
+    170,
+    30,
+    410,
+    51
+   ]
+  },
+  {
+   "text": "H-1667 Keresztdevecser, Györgyberényi",
+   "bbox": [
+    49,
+    70,
+    530,
+    87
+   ]
+  },
+  {
+   "text": "utca 118.",
+   "bbox": [
+    231,
+    97,
+    348,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 84919001-2-23",
+   "bbox": [
+    147,
+    121,
+    433,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    167,
+    339,
+    183
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    211,
+    192,
+    225
+   ]
+  },
+  {
+   "text": "1147 C00",
+   "bbox": [
+    444,
+    211,
+    556,
+    225
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    243,
+    206,
+    256
+   ]
+  },
+  {
+   "text": "1542 A00",
+   "bbox": [
+    444,
+    242,
+    556,
+    256
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    280,
+    184,
+    302
+   ]
+  },
+  {
+   "text": "2 689 Ft",
+   "bbox": [
+    428,
+    285,
+    556,
+    302
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    323,
+    178,
+    340
+   ]
+  },
+  {
+   "text": "2 689 Ft",
+   "bbox": [
+    444,
+    326,
+    556,
+    340
+   ]
+  },
+  {
+   "text": "2025.06.07.",
+   "bbox": [
+    24,
+    370,
+    167,
+    383
+   ]
+  },
+  {
+   "text": "12:27",
+   "bbox": [
+    491,
+    370,
+    556,
+    383
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7130/79859",
+   "bbox": [
+    24,
+    398,
+    310,
+    416
+   ]
+  },
+  {
+   "text": "AP A52841218",
+   "bbox": [
+    24,
+    432,
+    180,
+    445
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    191,
+    471,
+    387,
+    489
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  580,
+  533
+ ]
+}

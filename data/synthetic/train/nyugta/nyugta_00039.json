@@ -1,0 +1,404 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS CSEMEGE BT.",
+  "uzlet_cim": "H-8766 Mindszentfalva, Tótvári utca 238.",
+  "adoszam": "39201878-3-39",
+  "datum": "2026.10.05.",
+  "ido": "11:35",
+  "nyugtaszam": "4764/39194",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "11 715 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "787"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "240"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1167"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "887"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "266"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "81"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "808"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "473"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1584"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2677"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "731"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2014"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS CSEMEGE BT.",
+   "bbox": [
+    168,
+    28,
+    420,
+    50
+   ]
+  },
+  {
+   "text": "H-8766 Mindszentfalva, Tótvári utca 238.",
+   "bbox": [
+    54,
+    67,
+    534,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 39201878-3-39",
+   "bbox": [
+    162,
+    92,
+    426,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    249,
+    139,
+    340,
+    157
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    185,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "787 A00",
+   "bbox": [
+    474,
+    185,
+    565,
+    200
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    217,
+    206,
+    236
+   ]
+  },
+  {
+   "text": "240 B00",
+   "bbox": [
+    474,
+    217,
+    565,
+    232
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    249,
+    154,
+    264
+   ]
+  },
+  {
+   "text": "1167 A00",
+   "bbox": [
+    461,
+    249,
+    565,
+    264
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    281,
+    219,
+    296
+   ]
+  },
+  {
+   "text": "887 A00",
+   "bbox": [
+    474,
+    281,
+    565,
+    296
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    313,
+    193,
+    328
+   ]
+  },
+  {
+   "text": "266 A00",
+   "bbox": [
+    474,
+    313,
+    565,
+    328
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    345,
+    102,
+    360
+   ]
+  },
+  {
+   "text": "81 A00",
+   "bbox": [
+    487,
+    345,
+    565,
+    360
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    377,
+    180,
+    392
+   ]
+  },
+  {
+   "text": "808 B00",
+   "bbox": [
+    474,
+    377,
+    565,
+    392
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    409,
+    141,
+    424
+   ]
+  },
+  {
+   "text": "473 B00",
+   "bbox": [
+    474,
+    409,
+    565,
+    424
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    441,
+    154,
+    456
+   ]
+  },
+  {
+   "text": "1584 C00",
+   "bbox": [
+    461,
+    441,
+    565,
+    456
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    473,
+    141,
+    488
+   ]
+  },
+  {
+   "text": "2677 B00",
+   "bbox": [
+    461,
+    473,
+    565,
+    488
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    505,
+    128,
+    520
+   ]
+  },
+  {
+   "text": "731 B00",
+   "bbox": [
+    474,
+    505,
+    565,
+    520
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    537,
+    271,
+    552
+   ]
+  },
+  {
+   "text": "2014 C00",
+   "bbox": [
+    461,
+    537,
+    565,
+    552
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    576,
+    174,
+    599
+   ]
+  },
+  {
+   "text": "11 715 Ft",
+   "bbox": [
+    430,
+    581,
+    565,
+    599
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    618,
+    128,
+    638
+   ]
+  },
+  {
+   "text": "11 715 Ft",
+   "bbox": [
+    448,
+    622,
+    565,
+    638
+   ]
+  },
+  {
+   "text": "2026.10.05.",
+   "bbox": [
+    24,
+    669,
+    156,
+    683
+   ]
+  },
+  {
+   "text": "11:35",
+   "bbox": [
+    505,
+    669,
+    565,
+    683
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4764/39194",
+   "bbox": [
+    24,
+    696,
+    288,
+    717
+   ]
+  },
+  {
+   "text": "AP A61216004",
+   "bbox": [
+    24,
+    733,
+    168,
+    747
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    196,
+    772,
+    391,
+    792
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  589,
+  838
+ ]
+}

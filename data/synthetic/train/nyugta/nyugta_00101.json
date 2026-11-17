@@ -1,0 +1,391 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH ABC BT.",
+  "uzlet_cim": "H-4792 Hátfalva, Kossuth utca 22.",
+  "adoszam": "57761237-4-22",
+  "datum": "2024.12.16.",
+  "ido": "09:15",
+  "nyugtaszam": "0441/26416",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 342 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "681"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "681"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "179"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "395"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1122"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "772"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "659"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "963"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "964"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2976"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1950"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ABC BT.",
+   "bbox": [
+    187,
+    31,
+    355,
+    49
+   ]
+  },
+  {
+   "text": "H-4792 Hátfalva, Kossuth utca 22.",
+   "bbox": [
+    89,
+    63,
+    452,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 57761237-4-22",
+   "bbox": [
+    150,
+    88,
+    392,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    131,
+    316,
+    147
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    172,
+    232,
+    187
+   ]
+  },
+  {
+   "text": "681 C00",
+   "bbox": [
+    427,
+    172,
+    518,
+    187
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    201,
+    206,
+    216
+   ]
+  },
+  {
+   "text": "681 A00",
+   "bbox": [
+    427,
+    201,
+    518,
+    216
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    230,
+    206,
+    248
+   ]
+  },
+  {
+   "text": "179 B00",
+   "bbox": [
+    427,
+    230,
+    518,
+    245
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    259,
+    206,
+    274
+   ]
+  },
+  {
+   "text": "395 B00",
+   "bbox": [
+    427,
+    259,
+    518,
+    274
+   ]
+  },
+  {
+   "text": "3 DB x 374",
+   "bbox": [
+    24,
+    288,
+    134,
+    301
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    311,
+    167,
+    329
+   ]
+  },
+  {
+   "text": "1122 A00",
+   "bbox": [
+    414,
+    311,
+    518,
+    326
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    340,
+    128,
+    355
+   ]
+  },
+  {
+   "text": "772 C00",
+   "bbox": [
+    427,
+    340,
+    518,
+    355
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    369,
+    167,
+    384
+   ]
+  },
+  {
+   "text": "659 A00",
+   "bbox": [
+    427,
+    369,
+    518,
+    384
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    398,
+    219,
+    413
+   ]
+  },
+  {
+   "text": "963 B00",
+   "bbox": [
+    427,
+    398,
+    518,
+    413
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    427,
+    180,
+    442
+   ]
+  },
+  {
+   "text": "964 A00",
+   "bbox": [
+    427,
+    427,
+    518,
+    442
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    456,
+    141,
+    471
+   ]
+  },
+  {
+   "text": "2976 A00",
+   "bbox": [
+    414,
+    456,
+    518,
+    471
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    485,
+    271,
+    500
+   ]
+  },
+  {
+   "text": "1950 C00",
+   "bbox": [
+    414,
+    485,
+    518,
+    500
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    524,
+    159,
+    544
+   ]
+  },
+  {
+   "text": "11 342 Ft",
+   "bbox": [
+    383,
+    526,
+    518,
+    544
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    563,
+    154,
+    580
+   ]
+  },
+  {
+   "text": "11 342 Ft",
+   "bbox": [
+    401,
+    565,
+    518,
+    580
+   ]
+  },
+  {
+   "text": "2024.12.16.",
+   "bbox": [
+    24,
+    607,
+    145,
+    621
+   ]
+  },
+  {
+   "text": "09:15",
+   "bbox": [
+    463,
+    607,
+    518,
+    621
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0441/26416",
+   "bbox": [
+    24,
+    635,
+    266,
+    653
+   ]
+  },
+  {
+   "text": "AP A11804457",
+   "bbox": [
+    24,
+    665,
+    156,
+    679
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    139,
+    705,
+    403,
+    721
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  542,
+  766
+ ]
+}

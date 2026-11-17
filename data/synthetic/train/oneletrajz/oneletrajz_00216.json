@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kis Júlia",
+  "email": "kis.julia@example.hu",
+  "telefon": "+36 20 402 4240",
+  "lakcim": "H-2029 Nyíregyháza, Szerbmindszenti utca 138.",
+  "szuletesi_datum": "1991. március 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss és Társa Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "ceg": "Orsós Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2018 – 2019"
+   },
+   {
+    "ceg": "Szabó Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2015 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Python",
+   "Linux",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    186,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    92,
+    158
+   ]
+  },
+  {
+   "text": "kis.julia@example.hu",
+   "bbox": [
+    40,
+    167,
+    213,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    104,
+    212
+   ]
+  },
+  {
+   "text": "+36 20 402 4240",
+   "bbox": [
+    40,
+    221,
+    163,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    252,
+    99,
+    266
+   ]
+  },
+  {
+   "text": "H-2029 Nyíregyháza, Szerbmindszenti",
+   "bbox": [
+    40,
+    274,
+    342,
+    292
+   ]
+  },
+  {
+   "text": "utca 138.",
+   "bbox": [
+    40,
+    297,
+    114,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    328,
+    173,
+    342
+   ]
+  },
+  {
+   "text": "1991. március 15.",
+   "bbox": [
+    40,
+    350,
+    180,
+    364
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    410,
+    175,
+    430
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    450,
+    135,
+    469
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    504,
+    156,
+    524
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    545,
+    152,
+    563
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    571,
+    98,
+    589
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    597,
+    85,
+    611
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    623,
+    72,
+    640
+   ]
+  },
+  {
+   "text": "Kis Júlia",
+   "bbox": [
+    450,
+    108,
+    620,
+    141
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    172,
+    564,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    675,
+    261
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    288,
+    549,
+    302
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kiss és Társa Bt.",
+   "bbox": [
+    450,
+    312,
+    828,
+    331
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    450,
+    352,
+    549,
+    366
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Orsós Tech Kft.",
+   "bbox": [
+    450,
+    375,
+    821,
+    395
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    450,
+    416,
+    549,
+    430
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szabó Tech Kft.",
+   "bbox": [
+    450,
+    439,
+    883,
+    459
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    490,
+    602,
+    513
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    450,
+    540,
+    549,
+    554
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    564,
+    624,
+    583
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    586,
+    564,
+    606
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    628,
+    549,
+    642
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    651,
+    739,
+    671
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    675,
+    631,
+    694
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Lakatos János",
+  "anyja_neve": "Farkas Margit",
+  "szuletesi_hely": "Tótnádasd",
+  "szuletesi_datum": "1974. 09. 10.",
+  "lakcim": "H-1926 Drávamártonberény, Soproni utca 63.",
+  "telefon": "+36 30 227 5730",
+  "email": "lakatos.janos@example.hu",
+  "adoazonosito_jel": "8393338379",
+  "taj_szam": "907 463 940",
+  "kelt": "Ligetapáti, 2024. 02. 20."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    501,
+    89,
+    738,
+    126
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    475,
+    145,
+    763,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    198,
+    316,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    252,
+    140,
+    267
+   ]
+  },
+  {
+   "text": "Lakatos János",
+   "bbox": [
+    402,
+    248,
+    561,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    305,
+    200,
+    323
+   ]
+  },
+  {
+   "text": "Farkas Margit",
+   "bbox": [
+    402,
+    304,
+    561,
+    329
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    356,
+    220,
+    375
+   ]
+  },
+  {
+   "text": "Tótnádasd",
+   "bbox": [
+    402,
+    353,
+    519,
+    372
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    408,
+    211,
+    423
+   ]
+  },
+  {
+   "text": "1974. 09. 10.",
+   "bbox": [
+    402,
+    408,
+    546,
+    428
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    460,
+    165,
+    475
+   ]
+  },
+  {
+   "text": "H-1926 Drávamártonberény, Soproni utca 63.",
+   "bbox": [
+    402,
+    455,
+    915,
+    481
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    512,
+    212,
+    527
+   ]
+  },
+  {
+   "text": "+36 30 227 5730",
+   "bbox": [
+    402,
+    509,
+    600,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    564,
+    195,
+    579
+   ]
+  },
+  {
+   "text": "lakatos.janos@example.hu",
+   "bbox": [
+    402,
+    559,
+    693,
+    585
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    616,
+    242,
+    635
+   ]
+  },
+  {
+   "text": "8393338379",
+   "bbox": [
+    402,
+    614,
+    552,
+    634
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    668,
+    186,
+    683
+   ]
+  },
+  {
+   "text": "907 463 940",
+   "bbox": [
+    402,
+    664,
+    551,
+    684
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    747,
+    271,
+    768
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    790,
+    422,
+    809
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    835,
+    268,
+    850
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    880,
+    442,
+    899
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    983,
+    131,
+    999
+   ]
+  },
+  {
+   "text": "Ligetapáti, 2024. 02. 20.",
+   "bbox": [
+    179,
+    981,
+    427,
+    1005
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1032,
+    983,
+    1045
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

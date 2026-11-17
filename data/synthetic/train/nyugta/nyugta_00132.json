@@ -1,0 +1,224 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ABC BT.",
+  "uzlet_cim": "H-3343 Szerbszéknémeti, Dózsa györgy utca 45.",
+  "adoszam": "14351512-5-11",
+  "datum": "2024.02.27.",
+  "ido": "12:09",
+  "nyugtaszam": "5124/20546",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 700 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "97"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1532"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7071"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ABC BT.",
+   "bbox": [
+    171,
+    30,
+    381,
+    50
+   ]
+  },
+  {
+   "text": "H-3343 Szerbszéknémeti, Dózsa györgy",
+   "bbox": [
+    42,
+    65,
+    510,
+    86
+   ]
+  },
+  {
+   "text": "utca 45.",
+   "bbox": [
+    224,
+    94,
+    328,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 14351512-5-11",
+   "bbox": [
+    133,
+    119,
+    419,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    228,
+    165,
+    325,
+    182
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    210,
+    108,
+    224
+   ]
+  },
+  {
+   "text": "97 C00",
+   "bbox": [
+    444,
+    207,
+    528,
+    224
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    241,
+    164,
+    255
+   ]
+  },
+  {
+   "text": "1532 C00",
+   "bbox": [
+    416,
+    238,
+    528,
+    255
+   ]
+  },
+  {
+   "text": "3 DB x 2357",
+   "bbox": [
+    24,
+    269,
+    156,
+    283
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    294,
+    290,
+    311
+   ]
+  },
+  {
+   "text": "7071 C00",
+   "bbox": [
+    416,
+    294,
+    528,
+    311
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    336,
+    168,
+    357
+   ]
+  },
+  {
+   "text": "8 700 Ft",
+   "bbox": [
+    400,
+    337,
+    528,
+    357
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    377,
+    164,
+    395
+   ]
+  },
+  {
+   "text": "8 700 Ft",
+   "bbox": [
+    416,
+    378,
+    528,
+    395
+   ]
+  },
+  {
+   "text": "2024.02.27.",
+   "bbox": [
+    24,
+    423,
+    167,
+    438
+   ]
+  },
+  {
+   "text": "12:09",
+   "bbox": [
+    463,
+    423,
+    528,
+    438
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5124/20546",
+   "bbox": [
+    24,
+    452,
+    310,
+    472
+   ]
+  },
+  {
+   "text": "AP A96560696",
+   "bbox": [
+    24,
+    485,
+    180,
+    500
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    133,
+    527,
+    419,
+    544
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  552,
+  589
+ ]
+}

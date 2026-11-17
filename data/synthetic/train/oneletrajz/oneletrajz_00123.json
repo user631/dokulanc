@@ -1,0 +1,298 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Fülöp László",
+  "email": "fulop.laszlo@citromail.hu",
+  "telefon": "+36 70 253 9174",
+  "lakcim": "H-8105 Tótnémeti, Ceglédi utca 170.",
+  "szuletesi_datum": "2000. 09. 09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Papp Szolgáltató Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Java",
+   "Python",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    87,
+    202,
+    109
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    97,
+    147
+   ]
+  },
+  {
+   "text": "fulop.laszlo@citromail.hu",
+   "bbox": [
+    40,
+    155,
+    235,
+    173
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    187,
+    108,
+    201
+   ]
+  },
+  {
+   "text": "+36 70 253 9174",
+   "bbox": [
+    40,
+    210,
+    181,
+    223
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    241,
+    104,
+    255
+   ]
+  },
+  {
+   "text": "H-8105 Tótnémeti, Ceglédi utca 170.",
+   "bbox": [
+    40,
+    263,
+    333,
+    281
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    295,
+    183,
+    309
+   ]
+  },
+  {
+   "text": "2000. 09. 09.",
+   "bbox": [
+    40,
+    318,
+    147,
+    331
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    375,
+    189,
+    397
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    417,
+    144,
+    436
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    469,
+    171,
+    491
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    512,
+    64,
+    526
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    538,
+    77,
+    552
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    563,
+    97,
+    582
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    590,
+    85,
+    604
+   ]
+  },
+  {
+   "text": "Fülöp László",
+   "bbox": [
+    450,
+    95,
+    722,
+    140
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    164,
+    623,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    226,
+    690,
+    250
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    275,
+    588,
+    295
+   ]
+  },
+  {
+   "text": "rendszergazda – Papp Szolgáltató Bt.",
+   "bbox": [
+    450,
+    299,
+    842,
+    320
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    349,
+    612,
+    374
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    400,
+    561,
+    415
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    423,
+    651,
+    444
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    446,
+    589,
+    467
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    488,
+    561,
+    503
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    511,
+    747,
+    532
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    534,
+    529,
+    555
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

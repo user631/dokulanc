@@ -1,0 +1,413 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VASS MARKET BT.",
+  "uzlet_cim": "H-4128 Felsővára, Béke utca 151.",
+  "adoszam": "53229177-4-37",
+  "datum": "2024.08.27.",
+  "ido": "20:07",
+  "nyugtaszam": "5137/68007",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 493 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1103"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "88"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "350"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1365"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "422"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "948"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "559"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "429"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "792"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1146"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2701"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "590"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VASS MARKET BT.",
+   "bbox": [
+    169,
+    33,
+    379,
+    50
+   ]
+  },
+  {
+   "text": "H-4128 Felsővára, Béke utca 151.",
+   "bbox": [
+    82,
+    67,
+    466,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53229177-4-37",
+   "bbox": [
+    142,
+    92,
+    406,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    229,
+    139,
+    320,
+    157
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    185,
+    219,
+    200
+   ]
+  },
+  {
+   "text": "1103 C00",
+   "bbox": [
+    420,
+    185,
+    524,
+    200
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    217,
+    102,
+    232
+   ]
+  },
+  {
+   "text": "88 A00",
+   "bbox": [
+    446,
+    217,
+    524,
+    232
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    247,
+    167,
+    268
+   ]
+  },
+  {
+   "text": "350 A00",
+   "bbox": [
+    433,
+    249,
+    524,
+    264
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    281,
+    193,
+    296
+   ]
+  },
+  {
+   "text": "1365 A00",
+   "bbox": [
+    420,
+    281,
+    524,
+    296
+   ]
+  },
+  {
+   "text": "2 DB x 211",
+   "bbox": [
+    24,
+    313,
+    144,
+    326
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    339,
+    206,
+    358
+   ]
+  },
+  {
+   "text": "422 A00",
+   "bbox": [
+    433,
+    339,
+    524,
+    354
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    371,
+    128,
+    386
+   ]
+  },
+  {
+   "text": "948 C00",
+   "bbox": [
+    433,
+    371,
+    524,
+    386
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    403,
+    128,
+    418
+   ]
+  },
+  {
+   "text": "559 A00",
+   "bbox": [
+    433,
+    403,
+    524,
+    418
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    435,
+    206,
+    450
+   ]
+  },
+  {
+   "text": "429 B00",
+   "bbox": [
+    433,
+    435,
+    524,
+    450
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    467,
+    128,
+    482
+   ]
+  },
+  {
+   "text": "792 A00",
+   "bbox": [
+    433,
+    467,
+    524,
+    482
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    499,
+    154,
+    514
+   ]
+  },
+  {
+   "text": "1146 A00",
+   "bbox": [
+    420,
+    499,
+    524,
+    514
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    531,
+    271,
+    546
+   ]
+  },
+  {
+   "text": "2701 B00",
+   "bbox": [
+    420,
+    531,
+    524,
+    546
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    563,
+    206,
+    578
+   ]
+  },
+  {
+   "text": "590 B00",
+   "bbox": [
+    433,
+    563,
+    524,
+    578
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    602,
+    174,
+    625
+   ]
+  },
+  {
+   "text": "10 493 Ft",
+   "bbox": [
+    389,
+    607,
+    524,
+    625
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    644,
+    155,
+    664
+   ]
+  },
+  {
+   "text": "10 493 Ft",
+   "bbox": [
+    407,
+    648,
+    524,
+    664
+   ]
+  },
+  {
+   "text": "2024.08.27.",
+   "bbox": [
+    24,
+    695,
+    156,
+    709
+   ]
+  },
+  {
+   "text": "20:07",
+   "bbox": [
+    464,
+    695,
+    524,
+    709
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5137/68007",
+   "bbox": [
+    24,
+    722,
+    288,
+    743
+   ]
+  },
+  {
+   "text": "AP A79724114",
+   "bbox": [
+    24,
+    759,
+    168,
+    773
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    131,
+    798,
+    417,
+    818
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  548,
+  864
+ ]
+}

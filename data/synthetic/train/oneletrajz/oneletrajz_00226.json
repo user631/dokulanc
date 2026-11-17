@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Mészáros Mónika",
+  "email": "meszaros.monika@example.hu",
+  "telefon": "+36 30 951 4411",
+  "lakcim": "H-7358 Győr, Ligetvári tér 36.",
+  "szuletesi_datum": "1992. 03. 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár és Társa Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2019 – 2021"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2016 – 2019"
+   },
+   {
+    "ceg": "Fazekas és Társa Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2015 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Java",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Mészáros Mónika",
+   "bbox": [
+    409,
+    119,
+    831,
+    160
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    559,
+    187,
+    680,
+    217
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    245,
+    172,
+    263
+   ]
+  },
+  {
+   "text": "meszaros.monika@example.hu",
+   "bbox": [
+    330,
+    245,
+    640,
+    268
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    278,
+    185,
+    296
+   ]
+  },
+  {
+   "text": "+36 30 951 4411",
+   "bbox": [
+    330,
+    279,
+    511,
+    296
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    311,
+    180,
+    329
+   ]
+  },
+  {
+   "text": "H-7358 Győr, Ligetvári tér 36.",
+   "bbox": [
+    330,
+    310,
+    633,
+    334
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    344,
+    286,
+    362
+   ]
+  },
+  {
+   "text": "1992. 03. 21.",
+   "bbox": [
+    330,
+    345,
+    469,
+    362
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    398,
+    362,
+    424
+   ]
+  },
+  {
+   "text": "2019 – 2021",
+   "bbox": [
+    90,
+    451,
+    221,
+    468
+   ]
+  },
+  {
+   "text": "irodavezető – Molnár és Társa Zrt.",
+   "bbox": [
+    90,
+    476,
+    497,
+    496
+   ]
+  },
+  {
+   "text": "2016 – 2019",
+   "bbox": [
+    90,
+    521,
+    221,
+    538
+   ]
+  },
+  {
+   "text": "rendszergazda – Szabó Szolgáltató Bt.",
+   "bbox": [
+    90,
+    546,
+    548,
+    571
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    591,
+    221,
+    608
+   ]
+  },
+  {
+   "text": "rendszergazda – Fazekas és Társa Bt.",
+   "bbox": [
+    90,
+    616,
+    534,
+    641
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    670,
+    274,
+    697
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    90,
+    724,
+    221,
+    741
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    749,
+    706,
+    774
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    776,
+    333,
+    795
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    821,
+    221,
+    838
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    846,
+    432,
+    871
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    873,
+    347,
+    897
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    927,
+    242,
+    954
+   ]
+  },
+  {
+   "text": "francia (A2), angol (B2)",
+   "bbox": [
+    90,
+    980,
+    331,
+    1003
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1029,
+    233,
+    1056
+   ]
+  },
+  {
+   "text": "prezentáció, Java, Python",
+   "bbox": [
+    90,
+    1081,
+    349,
+    1105
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

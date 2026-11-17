@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Kovács Kristóf",
+  "anyja_neve": "Tóth József",
+  "szuletesi_hely": "Budapest",
+  "szuletesi_datum": "1972.07.04.",
+  "lakcim": "H-5423 Cegléd, Kossuth utca 220.",
+  "telefon": "+36 20 339 4918",
+  "email": "kovacs.kristof@example.hu",
+  "adoazonosito_jel": "8385355499",
+  "taj_szam": "228 817 277",
+  "kelt": "Hátnémeti, 2026.01.26."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    501,
+    99,
+    738,
+    136
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    482,
+    155,
+    758,
+    172
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    208,
+    326,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    262,
+    150,
+    277
+   ]
+  },
+  {
+   "text": "Kovács Kristóf",
+   "bbox": [
+    429,
+    256,
+    614,
+    281
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    315,
+    210,
+    333
+   ]
+  },
+  {
+   "text": "Tóth József",
+   "bbox": [
+    429,
+    311,
+    578,
+    335
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    366,
+    230,
+    385
+   ]
+  },
+  {
+   "text": "Budapest",
+   "bbox": [
+    429,
+    362,
+    552,
+    386
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    418,
+    221,
+    433
+   ]
+  },
+  {
+   "text": "1972.07.04.",
+   "bbox": [
+    429,
+    413,
+    591,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    470,
+    175,
+    485
+   ]
+  },
+  {
+   "text": "H-5423 Cegléd, Kossuth utca 220.",
+   "bbox": [
+    429,
+    466,
+    883,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    522,
+    222,
+    537
+   ]
+  },
+  {
+   "text": "+36 20 339 4918",
+   "bbox": [
+    429,
+    523,
+    671,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    574,
+    205,
+    589
+   ]
+  },
+  {
+   "text": "kovacs.kristof@example.hu",
+   "bbox": [
+    429,
+    569,
+    777,
+    593
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    626,
+    252,
+    645
+   ]
+  },
+  {
+   "text": "8385355499",
+   "bbox": [
+    429,
+    626,
+    609,
+    643
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    678,
+    196,
+    693
+   ]
+  },
+  {
+   "text": "228 817 277",
+   "bbox": [
+    429,
+    674,
+    611,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    757,
+    281,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    800,
+    432,
+    819
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    845,
+    278,
+    860
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    890,
+    452,
+    909
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    993,
+    141,
+    1009
+   ]
+  },
+  {
+   "text": "Hátnémeti, 2026.01.26.",
+   "bbox": [
+    189,
+    990,
+    473,
+    1011
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1042,
+    973,
+    1055
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

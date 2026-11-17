@@ -1,0 +1,462 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2024/08409",
+  "kiallitas_datuma": "2024.01.08.",
+  "teljesites_datuma": "2024.01.05.",
+  "fizetesi_hatarido": "2024.01.23.",
+  "elado_nev": "Takács Kft.",
+  "elado_cim": "H-2457 Mindszentapáti, Ligetharasztii utca 13.",
+  "elado_adoszam": "49947722-2-30",
+  "vevo_nev": "Papp Tech Zrt.",
+  "vevo_cim": "H-5828 Balatonligetvárad, Váci tér 187.",
+  "vevo_adoszam": "30673733-2-03",
+  "bankszamla": "HU77 2712 0273 6097 7975 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 338 370 Ft",
+  "afa_osszesen": "361 360 Ft",
+  "brutto_osszesen": "1 699 730 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "10 db",
+    "egysegar": "133 120",
+    "netto": "1 331 200",
+    "afa_kulcs": "27%",
+    "afa": "359 424",
+    "brutto": "1 690 624"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "7 170",
+    "netto": "7 170",
+    "afa_kulcs": "27%",
+    "afa": "1 936",
+    "brutto": "9 106"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    402,
+    95,
+    838,
+    141
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/08409",
+   "bbox": [
+    422,
+    159,
+    817,
+    180
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    94,
+    239,
+    164,
+    257
+   ]
+  },
+  {
+   "text": "Papp Tech Zrt.",
+   "bbox": [
+    94,
+    274,
+    274,
+    295
+   ]
+  },
+  {
+   "text": "H-5828 Balatonligetvárad, Váci tér 187.",
+   "bbox": [
+    94,
+    304,
+    496,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 30673733-2-03",
+   "bbox": [
+    94,
+    332,
+    361,
+    349
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    239,
+    707,
+    257
+   ]
+  },
+  {
+   "text": "Takács Kft.",
+   "bbox": [
+    630,
+    273,
+    768,
+    291
+   ]
+  },
+  {
+   "text": "H-2457 Mindszentapáti, Ligetharasztii utca 13.",
+   "bbox": [
+    630,
+    304,
+    1100,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 49947722-2-30",
+   "bbox": [
+    630,
+    332,
+    897,
+    349
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    94,
+    398,
+    249,
+    412
+   ]
+  },
+  {
+   "text": "2024.01.08.",
+   "bbox": [
+    94,
+    426,
+    211,
+    440
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    398,
+    527,
+    415
+   ]
+  },
+  {
+   "text": "2024.01.05.",
+   "bbox": [
+    357,
+    426,
+    474,
+    440
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    398,
+    779,
+    412
+   ]
+  },
+  {
+   "text": "2024.01.23.",
+   "bbox": [
+    620,
+    426,
+    737,
+    440
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    398,
+    1004,
+    412
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    883,
+    425,
+    957,
+    440
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    94,
+    472,
+    209,
+    489
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    474,
+    582,
+    489
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    472,
+    747,
+    489
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    472,
+    872,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    876,
+    469,
+    935,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    469,
+    1035,
+    486
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1085,
+    472,
+    1146,
+    486
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    514,
+    512,
+    564,
+    525
+   ]
+  },
+  {
+   "text": "133 120",
+   "bbox": [
+    674,
+    513,
+    746,
+    525
+   ]
+  },
+  {
+   "text": "1 331 200",
+   "bbox": [
+    783,
+    513,
+    872,
+    525
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    513,
+    935,
+    525
+   ]
+  },
+  {
+   "text": "359 424",
+   "bbox": [
+    963,
+    513,
+    1035,
+    525
+   ]
+  },
+  {
+   "text": "1 690 624",
+   "bbox": [
+    1057,
+    513,
+    1146,
+    525
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    94,
+    512,
+    194,
+    525
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    545,
+    553,
+    558
+   ]
+  },
+  {
+   "text": "7 170",
+   "bbox": [
+    696,
+    546,
+    746,
+    558
+   ]
+  },
+  {
+   "text": "7 170",
+   "bbox": [
+    822,
+    546,
+    872,
+    558
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    546,
+    935,
+    558
+   ]
+  },
+  {
+   "text": "1 936",
+   "bbox": [
+    985,
+    546,
+    1035,
+    558
+   ]
+  },
+  {
+   "text": "9 106",
+   "bbox": [
+    1096,
+    546,
+    1146,
+    558
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    94,
+    545,
+    246,
+    561
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    645,
+    598,
+    816,
+    615
+   ]
+  },
+  {
+   "text": "1 338 370 Ft",
+   "bbox": [
+    1014,
+    599,
+    1146,
+    615
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    663,
+    628,
+    816,
+    649
+   ]
+  },
+  {
+   "text": "361 360 Ft",
+   "bbox": [
+    1034,
+    633,
+    1146,
+    649
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    579,
+    666,
+    816,
+    683
+   ]
+  },
+  {
+   "text": "1 699 730 Ft",
+   "bbox": [
+    996,
+    667,
+    1146,
+    683
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU77 2712 0273 6097 7975 0000 0000",
+   "bbox": [
+    94,
+    730,
+    653,
+    745
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

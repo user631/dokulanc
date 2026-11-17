@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/06316",
+  "kiallitas_datuma": "2025.12.29.",
+  "teljesites_datuma": "2025.12.27.",
+  "fizetesi_hatarido": "2026.01.06.",
+  "elado_nev": "Horváth Trade Kft.",
+  "elado_cim": "H-2792 Eger, Kossuth utca 58.",
+  "elado_adoszam": "14786914-2-03",
+  "vevo_nev": "Kiss és Társa Kft.",
+  "vevo_cim": "H-5659 Mosonmagyaróvár, Nyíregyházai tér 14.",
+  "vevo_adoszam": "40727431-2-27",
+  "bankszamla": "24106784-19629301-23037842",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "2 806 640 Ft",
+  "afa_osszesen": "757 793 Ft",
+  "brutto_osszesen": "3 564 433 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "213 900",
+    "netto": "2 566 800",
+    "afa_kulcs": "27%",
+    "afa": "693 036",
+    "brutto": "3 259 836"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "6 060",
+    "netto": "6 060",
+    "afa_kulcs": "27%",
+    "afa": "1 636",
+    "brutto": "7 696"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "2 db",
+    "egysegar": "116 890",
+    "netto": "233 780",
+    "afa_kulcs": "27%",
+    "afa": "63 121",
+    "brutto": "296 901"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    416,
+    86,
+    824,
+    119
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/06316",
+   "bbox": [
+    429,
+    142,
+    811,
+    162
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    77,
+    223,
+    147,
+    242
+   ]
+  },
+  {
+   "text": "Kiss és Társa Kft.",
+   "bbox": [
+    77,
+    260,
+    285,
+    280
+   ]
+  },
+  {
+   "text": "H-5659 Mosonmagyaróvár, Nyíregyházai tér 14.",
+   "bbox": [
+    77,
+    295,
+    587,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 40727431-2-27",
+   "bbox": [
+    77,
+    327,
+    348,
+    346
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    223,
+    707,
+    242
+   ]
+  },
+  {
+   "text": "Horváth Trade Kft.",
+   "bbox": [
+    630,
+    261,
+    860,
+    280
+   ]
+  },
+  {
+   "text": "H-2792 Eger, Kossuth utca 58.",
+   "bbox": [
+    630,
+    296,
+    957,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 14786914-2-03",
+   "bbox": [
+    630,
+    327,
+    901,
+    346
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    77,
+    398,
+    267,
+    416
+   ]
+  },
+  {
+   "text": "2025.12.29.",
+   "bbox": [
+    377,
+    399,
+    508,
+    416
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    77,
+    432,
+    288,
+    455
+   ]
+  },
+  {
+   "text": "2025.12.27.",
+   "bbox": [
+    377,
+    433,
+    508,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    77,
+    466,
+    277,
+    484
+   ]
+  },
+  {
+   "text": "2026.01.06.",
+   "bbox": [
+    377,
+    467,
+    508,
+    484
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    77,
+    500,
+    231,
+    518
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    377,
+    499,
+    466,
+    518
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    77,
+    546,
+    195,
+    565
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    546,
+    582,
+    565
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    664,
+    546,
+    750,
+    565
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    546,
+    880,
+    561
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    893,
+    542,
+    945,
+    561
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    542,
+    1049,
+    561
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1101,
+    546,
+    1163,
+    561
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    511,
+    589,
+    612,
+    604
+   ]
+  },
+  {
+   "text": "213 900",
+   "bbox": [
+    678,
+    589,
+    750,
+    604
+   ]
+  },
+  {
+   "text": "2 566 800",
+   "bbox": [
+    791,
+    589,
+    880,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    589,
+    945,
+    604
+   ]
+  },
+  {
+   "text": "693 036",
+   "bbox": [
+    976,
+    589,
+    1048,
+    604
+   ]
+  },
+  {
+   "text": "3 259 836",
+   "bbox": [
+    1074,
+    589,
+    1163,
+    604
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    77,
+    588,
+    275,
+    608
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    511,
+    626,
+    574,
+    641
+   ]
+  },
+  {
+   "text": "6 060",
+   "bbox": [
+    700,
+    626,
+    750,
+    641
+   ]
+  },
+  {
+   "text": "6 060",
+   "bbox": [
+    830,
+    626,
+    880,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    626,
+    945,
+    641
+   ]
+  },
+  {
+   "text": "1 636",
+   "bbox": [
+    998,
+    626,
+    1048,
+    641
+   ]
+  },
+  {
+   "text": "7 696",
+   "bbox": [
+    1113,
+    626,
+    1163,
+    641
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    77,
+    625,
+    327,
+    645
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    511,
+    663,
+    552,
+    678
+   ]
+  },
+  {
+   "text": "116 890",
+   "bbox": [
+    678,
+    663,
+    750,
+    678
+   ]
+  },
+  {
+   "text": "233 780",
+   "bbox": [
+    808,
+    663,
+    880,
+    678
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    663,
+    945,
+    678
+   ]
+  },
+  {
+   "text": "63 121",
+   "bbox": [
+    987,
+    663,
+    1048,
+    678
+   ]
+  },
+  {
+   "text": "296 901",
+   "bbox": [
+    1091,
+    663,
+    1163,
+    678
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    77,
+    663,
+    182,
+    679
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    656,
+    719,
+    833,
+    739
+   ]
+  },
+  {
+   "text": "2 806 640 Ft",
+   "bbox": [
+    1025,
+    721,
+    1163,
+    739
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    753,
+    833,
+    777
+   ]
+  },
+  {
+   "text": "757 793 Ft",
+   "bbox": [
+    1046,
+    759,
+    1163,
+    777
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    596,
+    796,
+    833,
+    815
+   ]
+  },
+  {
+   "text": "3 564 433 Ft",
+   "bbox": [
+    1009,
+    797,
+    1163,
+    815
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 24106784-19629301-23037842",
+   "bbox": [
+    77,
+    863,
+    567,
+    881
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    77,
+    894,
+    708,
+    914
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    400,
+    1657,
+    841,
+    1676
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

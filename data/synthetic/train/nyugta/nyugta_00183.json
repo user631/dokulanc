@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FEHÉR CSEMEGE KFT.",
+  "uzlet_cim": "H-8178 Somogygyörgyvárad, Dunakeszii utca 131.",
+  "adoszam": "81232389-2-33",
+  "datum": "2024.09.05.",
+  "ido": "11:32",
+  "nyugtaszam": "7982/09340",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 748 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1472"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "276"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEHÉR CSEMEGE KFT.",
+   "bbox": [
+    162,
+    28,
+    414,
+    50
+   ]
+  },
+  {
+   "text": "H-8178 Somogygyörgyvárad, Dunakeszii utca",
+   "bbox": [
+    42,
+    67,
+    534,
+    87
+   ]
+  },
+  {
+   "text": "131.",
+   "bbox": [
+    264,
+    97,
+    312,
+    111
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81232389-2-33",
+   "bbox": [
+    156,
+    120,
+    420,
+    139
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    243,
+    167,
+    334,
+    185
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    213,
+    154,
+    228
+   ]
+  },
+  {
+   "text": "1472 B00",
+   "bbox": [
+    449,
+    213,
+    553,
+    228
+   ]
+  },
+  {
+   "text": "3 DB x 92",
+   "bbox": [
+    24,
+    245,
+    132,
+    258
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    271,
+    102,
+    286
+   ]
+  },
+  {
+   "text": "276 A00",
+   "bbox": [
+    462,
+    271,
+    553,
+    286
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    310,
+    174,
+    333
+   ]
+  },
+  {
+   "text": "1 748 Ft",
+   "bbox": [
+    433,
+    315,
+    553,
+    333
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    352,
+    155,
+    372
+   ]
+  },
+  {
+   "text": "1 748 Ft",
+   "bbox": [
+    449,
+    356,
+    553,
+    372
+   ]
+  },
+  {
+   "text": "2024.09.05.",
+   "bbox": [
+    24,
+    403,
+    156,
+    417
+   ]
+  },
+  {
+   "text": "11:32",
+   "bbox": [
+    493,
+    403,
+    553,
+    417
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7982/09340",
+   "bbox": [
+    24,
+    430,
+    288,
+    451
+   ]
+  },
+  {
+   "text": "AP A47335460",
+   "bbox": [
+    24,
+    467,
+    168,
+    481
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    223,
+    507,
+    353,
+    526
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  577,
+  572
+ ]
+}

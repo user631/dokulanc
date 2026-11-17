@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-5284 Érd, Alsótamásii utca 244.",
+  "adoszam": "35688172-3-13",
+  "datum": "2024.05.20.",
+  "ido": "08:33",
+  "nyugtaszam": "2411/22474",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 146 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1854"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1662"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "158"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "448"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3218"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "603"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "222"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2759"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "415"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "807"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS ÉLELMISZER KFT.",
+   "bbox": [
+    133,
+    30,
+    413,
+    50
+   ]
+  },
+  {
+   "text": "H-5284 Érd, Alsótamásii utca 244.",
+   "bbox": [
+    91,
+    64,
+    454,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 35688172-3-13",
+   "bbox": [
+    152,
+    89,
+    394,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    133,
+    319,
+    148
+   ]
+  },
+  {
+   "text": "3 DB x 618",
+   "bbox": [
+    24,
+    174,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    198,
+    128,
+    211
+   ]
+  },
+  {
+   "text": "1854 B00",
+   "bbox": [
+    418,
+    198,
+    522,
+    211
+   ]
+  },
+  {
+   "text": "2 DB x 831",
+   "bbox": [
+    24,
+    226,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    250,
+    232,
+    263
+   ]
+  },
+  {
+   "text": "1662 A00",
+   "bbox": [
+    418,
+    250,
+    522,
+    263
+   ]
+  },
+  {
+   "text": "2 DB x 79",
+   "bbox": [
+    24,
+    278,
+    123,
+    289
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    303,
+    102,
+    315
+   ]
+  },
+  {
+   "text": "158 C00",
+   "bbox": [
+    431,
+    302,
+    522,
+    315
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    331,
+    206,
+    344
+   ]
+  },
+  {
+   "text": "448 A00",
+   "bbox": [
+    431,
+    331,
+    522,
+    344
+   ]
+  },
+  {
+   "text": "2 DB x 1609",
+   "bbox": [
+    24,
+    359,
+    145,
+    370
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    384,
+    154,
+    396
+   ]
+  },
+  {
+   "text": "3218 A00",
+   "bbox": [
+    418,
+    383,
+    522,
+    396
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    412,
+    206,
+    425
+   ]
+  },
+  {
+   "text": "603 B00",
+   "bbox": [
+    431,
+    412,
+    522,
+    425
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    442,
+    193,
+    454
+   ]
+  },
+  {
+   "text": "222 A00",
+   "bbox": [
+    431,
+    441,
+    522,
+    454
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    470,
+    141,
+    483
+   ]
+  },
+  {
+   "text": "2759 C00",
+   "bbox": [
+    418,
+    470,
+    522,
+    483
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    499,
+    141,
+    512
+   ]
+  },
+  {
+   "text": "415 C00",
+   "bbox": [
+    431,
+    499,
+    522,
+    512
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    528,
+    128,
+    541
+   ]
+  },
+  {
+   "text": "807 B00",
+   "bbox": [
+    431,
+    528,
+    522,
+    541
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    564,
+    174,
+    585
+   ]
+  },
+  {
+   "text": "12 146 Ft",
+   "bbox": [
+    387,
+    569,
+    522,
+    585
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    605,
+    167,
+    621
+   ]
+  },
+  {
+   "text": "12 146 Ft",
+   "bbox": [
+    405,
+    608,
+    522,
+    621
+   ]
+  },
+  {
+   "text": "2024.05.20.",
+   "bbox": [
+    24,
+    650,
+    145,
+    662
+   ]
+  },
+  {
+   "text": "08:33",
+   "bbox": [
+    467,
+    650,
+    522,
+    662
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2411/22474",
+   "bbox": [
+    24,
+    676,
+    266,
+    693
+   ]
+  },
+  {
+   "text": "AP A37501557",
+   "bbox": [
+    24,
+    708,
+    156,
+    720
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    141,
+    746,
+    405,
+    762
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  546,
+  806
+ ]
+}

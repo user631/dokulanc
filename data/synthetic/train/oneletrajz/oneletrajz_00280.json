@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Tibor",
+  "email": "toth.tibor@outlook.com",
+  "telefon": "+36 20 460 5974",
+  "lakcim": "H-4705 Hetvenkőrös, Magyarmártoni utca 64.",
+  "szuletesi_datum": "2002.04.02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros és Társa Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Orsós Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "ügyfélkezelés",
+   "Docker",
+   "B kategóriás jogosítvány",
+   "JavaScript",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Tibor",
+   "bbox": [
+    491,
+    94,
+    750,
+    130
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    562,
+    158,
+    677,
+    187
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    216,
+    169,
+    232
+   ]
+  },
+  {
+   "text": "toth.tibor@outlook.com",
+   "bbox": [
+    330,
+    216,
+    553,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    178,
+    263
+   ]
+  },
+  {
+   "text": "+36 20 460 5974",
+   "bbox": [
+    330,
+    248,
+    491,
+    267
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    177,
+    294
+   ]
+  },
+  {
+   "text": "H-4705 Hetvenkőrös, Magyarmártoni utca 64.",
+   "bbox": [
+    330,
+    278,
+    761,
+    299
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    309,
+    269,
+    325
+   ]
+  },
+  {
+   "text": "2002.04.02.",
+   "bbox": [
+    330,
+    314,
+    448,
+    329
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    360,
+    346,
+    384
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    411,
+    234,
+    432
+   ]
+  },
+  {
+   "text": "adatelemző – Mészáros és Társa Zrt.",
+   "bbox": [
+    90,
+    436,
+    504,
+    453
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    477,
+    234,
+    498
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Orsós Logisztika Kft.",
+   "bbox": [
+    90,
+    502,
+    662,
+    524
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    553,
+    269,
+    577
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    609,
+    213,
+    624
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    629,
+    371,
+    651
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    654,
+    147,
+    675
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    696,
+    210,
+    711
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    720,
+    415,
+    742
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    745,
+    169,
+    766
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    796,
+    234,
+    820
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    847,
+    183,
+    866
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    894,
+    222,
+    918
+   ]
+  },
+  {
+   "text": "Excel, ügyfélkezelés, Docker, B kategóriás jogosítvány, JavaScript, Git",
+   "bbox": [
+    90,
+    945,
+    735,
+    966
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

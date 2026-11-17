@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "LENGYEL CSEMEGE BT.",
+  "uzlet_cim": "H-5869 Hídbánya, Petőfi utca 221.",
+  "adoszam": "72720086-2-13",
+  "datum": "2024.11.29.",
+  "ido": "09:35",
+  "nyugtaszam": "5167/29152",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 342 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "408"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3464"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "427"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1043"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LENGYEL CSEMEGE BT.",
+   "bbox": [
+    141,
+    33,
+    388,
+    48
+   ]
+  },
+  {
+   "text": "H-5869 Hídbánya, Petőfi utca 221.",
+   "bbox": [
+    100,
+    65,
+    430,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 72720086-2-13",
+   "bbox": [
+    155,
+    88,
+    375,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    130,
+    307,
+    146
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    173,
+    192,
+    186
+   ]
+  },
+  {
+   "text": "408 A00",
+   "bbox": [
+    423,
+    173,
+    507,
+    186
+   ]
+  },
+  {
+   "text": "2 DB x 1732",
+   "bbox": [
+    24,
+    202,
+    134,
+    213
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    225,
+    144,
+    238
+   ]
+  },
+  {
+   "text": "3464 C00",
+   "bbox": [
+    411,
+    225,
+    507,
+    238
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    254,
+    132,
+    267
+   ]
+  },
+  {
+   "text": "427 C00",
+   "bbox": [
+    423,
+    254,
+    507,
+    267
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    283,
+    204,
+    296
+   ]
+  },
+  {
+   "text": "1043 A00",
+   "bbox": [
+    411,
+    283,
+    507,
+    296
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    319,
+    164,
+    340
+   ]
+  },
+  {
+   "text": "5 342 Ft",
+   "bbox": [
+    395,
+    324,
+    507,
+    340
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    359,
+    144,
+    376
+   ]
+  },
+  {
+   "text": "5 342 Ft",
+   "bbox": [
+    411,
+    363,
+    507,
+    376
+   ]
+  },
+  {
+   "text": "2024.11.29.",
+   "bbox": [
+    24,
+    406,
+    134,
+    418
+   ]
+  },
+  {
+   "text": "09:35",
+   "bbox": [
+    457,
+    406,
+    507,
+    418
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5167/29152",
+   "bbox": [
+    24,
+    432,
+    244,
+    449
+   ]
+  },
+  {
+   "text": "AP A52188762",
+   "bbox": [
+    24,
+    464,
+    144,
+    476
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    144,
+    500,
+    386,
+    517
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  531,
+  563
+ ]
+}

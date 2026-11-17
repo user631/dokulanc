@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Takács László",
+  "email": "takacs.laszlo@example.hu",
+  "telefon": "+36 30 831 8404",
+  "lakcim": "H-7691 Cegléd, Kossuth utca 130.",
+  "szuletesi_datum": "1979.06.21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orbán Trade Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "JavaScript",
+   "C#",
+   "Excel",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    94,
+    223,
+    114
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    99,
+    154
+   ]
+  },
+  {
+   "text": "takacs.laszlo@example.hu",
+   "bbox": [
+    40,
+    164,
+    256,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    105,
+    212
+   ]
+  },
+  {
+   "text": "+36 30 831 8404",
+   "bbox": [
+    40,
+    223,
+    176,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    106,
+    270
+   ]
+  },
+  {
+   "text": "H-7691 Cegléd, Kossuth utca 130.",
+   "bbox": [
+    40,
+    280,
+    318,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    315,
+    177,
+    328
+   ]
+  },
+  {
+   "text": "1979.06.21.",
+   "bbox": [
+    40,
+    339,
+    135,
+    352
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    400,
+    203,
+    420
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    442,
+    135,
+    461
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    470,
+    128,
+    489
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    526,
+    187,
+    546
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    569,
+    78,
+    583
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    596,
+    128,
+    615
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    625,
+    65,
+    639
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    652,
+    88,
+    667
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    680,
+    252,
+    699
+   ]
+  },
+  {
+   "text": "Takács László",
+   "bbox": [
+    450,
+    102,
+    731,
+    134
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    168,
+    560,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    674,
+    260
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    287,
+    561,
+    302
+   ]
+  },
+  {
+   "text": "rendszergazda – Orbán Trade Kft.",
+   "bbox": [
+    450,
+    313,
+    796,
+    334
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    366,
+    605,
+    390
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    450,
+    417,
+    561,
+    432
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    444,
+    969,
+    464
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    468,
+    672,
+    484
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    511,
+    561,
+    526
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    538,
+    699,
+    558
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    562,
+    676,
+    583
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

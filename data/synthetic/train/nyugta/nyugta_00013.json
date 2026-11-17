@@ -1,0 +1,274 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET KFT.",
+  "uzlet_cim": "H-5649 Salgótarján, Érdi tér 146.",
+  "adoszam": "11763055-3-15",
+  "datum": "2024.12.02.",
+  "ido": "12:40",
+  "nyugtaszam": "6751/97813",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "6 645 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "274"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2174"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1036"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "407"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "909"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1345"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET KFT.",
+   "bbox": [
+    200,
+    28,
+    408,
+    48
+   ]
+  },
+  {
+   "text": "H-5649 Salgótarján, Érdi tér 146.",
+   "bbox": [
+    139,
+    63,
+    469,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 11763055-3-15",
+   "bbox": [
+    194,
+    88,
+    414,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    130,
+    346,
+    146
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    173,
+    180,
+    186
+   ]
+  },
+  {
+   "text": "274 A00",
+   "bbox": [
+    500,
+    173,
+    584,
+    186
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    202,
+    132,
+    215
+   ]
+  },
+  {
+   "text": "2174 C00",
+   "bbox": [
+    488,
+    202,
+    584,
+    215
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    231,
+    180,
+    244
+   ]
+  },
+  {
+   "text": "1036 B00",
+   "bbox": [
+    488,
+    231,
+    584,
+    244
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    260,
+    192,
+    273
+   ]
+  },
+  {
+   "text": "407 B00",
+   "bbox": [
+    500,
+    260,
+    584,
+    273
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    289,
+    168,
+    302
+   ]
+  },
+  {
+   "text": "909 C00",
+   "bbox": [
+    500,
+    289,
+    584,
+    302
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    318,
+    144,
+    331
+   ]
+  },
+  {
+   "text": "1345 B00",
+   "bbox": [
+    488,
+    318,
+    584,
+    331
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    354,
+    164,
+    375
+   ]
+  },
+  {
+   "text": "6 645 Ft",
+   "bbox": [
+    472,
+    359,
+    584,
+    375
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    394,
+    120,
+    411
+   ]
+  },
+  {
+   "text": "6 645 Ft",
+   "bbox": [
+    488,
+    398,
+    584,
+    411
+   ]
+  },
+  {
+   "text": "2024.12.02.",
+   "bbox": [
+    24,
+    441,
+    134,
+    453
+   ]
+  },
+  {
+   "text": "12:40",
+   "bbox": [
+    534,
+    441,
+    584,
+    453
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6751/97813",
+   "bbox": [
+    24,
+    467,
+    244,
+    484
+   ]
+  },
+  {
+   "text": "AP A96288418",
+   "bbox": [
+    24,
+    499,
+    144,
+    511
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    183,
+    535,
+    425,
+    552
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  608,
+  598
+ ]
+}

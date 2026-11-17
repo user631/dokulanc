@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Kovács Mária",
+  "anyja_neve": "Novák Áron",
+  "szuletesi_hely": "Tiszahetvenapáti",
+  "szuletesi_datum": "2000.12.15.",
+  "lakcim": "H-1353 Hátvárad, Petőfi sándor utca 139.",
+  "telefon": "+36 20 335 8374",
+  "email": "kovacs.maria@example.hu",
+  "adoazonosito_jel": "8489266395",
+  "taj_szam": "544 981 456",
+  "kelt": "Németi, 2025.04.05."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    543,
+    111,
+    698,
+    137
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    211,
+    316,
+    233
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    265,
+    153,
+    280
+   ]
+  },
+  {
+   "text": "Kovács Mária",
+   "bbox": [
+    448,
+    266,
+    578,
+    284
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    318,
+    214,
+    336
+   ]
+  },
+  {
+   "text": "Novák Áron",
+   "bbox": [
+    448,
+    309,
+    561,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    369,
+    238,
+    388
+   ]
+  },
+  {
+   "text": "Tiszahetvenapáti",
+   "bbox": [
+    448,
+    370,
+    617,
+    393
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    421,
+    229,
+    436
+   ]
+  },
+  {
+   "text": "2000.12.15.",
+   "bbox": [
+    448,
+    418,
+    568,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    473,
+    182,
+    488
+   ]
+  },
+  {
+   "text": "H-1353 Hátvárad, Petőfi sándor utca 139.",
+   "bbox": [
+    448,
+    471,
+    865,
+    493
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    525,
+    229,
+    540
+   ]
+  },
+  {
+   "text": "+36 20 335 8374",
+   "bbox": [
+    448,
+    522,
+    613,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    577,
+    212,
+    592
+   ]
+  },
+  {
+   "text": "kovacs.maria@example.hu",
+   "bbox": [
+    448,
+    579,
+    711,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    629,
+    263,
+    648
+   ]
+  },
+  {
+   "text": "8489266395",
+   "bbox": [
+    448,
+    630,
+    568,
+    646
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    681,
+    202,
+    696
+   ]
+  },
+  {
+   "text": "544 981 456",
+   "bbox": [
+    448,
+    679,
+    570,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    759,
+    273,
+    781
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    803,
+    449,
+    822
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    848,
+    291,
+    863
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    893,
+    466,
+    912
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    996,
+    147,
+    1011
+   ]
+  },
+  {
+   "text": "Németi, 2025.04.05.",
+   "bbox": [
+    193,
+    991,
+    399,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    924,
+    1045,
+    970,
+    1058
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

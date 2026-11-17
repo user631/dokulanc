@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Róbert",
+  "email": "kovacs.robert@example.hu",
+  "telefon": "+36 70 767 5455",
+  "lakcim": "H-4992 Hídhalas, Arany jános utca 246.",
+  "szuletesi_datum": "1986.06.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Szolgáltató Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "ceg": "Varga Tech Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "Git",
+   "SAP",
+   "Excel",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Róbert",
+   "bbox": [
+    421,
+    115,
+    818,
+    156
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    491,
+    186,
+    748,
+    213
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    241,
+    181,
+    259
+   ]
+  },
+  {
+   "text": "kovacs.robert@example.hu",
+   "bbox": [
+    330,
+    241,
+    648,
+    264
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    274,
+    195,
+    292
+   ]
+  },
+  {
+   "text": "+36 70 767 5455",
+   "bbox": [
+    330,
+    275,
+    538,
+    292
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    307,
+    190,
+    325
+   ]
+  },
+  {
+   "text": "H-4992 Hídhalas, Arany jános utca 246.",
+   "bbox": [
+    330,
+    306,
+    798,
+    330
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    340,
+    304,
+    358
+   ]
+  },
+  {
+   "text": "1986.06.08.",
+   "bbox": [
+    330,
+    341,
+    474,
+    358
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    394,
+    394,
+    420
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    447,
+    241,
+    464
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Nagy Szolgáltató Zrt.",
+   "bbox": [
+    89,
+    472,
+    610,
+    497
+   ]
+  },
+  {
+   "text": "2010 – 2011",
+   "bbox": [
+    90,
+    517,
+    241,
+    534
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Varga Tech Zrt.",
+   "bbox": [
+    90,
+    542,
+    694,
+    567
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    596,
+    294,
+    623
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    90,
+    650,
+    241,
+    667
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    675,
+    545,
+    700
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    703,
+    280,
+    721
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    747,
+    241,
+    764
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    772,
+    411,
+    797
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    799,
+    391,
+    823
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    853,
+    260,
+    880
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    906,
+    212,
+    929
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    955,
+    250,
+    982
+   ]
+  },
+  {
+   "text": "csapatmunka, B kategóriás jogosítvány, Git, SAP, Excel, projektmenedzsment",
+   "bbox": [
+    90,
+    1007,
+    998,
+    1031
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

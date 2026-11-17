@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MÁTÉ CSEMEGE BT.",
+  "uzlet_cim": "H-9621 Györgyhalas, Veszprémi utca 70.",
+  "adoszam": "77007658-2-39",
+  "datum": "2026.11.16.",
+  "ido": "13:15",
+  "nyugtaszam": "8928/14718",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 649 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1531"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "74"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3105"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1077"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2508"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1176"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1178"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÁTÉ CSEMEGE BT.",
+   "bbox": [
+    186,
+    31,
+    394,
+    48
+   ]
+  },
+  {
+   "text": "H-9621 Györgyhalas, Veszprémi utca 70.",
+   "bbox": [
+    81,
+    63,
+    499,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77007658-2-39",
+   "bbox": [
+    169,
+    87,
+    411,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    128,
+    333,
+    143
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    169,
+    180,
+    182
+   ]
+  },
+  {
+   "text": "1531 A00",
+   "bbox": [
+    460,
+    168,
+    556,
+    182
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    197,
+    96,
+    210
+   ]
+  },
+  {
+   "text": "74 A00",
+   "bbox": [
+    484,
+    196,
+    556,
+    210
+   ]
+  },
+  {
+   "text": "3 DB x 1035",
+   "bbox": [
+    24,
+    224,
+    134,
+    236
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    246,
+    204,
+    260
+   ]
+  },
+  {
+   "text": "3105 A00",
+   "bbox": [
+    460,
+    246,
+    556,
+    260
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    274,
+    168,
+    288
+   ]
+  },
+  {
+   "text": "1077 C00",
+   "bbox": [
+    460,
+    274,
+    556,
+    288
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    302,
+    252,
+    316
+   ]
+  },
+  {
+   "text": "2508 A00",
+   "bbox": [
+    460,
+    302,
+    556,
+    316
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    331,
+    144,
+    344
+   ]
+  },
+  {
+   "text": "1176 A00",
+   "bbox": [
+    460,
+    330,
+    556,
+    344
+   ]
+  },
+  {
+   "text": "2 DB x 589",
+   "bbox": [
+    24,
+    358,
+    124,
+    370
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    381,
+    192,
+    394
+   ]
+  },
+  {
+   "text": "1178 C00",
+   "bbox": [
+    460,
+    380,
+    556,
+    394
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    418,
+    164,
+    437
+   ]
+  },
+  {
+   "text": "10 649 Ft",
+   "bbox": [
+    430,
+    420,
+    556,
+    437
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    456,
+    156,
+    472
+   ]
+  },
+  {
+   "text": "10 649 Ft",
+   "bbox": [
+    448,
+    458,
+    556,
+    472
+   ]
+  },
+  {
+   "text": "2026.11.16.",
+   "bbox": [
+    24,
+    500,
+    145,
+    513
+   ]
+  },
+  {
+   "text": "13:15",
+   "bbox": [
+    501,
+    500,
+    556,
+    513
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8928/14718",
+   "bbox": [
+    24,
+    527,
+    266,
+    544
+   ]
+  },
+  {
+   "text": "AP A48180258",
+   "bbox": [
+    24,
+    556,
+    156,
+    569
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    169,
+    594,
+    411,
+    609
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  580,
+  654
+ ]
+}

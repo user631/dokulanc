@@ -1,0 +1,849 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/03066",
+  "kiallitas_datuma": "2025-07-21",
+  "teljesites_datuma": "2025-07-16",
+  "fizetesi_hatarido": "2025-07-29",
+  "elado_nev": "Gál Szolgáltató Kft.",
+  "elado_cim": "H-1177 Kereszthalas, Hódmezővásárhelyi utca 236.",
+  "elado_adoszam": "93182030-2-11",
+  "vevo_nev": "Kovács Consulting Zrt.",
+  "vevo_cim": "H-8854 Györgyhida, József attila tér 212.",
+  "vevo_adoszam": "96542079-2-04",
+  "bankszamla": "94946161-22466165-48086992",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "643 800 Ft",
+  "afa_osszesen": "173 825 Ft",
+  "brutto_osszesen": "817 625 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "7 350",
+    "netto": "7 350",
+    "afa_kulcs": "27%",
+    "afa": "1 984",
+    "brutto": "9 334"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "12 db",
+    "egysegar": "13 610",
+    "netto": "163 320",
+    "afa_kulcs": "27%",
+    "afa": "44 096",
+    "brutto": "207 416"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "5 000",
+    "netto": "60 000",
+    "afa_kulcs": "27%",
+    "afa": "16 200",
+    "brutto": "76 200"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "14 460",
+    "netto": "173 520",
+    "afa_kulcs": "27%",
+    "afa": "46 850",
+    "brutto": "220 370"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "80 230",
+    "netto": "80 230",
+    "afa_kulcs": "27%",
+    "afa": "21 662",
+    "brutto": "101 892"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "16 660",
+    "netto": "66 640",
+    "afa_kulcs": "27%",
+    "afa": "17 993",
+    "brutto": "84 633"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "92 740",
+    "netto": "92 740",
+    "afa_kulcs": "27%",
+    "afa": "25 040",
+    "brutto": "117 780"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    392,
+    112,
+    847,
+    145
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/03066",
+   "bbox": [
+    435,
+    169,
+    805,
+    190
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    104,
+    249,
+    181,
+    267
+   ]
+  },
+  {
+   "text": "Gál Szolgáltató Kft.",
+   "bbox": [
+    104,
+    283,
+    345,
+    305
+   ]
+  },
+  {
+   "text": "H-1177 Kereszthalas, Hódmezővásárhelyi utca",
+   "bbox": [
+    104,
+    314,
+    574,
+    335
+   ]
+  },
+  {
+   "text": "236.",
+   "bbox": [
+    104,
+    344,
+    150,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 93182030-2-11",
+   "bbox": [
+    104,
+    370,
+    371,
+    387
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    249,
+    700,
+    267
+   ]
+  },
+  {
+   "text": "Kovács Consulting Zrt.",
+   "bbox": [
+    630,
+    283,
+    910,
+    305
+   ]
+  },
+  {
+   "text": "H-8854 Györgyhida, József attila tér 212.",
+   "bbox": [
+    630,
+    314,
+    1049,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 96542079-2-04",
+   "bbox": [
+    630,
+    342,
+    897,
+    359
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    104,
+    436,
+    259,
+    450
+   ]
+  },
+  {
+   "text": "2025-07-21",
+   "bbox": [
+    104,
+    464,
+    218,
+    478
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    362,
+    436,
+    532,
+    453
+   ]
+  },
+  {
+   "text": "2025-07-16",
+   "bbox": [
+    362,
+    464,
+    476,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    436,
+    779,
+    450
+   ]
+  },
+  {
+   "text": "2025-07-29",
+   "bbox": [
+    620,
+    464,
+    734,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    436,
+    999,
+    450
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    878,
+    463,
+    983,
+    482
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    104,
+    510,
+    219,
+    527
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    512,
+    584,
+    527
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    510,
+    744,
+    527
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    814,
+    510,
+    867,
+    524
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    870,
+    507,
+    929,
+    524
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    507,
+    1027,
+    524
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1075,
+    510,
+    1136,
+    524
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    516,
+    550,
+    555,
+    563
+   ]
+  },
+  {
+   "text": "7 350",
+   "bbox": [
+    693,
+    551,
+    743,
+    563
+   ]
+  },
+  {
+   "text": "7 350",
+   "bbox": [
+    817,
+    551,
+    867,
+    563
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    551,
+    929,
+    563
+   ]
+  },
+  {
+   "text": "1 984",
+   "bbox": [
+    977,
+    551,
+    1027,
+    563
+   ]
+  },
+  {
+   "text": "9 334",
+   "bbox": [
+    1086,
+    551,
+    1136,
+    563
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    104,
+    550,
+    256,
+    566
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    516,
+    583,
+    566,
+    596
+   ]
+  },
+  {
+   "text": "13 610",
+   "bbox": [
+    682,
+    584,
+    743,
+    596
+   ]
+  },
+  {
+   "text": "163 320",
+   "bbox": [
+    795,
+    584,
+    867,
+    596
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    584,
+    929,
+    596
+   ]
+  },
+  {
+   "text": "44 096",
+   "bbox": [
+    966,
+    584,
+    1027,
+    596
+   ]
+  },
+  {
+   "text": "207 416",
+   "bbox": [
+    1064,
+    584,
+    1136,
+    596
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    104,
+    582,
+    214,
+    599
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    516,
+    616,
+    585,
+    629
+   ]
+  },
+  {
+   "text": "5 000",
+   "bbox": [
+    693,
+    617,
+    743,
+    629
+   ]
+  },
+  {
+   "text": "60 000",
+   "bbox": [
+    806,
+    617,
+    867,
+    629
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    617,
+    929,
+    629
+   ]
+  },
+  {
+   "text": "16 200",
+   "bbox": [
+    966,
+    617,
+    1027,
+    629
+   ]
+  },
+  {
+   "text": "76 200",
+   "bbox": [
+    1075,
+    617,
+    1136,
+    629
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    104,
+    615,
+    336,
+    632
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    516,
+    648,
+    564,
+    662
+   ]
+  },
+  {
+   "text": "14 460",
+   "bbox": [
+    682,
+    650,
+    743,
+    662
+   ]
+  },
+  {
+   "text": "173 520",
+   "bbox": [
+    795,
+    650,
+    867,
+    662
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    650,
+    929,
+    662
+   ]
+  },
+  {
+   "text": "46 850",
+   "bbox": [
+    966,
+    650,
+    1027,
+    662
+   ]
+  },
+  {
+   "text": "220 370",
+   "bbox": [
+    1064,
+    650,
+    1136,
+    662
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    104,
+    648,
+    260,
+    665
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    516,
+    682,
+    600,
+    695
+   ]
+  },
+  {
+   "text": "80 230",
+   "bbox": [
+    682,
+    683,
+    743,
+    695
+   ]
+  },
+  {
+   "text": "80 230",
+   "bbox": [
+    806,
+    683,
+    867,
+    695
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    683,
+    929,
+    695
+   ]
+  },
+  {
+   "text": "21 662",
+   "bbox": [
+    966,
+    683,
+    1027,
+    695
+   ]
+  },
+  {
+   "text": "101 892",
+   "bbox": [
+    1064,
+    683,
+    1136,
+    695
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    104,
+    681,
+    291,
+    698
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    516,
+    714,
+    560,
+    728
+   ]
+  },
+  {
+   "text": "16 660",
+   "bbox": [
+    682,
+    716,
+    743,
+    728
+   ]
+  },
+  {
+   "text": "66 640",
+   "bbox": [
+    806,
+    716,
+    867,
+    728
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    716,
+    929,
+    728
+   ]
+  },
+  {
+   "text": "17 993",
+   "bbox": [
+    966,
+    716,
+    1027,
+    728
+   ]
+  },
+  {
+   "text": "84 633",
+   "bbox": [
+    1075,
+    716,
+    1136,
+    728
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    104,
+    714,
+    369,
+    731
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    516,
+    747,
+    554,
+    761
+   ]
+  },
+  {
+   "text": "92 740",
+   "bbox": [
+    682,
+    749,
+    743,
+    761
+   ]
+  },
+  {
+   "text": "92 740",
+   "bbox": [
+    806,
+    749,
+    867,
+    761
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    749,
+    929,
+    761
+   ]
+  },
+  {
+   "text": "25 040",
+   "bbox": [
+    966,
+    749,
+    1027,
+    761
+   ]
+  },
+  {
+   "text": "117 780",
+   "bbox": [
+    1064,
+    749,
+    1136,
+    761
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    104,
+    747,
+    352,
+    764
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    635,
+    801,
+    806,
+    818
+   ]
+  },
+  {
+   "text": "643 800 Ft",
+   "bbox": [
+    1024,
+    802,
+    1136,
+    818
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    653,
+    831,
+    806,
+    852
+   ]
+  },
+  {
+   "text": "173 825 Ft",
+   "bbox": [
+    1024,
+    836,
+    1136,
+    852
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    593,
+    869,
+    806,
+    890
+   ]
+  },
+  {
+   "text": "817 625 Ft",
+   "bbox": [
+    1008,
+    870,
+    1136,
+    886
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 94946161-22466165-48086992",
+   "bbox": [
+    104,
+    933,
+    587,
+    948
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    104,
+    960,
+    670,
+    976
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    486,
+    1634,
+    754,
+    1649
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

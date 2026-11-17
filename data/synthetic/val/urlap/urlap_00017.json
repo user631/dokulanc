@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Pál Gábor",
+  "anyja_neve": "Szalai Norbert",
+  "szuletesi_hely": "Pécs",
+  "szuletesi_datum": "1985.10.17.",
+  "lakcim": "H-9677 Érd, Hetvenvégi út 58.",
+  "telefon": "+36 30 336 2031",
+  "email": "pal.gabor@freemail.hu",
+  "adoazonosito_jel": "8433883526",
+  "taj_szam": "886 657 372",
+  "kelt": "Mártonfa, 2026.10.05."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    435,
+    85,
+    804,
+    117
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    196,
+    283,
+    216
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    251,
+    135,
+    264
+   ]
+  },
+  {
+   "text": "Pál Gábor",
+   "bbox": [
+    397,
+    252,
+    491,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    96,
+    303,
+    194,
+    321
+   ]
+  },
+  {
+   "text": "Szalai Norbert",
+   "bbox": [
+    397,
+    303,
+    532,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    356,
+    216,
+    374
+   ]
+  },
+  {
+   "text": "Pécs",
+   "bbox": [
+    397,
+    358,
+    439,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    409,
+    207,
+    423
+   ]
+  },
+  {
+   "text": "1985.10.17.",
+   "bbox": [
+    397,
+    408,
+    511,
+    423
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    462,
+    164,
+    476
+   ]
+  },
+  {
+   "text": "H-9677 Érd, Hetvenvégi út 58.",
+   "bbox": [
+    397,
+    456,
+    689,
+    481
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    515,
+    207,
+    529
+   ]
+  },
+  {
+   "text": "+36 30 336 2031",
+   "bbox": [
+    397,
+    512,
+    560,
+    527
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    568,
+    194,
+    582
+   ]
+  },
+  {
+   "text": "pal.gabor@freemail.hu",
+   "bbox": [
+    396,
+    569,
+    612,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    96,
+    621,
+    240,
+    639
+   ]
+  },
+  {
+   "text": "8433883526",
+   "bbox": [
+    397,
+    618,
+    517,
+    633
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    675,
+    183,
+    688
+   ]
+  },
+  {
+   "text": "886 657 372",
+   "bbox": [
+    397,
+    671,
+    517,
+    686
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    754,
+    249,
+    774
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    798,
+    415,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    843,
+    266,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    129,
+    888,
+    432,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    990,
+    126,
+    1005
+   ]
+  },
+  {
+   "text": "Mártonfa, 2026.10.05.",
+   "bbox": [
+    174,
+    987,
+    386,
+    1007
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1040,
+    989,
+    1052
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/09984",
+  "kiallitas_datuma": "2025.12.01.",
+  "teljesites_datuma": "2025.11.29.",
+  "fizetesi_hatarido": "2025.12.16.",
+  "elado_nev": "Dudás Trade Zrt.",
+  "elado_cim": "H-1442 Eger, Tapolcakőrösi utca 161.",
+  "elado_adoszam": "95837080-3-10",
+  "vevo_nev": "Halász Logisztika Zrt.",
+  "vevo_cim": "H-6270 Salgótarján, Mindszentdevecseri utca 191.",
+  "vevo_adoszam": "58045309-2-04",
+  "bankszamla": "HU63 8541 1977 5890 2468 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "487 070 Ft",
+  "afa_osszesen": "131 509 Ft",
+  "brutto_osszesen": "618 529 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "43 190",
+    "netto": "431 900",
+    "afa_kulcs": "27%",
+    "afa": "116 613",
+    "brutto": "548 513"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "3 370",
+    "netto": "3 370",
+    "afa_kulcs": "27%",
+    "afa": "910",
+    "brutto": "4 280"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "4 db",
+    "egysegar": "12 950",
+    "netto": "51 800",
+    "afa_kulcs": "27%",
+    "afa": "13 986",
+    "brutto": "65 786"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    532,
+    101,
+    708,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/09984",
+   "bbox": [
+    445,
+    166,
+    796,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    101,
+    244,
+    175,
+    263
+   ]
+  },
+  {
+   "text": "Dudás Trade Zrt.",
+   "bbox": [
+    101,
+    280,
+    292,
+    299
+   ]
+  },
+  {
+   "text": "H-1442 Eger, Tapolcakőrösi utca 161.",
+   "bbox": [
+    101,
+    315,
+    466,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 95837080-3-10",
+   "bbox": [
+    100,
+    345,
+    350,
+    361
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    244,
+    695,
+    263
+   ]
+  },
+  {
+   "text": "Halász Logisztika Zrt.",
+   "bbox": [
+    630,
+    280,
+    876,
+    304
+   ]
+  },
+  {
+   "text": "H-6270 Salgótarján, Mindszentdevecseri utca 191.",
+   "bbox": [
+    630,
+    315,
+    1116,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 58045309-2-04",
+   "bbox": [
+    629,
+    345,
+    879,
+    361
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    101,
+    412,
+    248,
+    427
+   ]
+  },
+  {
+   "text": "2025.12.01.",
+   "bbox": [
+    101,
+    442,
+    215,
+    457
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    412,
+    522,
+    431
+   ]
+  },
+  {
+   "text": "2025.11.29.",
+   "bbox": [
+    360,
+    442,
+    474,
+    457
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    412,
+    771,
+    427
+   ]
+  },
+  {
+   "text": "2025.12.16.",
+   "bbox": [
+    619,
+    442,
+    733,
+    457
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    412,
+    995,
+    427
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    878,
+    442,
+    954,
+    457
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    101,
+    490,
+    217,
+    509
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    491,
+    583,
+    509
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    490,
+    745,
+    509
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    490,
+    869,
+    505
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    874,
+    487,
+    931,
+    506
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    487,
+    1030,
+    505
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1082,
+    490,
+    1139,
+    505
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    516,
+    532,
+    610,
+    546
+   ]
+  },
+  {
+   "text": "43 190",
+   "bbox": [
+    684,
+    532,
+    744,
+    546
+   ]
+  },
+  {
+   "text": "431 900",
+   "bbox": [
+    798,
+    532,
+    869,
+    546
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    532,
+    931,
+    546
+   ]
+  },
+  {
+   "text": "116 613",
+   "bbox": [
+    959,
+    532,
+    1030,
+    546
+   ]
+  },
+  {
+   "text": "548 513",
+   "bbox": [
+    1068,
+    532,
+    1139,
+    546
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    101,
+    532,
+    294,
+    550
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    516,
+    567,
+    554,
+    581
+   ]
+  },
+  {
+   "text": "3 370",
+   "bbox": [
+    695,
+    567,
+    744,
+    581
+   ]
+  },
+  {
+   "text": "3 370",
+   "bbox": [
+    820,
+    567,
+    869,
+    581
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    567,
+    931,
+    581
+   ]
+  },
+  {
+   "text": "910",
+   "bbox": [
+    997,
+    567,
+    1030,
+    581
+   ]
+  },
+  {
+   "text": "4 280",
+   "bbox": [
+    1090,
+    567,
+    1139,
+    581
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    101,
+    567,
+    272,
+    585
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    516,
+    602,
+    554,
+    616
+   ]
+  },
+  {
+   "text": "12 950",
+   "bbox": [
+    684,
+    602,
+    744,
+    616
+   ]
+  },
+  {
+   "text": "51 800",
+   "bbox": [
+    809,
+    602,
+    869,
+    616
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    602,
+    931,
+    616
+   ]
+  },
+  {
+   "text": "13 986",
+   "bbox": [
+    970,
+    602,
+    1030,
+    616
+   ]
+  },
+  {
+   "text": "65 786",
+   "bbox": [
+    1079,
+    602,
+    1139,
+    616
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    101,
+    602,
+    247,
+    616
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    657,
+    809,
+    674
+   ]
+  },
+  {
+   "text": "487 070 Ft",
+   "bbox": [
+    1029,
+    657,
+    1140,
+    674
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    652,
+    689,
+    809,
+    710
+   ]
+  },
+  {
+   "text": "131 509 Ft",
+   "bbox": [
+    1029,
+    693,
+    1140,
+    710
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    606,
+    729,
+    809,
+    751
+   ]
+  },
+  {
+   "text": "618 529 Ft",
+   "bbox": [
+    1027,
+    729,
+    1139,
+    746
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU63 8541 1977 5890 2468 0000 0000",
+   "bbox": [
+    101,
+    796,
+    661,
+    811
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

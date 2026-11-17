@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szabó Judit",
+  "email": "szabo.judit@outlook.com",
+  "telefon": "+36 70 287 2374",
+  "lakcim": "H-3883 Dunaújváros, Mellékvárosi utca 238.",
+  "szuletesi_datum": "2002. március 8.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vass Consulting Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Major Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "prezentáció",
+   "Python",
+   "JavaScript",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Judit",
+   "bbox": [
+    490,
+    115,
+    750,
+    151
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    181,
+    682,
+    209
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    237,
+    163,
+    254
+   ]
+  },
+  {
+   "text": "szabo.judit@outlook.com",
+   "bbox": [
+    330,
+    237,
+    580,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    269,
+    176,
+    286
+   ]
+  },
+  {
+   "text": "+36 70 287 2374",
+   "bbox": [
+    330,
+    270,
+    495,
+    286
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    301,
+    171,
+    318
+   ]
+  },
+  {
+   "text": "H-3883 Dunaújváros, Mellékvárosi utca 238.",
+   "bbox": [
+    330,
+    300,
+    769,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    264,
+    350
+   ]
+  },
+  {
+   "text": "2002. március 8.",
+   "bbox": [
+    330,
+    332,
+    497,
+    350
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    386,
+    331,
+    411
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    437,
+    239,
+    459
+   ]
+  },
+  {
+   "text": "adatelemző – Vass Consulting Zrt.",
+   "bbox": [
+    90,
+    464,
+    450,
+    486
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    505,
+    239,
+    527
+   ]
+  },
+  {
+   "text": "értékesítő – Major Kft.",
+   "bbox": [
+    90,
+    532,
+    329,
+    554
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    585,
+    253,
+    609
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    636,
+    208,
+    652
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    662,
+    357,
+    684
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    90,
+    686,
+    153,
+    709
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    730,
+    208,
+    746
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    756,
+    411,
+    778
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    780,
+    349,
+    803
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    835,
+    223,
+    859
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    884,
+    200,
+    907
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    935,
+    215,
+    959
+   ]
+  },
+  {
+   "text": "Java, prezentáció, Python, JavaScript, C#",
+   "bbox": [
+    90,
+    984,
+    508,
+    1007
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

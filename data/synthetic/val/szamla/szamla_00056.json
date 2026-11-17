@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/02552",
+  "kiallitas_datuma": "2025. május 16.",
+  "teljesites_datuma": "2025. május 11.",
+  "fizetesi_hatarido": "2025. május 31.",
+  "elado_nev": "Nagy Logisztika Kft.",
+  "elado_cim": "H-2627 Szeged, Pécsi utca 10.",
+  "elado_adoszam": "14759790-2-19",
+  "vevo_nev": "Fazekas Trade Kft.",
+  "vevo_cim": "H-1209 Tiszagyörgyvár, Szolnoki utca 86.",
+  "vevo_adoszam": "51220141-5-07",
+  "bankszamla": "90524147-02657204-98881860",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 223 030 Ft",
+  "afa_osszesen": "329 567 Ft",
+  "brutto_osszesen": "1 552 597 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "3 440",
+    "netto": "3 440",
+    "afa_kulcs": "27%",
+    "afa": "929",
+    "brutto": "4 369"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "119 090",
+    "netto": "1 190 900",
+    "afa_kulcs": "27%",
+    "afa": "321 543",
+    "brutto": "1 512 443"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "21 450",
+    "netto": "21 450",
+    "afa_kulcs": "27%",
+    "afa": "5 792",
+    "brutto": "27 242"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "2 csomag",
+    "egysegar": "3 620",
+    "netto": "7 240",
+    "afa_kulcs": "18%",
+    "afa": "1 303",
+    "brutto": "8 543"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    151,
+    136,
+    210,
+    151
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1017,
+    112,
+    1140,
+    142
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/02552",
+   "bbox": [
+    889,
+    171,
+    1140,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    100,
+    252,
+    163,
+    268
+   ]
+  },
+  {
+   "text": "Nagy Logisztika Kft.",
+   "bbox": [
+    100,
+    288,
+    293,
+    308
+   ]
+  },
+  {
+   "text": "H-2627 Szeged, Pécsi utca 10.",
+   "bbox": [
+    100,
+    321,
+    365,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 14759790-2-19",
+   "bbox": [
+    100,
+    351,
+    330,
+    367
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    252,
+    687,
+    268
+   ]
+  },
+  {
+   "text": "Fazekas Trade Kft.",
+   "bbox": [
+    630,
+    288,
+    812,
+    304
+   ]
+  },
+  {
+   "text": "H-1209 Tiszagyörgyvár, Szolnoki utca 86.",
+   "bbox": [
+    630,
+    321,
+    996,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 51220141-5-07",
+   "bbox": [
+    630,
+    351,
+    860,
+    367
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    100,
+    420,
+    227,
+    433
+   ]
+  },
+  {
+   "text": "2025. május 16.",
+   "bbox": [
+    100,
+    448,
+    237,
+    466
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    420,
+    501,
+    436
+   ]
+  },
+  {
+   "text": "2025. május 11.",
+   "bbox": [
+    360,
+    448,
+    497,
+    466
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    420,
+    753,
+    433
+   ]
+  },
+  {
+   "text": "2025. május 31.",
+   "bbox": [
+    620,
+    448,
+    757,
+    466
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    420,
+    981,
+    433
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    880,
+    448,
+    976,
+    466
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    498,
+    201,
+    514
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    499,
+    577,
+    514
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    498,
+    744,
+    514
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    498,
+    869,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    495,
+    932,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    495,
+    1030,
+    511
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1088,
+    498,
+    1140,
+    511
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    516,
+    539,
+    550,
+    552
+   ]
+  },
+  {
+   "text": "3 440",
+   "bbox": [
+    700,
+    540,
+    744,
+    552
+   ]
+  },
+  {
+   "text": "3 440",
+   "bbox": [
+    825,
+    540,
+    869,
+    552
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    540,
+    932,
+    552
+   ]
+  },
+  {
+   "text": "929",
+   "bbox": [
+    1000,
+    540,
+    1030,
+    552
+   ]
+  },
+  {
+   "text": "4 369",
+   "bbox": [
+    1096,
+    540,
+    1140,
+    552
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    100,
+    539,
+    237,
+    555
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    516,
+    574,
+    600,
+    587
+   ]
+  },
+  {
+   "text": "119 090",
+   "bbox": [
+    680,
+    575,
+    744,
+    587
+   ]
+  },
+  {
+   "text": "1 190 900",
+   "bbox": [
+    791,
+    575,
+    869,
+    587
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    575,
+    932,
+    587
+   ]
+  },
+  {
+   "text": "321 543",
+   "bbox": [
+    966,
+    575,
+    1030,
+    587
+   ]
+  },
+  {
+   "text": "1 512 443",
+   "bbox": [
+    1062,
+    575,
+    1140,
+    587
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    100,
+    574,
+    268,
+    590
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    516,
+    609,
+    590,
+    622
+   ]
+  },
+  {
+   "text": "21 450",
+   "bbox": [
+    690,
+    610,
+    744,
+    622
+   ]
+  },
+  {
+   "text": "21 450",
+   "bbox": [
+    815,
+    610,
+    869,
+    622
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    610,
+    932,
+    622
+   ]
+  },
+  {
+   "text": "5 792",
+   "bbox": [
+    986,
+    610,
+    1030,
+    622
+   ]
+  },
+  {
+   "text": "27 242",
+   "bbox": [
+    1086,
+    610,
+    1140,
+    622
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    100,
+    609,
+    268,
+    625
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    516,
+    645,
+    589,
+    660
+   ]
+  },
+  {
+   "text": "3 620",
+   "bbox": [
+    700,
+    645,
+    744,
+    657
+   ]
+  },
+  {
+   "text": "7 240",
+   "bbox": [
+    825,
+    645,
+    869,
+    657
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    898,
+    645,
+    932,
+    657
+   ]
+  },
+  {
+   "text": "1 303",
+   "bbox": [
+    986,
+    645,
+    1030,
+    657
+   ]
+  },
+  {
+   "text": "8 543",
+   "bbox": [
+    1096,
+    645,
+    1140,
+    657
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    100,
+    644,
+    241,
+    660
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    663,
+    698,
+    810,
+    715
+   ]
+  },
+  {
+   "text": "1 223 030 Ft",
+   "bbox": [
+    1022,
+    700,
+    1140,
+    715
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    732,
+    810,
+    751
+   ]
+  },
+  {
+   "text": "329 567 Ft",
+   "bbox": [
+    1039,
+    736,
+    1140,
+    751
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    705,
+    771,
+    810,
+    791
+   ]
+  },
+  {
+   "text": "1 552 597 Ft",
+   "bbox": [
+    1022,
+    772,
+    1140,
+    787
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 90524147-02657204-98881860",
+   "bbox": [
+    100,
+    837,
+    530,
+    851
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    441,
+    1637,
+    798,
+    1652
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

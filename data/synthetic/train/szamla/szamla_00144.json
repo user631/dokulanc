@@ -1,0 +1,698 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2026/00863",
+  "kiallitas_datuma": "2026. augusztus 26.",
+  "teljesites_datuma": "2026. augusztus 24.",
+  "fizetesi_hatarido": "2026. augusztus 9.",
+  "elado_nev": "Szabó Logisztika Bt.",
+  "elado_cim": "H-7901 Dunakeszi, Béke utca 155.",
+  "elado_adoszam": "32275544-2-40",
+  "vevo_nev": "Szűcs Consulting Kft.",
+  "vevo_cim": "H-7491 Budapest, Béke utca 11.",
+  "vevo_adoszam": "53748375-2-10",
+  "bankszamla": "HU38 8783 8347 0879 7654 8441 2250",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 005 480 Ft",
+  "afa_osszesen": "271 480 Ft",
+  "brutto_osszesen": "1 276 960 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "4 hó",
+    "egysegar": "65 050",
+    "netto": "260 200",
+    "afa_kulcs": "27%",
+    "afa": "70 254",
+    "brutto": "330 454"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "5 db",
+    "egysegar": "92 700",
+    "netto": "463 500",
+    "afa_kulcs": "27%",
+    "afa": "125 145",
+    "brutto": "588 645"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "4 050",
+    "netto": "48 600",
+    "afa_kulcs": "27%",
+    "afa": "13 122",
+    "brutto": "61 722"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "5 db",
+    "egysegar": "6 730",
+    "netto": "33 650",
+    "afa_kulcs": "27%",
+    "afa": "9 086",
+    "brutto": "42 736"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "199 530",
+    "netto": "199 530",
+    "afa_kulcs": "27%",
+    "afa": "53 873",
+    "brutto": "253 403"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    410,
+    95,
+    830,
+    129
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/00863",
+   "bbox": [
+    427,
+    151,
+    813,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    86,
+    232,
+    164,
+    252
+   ]
+  },
+  {
+   "text": "Szabó Logisztika Bt.",
+   "bbox": [
+    86,
+    271,
+    338,
+    297
+   ]
+  },
+  {
+   "text": "H-7901 Dunakeszi, Béke utca 155.",
+   "bbox": [
+    86,
+    306,
+    468,
+    330
+   ]
+  },
+  {
+   "text": "Adószám: 32275544-2-40",
+   "bbox": [
+    86,
+    339,
+    362,
+    359
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    232,
+    702,
+    252
+   ]
+  },
+  {
+   "text": "Szűcs Consulting Kft.",
+   "bbox": [
+    630,
+    271,
+    897,
+    297
+   ]
+  },
+  {
+   "text": "H-7491 Budapest, Béke utca 11.",
+   "bbox": [
+    630,
+    306,
+    990,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 53748375-2-10",
+   "bbox": [
+    630,
+    339,
+    906,
+    359
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    86,
+    410,
+    253,
+    427
+   ]
+  },
+  {
+   "text": "2026. augusztus 26.",
+   "bbox": [
+    86,
+    443,
+    301,
+    465
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    353,
+    410,
+    538,
+    432
+   ]
+  },
+  {
+   "text": "2026. augusztus 24.",
+   "bbox": [
+    353,
+    443,
+    568,
+    465
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    410,
+    797,
+    427
+   ]
+  },
+  {
+   "text": "2026. augusztus 9.",
+   "bbox": [
+    620,
+    443,
+    822,
+    465
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    887,
+    410,
+    1021,
+    427
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    887,
+    441,
+    976,
+    460
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    495,
+    211,
+    516
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    495,
+    588,
+    516
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    495,
+    749,
+    516
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    495,
+    876,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    491,
+    940,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    491,
+    1041,
+    511
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    495,
+    1154,
+    511
+   ]
+  },
+  {
+   "text": "4 hó",
+   "bbox": [
+    513,
+    537,
+    556,
+    555
+   ]
+  },
+  {
+   "text": "65 050",
+   "bbox": [
+    681,
+    539,
+    748,
+    555
+   ]
+  },
+  {
+   "text": "260 200",
+   "bbox": [
+    797,
+    539,
+    876,
+    555
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    539,
+    940,
+    555
+   ]
+  },
+  {
+   "text": "70 254",
+   "bbox": [
+    974,
+    539,
+    1041,
+    555
+   ]
+  },
+  {
+   "text": "330 454",
+   "bbox": [
+    1075,
+    539,
+    1154,
+    555
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    86,
+    537,
+    370,
+    560
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    513,
+    577,
+    556,
+    593
+   ]
+  },
+  {
+   "text": "92 700",
+   "bbox": [
+    681,
+    577,
+    748,
+    593
+   ]
+  },
+  {
+   "text": "463 500",
+   "bbox": [
+    797,
+    577,
+    876,
+    593
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    577,
+    940,
+    593
+   ]
+  },
+  {
+   "text": "125 145",
+   "bbox": [
+    962,
+    577,
+    1041,
+    593
+   ]
+  },
+  {
+   "text": "588 645",
+   "bbox": [
+    1075,
+    577,
+    1154,
+    593
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    86,
+    576,
+    200,
+    593
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    513,
+    615,
+    592,
+    631
+   ]
+  },
+  {
+   "text": "4 050",
+   "bbox": [
+    693,
+    615,
+    748,
+    631
+   ]
+  },
+  {
+   "text": "48 600",
+   "bbox": [
+    809,
+    615,
+    876,
+    631
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    615,
+    940,
+    631
+   ]
+  },
+  {
+   "text": "13 122",
+   "bbox": [
+    974,
+    615,
+    1041,
+    631
+   ]
+  },
+  {
+   "text": "61 722",
+   "bbox": [
+    1087,
+    615,
+    1154,
+    631
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    86,
+    613,
+    355,
+    636
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    513,
+    653,
+    556,
+    669
+   ]
+  },
+  {
+   "text": "6 730",
+   "bbox": [
+    693,
+    653,
+    748,
+    669
+   ]
+  },
+  {
+   "text": "33 650",
+   "bbox": [
+    809,
+    653,
+    876,
+    669
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    653,
+    940,
+    669
+   ]
+  },
+  {
+   "text": "9 086",
+   "bbox": [
+    986,
+    653,
+    1041,
+    669
+   ]
+  },
+  {
+   "text": "42 736",
+   "bbox": [
+    1087,
+    653,
+    1154,
+    669
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    86,
+    651,
+    214,
+    674
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    513,
+    691,
+    609,
+    707
+   ]
+  },
+  {
+   "text": "199 530",
+   "bbox": [
+    669,
+    691,
+    748,
+    707
+   ]
+  },
+  {
+   "text": "199 530",
+   "bbox": [
+    797,
+    691,
+    876,
+    707
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    691,
+    940,
+    707
+   ]
+  },
+  {
+   "text": "53 873",
+   "bbox": [
+    974,
+    691,
+    1041,
+    707
+   ]
+  },
+  {
+   "text": "253 403",
+   "bbox": [
+    1075,
+    691,
+    1154,
+    707
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    86,
+    689,
+    297,
+    712
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    640,
+    749,
+    824,
+    769
+   ]
+  },
+  {
+   "text": "1 005 480 Ft",
+   "bbox": [
+    1008,
+    750,
+    1154,
+    769
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    784,
+    824,
+    808
+   ]
+  },
+  {
+   "text": "271 480 Ft",
+   "bbox": [
+    1030,
+    789,
+    1154,
+    808
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    691,
+    828,
+    824,
+    852
+   ]
+  },
+  {
+   "text": "1 276 960 Ft",
+   "bbox": [
+    1000,
+    828,
+    1154,
+    847
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU38 8783 8347 0879 7654 8441 2250",
+   "bbox": [
+    86,
+    895,
+    694,
+    914
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    86,
+    928,
+    731,
+    948
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    460,
+    1647,
+    779,
+    1667
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

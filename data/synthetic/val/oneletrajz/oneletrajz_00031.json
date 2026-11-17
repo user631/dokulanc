@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kis József",
+  "email": "kis.jozsef@citromail.hu",
+  "telefon": "+36 70 626 6983",
+  "lakcim": "H-7162 Dunakeszi, Békéscsabai utca 215.",
+  "szuletesi_datum": "1993. 12. 02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fülöp Trade Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "B kategóriás jogosítvány",
+   "Java",
+   "C#",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kis József",
+   "bbox": [
+    494,
+    95,
+    746,
+    133
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    523,
+    163,
+    717,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    213,
+    167,
+    228
+   ]
+  },
+  {
+   "text": "kis.jozsef@citromail.hu",
+   "bbox": [
+    330,
+    213,
+    551,
+    232
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    242,
+    179,
+    257
+   ]
+  },
+  {
+   "text": "+36 70 626 6983",
+   "bbox": [
+    330,
+    243,
+    499,
+    257
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    270,
+    174,
+    286
+   ]
+  },
+  {
+   "text": "H-7162 Dunakeszi, Békéscsabai utca 215.",
+   "bbox": [
+    330,
+    271,
+    731,
+    289
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    299,
+    273,
+    315
+   ]
+  },
+  {
+   "text": "1993. 12. 02.",
+   "bbox": [
+    330,
+    301,
+    461,
+    315
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    350,
+    347,
+    373
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    90,
+    399,
+    212,
+    413
+   ]
+  },
+  {
+   "text": "adatelemző – Fülöp Trade Zrt.",
+   "bbox": [
+    90,
+    420,
+    427,
+    441
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    471,
+    263,
+    494
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    90,
+    520,
+    212,
+    534
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    541,
+    369,
+    562
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    89,
+    565,
+    152,
+    584
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    605,
+    212,
+    619
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    626,
+    362,
+    647
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    650,
+    172,
+    669
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    700,
+    233,
+    723
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    748,
+    213,
+    767
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    794,
+    227,
+    817
+   ]
+  },
+  {
+   "text": "Python, B kategóriás jogosítvány, Java, C#, projektmenedzsment",
+   "bbox": [
+    90,
+    842,
+    718,
+    861
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Balog Kristóf",
+  "email": "balog.kristof@citromail.hu",
+  "telefon": "+36 30 449 2318",
+  "lakcim": "H-9043 Sopron, Kismindszenti út 167.",
+  "szuletesi_datum": "2002.08.19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Balogh Szolgáltató Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "B kategóriás jogosítvány",
+   "Linux",
+   "Docker",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balog Kristóf",
+   "bbox": [
+    480,
+    112,
+    761,
+    158
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    175,
+    674,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    228,
+    155,
+    243
+   ]
+  },
+  {
+   "text": "balog.kristof@citromail.hu",
+   "bbox": [
+    330,
+    228,
+    562,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    167,
+    273
+   ]
+  },
+  {
+   "text": "+36 30 449 2318",
+   "bbox": [
+    330,
+    259,
+    480,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    161,
+    303
+   ]
+  },
+  {
+   "text": "H-9043 Sopron, Kismindszenti út 167.",
+   "bbox": [
+    330,
+    288,
+    660,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    246,
+    333
+   ]
+  },
+  {
+   "text": "2002.08.19.",
+   "bbox": [
+    330,
+    319,
+    430,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    314,
+    393
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    90,
+    418,
+    222,
+    438
+   ]
+  },
+  {
+   "text": "irodavezető – Horváth és Társa Kft.",
+   "bbox": [
+    90,
+    442,
+    433,
+    458
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    482,
+    222,
+    502
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Balogh Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    506,
+    541,
+    527
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    557,
+    246,
+    581
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    90,
+    607,
+    198,
+    621
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    626,
+    252,
+    651
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    654,
+    302,
+    669
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    695,
+    198,
+    709
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    718,
+    329,
+    739
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    742,
+    312,
+    762
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    793,
+    218,
+    817
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    842,
+    180,
+    862
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    889,
+    208,
+    913
+   ]
+  },
+  {
+   "text": "Excel, B kategóriás jogosítvány, Linux, Docker, projektmenedzsment",
+   "bbox": [
+    90,
+    938,
+    675,
+    958
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

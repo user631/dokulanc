@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Molnár Balázs",
+  "email": "molnar.balazs@citromail.hu",
+  "telefon": "+36 70 163 1309",
+  "lakcim": "H-2735 Nagytamásikövesd, Tapolcakőrösi utca 161.",
+  "szuletesi_datum": "1980.10.11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Consulting Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2009 – 2010"
+   },
+   {
+    "ceg": "Simon és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "ceg": "Kiss Trade Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2002 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "C#",
+   "JavaScript",
+   "Excel",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    175,
+    118
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    89,
+    158
+   ]
+  },
+  {
+   "text": "molnar.balazs@citromail.hu",
+   "bbox": [
+    40,
+    168,
+    257,
+    183
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    100,
+    214
+   ]
+  },
+  {
+   "text": "+36 70 163 1309",
+   "bbox": [
+    40,
+    225,
+    171,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    94,
+    270
+   ]
+  },
+  {
+   "text": "H-2735 Nagytamásikövesd, Tapolcakőrösi",
+   "bbox": [
+    40,
+    280,
+    363,
+    296
+   ]
+  },
+  {
+   "text": "utca 161.",
+   "bbox": [
+    40,
+    304,
+    112,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    336,
+    167,
+    349
+   ]
+  },
+  {
+   "text": "1980.10.11.",
+   "bbox": [
+    40,
+    360,
+    135,
+    372
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    419,
+    168,
+    438
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    460,
+    132,
+    478
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    515,
+    147,
+    534
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    557,
+    138,
+    574
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    584,
+    61,
+    597
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    611,
+    122,
+    628
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    637,
+    82,
+    651
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    664,
+    218,
+    682
+   ]
+  },
+  {
+   "text": "Molnár Balázs",
+   "bbox": [
+    450,
+    103,
+    712,
+    134
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    172,
+    555,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    654,
+    259
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    450,
+    290,
+    558,
+    303
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szabó Consulting Zrt.",
+   "bbox": [
+    450,
+    314,
+    834,
+    333
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    356,
+    558,
+    369
+   ]
+  },
+  {
+   "text": "tesztmérnök – Simon és Társa Kft.",
+   "bbox": [
+    450,
+    380,
+    763,
+    395
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    450,
+    422,
+    558,
+    435
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kiss Trade Kft.",
+   "bbox": [
+    450,
+    446,
+    719,
+    461
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    496,
+    588,
+    518
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    450,
+    549,
+    558,
+    562
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    573,
+    924,
+    592
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    598,
+    621,
+    612
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    640,
+    558,
+    653
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    665,
+    669,
+    683
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    689,
+    524,
+    707
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Juhász Ildikó",
+  "anyja_neve": "Székely Pál",
+  "szuletesi_hely": "Zalaegerszeg",
+  "szuletesi_datum": "1958.09.29.",
+  "lakcim": "H-8765 Dunatamásifa, Tatabányai út 21.",
+  "telefon": "06 1 679 6459",
+  "email": "juhasz.ildiko@citromail.hu",
+  "adoazonosito_jel": "8335084238",
+  "taj_szam": "587 802 600",
+  "kelt": "Budapest, 2025.07.20."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    452,
+    89,
+    788,
+    121
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    195,
+    298,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    249,
+    138,
+    262
+   ]
+  },
+  {
+   "text": "Juhász Ildikó",
+   "bbox": [
+    396,
+    244,
+    547,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    300,
+    195,
+    317
+   ]
+  },
+  {
+   "text": "Székely Pál",
+   "bbox": [
+    397,
+    294,
+    529,
+    320
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    351,
+    217,
+    368
+   ]
+  },
+  {
+   "text": "Zalaegerszeg",
+   "bbox": [
+    397,
+    344,
+    546,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    402,
+    208,
+    415
+   ]
+  },
+  {
+   "text": "1958.09.29.",
+   "bbox": [
+    397,
+    399,
+    551,
+    415
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    453,
+    164,
+    466
+   ]
+  },
+  {
+   "text": "H-8765 Dunatamásifa, Tatabányai út 21.",
+   "bbox": [
+    397,
+    445,
+    903,
+    472
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    101,
+    504,
+    209,
+    517
+   ]
+  },
+  {
+   "text": "06 1 679 6459",
+   "bbox": [
+    397,
+    505,
+    594,
+    522
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    555,
+    191,
+    568
+   ]
+  },
+  {
+   "text": "juhasz.ildiko@citromail.hu",
+   "bbox": [
+    393,
+    551,
+    697,
+    577
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    606,
+    239,
+    623
+   ]
+  },
+  {
+   "text": "8335084238",
+   "bbox": [
+    397,
+    602,
+    567,
+    619
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    101,
+    657,
+    186,
+    670
+   ]
+  },
+  {
+   "text": "587 802 600",
+   "bbox": [
+    397,
+    655,
+    568,
+    671
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    734,
+    251,
+    753
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    778,
+    417,
+    795
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    823,
+    264,
+    836
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    868,
+    432,
+    885
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    969,
+    127,
+    983
+   ]
+  },
+  {
+   "text": "Budapest, 2025.07.20.",
+   "bbox": [
+    179,
+    971,
+    427,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1018,
+    983,
+    1029
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

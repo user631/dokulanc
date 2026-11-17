@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Németh Piroska",
+  "email": "nemeth.piroska@citromail.hu",
+  "telefon": "+36 70 518 8349",
+  "lakcim": "H-7430 Kunmindszentfalu, Fürdőnádasdi utca 158.",
+  "szuletesi_datum": "1986.08.21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2005 – 2008"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Trade Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "JavaScript",
+   "Excel",
+   "C#",
+   "projektmenedzsment",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    106,
+    175,
+    126
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    89,
+    166
+   ]
+  },
+  {
+   "text": "nemeth.piroska@citromail.hu",
+   "bbox": [
+    40,
+    176,
+    270,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    100,
+    222
+   ]
+  },
+  {
+   "text": "+36 70 518 8349",
+   "bbox": [
+    40,
+    233,
+    171,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    265,
+    94,
+    278
+   ]
+  },
+  {
+   "text": "H-7430 Kunmindszentfalu, Fürdőnádasdi",
+   "bbox": [
+    40,
+    288,
+    356,
+    304
+   ]
+  },
+  {
+   "text": "utca 158.",
+   "bbox": [
+    40,
+    312,
+    112,
+    324
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    344,
+    167,
+    357
+   ]
+  },
+  {
+   "text": "1986.08.21.",
+   "bbox": [
+    40,
+    368,
+    135,
+    380
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    427,
+    168,
+    446
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    468,
+    124,
+    486
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    523,
+    147,
+    542
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    565,
+    65,
+    578
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    592,
+    122,
+    609
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    618,
+    82,
+    632
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    646,
+    61,
+    659
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    672,
+    218,
+    690
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    699,
+    97,
+    713
+   ]
+  },
+  {
+   "text": "Németh Piroska",
+   "bbox": [
+    450,
+    111,
+    750,
+    142
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    180,
+    555,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    246,
+    654,
+    267
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    298,
+    558,
+    311
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Horváth Trade Bt.",
+   "bbox": [
+    449,
+    322,
+    773,
+    341
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    372,
+    588,
+    394
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    450,
+    425,
+    558,
+    438
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    450,
+    614,
+    468
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    474,
+    737,
+    492
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    516,
+    558,
+    529
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    541,
+    669,
+    559
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    565,
+    617,
+    583
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

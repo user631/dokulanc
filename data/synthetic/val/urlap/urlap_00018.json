@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Horváth Ilona",
+  "anyja_neve": "Király Mihály",
+  "szuletesi_hely": "Vác",
+  "szuletesi_datum": "1955.04.27.",
+  "lakcim": "H-4688 Pilistótnémeti, Nagykanizsai utca 172.",
+  "telefon": "+36 20 465 5555",
+  "email": "horvath.ilona@outlook.com",
+  "adoazonosito_jel": "8322577117",
+  "taj_szam": "194 910 293",
+  "kelt": "Tapolcaváros, 2024.12.18."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    372,
+    87,
+    867,
+    124
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    449,
+    144,
+    791,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    86,
+    198,
+    350,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    98,
+    250,
+    146,
+    267
+   ]
+  },
+  {
+   "text": "Horváth Ilona",
+   "bbox": [
+    402,
+    249,
+    562,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    305,
+    221,
+    324
+   ]
+  },
+  {
+   "text": "Király Mihály",
+   "bbox": [
+    402,
+    302,
+    550,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    98,
+    356,
+    246,
+    377
+   ]
+  },
+  {
+   "text": "Vác",
+   "bbox": [
+    402,
+    358,
+    444,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    98,
+    409,
+    233,
+    426
+   ]
+  },
+  {
+   "text": "1955.04.27.",
+   "bbox": [
+    402,
+    409,
+    546,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    98,
+    462,
+    176,
+    479
+   ]
+  },
+  {
+   "text": "H-4688 Pilistótnémeti, Nagykanizsai utca 172.",
+   "bbox": [
+    402,
+    460,
+    940,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    515,
+    232,
+    532
+   ]
+  },
+  {
+   "text": "+36 20 465 5555",
+   "bbox": [
+    402,
+    515,
+    610,
+    532
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    98,
+    568,
+    211,
+    585
+   ]
+  },
+  {
+   "text": "horvath.ilona@outlook.com",
+   "bbox": [
+    402,
+    572,
+    721,
+    593
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    621,
+    271,
+    642
+   ]
+  },
+  {
+   "text": "8322577117",
+   "bbox": [
+    402,
+    621,
+    552,
+    638
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    674,
+    201,
+    691
+   ]
+  },
+  {
+   "text": "194 910 293",
+   "bbox": [
+    402,
+    675,
+    553,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    86,
+    756,
+    295,
+    779
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    131,
+    798,
+    485,
+    819
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    131,
+    843,
+    297,
+    860
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    888,
+    504,
+    909
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    86,
+    993,
+    138,
+    1010
+   ]
+  },
+  {
+   "text": "Tapolcaváros, 2024.12.18.",
+   "bbox": [
+    176,
+    989,
+    488,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    936,
+    1042,
+    992,
+    1056
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

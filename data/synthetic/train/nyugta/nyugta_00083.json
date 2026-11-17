@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PATAKI ABC KFT.",
+  "uzlet_cim": "H-5143 Oroszgyörgyfalu, Szabadság utca 100.",
+  "adoszam": "81293580-3-02",
+  "datum": "2026.09.22.",
+  "ido": "09:36",
+  "nyugtaszam": "5214/21630",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 711 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "223"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8865"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "623"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PATAKI ABC KFT.",
+   "bbox": [
+    202,
+    34,
+    427,
+    50
+   ]
+  },
+  {
+   "text": "H-5143 Oroszgyörgyfalu, Szabadság utca 100.",
+   "bbox": [
+    35,
+    66,
+    594,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81293580-3-02",
+   "bbox": [
+    172,
+    92,
+    458,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    267,
+    138,
+    364,
+    155
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    180,
+    220,
+    201
+   ]
+  },
+  {
+   "text": "223 B00",
+   "bbox": [
+    508,
+    180,
+    606,
+    197
+   ]
+  },
+  {
+   "text": "3 DB x 2955",
+   "bbox": [
+    24,
+    211,
+    156,
+    225
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    236,
+    150,
+    253
+   ]
+  },
+  {
+   "text": "8865 C00",
+   "bbox": [
+    494,
+    236,
+    606,
+    253
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    267,
+    248,
+    284
+   ]
+  },
+  {
+   "text": "623 B00",
+   "bbox": [
+    508,
+    267,
+    606,
+    284
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    309,
+    184,
+    330
+   ]
+  },
+  {
+   "text": "9 711 Ft",
+   "bbox": [
+    478,
+    310,
+    606,
+    330
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    350,
+    164,
+    368
+   ]
+  },
+  {
+   "text": "9 711 Ft",
+   "bbox": [
+    494,
+    351,
+    606,
+    368
+   ]
+  },
+  {
+   "text": "2026.09.22.",
+   "bbox": [
+    24,
+    396,
+    167,
+    411
+   ]
+  },
+  {
+   "text": "09:36",
+   "bbox": [
+    541,
+    396,
+    606,
+    411
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5214/21630",
+   "bbox": [
+    24,
+    425,
+    310,
+    445
+   ]
+  },
+  {
+   "text": "AP A96663011",
+   "bbox": [
+    24,
+    458,
+    180,
+    473
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    172,
+    500,
+    458,
+    517
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  630,
+  562
+ ]
+}

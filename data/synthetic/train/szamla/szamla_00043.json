@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2025/08563",
+  "kiallitas_datuma": "2025. 03. 08.",
+  "teljesites_datuma": "2025. 03. 06.",
+  "fizetesi_hatarido": "2025. 03. 16.",
+  "elado_nev": "Balogh Trade Kft.",
+  "elado_cim": "H-1952 Mellékvég, Mártonvégi utca 126.",
+  "elado_adoszam": "42041715-2-27",
+  "vevo_nev": "Antal és Társa Kft.",
+  "vevo_cim": "H-8794 Tamásibánya, Dunakeszii utca 221.",
+  "vevo_adoszam": "30711480-5-11",
+  "bankszamla": "HU11 8386 3495 2169 3771 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "279 840 Ft",
+  "afa_osszesen": "75 557 Ft",
+  "brutto_osszesen": "355 397 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "4 hó",
+    "egysegar": "42 660",
+    "netto": "170 640",
+    "afa_kulcs": "27%",
+    "afa": "46 073",
+    "brutto": "216 713"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "109 200",
+    "netto": "109 200",
+    "afa_kulcs": "27%",
+    "afa": "29 484",
+    "brutto": "138 684"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH",
+   "bbox": [
+    115,
+    123,
+    219,
+    140
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1003,
+    105,
+    1153,
+    137
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2025/08563",
+   "bbox": [
+    852,
+    162,
+    1153,
+    181
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    86,
+    242,
+    157,
+    261
+   ]
+  },
+  {
+   "text": "Antal és Társa Kft.",
+   "bbox": [
+    87,
+    280,
+    313,
+    299
+   ]
+  },
+  {
+   "text": "H-8794 Tamásibánya, Dunakeszii utca 221.",
+   "bbox": [
+    87,
+    316,
+    547,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 30711480-5-11",
+   "bbox": [
+    86,
+    348,
+    359,
+    365
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    242,
+    709,
+    261
+   ]
+  },
+  {
+   "text": "Balogh Trade Kft.",
+   "bbox": [
+    630,
+    280,
+    846,
+    304
+   ]
+  },
+  {
+   "text": "H-1952 Mellékvég, Mártonvégi utca 126.",
+   "bbox": [
+    630,
+    316,
+    1056,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 42041715-2-27",
+   "bbox": [
+    629,
+    348,
+    902,
+    365
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    87,
+    416,
+    279,
+    435
+   ]
+  },
+  {
+   "text": "2025. 03. 08.",
+   "bbox": [
+    387,
+    418,
+    526,
+    435
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    87,
+    450,
+    296,
+    474
+   ]
+  },
+  {
+   "text": "2025. 03. 06.",
+   "bbox": [
+    387,
+    452,
+    526,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    87,
+    484,
+    285,
+    503
+   ]
+  },
+  {
+   "text": "2025. 03. 16.",
+   "bbox": [
+    387,
+    486,
+    526,
+    503
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    87,
+    518,
+    241,
+    537
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    387,
+    520,
+    487,
+    542
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    87,
+    565,
+    214,
+    585
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    566,
+    587,
+    585
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    565,
+    748,
+    585
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    821,
+    565,
+    875,
+    581
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    877,
+    562,
+    939,
+    582
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    562,
+    1042,
+    581
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1090,
+    565,
+    1153,
+    581
+   ]
+  },
+  {
+   "text": "4 hó",
+   "bbox": [
+    513,
+    609,
+    555,
+    624
+   ]
+  },
+  {
+   "text": "42 660",
+   "bbox": [
+    681,
+    609,
+    747,
+    624
+   ]
+  },
+  {
+   "text": "170 640",
+   "bbox": [
+    797,
+    609,
+    875,
+    624
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    609,
+    939,
+    624
+   ]
+  },
+  {
+   "text": "46 073",
+   "bbox": [
+    975,
+    609,
+    1041,
+    624
+   ]
+  },
+  {
+   "text": "216 713",
+   "bbox": [
+    1075,
+    609,
+    1153,
+    624
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    87,
+    609,
+    365,
+    628
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    646,
+    555,
+    661
+   ]
+  },
+  {
+   "text": "109 200",
+   "bbox": [
+    669,
+    646,
+    747,
+    661
+   ]
+  },
+  {
+   "text": "109 200",
+   "bbox": [
+    797,
+    646,
+    875,
+    661
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    646,
+    939,
+    661
+   ]
+  },
+  {
+   "text": "29 484",
+   "bbox": [
+    975,
+    646,
+    1041,
+    661
+   ]
+  },
+  {
+   "text": "138 684",
+   "bbox": [
+    1075,
+    646,
+    1153,
+    661
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    87,
+    646,
+    196,
+    661
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    641,
+    703,
+    823,
+    721
+   ]
+  },
+  {
+   "text": "279 840 Ft",
+   "bbox": [
+    1033,
+    703,
+    1153,
+    721
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    651,
+    736,
+    823,
+    759
+   ]
+  },
+  {
+   "text": "75 557 Ft",
+   "bbox": [
+    1047,
+    741,
+    1153,
+    759
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    579,
+    777,
+    823,
+    797
+   ]
+  },
+  {
+   "text": "355 397 Ft",
+   "bbox": [
+    1032,
+    779,
+    1154,
+    797
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU11 8386 3495 2169 3771 0000 0000",
+   "bbox": [
+    87,
+    846,
+    690,
+    863
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    87,
+    878,
+    704,
+    897
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Lukács Gergő",
+  "anyja_neve": "Major Mónika",
+  "szuletesi_hely": "Tatabánya",
+  "szuletesi_datum": "1962. 05. 02.",
+  "lakcim": "H-2183 Mindszentváros, Mindszentváradi utca 6.",
+  "telefon": "+36 70 405 3780",
+  "email": "lukacs.gergo@example.hu",
+  "adoazonosito_jel": "8348199004",
+  "taj_szam": "627 798 588",
+  "kelt": "Szentmellékvára, 2026. 01. 24."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    413,
+    106,
+    827,
+    138
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    212,
+    315,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    266,
+    155,
+    279
+   ]
+  },
+  {
+   "text": "Lukács Gergő",
+   "bbox": [
+    431,
+    264,
+    588,
+    290
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    317,
+    212,
+    334
+   ]
+  },
+  {
+   "text": "Major Mónika",
+   "bbox": [
+    431,
+    310,
+    593,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    368,
+    234,
+    385
+   ]
+  },
+  {
+   "text": "Tatabánya",
+   "bbox": [
+    431,
+    365,
+    555,
+    391
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    419,
+    225,
+    432
+   ]
+  },
+  {
+   "text": "1962. 05. 02.",
+   "bbox": [
+    431,
+    418,
+    603,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    470,
+    181,
+    483
+   ]
+  },
+  {
+   "text": "H-2183 Mindszentváros, Mindszentváradi utca 6.",
+   "bbox": [
+    431,
+    465,
+    1026,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    521,
+    226,
+    534
+   ]
+  },
+  {
+   "text": "+36 70 405 3780",
+   "bbox": [
+    431,
+    521,
+    658,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    572,
+    208,
+    585
+   ]
+  },
+  {
+   "text": "lukacs.gergo@example.hu",
+   "bbox": [
+    431,
+    570,
+    720,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    623,
+    256,
+    640
+   ]
+  },
+  {
+   "text": "8348199004",
+   "bbox": [
+    431,
+    624,
+    601,
+    641
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    674,
+    203,
+    687
+   ]
+  },
+  {
+   "text": "627 798 588",
+   "bbox": [
+    431,
+    673,
+    602,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    751,
+    268,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    795,
+    434,
+    812
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    840,
+    281,
+    853
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    885,
+    449,
+    902
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    986,
+    144,
+    1000
+   ]
+  },
+  {
+   "text": "Szentmellékvára, 2026. 01. 24.",
+   "bbox": [
+    196,
+    987,
+    535,
+    1008
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1035,
+    966,
+    1046
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

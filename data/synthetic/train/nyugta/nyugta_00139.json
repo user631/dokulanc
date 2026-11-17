@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BALLA ÉLELMISZER KFT.",
+  "uzlet_cim": "H-8836 Mellékvár, Mosonmindszenti utca 54.",
+  "adoszam": "85383102-2-11",
+  "datum": "2026.11.15.",
+  "ido": "21:26",
+  "nyugtaszam": "8838/56773",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "4 979 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "329"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "933"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1287"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2371"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "59"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALLA ÉLELMISZER KFT.",
+   "bbox": [
+    123,
+    28,
+    417,
+    49
+   ]
+  },
+  {
+   "text": "H-8836 Mellékvár, Mosonmindszenti utca",
+   "bbox": [
+    42,
+    66,
+    498,
+    85
+   ]
+  },
+  {
+   "text": "54.",
+   "bbox": [
+    252,
+    95,
+    288,
+    108
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 85383102-2-11",
+   "bbox": [
+    138,
+    118,
+    402,
+    135
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    164,
+    315,
+    181
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    207,
+    167,
+    227
+   ]
+  },
+  {
+   "text": "329 C00",
+   "bbox": [
+    426,
+    208,
+    517,
+    223
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    239,
+    180,
+    254
+   ]
+  },
+  {
+   "text": "933 C00",
+   "bbox": [
+    426,
+    239,
+    517,
+    254
+   ]
+  },
+  {
+   "text": "3 DB x 429",
+   "bbox": [
+    24,
+    269,
+    134,
+    282
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    295,
+    206,
+    310
+   ]
+  },
+  {
+   "text": "1287 B00",
+   "bbox": [
+    413,
+    295,
+    517,
+    310
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    326,
+    271,
+    341
+   ]
+  },
+  {
+   "text": "2371 C00",
+   "bbox": [
+    413,
+    326,
+    517,
+    341
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    357,
+    102,
+    372
+   ]
+  },
+  {
+   "text": "59 C00",
+   "bbox": [
+    439,
+    357,
+    517,
+    372
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    396,
+    174,
+    418
+   ]
+  },
+  {
+   "text": "4 979 Ft",
+   "bbox": [
+    397,
+    401,
+    517,
+    418
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    436,
+    154,
+    456
+   ]
+  },
+  {
+   "text": "4 979 Ft",
+   "bbox": [
+    413,
+    441,
+    517,
+    456
+   ]
+  },
+  {
+   "text": "2026.11.15.",
+   "bbox": [
+    24,
+    486,
+    156,
+    499
+   ]
+  },
+  {
+   "text": "21:26",
+   "bbox": [
+    457,
+    486,
+    517,
+    499
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8838/56773",
+   "bbox": [
+    24,
+    513,
+    288,
+    532
+   ]
+  },
+  {
+   "text": "AP A99439481",
+   "bbox": [
+    24,
+    548,
+    168,
+    561
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    210,
+    587,
+    330,
+    605
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  541,
+  651
+ ]
+}

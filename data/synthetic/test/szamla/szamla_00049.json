@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/00441",
+  "kiallitas_datuma": "2024-05-16",
+  "teljesites_datuma": "2024-05-14",
+  "fizetesi_hatarido": "2024-05-31",
+  "elado_nev": "Gulyás és Társa Kft.",
+  "elado_cim": "H-7137 Mosontapolcavárad, Arany jános utca 135.",
+  "elado_adoszam": "14823574-5-18",
+  "vevo_nev": "Fekete Zrt.",
+  "vevo_cim": "H-1752 Ózd, Németmártoni utca 1.",
+  "vevo_adoszam": "10411511-2-24",
+  "bankszamla": "HU89 9231 5268 1279 2495 8776 9347",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "227 050 Ft",
+  "afa_osszesen": "61 304 Ft",
+  "brutto_osszesen": "288 354 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "45 410",
+    "netto": "227 050",
+    "afa_kulcs": "27%",
+    "afa": "61 304",
+    "brutto": "288 354"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "GULYÁS",
+   "bbox": [
+    135,
+    135,
+    232,
+    159
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    963,
+    115,
+    1136,
+    158
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/00441",
+   "bbox": [
+    856,
+    180,
+    1136,
+    203
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    104,
+    259,
+    179,
+    279
+   ]
+  },
+  {
+   "text": "Gulyás és Társa Kft.",
+   "bbox": [
+    104,
+    295,
+    340,
+    320
+   ]
+  },
+  {
+   "text": "H-7137 Mosontapolcavárad, Arany jános utca 135.",
+   "bbox": [
+    104,
+    329,
+    597,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 14823574-5-18",
+   "bbox": [
+    103,
+    359,
+    354,
+    377
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    259,
+    698,
+    279
+   ]
+  },
+  {
+   "text": "Fekete Zrt.",
+   "bbox": [
+    630,
+    296,
+    760,
+    315
+   ]
+  },
+  {
+   "text": "H-1752 Ózd, Németmártoni utca 1.",
+   "bbox": [
+    630,
+    325,
+    972,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 10411511-2-24",
+   "bbox": [
+    629,
+    359,
+    880,
+    377
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    104,
+    427,
+    291,
+    445
+   ]
+  },
+  {
+   "text": "2024-05-16",
+   "bbox": [
+    404,
+    429,
+    516,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    104,
+    459,
+    307,
+    481
+   ]
+  },
+  {
+   "text": "2024-05-14",
+   "bbox": [
+    404,
+    461,
+    516,
+    477
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    104,
+    491,
+    297,
+    509
+   ]
+  },
+  {
+   "text": "2024-05-31",
+   "bbox": [
+    404,
+    493,
+    516,
+    509
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    104,
+    523,
+    252,
+    541
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    404,
+    523,
+    481,
+    541
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    104,
+    566,
+    220,
+    586
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    568,
+    585,
+    586
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    566,
+    744,
+    586
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    813,
+    566,
+    867,
+    582
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    868,
+    563,
+    929,
+    582
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    563,
+    1028,
+    582
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1075,
+    566,
+    1136,
+    582
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    516,
+    608,
+    553,
+    623
+   ]
+  },
+  {
+   "text": "45 410",
+   "bbox": [
+    687,
+    609,
+    743,
+    623
+   ]
+  },
+  {
+   "text": "227 050",
+   "bbox": [
+    801,
+    609,
+    867,
+    623
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    609,
+    929,
+    623
+   ]
+  },
+  {
+   "text": "61 304",
+   "bbox": [
+    971,
+    609,
+    1027,
+    623
+   ]
+  },
+  {
+   "text": "288 354",
+   "bbox": [
+    1070,
+    609,
+    1136,
+    623
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    104,
+    608,
+    340,
+    627
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    647,
+    663,
+    806,
+    682
+   ]
+  },
+  {
+   "text": "227 050 Ft",
+   "bbox": [
+    1024,
+    665,
+    1136,
+    682
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    695,
+    806,
+    718
+   ]
+  },
+  {
+   "text": "61 304 Ft",
+   "bbox": [
+    1037,
+    701,
+    1136,
+    718
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    675,
+    736,
+    806,
+    759
+   ]
+  },
+  {
+   "text": "288 354 Ft",
+   "bbox": [
+    1009,
+    737,
+    1136,
+    754
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU89 9231 5268 1279 2495 8776 9347",
+   "bbox": [
+    104,
+    801,
+    629,
+    818
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    490,
+    1632,
+    749,
+    1649
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

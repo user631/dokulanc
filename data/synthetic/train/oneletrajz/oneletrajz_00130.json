@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár József",
+  "email": "molnar.jozsef@gmail.com",
+  "telefon": "06 1 743 9980",
+  "lakcim": "H-5714 Váctamásivárad, Békéscsabai utca 95.",
+  "szuletesi_datum": "1999. 05. 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2022 – 2024"
+   },
+   {
+    "ceg": "Nagy Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Git",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    217,
+    123
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    104,
+    161
+   ]
+  },
+  {
+   "text": "molnar.jozsef@gmail.com",
+   "bbox": [
+    40,
+    169,
+    276,
+    187
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    115,
+    215
+   ]
+  },
+  {
+   "text": "06 1 743 9980",
+   "bbox": [
+    40,
+    224,
+    168,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    255,
+    111,
+    269
+   ]
+  },
+  {
+   "text": "H-5714 Váctamásivárad, Békéscsabai",
+   "bbox": [
+    40,
+    277,
+    380,
+    294
+   ]
+  },
+  {
+   "text": "utca 95.",
+   "bbox": [
+    40,
+    300,
+    113,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    331,
+    203,
+    345
+   ]
+  },
+  {
+   "text": "1999. 05. 14.",
+   "bbox": [
+    40,
+    354,
+    161,
+    367
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    411,
+    205,
+    433
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    453,
+    142,
+    472
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    479,
+    142,
+    498
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    531,
+    184,
+    553
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    574,
+    91,
+    588
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    600,
+    68,
+    614
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    625,
+    167,
+    644
+   ]
+  },
+  {
+   "text": "Molnár József",
+   "bbox": [
+    450,
+    109,
+    789,
+    146
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    178,
+    650,
+    197
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    720,
+    264
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    290,
+    581,
+    305
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szabó Logisztika Bt.",
+   "bbox": [
+    450,
+    313,
+    1037,
+    334
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    450,
+    354,
+    581,
+    369
+   ]
+  },
+  {
+   "text": "projektmenedzser – Nagy Tech Kft.",
+   "bbox": [
+    450,
+    377,
+    866,
+    398
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    427,
+    630,
+    452
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    450,
+    478,
+    581,
+    493
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    501,
+    662,
+    522
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    524,
+    583,
+    545
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    566,
+    581,
+    581
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    589,
+    732,
+    610
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    613,
+    646,
+    633
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

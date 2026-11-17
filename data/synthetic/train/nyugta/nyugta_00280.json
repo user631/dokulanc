@@ -1,0 +1,239 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MÉSZÁROS KISBOLT BT.",
+  "uzlet_cim": "H-4621 Vácmelléknémeti, Tatabányai tér 225.",
+  "adoszam": "32025899-2-36",
+  "datum": "2026.12.28.",
+  "ido": "18:24",
+  "nyugtaszam": "9955/69255",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 543 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1574"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6936"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "565"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "468"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÉSZÁROS KISBOLT BT.",
+   "bbox": [
+    165,
+    31,
+    445,
+    49
+   ]
+  },
+  {
+   "text": "H-4621 Vácmelléknémeti, Tatabányai tér 225.",
+   "bbox": [
+    68,
+    63,
+    541,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 32025899-2-36",
+   "bbox": [
+    184,
+    88,
+    426,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    131,
+    350,
+    147
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    174,
+    193,
+    187
+   ]
+  },
+  {
+   "text": "1574 C00",
+   "bbox": [
+    482,
+    172,
+    586,
+    187
+   ]
+  },
+  {
+   "text": "3 DB x 2312",
+   "bbox": [
+    24,
+    201,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    224,
+    271,
+    239
+   ]
+  },
+  {
+   "text": "6936 B00",
+   "bbox": [
+    482,
+    224,
+    586,
+    239
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    253,
+    128,
+    268
+   ]
+  },
+  {
+   "text": "565 B00",
+   "bbox": [
+    495,
+    253,
+    586,
+    268
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    282,
+    141,
+    297
+   ]
+  },
+  {
+   "text": "468 C00",
+   "bbox": [
+    495,
+    282,
+    586,
+    297
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    321,
+    159,
+    341
+   ]
+  },
+  {
+   "text": "10 543 Ft",
+   "bbox": [
+    451,
+    323,
+    586,
+    341
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    360,
+    154,
+    377
+   ]
+  },
+  {
+   "text": "10 543 Ft",
+   "bbox": [
+    469,
+    362,
+    586,
+    377
+   ]
+  },
+  {
+   "text": "2026.12.28.",
+   "bbox": [
+    24,
+    404,
+    145,
+    418
+   ]
+  },
+  {
+   "text": "18:24",
+   "bbox": [
+    531,
+    404,
+    586,
+    418
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9955/69255",
+   "bbox": [
+    24,
+    432,
+    266,
+    450
+   ]
+  },
+  {
+   "text": "AP A80433760",
+   "bbox": [
+    24,
+    462,
+    156,
+    476
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    215,
+    502,
+    395,
+    518
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  610,
+  563
+ ]
+}

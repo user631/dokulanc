@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fodor Nikoletta",
+  "email": "fodor.nikoletta@citromail.hu",
+  "telefon": "+36 30 882 9248",
+  "lakcim": "H-8508 Szombathely, Szigetszentmiklósi utca 99.",
+  "szuletesi_datum": "1988.09.25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2007 – 2012"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2011 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "SQL",
+   "Java",
+   "Git",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    200,
+    126
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    151,
+    98,
+    166
+   ]
+  },
+  {
+   "text": "fodor.nikoletta@citromail.hu",
+   "bbox": [
+    40,
+    175,
+    304,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    112,
+    224
+   ]
+  },
+  {
+   "text": "+36 30 882 9248",
+   "bbox": [
+    40,
+    234,
+    178,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    106,
+    282
+   ]
+  },
+  {
+   "text": "H-8508 Szombathely,",
+   "bbox": [
+    40,
+    291,
+    229,
+    310
+   ]
+  },
+  {
+   "text": "Szigetszentmiklósi utca 99.",
+   "bbox": [
+    40,
+    314,
+    286,
+    334
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    349,
+    192,
+    364
+   ]
+  },
+  {
+   "text": "1988.09.25.",
+   "bbox": [
+    40,
+    374,
+    141,
+    388
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    435,
+    186,
+    456
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    478,
+    150,
+    497
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    506,
+    155,
+    525
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    561,
+    166,
+    582
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    604,
+    136,
+    623
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    632,
+    75,
+    650
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    660,
+    82,
+    675
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    688,
+    68,
+    703
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    716,
+    105,
+    731
+   ]
+  },
+  {
+   "text": "Fodor Nikoletta",
+   "bbox": [
+    450,
+    113,
+    787,
+    147
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    183,
+    646,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    246,
+    691,
+    271
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    450,
+    298,
+    568,
+    314
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Bt.",
+   "bbox": [
+    450,
+    324,
+    743,
+    346
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    377,
+    613,
+    401
+   ]
+  },
+  {
+   "text": "2007 – 2012",
+   "bbox": [
+    450,
+    428,
+    568,
+    444
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    454,
+    643,
+    476
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    478,
+    781,
+    501
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    522,
+    568,
+    538
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    548,
+    757,
+    570
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    573,
+    647,
+    595
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

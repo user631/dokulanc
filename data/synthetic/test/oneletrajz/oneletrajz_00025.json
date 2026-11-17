@@ -1,0 +1,298 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár Gábor",
+  "email": "molnar.gabor@outlook.com",
+  "telefon": "+36 30 245 9715",
+  "lakcim": "H-4298 Keresztberény, Kunháti utca 16.",
+  "szuletesi_datum": "1996.08.26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Tech Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2018 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "SQL",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    161,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    83,
+    155
+   ]
+  },
+  {
+   "text": "molnar.gabor@outlook.com",
+   "bbox": [
+    40,
+    164,
+    237,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    195,
+    93,
+    207
+   ]
+  },
+  {
+   "text": "+36 30 245 9715",
+   "bbox": [
+    40,
+    217,
+    159,
+    228
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    247,
+    88,
+    259
+   ]
+  },
+  {
+   "text": "H-4298 Keresztberény, Kunháti utca 16.",
+   "bbox": [
+    40,
+    268,
+    317,
+    283
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    299,
+    153,
+    311
+   ]
+  },
+  {
+   "text": "1996.08.26.",
+   "bbox": [
+    40,
+    321,
+    124,
+    332
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    379,
+    156,
+    396
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    419,
+    120,
+    434
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    444,
+    113,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    496,
+    136,
+    513
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    536,
+    126,
+    551
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    562,
+    68,
+    575
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    586,
+    91,
+    601
+   ]
+  },
+  {
+   "text": "Molnár Gábor",
+   "bbox": [
+    450,
+    104,
+    700,
+    134
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    171,
+    546,
+    194
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    637,
+    255
+   ]
+  },
+  {
+   "text": "2018 – 2020",
+   "bbox": [
+    450,
+    285,
+    547,
+    297
+   ]
+  },
+  {
+   "text": "projektmenedzser – Nagy Tech Bt.",
+   "bbox": [
+    450,
+    306,
+    735,
+    324
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    356,
+    578,
+    376
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    406,
+    547,
+    418
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    427,
+    734,
+    445
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    451,
+    708,
+    467
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    491,
+    547,
+    503
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    513,
+    651,
+    530
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    536,
+    600,
+    552
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

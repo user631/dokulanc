@@ -1,0 +1,849 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2025/04810",
+  "kiallitas_datuma": "2025. december 6.",
+  "teljesites_datuma": "2025. december 5.",
+  "fizetesi_hatarido": "2025. december 14.",
+  "elado_nev": "Kiss és Társa Kft.",
+  "elado_cim": "H-8553 Kereszthalas, Belsőmindszenti utca 223.",
+  "elado_adoszam": "83008816-4-36",
+  "vevo_nev": "Nagy Szolgáltató Zrt.",
+  "vevo_cim": "H-9439 Eger, Petőfi tér 224.",
+  "vevo_adoszam": "37396480-2-05",
+  "bankszamla": "HU05 0602 8657 6332 1177 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "478 810 Ft",
+  "afa_osszesen": "92 460 Ft",
+  "brutto_osszesen": "571 270 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "9 400",
+    "netto": "9 400",
+    "afa_kulcs": "27%",
+    "afa": "2 538",
+    "brutto": "11 938"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "2 130",
+    "netto": "21 300",
+    "afa_kulcs": "27%",
+    "afa": "5 751",
+    "brutto": "27 051"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "680",
+    "netto": "680",
+    "afa_kulcs": "5%",
+    "afa": "34",
+    "brutto": "714"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "141 120",
+    "netto": "141 120",
+    "afa_kulcs": "27%",
+    "afa": "38 102",
+    "brutto": "179 222"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "5 óra",
+    "egysegar": "25 130",
+    "netto": "125 650",
+    "afa_kulcs": "27%",
+    "afa": "33 926",
+    "brutto": "159 576"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "2 db",
+    "egysegar": "6 990",
+    "netto": "13 980",
+    "afa_kulcs": "27%",
+    "afa": "3 775",
+    "brutto": "17 755"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "12 év",
+    "egysegar": "13 890",
+    "netto": "166 680",
+    "afa_kulcs": "5%",
+    "afa": "8 334",
+    "brutto": "175 014"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS",
+   "bbox": [
+    132,
+    109,
+    173,
+    124
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    803,
+    85,
+    1167,
+    116
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/04810",
+   "bbox": [
+    907,
+    144,
+    1167,
+    167
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    73,
+    225,
+    140,
+    243
+   ]
+  },
+  {
+   "text": "Kiss és Társa Kft.",
+   "bbox": [
+    73,
+    263,
+    250,
+    281
+   ]
+  },
+  {
+   "text": "H-8553 Kereszthalas, Belsőmindszenti utca 223.",
+   "bbox": [
+    73,
+    299,
+    537,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 83008816-4-36",
+   "bbox": [
+    73,
+    330,
+    319,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    226,
+    691,
+    243
+   ]
+  },
+  {
+   "text": "Nagy Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    263,
+    851,
+    286
+   ]
+  },
+  {
+   "text": "H-9439 Eger, Petőfi tér 224.",
+   "bbox": [
+    630,
+    298,
+    897,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 37396480-2-05",
+   "bbox": [
+    630,
+    330,
+    876,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    73,
+    401,
+    242,
+    417
+   ]
+  },
+  {
+   "text": "2025. december 6.",
+   "bbox": [
+    373,
+    401,
+    554,
+    417
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    73,
+    435,
+    257,
+    455
+   ]
+  },
+  {
+   "text": "2025. december 5.",
+   "bbox": [
+    373,
+    435,
+    554,
+    451
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    73,
+    469,
+    246,
+    485
+   ]
+  },
+  {
+   "text": "2025. december 14.",
+   "bbox": [
+    373,
+    469,
+    566,
+    485
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    73,
+    503,
+    206,
+    519
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    373,
+    502,
+    461,
+    523
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    73,
+    549,
+    182,
+    567
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    550,
+    577,
+    567
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    549,
+    752,
+    567
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    832,
+    549,
+    882,
+    563
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    897,
+    546,
+    948,
+    563
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1016,
+    546,
+    1052,
+    563
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1112,
+    549,
+    1167,
+    563
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    510,
+    592,
+    554,
+    606
+   ]
+  },
+  {
+   "text": "9 400",
+   "bbox": [
+    702,
+    593,
+    751,
+    606
+   ]
+  },
+  {
+   "text": "9 400",
+   "bbox": [
+    833,
+    593,
+    882,
+    606
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    592,
+    948,
+    606
+   ]
+  },
+  {
+   "text": "2 538",
+   "bbox": [
+    1003,
+    593,
+    1052,
+    606
+   ]
+  },
+  {
+   "text": "11 938",
+   "bbox": [
+    1107,
+    593,
+    1167,
+    606
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    73,
+    592,
+    302,
+    610
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    510,
+    629,
+    605,
+    643
+   ]
+  },
+  {
+   "text": "2 130",
+   "bbox": [
+    702,
+    630,
+    751,
+    643
+   ]
+  },
+  {
+   "text": "21 300",
+   "bbox": [
+    822,
+    630,
+    882,
+    643
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    629,
+    948,
+    643
+   ]
+  },
+  {
+   "text": "5 751",
+   "bbox": [
+    1003,
+    630,
+    1052,
+    643
+   ]
+  },
+  {
+   "text": "27 051",
+   "bbox": [
+    1107,
+    630,
+    1167,
+    643
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    73,
+    629,
+    172,
+    647
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    666,
+    548,
+    680
+   ]
+  },
+  {
+   "text": "680",
+   "bbox": [
+    718,
+    667,
+    751,
+    680
+   ]
+  },
+  {
+   "text": "680",
+   "bbox": [
+    849,
+    667,
+    882,
+    680
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    922,
+    666,
+    948,
+    680
+   ]
+  },
+  {
+   "text": "34",
+   "bbox": [
+    1030,
+    667,
+    1052,
+    680
+   ]
+  },
+  {
+   "text": "714",
+   "bbox": [
+    1134,
+    667,
+    1167,
+    680
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    73,
+    666,
+    173,
+    684
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    510,
+    703,
+    594,
+    717
+   ]
+  },
+  {
+   "text": "141 120",
+   "bbox": [
+    680,
+    704,
+    751,
+    717
+   ]
+  },
+  {
+   "text": "141 120",
+   "bbox": [
+    811,
+    704,
+    882,
+    717
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    703,
+    948,
+    717
+   ]
+  },
+  {
+   "text": "38 102",
+   "bbox": [
+    992,
+    704,
+    1052,
+    717
+   ]
+  },
+  {
+   "text": "179 222",
+   "bbox": [
+    1096,
+    704,
+    1167,
+    717
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    73,
+    703,
+    252,
+    721
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    510,
+    740,
+    554,
+    754
+   ]
+  },
+  {
+   "text": "25 130",
+   "bbox": [
+    691,
+    741,
+    751,
+    754
+   ]
+  },
+  {
+   "text": "125 650",
+   "bbox": [
+    811,
+    741,
+    882,
+    754
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    740,
+    948,
+    754
+   ]
+  },
+  {
+   "text": "33 926",
+   "bbox": [
+    992,
+    741,
+    1052,
+    754
+   ]
+  },
+  {
+   "text": "159 576",
+   "bbox": [
+    1096,
+    741,
+    1167,
+    754
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    73,
+    740,
+    170,
+    754
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    510,
+    777,
+    548,
+    791
+   ]
+  },
+  {
+   "text": "6 990",
+   "bbox": [
+    702,
+    778,
+    751,
+    791
+   ]
+  },
+  {
+   "text": "13 980",
+   "bbox": [
+    822,
+    778,
+    882,
+    791
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    777,
+    948,
+    791
+   ]
+  },
+  {
+   "text": "3 775",
+   "bbox": [
+    1003,
+    778,
+    1052,
+    791
+   ]
+  },
+  {
+   "text": "17 755",
+   "bbox": [
+    1107,
+    778,
+    1167,
+    791
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    73,
+    777,
+    220,
+    795
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    510,
+    814,
+    557,
+    828
+   ]
+  },
+  {
+   "text": "13 890",
+   "bbox": [
+    691,
+    815,
+    751,
+    828
+   ]
+  },
+  {
+   "text": "166 680",
+   "bbox": [
+    811,
+    815,
+    882,
+    828
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    922,
+    814,
+    948,
+    828
+   ]
+  },
+  {
+   "text": "8 334",
+   "bbox": [
+    1003,
+    815,
+    1052,
+    828
+   ]
+  },
+  {
+   "text": "175 014",
+   "bbox": [
+    1096,
+    815,
+    1167,
+    828
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    73,
+    814,
+    305,
+    832
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    677,
+    870,
+    837,
+    888
+   ]
+  },
+  {
+   "text": "478 810 Ft",
+   "bbox": [
+    1058,
+    872,
+    1167,
+    888
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    695,
+    905,
+    837,
+    926
+   ]
+  },
+  {
+   "text": "92 460 Ft",
+   "bbox": [
+    1071,
+    910,
+    1167,
+    926
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    722,
+    946,
+    837,
+    968
+   ]
+  },
+  {
+   "text": "571 270 Ft",
+   "bbox": [
+    1057,
+    948,
+    1167,
+    964
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU05 0602 8657 6332 1177 0000 0000",
+   "bbox": [
+    73,
+    1014,
+    611,
+    1031
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    73,
+    1046,
+    646,
+    1064
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    485,
+    1663,
+    754,
+    1679
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

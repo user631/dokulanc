@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Molnár János",
+  "email": "molnar.janos@gmail.com",
+  "telefon": "+36 20 733 4146",
+  "lakcim": "H-6503 Szigetszentmiklós, Béke utca 61.",
+  "szuletesi_datum": "1987. március 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2005 – 2010"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lukács Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "ceg": "Horváth Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Java",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Molnár János",
+   "bbox": [
+    478,
+    121,
+    762,
+    155
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    525,
+    184,
+    714,
+    207
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    235,
+    150,
+    249
+   ]
+  },
+  {
+   "text": "molnar.janos@gmail.com",
+   "bbox": [
+    330,
+    235,
+    544,
+    253
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    162,
+    278
+   ]
+  },
+  {
+   "text": "+36 20 733 4146",
+   "bbox": [
+    330,
+    265,
+    468,
+    278
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    157,
+    307
+   ]
+  },
+  {
+   "text": "H-6503 Szigetszentmiklós, Béke utca 61.",
+   "bbox": [
+    330,
+    293,
+    664,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    322,
+    235,
+    336
+   ]
+  },
+  {
+   "text": "1987. március 11.",
+   "bbox": [
+    330,
+    322,
+    474,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    302,
+    394
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    421,
+    190,
+    434
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Lukács Tech Kft.",
+   "bbox": [
+    90,
+    443,
+    462,
+    463
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    483,
+    190,
+    496
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Horváth Tech Kft.",
+   "bbox": [
+    90,
+    505,
+    438,
+    525
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    555,
+    237,
+    577
+   ]
+  },
+  {
+   "text": "2005 – 2010",
+   "bbox": [
+    90,
+    604,
+    190,
+    617
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    626,
+    412,
+    646
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    649,
+    231,
+    667
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    689,
+    190,
+    702
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    711,
+    318,
+    731
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    734,
+    254,
+    752
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    784,
+    210,
+    806
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    832,
+    176,
+    850
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    878,
+    200,
+    900
+   ]
+  },
+  {
+   "text": "Docker, Java, C#, ügyfélkezelés",
+   "bbox": [
+    90,
+    926,
+    348,
+    944
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

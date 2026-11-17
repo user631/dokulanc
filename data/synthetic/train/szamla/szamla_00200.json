@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2024/07493",
+  "kiallitas_datuma": "2024. március 27.",
+  "teljesites_datuma": "2024. március 26.",
+  "fizetesi_hatarido": "2024. április 11.",
+  "elado_nev": "Hegedüs Consulting Bt.",
+  "elado_cim": "H-6430 Hajdútamásihida, Oroszkereszti utca 52.",
+  "elado_adoszam": "26957081-2-05",
+  "vevo_nev": "Molnár Trade Kft.",
+  "vevo_cim": "H-1916 Tatabánya, József attila utca 235.",
+  "vevo_adoszam": "34781375-5-27",
+  "bankszamla": "63701146-79022688",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "353 690 Ft",
+  "afa_osszesen": "95 330 Ft",
+  "brutto_osszesen": "449 020 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "147 750",
+    "netto": "147 750",
+    "afa_kulcs": "27%",
+    "afa": "39 892",
+    "brutto": "187 642"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 840",
+    "netto": "1 840",
+    "afa_kulcs": "18%",
+    "afa": "331",
+    "brutto": "2 171"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "3 400",
+    "netto": "3 400",
+    "afa_kulcs": "27%",
+    "afa": "918",
+    "brutto": "4 318"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "10 óra",
+    "egysegar": "20 070",
+    "netto": "200 700",
+    "afa_kulcs": "27%",
+    "afa": "54 189",
+    "brutto": "254 889"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HEGEDÜS",
+   "bbox": [
+    110,
+    114,
+    213,
+    136
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1023,
+    101,
+    1158,
+    132
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2024/07493",
+   "bbox": [
+    890,
+    156,
+    1158,
+    175
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    237,
+    153,
+    255
+   ]
+  },
+  {
+   "text": "Hegedüs Consulting Bt.",
+   "bbox": [
+    82,
+    273,
+    340,
+    296
+   ]
+  },
+  {
+   "text": "H-6430 Hajdútamásihida, Oroszkereszti utca 52.",
+   "bbox": [
+    82,
+    305,
+    563,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 26957081-2-05",
+   "bbox": [
+    82,
+    335,
+    331,
+    353
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    238,
+    695,
+    255
+   ]
+  },
+  {
+   "text": "Molnár Trade Kft.",
+   "bbox": [
+    630,
+    273,
+    829,
+    291
+   ]
+  },
+  {
+   "text": "H-1916 Tatabánya, József attila utca 235.",
+   "bbox": [
+    630,
+    305,
+    1051,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 34781375-5-27",
+   "bbox": [
+    630,
+    335,
+    879,
+    353
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    404,
+    257,
+    421
+   ]
+  },
+  {
+   "text": "2024. március 27.",
+   "bbox": [
+    382,
+    403,
+    561,
+    421
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    436,
+    275,
+    458
+   ]
+  },
+  {
+   "text": "2024. március 26.",
+   "bbox": [
+    382,
+    435,
+    561,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    468,
+    267,
+    485
+   ]
+  },
+  {
+   "text": "2024. április 11.",
+   "bbox": [
+    382,
+    467,
+    544,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    500,
+    224,
+    517
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    382,
+    499,
+    463,
+    517
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    544,
+    189,
+    562
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    544,
+    576,
+    562
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    544,
+    749,
+    562
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    544,
+    878,
+    558
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    540,
+    942,
+    558
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    540,
+    1045,
+    558
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1101,
+    544,
+    1158,
+    558
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    512,
+    584,
+    548,
+    599
+   ]
+  },
+  {
+   "text": "147 750",
+   "bbox": [
+    683,
+    585,
+    749,
+    599
+   ]
+  },
+  {
+   "text": "147 750",
+   "bbox": [
+    812,
+    585,
+    878,
+    599
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    585,
+    942,
+    599
+   ]
+  },
+  {
+   "text": "39 892",
+   "bbox": [
+    989,
+    585,
+    1045,
+    599
+   ]
+  },
+  {
+   "text": "187 642",
+   "bbox": [
+    1092,
+    585,
+    1158,
+    599
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    82,
+    584,
+    326,
+    603
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    512,
+    620,
+    583,
+    634
+   ]
+  },
+  {
+   "text": "1 840",
+   "bbox": [
+    703,
+    620,
+    749,
+    634
+   ]
+  },
+  {
+   "text": "1 840",
+   "bbox": [
+    832,
+    620,
+    878,
+    634
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    911,
+    620,
+    942,
+    634
+   ]
+  },
+  {
+   "text": "331",
+   "bbox": [
+    1015,
+    620,
+    1045,
+    634
+   ]
+  },
+  {
+   "text": "2 171",
+   "bbox": [
+    1112,
+    620,
+    1158,
+    634
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    82,
+    616,
+    207,
+    638
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    655,
+    550,
+    669
+   ]
+  },
+  {
+   "text": "3 400",
+   "bbox": [
+    703,
+    655,
+    749,
+    669
+   ]
+  },
+  {
+   "text": "3 400",
+   "bbox": [
+    832,
+    655,
+    878,
+    669
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    655,
+    942,
+    669
+   ]
+  },
+  {
+   "text": "918",
+   "bbox": [
+    1015,
+    655,
+    1045,
+    669
+   ]
+  },
+  {
+   "text": "4 318",
+   "bbox": [
+    1112,
+    655,
+    1158,
+    669
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    82,
+    654,
+    249,
+    673
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    512,
+    689,
+    565,
+    704
+   ]
+  },
+  {
+   "text": "20 070",
+   "bbox": [
+    693,
+    690,
+    749,
+    704
+   ]
+  },
+  {
+   "text": "200 700",
+   "bbox": [
+    812,
+    690,
+    878,
+    704
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    690,
+    942,
+    704
+   ]
+  },
+  {
+   "text": "54 189",
+   "bbox": [
+    989,
+    690,
+    1045,
+    704
+   ]
+  },
+  {
+   "text": "254 889",
+   "bbox": [
+    1092,
+    690,
+    1158,
+    704
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    82,
+    689,
+    179,
+    704
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    666,
+    745,
+    828,
+    763
+   ]
+  },
+  {
+   "text": "353 690 Ft",
+   "bbox": [
+    1051,
+    747,
+    1158,
+    763
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    684,
+    778,
+    828,
+    799
+   ]
+  },
+  {
+   "text": "95 330 Ft",
+   "bbox": [
+    1063,
+    783,
+    1158,
+    799
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    611,
+    817,
+    828,
+    835
+   ]
+  },
+  {
+   "text": "449 020 Ft",
+   "bbox": [
+    1044,
+    819,
+    1158,
+    835
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 63701146-79022688",
+   "bbox": [
+    82,
+    883,
+    436,
+    899
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    486,
+    1654,
+    753,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Katona Zsolt",
+  "email": "katona.zsolt@freemail.hu",
+  "telefon": "06 1 412 6110",
+  "lakcim": "H-9624 Dunafürdővár, Kecskeméti utca 72.",
+  "szuletesi_datum": "1986. 11. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér Logisztika Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2015 – 2016"
+   },
+   {
+    "ceg": "Tóth Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "ceg": "Lakatos Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2009 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "SAP",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    227,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    109,
+    161
+   ]
+  },
+  {
+   "text": "katona.zsolt@freemail.hu",
+   "bbox": [
+    40,
+    169,
+    281,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    202,
+    121,
+    217
+   ]
+  },
+  {
+   "text": "06 1 412 6110",
+   "bbox": [
+    40,
+    226,
+    181,
+    240
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    116,
+    273
+   ]
+  },
+  {
+   "text": "H-9624 Dunafürdővár, Kecskeméti",
+   "bbox": [
+    40,
+    281,
+    370,
+    299
+   ]
+  },
+  {
+   "text": "utca 72.",
+   "bbox": [
+    40,
+    305,
+    118,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    336,
+    215,
+    352
+   ]
+  },
+  {
+   "text": "1986. 11. 03.",
+   "bbox": [
+    40,
+    361,
+    171,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    213,
+    442
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    462,
+    146,
+    482
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    516,
+    191,
+    538
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    558,
+    92,
+    574
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    586,
+    80,
+    601
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    611,
+    287,
+    632
+   ]
+  },
+  {
+   "text": "Katona Zsolt",
+   "bbox": [
+    450,
+    110,
+    769,
+    145
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    174,
+    581,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    735,
+    265
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    450,
+    291,
+    581,
+    307
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Pintér Logisztika Zrt.",
+   "bbox": [
+    450,
+    315,
+    1006,
+    337
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    357,
+    581,
+    373
+   ]
+  },
+  {
+   "text": "értékesítő – Tóth Kft.",
+   "bbox": [
+    450,
+    381,
+    717,
+    399
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    450,
+    423,
+    581,
+    439
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Lakatos Kft.",
+   "bbox": [
+    450,
+    447,
+    893,
+    469
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    498,
+    640,
+    524
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    550,
+    581,
+    566
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    575,
+    674,
+    596
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    599,
+    813,
+    620
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    641,
+    581,
+    657
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    665,
+    809,
+    687
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    690,
+    544,
+    711
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

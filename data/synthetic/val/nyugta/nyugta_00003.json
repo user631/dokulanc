@@ -1,0 +1,226 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HAJDU CSEMEGE BT.",
+  "uzlet_cim": "H-8077 Cegléd, Nyíregyházai utca 178.",
+  "adoszam": "48418584-2-11",
+  "datum": "2026.01.29.",
+  "ido": "10:08",
+  "nyugtaszam": "7221/55735",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 294 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1274"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "4044"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "966"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HAJDU CSEMEGE BT.",
+   "bbox": [
+    200,
+    33,
+    438,
+    50
+   ]
+  },
+  {
+   "text": "H-8077 Cegléd, Nyíregyházai utca 178.",
+   "bbox": [
+    97,
+    67,
+    541,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 48418584-2-11",
+   "bbox": [
+    187,
+    92,
+    451,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    274,
+    139,
+    365,
+    157
+   ]
+  },
+  {
+   "text": "2 DB x 637",
+   "bbox": [
+    24,
+    185,
+    144,
+    198
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    211,
+    141,
+    226
+   ]
+  },
+  {
+   "text": "1274 B00",
+   "bbox": [
+    510,
+    211,
+    614,
+    226
+   ]
+  },
+  {
+   "text": "3 DB x 1348",
+   "bbox": [
+    24,
+    243,
+    156,
+    256
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    269,
+    154,
+    284
+   ]
+  },
+  {
+   "text": "4044 B00",
+   "bbox": [
+    510,
+    269,
+    614,
+    284
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    301,
+    128,
+    316
+   ]
+  },
+  {
+   "text": "966 A00",
+   "bbox": [
+    523,
+    301,
+    614,
+    316
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    340,
+    174,
+    363
+   ]
+  },
+  {
+   "text": "6 294 Ft",
+   "bbox": [
+    494,
+    345,
+    614,
+    363
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    382,
+    155,
+    402
+   ]
+  },
+  {
+   "text": "6 294 Ft",
+   "bbox": [
+    510,
+    386,
+    614,
+    402
+   ]
+  },
+  {
+   "text": "2026.01.29.",
+   "bbox": [
+    24,
+    433,
+    156,
+    447
+   ]
+  },
+  {
+   "text": "10:08",
+   "bbox": [
+    554,
+    433,
+    614,
+    447
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7221/55735",
+   "bbox": [
+    24,
+    460,
+    288,
+    481
+   ]
+  },
+  {
+   "text": "AP A34761289",
+   "bbox": [
+    24,
+    497,
+    168,
+    511
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    176,
+    536,
+    462,
+    556
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  638,
+  602
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Mészáros László",
+  "email": "meszaros.laszlo@outlook.com",
+  "telefon": "06 1 611 2026",
+  "lakcim": "H-8264 Mosonligetfalva, Egyházasszéki utca 54.",
+  "szuletesi_datum": "2001. 09. 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kerekes Consulting Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Németh Logisztika Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "JavaScript",
+   "C#",
+   "csapatmunka",
+   "ügyfélkezelés",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Mészáros László",
+   "bbox": [
+    445,
+    97,
+    795,
+    131
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    523,
+    167,
+    717,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    164,
+    237
+   ]
+  },
+  {
+   "text": "meszaros.laszlo@outlook.com",
+   "bbox": [
+    330,
+    221,
+    614,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    172,
+    270
+   ]
+  },
+  {
+   "text": "06 1 611 2026",
+   "bbox": [
+    330,
+    255,
+    468,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    173,
+    303
+   ]
+  },
+  {
+   "text": "H-8264 Mosonligetfalva, Egyházasszéki utca 54.",
+   "bbox": [
+    330,
+    287,
+    788,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    321,
+    254,
+    336
+   ]
+  },
+  {
+   "text": "2001. 09. 10.",
+   "bbox": [
+    330,
+    321,
+    456,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    375,
+    326,
+    399
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    426,
+    234,
+    447
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kerekes Consulting Zrt.",
+   "bbox": [
+    90,
+    454,
+    490,
+    475
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    496,
+    234,
+    517
+   ]
+  },
+  {
+   "text": "értékesítő – Németh Logisztika Zrt.",
+   "bbox": [
+    90,
+    524,
+    455,
+    545
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    578,
+    255,
+    602
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    90,
+    630,
+    210,
+    645
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    657,
+    345,
+    678
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    683,
+    149,
+    704
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    727,
+    210,
+    742
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    754,
+    384,
+    775
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    780,
+    324,
+    801
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    835,
+    222,
+    859
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    886,
+    188,
+    907
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    937,
+    211,
+    961
+   ]
+  },
+  {
+   "text": "projektmenedzsment, JavaScript, C#, csapatmunka, ügyfélkezelés, SAP",
+   "bbox": [
+    89,
+    988,
+    757,
+    1009
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

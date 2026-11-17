@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2024/02082",
+  "kiallitas_datuma": "2024. július 1.",
+  "teljesites_datuma": "2024. június 29.",
+  "fizetesi_hatarido": "2024. július 9.",
+  "elado_nev": "Simon Zrt.",
+  "elado_cim": "H-3400 Mindszentkövesd, Tótházai utca 135.",
+  "elado_adoszam": "24587235-5-04",
+  "vevo_nev": "Papp Logisztika Kft.",
+  "vevo_cim": "H-9015 Bakonymártonhalas, Tiszai utca 92.",
+  "vevo_adoszam": "32823037-2-08",
+  "bankszamla": "HU07 0847 5031 9418 7681 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 312 370 Ft",
+  "afa_osszesen": "354 340 Ft",
+  "brutto_osszesen": "1 666 710 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "6 080",
+    "netto": "60 800",
+    "afa_kulcs": "27%",
+    "afa": "16 416",
+    "brutto": "77 216"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "4 db",
+    "egysegar": "6 070",
+    "netto": "24 280",
+    "afa_kulcs": "27%",
+    "afa": "6 556",
+    "brutto": "30 836"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "137 130",
+    "netto": "137 130",
+    "afa_kulcs": "27%",
+    "afa": "37 025",
+    "brutto": "174 155"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "272 540",
+    "netto": "1 090 160",
+    "afa_kulcs": "27%",
+    "afa": "294 343",
+    "brutto": "1 384 503"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    417,
+    97,
+    822,
+    130
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/02082",
+   "bbox": [
+    460,
+    154,
+    780,
+    175
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    88,
+    234,
+    152,
+    252
+   ]
+  },
+  {
+   "text": "Papp Logisztika Kft.",
+   "bbox": [
+    89,
+    269,
+    308,
+    290
+   ]
+  },
+  {
+   "text": "H-9015 Bakonymártonhalas, Tiszai utca 92.",
+   "bbox": [
+    89,
+    299,
+    477,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 32823037-2-08",
+   "bbox": [
+    88,
+    327,
+    317,
+    344
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    234,
+    700,
+    252
+   ]
+  },
+  {
+   "text": "Simon Zrt.",
+   "bbox": [
+    630,
+    269,
+    746,
+    286
+   ]
+  },
+  {
+   "text": "H-3400 Mindszentkövesd, Tótházai utca 135.",
+   "bbox": [
+    630,
+    299,
+    1030,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 24587235-5-04",
+   "bbox": [
+    629,
+    327,
+    858,
+    344
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    89,
+    393,
+    259,
+    410
+   ]
+  },
+  {
+   "text": "2024. július 1.",
+   "bbox": [
+    389,
+    393,
+    515,
+    414
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    89,
+    423,
+    274,
+    444
+   ]
+  },
+  {
+   "text": "2024. június 29.",
+   "bbox": [
+    389,
+    423,
+    532,
+    444
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    89,
+    453,
+    264,
+    470
+   ]
+  },
+  {
+   "text": "2024. július 9.",
+   "bbox": [
+    389,
+    453,
+    515,
+    474
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    89,
+    483,
+    223,
+    500
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    389,
+    483,
+    461,
+    500
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    89,
+    525,
+    194,
+    542
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    527,
+    575,
+    542
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    669,
+    525,
+    748,
+    542
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    525,
+    874,
+    539
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    522,
+    938,
+    539
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    522,
+    1039,
+    539
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1096,
+    525,
+    1151,
+    539
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    513,
+    565,
+    571,
+    578
+   ]
+  },
+  {
+   "text": "6 080",
+   "bbox": [
+    706,
+    566,
+    747,
+    578
+   ]
+  },
+  {
+   "text": "60 800",
+   "bbox": [
+    824,
+    566,
+    874,
+    578
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    566,
+    938,
+    578
+   ]
+  },
+  {
+   "text": "16 416",
+   "bbox": [
+    989,
+    566,
+    1039,
+    578
+   ]
+  },
+  {
+   "text": "77 216",
+   "bbox": [
+    1101,
+    566,
+    1151,
+    578
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    89,
+    564,
+    288,
+    581
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    513,
+    598,
+    545,
+    611
+   ]
+  },
+  {
+   "text": "6 070",
+   "bbox": [
+    706,
+    599,
+    747,
+    611
+   ]
+  },
+  {
+   "text": "24 280",
+   "bbox": [
+    824,
+    599,
+    874,
+    611
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    599,
+    938,
+    611
+   ]
+  },
+  {
+   "text": "6 556",
+   "bbox": [
+    998,
+    599,
+    1039,
+    611
+   ]
+  },
+  {
+   "text": "30 836",
+   "bbox": [
+    1101,
+    599,
+    1151,
+    611
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    89,
+    597,
+    237,
+    614
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    631,
+    545,
+    644
+   ]
+  },
+  {
+   "text": "137 130",
+   "bbox": [
+    688,
+    632,
+    747,
+    644
+   ]
+  },
+  {
+   "text": "137 130",
+   "bbox": [
+    815,
+    632,
+    874,
+    644
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    632,
+    938,
+    644
+   ]
+  },
+  {
+   "text": "37 025",
+   "bbox": [
+    989,
+    632,
+    1039,
+    644
+   ]
+  },
+  {
+   "text": "174 155",
+   "bbox": [
+    1092,
+    632,
+    1151,
+    644
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    89,
+    631,
+    175,
+    644
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    513,
+    664,
+    584,
+    677
+   ]
+  },
+  {
+   "text": "272 540",
+   "bbox": [
+    688,
+    665,
+    747,
+    677
+   ]
+  },
+  {
+   "text": "1 090 160",
+   "bbox": [
+    801,
+    665,
+    874,
+    677
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    665,
+    938,
+    677
+   ]
+  },
+  {
+   "text": "294 343",
+   "bbox": [
+    980,
+    665,
+    1039,
+    677
+   ]
+  },
+  {
+   "text": "1 384 503",
+   "bbox": [
+    1078,
+    665,
+    1151,
+    677
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    89,
+    663,
+    251,
+    680
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    676,
+    717,
+    821,
+    734
+   ]
+  },
+  {
+   "text": "1 312 370 Ft",
+   "bbox": [
+    1035,
+    718,
+    1151,
+    734
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    688,
+    747,
+    821,
+    768
+   ]
+  },
+  {
+   "text": "354 340 Ft",
+   "bbox": [
+    1053,
+    752,
+    1151,
+    768
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    612,
+    785,
+    821,
+    802
+   ]
+  },
+  {
+   "text": "1 666 710 Ft",
+   "bbox": [
+    1021,
+    786,
+    1151,
+    802
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU07 0847 5031 9418 7681 0000 0000",
+   "bbox": [
+    89,
+    849,
+    562,
+    864
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    89,
+    876,
+    569,
+    892
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    505,
+    1649,
+    734,
+    1664
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

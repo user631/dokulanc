@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FARKAS CSEMEGE KFT.",
+  "uzlet_cim": "H-5088 Oroszgyörgyfa, Petőfi sándor utca 155.",
+  "adoszam": "89857601-3-32",
+  "datum": "2025.05.02.",
+  "ido": "20:13",
+  "nyugtaszam": "0898/25045",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "16 775 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "8286"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "253"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "99"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1602"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "430"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "381"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "310"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "667"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1812"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "520"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2415"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS CSEMEGE KFT.",
+   "bbox": [
+    164,
+    34,
+    411,
+    48
+   ]
+  },
+  {
+   "text": "H-5088 Oroszgyörgyfa, Petőfi sándor utca 155.",
+   "bbox": [
+    40,
+    63,
+    535,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 89857601-3-32",
+   "bbox": [
+    167,
+    87,
+    409,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    246,
+    128,
+    331,
+    143
+   ]
+  },
+  {
+   "text": "3 DB x 2762",
+   "bbox": [
+    24,
+    168,
+    134,
+    180
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    190,
+    252,
+    204
+   ]
+  },
+  {
+   "text": "8286 A00",
+   "bbox": [
+    456,
+    190,
+    552,
+    204
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    218,
+    192,
+    235
+   ]
+  },
+  {
+   "text": "253 A00",
+   "bbox": [
+    468,
+    218,
+    552,
+    232
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    247,
+    96,
+    260
+   ]
+  },
+  {
+   "text": "99 B00",
+   "bbox": [
+    480,
+    246,
+    552,
+    260
+   ]
+  },
+  {
+   "text": "3 DB x 534",
+   "bbox": [
+    24,
+    274,
+    124,
+    286
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    296,
+    156,
+    310
+   ]
+  },
+  {
+   "text": "1602 C00",
+   "bbox": [
+    456,
+    296,
+    552,
+    310
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    324,
+    132,
+    338
+   ]
+  },
+  {
+   "text": "430 B00",
+   "bbox": [
+    468,
+    324,
+    552,
+    338
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    352,
+    192,
+    366
+   ]
+  },
+  {
+   "text": "381 C00",
+   "bbox": [
+    468,
+    352,
+    552,
+    366
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    381,
+    180,
+    394
+   ]
+  },
+  {
+   "text": "310 A00",
+   "bbox": [
+    468,
+    380,
+    552,
+    394
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    408,
+    120,
+    422
+   ]
+  },
+  {
+   "text": "667 C00",
+   "bbox": [
+    468,
+    408,
+    552,
+    422
+   ]
+  },
+  {
+   "text": "2 DB x 906",
+   "bbox": [
+    24,
+    436,
+    124,
+    448
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    458,
+    120,
+    472
+   ]
+  },
+  {
+   "text": "1812 A00",
+   "bbox": [
+    456,
+    458,
+    552,
+    472
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    486,
+    120,
+    500
+   ]
+  },
+  {
+   "text": "520 A00",
+   "bbox": [
+    468,
+    486,
+    552,
+    500
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    514,
+    132,
+    528
+   ]
+  },
+  {
+   "text": "2415 B00",
+   "bbox": [
+    456,
+    514,
+    552,
+    528
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    552,
+    164,
+    571
+   ]
+  },
+  {
+   "text": "16 775 Ft",
+   "bbox": [
+    426,
+    554,
+    552,
+    571
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    590,
+    144,
+    606
+   ]
+  },
+  {
+   "text": "16 775 Ft",
+   "bbox": [
+    444,
+    592,
+    552,
+    606
+   ]
+  },
+  {
+   "text": "2025.05.02.",
+   "bbox": [
+    24,
+    634,
+    145,
+    647
+   ]
+  },
+  {
+   "text": "20:13",
+   "bbox": [
+    497,
+    634,
+    552,
+    647
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0898/25045",
+   "bbox": [
+    24,
+    661,
+    266,
+    678
+   ]
+  },
+  {
+   "text": "AP A23758788",
+   "bbox": [
+    24,
+    690,
+    156,
+    703
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    233,
+    728,
+    343,
+    743
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  576,
+  788
+ ]
+}

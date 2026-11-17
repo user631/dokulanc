@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOCSIS ABC BT.",
+  "uzlet_cim": "H-2412 Újmártonvég, Mindszentdevecseri utca 66.",
+  "adoszam": "56704587-3-06",
+  "datum": "2024.02.16.",
+  "ido": "16:18",
+  "nyugtaszam": "3056/25745",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "15 004 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "64"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2934"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1501"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4874"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "777"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2476"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "963"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "446"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "606"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "363"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOCSIS ABC BT.",
+   "bbox": [
+    166,
+    35,
+    390,
+    51
+   ]
+  },
+  {
+   "text": "H-2412 Újmártonvég, Mindszentdevecseri",
+   "bbox": [
+    31,
+    67,
+    525,
+    88
+   ]
+  },
+  {
+   "text": "utca 66.",
+   "bbox": [
+    226,
+    96,
+    330,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56704587-3-06",
+   "bbox": [
+    135,
+    123,
+    421,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    169,
+    329,
+    187
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    214,
+    108,
+    229
+   ]
+  },
+  {
+   "text": "64 C00",
+   "bbox": [
+    449,
+    212,
+    533,
+    229
+   ]
+  },
+  {
+   "text": "3 DB x 978",
+   "bbox": [
+    24,
+    244,
+    154,
+    259
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    270,
+    136,
+    287
+   ]
+  },
+  {
+   "text": "2934 B00",
+   "bbox": [
+    421,
+    270,
+    533,
+    287
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    302,
+    164,
+    319
+   ]
+  },
+  {
+   "text": "1501 B00",
+   "bbox": [
+    421,
+    302,
+    533,
+    319
+   ]
+  },
+  {
+   "text": "2 DB x 2437",
+   "bbox": [
+    24,
+    334,
+    167,
+    349
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    360,
+    150,
+    377
+   ]
+  },
+  {
+   "text": "4874 B00",
+   "bbox": [
+    421,
+    360,
+    533,
+    377
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    392,
+    136,
+    409
+   ]
+  },
+  {
+   "text": "777 A00",
+   "bbox": [
+    435,
+    392,
+    533,
+    409
+   ]
+  },
+  {
+   "text": "2 DB x 1238",
+   "bbox": [
+    24,
+    424,
+    167,
+    439
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    452,
+    164,
+    467
+   ]
+  },
+  {
+   "text": "2476 C00",
+   "bbox": [
+    421,
+    450,
+    533,
+    467
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    482,
+    234,
+    499
+   ]
+  },
+  {
+   "text": "963 A00",
+   "bbox": [
+    435,
+    482,
+    533,
+    499
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    514,
+    178,
+    531
+   ]
+  },
+  {
+   "text": "446 C00",
+   "bbox": [
+    435,
+    514,
+    533,
+    531
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    546,
+    150,
+    563
+   ]
+  },
+  {
+   "text": "606 C00",
+   "bbox": [
+    435,
+    546,
+    533,
+    563
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    578,
+    220,
+    595
+   ]
+  },
+  {
+   "text": "363 A00",
+   "bbox": [
+    435,
+    578,
+    533,
+    595
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    621,
+    194,
+    643
+   ]
+  },
+  {
+   "text": "15 004 Ft",
+   "bbox": [
+    380,
+    623,
+    533,
+    643
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    662,
+    179,
+    681
+   ]
+  },
+  {
+   "text": "15 004 Ft",
+   "bbox": [
+    407,
+    664,
+    533,
+    681
+   ]
+  },
+  {
+   "text": "2024.02.16.",
+   "bbox": [
+    24,
+    710,
+    167,
+    726
+   ]
+  },
+  {
+   "text": "16:18",
+   "bbox": [
+    468,
+    710,
+    533,
+    726
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3056/25745",
+   "bbox": [
+    24,
+    741,
+    310,
+    761
+   ]
+  },
+  {
+   "text": "AP A66812502",
+   "bbox": [
+    24,
+    774,
+    180,
+    790
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    208,
+    817,
+    348,
+    835
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  557,
+  880
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Attila",
+  "email": "toth.attila@citromail.hu",
+  "telefon": "+36 70 649 1741",
+  "lakcim": "H-5023 Budapest, Egeri tér 6.",
+  "szuletesi_datum": "1987.07.10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2007 – 2012"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Márton Consulting Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "ceg": "Farkas Tech Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2011 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "B kategóriás jogosítvány",
+   "Python",
+   "csapatmunka",
+   "projektmenedzsment",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Attila",
+   "bbox": [
+    495,
+    118,
+    745,
+    157
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    183,
+    676,
+    212
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    239,
+    165,
+    256
+   ]
+  },
+  {
+   "text": "toth.attila@citromail.hu",
+   "bbox": [
+    330,
+    239,
+    548,
+    258
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    270,
+    175,
+    287
+   ]
+  },
+  {
+   "text": "+36 70 649 1741",
+   "bbox": [
+    330,
+    271,
+    487,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    301,
+    173,
+    318
+   ]
+  },
+  {
+   "text": "H-5023 Budapest, Egeri tér 6.",
+   "bbox": [
+    330,
+    301,
+    607,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    332,
+    265,
+    349
+   ]
+  },
+  {
+   "text": "1987.07.10.",
+   "bbox": [
+    330,
+    333,
+    436,
+    349
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    344,
+    409
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    90,
+    435,
+    203,
+    451
+   ]
+  },
+  {
+   "text": "rendszergazda – Márton Consulting Bt.",
+   "bbox": [
+    90,
+    459,
+    521,
+    481
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    90,
+    501,
+    203,
+    517
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Farkas Tech Zrt.",
+   "bbox": [
+    90,
+    525,
+    593,
+    547
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    576,
+    260,
+    602
+   ]
+  },
+  {
+   "text": "2007 – 2012",
+   "bbox": [
+    90,
+    628,
+    203,
+    644
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    648,
+    272,
+    674
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    677,
+    316,
+    694
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    719,
+    203,
+    735
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    743,
+    355,
+    765
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    768,
+    171,
+    789
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    819,
+    230,
+    845
+   ]
+  },
+  {
+   "text": "olasz (A2), német (B2)",
+   "bbox": [
+    90,
+    870,
+    300,
+    891
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    917,
+    223,
+    943
+   ]
+  },
+  {
+   "text": "Excel, B kategóriás jogosítvány, Python, csapatmunka, projektmenedzsment, Docker",
+   "bbox": [
+    90,
+    968,
+    874,
+    989
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

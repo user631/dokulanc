@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Vincze Ildikó",
+  "anyja_neve": "Varga Attila",
+  "szuletesi_hely": "Miskolc",
+  "szuletesi_datum": "1962. 07. 30.",
+  "lakcim": "H-9575 Hajdútamásifalu, Béke utca 237.",
+  "telefon": "+36 30 226 8815",
+  "email": "vincze.ildiko@gmail.com",
+  "adoazonosito_jel": "8349084537",
+  "taj_szam": "078 593 525",
+  "kelt": "Mosonmagyaróvár, 2024. 04. 16."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    422,
+    102,
+    817,
+    139
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    213,
+    365,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    265,
+    161,
+    282
+   ]
+  },
+  {
+   "text": "Vincze Ildikó",
+   "bbox": [
+    409,
+    264,
+    556,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    320,
+    236,
+    339
+   ]
+  },
+  {
+   "text": "Varga Attila",
+   "bbox": [
+    409,
+    317,
+    545,
+    340
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    371,
+    261,
+    392
+   ]
+  },
+  {
+   "text": "Miskolc",
+   "bbox": [
+    409,
+    371,
+    492,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    424,
+    248,
+    441
+   ]
+  },
+  {
+   "text": "1962. 07. 30.",
+   "bbox": [
+    409,
+    425,
+    569,
+    442
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    477,
+    191,
+    494
+   ]
+  },
+  {
+   "text": "H-9575 Hajdútamásifalu, Béke utca 237.",
+   "bbox": [
+    409,
+    479,
+    885,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    530,
+    247,
+    547
+   ]
+  },
+  {
+   "text": "+36 30 226 8815",
+   "bbox": [
+    409,
+    535,
+    617,
+    552
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    583,
+    226,
+    600
+   ]
+  },
+  {
+   "text": "vincze.ildiko@gmail.com",
+   "bbox": [
+    409,
+    582,
+    691,
+    605
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    636,
+    286,
+    657
+   ]
+  },
+  {
+   "text": "8349084537",
+   "bbox": [
+    409,
+    635,
+    559,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    689,
+    216,
+    706
+   ]
+  },
+  {
+   "text": "078 593 525",
+   "bbox": [
+    409,
+    692,
+    560,
+    709
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    771,
+    310,
+    794
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    813,
+    500,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    858,
+    312,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    903,
+    519,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    1008,
+    153,
+    1025
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár, 2024. 04. 16.",
+   "bbox": [
+    191,
+    1004,
+    581,
+    1028
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1057,
+    977,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

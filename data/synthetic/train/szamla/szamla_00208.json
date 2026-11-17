@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2026/05923",
+  "kiallitas_datuma": "2026. május 25.",
+  "teljesites_datuma": "2026. május 25.",
+  "fizetesi_hatarido": "2026. június 2.",
+  "elado_nev": "Illés és Társa Kft.",
+  "elado_cim": "H-2070 Békéscsaba, Magyarhídi út 106.",
+  "elado_adoszam": "46069311-2-29",
+  "vevo_nev": "Fekete Consulting Kft.",
+  "vevo_cim": "H-6824 Hídvár, Kecskeméti tér 148.",
+  "vevo_adoszam": "72798836-2-12",
+  "bankszamla": "47085071-77933875-94940229",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "298 050 Ft",
+  "afa_osszesen": "80 474 Ft",
+  "brutto_osszesen": "378 524 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "19 050",
+    "netto": "19 050",
+    "afa_kulcs": "27%",
+    "afa": "5 144",
+    "brutto": "24 194"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "23 250",
+    "netto": "279 000",
+    "afa_kulcs": "27%",
+    "afa": "75 330",
+    "brutto": "354 330"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ILLÉS",
+   "bbox": [
+    113,
+    102,
+    189,
+    126
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    708,
+    89,
+    1169,
+    123
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/05923",
+   "bbox": [
+    880,
+    146,
+    1169,
+    168
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    71,
+    227,
+    151,
+    245
+   ]
+  },
+  {
+   "text": "Illés és Társa Kft.",
+   "bbox": [
+    71,
+    262,
+    299,
+    280
+   ]
+  },
+  {
+   "text": "H-2070 Békéscsaba, Magyarhídi út 106.",
+   "bbox": [
+    71,
+    294,
+    493,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 46069311-2-29",
+   "bbox": [
+    71,
+    323,
+    346,
+    340
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    227,
+    703,
+    245
+   ]
+  },
+  {
+   "text": "Fekete Consulting Kft.",
+   "bbox": [
+    630,
+    262,
+    914,
+    285
+   ]
+  },
+  {
+   "text": "H-6824 Hídvár, Kecskeméti tér 148.",
+   "bbox": [
+    630,
+    294,
+    1012,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 72798836-2-12",
+   "bbox": [
+    630,
+    323,
+    905,
+    340
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    71,
+    390,
+    270,
+    407
+   ]
+  },
+  {
+   "text": "2026. május 25.",
+   "bbox": [
+    371,
+    390,
+    543,
+    411
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    71,
+    421,
+    288,
+    442
+   ]
+  },
+  {
+   "text": "2026. május 25.",
+   "bbox": [
+    371,
+    421,
+    543,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    71,
+    452,
+    276,
+    469
+   ]
+  },
+  {
+   "text": "2026. június 2.",
+   "bbox": [
+    371,
+    452,
+    529,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    71,
+    483,
+    228,
+    500
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    371,
+    483,
+    456,
+    500
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    71,
+    526,
+    196,
+    544
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    527,
+    584,
+    544
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    657,
+    526,
+    751,
+    544
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    828,
+    526,
+    883,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    523,
+    949,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    523,
+    1053,
+    540
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    526,
+    1169,
+    540
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    510,
+    566,
+    557,
+    580
+   ]
+  },
+  {
+   "text": "19 050",
+   "bbox": [
+    690,
+    567,
+    751,
+    580
+   ]
+  },
+  {
+   "text": "19 050",
+   "bbox": [
+    822,
+    567,
+    883,
+    580
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    567,
+    949,
+    580
+   ]
+  },
+  {
+   "text": "5 144",
+   "bbox": [
+    1003,
+    567,
+    1053,
+    580
+   ]
+  },
+  {
+   "text": "24 194",
+   "bbox": [
+    1108,
+    567,
+    1169,
+    580
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    71,
+    566,
+    175,
+    580
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    510,
+    600,
+    560,
+    614
+   ]
+  },
+  {
+   "text": "23 250",
+   "bbox": [
+    690,
+    601,
+    751,
+    614
+   ]
+  },
+  {
+   "text": "279 000",
+   "bbox": [
+    811,
+    601,
+    883,
+    614
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    601,
+    949,
+    614
+   ]
+  },
+  {
+   "text": "75 330",
+   "bbox": [
+    992,
+    601,
+    1053,
+    614
+   ]
+  },
+  {
+   "text": "354 330",
+   "bbox": [
+    1097,
+    601,
+    1169,
+    614
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    71,
+    600,
+    236,
+    618
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    663,
+    654,
+    839,
+    672
+   ]
+  },
+  {
+   "text": "298 050 Ft",
+   "bbox": [
+    1047,
+    656,
+    1169,
+    672
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    685,
+    839,
+    707
+   ]
+  },
+  {
+   "text": "80 474 Ft",
+   "bbox": [
+    1061,
+    691,
+    1169,
+    707
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    615,
+    724,
+    839,
+    746
+   ]
+  },
+  {
+   "text": "378 524 Ft",
+   "bbox": [
+    1033,
+    726,
+    1169,
+    742
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 47085071-77933875-94940229",
+   "bbox": [
+    71,
+    788,
+    589,
+    805
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    71,
+    817,
+    670,
+    834
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1666,
+    761,
+    1682
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

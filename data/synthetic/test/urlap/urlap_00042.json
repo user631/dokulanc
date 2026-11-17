@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Fazekas Rózsa",
+  "anyja_neve": "Lakatos Bence",
+  "szuletesi_hely": "Kaposvár",
+  "szuletesi_datum": "1952. 03. 28.",
+  "lakcim": "H-3692 Szenttapolcaváros, Dunaújvárosi út 11.",
+  "telefon": "06 1 176 1199",
+  "email": "fazekas.rozsa@freemail.hu",
+  "adoazonosito_jel": "8311327939",
+  "taj_szam": "981 992 440",
+  "kelt": "Bácstapolcavár, 2025. 06. 28."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    378,
+    84,
+    861,
+    118
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    471,
+    140,
+    769,
+    158
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    195,
+    320,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    249,
+    137,
+    264
+   ]
+  },
+  {
+   "text": "Fazekas Rózsa",
+   "bbox": [
+    420,
+    246,
+    614,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    302,
+    200,
+    321
+   ]
+  },
+  {
+   "text": "Lakatos Bence",
+   "bbox": [
+    420,
+    301,
+    611,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    355,
+    225,
+    374
+   ]
+  },
+  {
+   "text": "Kaposvár",
+   "bbox": [
+    420,
+    348,
+    542,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    408,
+    215,
+    423
+   ]
+  },
+  {
+   "text": "1952. 03. 28.",
+   "bbox": [
+    420,
+    409,
+    602,
+    428
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    461,
+    168,
+    476
+   ]
+  },
+  {
+   "text": "H-3692 Szenttapolcaváros, Dunaújvárosi út 11.",
+   "bbox": [
+    420,
+    458,
+    1066,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    514,
+    216,
+    529
+   ]
+  },
+  {
+   "text": "06 1 176 1199",
+   "bbox": [
+    420,
+    516,
+    630,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    567,
+    200,
+    582
+   ]
+  },
+  {
+   "text": "fazekas.rozsa@freemail.hu",
+   "bbox": [
+    419,
+    561,
+    775,
+    586
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    620,
+    250,
+    639
+   ]
+  },
+  {
+   "text": "8311327939",
+   "bbox": [
+    420,
+    622,
+    600,
+    641
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    673,
+    188,
+    688
+   ]
+  },
+  {
+   "text": "981 992 440",
+   "bbox": [
+    420,
+    673,
+    602,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    753,
+    279,
+    775
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    797,
+    441,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    842,
+    278,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    887,
+    455,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    990,
+    129,
+    1006
+   ]
+  },
+  {
+   "text": "Bácstapolcavár, 2025. 06. 28.",
+   "bbox": [
+    174,
+    990,
+    546,
+    1014
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1039,
+    991,
+    1052
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

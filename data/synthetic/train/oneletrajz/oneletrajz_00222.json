@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss Ilona",
+  "email": "kiss.ilona@example.hu",
+  "telefon": "06 1 691 3735",
+  "lakcim": "H-2239 Nyékszékfa, Arany jános utca 144.",
+  "szuletesi_datum": "2004. június 16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2023 – 2026"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér Trade Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Java",
+   "projektmenedzsment",
+   "Git",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    106,
+    222,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    155,
+    101,
+    170
+   ]
+  },
+  {
+   "text": "kiss.ilona@example.hu",
+   "bbox": [
+    40,
+    179,
+    244,
+    198
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    213,
+    111,
+    228
+   ]
+  },
+  {
+   "text": "06 1 691 3735",
+   "bbox": [
+    40,
+    237,
+    168,
+    252
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    271,
+    109,
+    286
+   ]
+  },
+  {
+   "text": "H-2239 Nyékszékfa, Arany jános utca",
+   "bbox": [
+    40,
+    295,
+    375,
+    314
+   ]
+  },
+  {
+   "text": "144.",
+   "bbox": [
+    40,
+    319,
+    79,
+    334
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    353,
+    193,
+    368
+   ]
+  },
+  {
+   "text": "2004. június 16.",
+   "bbox": [
+    40,
+    377,
+    181,
+    396
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    436,
+    202,
+    459
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    482,
+    161,
+    501
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    534,
+    189,
+    557
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    580,
+    92,
+    595
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    608,
+    86,
+    623
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    636,
+    241,
+    655
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    664,
+    67,
+    679
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    692,
+    82,
+    707
+   ]
+  },
+  {
+   "text": "Kiss Ilona",
+   "bbox": [
+    450,
+    116,
+    669,
+    149
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    186,
+    667,
+    210
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    250,
+    692,
+    274
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    301,
+    597,
+    321
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Pintér Trade Bt.",
+   "bbox": [
+    448,
+    327,
+    808,
+    349
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    380,
+    617,
+    404
+   ]
+  },
+  {
+   "text": "2023 – 2026",
+   "bbox": [
+    450,
+    431,
+    570,
+    447
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    457,
+    827,
+    479
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    483,
+    771,
+    503
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    525,
+    570,
+    541
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    551,
+    721,
+    573
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    577,
+    533,
+    597
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

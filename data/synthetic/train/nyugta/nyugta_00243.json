@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS MARKET BT.",
+  "uzlet_cim": "H-1362 Szerbhátháza, Balatoni utca 209.",
+  "adoszam": "96584613-3-20",
+  "datum": "2024.02.17.",
+  "ido": "18:47",
+  "nyugtaszam": "3009/23794",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 427 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "206"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2415"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "723"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "820"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1317"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "527"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2517"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "755"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2082"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "65"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS MARKET BT.",
+   "bbox": [
+    172,
+    35,
+    412,
+    51
+   ]
+  },
+  {
+   "text": "H-1362 Szerbhátháza, Balatoni utca 209.",
+   "bbox": [
+    38,
+    67,
+    545,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 96584613-3-20",
+   "bbox": [
+    149,
+    95,
+    435,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    141,
+    343,
+    159
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    184,
+    220,
+    205
+   ]
+  },
+  {
+   "text": "206 B00",
+   "bbox": [
+    463,
+    184,
+    561,
+    201
+   ]
+  },
+  {
+   "text": "3 DB x 805",
+   "bbox": [
+    24,
+    216,
+    154,
+    231
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    242,
+    150,
+    259
+   ]
+  },
+  {
+   "text": "2415 C00",
+   "bbox": [
+    449,
+    242,
+    561,
+    259
+   ]
+  },
+  {
+   "text": "3 DB x 241",
+   "bbox": [
+    24,
+    274,
+    154,
+    289
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    302,
+    207,
+    317
+   ]
+  },
+  {
+   "text": "723 B00",
+   "bbox": [
+    463,
+    300,
+    561,
+    317
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    332,
+    192,
+    349
+   ]
+  },
+  {
+   "text": "820 C00",
+   "bbox": [
+    463,
+    332,
+    561,
+    349
+   ]
+  },
+  {
+   "text": "3 DB x 439",
+   "bbox": [
+    24,
+    364,
+    154,
+    379
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    390,
+    220,
+    407
+   ]
+  },
+  {
+   "text": "1317 C00",
+   "bbox": [
+    449,
+    390,
+    561,
+    407
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    422,
+    150,
+    439
+   ]
+  },
+  {
+   "text": "527 C00",
+   "bbox": [
+    463,
+    422,
+    561,
+    439
+   ]
+  },
+  {
+   "text": "3 DB x 839",
+   "bbox": [
+    24,
+    454,
+    154,
+    469
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    480,
+    248,
+    497
+   ]
+  },
+  {
+   "text": "2517 A00",
+   "bbox": [
+    449,
+    480,
+    561,
+    497
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    512,
+    136,
+    529
+   ]
+  },
+  {
+   "text": "755 B00",
+   "bbox": [
+    463,
+    512,
+    561,
+    529
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    544,
+    150,
+    561
+   ]
+  },
+  {
+   "text": "2082 B00",
+   "bbox": [
+    449,
+    544,
+    561,
+    561
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    578,
+    108,
+    593
+   ]
+  },
+  {
+   "text": "65 C00",
+   "bbox": [
+    477,
+    576,
+    561,
+    593
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    619,
+    177,
+    641
+   ]
+  },
+  {
+   "text": "11 427 Ft",
+   "bbox": [
+    408,
+    621,
+    561,
+    641
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    660,
+    179,
+    679
+   ]
+  },
+  {
+   "text": "11 427 Ft",
+   "bbox": [
+    435,
+    662,
+    561,
+    679
+   ]
+  },
+  {
+   "text": "2024.02.17.",
+   "bbox": [
+    24,
+    708,
+    167,
+    724
+   ]
+  },
+  {
+   "text": "18:47",
+   "bbox": [
+    496,
+    708,
+    561,
+    724
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3009/23794",
+   "bbox": [
+    24,
+    739,
+    310,
+    759
+   ]
+  },
+  {
+   "text": "AP A36586217",
+   "bbox": [
+    24,
+    772,
+    180,
+    788
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    138,
+    815,
+    446,
+    833
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  585,
+  878
+ ]
+}

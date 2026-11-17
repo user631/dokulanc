@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/01259",
+  "kiallitas_datuma": "2024.07.07.",
+  "teljesites_datuma": "2024.07.06.",
+  "fizetesi_hatarido": "2024.07.22.",
+  "elado_nev": "Somogyi Trade Bt.",
+  "elado_cim": "H-2080 Hódmezővásárhely, Egyházasligeti utca 16.",
+  "elado_adoszam": "37088468-2-22",
+  "vevo_nev": "Németh és Társa Kft.",
+  "vevo_cim": "H-3134 Szenthátnádasd, Tamásifalui tér 31.",
+  "vevo_adoszam": "44057280-3-13",
+  "bankszamla": "68345301-27723096",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "14 140 Ft",
+  "afa_osszesen": "3 818 Ft",
+  "brutto_osszesen": "17 958 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "14 140",
+    "netto": "14 140",
+    "afa_kulcs": "27%",
+    "afa": "3 818",
+    "brutto": "17 958"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SOMOGYI",
+   "bbox": [
+    125,
+    139,
+    237,
+    156
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    757,
+    125,
+    1139,
+    156
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/01259",
+   "bbox": [
+    905,
+    178,
+    1139,
+    199
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    101,
+    259,
+    166,
+    276
+   ]
+  },
+  {
+   "text": "Somogyi Trade Bt.",
+   "bbox": [
+    101,
+    294,
+    298,
+    316
+   ]
+  },
+  {
+   "text": "H-2080 Hódmezővásárhely, Egyházasligeti utca 16.",
+   "bbox": [
+    101,
+    326,
+    571,
+    347
+   ]
+  },
+  {
+   "text": "Adószám: 37088468-2-22",
+   "bbox": [
+    101,
+    355,
+    335,
+    371
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    259,
+    689,
+    276
+   ]
+  },
+  {
+   "text": "Németh és Társa Kft.",
+   "bbox": [
+    630,
+    294,
+    851,
+    311
+   ]
+  },
+  {
+   "text": "H-3134 Szenthátnádasd, Tamásifalui tér 31.",
+   "bbox": [
+    630,
+    326,
+    1031,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 44057280-3-13",
+   "bbox": [
+    630,
+    355,
+    864,
+    371
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    101,
+    421,
+    238,
+    435
+   ]
+  },
+  {
+   "text": "2024.07.07.",
+   "bbox": [
+    101,
+    450,
+    201,
+    464
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    421,
+    509,
+    439
+   ]
+  },
+  {
+   "text": "2024.07.06.",
+   "bbox": [
+    360,
+    450,
+    460,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    421,
+    759,
+    435
+   ]
+  },
+  {
+   "text": "2024.07.22.",
+   "bbox": [
+    619,
+    450,
+    719,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    421,
+    984,
+    435
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    878,
+    449,
+    975,
+    469
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    101,
+    498,
+    207,
+    515
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    498,
+    580,
+    515
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    667,
+    498,
+    745,
+    515
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    498,
+    869,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    494,
+    931,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    494,
+    1030,
+    511
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    498,
+    1139,
+    511
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    516,
+    538,
+    557,
+    551
+   ]
+  },
+  {
+   "text": "14 140",
+   "bbox": [
+    689,
+    538,
+    744,
+    551
+   ]
+  },
+  {
+   "text": "14 140",
+   "bbox": [
+    814,
+    538,
+    869,
+    551
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    538,
+    931,
+    551
+   ]
+  },
+  {
+   "text": "3 818",
+   "bbox": [
+    985,
+    538,
+    1030,
+    551
+   ]
+  },
+  {
+   "text": "17 958",
+   "bbox": [
+    1084,
+    538,
+    1139,
+    551
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    101,
+    537,
+    313,
+    555
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    657,
+    592,
+    809,
+    609
+   ]
+  },
+  {
+   "text": "14 140 Ft",
+   "bbox": [
+    1049,
+    593,
+    1139,
+    609
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    673,
+    623,
+    809,
+    644
+   ]
+  },
+  {
+   "text": "3 818 Ft",
+   "bbox": [
+    1061,
+    628,
+    1139,
+    644
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    605,
+    662,
+    809,
+    679
+   ]
+  },
+  {
+   "text": "17 958 Ft",
+   "bbox": [
+    1042,
+    663,
+    1139,
+    679
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 68345301-27723096",
+   "bbox": [
+    101,
+    727,
+    439,
+    742
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    500,
+    1636,
+    740,
+    1652
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

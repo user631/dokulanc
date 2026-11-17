@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Gál Imre",
+  "email": "gal.imre@gmail.com",
+  "telefon": "+36 70 519 6187",
+  "lakcim": "H-8542 Nyírtamásivárad, Hetvenkövesdi tér 183.",
+  "szuletesi_datum": "2004. július 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2023 – 2028"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szűcs Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2034 – jelenleg"
+   },
+   {
+    "ceg": "Tóth Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Lakatos Logisztika Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "SQL",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Gál Imre",
+   "bbox": [
+    536,
+    114,
+    704,
+    147
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    525,
+    184,
+    714,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    149,
+    252
+   ]
+  },
+  {
+   "text": "gal.imre@gmail.com",
+   "bbox": [
+    330,
+    238,
+    507,
+    256
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    269,
+    162,
+    283
+   ]
+  },
+  {
+   "text": "+36 70 519 6187",
+   "bbox": [
+    330,
+    270,
+    476,
+    283
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    300,
+    156,
+    314
+   ]
+  },
+  {
+   "text": "H-8542 Nyírtamásivárad, Hetvenkövesdi tér 183.",
+   "bbox": [
+    330,
+    300,
+    744,
+    318
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    331,
+    233,
+    345
+   ]
+  },
+  {
+   "text": "2004. július 5.",
+   "bbox": [
+    330,
+    331,
+    450,
+    349
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    382,
+    294,
+    403
+   ]
+  },
+  {
+   "text": "2034 – jelenleg",
+   "bbox": [
+    90,
+    433,
+    220,
+    451
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szűcs Kft.",
+   "bbox": [
+    90,
+    458,
+    315,
+    473
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    90,
+    499,
+    220,
+    517
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Consulting Kft.",
+   "bbox": [
+    90,
+    524,
+    402,
+    543
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    565,
+    220,
+    583
+   ]
+  },
+  {
+   "text": "projektmenedzser – Lakatos Logisztika Bt.",
+   "bbox": [
+    90,
+    590,
+    476,
+    609
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    640,
+    228,
+    662
+   ]
+  },
+  {
+   "text": "2023 – 2028",
+   "bbox": [
+    90,
+    693,
+    198,
+    706
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    717,
+    340,
+    736
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    742,
+    380,
+    760
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    784,
+    198,
+    797
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    808,
+    362,
+    827
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    833,
+    257,
+    851
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    883,
+    206,
+    905
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    934,
+    188,
+    953
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    981,
+    197,
+    1003
+   ]
+  },
+  {
+   "text": "Java, SQL, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    1033,
+    385,
+    1051
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

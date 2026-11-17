@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Csaba",
+  "email": "nagy.csaba@outlook.com",
+  "telefon": "+36 30 775 5193",
+  "lakcim": "H-9808 Bakonytamásivárad, Arany jános utca 140.",
+  "szuletesi_datum": "1984. 05. 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szücs Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "ceg": "Máté Tech Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2008 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "projektmenedzsment",
+   "Git",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Csaba",
+   "bbox": [
+    491,
+    122,
+    749,
+    168
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    185,
+    676,
+    212
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    239,
+    157,
+    255
+   ]
+  },
+  {
+   "text": "nagy.csaba@outlook.com",
+   "bbox": [
+    330,
+    239,
+    568,
+    260
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    270,
+    170,
+    286
+   ]
+  },
+  {
+   "text": "+36 30 775 5193",
+   "bbox": [
+    330,
+    271,
+    483,
+    286
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    301,
+    165,
+    317
+   ]
+  },
+  {
+   "text": "H-9808 Bakonytamásivárad, Arany jános utca 140.",
+   "bbox": [
+    330,
+    301,
+    792,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    332,
+    252,
+    348
+   ]
+  },
+  {
+   "text": "1984. 05. 14.",
+   "bbox": [
+    330,
+    333,
+    445,
+    348
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    321,
+    409
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    435,
+    201,
+    450
+   ]
+  },
+  {
+   "text": "irodavezető – Szücs Logisztika Kft.",
+   "bbox": [
+    90,
+    459,
+    446,
+    481
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    501,
+    201,
+    516
+   ]
+  },
+  {
+   "text": "tesztmérnök – Máté Tech Kft.",
+   "bbox": [
+    90,
+    525,
+    395,
+    542
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    577,
+    249,
+    602
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    628,
+    201,
+    643
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    652,
+    277,
+    674
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    678,
+    215,
+    698
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    719,
+    201,
+    734
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    743,
+    338,
+    765
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    768,
+    170,
+    789
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    820,
+    222,
+    845
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    871,
+    190,
+    889
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    918,
+    212,
+    943
+   ]
+  },
+  {
+   "text": "Python, projektmenedzsment, Git, Excel",
+   "bbox": [
+    90,
+    968,
+    456,
+    989
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LENGYEL KISBOLT BT.",
+  "uzlet_cim": "H-2306 Ráctapolcavár, Hetvennádasdi utca 50.",
+  "adoszam": "58578823-3-09",
+  "datum": "2026.02.28.",
+  "ido": "08:03",
+  "nyugtaszam": "7051/00952",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "13 700 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "164"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "959"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "318"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2026"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1041"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "4464"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1135"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "854"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2739"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LENGYEL KISBOLT BT.",
+   "bbox": [
+    177,
+    36,
+    443,
+    50
+   ]
+  },
+  {
+   "text": "H-2306 Ráctapolcavár, Hetvennádasdi utca 50.",
+   "bbox": [
+    68,
+    66,
+    552,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58578823-3-09",
+   "bbox": [
+    189,
+    89,
+    431,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    264,
+    133,
+    356,
+    148
+   ]
+  },
+  {
+   "text": "2 DB x 82",
+   "bbox": [
+    24,
+    174,
+    123,
+    185
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    199,
+    102,
+    211
+   ]
+  },
+  {
+   "text": "164 A00",
+   "bbox": [
+    506,
+    198,
+    597,
+    211
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    227,
+    128,
+    240
+   ]
+  },
+  {
+   "text": "959 A00",
+   "bbox": [
+    506,
+    227,
+    597,
+    240
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    257,
+    193,
+    269
+   ]
+  },
+  {
+   "text": "318 A00",
+   "bbox": [
+    506,
+    256,
+    597,
+    269
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    285,
+    141,
+    298
+   ]
+  },
+  {
+   "text": "2026 C00",
+   "bbox": [
+    493,
+    285,
+    597,
+    298
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    315,
+    154,
+    327
+   ]
+  },
+  {
+   "text": "1041 A00",
+   "bbox": [
+    493,
+    314,
+    597,
+    327
+   ]
+  },
+  {
+   "text": "3 DB x 1488",
+   "bbox": [
+    24,
+    342,
+    145,
+    353
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    366,
+    154,
+    379
+   ]
+  },
+  {
+   "text": "4464 A00",
+   "bbox": [
+    493,
+    366,
+    597,
+    379
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    395,
+    219,
+    408
+   ]
+  },
+  {
+   "text": "1135 B00",
+   "bbox": [
+    493,
+    395,
+    597,
+    408
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    424,
+    232,
+    437
+   ]
+  },
+  {
+   "text": "854 C00",
+   "bbox": [
+    506,
+    424,
+    597,
+    437
+   ]
+  },
+  {
+   "text": "3 DB x 913",
+   "bbox": [
+    24,
+    452,
+    134,
+    463
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    476,
+    128,
+    489
+   ]
+  },
+  {
+   "text": "2739 B00",
+   "bbox": [
+    493,
+    476,
+    597,
+    489
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    512,
+    174,
+    533
+   ]
+  },
+  {
+   "text": "13 700 Ft",
+   "bbox": [
+    462,
+    517,
+    597,
+    533
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    553,
+    128,
+    569
+   ]
+  },
+  {
+   "text": "13 700 Ft",
+   "bbox": [
+    480,
+    556,
+    597,
+    569
+   ]
+  },
+  {
+   "text": "2026.02.28.",
+   "bbox": [
+    24,
+    598,
+    145,
+    610
+   ]
+  },
+  {
+   "text": "08:03",
+   "bbox": [
+    542,
+    598,
+    597,
+    610
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7051/00952",
+   "bbox": [
+    24,
+    624,
+    266,
+    641
+   ]
+  },
+  {
+   "text": "AP A64620388",
+   "bbox": [
+    24,
+    656,
+    156,
+    668
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    219,
+    694,
+    400,
+    710
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  621,
+  754
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH DISZKONT KFT.",
+  "uzlet_cim": "H-3775 Bácstamásihalas, József attila utca 226.",
+  "adoszam": "97428262-3-40",
+  "datum": "2025.06.18.",
+  "ido": "13:04",
+  "nyugtaszam": "8702/58258",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 298 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3142"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "156"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH DISZKONT KFT.",
+   "bbox": [
+    120,
+    34,
+    400,
+    49
+   ]
+  },
+  {
+   "text": "H-3775 Bácstamásihalas, József attila",
+   "bbox": [
+    38,
+    64,
+    482,
+    83
+   ]
+  },
+  {
+   "text": "utca 226.",
+   "bbox": [
+    206,
+    92,
+    314,
+    106
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 97428262-3-40",
+   "bbox": [
+    128,
+    116,
+    392,
+    132
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    212,
+    161,
+    308,
+    177
+   ]
+  },
+  {
+   "text": "2 DB x 1571",
+   "bbox": [
+    24,
+    201,
+    145,
+    215
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    226,
+    154,
+    242
+   ]
+  },
+  {
+   "text": "3142 B00",
+   "bbox": [
+    393,
+    226,
+    497,
+    242
+   ]
+  },
+  {
+   "text": "2 DB x 78",
+   "bbox": [
+    24,
+    255,
+    123,
+    269
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    282,
+    102,
+    296
+   ]
+  },
+  {
+   "text": "156 C00",
+   "bbox": [
+    406,
+    280,
+    497,
+    296
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    320,
+    184,
+    341
+   ]
+  },
+  {
+   "text": "3 298 Ft",
+   "bbox": [
+    369,
+    322,
+    497,
+    341
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    361,
+    155,
+    378
+   ]
+  },
+  {
+   "text": "3 298 Ft",
+   "bbox": [
+    393,
+    362,
+    497,
+    378
+   ]
+  },
+  {
+   "text": "2025.06.18.",
+   "bbox": [
+    24,
+    406,
+    156,
+    420
+   ]
+  },
+  {
+   "text": "13:04",
+   "bbox": [
+    437,
+    406,
+    497,
+    420
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8702/58258",
+   "bbox": [
+    24,
+    434,
+    288,
+    453
+   ]
+  },
+  {
+   "text": "AP A36464002",
+   "bbox": [
+    24,
+    466,
+    168,
+    480
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    195,
+    506,
+    325,
+    523
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  521,
+  568
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SOMOGYI MARKET KFT.",
+  "uzlet_cim": "H-1991 Székberény, Hátházai tér 134.",
+  "adoszam": "39097888-2-30",
+  "datum": "2024.08.15.",
+  "ido": "17:38",
+  "nyugtaszam": "0511/02917",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "3 354 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "244"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3110"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SOMOGYI MARKET KFT.",
+   "bbox": [
+    171,
+    35,
+    437,
+    49
+   ]
+  },
+  {
+   "text": "H-1991 Székberény, Hátházai tér 134.",
+   "bbox": [
+    106,
+    63,
+    502,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 39097888-2-30",
+   "bbox": [
+    183,
+    88,
+    425,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    131,
+    349,
+    147
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    174,
+    193,
+    187
+   ]
+  },
+  {
+   "text": "244 B00",
+   "bbox": [
+    493,
+    172,
+    584,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 1555",
+   "bbox": [
+    24,
+    201,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    224,
+    154,
+    239
+   ]
+  },
+  {
+   "text": "3110 B00",
+   "bbox": [
+    480,
+    224,
+    584,
+    239
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    263,
+    174,
+    283
+   ]
+  },
+  {
+   "text": "3 354 Ft",
+   "bbox": [
+    464,
+    265,
+    584,
+    283
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    302,
+    167,
+    319
+   ]
+  },
+  {
+   "text": "3 354 Ft",
+   "bbox": [
+    480,
+    304,
+    584,
+    319
+   ]
+  },
+  {
+   "text": "2024.08.15.",
+   "bbox": [
+    24,
+    346,
+    145,
+    360
+   ]
+  },
+  {
+   "text": "17:38",
+   "bbox": [
+    529,
+    346,
+    584,
+    360
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0511/02917",
+   "bbox": [
+    24,
+    374,
+    266,
+    392
+   ]
+  },
+  {
+   "text": "AP A96957072",
+   "bbox": [
+    24,
+    404,
+    156,
+    418
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    172,
+    444,
+    436,
+    460
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  608,
+  505
+ ]
+}

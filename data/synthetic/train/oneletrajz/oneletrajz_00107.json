@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Balázs Anna",
+  "email": "balazs.anna@citromail.hu",
+  "telefon": "06 1 355 5541",
+  "lakcim": "H-5012 Sopron, Fürdődevecseri út 182.",
+  "szuletesi_datum": "1995. augusztus 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Simon Tech Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2018 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "Linux",
+   "Python",
+   "B kategóriás jogosítvány",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balázs Anna",
+   "bbox": [
+    452,
+    98,
+    788,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    550,
+    166,
+    689,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    181,
+    242
+   ]
+  },
+  {
+   "text": "balazs.anna@citromail.hu",
+   "bbox": [
+    330,
+    224,
+    628,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    257,
+    195,
+    275
+   ]
+  },
+  {
+   "text": "06 1 355 5541",
+   "bbox": [
+    330,
+    258,
+    504,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    290,
+    190,
+    308
+   ]
+  },
+  {
+   "text": "H-5012 Sopron, Fürdődevecseri út 182.",
+   "bbox": [
+    330,
+    289,
+    793,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    304,
+    341
+   ]
+  },
+  {
+   "text": "1995. augusztus 15.",
+   "bbox": [
+    330,
+    324,
+    570,
+    346
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    394,
+    403
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    90,
+    430,
+    241,
+    447
+   ]
+  },
+  {
+   "text": "irodavezető – Simon Tech Bt.",
+   "bbox": [
+    90,
+    455,
+    481,
+    475
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    509,
+    294,
+    536
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    90,
+    563,
+    241,
+    580
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    588,
+    460,
+    613
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    615,
+    483,
+    639
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    660,
+    241,
+    677
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    685,
+    411,
+    710
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    712,
+    391,
+    736
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    766,
+    260,
+    793
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    819,
+    238,
+    842
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    868,
+    250,
+    895
+   ]
+  },
+  {
+   "text": "Excel, Linux, Python, B kategóriás jogosítvány, Docker",
+   "bbox": [
+    90,
+    920,
+    728,
+    944
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Magyar Petra",
+  "email": "magyar.petra@gmail.com",
+  "telefon": "+36 20 452 1700",
+  "lakcim": "H-2698 Hajdúfürdődevecser, Arany jános utca 241.",
+  "szuletesi_datum": "1994.03.02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2013 – 2018"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2022 – jelenleg"
+   },
+   {
+    "ceg": "Gál és Társa Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2020 – 2022"
+   },
+   {
+    "ceg": "Kovács Trade Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2017 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Java",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    180,
+    118
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    142,
+    91,
+    155
+   ]
+  },
+  {
+   "text": "magyar.petra@gmail.com",
+   "bbox": [
+    40,
+    163,
+    236,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    194,
+    100,
+    207
+   ]
+  },
+  {
+   "text": "+36 20 452 1700",
+   "bbox": [
+    40,
+    216,
+    166,
+    228
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    246,
+    97,
+    259
+   ]
+  },
+  {
+   "text": "H-2698 Hajdúfürdődevecser, Arany jános",
+   "bbox": [
+    40,
+    267,
+    350,
+    284
+   ]
+  },
+  {
+   "text": "utca 241.",
+   "bbox": [
+    40,
+    289,
+    109,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    319,
+    168,
+    332
+   ]
+  },
+  {
+   "text": "1994.03.02.",
+   "bbox": [
+    40,
+    341,
+    124,
+    353
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    398,
+    175,
+    418
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    438,
+    121,
+    456
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    463,
+    137,
+    481
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    515,
+    153,
+    535
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    555,
+    145,
+    573
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    581,
+    73,
+    594
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    605,
+    234,
+    623
+   ]
+  },
+  {
+   "text": "Magyar Petra",
+   "bbox": [
+    450,
+    111,
+    722,
+    152
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    173,
+    639,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    662,
+    257
+   ]
+  },
+  {
+   "text": "2022 – jelenleg",
+   "bbox": [
+    450,
+    283,
+    577,
+    301
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Horváth és Társa Kft.",
+   "bbox": [
+    450,
+    306,
+    830,
+    326
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    450,
+    346,
+    550,
+    359
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Gál és Társa Kft.",
+   "bbox": [
+    450,
+    368,
+    883,
+    388
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    450,
+    408,
+    550,
+    421
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Trade Zrt.",
+   "bbox": [
+    450,
+    430,
+    747,
+    445
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    480,
+    597,
+    502
+   ]
+  },
+  {
+   "text": "2013 – 2018",
+   "bbox": [
+    450,
+    529,
+    550,
+    542
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    551,
+    772,
+    571
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    574,
+    730,
+    592
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    614,
+    550,
+    627
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    636,
+    733,
+    656
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    659,
+    665,
+    677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

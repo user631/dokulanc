@@ -1,0 +1,341 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kocsis Viktória",
+  "email": "kocsis.viktoria@example.hu",
+  "telefon": "+36 70 993 1699",
+  "lakcim": "H-9311 Széknádasd, Egeri utca 213.",
+  "szuletesi_datum": "1983.06.20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Trade Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Simon és Társa Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2005 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "SAP",
+   "Docker",
+   "Linux",
+   "Excel",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    89,
+    198,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    91,
+    145
+   ]
+  },
+  {
+   "text": "kocsis.viktoria@example.hu",
+   "bbox": [
+    40,
+    153,
+    252,
+    170
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    185,
+    99,
+    197
+   ]
+  },
+  {
+   "text": "+36 70 993 1699",
+   "bbox": [
+    40,
+    206,
+    164,
+    218
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    237,
+    97,
+    249
+   ]
+  },
+  {
+   "text": "H-9311 Széknádasd, Egeri utca 213.",
+   "bbox": [
+    40,
+    257,
+    314,
+    273
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    289,
+    168,
+    301
+   ]
+  },
+  {
+   "text": "1983.06.20.",
+   "bbox": [
+    40,
+    310,
+    127,
+    322
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    368,
+    182,
+    387
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    408,
+    123,
+    425
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    460,
+    170,
+    479
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    500,
+    149,
+    517
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    525,
+    76,
+    538
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    550,
+    98,
+    563
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    575,
+    83,
+    588
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    600,
+    84,
+    613
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    625,
+    207,
+    642
+   ]
+  },
+  {
+   "text": "Kocsis Viktória",
+   "bbox": [
+    450,
+    96,
+    761,
+    127
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    160,
+    556,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    224,
+    669,
+    246
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    450,
+    273,
+    559,
+    287
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Takács Trade Bt.",
+   "bbox": [
+    450,
+    296,
+    891,
+    315
+   ]
+  },
+  {
+   "text": "2005 – 2007",
+   "bbox": [
+    450,
+    335,
+    559,
+    349
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Simon és Társa Zrt.",
+   "bbox": [
+    450,
+    358,
+    863,
+    377
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    407,
+    598,
+    429
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    450,
+    456,
+    559,
+    470
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    479,
+    625,
+    498
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    502,
+    569,
+    520
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    541,
+    559,
+    555
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    564,
+    684,
+    583
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    587,
+    669,
+    605
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

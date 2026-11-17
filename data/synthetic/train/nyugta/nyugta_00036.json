@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH CSEMEGE BT.",
+  "uzlet_cim": "H-2977 Balatonmellékvár, József attila utca 242.",
+  "adoszam": "36205990-2-06",
+  "datum": "2024.03.03.",
+  "ido": "21:29",
+  "nyugtaszam": "6970/38295",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 472 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "930"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "555"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "353"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "433"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2106"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "208"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3864"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2624"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "503"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3456"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "440"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH CSEMEGE BT.",
+   "bbox": [
+    122,
+    31,
+    426,
+    52
+   ]
+  },
+  {
+   "text": "H-2977 Balatonmellékvár, József attila",
+   "bbox": [
+    27,
+    71,
+    521,
+    88
+   ]
+  },
+  {
+   "text": "utca 242.",
+   "bbox": [
+    215,
+    99,
+    332,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 36205990-2-06",
+   "bbox": [
+    131,
+    124,
+    417,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    172,
+    326,
+    188
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    215,
+    136,
+    230
+   ]
+  },
+  {
+   "text": "930 B00",
+   "bbox": [
+    427,
+    215,
+    525,
+    230
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    247,
+    150,
+    262
+   ]
+  },
+  {
+   "text": "555 C00",
+   "bbox": [
+    427,
+    247,
+    525,
+    262
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    279,
+    220,
+    294
+   ]
+  },
+  {
+   "text": "353 C00",
+   "bbox": [
+    427,
+    279,
+    525,
+    294
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    311,
+    178,
+    330
+   ]
+  },
+  {
+   "text": "433 B00",
+   "bbox": [
+    427,
+    311,
+    525,
+    326
+   ]
+  },
+  {
+   "text": "2 DB x 1053",
+   "bbox": [
+    24,
+    343,
+    167,
+    356
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    369,
+    164,
+    384
+   ]
+  },
+  {
+   "text": "2106 C00",
+   "bbox": [
+    413,
+    369,
+    525,
+    384
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    401,
+    220,
+    420
+   ]
+  },
+  {
+   "text": "208 C00",
+   "bbox": [
+    427,
+    401,
+    525,
+    416
+   ]
+  },
+  {
+   "text": "3 DB x 1288",
+   "bbox": [
+    24,
+    433,
+    167,
+    446
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    459,
+    192,
+    474
+   ]
+  },
+  {
+   "text": "3864 A00",
+   "bbox": [
+    413,
+    459,
+    525,
+    474
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    491,
+    290,
+    506
+   ]
+  },
+  {
+   "text": "2624 C00",
+   "bbox": [
+    413,
+    491,
+    525,
+    506
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    523,
+    136,
+    538
+   ]
+  },
+  {
+   "text": "503 B00",
+   "bbox": [
+    427,
+    523,
+    525,
+    538
+   ]
+  },
+  {
+   "text": "2 DB x 1728",
+   "bbox": [
+    24,
+    555,
+    167,
+    568
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    582,
+    164,
+    596
+   ]
+  },
+  {
+   "text": "3456 B00",
+   "bbox": [
+    413,
+    581,
+    525,
+    596
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    614,
+    220,
+    628
+   ]
+  },
+  {
+   "text": "440 A00",
+   "bbox": [
+    427,
+    613,
+    525,
+    628
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    655,
+    177,
+    676
+   ]
+  },
+  {
+   "text": "15 472 Ft",
+   "bbox": [
+    372,
+    659,
+    525,
+    676
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    695,
+    136,
+    714
+   ]
+  },
+  {
+   "text": "15 472 Ft",
+   "bbox": [
+    399,
+    699,
+    525,
+    714
+   ]
+  },
+  {
+   "text": "2024.03.03.",
+   "bbox": [
+    24,
+    745,
+    167,
+    759
+   ]
+  },
+  {
+   "text": "21:29",
+   "bbox": [
+    460,
+    745,
+    525,
+    759
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6970/38295",
+   "bbox": [
+    24,
+    774,
+    310,
+    793
+   ]
+  },
+  {
+   "text": "AP A51714833",
+   "bbox": [
+    24,
+    809,
+    180,
+    823
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    168,
+    848,
+    379,
+    868
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  549,
+  912
+ ]
+}

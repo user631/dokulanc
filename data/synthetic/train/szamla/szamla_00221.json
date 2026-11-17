@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2025/02405",
+  "kiallitas_datuma": "2025. augusztus 30.",
+  "teljesites_datuma": "2025. augusztus 27.",
+  "fizetesi_hatarido": "2025. szeptember 7.",
+  "elado_nev": "Balog Szolgáltató Zrt.",
+  "elado_cim": "H-6194 Eger, Pécsi utca 175.",
+  "elado_adoszam": "60187129-4-38",
+  "vevo_nev": "Hegedüs András",
+  "vevo_cim": "H-7008 Tapolcavárad, Bácsi utca 64.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU13 1865 7236 6066 5382 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "465 320 Ft",
+  "afa_osszesen": "125 318 Ft",
+  "brutto_osszesen": "590 638 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "3 540",
+    "netto": "3 540",
+    "afa_kulcs": "18%",
+    "afa": "637",
+    "brutto": "4 177"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "102 500",
+    "netto": "102 500",
+    "afa_kulcs": "27%",
+    "afa": "27 675",
+    "brutto": "130 175"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "29 940",
+    "netto": "359 280",
+    "afa_kulcs": "27%",
+    "afa": "97 006",
+    "brutto": "456 286"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    389,
+    106,
+    850,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/02405",
+   "bbox": [
+    411,
+    163,
+    829,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    98,
+    244,
+    178,
+    262
+   ]
+  },
+  {
+   "text": "Balog Szolgáltató Zrt.",
+   "bbox": [
+    98,
+    279,
+    376,
+    302
+   ]
+  },
+  {
+   "text": "H-6194 Eger, Pécsi utca 175.",
+   "bbox": [
+    98,
+    311,
+    406,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 60187129-4-38",
+   "bbox": [
+    98,
+    340,
+    373,
+    357
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    244,
+    703,
+    262
+   ]
+  },
+  {
+   "text": "Hegedüs András",
+   "bbox": [
+    630,
+    279,
+    839,
+    302
+   ]
+  },
+  {
+   "text": "H-7008 Tapolcavárad, Bácsi utca 64.",
+   "bbox": [
+    630,
+    311,
+    1020,
+    332
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    98,
+    407,
+    297,
+    424
+   ]
+  },
+  {
+   "text": "2025. augusztus 30.",
+   "bbox": [
+    398,
+    408,
+    612,
+    428
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    98,
+    438,
+    315,
+    459
+   ]
+  },
+  {
+   "text": "2025. augusztus 27.",
+   "bbox": [
+    398,
+    439,
+    612,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    98,
+    469,
+    303,
+    486
+   ]
+  },
+  {
+   "text": "2025. szeptember 7.",
+   "bbox": [
+    398,
+    469,
+    617,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    98,
+    500,
+    255,
+    517
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    398,
+    500,
+    483,
+    517
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    98,
+    543,
+    223,
+    561
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    544,
+    589,
+    561
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    543,
+    745,
+    561
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    543,
+    870,
+    557
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    870,
+    540,
+    933,
+    557
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    540,
+    1032,
+    557
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    543,
+    1142,
+    557
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    584,
+    601,
+    601
+   ]
+  },
+  {
+   "text": "3 540",
+   "bbox": [
+    695,
+    584,
+    745,
+    597
+   ]
+  },
+  {
+   "text": "3 540",
+   "bbox": [
+    820,
+    584,
+    870,
+    597
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    892,
+    584,
+    933,
+    597
+   ]
+  },
+  {
+   "text": "637",
+   "bbox": [
+    999,
+    584,
+    1032,
+    597
+   ]
+  },
+  {
+   "text": "4 177",
+   "bbox": [
+    1092,
+    584,
+    1142,
+    597
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    98,
+    583,
+    267,
+    601
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    617,
+    554,
+    631
+   ]
+  },
+  {
+   "text": "102 500",
+   "bbox": [
+    673,
+    618,
+    745,
+    631
+   ]
+  },
+  {
+   "text": "102 500",
+   "bbox": [
+    798,
+    618,
+    870,
+    631
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    618,
+    933,
+    631
+   ]
+  },
+  {
+   "text": "27 675",
+   "bbox": [
+    971,
+    618,
+    1032,
+    631
+   ]
+  },
+  {
+   "text": "130 175",
+   "bbox": [
+    1070,
+    618,
+    1142,
+    631
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    98,
+    617,
+    202,
+    631
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    515,
+    651,
+    615,
+    665
+   ]
+  },
+  {
+   "text": "29 940",
+   "bbox": [
+    684,
+    652,
+    745,
+    665
+   ]
+  },
+  {
+   "text": "359 280",
+   "bbox": [
+    798,
+    652,
+    870,
+    665
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    652,
+    933,
+    665
+   ]
+  },
+  {
+   "text": "97 006",
+   "bbox": [
+    971,
+    652,
+    1032,
+    665
+   ]
+  },
+  {
+   "text": "456 286",
+   "bbox": [
+    1070,
+    652,
+    1142,
+    665
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    98,
+    651,
+    299,
+    669
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    636,
+    705,
+    812,
+    723
+   ]
+  },
+  {
+   "text": "465 320 Ft",
+   "bbox": [
+    1020,
+    707,
+    1142,
+    723
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    653,
+    736,
+    812,
+    758
+   ]
+  },
+  {
+   "text": "125 318 Ft",
+   "bbox": [
+    1020,
+    742,
+    1142,
+    758
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    561,
+    775,
+    812,
+    793
+   ]
+  },
+  {
+   "text": "590 638 Ft",
+   "bbox": [
+    1006,
+    777,
+    1142,
+    793
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU13 1865 7236 6066 5382 0000 0000",
+   "bbox": [
+    98,
+    839,
+    696,
+    856
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1639,
+    761,
+    1655
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

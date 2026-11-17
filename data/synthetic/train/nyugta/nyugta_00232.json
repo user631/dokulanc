@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VARGA MARKET BT.",
+  "uzlet_cim": "H-9893 Mártonvára, Szabadság utca 243.",
+  "adoszam": "76695632-2-31",
+  "datum": "2026.04.07.",
+  "ido": "07:08",
+  "nyugtaszam": "3501/95859",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "20 426 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1887"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1148"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1584"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "662"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2163"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "407"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "330"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8595"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1223"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2427"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA MARKET BT.",
+   "bbox": [
+    161,
+    36,
+    370,
+    49
+   ]
+  },
+  {
+   "text": "H-9893 Mártonvára, Szabadság utca 243.",
+   "bbox": [
+    57,
+    65,
+    475,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 76695632-2-31",
+   "bbox": [
+    145,
+    87,
+    387,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    130,
+    309,
+    144
+   ]
+  },
+  {
+   "text": "3 DB x 629",
+   "bbox": [
+    24,
+    170,
+    124,
+    181
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    192,
+    192,
+    205
+   ]
+  },
+  {
+   "text": "1887 A00",
+   "bbox": [
+    413,
+    192,
+    509,
+    205
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    220,
+    144,
+    233
+   ]
+  },
+  {
+   "text": "1148 B00",
+   "bbox": [
+    413,
+    220,
+    509,
+    233
+   ]
+  },
+  {
+   "text": "3 DB x 528",
+   "bbox": [
+    24,
+    248,
+    124,
+    259
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    270,
+    132,
+    283
+   ]
+  },
+  {
+   "text": "1584 A00",
+   "bbox": [
+    413,
+    270,
+    509,
+    283
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    298,
+    216,
+    311
+   ]
+  },
+  {
+   "text": "662 A00",
+   "bbox": [
+    425,
+    298,
+    509,
+    311
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    326,
+    252,
+    339
+   ]
+  },
+  {
+   "text": "2163 B00",
+   "bbox": [
+    413,
+    326,
+    509,
+    339
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    354,
+    156,
+    367
+   ]
+  },
+  {
+   "text": "407 A00",
+   "bbox": [
+    425,
+    354,
+    509,
+    367
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    383,
+    180,
+    395
+   ]
+  },
+  {
+   "text": "330 A00",
+   "bbox": [
+    425,
+    382,
+    509,
+    395
+   ]
+  },
+  {
+   "text": "3 DB x 2865",
+   "bbox": [
+    24,
+    410,
+    134,
+    421
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    432,
+    132,
+    445
+   ]
+  },
+  {
+   "text": "8595 A00",
+   "bbox": [
+    413,
+    432,
+    509,
+    445
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    460,
+    120,
+    473
+   ]
+  },
+  {
+   "text": "1223 C00",
+   "bbox": [
+    413,
+    460,
+    509,
+    473
+   ]
+  },
+  {
+   "text": "3 DB x 809",
+   "bbox": [
+    24,
+    488,
+    124,
+    499
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    510,
+    132,
+    523
+   ]
+  },
+  {
+   "text": "2427 A00",
+   "bbox": [
+    413,
+    510,
+    509,
+    523
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    546,
+    164,
+    566
+   ]
+  },
+  {
+   "text": "20 426 Ft",
+   "bbox": [
+    383,
+    551,
+    510,
+    566
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    585,
+    156,
+    601
+   ]
+  },
+  {
+   "text": "20 426 Ft",
+   "bbox": [
+    401,
+    588,
+    509,
+    601
+   ]
+  },
+  {
+   "text": "2026.04.07.",
+   "bbox": [
+    24,
+    630,
+    145,
+    641
+   ]
+  },
+  {
+   "text": "07:08",
+   "bbox": [
+    454,
+    630,
+    509,
+    641
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3501/95859",
+   "bbox": [
+    24,
+    655,
+    266,
+    670
+   ]
+  },
+  {
+   "text": "AP A97707275",
+   "bbox": [
+    24,
+    686,
+    156,
+    697
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    145,
+    723,
+    387,
+    738
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  533,
+  782
+ ]
+}

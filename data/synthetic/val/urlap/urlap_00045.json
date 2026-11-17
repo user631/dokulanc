@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Gál Béla",
+  "anyja_neve": "Kovács Mariann",
+  "szuletesi_hely": "Budahídnádasd",
+  "szuletesi_datum": "1954.02.08.",
+  "lakcim": "H-1264 Oroszmártonháza, Ligetvári út 235.",
+  "telefon": "+36 30 765 8272",
+  "email": "gal.bela@example.hu",
+  "adoazonosito_jel": "8318147847",
+  "taj_szam": "036 324 987",
+  "kelt": "Hídnádasd, 2025.11.22."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    288,
+    88,
+    952,
+    125
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    197,
+    345,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    251,
+    145,
+    266
+   ]
+  },
+  {
+   "text": "Gál Béla",
+   "bbox": [
+    412,
+    248,
+    503,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    304,
+    215,
+    322
+   ]
+  },
+  {
+   "text": "Kovács Mariann",
+   "bbox": [
+    412,
+    302,
+    584,
+    320
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    355,
+    239,
+    374
+   ]
+  },
+  {
+   "text": "Budahídnádasd",
+   "bbox": [
+    412,
+    352,
+    581,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    407,
+    229,
+    422
+   ]
+  },
+  {
+   "text": "1954.02.08.",
+   "bbox": [
+    412,
+    408,
+    548,
+    424
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    459,
+    175,
+    474
+   ]
+  },
+  {
+   "text": "H-1264 Oroszmártonháza, Ligetvári út 235.",
+   "bbox": [
+    412,
+    454,
+    896,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    511,
+    228,
+    526
+   ]
+  },
+  {
+   "text": "+36 30 765 8272",
+   "bbox": [
+    412,
+    511,
+    608,
+    527
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    563,
+    209,
+    578
+   ]
+  },
+  {
+   "text": "gal.bela@example.hu",
+   "bbox": [
+    412,
+    562,
+    650,
+    583
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    615,
+    267,
+    634
+   ]
+  },
+  {
+   "text": "8318147847",
+   "bbox": [
+    412,
+    613,
+    552,
+    629
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    667,
+    199,
+    682
+   ]
+  },
+  {
+   "text": "036 324 987",
+   "bbox": [
+    412,
+    665,
+    554,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    746,
+    292,
+    767
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    789,
+    465,
+    808
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    834,
+    287,
+    849
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    879,
+    486,
+    898
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    982,
+    136,
+    998
+   ]
+  },
+  {
+   "text": "Hídnádasd, 2025.11.22.",
+   "bbox": [
+    178,
+    978,
+    446,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1031,
+    988,
+    1044
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

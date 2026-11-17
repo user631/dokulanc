@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Budai János",
+  "email": "budai.janos@outlook.com",
+  "telefon": "06 1 861 4777",
+  "lakcim": "H-2976 Lajosligethalas, Hódmezővásárhelyi út 181.",
+  "szuletesi_datum": "1986.09.24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2006 – 2011"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2010 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Budai János",
+   "bbox": [
+    458,
+    113,
+    781,
+    153
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    512,
+    184,
+    728,
+    204
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    237,
+    179,
+    254
+   ]
+  },
+  {
+   "text": "budai.janos@outlook.com",
+   "bbox": [
+    330,
+    237,
+    614,
+    258
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    269,
+    192,
+    286
+   ]
+  },
+  {
+   "text": "06 1 861 4777",
+   "bbox": [
+    330,
+    270,
+    494,
+    286
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    300,
+    187,
+    318
+   ]
+  },
+  {
+   "text": "H-2976 Lajosligethalas, Hódmezővásárhelyi út 181.",
+   "bbox": [
+    330,
+    300,
+    902,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    332,
+    300,
+    350
+   ]
+  },
+  {
+   "text": "1986.09.24.",
+   "bbox": [
+    330,
+    334,
+    466,
+    350
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    386,
+    383,
+    411
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    90,
+    438,
+    232,
+    454
+   ]
+  },
+  {
+   "text": "rendszergazda – Molnár Bt.",
+   "bbox": [
+    90,
+    463,
+    442,
+    486
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    515,
+    289,
+    541
+   ]
+  },
+  {
+   "text": "2006 – 2011",
+   "bbox": [
+    90,
+    568,
+    232,
+    584
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    593,
+    526,
+    616
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    619,
+    270,
+    636
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    662,
+    232,
+    678
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    687,
+    458,
+    710
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    712,
+    187,
+    734
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    765,
+    253,
+    791
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B1)",
+   "bbox": [
+    90,
+    816,
+    374,
+    838
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    865,
+    243,
+    891
+   ]
+  },
+  {
+   "text": "JavaScript, C#, ügyfélkezelés",
+   "bbox": [
+    90,
+    916,
+    417,
+    938
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

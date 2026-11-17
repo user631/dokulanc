@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Bognár Logisztika Bt.",
+  "felado_cim": "H-8922 Törökszékváros, Bajai utca 123.",
+  "cimzett": "Kis Éva",
+  "cimzett_cim": "H-1152 Mindszentvég, Kaposvári utca 106.",
+  "datum": "2026. június 2.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "IKT-2026/96270",
+  "hatarido": "2026. június 10",
+  "teendo": "a SZ-2026/03697 számú számla 622 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Horváth Zsolt"
+ },
+ "lines": [
+  {
+   "text": "Bognár Logisztika Bt.",
+   "bbox": [
+    102,
+    79,
+    420,
+    110
+   ]
+  },
+  {
+   "text": "H-8922 Törökszékváros, Bajai utca 123.",
+   "bbox": [
+    102,
+    117,
+    498,
+    140
+   ]
+  },
+  {
+   "text": "Tel.: 06 1 220 9318   E-mail: info@bognar.hu",
+   "bbox": [
+    102,
+    144,
+    550,
+    166
+   ]
+  },
+  {
+   "text": "Kis Éva",
+   "bbox": [
+    102,
+    227,
+    188,
+    251
+   ]
+  },
+  {
+   "text": "H-1152 Mindszentvég",
+   "bbox": [
+    102,
+    265,
+    347,
+    290
+   ]
+  },
+  {
+   "text": "Kaposvári utca 106.",
+   "bbox": [
+    102,
+    297,
+    333,
+    322
+   ]
+  },
+  {
+   "text": "Györgyváros, 2026. június 2.",
+   "bbox": [
+    801,
+    369,
+    1138,
+    394
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    102,
+    425,
+    416,
+    450
+   ]
+  },
+  {
+   "text": "Ügyszám: IKT-2026/96270",
+   "bbox": [
+    102,
+    458,
+    409,
+    486
+   ]
+  },
+  {
+   "text": "Tisztelt Kis Éva!",
+   "bbox": [
+    102,
+    523,
+    289,
+    547
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2026/03697 számú, 2026. március 16. kelt számla 622",
+   "bbox": [
+    102,
+    579,
+    1125,
+    604
+   ]
+  },
+  {
+   "text": "000 Ft összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    102,
+    615,
+    927,
+    640
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2026. június 10 napjáig szíveskedjen átutalni a",
+   "bbox": [
+    102,
+    665,
+    1123,
+    690
+   ]
+  },
+  {
+   "text": "25336496-59320284-48097964 számú bankszámlánkra.",
+   "bbox": [
+    102,
+    701,
+    744,
+    721
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    102,
+    751,
+    1073,
+    776
+   ]
+  },
+  {
+   "text": "Tisztelettel:",
+   "bbox": [
+    102,
+    832,
+    245,
+    851
+   ]
+  },
+  {
+   "text": "Horváth Zsolt",
+   "bbox": [
+    142,
+    928,
+    306,
+    947
+   ]
+  },
+  {
+   "text": "ügyvezető",
+   "bbox": [
+    142,
+    959,
+    251,
+    982
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/04316",
+  "kiallitas_datuma": "2026-02-25",
+  "teljesites_datuma": "2026-02-22",
+  "fizetesi_hatarido": "2026-03-05",
+  "elado_nev": "Nagy Tech Bt.",
+  "elado_cim": "H-7367 Vác, Bakonymártoni utca 124.",
+  "elado_adoszam": "53354248-2-08",
+  "vevo_nev": "Hajdu Szolgáltató Bt.",
+  "vevo_cim": "H-5205 Zalaegerszeg, Kismártoni út 82.",
+  "vevo_adoszam": "27642072-5-24",
+  "bankszamla": "HU33 3574 3257 6278 7886 0390 4945",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "50 140 Ft",
+  "afa_osszesen": "13 538 Ft",
+  "brutto_osszesen": "63 678 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "16 840",
+    "netto": "16 840",
+    "afa_kulcs": "27%",
+    "afa": "4 547",
+    "brutto": "21 387"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "10 db",
+    "egysegar": "3 330",
+    "netto": "33 300",
+    "afa_kulcs": "27%",
+    "afa": "8 991",
+    "brutto": "42 291"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    527,
+    90,
+    712,
+    130
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/04316",
+   "bbox": [
+    440,
+    155,
+    801,
+    173
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    235,
+    162,
+    253
+   ]
+  },
+  {
+   "text": "Nagy Tech Bt.",
+   "bbox": [
+    90,
+    273,
+    243,
+    295
+   ]
+  },
+  {
+   "text": "H-7367 Vác, Bakonymártoni utca 124.",
+   "bbox": [
+    90,
+    307,
+    455,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 53354248-2-08",
+   "bbox": [
+    90,
+    338,
+    338,
+    354
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    235,
+    693,
+    253
+   ]
+  },
+  {
+   "text": "Hajdu Szolgáltató Bt.",
+   "bbox": [
+    630,
+    272,
+    861,
+    295
+   ]
+  },
+  {
+   "text": "H-5205 Zalaegerszeg, Kismártoni út 82.",
+   "bbox": [
+    630,
+    307,
+    1006,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 27642072-5-24",
+   "bbox": [
+    630,
+    338,
+    878,
+    354
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    90,
+    408,
+    264,
+    423
+   ]
+  },
+  {
+   "text": "2026-02-25",
+   "bbox": [
+    390,
+    408,
+    502,
+    423
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    90,
+    441,
+    272,
+    461
+   ]
+  },
+  {
+   "text": "2026-02-22",
+   "bbox": [
+    390,
+    441,
+    502,
+    456
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    90,
+    474,
+    263,
+    489
+   ]
+  },
+  {
+   "text": "2026-03-05",
+   "bbox": [
+    390,
+    474,
+    502,
+    489
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    90,
+    507,
+    221,
+    522
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    389,
+    506,
+    495,
+    527
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    551,
+    193,
+    568
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    551,
+    579,
+    568
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    668,
+    551,
+    747,
+    568
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    551,
+    874,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    547,
+    938,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    547,
+    1039,
+    564
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    551,
+    1150,
+    564
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    514,
+    593,
+    555,
+    606
+   ]
+  },
+  {
+   "text": "16 840",
+   "bbox": [
+    692,
+    593,
+    747,
+    606
+   ]
+  },
+  {
+   "text": "16 840",
+   "bbox": [
+    819,
+    593,
+    874,
+    606
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    593,
+    938,
+    606
+   ]
+  },
+  {
+   "text": "4 547",
+   "bbox": [
+    993,
+    593,
+    1038,
+    606
+   ]
+  },
+  {
+   "text": "21 387",
+   "bbox": [
+    1095,
+    593,
+    1150,
+    606
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    90,
+    592,
+    343,
+    610
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    514,
+    628,
+    559,
+    642
+   ]
+  },
+  {
+   "text": "3 330",
+   "bbox": [
+    702,
+    629,
+    747,
+    642
+   ]
+  },
+  {
+   "text": "33 300",
+   "bbox": [
+    819,
+    629,
+    874,
+    642
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    629,
+    938,
+    642
+   ]
+  },
+  {
+   "text": "8 991",
+   "bbox": [
+    993,
+    629,
+    1038,
+    642
+   ]
+  },
+  {
+   "text": "42 291",
+   "bbox": [
+    1095,
+    629,
+    1150,
+    642
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    90,
+    628,
+    256,
+    646
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    668,
+    686,
+    820,
+    702
+   ]
+  },
+  {
+   "text": "50 140 Ft",
+   "bbox": [
+    1058,
+    686,
+    1150,
+    702
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    718,
+    820,
+    739
+   ]
+  },
+  {
+   "text": "13 538 Ft",
+   "bbox": [
+    1058,
+    723,
+    1150,
+    739
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    620,
+    760,
+    820,
+    776
+   ]
+  },
+  {
+   "text": "63 678 Ft",
+   "bbox": [
+    1055,
+    760,
+    1150,
+    776
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU33 3574 3257 6278 7886 0390 4945",
+   "bbox": [
+    90,
+    825,
+    611,
+    841
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    90,
+    856,
+    607,
+    873
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

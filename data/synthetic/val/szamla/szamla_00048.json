@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2026/08041",
+  "kiallitas_datuma": "2026. május 16.",
+  "teljesites_datuma": "2026. május 12.",
+  "fizetesi_hatarido": "2026. május 24.",
+  "elado_nev": "Gál Trade Zrt.",
+  "elado_cim": "H-3936 Tótnémeti, Pilismártoni utca 53.",
+  "elado_adoszam": "93788760-5-19",
+  "vevo_nev": "Németh Szolgáltató Kft.",
+  "vevo_cim": "H-6317 Mezőhídfalu, Németfürdői tér 104.",
+  "vevo_adoszam": "32784303-2-12",
+  "bankszamla": "73749804-98369492",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "436 380 Ft",
+  "afa_osszesen": "116 133 Ft",
+  "brutto_osszesen": "552 513 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "3 db",
+    "egysegar": "8 940",
+    "netto": "26 820",
+    "afa_kulcs": "27%",
+    "afa": "7 241",
+    "brutto": "34 061"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "33 490",
+    "netto": "401 880",
+    "afa_kulcs": "27%",
+    "afa": "108 508",
+    "brutto": "510 388"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "12 db",
+    "egysegar": "640",
+    "netto": "7 680",
+    "afa_kulcs": "5%",
+    "afa": "384",
+    "brutto": "8 064"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "GÁL",
+   "bbox": [
+    136,
+    115,
+    188,
+    135
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    970,
+    92,
+    1158,
+    133
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2026/08041",
+   "bbox": [
+    891,
+    158,
+    1158,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    238,
+    155,
+    256
+   ]
+  },
+  {
+   "text": "Gál Trade Zrt.",
+   "bbox": [
+    82,
+    276,
+    249,
+    294
+   ]
+  },
+  {
+   "text": "H-3936 Tótnémeti, Pilismártoni utca 53.",
+   "bbox": [
+    82,
+    311,
+    476,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 93788760-5-19",
+   "bbox": [
+    82,
+    343,
+    334,
+    360
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    238,
+    696,
+    256
+   ]
+  },
+  {
+   "text": "Németh Szolgáltató Kft.",
+   "bbox": [
+    630,
+    276,
+    900,
+    300
+   ]
+  },
+  {
+   "text": "H-6317 Mezőhídfalu, Németfürdői tér 104.",
+   "bbox": [
+    630,
+    311,
+    1049,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 32784303-2-12",
+   "bbox": [
+    630,
+    343,
+    882,
+    360
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    82,
+    413,
+    235,
+    427
+   ]
+  },
+  {
+   "text": "2026. május 16.",
+   "bbox": [
+    82,
+    443,
+    233,
+    464
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    413,
+    510,
+    431
+   ]
+  },
+  {
+   "text": "2026. május 12.",
+   "bbox": [
+    351,
+    443,
+    502,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    413,
+    771,
+    427
+   ]
+  },
+  {
+   "text": "2026. május 24.",
+   "bbox": [
+    620,
+    443,
+    771,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    413,
+    1002,
+    427
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    443,
+    958,
+    459
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    495,
+    189,
+    513
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    495,
+    581,
+    513
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    665,
+    495,
+    749,
+    513
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    495,
+    878,
+    509
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    491,
+    942,
+    509
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    491,
+    1045,
+    509
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1098,
+    495,
+    1158,
+    509
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    512,
+    537,
+    550,
+    552
+   ]
+  },
+  {
+   "text": "8 940",
+   "bbox": [
+    700,
+    538,
+    749,
+    552
+   ]
+  },
+  {
+   "text": "26 820",
+   "bbox": [
+    818,
+    538,
+    878,
+    552
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    538,
+    942,
+    552
+   ]
+  },
+  {
+   "text": "7 241",
+   "bbox": [
+    996,
+    538,
+    1045,
+    552
+   ]
+  },
+  {
+   "text": "34 061",
+   "bbox": [
+    1098,
+    538,
+    1158,
+    552
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    82,
+    537,
+    229,
+    556
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    512,
+    574,
+    608,
+    589
+   ]
+  },
+  {
+   "text": "33 490",
+   "bbox": [
+    689,
+    575,
+    749,
+    589
+   ]
+  },
+  {
+   "text": "401 880",
+   "bbox": [
+    807,
+    575,
+    878,
+    589
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    575,
+    942,
+    589
+   ]
+  },
+  {
+   "text": "108 508",
+   "bbox": [
+    974,
+    575,
+    1045,
+    589
+   ]
+  },
+  {
+   "text": "510 388",
+   "bbox": [
+    1087,
+    575,
+    1158,
+    589
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    82,
+    574,
+    269,
+    593
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    611,
+    561,
+    626
+   ]
+  },
+  {
+   "text": "640",
+   "bbox": [
+    716,
+    612,
+    749,
+    626
+   ]
+  },
+  {
+   "text": "7 680",
+   "bbox": [
+    829,
+    612,
+    878,
+    626
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    913,
+    612,
+    942,
+    626
+   ]
+  },
+  {
+   "text": "384",
+   "bbox": [
+    1012,
+    612,
+    1045,
+    626
+   ]
+  },
+  {
+   "text": "8 064",
+   "bbox": [
+    1109,
+    612,
+    1158,
+    626
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    82,
+    611,
+    187,
+    630
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    669,
+    669,
+    828,
+    687
+   ]
+  },
+  {
+   "text": "436 380 Ft",
+   "bbox": [
+    1047,
+    670,
+    1158,
+    687
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    702,
+    828,
+    725
+   ]
+  },
+  {
+   "text": "116 133 Ft",
+   "bbox": [
+    1047,
+    708,
+    1158,
+    725
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    710,
+    745,
+    828,
+    768
+   ]
+  },
+  {
+   "text": "552 513 Ft",
+   "bbox": [
+    1045,
+    746,
+    1159,
+    763
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 73749804-98369492",
+   "bbox": [
+    82,
+    813,
+    453,
+    829
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    844,
+    641,
+    862
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

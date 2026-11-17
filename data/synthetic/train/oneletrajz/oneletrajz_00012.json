@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Sándor",
+  "email": "szabo.sandor@example.hu",
+  "telefon": "+36 30 111 6980",
+  "lakcim": "H-2890 Nyíregyháza, Szabadság utca 160.",
+  "szuletesi_datum": "1991.10.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "ceg": "Vörös Tech Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2015 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "csapatmunka",
+   "Python",
+   "JavaScript",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Sándor",
+   "bbox": [
+    489,
+    89,
+    751,
+    122
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    525,
+    159,
+    714,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    213,
+    149,
+    227
+   ]
+  },
+  {
+   "text": "szabo.sandor@example.hu",
+   "bbox": [
+    330,
+    213,
+    559,
+    231
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    244,
+    162,
+    258
+   ]
+  },
+  {
+   "text": "+36 30 111 6980",
+   "bbox": [
+    330,
+    245,
+    476,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    275,
+    156,
+    289
+   ]
+  },
+  {
+   "text": "H-2890 Nyíregyháza, Szabadság utca 160.",
+   "bbox": [
+    330,
+    275,
+    686,
+    293
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    306,
+    233,
+    320
+   ]
+  },
+  {
+   "text": "1991.10.09.",
+   "bbox": [
+    330,
+    307,
+    433,
+    320
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    357,
+    294,
+    378
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    90,
+    409,
+    198,
+    422
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Mészáros Logisztika Kft.",
+   "bbox": [
+    90,
+    433,
+    576,
+    452
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    90,
+    475,
+    198,
+    488
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Vörös Tech Zrt.",
+   "bbox": [
+    90,
+    499,
+    496,
+    518
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    549,
+    228,
+    571
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    90,
+    602,
+    198,
+    615
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    623,
+    241,
+    645
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    651,
+    319,
+    665
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    693,
+    198,
+    706
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    717,
+    362,
+    736
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    742,
+    164,
+    760
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    792,
+    206,
+    814
+   ]
+  },
+  {
+   "text": "spanyol (B1), francia (A2)",
+   "bbox": [
+    90,
+    843,
+    303,
+    862
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    890,
+    197,
+    912
+   ]
+  },
+  {
+   "text": "SAP, csapatmunka, Python, JavaScript, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    942,
+    629,
+    960
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

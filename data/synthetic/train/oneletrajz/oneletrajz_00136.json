@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Magyar Zsolt",
+  "email": "magyar.zsolt@outlook.com",
+  "telefon": "+36 70 378 2963",
+  "lakcim": "H-9484 Ligethalas, Dunaújvárosi utca 109.",
+  "szuletesi_datum": "1978. 07. 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "1996 – 1999"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nemes Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2001 – 2005"
+   },
+   {
+    "ceg": "Varga Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2000 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Git",
+   "prezentáció",
+   "csapatmunka",
+   "C#",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Magyar Zsolt",
+   "bbox": [
+    446,
+    110,
+    793,
+    157
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    495,
+    177,
+    744,
+    204
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    232,
+    179,
+    249
+   ]
+  },
+  {
+   "text": "magyar.zsolt@outlook.com",
+   "bbox": [
+    330,
+    232,
+    628,
+    253
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    192,
+    281
+   ]
+  },
+  {
+   "text": "+36 70 378 2963",
+   "bbox": [
+    330,
+    265,
+    526,
+    281
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    187,
+    313
+   ]
+  },
+  {
+   "text": "H-9484 Ligethalas, Dunaújvárosi utca 109.",
+   "bbox": [
+    330,
+    295,
+    806,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    327,
+    300,
+    345
+   ]
+  },
+  {
+   "text": "1978. 07. 17.",
+   "bbox": [
+    330,
+    329,
+    482,
+    345
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    381,
+    383,
+    406
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    433,
+    232,
+    449
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nemes Kft.",
+   "bbox": [
+    90,
+    458,
+    535,
+    481
+   ]
+  },
+  {
+   "text": "2000 – 2001",
+   "bbox": [
+    90,
+    501,
+    232,
+    517
+   ]
+  },
+  {
+   "text": "tesztmérnök – Varga Kft.",
+   "bbox": [
+    90,
+    526,
+    411,
+    549
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    578,
+    289,
+    604
+   ]
+  },
+  {
+   "text": "1996 – 1999",
+   "bbox": [
+    90,
+    631,
+    232,
+    647
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    656,
+    526,
+    679
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    682,
+    270,
+    699
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    90,
+    725,
+    232,
+    741
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    750,
+    458,
+    773
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    775,
+    187,
+    797
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    828,
+    253,
+    854
+   ]
+  },
+  {
+   "text": "angol (C1), olasz (A2)",
+   "bbox": [
+    90,
+    880,
+    335,
+    901
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    928,
+    243,
+    954
+   ]
+  },
+  {
+   "text": "projektmenedzsment, Git, prezentáció, csapatmunka, C#, Python",
+   "bbox": [
+    90,
+    979,
+    818,
+    1001
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

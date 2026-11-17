@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Tamás",
+  "email": "kovacs.tamas@citromail.hu",
+  "telefon": "+36 30 382 8638",
+  "lakcim": "H-5372 Somogyhetvenfa, Tapolcahalasi utca 70.",
+  "szuletesi_datum": "1997. december 2.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh és Társa Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2021 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SAP",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Tamás",
+   "bbox": [
+    458,
+    88,
+    783,
+    122
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    157,
+    707,
+    174
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    208,
+    158,
+    223
+   ]
+  },
+  {
+   "text": "kovacs.tamas@citromail.hu",
+   "bbox": [
+    330,
+    208,
+    575,
+    227
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    238,
+    168,
+    253
+   ]
+  },
+  {
+   "text": "+36 30 382 8638",
+   "bbox": [
+    330,
+    238,
+    481,
+    253
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    268,
+    166,
+    283
+   ]
+  },
+  {
+   "text": "H-5372 Somogyhetvenfa, Tapolcahalasi utca 70.",
+   "bbox": [
+    330,
+    268,
+    762,
+    287
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    298,
+    250,
+    313
+   ]
+  },
+  {
+   "text": "1997. december 2.",
+   "bbox": [
+    330,
+    298,
+    498,
+    313
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    349,
+    315,
+    371
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    398,
+    201,
+    413
+   ]
+  },
+  {
+   "text": "adatelemző – Németh és Társa Kft.",
+   "bbox": [
+    90,
+    422,
+    443,
+    438
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    471,
+    246,
+    495
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    90,
+    522,
+    201,
+    537
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    543,
+    258,
+    566
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    570,
+    326,
+    589
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    610,
+    201,
+    625
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    634,
+    404,
+    654
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    658,
+    316,
+    677
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    707,
+    217,
+    731
+   ]
+  },
+  {
+   "text": "német (B2), spanyol (B1)",
+   "bbox": [
+    90,
+    758,
+    314,
+    777
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    803,
+    213,
+    827
+   ]
+  },
+  {
+   "text": "Python, SAP, ügyfélkezelés, projektmenedzsment, JavaScript",
+   "bbox": [
+    90,
+    854,
+    638,
+    873
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

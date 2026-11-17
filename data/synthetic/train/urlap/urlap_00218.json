@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kovács Sándor",
+  "anyja_neve": "Lengyel Ádám",
+  "szuletesi_hely": "Magyarháthalas",
+  "szuletesi_datum": "2006. 10. 06.",
+  "lakcim": "H-3148 Székdevecser, Dózsa györgy utca 98.",
+  "telefon": "+36 20 168 7628",
+  "email": "kovacs.sandor@citromail.hu",
+  "adoazonosito_jel": "8510479267",
+  "taj_szam": "000 069 153",
+  "kelt": "Hídvár, 2025. 11. 17."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    417,
+    94,
+    823,
+    129
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    207,
+    339,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    264,
+    149,
+    279
+   ]
+  },
+  {
+   "text": "Kovács Sándor",
+   "bbox": [
+    435,
+    264,
+    592,
+    282
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    317,
+    213,
+    338
+   ]
+  },
+  {
+   "text": "Lengyel Ádám",
+   "bbox": [
+    435,
+    314,
+    587,
+    341
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    371,
+    237,
+    392
+   ]
+  },
+  {
+   "text": "Magyarháthalas",
+   "bbox": [
+    435,
+    373,
+    604,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    425,
+    228,
+    441
+   ]
+  },
+  {
+   "text": "2006. 10. 06.",
+   "bbox": [
+    435,
+    427,
+    576,
+    444
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    479,
+    183,
+    495
+   ]
+  },
+  {
+   "text": "H-3148 Székdevecser, Dózsa györgy utca 98.",
+   "bbox": [
+    435,
+    477,
+    907,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    533,
+    230,
+    549
+   ]
+  },
+  {
+   "text": "+36 20 168 7628",
+   "bbox": [
+    435,
+    530,
+    614,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    587,
+    217,
+    603
+   ]
+  },
+  {
+   "text": "kovacs.sandor@citromail.hu",
+   "bbox": [
+    435,
+    588,
+    737,
+    610
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    641,
+    264,
+    662
+   ]
+  },
+  {
+   "text": "8510479267",
+   "bbox": [
+    435,
+    638,
+    567,
+    659
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    696,
+    204,
+    711
+   ]
+  },
+  {
+   "text": "000 069 153",
+   "bbox": [
+    435,
+    698,
+    571,
+    719
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    775,
+    294,
+    798
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    820,
+    461,
+    841
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    865,
+    292,
+    881
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    910,
+    477,
+    931
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    1013,
+    141,
+    1030
+   ]
+  },
+  {
+   "text": "Hídvár, 2025. 11. 17.",
+   "bbox": [
+    184,
+    1010,
+    397,
+    1032
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1062,
+    982,
+    1076
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

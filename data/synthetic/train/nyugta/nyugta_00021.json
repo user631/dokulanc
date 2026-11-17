@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NEMES DISZKONT BT.",
+  "uzlet_cim": "H-3985 Baja, Kunkereszti utca 96.",
+  "adoszam": "31894564-2-44",
+  "datum": "2026.03.24.",
+  "ido": "09:23",
+  "nyugtaszam": "0386/56266",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 251 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2778"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "914"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "654"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "467"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1623"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "696"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1540"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "751"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "331"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "259"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "238"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NEMES DISZKONT BT.",
+   "bbox": [
+    163,
+    35,
+    415,
+    49
+   ]
+  },
+  {
+   "text": "H-3985 Baja, Kunkereszti utca 96.",
+   "bbox": [
+    107,
+    63,
+    470,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 31894564-2-44",
+   "bbox": [
+    168,
+    88,
+    410,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    244,
+    131,
+    334,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 926",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    195,
+    180,
+    210
+   ]
+  },
+  {
+   "text": "2778 C00",
+   "bbox": [
+    451,
+    195,
+    555,
+    210
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    224,
+    128,
+    239
+   ]
+  },
+  {
+   "text": "914 A00",
+   "bbox": [
+    464,
+    224,
+    555,
+    239
+   ]
+  },
+  {
+   "text": "2 DB x 327",
+   "bbox": [
+    24,
+    253,
+    134,
+    266
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    276,
+    206,
+    291
+   ]
+  },
+  {
+   "text": "654 A00",
+   "bbox": [
+    464,
+    276,
+    555,
+    291
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    305,
+    141,
+    320
+   ]
+  },
+  {
+   "text": "467 C00",
+   "bbox": [
+    464,
+    305,
+    555,
+    320
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    336,
+    154,
+    349
+   ]
+  },
+  {
+   "text": "1623 B00",
+   "bbox": [
+    451,
+    334,
+    555,
+    349
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    363,
+    232,
+    378
+   ]
+  },
+  {
+   "text": "696 C00",
+   "bbox": [
+    464,
+    363,
+    555,
+    378
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    394,
+    193,
+    407
+   ]
+  },
+  {
+   "text": "1540 A00",
+   "bbox": [
+    451,
+    392,
+    555,
+    407
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    421,
+    141,
+    436
+   ]
+  },
+  {
+   "text": "751 A00",
+   "bbox": [
+    464,
+    421,
+    555,
+    436
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    450,
+    167,
+    468
+   ]
+  },
+  {
+   "text": "331 C00",
+   "bbox": [
+    464,
+    450,
+    555,
+    465
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    481,
+    193,
+    494
+   ]
+  },
+  {
+   "text": "259 C00",
+   "bbox": [
+    464,
+    479,
+    555,
+    494
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    508,
+    206,
+    526
+   ]
+  },
+  {
+   "text": "238 A00",
+   "bbox": [
+    464,
+    508,
+    555,
+    523
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    547,
+    174,
+    567
+   ]
+  },
+  {
+   "text": "10 251 Ft",
+   "bbox": [
+    420,
+    549,
+    555,
+    567
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    586,
+    128,
+    603
+   ]
+  },
+  {
+   "text": "10 251 Ft",
+   "bbox": [
+    438,
+    588,
+    555,
+    603
+   ]
+  },
+  {
+   "text": "2026.03.24.",
+   "bbox": [
+    24,
+    630,
+    145,
+    644
+   ]
+  },
+  {
+   "text": "09:23",
+   "bbox": [
+    500,
+    630,
+    555,
+    644
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0386/56266",
+   "bbox": [
+    24,
+    658,
+    266,
+    676
+   ]
+  },
+  {
+   "text": "AP A60292801",
+   "bbox": [
+    24,
+    688,
+    156,
+    702
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    199,
+    728,
+    379,
+    744
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  579,
+  789
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Nagy Csaba",
+  "anyja_neve": "Tóth Henrietta",
+  "szuletesi_hely": "Halas",
+  "szuletesi_datum": "1985. 03. 27.",
+  "lakcim": "H-9897 Felsőligetfa, Újmártoni út 49.",
+  "telefon": "+36 70 640 5295",
+  "email": "nagy.csaba@gmail.com",
+  "adoazonosito_jel": "8431841583",
+  "taj_szam": "642 271 081",
+  "kelt": "Györgyhalas, 2026. 10. 31."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    318,
+    110,
+    923,
+    141
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    217,
+    298,
+    237
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    271,
+    157,
+    284
+   ]
+  },
+  {
+   "text": "Nagy Csaba",
+   "bbox": [
+    447,
+    270,
+    557,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    323,
+    213,
+    340
+   ]
+  },
+  {
+   "text": "Tóth Henrietta",
+   "bbox": [
+    448,
+    324,
+    577,
+    340
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    375,
+    230,
+    392
+   ]
+  },
+  {
+   "text": "Halas",
+   "bbox": [
+    448,
+    374,
+    499,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    427,
+    222,
+    440
+   ]
+  },
+  {
+   "text": "1985. 03. 27.",
+   "bbox": [
+    448,
+    428,
+    566,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    479,
+    183,
+    492
+   ]
+  },
+  {
+   "text": "H-9897 Felsőligetfa, Újmártoni út 49.",
+   "bbox": [
+    448,
+    474,
+    784,
+    499
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    531,
+    222,
+    544
+   ]
+  },
+  {
+   "text": "+36 70 640 5295",
+   "bbox": [
+    448,
+    532,
+    599,
+    547
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    583,
+    209,
+    596
+   ]
+  },
+  {
+   "text": "nagy.csaba@gmail.com",
+   "bbox": [
+    448,
+    580,
+    662,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    635,
+    255,
+    652
+   ]
+  },
+  {
+   "text": "8431841583",
+   "bbox": [
+    448,
+    633,
+    558,
+    648
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    687,
+    201,
+    700
+   ]
+  },
+  {
+   "text": "642 271 081",
+   "bbox": [
+    448,
+    689,
+    559,
+    704
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    765,
+    263,
+    785
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    809,
+    417,
+    826
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    854,
+    279,
+    867
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    899,
+    438,
+    916
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1001,
+    149,
+    1015
+   ]
+  },
+  {
+   "text": "Györgyhalas, 2026. 10. 31.",
+   "bbox": [
+    198,
+    997,
+    441,
+    1018
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1051,
+    962,
+    1062
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS CSEMEGE BT.",
+  "uzlet_cim": "H-8172 Ligetkövesd, Váci utca 192.",
+  "adoszam": "57400248-2-29",
+  "datum": "2024.04.20.",
+  "ido": "09:06",
+  "nyugtaszam": "8216/45571",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 124 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1381"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "243"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2500"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS CSEMEGE BT.",
+   "bbox": [
+    190,
+    30,
+    442,
+    50
+   ]
+  },
+  {
+   "text": "H-8172 Ligetkövesd, Váci utca 192.",
+   "bbox": [
+    112,
+    68,
+    520,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 57400248-2-29",
+   "bbox": [
+    184,
+    91,
+    448,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    267,
+    137,
+    365,
+    152
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    179,
+    154,
+    193
+   ]
+  },
+  {
+   "text": "1381 C00",
+   "bbox": [
+    505,
+    179,
+    609,
+    193
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    210,
+    194,
+    223
+   ]
+  },
+  {
+   "text": "243 B00",
+   "bbox": [
+    518,
+    209,
+    609,
+    223
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    239,
+    271,
+    253
+   ]
+  },
+  {
+   "text": "2500 A00",
+   "bbox": [
+    505,
+    239,
+    609,
+    253
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    278,
+    168,
+    298
+   ]
+  },
+  {
+   "text": "5 124 Ft",
+   "bbox": [
+    481,
+    282,
+    609,
+    298
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    318,
+    155,
+    335
+   ]
+  },
+  {
+   "text": "5 124 Ft",
+   "bbox": [
+    505,
+    321,
+    609,
+    335
+   ]
+  },
+  {
+   "text": "2024.04.20.",
+   "bbox": [
+    24,
+    364,
+    156,
+    377
+   ]
+  },
+  {
+   "text": "09:06",
+   "bbox": [
+    549,
+    364,
+    609,
+    377
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8216/45571",
+   "bbox": [
+    24,
+    391,
+    288,
+    409
+   ]
+  },
+  {
+   "text": "AP A64547677",
+   "bbox": [
+    24,
+    424,
+    168,
+    437
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    173,
+    464,
+    459,
+    480
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  633,
+  524
+ ]
+}

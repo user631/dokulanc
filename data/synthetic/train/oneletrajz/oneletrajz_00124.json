@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kiss Viktor",
+  "email": "kiss.viktor@gmail.com",
+  "telefon": "+36 20 791 4954",
+  "lakcim": "H-4532 Hódmezővásárhely, Szombathelyi utca 4.",
+  "szuletesi_datum": "2003. 05. 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Deák és Társa Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Fülöp Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    202,
+    131
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    155,
+    97,
+    169
+   ]
+  },
+  {
+   "text": "kiss.viktor@gmail.com",
+   "bbox": [
+    40,
+    177,
+    214,
+    195
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    108,
+    223
+   ]
+  },
+  {
+   "text": "+36 20 791 4954",
+   "bbox": [
+    40,
+    232,
+    181,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    263,
+    104,
+    277
+   ]
+  },
+  {
+   "text": "H-4532 Hódmezővásárhely, Szombathelyi",
+   "bbox": [
+    40,
+    285,
+    367,
+    303
+   ]
+  },
+  {
+   "text": "utca 4.",
+   "bbox": [
+    40,
+    308,
+    94,
+    321
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    339,
+    183,
+    353
+   ]
+  },
+  {
+   "text": "2003. 05. 30.",
+   "bbox": [
+    40,
+    362,
+    147,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    419,
+    189,
+    441
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    461,
+    127,
+    480
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    487,
+    134,
+    506
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    539,
+    171,
+    561
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    581,
+    242,
+    600
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    607,
+    151,
+    626
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    634,
+    64,
+    648
+   ]
+  },
+  {
+   "text": "Kiss Viktor",
+   "bbox": [
+    450,
+    120,
+    688,
+    154
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    183,
+    559,
+    210
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    248,
+    690,
+    272
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    297,
+    588,
+    317
+   ]
+  },
+  {
+   "text": "projektmenedzser – Deák és Társa Zrt.",
+   "bbox": [
+    450,
+    321,
+    857,
+    342
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    361,
+    588,
+    381
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Fülöp Consulting Kft.",
+   "bbox": [
+    450,
+    385,
+    869,
+    406
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    435,
+    612,
+    460
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    486,
+    561,
+    501
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    505,
+    621,
+    530
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    532,
+    682,
+    553
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    574,
+    561,
+    589
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    597,
+    747,
+    618
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    620,
+    680,
+    641
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

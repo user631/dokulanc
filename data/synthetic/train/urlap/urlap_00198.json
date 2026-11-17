@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Farkas Ferenc",
+  "anyja_neve": "Németh Edit",
+  "szuletesi_hely": "Veszprém",
+  "szuletesi_datum": "1968.10.21.",
+  "lakcim": "H-7762 Vác, Kőrösi utca 45.",
+  "telefon": "+36 70 834 3019",
+  "email": "farkas.ferenc@gmail.com",
+  "adoazonosito_jel": "8371835261",
+  "taj_szam": "273 567 312",
+  "kelt": "Hajdúhetvenharaszti, 2025.11.08."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    378,
+    84,
+    861,
+    118
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    471,
+    140,
+    769,
+    158
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    195,
+    320,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    249,
+    137,
+    264
+   ]
+  },
+  {
+   "text": "Farkas Ferenc",
+   "bbox": [
+    407,
+    249,
+    574,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    302,
+    200,
+    321
+   ]
+  },
+  {
+   "text": "Németh Edit",
+   "bbox": [
+    407,
+    298,
+    557,
+    318
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    355,
+    225,
+    374
+   ]
+  },
+  {
+   "text": "Veszprém",
+   "bbox": [
+    407,
+    351,
+    520,
+    378
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    408,
+    215,
+    423
+   ]
+  },
+  {
+   "text": "1968.10.21.",
+   "bbox": [
+    407,
+    404,
+    533,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    461,
+    168,
+    476
+   ]
+  },
+  {
+   "text": "H-7762 Vác, Kőrösi utca 45.",
+   "bbox": [
+    407,
+    461,
+    732,
+    485
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    514,
+    216,
+    529
+   ]
+  },
+  {
+   "text": "+36 70 834 3019",
+   "bbox": [
+    407,
+    515,
+    601,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    567,
+    200,
+    582
+   ]
+  },
+  {
+   "text": "farkas.ferenc@gmail.com",
+   "bbox": [
+    407,
+    562,
+    702,
+    589
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    620,
+    250,
+    639
+   ]
+  },
+  {
+   "text": "8371835261",
+   "bbox": [
+    407,
+    615,
+    549,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    673,
+    188,
+    688
+   ]
+  },
+  {
+   "text": "273 567 312",
+   "bbox": [
+    407,
+    669,
+    552,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    753,
+    279,
+    775
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    797,
+    441,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    842,
+    278,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    887,
+    455,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    990,
+    129,
+    1006
+   ]
+  },
+  {
+   "text": "Hajdúhetvenharaszti, 2025.11.08.",
+   "bbox": [
+    174,
+    990,
+    535,
+    1015
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1039,
+    991,
+    1052
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

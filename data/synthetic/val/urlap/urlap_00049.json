@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Kiss Szilvia",
+  "anyja_neve": "Papp József",
+  "szuletesi_hely": "Újtótnádasd",
+  "szuletesi_datum": "1997. 01. 07.",
+  "lakcim": "H-5053 Székharaszti, Mártondevecseri utca 88.",
+  "telefon": "+36 30 143 2627",
+  "email": "kiss.szilvia@outlook.com",
+  "adoazonosito_jel": "8474883741",
+  "taj_szam": "397 232 931",
+  "kelt": "Somogyhíddevecser, 2024. 11. 21."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    538,
+    89,
+    703,
+    114
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    82,
+    188,
+    291,
+    208
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    94,
+    242,
+    131,
+    255
+   ]
+  },
+  {
+   "text": "Kiss Szilvia",
+   "bbox": [
+    380,
+    241,
+    490,
+    256
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    293,
+    188,
+    310
+   ]
+  },
+  {
+   "text": "Papp József",
+   "bbox": [
+    380,
+    290,
+    500,
+    309
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    94,
+    344,
+    210,
+    361
+   ]
+  },
+  {
+   "text": "Újtótnádasd",
+   "bbox": [
+    380,
+    338,
+    495,
+    361
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    94,
+    395,
+    201,
+    408
+   ]
+  },
+  {
+   "text": "1997. 01. 07.",
+   "bbox": [
+    380,
+    396,
+    506,
+    411
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    94,
+    446,
+    157,
+    459
+   ]
+  },
+  {
+   "text": "H-5053 Székharaszti, Mártondevecseri utca 88.",
+   "bbox": [
+    380,
+    444,
+    835,
+    462
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    94,
+    497,
+    202,
+    510
+   ]
+  },
+  {
+   "text": "+36 30 143 2627",
+   "bbox": [
+    380,
+    495,
+    542,
+    510
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    94,
+    548,
+    184,
+    561
+   ]
+  },
+  {
+   "text": "kiss.szilvia@outlook.com",
+   "bbox": [
+    380,
+    550,
+    622,
+    569
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    599,
+    232,
+    616
+   ]
+  },
+  {
+   "text": "8474883741",
+   "bbox": [
+    380,
+    601,
+    500,
+    616
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    94,
+    650,
+    179,
+    663
+   ]
+  },
+  {
+   "text": "397 232 931",
+   "bbox": [
+    380,
+    650,
+    500,
+    665
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    82,
+    727,
+    244,
+    746
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    127,
+    771,
+    410,
+    788
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    127,
+    816,
+    257,
+    829
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    861,
+    425,
+    878
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    82,
+    962,
+    120,
+    976
+   ]
+  },
+  {
+   "text": "Somogyhíddevecser, 2024. 11. 21.",
+   "bbox": [
+    172,
+    959,
+    507,
+    978
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    946,
+    1011,
+    990,
+    1022
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

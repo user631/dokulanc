@@ -1,0 +1,248 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FODOR KISBOLT BT.",
+  "uzlet_cim": "H-4902 Debrecen, Györgyfalvai tér 148.",
+  "adoszam": "56140264-2-23",
+  "datum": "2026.11.23.",
+  "ido": "11:30",
+  "nyugtaszam": "3338/36412",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "5 396 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1461"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "600"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1275"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1560"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FODOR KISBOLT BT.",
+   "bbox": [
+    185,
+    36,
+    440,
+    51
+   ]
+  },
+  {
+   "text": "H-4902 Debrecen, Györgyfalvai tér 148.",
+   "bbox": [
+    66,
+    70,
+    560,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56140264-2-23",
+   "bbox": [
+    170,
+    94,
+    456,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    264,
+    140,
+    362,
+    156
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    184,
+    164,
+    198
+   ]
+  },
+  {
+   "text": "1461 C00",
+   "bbox": [
+    490,
+    184,
+    602,
+    198
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    215,
+    178,
+    229
+   ]
+  },
+  {
+   "text": "600 C00",
+   "bbox": [
+    504,
+    215,
+    602,
+    229
+   ]
+  },
+  {
+   "text": "3 DB x 425",
+   "bbox": [
+    24,
+    244,
+    144,
+    257
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    271,
+    220,
+    285
+   ]
+  },
+  {
+   "text": "1275 B00",
+   "bbox": [
+    490,
+    271,
+    602,
+    285
+   ]
+  },
+  {
+   "text": "3 DB x 520",
+   "bbox": [
+    24,
+    300,
+    144,
+    313
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    327,
+    220,
+    341
+   ]
+  },
+  {
+   "text": "1560 A00",
+   "bbox": [
+    490,
+    327,
+    602,
+    341
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    365,
+    184,
+    387
+   ]
+  },
+  {
+   "text": "5 396 Ft",
+   "bbox": [
+    474,
+    370,
+    602,
+    387
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    408,
+    136,
+    425
+   ]
+  },
+  {
+   "text": "5 396 Ft",
+   "bbox": [
+    490,
+    411,
+    602,
+    425
+   ]
+  },
+  {
+   "text": "2026.11.23.",
+   "bbox": [
+    24,
+    455,
+    167,
+    468
+   ]
+  },
+  {
+   "text": "11:30",
+   "bbox": [
+    537,
+    455,
+    602,
+    468
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3338/36412",
+   "bbox": [
+    24,
+    483,
+    310,
+    501
+   ]
+  },
+  {
+   "text": "AP A66423222",
+   "bbox": [
+    24,
+    517,
+    180,
+    530
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    214,
+    556,
+    410,
+    574
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  626,
+  618
+ ]
+}

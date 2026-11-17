@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALÁZS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-2645 Békéscsaba, Békésmindszenti utca 211.",
+  "adoszam": "79879239-2-25",
+  "datum": "2025.07.11.",
+  "ido": "11:46",
+  "nyugtaszam": "9486/93279",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 297 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "384"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1155"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "353"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2414"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "339"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "986"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "655"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2556"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "705"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "558"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "192"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALÁZS ÉLELMISZER KFT.",
+   "bbox": [
+    132,
+    28,
+    440,
+    49
+   ]
+  },
+  {
+   "text": "H-2645 Békéscsaba, Békésmindszenti utca",
+   "bbox": [
+    52,
+    66,
+    520,
+    85
+   ]
+  },
+  {
+   "text": "211.",
+   "bbox": [
+    262,
+    95,
+    310,
+    108
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 79879239-2-25",
+   "bbox": [
+    154,
+    118,
+    418,
+    135
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    164,
+    331,
+    181
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    208,
+    206,
+    223
+   ]
+  },
+  {
+   "text": "384 A00",
+   "bbox": [
+    457,
+    208,
+    548,
+    223
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    239,
+    154,
+    254
+   ]
+  },
+  {
+   "text": "1155 A00",
+   "bbox": [
+    444,
+    239,
+    548,
+    254
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    269,
+    167,
+    289
+   ]
+  },
+  {
+   "text": "353 B00",
+   "bbox": [
+    457,
+    270,
+    548,
+    285
+   ]
+  },
+  {
+   "text": "2 DB x 1207",
+   "bbox": [
+    24,
+    300,
+    145,
+    313
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    326,
+    128,
+    341
+   ]
+  },
+  {
+   "text": "2414 A00",
+   "bbox": [
+    444,
+    326,
+    548,
+    341
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    357,
+    193,
+    372
+   ]
+  },
+  {
+   "text": "339 B00",
+   "bbox": [
+    457,
+    357,
+    548,
+    372
+   ]
+  },
+  {
+   "text": "2 DB x 493",
+   "bbox": [
+    24,
+    387,
+    134,
+    400
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    413,
+    167,
+    428
+   ]
+  },
+  {
+   "text": "986 B00",
+   "bbox": [
+    457,
+    413,
+    548,
+    428
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    444,
+    141,
+    459
+   ]
+  },
+  {
+   "text": "655 B00",
+   "bbox": [
+    457,
+    444,
+    548,
+    459
+   ]
+  },
+  {
+   "text": "3 DB x 852",
+   "bbox": [
+    24,
+    474,
+    134,
+    487
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    500,
+    128,
+    515
+   ]
+  },
+  {
+   "text": "2556 A00",
+   "bbox": [
+    444,
+    500,
+    548,
+    515
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    531,
+    232,
+    546
+   ]
+  },
+  {
+   "text": "705 B00",
+   "bbox": [
+    457,
+    531,
+    548,
+    546
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    562,
+    128,
+    577
+   ]
+  },
+  {
+   "text": "558 A00",
+   "bbox": [
+    457,
+    562,
+    548,
+    577
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    593,
+    206,
+    612
+   ]
+  },
+  {
+   "text": "192 A00",
+   "bbox": [
+    457,
+    593,
+    548,
+    608
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    632,
+    174,
+    654
+   ]
+  },
+  {
+   "text": "10 297 Ft",
+   "bbox": [
+    413,
+    637,
+    548,
+    654
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    672,
+    167,
+    692
+   ]
+  },
+  {
+   "text": "10 297 Ft",
+   "bbox": [
+    431,
+    677,
+    548,
+    692
+   ]
+  },
+  {
+   "text": "2025.07.11.",
+   "bbox": [
+    24,
+    722,
+    156,
+    735
+   ]
+  },
+  {
+   "text": "11:46",
+   "bbox": [
+    488,
+    722,
+    548,
+    735
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9486/93279",
+   "bbox": [
+    24,
+    749,
+    288,
+    768
+   ]
+  },
+  {
+   "text": "AP A63520028",
+   "bbox": [
+    24,
+    784,
+    168,
+    797
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    196,
+    822,
+    376,
+    841
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  572,
+  887
+ ]
+}

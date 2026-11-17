@@ -1,0 +1,427 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET BT.",
+  "uzlet_cim": "H-3956 Belsőváros, Mosonszéki utca 93.",
+  "adoszam": "14030718-5-38",
+  "datum": "2026.04.20.",
+  "ido": "15:23",
+  "nyugtaszam": "2847/75768",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 961 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "254"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1314"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "551"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1466"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2840"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1126"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3375"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2723"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "367"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "856"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1089"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET BT.",
+   "bbox": [
+    208,
+    28,
+    432,
+    50
+   ]
+  },
+  {
+   "text": "H-3956 Belsőváros, Mosonszéki utca 93.",
+   "bbox": [
+    92,
+    67,
+    548,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 14030718-5-38",
+   "bbox": [
+    188,
+    92,
+    452,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    275,
+    139,
+    366,
+    157
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    185,
+    206,
+    204
+   ]
+  },
+  {
+   "text": "254 A00",
+   "bbox": [
+    525,
+    185,
+    616,
+    200
+   ]
+  },
+  {
+   "text": "2 DB x 657",
+   "bbox": [
+    24,
+    217,
+    144,
+    230
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    243,
+    141,
+    258
+   ]
+  },
+  {
+   "text": "1314 C00",
+   "bbox": [
+    512,
+    243,
+    616,
+    258
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    275,
+    141,
+    290
+   ]
+  },
+  {
+   "text": "551 B00",
+   "bbox": [
+    525,
+    275,
+    616,
+    290
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    307,
+    154,
+    322
+   ]
+  },
+  {
+   "text": "1466 B00",
+   "bbox": [
+    512,
+    307,
+    616,
+    322
+   ]
+  },
+  {
+   "text": "2 DB x 1420",
+   "bbox": [
+    24,
+    339,
+    156,
+    352
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    365,
+    193,
+    380
+   ]
+  },
+  {
+   "text": "2840 C00",
+   "bbox": [
+    512,
+    365,
+    616,
+    380
+   ]
+  },
+  {
+   "text": "2 DB x 563",
+   "bbox": [
+    24,
+    397,
+    144,
+    410
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    423,
+    128,
+    438
+   ]
+  },
+  {
+   "text": "1126 A00",
+   "bbox": [
+    512,
+    423,
+    616,
+    438
+   ]
+  },
+  {
+   "text": "3 DB x 1125",
+   "bbox": [
+    24,
+    455,
+    156,
+    468
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    481,
+    219,
+    496
+   ]
+  },
+  {
+   "text": "3375 C00",
+   "bbox": [
+    512,
+    481,
+    616,
+    496
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    513,
+    271,
+    528
+   ]
+  },
+  {
+   "text": "2723 B00",
+   "bbox": [
+    512,
+    513,
+    616,
+    528
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    543,
+    167,
+    564
+   ]
+  },
+  {
+   "text": "367 A00",
+   "bbox": [
+    525,
+    545,
+    616,
+    560
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    577,
+    180,
+    592
+   ]
+  },
+  {
+   "text": "856 B00",
+   "bbox": [
+    525,
+    577,
+    616,
+    592
+   ]
+  },
+  {
+   "text": "3 DB x 363",
+   "bbox": [
+    24,
+    609,
+    144,
+    622
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    635,
+    206,
+    650
+   ]
+  },
+  {
+   "text": "1089 B00",
+   "bbox": [
+    512,
+    635,
+    616,
+    650
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    674,
+    174,
+    697
+   ]
+  },
+  {
+   "text": "15 961 Ft",
+   "bbox": [
+    481,
+    679,
+    616,
+    697
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    716,
+    128,
+    736
+   ]
+  },
+  {
+   "text": "15 961 Ft",
+   "bbox": [
+    499,
+    720,
+    616,
+    736
+   ]
+  },
+  {
+   "text": "2026.04.20.",
+   "bbox": [
+    24,
+    767,
+    156,
+    781
+   ]
+  },
+  {
+   "text": "15:23",
+   "bbox": [
+    556,
+    767,
+    616,
+    781
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2847/75768",
+   "bbox": [
+    24,
+    794,
+    288,
+    815
+   ]
+  },
+  {
+   "text": "AP A28870781",
+   "bbox": [
+    24,
+    831,
+    168,
+    845
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    255,
+    871,
+    385,
+    890
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  640,
+  936
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Imre",
+  "email": "szabo.imre@example.hu",
+  "telefon": "+36 70 173 9510",
+  "lakcim": "H-5253 Tótvára, Keresztberényi utca 68.",
+  "szuletesi_datum": "2004. 12. 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2023 – 2027"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Szűcs és Társa Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "projektmenedzsment",
+   "Docker",
+   "B kategóriás jogosítvány",
+   "Linux",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Imre",
+   "bbox": [
+    474,
+    119,
+    765,
+    157
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    186,
+    731,
+    210
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    237,
+    167,
+    252
+   ]
+  },
+  {
+   "text": "szabo.imre@example.hu",
+   "bbox": [
+    330,
+    237,
+    563,
+    256
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    266,
+    179,
+    281
+   ]
+  },
+  {
+   "text": "+36 70 173 9510",
+   "bbox": [
+    330,
+    267,
+    499,
+    281
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    174,
+    310
+   ]
+  },
+  {
+   "text": "H-5253 Tótvára, Keresztberényi utca 68.",
+   "bbox": [
+    330,
+    295,
+    719,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    273,
+    339
+   ]
+  },
+  {
+   "text": "2004. 12. 12.",
+   "bbox": [
+    330,
+    325,
+    461,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    374,
+    347,
+    397
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    422,
+    238,
+    441
+   ]
+  },
+  {
+   "text": "projektmenedzser – Varga Zrt.",
+   "bbox": [
+    90,
+    445,
+    433,
+    465
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    484,
+    238,
+    503
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szűcs és Társa Bt.",
+   "bbox": [
+    90,
+    506,
+    461,
+    523
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    557,
+    263,
+    580
+   ]
+  },
+  {
+   "text": "2023 – 2027",
+   "bbox": [
+    90,
+    606,
+    212,
+    620
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    627,
+    471,
+    648
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    651,
+    243,
+    666
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    691,
+    212,
+    705
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    712,
+    359,
+    733
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    736,
+    172,
+    755
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    786,
+    233,
+    809
+   ]
+  },
+  {
+   "text": "olasz (A2), francia (A2)",
+   "bbox": [
+    90,
+    834,
+    316,
+    853
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    880,
+    227,
+    903
+   ]
+  },
+  {
+   "text": "C#, projektmenedzsment, Docker, B kategóriás jogosítvány, Linux, Git",
+   "bbox": [
+    90,
+    928,
+    770,
+    947
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

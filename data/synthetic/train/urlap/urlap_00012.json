@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Lakatos Gábor",
+  "anyja_neve": "Kerekes Antal",
+  "szuletesi_hely": "Fürdőapáti",
+  "szuletesi_datum": "1998. 06. 12.",
+  "lakcim": "H-1943 Szerbtamásihida, Felsőtapolcai utca 63.",
+  "telefon": "+36 20 587 3167",
+  "email": "lakatos.gabor@example.hu",
+  "adoazonosito_jel": "8480099909",
+  "taj_szam": "785 847 164",
+  "kelt": "Dunakeszi, 2026. 12. 25."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    526,
+    91,
+    713,
+    116
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    476,
+    137,
+    762,
+    154
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    82,
+    190,
+    309,
+    212
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    94,
+    245,
+    133,
+    259
+   ]
+  },
+  {
+   "text": "Lakatos Gábor",
+   "bbox": [
+    419,
+    243,
+    561,
+    260
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    297,
+    192,
+    315
+   ]
+  },
+  {
+   "text": "Kerekes Antal",
+   "bbox": [
+    419,
+    298,
+    556,
+    315
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    94,
+    348,
+    213,
+    367
+   ]
+  },
+  {
+   "text": "Fürdőapáti",
+   "bbox": [
+    419,
+    344,
+    528,
+    366
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    94,
+    400,
+    206,
+    415
+   ]
+  },
+  {
+   "text": "1998. 06. 12.",
+   "bbox": [
+    419,
+    400,
+    540,
+    420
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    94,
+    453,
+    163,
+    467
+   ]
+  },
+  {
+   "text": "H-1943 Szerbtamásihida, Felsőtapolcai utca 63.",
+   "bbox": [
+    419,
+    452,
+    879,
+    474
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    94,
+    505,
+    205,
+    519
+   ]
+  },
+  {
+   "text": "+36 20 587 3167",
+   "bbox": [
+    419,
+    506,
+    579,
+    526
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    94,
+    557,
+    194,
+    571
+   ]
+  },
+  {
+   "text": "lakatos.gabor@example.hu",
+   "bbox": [
+    419,
+    556,
+    684,
+    578
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    609,
+    239,
+    627
+   ]
+  },
+  {
+   "text": "8480099909",
+   "bbox": [
+    419,
+    606,
+    547,
+    626
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    94,
+    661,
+    183,
+    675
+   ]
+  },
+  {
+   "text": "785 847 164",
+   "bbox": [
+    419,
+    663,
+    534,
+    683
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    82,
+    738,
+    268,
+    760
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    127,
+    783,
+    419,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    127,
+    828,
+    265,
+    842
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    873,
+    434,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    82,
+    975,
+    125,
+    990
+   ]
+  },
+  {
+   "text": "Dunakeszi, 2026. 12. 25.",
+   "bbox": [
+    172,
+    971,
+    408,
+    992
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    944,
+    1024,
+    992,
+    1036
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

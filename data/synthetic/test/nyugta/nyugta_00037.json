@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FEKETE KISBOLT BT.",
+  "uzlet_cim": "H-7468 Szigetszentmiklós, Házai utca 116.",
+  "adoszam": "38372436-2-33",
+  "datum": "2025.05.25.",
+  "ido": "12:59",
+  "nyugtaszam": "3573/52839",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "15 781 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "677"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1096"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1417"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1166"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "437"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "194"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "602"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "453"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "617"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1157"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1116"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "6849"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEKETE KISBOLT BT.",
+   "bbox": [
+    138,
+    36,
+    408,
+    51
+   ]
+  },
+  {
+   "text": "H-7468 Szigetszentmiklós, Házai utca",
+   "bbox": [
+    39,
+    70,
+    507,
+    87
+   ]
+  },
+  {
+   "text": "116.",
+   "bbox": [
+    247,
+    97,
+    299,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 38372436-2-33",
+   "bbox": [
+    130,
+    121,
+    416,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    167,
+    322,
+    183
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    211,
+    150,
+    225
+   ]
+  },
+  {
+   "text": "677 A00",
+   "bbox": [
+    424,
+    211,
+    522,
+    225
+   ]
+  },
+  {
+   "text": "2 DB x 548",
+   "bbox": [
+    24,
+    240,
+    144,
+    253
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    267,
+    136,
+    281
+   ]
+  },
+  {
+   "text": "1096 B00",
+   "bbox": [
+    410,
+    267,
+    522,
+    281
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    298,
+    164,
+    312
+   ]
+  },
+  {
+   "text": "1417 C00",
+   "bbox": [
+    410,
+    298,
+    522,
+    312
+   ]
+  },
+  {
+   "text": "2 DB x 583",
+   "bbox": [
+    24,
+    327,
+    144,
+    340
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    355,
+    220,
+    368
+   ]
+  },
+  {
+   "text": "1166 B00",
+   "bbox": [
+    410,
+    354,
+    522,
+    368
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    385,
+    220,
+    399
+   ]
+  },
+  {
+   "text": "437 B00",
+   "bbox": [
+    424,
+    385,
+    522,
+    399
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    416,
+    220,
+    433
+   ]
+  },
+  {
+   "text": "194 B00",
+   "bbox": [
+    424,
+    416,
+    522,
+    430
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    447,
+    136,
+    461
+   ]
+  },
+  {
+   "text": "602 A00",
+   "bbox": [
+    424,
+    447,
+    522,
+    461
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    478,
+    150,
+    492
+   ]
+  },
+  {
+   "text": "453 A00",
+   "bbox": [
+    424,
+    478,
+    522,
+    492
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    509,
+    178,
+    523
+   ]
+  },
+  {
+   "text": "617 B00",
+   "bbox": [
+    424,
+    509,
+    522,
+    523
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    540,
+    136,
+    554
+   ]
+  },
+  {
+   "text": "1157 B00",
+   "bbox": [
+    410,
+    540,
+    522,
+    554
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    571,
+    234,
+    585
+   ]
+  },
+  {
+   "text": "1116 C00",
+   "bbox": [
+    410,
+    571,
+    522,
+    585
+   ]
+  },
+  {
+   "text": "3 DB x 2283",
+   "bbox": [
+    24,
+    600,
+    156,
+    613
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    627,
+    150,
+    641
+   ]
+  },
+  {
+   "text": "6849 C00",
+   "bbox": [
+    410,
+    627,
+    522,
+    641
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    666,
+    168,
+    687
+   ]
+  },
+  {
+   "text": "15 781 Ft",
+   "bbox": [
+    378,
+    670,
+    522,
+    687
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    708,
+    178,
+    725
+   ]
+  },
+  {
+   "text": "15 781 Ft",
+   "bbox": [
+    396,
+    711,
+    522,
+    725
+   ]
+  },
+  {
+   "text": "2025.05.25.",
+   "bbox": [
+    24,
+    755,
+    167,
+    768
+   ]
+  },
+  {
+   "text": "12:59",
+   "bbox": [
+    457,
+    755,
+    522,
+    768
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3573/52839",
+   "bbox": [
+    24,
+    783,
+    310,
+    801
+   ]
+  },
+  {
+   "text": "AP A60224793",
+   "bbox": [
+    24,
+    817,
+    180,
+    830
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    208,
+    858,
+    338,
+    874
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  546,
+  918
+ ]
+}

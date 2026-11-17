@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Biró Csaba",
+  "email": "biro.csaba@gmail.com",
+  "telefon": "+36 20 542 8523",
+  "lakcim": "H-3438 Békéscsaba, Nyíregyházai utca 39.",
+  "szuletesi_datum": "1994.06.11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "B kategóriás jogosítvány",
+   "ügyfélkezelés",
+   "JavaScript",
+   "C#",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    229,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    104,
+    162
+   ]
+  },
+  {
+   "text": "biro.csaba@gmail.com",
+   "bbox": [
+    40,
+    172,
+    260,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    116,
+    222
+   ]
+  },
+  {
+   "text": "+36 20 542 8523",
+   "bbox": [
+    40,
+    232,
+    202,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    114,
+    282
+   ]
+  },
+  {
+   "text": "H-3438 Békéscsaba, Nyíregyházai",
+   "bbox": [
+    40,
+    292,
+    372,
+    311
+   ]
+  },
+  {
+   "text": "utca 39.",
+   "bbox": [
+    40,
+    317,
+    117,
+    332
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    203,
+    367
+   ]
+  },
+  {
+   "text": "1994.06.11.",
+   "bbox": [
+    40,
+    377,
+    154,
+    392
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    436,
+    210,
+    460
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    482,
+    138,
+    502
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    536,
+    195,
+    560
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    582,
+    108,
+    602
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    611,
+    277,
+    631
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    640,
+    172,
+    660
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    669,
+    142,
+    689
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    698,
+    68,
+    714
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    727,
+    68,
+    743
+   ]
+  },
+  {
+   "text": "Biró Csaba",
+   "bbox": [
+    450,
+    105,
+    698,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    172,
+    574,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    242,
+    708,
+    267
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    450,
+    294,
+    579,
+    311
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Logisztika Kft.",
+   "bbox": [
+    450,
+    320,
+    832,
+    344
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    375,
+    627,
+    400
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    427,
+    579,
+    444
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    453,
+    1047,
+    477
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    481,
+    701,
+    498
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    524,
+    579,
+    541
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    550,
+    777,
+    574
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    578,
+    646,
+    600
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

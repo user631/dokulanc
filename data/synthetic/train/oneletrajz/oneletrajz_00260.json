@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Piroska",
+  "email": "horvath.piroska@freemail.hu",
+  "telefon": "06 1 688 5551",
+  "lakcim": "H-1671 Tapolcafalu, Dunaújvárosi utca 141.",
+  "szuletesi_datum": "1982. április 6.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér Szolgáltató Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "JavaScript",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Piroska",
+   "bbox": [
+    458,
+    86,
+    782,
+    121
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    157,
+    676,
+    184
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    215,
+    156,
+    231
+   ]
+  },
+  {
+   "text": "horvath.piroska@freemail.hu",
+   "bbox": [
+    330,
+    215,
+    603,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    248,
+    168,
+    264
+   ]
+  },
+  {
+   "text": "06 1 688 5551",
+   "bbox": [
+    330,
+    249,
+    465,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    163,
+    297
+   ]
+  },
+  {
+   "text": "H-1671 Tapolcafalu, Dunaújvárosi utca 141.",
+   "bbox": [
+    330,
+    280,
+    737,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    314,
+    248,
+    330
+   ]
+  },
+  {
+   "text": "1982. április 6.",
+   "bbox": [
+    330,
+    313,
+    467,
+    334
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    310,
+    391
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    90,
+    421,
+    207,
+    436
+   ]
+  },
+  {
+   "text": "tesztmérnök – Pintér Szolgáltató Kft.",
+   "bbox": [
+    90,
+    447,
+    455,
+    467
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    500,
+    241,
+    524
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    554,
+    207,
+    569
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    580,
+    363,
+    600
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    606,
+    207,
+    627
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    651,
+    207,
+    666
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    677,
+    346,
+    693
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    703,
+    329,
+    724
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    757,
+    216,
+    781
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    809,
+    194,
+    830
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    859,
+    206,
+    883
+   ]
+  },
+  {
+   "text": "Git, prezentáció, JavaScript, Python",
+   "bbox": [
+    90,
+    911,
+    419,
+    932
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

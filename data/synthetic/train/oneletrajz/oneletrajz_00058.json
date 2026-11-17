@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy András",
+  "email": "nagy.andras@gmail.com",
+  "telefon": "+36 70 296 1860",
+  "lakcim": "H-9362 Egyházastamásibánya, Törökháti tér 25.",
+  "szuletesi_datum": "1982.04.30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bálint Consulting Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2008 – 2010"
+   },
+   {
+    "ceg": "Horváth Szolgáltató Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2006 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Docker",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    198,
+    128
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    91,
+    165
+   ]
+  },
+  {
+   "text": "nagy.andras@gmail.com",
+   "bbox": [
+    40,
+    174,
+    226,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    205,
+    99,
+    217
+   ]
+  },
+  {
+   "text": "+36 70 296 1860",
+   "bbox": [
+    40,
+    226,
+    164,
+    238
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    97,
+    269
+   ]
+  },
+  {
+   "text": "H-9362 Egyházastamásibánya, Törökháti tér",
+   "bbox": [
+    40,
+    277,
+    373,
+    293
+   ]
+  },
+  {
+   "text": "25.",
+   "bbox": [
+    40,
+    299,
+    63,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    330,
+    168,
+    342
+   ]
+  },
+  {
+   "text": "1982.04.30.",
+   "bbox": [
+    40,
+    351,
+    127,
+    363
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    182,
+    428
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    449,
+    121,
+    466
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    474,
+    129,
+    491
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    526,
+    170,
+    545
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    566,
+    207,
+    583
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    591,
+    98,
+    604
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    616,
+    78,
+    629
+   ]
+  },
+  {
+   "text": "Nagy András",
+   "bbox": [
+    450,
+    116,
+    715,
+    156
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    183,
+    646,
+    205
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    669,
+    266
+   ]
+  },
+  {
+   "text": "2008 – 2010",
+   "bbox": [
+    450,
+    293,
+    559,
+    307
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Bálint Consulting Zrt.",
+   "bbox": [
+    450,
+    316,
+    836,
+    335
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    450,
+    355,
+    559,
+    369
+   ]
+  },
+  {
+   "text": "értékesítő – Horváth Szolgáltató Kft.",
+   "bbox": [
+    450,
+    378,
+    796,
+    397
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    427,
+    598,
+    449
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    476,
+    559,
+    490
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    499,
+    712,
+    518
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    522,
+    564,
+    540
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    561,
+    559,
+    575
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    584,
+    688,
+    603
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    607,
+    614,
+    625
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH ÉLELMISZER BT.",
+  "uzlet_cim": "H-9269 Berény, Tótharasztii út 60.",
+  "adoszam": "59195885-4-04",
+  "datum": "2026.04.04.",
+  "ido": "10:03",
+  "nyugtaszam": "9170/47997",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 517 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "567"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "888"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "62"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ÉLELMISZER BT.",
+   "bbox": [
+    147,
+    28,
+    413,
+    50
+   ]
+  },
+  {
+   "text": "H-9269 Berény, Tótharasztii út 60.",
+   "bbox": [
+    76,
+    67,
+    484,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59195885-4-04",
+   "bbox": [
+    148,
+    92,
+    412,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    235,
+    139,
+    326,
+    157
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    185,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "567 B00",
+   "bbox": [
+    445,
+    185,
+    536,
+    200
+   ]
+  },
+  {
+   "text": "2 DB x 444",
+   "bbox": [
+    24,
+    217,
+    144,
+    230
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    241,
+    167,
+    262
+   ]
+  },
+  {
+   "text": "888 A00",
+   "bbox": [
+    445,
+    243,
+    536,
+    258
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    275,
+    102,
+    290
+   ]
+  },
+  {
+   "text": "62 C00",
+   "bbox": [
+    458,
+    275,
+    536,
+    290
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    314,
+    174,
+    337
+   ]
+  },
+  {
+   "text": "1 517 Ft",
+   "bbox": [
+    416,
+    319,
+    536,
+    337
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    356,
+    155,
+    376
+   ]
+  },
+  {
+   "text": "1 517 Ft",
+   "bbox": [
+    432,
+    360,
+    536,
+    376
+   ]
+  },
+  {
+   "text": "2026.04.04.",
+   "bbox": [
+    24,
+    407,
+    156,
+    421
+   ]
+  },
+  {
+   "text": "10:03",
+   "bbox": [
+    476,
+    407,
+    536,
+    421
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9170/47997",
+   "bbox": [
+    24,
+    434,
+    288,
+    455
+   ]
+  },
+  {
+   "text": "AP A47104269",
+   "bbox": [
+    24,
+    471,
+    168,
+    485
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    215,
+    511,
+    345,
+    530
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  560,
+  576
+ ]
+}

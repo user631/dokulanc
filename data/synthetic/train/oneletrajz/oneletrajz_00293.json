@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Oláh Fanni",
+  "email": "olah.fanni@gmail.com",
+  "telefon": "+36 30 913 9653",
+  "lakcim": "H-7844 Mártonfalu, Váci tér 168.",
+  "szuletesi_datum": "1988. 12. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Csonka Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2016"
+   },
+   {
+    "ceg": "Németh Szolgáltató Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2013 – 2015"
+   },
+   {
+    "ceg": "Kiss Consulting Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "ügyfélkezelés",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Oláh Fanni",
+   "bbox": [
+    504,
+    104,
+    736,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    167,
+    674,
+    193
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    155,
+    235
+   ]
+  },
+  {
+   "text": "olah.fanni@gmail.com",
+   "bbox": [
+    330,
+    220,
+    525,
+    240
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    167,
+    265
+   ]
+  },
+  {
+   "text": "+36 30 913 9653",
+   "bbox": [
+    330,
+    251,
+    480,
+    265
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    280,
+    161,
+    295
+   ]
+  },
+  {
+   "text": "H-7844 Mártonfalu, Váci tér 168.",
+   "bbox": [
+    330,
+    280,
+    614,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    310,
+    246,
+    325
+   ]
+  },
+  {
+   "text": "1988. 12. 03.",
+   "bbox": [
+    330,
+    311,
+    440,
+    325
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    361,
+    314,
+    385
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    411,
+    198,
+    425
+   ]
+  },
+  {
+   "text": "adatelemző – Csonka Logisztika Kft.",
+   "bbox": [
+    90,
+    434,
+    444,
+    455
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    90,
+    475,
+    198,
+    489
+   ]
+  },
+  {
+   "text": "projektmenedzser – Németh Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    498,
+    526,
+    519
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    90,
+    539,
+    198,
+    553
+   ]
+  },
+  {
+   "text": "értékesítő – Kiss Consulting Bt.",
+   "bbox": [
+    90,
+    562,
+    394,
+    583
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    613,
+    246,
+    637
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    663,
+    198,
+    677
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    686,
+    334,
+    707
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    710,
+    146,
+    730
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    751,
+    198,
+    765
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    774,
+    386,
+    795
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    798,
+    166,
+    818
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    849,
+    218,
+    873
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    898,
+    184,
+    916
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    945,
+    208,
+    969
+   ]
+  },
+  {
+   "text": "C#, ügyfélkezelés, SAP",
+   "bbox": [
+    90,
+    994,
+    283,
+    1014
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Horváth Sándor",
+  "email": "horvath.sandor@example.hu",
+  "telefon": "+36 30 876 1050",
+  "lakcim": "H-1369 Mártonháza, Mátrafürdői utca 55.",
+  "szuletesi_datum": "2002. október 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth és Társa Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SQL",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "prezentáció",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Sándor",
+   "bbox": [
+    448,
+    107,
+    791,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    172,
+    719,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    155,
+    238
+   ]
+  },
+  {
+   "text": "horvath.sandor@example.hu",
+   "bbox": [
+    330,
+    223,
+    580,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    167,
+    268
+   ]
+  },
+  {
+   "text": "+36 30 876 1050",
+   "bbox": [
+    330,
+    254,
+    480,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    161,
+    298
+   ]
+  },
+  {
+   "text": "H-1369 Mártonháza, Mátrafürdői utca 55.",
+   "bbox": [
+    330,
+    283,
+    693,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    246,
+    328
+   ]
+  },
+  {
+   "text": "2002. október 5.",
+   "bbox": [
+    330,
+    313,
+    473,
+    328
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    314,
+    388
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    413,
+    222,
+    433
+   ]
+  },
+  {
+   "text": "projektmenedzser – Horváth és Társa Zrt.",
+   "bbox": [
+    90,
+    437,
+    493,
+    458
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    488,
+    246,
+    512
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    538,
+    198,
+    552
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    561,
+    334,
+    582
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    585,
+    211,
+    605
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    626,
+    198,
+    640
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    649,
+    329,
+    670
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    673,
+    166,
+    693
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    724,
+    218,
+    748
+   ]
+  },
+  {
+   "text": "olasz (A2), francia (A2)",
+   "bbox": [
+    90,
+    773,
+    283,
+    791
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    820,
+    208,
+    844
+   ]
+  },
+  {
+   "text": "Python, SQL, ügyfélkezelés, projektmenedzsment, prezentáció, SAP",
+   "bbox": [
+    90,
+    869,
+    670,
+    889
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

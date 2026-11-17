@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Kiss Péter",
+  "anyja_neve": "Pap István",
+  "szuletesi_hely": "Salgótarján",
+  "szuletesi_datum": "1985.05.26.",
+  "lakcim": "H-7002 Egyházashídkövesd, Bajai utca 226.",
+  "telefon": "06 1 167 5697",
+  "email": "kiss.peter@outlook.com",
+  "adoazonosito_jel": "8432443824",
+  "taj_szam": "130 799 931",
+  "kelt": "Keresztnémeti, 2025.07.12."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    509,
+    84,
+    731,
+    119
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    451,
+    140,
+    789,
+    159
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    196,
+    316,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    252,
+    137,
+    268
+   ]
+  },
+  {
+   "text": "Kiss Péter",
+   "bbox": [
+    386,
+    250,
+    493,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    307,
+    204,
+    326
+   ]
+  },
+  {
+   "text": "Pap István",
+   "bbox": [
+    386,
+    304,
+    497,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    360,
+    229,
+    380
+   ]
+  },
+  {
+   "text": "Salgótarján",
+   "bbox": [
+    386,
+    360,
+    510,
+    384
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    414,
+    220,
+    430
+   ]
+  },
+  {
+   "text": "1985.05.26.",
+   "bbox": [
+    386,
+    417,
+    517,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    468,
+    169,
+    484
+   ]
+  },
+  {
+   "text": "H-7002 Egyházashídkövesd, Bajai utca 226.",
+   "bbox": [
+    386,
+    464,
+    855,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    522,
+    220,
+    538
+   ]
+  },
+  {
+   "text": "06 1 167 5697",
+   "bbox": [
+    386,
+    521,
+    537,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    576,
+    201,
+    592
+   ]
+  },
+  {
+   "text": "kiss.peter@outlook.com",
+   "bbox": [
+    386,
+    574,
+    646,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    630,
+    257,
+    650
+   ]
+  },
+  {
+   "text": "8432443824",
+   "bbox": [
+    386,
+    633,
+    516,
+    650
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    684,
+    190,
+    700
+   ]
+  },
+  {
+   "text": "130 799 931",
+   "bbox": [
+    386,
+    684,
+    517,
+    701
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    764,
+    270,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    809,
+    458,
+    829
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    854,
+    285,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    899,
+    473,
+    919
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    1003,
+    131,
+    1019
+   ]
+  },
+  {
+   "text": "Keresztnémeti, 2025.07.12.",
+   "bbox": [
+    173,
+    998,
+    476,
+    1021
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    941,
+    1051,
+    992,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

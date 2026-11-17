@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Váradi László",
+  "email": "varadi.laszlo@freemail.hu",
+  "telefon": "+36 70 874 2228",
+  "lakcim": "H-6121 Kaposvár, Hetvenbányai utca 130.",
+  "szuletesi_datum": "1985. október 6.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hegedüs Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "ceg": "Nagy Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "prezentáció",
+   "Git",
+   "C#",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    102,
+    205,
+    126
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    151,
+    101,
+    167
+   ]
+  },
+  {
+   "text": "varadi.laszlo@freemail.hu",
+   "bbox": [
+    40,
+    177,
+    283,
+    193
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    211,
+    115,
+    227
+   ]
+  },
+  {
+   "text": "+36 70 874 2228",
+   "bbox": [
+    40,
+    237,
+    190,
+    252
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    271,
+    110,
+    287
+   ]
+  },
+  {
+   "text": "H-6121 Kaposvár, Hetvenbányai",
+   "bbox": [
+    40,
+    296,
+    336,
+    316
+   ]
+  },
+  {
+   "text": "utca 130.",
+   "bbox": [
+    40,
+    322,
+    127,
+    337
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    356,
+    194,
+    372
+   ]
+  },
+  {
+   "text": "1985. október 6.",
+   "bbox": [
+    40,
+    381,
+    195,
+    397
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    442,
+    193,
+    466
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    488,
+    140,
+    509
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    542,
+    170,
+    566
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    587,
+    143,
+    609
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    615,
+    157,
+    638
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    645,
+    70,
+    662
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    675,
+    65,
+    691
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    704,
+    108,
+    725
+   ]
+  },
+  {
+   "text": "Váradi László",
+   "bbox": [
+    450,
+    112,
+    741,
+    147
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    183,
+    656,
+    203
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    248,
+    699,
+    274
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    450,
+    301,
+    568,
+    317
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Hegedüs Logisztika Kft.",
+   "bbox": [
+    449,
+    327,
+    911,
+    350
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    371,
+    568,
+    387
+   ]
+  },
+  {
+   "text": "irodavezető – Nagy Consulting Kft.",
+   "bbox": [
+    450,
+    397,
+    837,
+    420
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    451,
+    618,
+    477
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    504,
+    568,
+    520
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    530,
+    730,
+    553
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    556,
+    514,
+    579
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    601,
+    568,
+    617
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    627,
+    722,
+    650
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    653,
+    544,
+    676
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

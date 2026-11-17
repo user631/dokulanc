@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kovács Tímea",
+  "anyja_neve": "Kovács Renáta",
+  "szuletesi_hely": "Sopron",
+  "szuletesi_datum": "1968. 06. 13.",
+  "lakcim": "H-2131 Vácgyörgybánya, Petőfi utca 134.",
+  "telefon": "06 1 379 8588",
+  "email": "kovacs.timea@example.hu",
+  "adoazonosito_jel": "8370530060",
+  "taj_szam": "275 473 309",
+  "kelt": "Belsőbánya, 2025. 08. 09."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    364,
+    91,
+    875,
+    129
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    442,
+    149,
+    798,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    203,
+    366,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    259,
+    153,
+    276
+   ]
+  },
+  {
+   "text": "Kovács Tímea",
+   "bbox": [
+    405,
+    259,
+    572,
+    278
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    314,
+    229,
+    334
+   ]
+  },
+  {
+   "text": "Kovács Renáta",
+   "bbox": [
+    405,
+    315,
+    582,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    367,
+    258,
+    388
+   ]
+  },
+  {
+   "text": "Sopron",
+   "bbox": [
+    405,
+    369,
+    491,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    421,
+    246,
+    438
+   ]
+  },
+  {
+   "text": "1968. 06. 13.",
+   "bbox": [
+    405,
+    422,
+    568,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    475,
+    186,
+    492
+   ]
+  },
+  {
+   "text": "H-2131 Vácgyörgybánya, Petőfi utca 134.",
+   "bbox": [
+    405,
+    476,
+    905,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    529,
+    245,
+    546
+   ]
+  },
+  {
+   "text": "06 1 379 8588",
+   "bbox": [
+    405,
+    531,
+    579,
+    549
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    583,
+    224,
+    600
+   ]
+  },
+  {
+   "text": "kovacs.timea@example.hu",
+   "bbox": [
+    405,
+    581,
+    728,
+    605
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    637,
+    286,
+    658
+   ]
+  },
+  {
+   "text": "8370530060",
+   "bbox": [
+    405,
+    635,
+    555,
+    653
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    691,
+    211,
+    708
+   ]
+  },
+  {
+   "text": "275 473 309",
+   "bbox": [
+    405,
+    692,
+    556,
+    710
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    772,
+    308,
+    796
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    816,
+    509,
+    837
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    861,
+    311,
+    878
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    906,
+    529,
+    927
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    1011,
+    143,
+    1028
+   ]
+  },
+  {
+   "text": "Belsőbánya, 2025. 08. 09.",
+   "bbox": [
+    180,
+    1007,
+    497,
+    1031
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1060,
+    990,
+    1074
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

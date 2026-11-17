@@ -1,0 +1,328 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Rita",
+  "email": "horvath.rita@gmail.com",
+  "telefon": "+36 70 694 9496",
+  "lakcim": "H-5055 Kaposvár, Devecseri utca 25.",
+  "szuletesi_datum": "1982.11.07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros Szolgáltató Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Excel",
+   "C#",
+   "JavaScript",
+   "projektmenedzsment",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    91,
+    213,
+    112
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    138,
+    97,
+    152
+   ]
+  },
+  {
+   "text": "horvath.rita@gmail.com",
+   "bbox": [
+    40,
+    161,
+    243,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    194,
+    109,
+    208
+   ]
+  },
+  {
+   "text": "+36 70 694 9496",
+   "bbox": [
+    40,
+    217,
+    187,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    107,
+    264
+   ]
+  },
+  {
+   "text": "H-5055 Kaposvár, Devecseri utca 25.",
+   "bbox": [
+    40,
+    273,
+    363,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    305,
+    187,
+    320
+   ]
+  },
+  {
+   "text": "1982.11.07.",
+   "bbox": [
+    40,
+    329,
+    143,
+    343
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    388,
+    196,
+    409
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    431,
+    140,
+    450
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    458,
+    132,
+    477
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    511,
+    181,
+    532
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    554,
+    79,
+    569
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    581,
+    88,
+    596
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    608,
+    65,
+    623
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    635,
+    133,
+    654
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    662,
+    226,
+    681
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    689,
+    87,
+    704
+   ]
+  },
+  {
+   "text": "Horváth Rita",
+   "bbox": [
+    450,
+    99,
+    719,
+    132
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    165,
+    565,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    232,
+    688,
+    255
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    450,
+    283,
+    570,
+    298
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Mészáros Szolgáltató Zrt.",
+   "bbox": [
+    448,
+    306,
+    887,
+    327
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    357,
+    610,
+    382
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    450,
+    410,
+    570,
+    425
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    433,
+    735,
+    454
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    460,
+    773,
+    479
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    501,
+    570,
+    516
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    524,
+    704,
+    545
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    551,
+    633,
+    570
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

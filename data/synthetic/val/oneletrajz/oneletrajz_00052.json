@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Farkas Annamária",
+  "email": "farkas.annamaria@example.hu",
+  "telefon": "+36 70 489 8063",
+  "lakcim": "H-8709 Békéscsaba, Egeri utca 146.",
+  "szuletesi_datum": "2000. 02. 27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2020 – 2025"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Juhász és Társa Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "projektmenedzsment",
+   "csapatmunka",
+   "SAP",
+   "Python",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Farkas Annamária",
+   "bbox": [
+    424,
+    95,
+    816,
+    130
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    164,
+    715,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    215,
+    159,
+    231
+   ]
+  },
+  {
+   "text": "farkas.annamaria@example.hu",
+   "bbox": [
+    330,
+    216,
+    618,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    246,
+    173,
+    262
+   ]
+  },
+  {
+   "text": "+36 70 489 8063",
+   "bbox": [
+    330,
+    247,
+    480,
+    262
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    277,
+    168,
+    293
+   ]
+  },
+  {
+   "text": "H-8709 Békéscsaba, Egeri utca 146.",
+   "bbox": [
+    330,
+    277,
+    663,
+    297
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    308,
+    252,
+    324
+   ]
+  },
+  {
+   "text": "2000. 02. 27.",
+   "bbox": [
+    330,
+    309,
+    454,
+    324
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    360,
+    320,
+    384
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    411,
+    229,
+    430
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Németh Tech Kft.",
+   "bbox": [
+    90,
+    435,
+    471,
+    457
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    477,
+    229,
+    496
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Juhász és Társa Kft.",
+   "bbox": [
+    90,
+    501,
+    594,
+    523
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    553,
+    245,
+    577
+   ]
+  },
+  {
+   "text": "2020 – 2025",
+   "bbox": [
+    90,
+    604,
+    198,
+    619
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    628,
+    275,
+    650
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    653,
+    403,
+    673
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    695,
+    198,
+    710
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    719,
+    341,
+    741
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    744,
+    173,
+    764
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    796,
+    218,
+    820
+   ]
+  },
+  {
+   "text": "angol (B2), német (B2)",
+   "bbox": [
+    90,
+    846,
+    302,
+    866
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    894,
+    209,
+    918
+   ]
+  },
+  {
+   "text": "prezentáció, projektmenedzsment, csapatmunka, SAP, Python, Linux",
+   "bbox": [
+    90,
+    944,
+    735,
+    964
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

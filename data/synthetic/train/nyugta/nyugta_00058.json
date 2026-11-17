@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOCSIS KISBOLT KFT.",
+  "uzlet_cim": "H-9741 Hajdúfürdővég, Felsőligeti utca 31.",
+  "adoszam": "93014111-5-26",
+  "datum": "2025.09.11.",
+  "ido": "08:53",
+  "nyugtaszam": "4973/89709",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "3 617 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "994"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "715"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "576"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1332"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOCSIS KISBOLT KFT.",
+   "bbox": [
+    193,
+    36,
+    440,
+    49
+   ]
+  },
+  {
+   "text": "H-9741 Hajdúfürdővég, Felsőligeti utca 31.",
+   "bbox": [
+    86,
+    65,
+    548,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 93014111-5-26",
+   "bbox": [
+    196,
+    87,
+    438,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    274,
+    130,
+    360,
+    144
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    170,
+    204,
+    183
+   ]
+  },
+  {
+   "text": "994 C00",
+   "bbox": [
+    527,
+    170,
+    611,
+    183
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    198,
+    120,
+    211
+   ]
+  },
+  {
+   "text": "715 C00",
+   "bbox": [
+    527,
+    198,
+    611,
+    211
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    226,
+    192,
+    239
+   ]
+  },
+  {
+   "text": "576 C00",
+   "bbox": [
+    527,
+    226,
+    611,
+    239
+   ]
+  },
+  {
+   "text": "3 DB x 444",
+   "bbox": [
+    24,
+    254,
+    124,
+    265
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    276,
+    156,
+    289
+   ]
+  },
+  {
+   "text": "1332 C00",
+   "bbox": [
+    515,
+    276,
+    611,
+    289
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    314,
+    150,
+    332
+   ]
+  },
+  {
+   "text": "3 617 Ft",
+   "bbox": [
+    499,
+    317,
+    612,
+    332
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    351,
+    156,
+    367
+   ]
+  },
+  {
+   "text": "3 617 Ft",
+   "bbox": [
+    515,
+    354,
+    611,
+    367
+   ]
+  },
+  {
+   "text": "2025.09.11.",
+   "bbox": [
+    24,
+    396,
+    145,
+    407
+   ]
+  },
+  {
+   "text": "08:53",
+   "bbox": [
+    556,
+    396,
+    611,
+    407
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4973/89709",
+   "bbox": [
+    24,
+    421,
+    266,
+    436
+   ]
+  },
+  {
+   "text": "AP A52018880",
+   "bbox": [
+    24,
+    452,
+    156,
+    463
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    233,
+    489,
+    399,
+    504
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  635,
+  548
+ ]
+}

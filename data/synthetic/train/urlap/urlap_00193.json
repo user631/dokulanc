@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Magyar László",
+  "anyja_neve": "Szabó Martin",
+  "szuletesi_hely": "Szeged",
+  "szuletesi_datum": "1995.06.01.",
+  "lakcim": "H-6553 Tiszagyörgynádasd, Pusztahetveni utca 174.",
+  "telefon": "06 1 129 7402",
+  "email": "magyar.laszlo@example.hu",
+  "adoazonosito_jel": "8469020412",
+  "taj_szam": "919 430 101",
+  "kelt": "Hódmezővásárhely, 2025.10.29."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    329,
+    93,
+    912,
+    124
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    497,
+    147,
+    743,
+    161
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    199,
+    273,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    103,
+    253,
+    139,
+    266
+   ]
+  },
+  {
+   "text": "Magyar László",
+   "bbox": [
+    399,
+    249,
+    567,
+    275
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    303,
+    192,
+    320
+   ]
+  },
+  {
+   "text": "Szabó Martin",
+   "bbox": [
+    399,
+    302,
+    557,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    354,
+    210,
+    371
+   ]
+  },
+  {
+   "text": "Szeged",
+   "bbox": [
+    399,
+    351,
+    478,
+    376
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    405,
+    202,
+    418
+   ]
+  },
+  {
+   "text": "1995.06.01.",
+   "bbox": [
+    399,
+    404,
+    553,
+    419
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    456,
+    164,
+    469
+   ]
+  },
+  {
+   "text": "H-6553 Tiszagyörgynádasd, Pusztahetveni utca 174.",
+   "bbox": [
+    399,
+    450,
+    1034,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    507,
+    202,
+    520
+   ]
+  },
+  {
+   "text": "06 1 129 7402",
+   "bbox": [
+    399,
+    503,
+    596,
+    520
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    558,
+    190,
+    571
+   ]
+  },
+  {
+   "text": "magyar.laszlo@example.hu",
+   "bbox": [
+    399,
+    554,
+    708,
+    580
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    609,
+    232,
+    626
+   ]
+  },
+  {
+   "text": "8469020412",
+   "bbox": [
+    399,
+    610,
+    569,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    661,
+    182,
+    673
+   ]
+  },
+  {
+   "text": "919 430 101",
+   "bbox": [
+    399,
+    659,
+    570,
+    676
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    737,
+    242,
+    755
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    781,
+    392,
+    798
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    826,
+    259,
+    839
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    871,
+    409,
+    888
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    972,
+    129,
+    985
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2025.10.29.",
+   "bbox": [
+    182,
+    973,
+    528,
+    998
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1021,
+    978,
+    1032
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

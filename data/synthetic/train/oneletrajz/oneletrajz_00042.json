@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Lakatos Katalin",
+  "email": "lakatos.katalin@freemail.hu",
+  "telefon": "06 1 903 9834",
+  "lakcim": "H-1845 Nyírtapolcavárad, Hídapátii utca 83.",
+  "szuletesi_datum": "1981. 07. 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2000 – 2005"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1996 – 2000"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pataki Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Kis Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2004 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Linux",
+   "C#",
+   "Docker",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    111,
+    230,
+    135
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    159,
+    112,
+    175
+   ]
+  },
+  {
+   "text": "lakatos.katalin@freemail.hu",
+   "bbox": [
+    40,
+    183,
+    319,
+    201
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    217,
+    123,
+    233
+   ]
+  },
+  {
+   "text": "06 1 903 9834",
+   "bbox": [
+    40,
+    242,
+    191,
+    257
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    274,
+    119,
+    291
+   ]
+  },
+  {
+   "text": "H-1845 Nyírtapolcavárad,",
+   "bbox": [
+    40,
+    298,
+    299,
+    319
+   ]
+  },
+  {
+   "text": "Hídapátii utca 83.",
+   "bbox": [
+    40,
+    322,
+    216,
+    343
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    356,
+    219,
+    373
+   ]
+  },
+  {
+   "text": "1981. 07. 22.",
+   "bbox": [
+    40,
+    382,
+    179,
+    397
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    441,
+    218,
+    465
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    485,
+    153,
+    506
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    539,
+    196,
+    563
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    583,
+    183,
+    604
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    612,
+    96,
+    628
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    640,
+    72,
+    656
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    667,
+    115,
+    684
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    695,
+    263,
+    716
+   ]
+  },
+  {
+   "text": "Lakatos Katalin",
+   "bbox": [
+    450,
+    122,
+    851,
+    158
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    189,
+    699,
+    216
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    255,
+    743,
+    280
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    450,
+    307,
+    592,
+    323
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Pataki Tech Kft.",
+   "bbox": [
+    449,
+    332,
+    880,
+    355
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    450,
+    375,
+    592,
+    391
+   ]
+  },
+  {
+   "text": "adatelemző – Kis Szolgáltató Kft.",
+   "bbox": [
+    450,
+    400,
+    876,
+    423
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    452,
+    649,
+    478
+   ]
+  },
+  {
+   "text": "2000 – 2005",
+   "bbox": [
+    450,
+    505,
+    592,
+    521
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    530,
+    886,
+    553
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    556,
+    630,
+    573
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    450,
+    599,
+    592,
+    615
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    624,
+    818,
+    647
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    649,
+    547,
+    671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

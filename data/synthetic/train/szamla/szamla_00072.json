@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2026/09153",
+  "kiallitas_datuma": "2026. augusztus 7.",
+  "teljesites_datuma": "2026. augusztus 3.",
+  "fizetesi_hatarido": "2026. szeptember 6.",
+  "elado_nev": "Kovács Trade Kft.",
+  "elado_cim": "H-4997 Hetvenvég, Ady endre utca 159.",
+  "elado_adoszam": "98416484-2-36",
+  "vevo_nev": "Lukács és Társa Zrt.",
+  "vevo_cim": "H-5567 Mártonfalu, Fürdőberényi utca 213.",
+  "vevo_adoszam": "61711510-2-35",
+  "bankszamla": "HU45 4366 2207 6258 6823 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "38 340 Ft",
+  "afa_osszesen": "9 763 Ft",
+  "brutto_osszesen": "48 103 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "12 db",
+    "egysegar": "2 650",
+    "netto": "31 800",
+    "afa_kulcs": "27%",
+    "afa": "8 586",
+    "brutto": "40 386"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "2 180",
+    "netto": "6 540",
+    "afa_kulcs": "18%",
+    "afa": "1 177",
+    "brutto": "7 717"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    109,
+    113,
+    211,
+    133
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    801,
+    98,
+    1160,
+    127
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2026/09153",
+   "bbox": [
+    919,
+    155,
+    1160,
+    171
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    80,
+    236,
+    139,
+    251
+   ]
+  },
+  {
+   "text": "Lukács és Társa Zrt.",
+   "bbox": [
+    80,
+    271,
+    286,
+    286
+   ]
+  },
+  {
+   "text": "H-5567 Mártonfalu, Fürdőberényi utca 213.",
+   "bbox": [
+    80,
+    302,
+    456,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 61711510-2-35",
+   "bbox": [
+    80,
+    331,
+    305,
+    346
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    236,
+    696,
+    251
+   ]
+  },
+  {
+   "text": "Kovács Trade Kft.",
+   "bbox": [
+    630,
+    271,
+    815,
+    286
+   ]
+  },
+  {
+   "text": "H-4997 Hetvenvég, Ady endre utca 159.",
+   "bbox": [
+    630,
+    302,
+    975,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 98416484-2-36",
+   "bbox": [
+    630,
+    331,
+    855,
+    346
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    80,
+    398,
+    209,
+    411
+   ]
+  },
+  {
+   "text": "2026. augusztus 7.",
+   "bbox": [
+    80,
+    426,
+    230,
+    443
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    398,
+    486,
+    415
+   ]
+  },
+  {
+   "text": "2026. augusztus 3.",
+   "bbox": [
+    350,
+    426,
+    500,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    398,
+    749,
+    411
+   ]
+  },
+  {
+   "text": "2026. szeptember 6.",
+   "bbox": [
+    620,
+    425,
+    783,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    398,
+    987,
+    411
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    890,
+    425,
+    953,
+    439
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    80,
+    474,
+    172,
+    491
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    475,
+    571,
+    491
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    678,
+    474,
+    749,
+    491
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    837,
+    474,
+    879,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    471,
+    944,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1009,
+    471,
+    1046,
+    487
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1109,
+    474,
+    1160,
+    487
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    514,
+    553,
+    527
+   ]
+  },
+  {
+   "text": "2 650",
+   "bbox": [
+    708,
+    515,
+    749,
+    527
+   ]
+  },
+  {
+   "text": "31 800",
+   "bbox": [
+    829,
+    515,
+    879,
+    527
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    515,
+    944,
+    527
+   ]
+  },
+  {
+   "text": "8 586",
+   "bbox": [
+    1005,
+    515,
+    1046,
+    527
+   ]
+  },
+  {
+   "text": "40 386",
+   "bbox": [
+    1110,
+    515,
+    1160,
+    527
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    80,
+    514,
+    207,
+    531
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    512,
+    548,
+    572,
+    561
+   ]
+  },
+  {
+   "text": "2 180",
+   "bbox": [
+    708,
+    549,
+    749,
+    561
+   ]
+  },
+  {
+   "text": "6 540",
+   "bbox": [
+    838,
+    549,
+    879,
+    561
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    911,
+    549,
+    944,
+    561
+   ]
+  },
+  {
+   "text": "1 177",
+   "bbox": [
+    1005,
+    549,
+    1046,
+    561
+   ]
+  },
+  {
+   "text": "7 717",
+   "bbox": [
+    1119,
+    549,
+    1160,
+    561
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    80,
+    545,
+    195,
+    565
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    689,
+    602,
+    830,
+    618
+   ]
+  },
+  {
+   "text": "38 340 Ft",
+   "bbox": [
+    1075,
+    603,
+    1161,
+    618
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    695,
+    633,
+    830,
+    653
+   ]
+  },
+  {
+   "text": "9 763 Ft",
+   "bbox": [
+    1086,
+    638,
+    1161,
+    653
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    646,
+    673,
+    830,
+    688
+   ]
+  },
+  {
+   "text": "48 103 Ft",
+   "bbox": [
+    1073,
+    673,
+    1161,
+    688
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU45 4366 2207 6258 6823 0000 0000",
+   "bbox": [
+    80,
+    737,
+    550,
+    751
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    457,
+    1659,
+    784,
+    1673
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "ORSÓS CSEMEGE BT.",
+  "uzlet_cim": "H-8940 Székesfehérvár, Keresztfai utca 133.",
+  "adoszam": "97824833-5-43",
+  "datum": "2025.07.18.",
+  "ido": "10:34",
+  "nyugtaszam": "6158/02441",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 637 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "66"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1917"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "738"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1127"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2490"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1554"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "420"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1070"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "255"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ORSÓS CSEMEGE BT.",
+   "bbox": [
+    180,
+    31,
+    401,
+    49
+   ]
+  },
+  {
+   "text": "H-8940 Székesfehérvár, Keresztfai utca 133.",
+   "bbox": [
+    54,
+    65,
+    527,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 97824833-5-43",
+   "bbox": [
+    170,
+    87,
+    412,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    130,
+    334,
+    144
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    171,
+    96,
+    183
+   ]
+  },
+  {
+   "text": "66 B00",
+   "bbox": [
+    487,
+    170,
+    559,
+    183
+   ]
+  },
+  {
+   "text": "3 DB x 639",
+   "bbox": [
+    24,
+    198,
+    124,
+    209
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    220,
+    216,
+    233
+   ]
+  },
+  {
+   "text": "1917 A00",
+   "bbox": [
+    463,
+    220,
+    559,
+    233
+   ]
+  },
+  {
+   "text": "3 DB x 246",
+   "bbox": [
+    24,
+    248,
+    124,
+    259
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    270,
+    192,
+    286
+   ]
+  },
+  {
+   "text": "738 A00",
+   "bbox": [
+    475,
+    270,
+    559,
+    283
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    298,
+    120,
+    311
+   ]
+  },
+  {
+   "text": "1127 B00",
+   "bbox": [
+    463,
+    298,
+    559,
+    311
+   ]
+  },
+  {
+   "text": "3 DB x 830",
+   "bbox": [
+    24,
+    326,
+    124,
+    337
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    348,
+    132,
+    361
+   ]
+  },
+  {
+   "text": "2490 C00",
+   "bbox": [
+    463,
+    348,
+    559,
+    361
+   ]
+  },
+  {
+   "text": "3 DB x 518",
+   "bbox": [
+    24,
+    376,
+    124,
+    387
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    399,
+    192,
+    411
+   ]
+  },
+  {
+   "text": "1554 C00",
+   "bbox": [
+    463,
+    398,
+    559,
+    411
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    426,
+    192,
+    439
+   ]
+  },
+  {
+   "text": "420 C00",
+   "bbox": [
+    475,
+    426,
+    559,
+    439
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    454,
+    144,
+    467
+   ]
+  },
+  {
+   "text": "1070 C00",
+   "bbox": [
+    463,
+    454,
+    559,
+    467
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    483,
+    180,
+    495
+   ]
+  },
+  {
+   "text": "255 B00",
+   "bbox": [
+    475,
+    482,
+    559,
+    495
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    520,
+    150,
+    538
+   ]
+  },
+  {
+   "text": "9 637 Ft",
+   "bbox": [
+    447,
+    523,
+    560,
+    538
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    557,
+    144,
+    573
+   ]
+  },
+  {
+   "text": "9 637 Ft",
+   "bbox": [
+    463,
+    560,
+    559,
+    573
+   ]
+  },
+  {
+   "text": "2025.07.18.",
+   "bbox": [
+    24,
+    602,
+    145,
+    613
+   ]
+  },
+  {
+   "text": "10:34",
+   "bbox": [
+    504,
+    602,
+    559,
+    613
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6158/02441",
+   "bbox": [
+    24,
+    627,
+    266,
+    642
+   ]
+  },
+  {
+   "text": "AP A71236574",
+   "bbox": [
+    24,
+    658,
+    156,
+    669
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    236,
+    696,
+    346,
+    710
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  583,
+  754
+ ]
+}

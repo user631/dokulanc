@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Simon Ferenc",
+  "anyja_neve": "Varga Kinga",
+  "szuletesi_hely": "Nyíregyháza",
+  "szuletesi_datum": "1983. 10. 07.",
+  "lakcim": "H-3835 Nagykanizsa, József attila út 51.",
+  "telefon": "+36 30 601 2518",
+  "email": "simon.ferenc@example.hu",
+  "adoazonosito_jel": "8426470149",
+  "taj_szam": "898 621 154",
+  "kelt": "Nyírligetkőrös, 2025. 12. 06."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    526,
+    93,
+    714,
+    119
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    452,
+    138,
+    788,
+    155
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    82,
+    191,
+    339,
+    213
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    94,
+    245,
+    139,
+    260
+   ]
+  },
+  {
+   "text": "Simon Ferenc",
+   "bbox": [
+    396,
+    247,
+    546,
+    263
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    298,
+    209,
+    316
+   ]
+  },
+  {
+   "text": "Varga Kinga",
+   "bbox": [
+    396,
+    294,
+    530,
+    314
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    94,
+    349,
+    233,
+    368
+   ]
+  },
+  {
+   "text": "Nyíregyháza",
+   "bbox": [
+    396,
+    348,
+    532,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    94,
+    401,
+    223,
+    416
+   ]
+  },
+  {
+   "text": "1983. 10. 07.",
+   "bbox": [
+    396,
+    404,
+    548,
+    420
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    94,
+    453,
+    169,
+    468
+   ]
+  },
+  {
+   "text": "H-3835 Nagykanizsa, József attila út 51.",
+   "bbox": [
+    396,
+    454,
+    847,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    94,
+    505,
+    222,
+    520
+   ]
+  },
+  {
+   "text": "+36 30 601 2518",
+   "bbox": [
+    396,
+    503,
+    592,
+    519
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    94,
+    557,
+    203,
+    572
+   ]
+  },
+  {
+   "text": "simon.ferenc@example.hu",
+   "bbox": [
+    396,
+    558,
+    688,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    609,
+    261,
+    628
+   ]
+  },
+  {
+   "text": "8426470149",
+   "bbox": [
+    396,
+    612,
+    536,
+    628
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    94,
+    661,
+    193,
+    676
+   ]
+  },
+  {
+   "text": "898 621 154",
+   "bbox": [
+    396,
+    659,
+    538,
+    675
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    82,
+    740,
+    286,
+    761
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    127,
+    783,
+    459,
+    802
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    127,
+    828,
+    281,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    873,
+    480,
+    892
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    82,
+    976,
+    130,
+    992
+   ]
+  },
+  {
+   "text": "Nyírligetkőrös, 2025. 12. 06.",
+   "bbox": [
+    172,
+    972,
+    491,
+    994
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    941,
+    1025,
+    994,
+    1038
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

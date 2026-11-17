@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kovács Viktória",
+  "anyja_neve": "Kiss Ferenc",
+  "szuletesi_hely": "Tamásifa",
+  "szuletesi_datum": "1951.10.24.",
+  "lakcim": "H-5579 Ligethida, Györgyfalui utca 165.",
+  "telefon": "+36 30 438 2404",
+  "email": "kovacs.viktoria@outlook.com",
+  "adoazonosito_jel": "8309765339",
+  "taj_szam": "704 756 236",
+  "kelt": "Vácgyörgybánya, 2024.04.28."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    415,
+    88,
+    825,
+    123
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    197,
+    299,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    249,
+    134,
+    264
+   ]
+  },
+  {
+   "text": "Kovács Viktória",
+   "bbox": [
+    400,
+    245,
+    554,
+    263
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    302,
+    194,
+    322
+   ]
+  },
+  {
+   "text": "Kiss Ferenc",
+   "bbox": [
+    400,
+    300,
+    512,
+    317
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    355,
+    216,
+    375
+   ]
+  },
+  {
+   "text": "Tamásifa",
+   "bbox": [
+    400,
+    357,
+    491,
+    375
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    408,
+    209,
+    423
+   ]
+  },
+  {
+   "text": "1951.10.24.",
+   "bbox": [
+    400,
+    409,
+    511,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    461,
+    159,
+    476
+   ]
+  },
+  {
+   "text": "H-5579 Ligethida, Györgyfalui utca 165.",
+   "bbox": [
+    400,
+    458,
+    800,
+    480
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    514,
+    207,
+    529
+   ]
+  },
+  {
+   "text": "+36 30 438 2404",
+   "bbox": [
+    400,
+    516,
+    566,
+    532
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    567,
+    190,
+    582
+   ]
+  },
+  {
+   "text": "kovacs.viktoria@outlook.com",
+   "bbox": [
+    400,
+    566,
+    696,
+    585
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    620,
+    247,
+    640
+   ]
+  },
+  {
+   "text": "8309765339",
+   "bbox": [
+    400,
+    618,
+    520,
+    634
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    673,
+    178,
+    688
+   ]
+  },
+  {
+   "text": "704 756 236",
+   "bbox": [
+    400,
+    674,
+    520,
+    690
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    755,
+    260,
+    777
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    797,
+    429,
+    817
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    842,
+    267,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    887,
+    449,
+    907
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    992,
+    123,
+    1008
+   ]
+  },
+  {
+   "text": "Vácgyörgybánya, 2024.04.28.",
+   "bbox": [
+    173,
+    988,
+    465,
+    1011
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    943,
+    1041,
+    991,
+    1054
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Lakatos Edit",
+  "email": "lakatos.edit@example.hu",
+  "telefon": "06 1 993 5428",
+  "lakcim": "H-7527 Szigetszentmiklós, Hídapátii út 39.",
+  "szuletesi_datum": "1997.04.23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2021 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "C#",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Lakatos Edit",
+   "bbox": [
+    464,
+    107,
+    775,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    171,
+    731,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    167,
+    237
+   ]
+  },
+  {
+   "text": "lakatos.edit@example.hu",
+   "bbox": [
+    330,
+    222,
+    568,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    251,
+    179,
+    266
+   ]
+  },
+  {
+   "text": "06 1 993 5428",
+   "bbox": [
+    330,
+    252,
+    471,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    279,
+    174,
+    295
+   ]
+  },
+  {
+   "text": "H-7527 Szigetszentmiklós, Hídapátii út 39.",
+   "bbox": [
+    330,
+    280,
+    737,
+    299
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    308,
+    273,
+    324
+   ]
+  },
+  {
+   "text": "1997.04.23.",
+   "bbox": [
+    330,
+    310,
+    447,
+    324
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    359,
+    347,
+    382
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    90,
+    408,
+    212,
+    422
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Kiss Tech Kft.",
+   "bbox": [
+    90,
+    429,
+    457,
+    450
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    480,
+    263,
+    503
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    529,
+    212,
+    543
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    550,
+    369,
+    571
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    574,
+    222,
+    593
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    614,
+    212,
+    628
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    635,
+    359,
+    656
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    659,
+    172,
+    678
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    709,
+    233,
+    732
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    757,
+    204,
+    776
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    803,
+    227,
+    826
+   ]
+  },
+  {
+   "text": "Linux, C#, projektmenedzsment",
+   "bbox": [
+    90,
+    851,
+    399,
+    870
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

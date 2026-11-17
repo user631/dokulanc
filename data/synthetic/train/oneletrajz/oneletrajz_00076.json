@@ -1,0 +1,321 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Nagy Dominik",
+  "email": "nagy.dominik@freemail.hu",
+  "telefon": "+36 30 598 3550",
+  "lakcim": "H-7114 Debrecen, Petőfi sándor tér 160.",
+  "szuletesi_datum": "1990. június 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2010 – 2015"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2018 – 2019"
+   },
+   {
+    "ceg": "Mészáros Logisztika Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "SAP",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    180,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    149,
+    91,
+    162
+   ]
+  },
+  {
+   "text": "nagy.dominik@freemail.hu",
+   "bbox": [
+    40,
+    170,
+    243,
+    187
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    100,
+    214
+   ]
+  },
+  {
+   "text": "+36 30 598 3550",
+   "bbox": [
+    40,
+    223,
+    166,
+    235
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    253,
+    97,
+    266
+   ]
+  },
+  {
+   "text": "H-7114 Debrecen, Petőfi sándor tér 160.",
+   "bbox": [
+    40,
+    274,
+    345,
+    289
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    305,
+    168,
+    318
+   ]
+  },
+  {
+   "text": "1990. június 9.",
+   "bbox": [
+    40,
+    326,
+    148,
+    343
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    384,
+    175,
+    404
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    425,
+    125,
+    441
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    449,
+    137,
+    467
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    501,
+    153,
+    521
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    542,
+    62,
+    555
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    567,
+    72,
+    580
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    591,
+    96,
+    609
+   ]
+  },
+  {
+   "text": "Nagy Dominik",
+   "bbox": [
+    450,
+    117,
+    741,
+    159
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    181,
+    620,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    242,
+    662,
+    264
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    450,
+    291,
+    550,
+    304
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kovács Zrt.",
+   "bbox": [
+    450,
+    313,
+    695,
+    328
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    353,
+    550,
+    366
+   ]
+  },
+  {
+   "text": "értékesítő – Mészáros Logisztika Zrt.",
+   "bbox": [
+    450,
+    375,
+    796,
+    395
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    425,
+    597,
+    447
+   ]
+  },
+  {
+   "text": "2010 – 2015",
+   "bbox": [
+    450,
+    474,
+    550,
+    487
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    496,
+    620,
+    516
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    519,
+    736,
+    537
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    559,
+    550,
+    572
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    581,
+    681,
+    601
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    604,
+    665,
+    622
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

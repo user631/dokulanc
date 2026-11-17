@@ -1,0 +1,759 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/09384",
+  "kiallitas_datuma": "2024. szeptember 14.",
+  "teljesites_datuma": "2024. szeptember 9.",
+  "fizetesi_hatarido": "2024. szeptember 29.",
+  "elado_nev": "Németh Kft.",
+  "elado_cim": "H-8424 Szombathely, Ligetfalvai utca 133.",
+  "elado_adoszam": "50743292-4-15",
+  "vevo_nev": "Szabó Zrt.",
+  "vevo_cim": "H-2313 Budamindszenthalas, Arany jános utca 43.",
+  "vevo_adoszam": "97919290-4-11",
+  "bankszamla": "HU97 3285 7825 3632 8826 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "2 392 410 Ft",
+  "afa_osszesen": "627 196 Ft",
+  "brutto_osszesen": "3 019 606 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "10 csomag",
+    "egysegar": "4 270",
+    "netto": "42 700",
+    "afa_kulcs": "18%",
+    "afa": "7 686",
+    "brutto": "50 386"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "225 900",
+    "netto": "2 259 000",
+    "afa_kulcs": "27%",
+    "afa": "609 930",
+    "brutto": "2 868 930"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "1 970",
+    "netto": "1 970",
+    "afa_kulcs": "27%",
+    "afa": "532",
+    "brutto": "2 502"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "2 db",
+    "egysegar": "630",
+    "netto": "1 260",
+    "afa_kulcs": "5%",
+    "afa": "63",
+    "brutto": "1 323"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "16 630",
+    "netto": "66 520",
+    "afa_kulcs": "5%",
+    "afa": "3 326",
+    "brutto": "69 846"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "4 db",
+    "egysegar": "5 240",
+    "netto": "20 960",
+    "afa_kulcs": "27%",
+    "afa": "5 659",
+    "brutto": "26 619"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    537,
+    101,
+    703,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/09384",
+   "bbox": [
+    447,
+    162,
+    793,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    95,
+    243,
+    160,
+    260
+   ]
+  },
+  {
+   "text": "Németh Kft.",
+   "bbox": [
+    95,
+    278,
+    226,
+    295
+   ]
+  },
+  {
+   "text": "H-8424 Szombathely, Ligetfalvai utca 133.",
+   "bbox": [
+    95,
+    310,
+    482,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 50743292-4-15",
+   "bbox": [
+    95,
+    339,
+    329,
+    355
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    243,
+    689,
+    260
+   ]
+  },
+  {
+   "text": "Szabó Zrt.",
+   "bbox": [
+    630,
+    278,
+    738,
+    295
+   ]
+  },
+  {
+   "text": "H-2313 Budamindszenthalas, Arany jános utca 43.",
+   "bbox": [
+    630,
+    310,
+    1093,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 97919290-4-11",
+   "bbox": [
+    630,
+    339,
+    864,
+    355
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    95,
+    405,
+    232,
+    419
+   ]
+  },
+  {
+   "text": "2024. szeptember 14.",
+   "bbox": [
+    95,
+    433,
+    281,
+    453
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    405,
+    506,
+    423
+   ]
+  },
+  {
+   "text": "2024. szeptember 9.",
+   "bbox": [
+    357,
+    433,
+    532,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    405,
+    759,
+    419
+   ]
+  },
+  {
+   "text": "2024. szeptember 29.",
+   "bbox": [
+    619,
+    433,
+    805,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    881,
+    405,
+    987,
+    419
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    881,
+    433,
+    978,
+    453
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    95,
+    482,
+    201,
+    499
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    482,
+    579,
+    499
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    669,
+    482,
+    747,
+    499
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    482,
+    872,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    478,
+    935,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    478,
+    1034,
+    495
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1090,
+    482,
+    1145,
+    495
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    515,
+    522,
+    603,
+    539
+   ]
+  },
+  {
+   "text": "4 270",
+   "bbox": [
+    701,
+    522,
+    746,
+    535
+   ]
+  },
+  {
+   "text": "42 700",
+   "bbox": [
+    817,
+    522,
+    872,
+    535
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    900,
+    522,
+    935,
+    535
+   ]
+  },
+  {
+   "text": "7 686",
+   "bbox": [
+    989,
+    522,
+    1034,
+    535
+   ]
+  },
+  {
+   "text": "50 386",
+   "bbox": [
+    1090,
+    522,
+    1145,
+    535
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    95,
+    521,
+    240,
+    539
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    515,
+    555,
+    602,
+    569
+   ]
+  },
+  {
+   "text": "225 900",
+   "bbox": [
+    681,
+    556,
+    746,
+    569
+   ]
+  },
+  {
+   "text": "2 259 000",
+   "bbox": [
+    792,
+    556,
+    872,
+    569
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    556,
+    935,
+    569
+   ]
+  },
+  {
+   "text": "609 930",
+   "bbox": [
+    969,
+    556,
+    1034,
+    569
+   ]
+  },
+  {
+   "text": "2 868 930",
+   "bbox": [
+    1065,
+    556,
+    1145,
+    569
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    95,
+    555,
+    264,
+    573
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    590,
+    593,
+    607
+   ]
+  },
+  {
+   "text": "1 970",
+   "bbox": [
+    701,
+    590,
+    746,
+    603
+   ]
+  },
+  {
+   "text": "1 970",
+   "bbox": [
+    827,
+    590,
+    872,
+    603
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    590,
+    935,
+    603
+   ]
+  },
+  {
+   "text": "532",
+   "bbox": [
+    1004,
+    590,
+    1034,
+    603
+   ]
+  },
+  {
+   "text": "2 502",
+   "bbox": [
+    1100,
+    590,
+    1145,
+    603
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    95,
+    589,
+    308,
+    607
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    515,
+    623,
+    552,
+    637
+   ]
+  },
+  {
+   "text": "630",
+   "bbox": [
+    716,
+    624,
+    746,
+    637
+   ]
+  },
+  {
+   "text": "1 260",
+   "bbox": [
+    827,
+    624,
+    872,
+    637
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    910,
+    624,
+    935,
+    637
+   ]
+  },
+  {
+   "text": "63",
+   "bbox": [
+    1014,
+    624,
+    1034,
+    637
+   ]
+  },
+  {
+   "text": "1 323",
+   "bbox": [
+    1100,
+    624,
+    1145,
+    637
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    95,
+    623,
+    188,
+    641
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    515,
+    658,
+    548,
+    671
+   ]
+  },
+  {
+   "text": "16 630",
+   "bbox": [
+    691,
+    658,
+    746,
+    671
+   ]
+  },
+  {
+   "text": "66 520",
+   "bbox": [
+    817,
+    658,
+    872,
+    671
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    910,
+    658,
+    935,
+    671
+   ]
+  },
+  {
+   "text": "3 326",
+   "bbox": [
+    989,
+    658,
+    1034,
+    671
+   ]
+  },
+  {
+   "text": "69 846",
+   "bbox": [
+    1090,
+    658,
+    1145,
+    671
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    95,
+    657,
+    310,
+    675
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    515,
+    691,
+    552,
+    705
+   ]
+  },
+  {
+   "text": "5 240",
+   "bbox": [
+    701,
+    692,
+    746,
+    705
+   ]
+  },
+  {
+   "text": "20 960",
+   "bbox": [
+    817,
+    692,
+    872,
+    705
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    692,
+    935,
+    705
+   ]
+  },
+  {
+   "text": "5 659",
+   "bbox": [
+    989,
+    692,
+    1034,
+    705
+   ]
+  },
+  {
+   "text": "26 619",
+   "bbox": [
+    1090,
+    692,
+    1145,
+    705
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    95,
+    691,
+    236,
+    709
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    663,
+    746,
+    815,
+    763
+   ]
+  },
+  {
+   "text": "2 392 410 Ft",
+   "bbox": [
+    1025,
+    747,
+    1145,
+    763
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    679,
+    777,
+    815,
+    798
+   ]
+  },
+  {
+   "text": "627 196 Ft",
+   "bbox": [
+    1043,
+    782,
+    1145,
+    798
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    628,
+    816,
+    815,
+    838
+   ]
+  },
+  {
+   "text": "3 019 606 Ft",
+   "bbox": [
+    1016,
+    817,
+    1145,
+    833
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU97 3285 7825 3632 8826 0000 0000",
+   "bbox": [
+    95,
+    881,
+    593,
+    896
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    500,
+    1642,
+    740,
+    1658
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

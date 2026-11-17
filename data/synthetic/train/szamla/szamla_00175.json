@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/02481",
+  "kiallitas_datuma": "2026. szeptember 2.",
+  "teljesites_datuma": "2026. augusztus 30.",
+  "fizetesi_hatarido": "2026. szeptember 10.",
+  "elado_nev": "Kiss Logisztika Kft.",
+  "elado_cim": "H-1950 Kecskemét, Pusztamindszenti utca 192.",
+  "elado_adoszam": "28805430-2-32",
+  "vevo_nev": "Szilágyi és Társa Zrt.",
+  "vevo_cim": "H-1114 Fürdőnémeti, Drávakereszti utca 8.",
+  "vevo_adoszam": "83357660-2-06",
+  "bankszamla": "88134220-20349699",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "341 810 Ft",
+  "afa_osszesen": "81 596 Ft",
+  "brutto_osszesen": "423 406 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "5 db",
+    "egysegar": "11 060",
+    "netto": "55 300",
+    "afa_kulcs": "27%",
+    "afa": "14 931",
+    "brutto": "70 231"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "1 520",
+    "netto": "1 520",
+    "afa_kulcs": "27%",
+    "afa": "410",
+    "brutto": "1 930"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "3 év",
+    "egysegar": "12 880",
+    "netto": "38 640",
+    "afa_kulcs": "5%",
+    "afa": "1 932",
+    "brutto": "40 572"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "12 db",
+    "egysegar": "830",
+    "netto": "9 960",
+    "afa_kulcs": "5%",
+    "afa": "498",
+    "brutto": "10 458"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "7 070",
+    "netto": "7 070",
+    "afa_kulcs": "27%",
+    "afa": "1 909",
+    "brutto": "8 979"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "4 hó",
+    "egysegar": "57 330",
+    "netto": "229 320",
+    "afa_kulcs": "27%",
+    "afa": "61 916",
+    "brutto": "291 236"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS",
+   "bbox": [
+    137,
+    120,
+    187,
+    137
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1021,
+    106,
+    1158,
+    137
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/02481",
+   "bbox": [
+    899,
+    159,
+    1158,
+    180
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    240,
+    147,
+    257
+   ]
+  },
+  {
+   "text": "Kiss Logisztika Kft.",
+   "bbox": [
+    82,
+    275,
+    284,
+    297
+   ]
+  },
+  {
+   "text": "H-1950 Kecskemét, Pusztamindszenti utca 192.",
+   "bbox": [
+    82,
+    307,
+    517,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 28805430-2-32",
+   "bbox": [
+    82,
+    336,
+    316,
+    352
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    240,
+    689,
+    257
+   ]
+  },
+  {
+   "text": "Szilágyi és Társa Zrt.",
+   "bbox": [
+    630,
+    275,
+    847,
+    297
+   ]
+  },
+  {
+   "text": "H-1114 Fürdőnémeti, Drávakereszti utca 8.",
+   "bbox": [
+    630,
+    307,
+    1023,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 83357660-2-06",
+   "bbox": [
+    630,
+    336,
+    864,
+    352
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    403,
+    246,
+    419
+   ]
+  },
+  {
+   "text": "2026. szeptember 2.",
+   "bbox": [
+    382,
+    403,
+    567,
+    424
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    434,
+    258,
+    455
+   ]
+  },
+  {
+   "text": "2026. augusztus 30.",
+   "bbox": [
+    382,
+    435,
+    564,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    465,
+    249,
+    481
+   ]
+  },
+  {
+   "text": "2026. szeptember 10.",
+   "bbox": [
+    382,
+    465,
+    578,
+    486
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    496,
+    211,
+    512
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    382,
+    496,
+    467,
+    517
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    539,
+    188,
+    556
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    539,
+    576,
+    556
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    539,
+    750,
+    556
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    539,
+    878,
+    552
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    535,
+    942,
+    552
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    535,
+    1045,
+    552
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1103,
+    539,
+    1158,
+    552
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    578,
+    549,
+    592
+   ]
+  },
+  {
+   "text": "11 060",
+   "bbox": [
+    694,
+    579,
+    749,
+    592
+   ]
+  },
+  {
+   "text": "55 300",
+   "bbox": [
+    823,
+    579,
+    878,
+    592
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    579,
+    942,
+    592
+   ]
+  },
+  {
+   "text": "14 931",
+   "bbox": [
+    990,
+    579,
+    1045,
+    592
+   ]
+  },
+  {
+   "text": "70 231",
+   "bbox": [
+    1103,
+    579,
+    1158,
+    592
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    82,
+    578,
+    217,
+    592
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    512,
+    612,
+    589,
+    626
+   ]
+  },
+  {
+   "text": "1 520",
+   "bbox": [
+    704,
+    613,
+    749,
+    626
+   ]
+  },
+  {
+   "text": "1 520",
+   "bbox": [
+    833,
+    613,
+    878,
+    626
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    613,
+    942,
+    626
+   ]
+  },
+  {
+   "text": "410",
+   "bbox": [
+    1015,
+    613,
+    1045,
+    626
+   ]
+  },
+  {
+   "text": "1 930",
+   "bbox": [
+    1113,
+    613,
+    1158,
+    626
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    82,
+    612,
+    172,
+    630
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    512,
+    647,
+    545,
+    660
+   ]
+  },
+  {
+   "text": "12 880",
+   "bbox": [
+    694,
+    647,
+    749,
+    660
+   ]
+  },
+  {
+   "text": "38 640",
+   "bbox": [
+    823,
+    647,
+    878,
+    660
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    917,
+    647,
+    942,
+    660
+   ]
+  },
+  {
+   "text": "1 932",
+   "bbox": [
+    1000,
+    647,
+    1045,
+    660
+   ]
+  },
+  {
+   "text": "40 572",
+   "bbox": [
+    1103,
+    647,
+    1158,
+    660
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    82,
+    646,
+    297,
+    664
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    680,
+    559,
+    694
+   ]
+  },
+  {
+   "text": "830",
+   "bbox": [
+    719,
+    681,
+    749,
+    694
+   ]
+  },
+  {
+   "text": "9 960",
+   "bbox": [
+    833,
+    681,
+    878,
+    694
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    917,
+    681,
+    942,
+    694
+   ]
+  },
+  {
+   "text": "498",
+   "bbox": [
+    1015,
+    681,
+    1045,
+    694
+   ]
+  },
+  {
+   "text": "10 458",
+   "bbox": [
+    1103,
+    681,
+    1158,
+    694
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    82,
+    680,
+    175,
+    698
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    714,
+    549,
+    728
+   ]
+  },
+  {
+   "text": "7 070",
+   "bbox": [
+    704,
+    715,
+    749,
+    728
+   ]
+  },
+  {
+   "text": "7 070",
+   "bbox": [
+    833,
+    715,
+    878,
+    728
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    715,
+    942,
+    728
+   ]
+  },
+  {
+   "text": "1 909",
+   "bbox": [
+    1000,
+    715,
+    1045,
+    728
+   ]
+  },
+  {
+   "text": "8 979",
+   "bbox": [
+    1113,
+    715,
+    1158,
+    728
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    82,
+    715,
+    240,
+    732
+   ]
+  },
+  {
+   "text": "4 hó",
+   "bbox": [
+    512,
+    748,
+    548,
+    762
+   ]
+  },
+  {
+   "text": "57 330",
+   "bbox": [
+    694,
+    749,
+    749,
+    762
+   ]
+  },
+  {
+   "text": "229 320",
+   "bbox": [
+    813,
+    749,
+    878,
+    762
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    749,
+    942,
+    762
+   ]
+  },
+  {
+   "text": "61 916",
+   "bbox": [
+    990,
+    749,
+    1045,
+    762
+   ]
+  },
+  {
+   "text": "291 236",
+   "bbox": [
+    1093,
+    749,
+    1158,
+    762
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    82,
+    748,
+    304,
+    766
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    676,
+    803,
+    828,
+    820
+   ]
+  },
+  {
+   "text": "341 810 Ft",
+   "bbox": [
+    1056,
+    804,
+    1158,
+    820
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    692,
+    834,
+    828,
+    855
+   ]
+  },
+  {
+   "text": "81 596 Ft",
+   "bbox": [
+    1068,
+    839,
+    1158,
+    855
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    624,
+    873,
+    828,
+    890
+   ]
+  },
+  {
+   "text": "423 406 Ft",
+   "bbox": [
+    1048,
+    874,
+    1158,
+    890
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 88134220-20349699",
+   "bbox": [
+    82,
+    938,
+    420,
+    953
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    444,
+    1655,
+    796,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

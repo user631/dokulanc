@@ -1,0 +1,330 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET KFT.",
+  "uzlet_cim": "H-5499 Budapest, Békéscsabai utca 36.",
+  "adoszam": "62489032-2-13",
+  "datum": "2026.03.19.",
+  "ido": "17:32",
+  "nyugtaszam": "3128/08735",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "15 628 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1218"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1058"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8583"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "624"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1446"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1574"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1125"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET KFT.",
+   "bbox": [
+    159,
+    30,
+    399,
+    50
+   ]
+  },
+  {
+   "text": "H-5499 Budapest, Békéscsabai utca 36.",
+   "bbox": [
+    38,
+    65,
+    519,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 62489032-2-13",
+   "bbox": [
+    136,
+    92,
+    422,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    231,
+    138,
+    328,
+    155
+   ]
+  },
+  {
+   "text": "2 DB x 609",
+   "bbox": [
+    24,
+    180,
+    144,
+    194
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    205,
+    150,
+    222
+   ]
+  },
+  {
+   "text": "1218 C00",
+   "bbox": [
+    422,
+    205,
+    534,
+    222
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    236,
+    164,
+    253
+   ]
+  },
+  {
+   "text": "1058 C00",
+   "bbox": [
+    422,
+    236,
+    534,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 2861",
+   "bbox": [
+    24,
+    267,
+    156,
+    281
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    292,
+    150,
+    309
+   ]
+  },
+  {
+   "text": "8583 A00",
+   "bbox": [
+    422,
+    292,
+    534,
+    309
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    323,
+    220,
+    340
+   ]
+  },
+  {
+   "text": "624 C00",
+   "bbox": [
+    436,
+    323,
+    534,
+    340
+   ]
+  },
+  {
+   "text": "2 DB x 723",
+   "bbox": [
+    24,
+    354,
+    144,
+    368
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    379,
+    136,
+    396
+   ]
+  },
+  {
+   "text": "1446 C00",
+   "bbox": [
+    422,
+    379,
+    534,
+    396
+   ]
+  },
+  {
+   "text": "2 DB x 787",
+   "bbox": [
+    24,
+    410,
+    144,
+    424
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    435,
+    136,
+    452
+   ]
+  },
+  {
+   "text": "1574 B00",
+   "bbox": [
+    422,
+    435,
+    534,
+    452
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    469,
+    206,
+    483
+   ]
+  },
+  {
+   "text": "1125 C00",
+   "bbox": [
+    422,
+    466,
+    534,
+    483
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    508,
+    168,
+    529
+   ]
+  },
+  {
+   "text": "15 628 Ft",
+   "bbox": [
+    390,
+    509,
+    534,
+    529
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    549,
+    178,
+    567
+   ]
+  },
+  {
+   "text": "15 628 Ft",
+   "bbox": [
+    408,
+    550,
+    534,
+    567
+   ]
+  },
+  {
+   "text": "2026.03.19.",
+   "bbox": [
+    24,
+    595,
+    167,
+    610
+   ]
+  },
+  {
+   "text": "17:32",
+   "bbox": [
+    469,
+    595,
+    534,
+    610
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3128/08735",
+   "bbox": [
+    24,
+    624,
+    310,
+    644
+   ]
+  },
+  {
+   "text": "AP A44605999",
+   "bbox": [
+    24,
+    657,
+    180,
+    672
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    181,
+    699,
+    376,
+    716
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  558,
+  761
+ ]
+}

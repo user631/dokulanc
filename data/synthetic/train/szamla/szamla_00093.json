@@ -1,0 +1,705 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/02876",
+  "kiallitas_datuma": "2024-09-30",
+  "teljesites_datuma": "2024-09-30",
+  "fizetesi_hatarido": "2024-10-08",
+  "elado_nev": "Horváth Logisztika Zrt.",
+  "elado_cim": "H-7291 Némethídváros, Pilismártoni utca 98.",
+  "elado_adoszam": "37498180-3-25",
+  "vevo_nev": "Németh Szolgáltató Kft.",
+  "vevo_cim": "H-3604 Székesfehérvár, Mátramindszenti utca 97.",
+  "vevo_adoszam": "71134936-2-41",
+  "bankszamla": "55660587-43432131-05817196",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "2 449 740 Ft",
+  "afa_osszesen": "658 910 Ft",
+  "brutto_osszesen": "3 108 650 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "10 óra",
+    "egysegar": "12 750",
+    "netto": "127 500",
+    "afa_kulcs": "27%",
+    "afa": "34 425",
+    "brutto": "161 925"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "6 550",
+    "netto": "6 550",
+    "afa_kulcs": "27%",
+    "afa": "1 768",
+    "brutto": "8 318"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "229 310",
+    "netto": "2 293 100",
+    "afa_kulcs": "27%",
+    "afa": "619 137",
+    "brutto": "2 912 237"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "2 db",
+    "egysegar": "5 570",
+    "netto": "11 140",
+    "afa_kulcs": "27%",
+    "afa": "3 008",
+    "brutto": "14 148"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "11 450",
+    "netto": "11 450",
+    "afa_kulcs": "5%",
+    "afa": "572",
+    "brutto": "12 022"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH",
+   "bbox": [
+    95,
+    110,
+    219,
+    130
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    795,
+    96,
+    1163,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/02876",
+   "bbox": [
+    902,
+    152,
+    1163,
+    169
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    77,
+    233,
+    145,
+    249
+   ]
+  },
+  {
+   "text": "Horváth Logisztika Zrt.",
+   "bbox": [
+    77,
+    269,
+    324,
+    290
+   ]
+  },
+  {
+   "text": "H-7291 Némethídváros, Pilismártoni utca 98.",
+   "bbox": [
+    77,
+    301,
+    481,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 37498180-3-25",
+   "bbox": [
+    77,
+    331,
+    308,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    233,
+    690,
+    249
+   ]
+  },
+  {
+   "text": "Németh Szolgáltató Kft.",
+   "bbox": [
+    630,
+    269,
+    877,
+    290
+   ]
+  },
+  {
+   "text": "H-3604 Székesfehérvár, Mátramindszenti utca 97.",
+   "bbox": [
+    630,
+    301,
+    1077,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 71134936-2-41",
+   "bbox": [
+    630,
+    331,
+    861,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    77,
+    399,
+    214,
+    412
+   ]
+  },
+  {
+   "text": "2024-09-30",
+   "bbox": [
+    77,
+    428,
+    179,
+    442
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    399,
+    490,
+    416
+   ]
+  },
+  {
+   "text": "2024-09-30",
+   "bbox": [
+    348,
+    428,
+    450,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    399,
+    754,
+    412
+   ]
+  },
+  {
+   "text": "2024-10-08",
+   "bbox": [
+    619,
+    428,
+    721,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    399,
+    991,
+    412
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    890,
+    427,
+    954,
+    442
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    77,
+    477,
+    173,
+    494
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    478,
+    574,
+    494
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    477,
+    751,
+    494
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    836,
+    477,
+    880,
+    490
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    474,
+    945,
+    490
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1008,
+    474,
+    1048,
+    490
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1109,
+    477,
+    1163,
+    490
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    511,
+    518,
+    561,
+    531
+   ]
+  },
+  {
+   "text": "12 750",
+   "bbox": [
+    695,
+    519,
+    750,
+    531
+   ]
+  },
+  {
+   "text": "127 500",
+   "bbox": [
+    815,
+    519,
+    880,
+    531
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    519,
+    945,
+    531
+   ]
+  },
+  {
+   "text": "34 425",
+   "bbox": [
+    993,
+    519,
+    1048,
+    531
+   ]
+  },
+  {
+   "text": "161 925",
+   "bbox": [
+    1098,
+    519,
+    1163,
+    531
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    77,
+    518,
+    288,
+    535
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    511,
+    553,
+    564,
+    566
+   ]
+  },
+  {
+   "text": "6 550",
+   "bbox": [
+    705,
+    554,
+    750,
+    566
+   ]
+  },
+  {
+   "text": "6 550",
+   "bbox": [
+    835,
+    554,
+    880,
+    566
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    554,
+    945,
+    566
+   ]
+  },
+  {
+   "text": "1 768",
+   "bbox": [
+    1003,
+    554,
+    1048,
+    566
+   ]
+  },
+  {
+   "text": "8 318",
+   "bbox": [
+    1118,
+    554,
+    1163,
+    566
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    77,
+    553,
+    285,
+    570
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    511,
+    588,
+    597,
+    601
+   ]
+  },
+  {
+   "text": "229 310",
+   "bbox": [
+    685,
+    589,
+    750,
+    601
+   ]
+  },
+  {
+   "text": "2 293 100",
+   "bbox": [
+    800,
+    589,
+    880,
+    601
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    589,
+    945,
+    601
+   ]
+  },
+  {
+   "text": "619 137",
+   "bbox": [
+    983,
+    589,
+    1048,
+    601
+   ]
+  },
+  {
+   "text": "2 912 237",
+   "bbox": [
+    1083,
+    589,
+    1163,
+    601
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    77,
+    588,
+    242,
+    605
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    511,
+    623,
+    546,
+    636
+   ]
+  },
+  {
+   "text": "5 570",
+   "bbox": [
+    705,
+    624,
+    750,
+    636
+   ]
+  },
+  {
+   "text": "11 140",
+   "bbox": [
+    825,
+    624,
+    880,
+    636
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    624,
+    945,
+    636
+   ]
+  },
+  {
+   "text": "3 008",
+   "bbox": [
+    1003,
+    624,
+    1048,
+    636
+   ]
+  },
+  {
+   "text": "14 148",
+   "bbox": [
+    1108,
+    624,
+    1163,
+    636
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    77,
+    623,
+    230,
+    640
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    658,
+    546,
+    671
+   ]
+  },
+  {
+   "text": "11 450",
+   "bbox": [
+    695,
+    659,
+    750,
+    671
+   ]
+  },
+  {
+   "text": "11 450",
+   "bbox": [
+    825,
+    659,
+    880,
+    671
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    919,
+    659,
+    945,
+    671
+   ]
+  },
+  {
+   "text": "572",
+   "bbox": [
+    1018,
+    659,
+    1048,
+    671
+   ]
+  },
+  {
+   "text": "12 022",
+   "bbox": [
+    1108,
+    659,
+    1163,
+    671
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    77,
+    658,
+    290,
+    675
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    688,
+    714,
+    833,
+    730
+   ]
+  },
+  {
+   "text": "2 449 740 Ft",
+   "bbox": [
+    1042,
+    715,
+    1164,
+    730
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    693,
+    746,
+    833,
+    766
+   ]
+  },
+  {
+   "text": "658 910 Ft",
+   "bbox": [
+    1060,
+    751,
+    1164,
+    766
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    724,
+    787,
+    833,
+    807
+   ]
+  },
+  {
+   "text": "3 108 650 Ft",
+   "bbox": [
+    1039,
+    787,
+    1163,
+    802
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 55660587-43432131-05817196",
+   "bbox": [
+    77,
+    851,
+    510,
+    866
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    77,
+    881,
+    576,
+    898
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    493,
+    1661,
+    746,
+    1677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Szilágyi Mária",
+  "email": "szilagyi.maria@outlook.com",
+  "telefon": "+36 30 753 4597",
+  "lakcim": "H-9569 Ózd, Szigetszentmiklósi utca 22.",
+  "szuletesi_datum": "1983. július 3.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2002 – 2005"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Máté Logisztika Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "ceg": "László Tech Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2010 – 2014"
+   },
+   {
+    "ceg": "Kovács Tech Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "ügyfélkezelés",
+   "SAP",
+   "JavaScript",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    188,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    93,
+    157
+   ]
+  },
+  {
+   "text": "szilagyi.maria@outlook.com",
+   "bbox": [
+    40,
+    165,
+    263,
+    183
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    105,
+    211
+   ]
+  },
+  {
+   "text": "+36 30 753 4597",
+   "bbox": [
+    40,
+    220,
+    177,
+    233
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    99,
+    265
+   ]
+  },
+  {
+   "text": "H-9569 Ózd, Szigetszentmiklósi utca 22.",
+   "bbox": [
+    40,
+    270,
+    359,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    305,
+    175,
+    319
+   ]
+  },
+  {
+   "text": "1983. július 3.",
+   "bbox": [
+    40,
+    327,
+    148,
+    345
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    386,
+    180,
+    407
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    428,
+    131,
+    445
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    480,
+    158,
+    501
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    522,
+    217,
+    540
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    548,
+    153,
+    566
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    575,
+    73,
+    588
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    600,
+    124,
+    618
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    627,
+    63,
+    640
+   ]
+  },
+  {
+   "text": "Szilágyi Mária",
+   "bbox": [
+    450,
+    110,
+    743,
+    153
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    173,
+    559,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    674,
+    261
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    287,
+    558,
+    301
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Máté Logisztika Bt.",
+   "bbox": [
+    450,
+    310,
+    926,
+    331
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    351,
+    558,
+    365
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – László Tech Bt.",
+   "bbox": [
+    450,
+    374,
+    778,
+    395
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    415,
+    558,
+    429
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kovács Tech Kft.",
+   "bbox": [
+    450,
+    438,
+    757,
+    454
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    489,
+    606,
+    513
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    450,
+    539,
+    558,
+    553
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    562,
+    721,
+    583
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    586,
+    563,
+    606
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    627,
+    558,
+    641
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    650,
+    727,
+    671
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    674,
+    672,
+    694
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Horváth Mariann",
+  "email": "horvath.mariann@citromail.hu",
+  "telefon": "06 1 331 9564",
+  "lakcim": "H-3697 Kisvég, Hetvenhalasi utca 127.",
+  "szuletesi_datum": "1993.09.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Rácz Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "ceg": "Nagy Trade Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2017 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Java",
+   "Git",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    81,
+    207,
+    102
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    126,
+    101,
+    139
+   ]
+  },
+  {
+   "text": "horvath.mariann@citromail.hu",
+   "bbox": [
+    40,
+    147,
+    303,
+    162
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    178,
+    111,
+    191
+   ]
+  },
+  {
+   "text": "06 1 331 9564",
+   "bbox": [
+    40,
+    200,
+    168,
+    212
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    229,
+    107,
+    243
+   ]
+  },
+  {
+   "text": "H-3697 Kisvég, Hetvenhalasi utca 127.",
+   "bbox": [
+    40,
+    250,
+    379,
+    267
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    281,
+    193,
+    295
+   ]
+  },
+  {
+   "text": "1993.09.03.",
+   "bbox": [
+    40,
+    304,
+    146,
+    316
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    360,
+    195,
+    381
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    401,
+    130,
+    419
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    452,
+    177,
+    473
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    493,
+    263,
+    511
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    519,
+    81,
+    532
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    544,
+    66,
+    557
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    568,
+    160,
+    586
+   ]
+  },
+  {
+   "text": "Horváth Mariann",
+   "bbox": [
+    450,
+    89,
+    857,
+    125
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    156,
+    672,
+    180
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    218,
+    707,
+    241
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    267,
+    572,
+    281
+   ]
+  },
+  {
+   "text": "adatelemző – Rácz Logisztika Kft.",
+   "bbox": [
+    450,
+    288,
+    827,
+    309
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    450,
+    329,
+    572,
+    343
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Trade Bt.",
+   "bbox": [
+    450,
+    350,
+    831,
+    371
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    401,
+    623,
+    424
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    450,
+    572,
+    464
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    472,
+    667,
+    492
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    495,
+    703,
+    514
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    535,
+    572,
+    549
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    556,
+    770,
+    577
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    580,
+    532,
+    599
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

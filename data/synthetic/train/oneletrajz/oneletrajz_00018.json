@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Nagy Terézia",
+  "email": "nagy.terezia@freemail.hu",
+  "telefon": "+36 30 187 8369",
+  "lakcim": "H-3270 Baja, Petőfi út 161.",
+  "szuletesi_datum": "1981.03.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2001 – 2006"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Trade Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "SAP",
+   "SQL",
+   "Java",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    205,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    101,
+    166
+   ]
+  },
+  {
+   "text": "nagy.terezia@freemail.hu",
+   "bbox": [
+    40,
+    176,
+    280,
+    195
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    210,
+    115,
+    226
+   ]
+  },
+  {
+   "text": "+36 30 187 8369",
+   "bbox": [
+    40,
+    236,
+    190,
+    251
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    270,
+    110,
+    286
+   ]
+  },
+  {
+   "text": "H-3270 Baja, Petőfi út 161.",
+   "bbox": [
+    40,
+    295,
+    296,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    330,
+    194,
+    346
+   ]
+  },
+  {
+   "text": "1981.03.27.",
+   "bbox": [
+    40,
+    356,
+    152,
+    371
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    416,
+    193,
+    440
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    462,
+    137,
+    483
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    489,
+    150,
+    512
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    545,
+    170,
+    569
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    591,
+    170,
+    612
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    620,
+    76,
+    636
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    649,
+    77,
+    668
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    678,
+    85,
+    694
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    705,
+    282,
+    728
+   ]
+  },
+  {
+   "text": "Nagy Terézia",
+   "bbox": [
+    450,
+    111,
+    736,
+    156
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    181,
+    682,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    699,
+    273
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    450,
+    300,
+    568,
+    316
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács Trade Kft.",
+   "bbox": [
+    450,
+    326,
+    789,
+    344
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    380,
+    618,
+    406
+   ]
+  },
+  {
+   "text": "2001 – 2006",
+   "bbox": [
+    450,
+    433,
+    568,
+    449
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    459,
+    1022,
+    482
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    485,
+    701,
+    503
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    530,
+    568,
+    546
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    556,
+    735,
+    574
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    583,
+    655,
+    605
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

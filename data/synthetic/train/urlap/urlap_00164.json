@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Takács Éva",
+  "anyja_neve": "Horváth Csaba",
+  "szuletesi_hely": "Ligethida",
+  "szuletesi_datum": "1989. 05. 11.",
+  "lakcim": "H-2150 Mezőhídfa, Mosoni utca 165.",
+  "telefon": "+36 20 998 8260",
+  "email": "takacs.eva@outlook.com",
+  "adoazonosito_jel": "8446900149",
+  "taj_szam": "872 724 497",
+  "kelt": "Hetvendevecser, 2026. 04. 10."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    444,
+    89,
+    796,
+    120
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    479,
+    147,
+    761,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    200,
+    286,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    257,
+    141,
+    270
+   ]
+  },
+  {
+   "text": "Takács Éva",
+   "bbox": [
+    401,
+    248,
+    529,
+    270
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    310,
+    201,
+    327
+   ]
+  },
+  {
+   "text": "Horváth Csaba",
+   "bbox": [
+    400,
+    304,
+    565,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    362,
+    222,
+    380
+   ]
+  },
+  {
+   "text": "Ligethida",
+   "bbox": [
+    401,
+    362,
+    502,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    415,
+    214,
+    429
+   ]
+  },
+  {
+   "text": "1989. 05. 11.",
+   "bbox": [
+    401,
+    412,
+    543,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    468,
+    165,
+    482
+   ]
+  },
+  {
+   "text": "H-2150 Mezőhídfa, Mosoni utca 165.",
+   "bbox": [
+    400,
+    462,
+    801,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    521,
+    214,
+    535
+   ]
+  },
+  {
+   "text": "+36 20 998 8260",
+   "bbox": [
+    401,
+    523,
+    609,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    574,
+    195,
+    588
+   ]
+  },
+  {
+   "text": "takacs.eva@outlook.com",
+   "bbox": [
+    400,
+    571,
+    663,
+    591
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    627,
+    250,
+    645
+   ]
+  },
+  {
+   "text": "8446900149",
+   "bbox": [
+    401,
+    626,
+    558,
+    646
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    681,
+    184,
+    694
+   ]
+  },
+  {
+   "text": "872 724 497",
+   "bbox": [
+    401,
+    676,
+    560,
+    696
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    758,
+    246,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    804,
+    427,
+    822
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    849,
+    272,
+    863
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    894,
+    443,
+    912
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    996,
+    131,
+    1010
+   ]
+  },
+  {
+   "text": "Hetvendevecser, 2026. 04. 10.",
+   "bbox": [
+    181,
+    992,
+    486,
+    1014
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1045,
+    980,
+    1057
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

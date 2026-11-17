@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Németh János",
+  "email": "nemeth.janos@gmail.com",
+  "telefon": "+36 70 148 9000",
+  "lakcim": "H-2866 Pécs, Miskolci utca 168.",
+  "szuletesi_datum": "1980.12.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lakatos Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2005 – 2006"
+   },
+   {
+    "ceg": "Fekete Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2002 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "SQL",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Németh János",
+   "bbox": [
+    453,
+    105,
+    786,
+    139
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    523,
+    173,
+    716,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    162,
+    237
+   ]
+  },
+  {
+   "text": "nemeth.janos@gmail.com",
+   "bbox": [
+    330,
+    223,
+    551,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    171,
+    266
+   ]
+  },
+  {
+   "text": "+36 70 148 9000",
+   "bbox": [
+    330,
+    253,
+    477,
+    269
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    169,
+    295
+   ]
+  },
+  {
+   "text": "H-2866 Pécs, Miskolci utca 168.",
+   "bbox": [
+    330,
+    281,
+    603,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    310,
+    255,
+    324
+   ]
+  },
+  {
+   "text": "1980.12.31.",
+   "bbox": [
+    330,
+    311,
+    424,
+    327
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    360,
+    327,
+    382
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    90,
+    409,
+    203,
+    425
+   ]
+  },
+  {
+   "text": "irodavezető – Lakatos Kft.",
+   "bbox": [
+    90,
+    431,
+    360,
+    446
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    90,
+    474,
+    203,
+    487
+   ]
+  },
+  {
+   "text": "adatelemző – Fekete Kft.",
+   "bbox": [
+    90,
+    493,
+    343,
+    508
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    543,
+    257,
+    565
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    90,
+    592,
+    198,
+    608
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    610,
+    257,
+    633
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    636,
+    321,
+    651
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    90,
+    677,
+    194,
+    693
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    699,
+    385,
+    718
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    722,
+    306,
+    740
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    772,
+    222,
+    794
+   ]
+  },
+  {
+   "text": "spanyol (B1), angol (C1)",
+   "bbox": [
+    90,
+    820,
+    288,
+    838
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    866,
+    213,
+    888
+   ]
+  },
+  {
+   "text": "Linux, SQL, SAP",
+   "bbox": [
+    90,
+    914,
+    231,
+    932
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

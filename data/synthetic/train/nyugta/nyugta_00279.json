@@ -1,0 +1,186 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "RÁCZ MARKET KFT.",
+  "uzlet_cim": "H-6904 Mártonvárad, Egyházastóti utca 19.",
+  "adoszam": "28480903-2-35",
+  "datum": "2025.07.22.",
+  "ido": "19:00",
+  "nyugtaszam": "7523/81105",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 570 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "902"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "658"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ MARKET KFT.",
+   "bbox": [
+    197,
+    30,
+    421,
+    50
+   ]
+  },
+  {
+   "text": "H-6904 Mártonvárad, Egyházastóti utca 19.",
+   "bbox": [
+    63,
+    68,
+    555,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 28480903-2-35",
+   "bbox": [
+    177,
+    91,
+    441,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    137,
+    358,
+    152
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    179,
+    219,
+    193
+   ]
+  },
+  {
+   "text": "902 A00",
+   "bbox": [
+    504,
+    179,
+    595,
+    193
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    209,
+    167,
+    223
+   ]
+  },
+  {
+   "text": "658 B00",
+   "bbox": [
+    504,
+    209,
+    595,
+    223
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    248,
+    168,
+    268
+   ]
+  },
+  {
+   "text": "1 570 Ft",
+   "bbox": [
+    467,
+    252,
+    595,
+    268
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    288,
+    155,
+    305
+   ]
+  },
+  {
+   "text": "1 570 Ft",
+   "bbox": [
+    491,
+    291,
+    595,
+    305
+   ]
+  },
+  {
+   "text": "2025.07.22.",
+   "bbox": [
+    24,
+    334,
+    156,
+    347
+   ]
+  },
+  {
+   "text": "19:00",
+   "bbox": [
+    535,
+    334,
+    595,
+    347
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7523/81105",
+   "bbox": [
+    24,
+    361,
+    288,
+    379
+   ]
+  },
+  {
+   "text": "AP A31302855",
+   "bbox": [
+    24,
+    394,
+    168,
+    407
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    244,
+    435,
+    374,
+    450
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  619,
+  494
+ ]
+}

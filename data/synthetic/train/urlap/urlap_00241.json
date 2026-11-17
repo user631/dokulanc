@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Farkas Judit",
+  "anyja_neve": "Gáspár Ildikó",
+  "szuletesi_hely": "Sopron",
+  "szuletesi_datum": "2003. 02. 18.",
+  "lakcim": "H-5729 Bakonyszékfalva, Hídkövesdi utca 41.",
+  "telefon": "+36 30 345 4385",
+  "email": "farkas.judit@gmail.com",
+  "adoazonosito_jel": "8497214471",
+  "taj_szam": "649 931 688",
+  "kelt": "Hódmezővásárhely, 2024. 04. 03."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    393,
+    94,
+    847,
+    127
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    471,
+    151,
+    770,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    207,
+    299,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    262,
+    146,
+    277
+   ]
+  },
+  {
+   "text": "Farkas Judit",
+   "bbox": [
+    394,
+    254,
+    577,
+    278
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    316,
+    208,
+    335
+   ]
+  },
+  {
+   "text": "Gáspár Ildikó",
+   "bbox": [
+    394,
+    313,
+    588,
+    340
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    370,
+    229,
+    389
+   ]
+  },
+  {
+   "text": "Sopron",
+   "bbox": [
+    394,
+    365,
+    494,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    424,
+    220,
+    439
+   ]
+  },
+  {
+   "text": "2003. 02. 18.",
+   "bbox": [
+    394,
+    420,
+    587,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    478,
+    175,
+    493
+   ]
+  },
+  {
+   "text": "H-5729 Bakonyszékfalva, Hídkövesdi utca 41.",
+   "bbox": [
+    394,
+    473,
+    1053,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    532,
+    219,
+    547
+   ]
+  },
+  {
+   "text": "+36 30 345 4385",
+   "bbox": [
+    394,
+    531,
+    650,
+    550
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    586,
+    204,
+    601
+   ]
+  },
+  {
+   "text": "farkas.judit@gmail.com",
+   "bbox": [
+    393,
+    584,
+    723,
+    611
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    640,
+    256,
+    659
+   ]
+  },
+  {
+   "text": "8497214471",
+   "bbox": [
+    394,
+    637,
+    584,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    694,
+    194,
+    709
+   ]
+  },
+  {
+   "text": "649 931 688",
+   "bbox": [
+    394,
+    692,
+    585,
+    711
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    775,
+    262,
+    796
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    819,
+    432,
+    838
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    864,
+    279,
+    879
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    909,
+    453,
+    928
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    1012,
+    137,
+    1028
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2024. 04. 03.",
+   "bbox": [
+    183,
+    1011,
+    625,
+    1037
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1062,
+    980,
+    1075
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

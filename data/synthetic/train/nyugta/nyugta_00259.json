@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZÜCS CSEMEGE KFT.",
+  "uzlet_cim": "H-8927 Székfa, Németligeti utca 237.",
+  "adoszam": "74472576-4-42",
+  "datum": "2025.01.09.",
+  "ido": "20:12",
+  "nyugtaszam": "3883/75173",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 428 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1450"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "831"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1147"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÜCS CSEMEGE KFT.",
+   "bbox": [
+    171,
+    29,
+    405,
+    48
+   ]
+  },
+  {
+   "text": "H-8927 Székfa, Németligeti utca 237.",
+   "bbox": [
+    90,
+    64,
+    486,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 74472576-4-42",
+   "bbox": [
+    167,
+    88,
+    409,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    246,
+    133,
+    331,
+    150
+   ]
+  },
+  {
+   "text": "2 DB x 725",
+   "bbox": [
+    24,
+    177,
+    124,
+    189
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    201,
+    192,
+    215
+   ]
+  },
+  {
+   "text": "1450 B00",
+   "bbox": [
+    457,
+    201,
+    553,
+    215
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    231,
+    132,
+    245
+   ]
+  },
+  {
+   "text": "831 A00",
+   "bbox": [
+    469,
+    231,
+    553,
+    245
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    261,
+    204,
+    275
+   ]
+  },
+  {
+   "text": "1147 C00",
+   "bbox": [
+    457,
+    261,
+    553,
+    275
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    298,
+    164,
+    320
+   ]
+  },
+  {
+   "text": "3 428 Ft",
+   "bbox": [
+    441,
+    303,
+    553,
+    320
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    338,
+    144,
+    357
+   ]
+  },
+  {
+   "text": "3 428 Ft",
+   "bbox": [
+    457,
+    343,
+    553,
+    357
+   ]
+  },
+  {
+   "text": "2025.01.09.",
+   "bbox": [
+    24,
+    386,
+    145,
+    399
+   ]
+  },
+  {
+   "text": "20:12",
+   "bbox": [
+    498,
+    386,
+    553,
+    399
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3883/75173",
+   "bbox": [
+    24,
+    412,
+    266,
+    431
+   ]
+  },
+  {
+   "text": "AP A55525580",
+   "bbox": [
+    24,
+    446,
+    156,
+    459
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    198,
+    485,
+    378,
+    502
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  577,
+  548
+ ]
+}

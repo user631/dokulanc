@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "HORVÁTH DISZKONT KFT.",
+  "uzlet_cim": "H-6341 Vácszékvára, Béke utca 15.",
+  "adoszam": "41222362-5-29",
+  "datum": "2024.02.20.",
+  "ido": "13:11",
+  "nyugtaszam": "5245/25569",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "14 844 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1159"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3022"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "863"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "795"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5648"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2162"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "600"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "595"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH DISZKONT KFT.",
+   "bbox": [
+    127,
+    31,
+    400,
+    48
+   ]
+  },
+  {
+   "text": "H-6341 Vácszékvára, Béke utca 15.",
+   "bbox": [
+    82,
+    63,
+    445,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 41222362-5-29",
+   "bbox": [
+    143,
+    87,
+    385,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    128,
+    307,
+    143
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    169,
+    180,
+    182
+   ]
+  },
+  {
+   "text": "1159 C00",
+   "bbox": [
+    409,
+    168,
+    505,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 1511",
+   "bbox": [
+    24,
+    196,
+    134,
+    208
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    218,
+    144,
+    232
+   ]
+  },
+  {
+   "text": "3022 C00",
+   "bbox": [
+    409,
+    218,
+    505,
+    232
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    246,
+    216,
+    260
+   ]
+  },
+  {
+   "text": "863 B00",
+   "bbox": [
+    421,
+    246,
+    505,
+    260
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    274,
+    120,
+    288
+   ]
+  },
+  {
+   "text": "795 B00",
+   "bbox": [
+    421,
+    274,
+    505,
+    288
+   ]
+  },
+  {
+   "text": "2 DB x 2824",
+   "bbox": [
+    24,
+    302,
+    134,
+    314
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    324,
+    132,
+    338
+   ]
+  },
+  {
+   "text": "5648 A00",
+   "bbox": [
+    409,
+    324,
+    505,
+    338
+   ]
+  },
+  {
+   "text": "2 DB x 1081",
+   "bbox": [
+    24,
+    352,
+    134,
+    364
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    374,
+    120,
+    388
+   ]
+  },
+  {
+   "text": "2162 A00",
+   "bbox": [
+    409,
+    374,
+    505,
+    388
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    402,
+    156,
+    416
+   ]
+  },
+  {
+   "text": "600 B00",
+   "bbox": [
+    421,
+    402,
+    505,
+    416
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    430,
+    132,
+    444
+   ]
+  },
+  {
+   "text": "595 B00",
+   "bbox": [
+    421,
+    430,
+    505,
+    444
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    468,
+    150,
+    487
+   ]
+  },
+  {
+   "text": "14 844 Ft",
+   "bbox": [
+    379,
+    470,
+    505,
+    487
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    506,
+    144,
+    522
+   ]
+  },
+  {
+   "text": "14 844 Ft",
+   "bbox": [
+    397,
+    508,
+    505,
+    522
+   ]
+  },
+  {
+   "text": "2024.02.20.",
+   "bbox": [
+    24,
+    550,
+    145,
+    563
+   ]
+  },
+  {
+   "text": "13:11",
+   "bbox": [
+    450,
+    550,
+    505,
+    563
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5245/25569",
+   "bbox": [
+    24,
+    577,
+    266,
+    594
+   ]
+  },
+  {
+   "text": "AP A33249462",
+   "bbox": [
+    24,
+    606,
+    156,
+    619
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    181,
+    644,
+    346,
+    659
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  529,
+  704
+ ]
+}

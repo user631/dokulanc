@@ -1,0 +1,597 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/05629",
+  "kiallitas_datuma": "2025-05-08",
+  "teljesites_datuma": "2025-05-04",
+  "fizetesi_hatarido": "2025-05-16",
+  "elado_nev": "Nemes Consulting Bt.",
+  "elado_cim": "H-7811 Ózd, Németii utca 5.",
+  "elado_adoszam": "23953978-2-34",
+  "vevo_nev": "Tóth Ildikó",
+  "vevo_cim": "H-4110 Borsodtótbánya, Magyarszéki tér 178.",
+  "vevo_adoszam": null,
+  "bankszamla": "07591156-68748254",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "243 700 Ft",
+  "afa_osszesen": "64 674 Ft",
+  "brutto_osszesen": "308 374 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "86 280",
+    "netto": "86 280",
+    "afa_kulcs": "27%",
+    "afa": "23 296",
+    "brutto": "109 576"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "5 450",
+    "netto": "65 400",
+    "afa_kulcs": "27%",
+    "afa": "17 658",
+    "brutto": "83 058"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "4 év",
+    "egysegar": "19 880",
+    "netto": "79 520",
+    "afa_kulcs": "27%",
+    "afa": "21 470",
+    "brutto": "100 990"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "10 karton",
+    "egysegar": "1 250",
+    "netto": "12 500",
+    "afa_kulcs": "18%",
+    "afa": "2 250",
+    "brutto": "14 750"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    426,
+    92,
+    814,
+    129
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/05629",
+   "bbox": [
+    465,
+    157,
+    775,
+    173
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    92,
+    238,
+    158,
+    253
+   ]
+  },
+  {
+   "text": "Nemes Consulting Bt.",
+   "bbox": [
+    92,
+    273,
+    307,
+    293
+   ]
+  },
+  {
+   "text": "H-7811 Ózd, Németii utca 5.",
+   "bbox": [
+    92,
+    300,
+    336,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 23953978-2-34",
+   "bbox": [
+    92,
+    333,
+    317,
+    348
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    238,
+    689,
+    253
+   ]
+  },
+  {
+   "text": "Tóth Ildikó",
+   "bbox": [
+    630,
+    273,
+    743,
+    288
+   ]
+  },
+  {
+   "text": "H-4110 Borsodtótbánya, Magyarszéki tér 178.",
+   "bbox": [
+    630,
+    304,
+    1026,
+    323
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    92,
+    401,
+    252,
+    415
+   ]
+  },
+  {
+   "text": "2025-05-08",
+   "bbox": [
+    392,
+    401,
+    494,
+    415
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    92,
+    432,
+    258,
+    450
+   ]
+  },
+  {
+   "text": "2025-05-04",
+   "bbox": [
+    392,
+    432,
+    494,
+    446
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    92,
+    463,
+    250,
+    477
+   ]
+  },
+  {
+   "text": "2025-05-16",
+   "bbox": [
+    392,
+    463,
+    494,
+    477
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    92,
+    494,
+    212,
+    508
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    392,
+    493,
+    456,
+    508
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    92,
+    536,
+    184,
+    553
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    537,
+    573,
+    553
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    536,
+    746,
+    553
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    536,
+    873,
+    549
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    533,
+    936,
+    549
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    533,
+    1037,
+    549
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    536,
+    1148,
+    549
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    514,
+    576,
+    546,
+    589
+   ]
+  },
+  {
+   "text": "86 280",
+   "bbox": [
+    696,
+    577,
+    746,
+    589
+   ]
+  },
+  {
+   "text": "86 280",
+   "bbox": [
+    823,
+    577,
+    873,
+    589
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    577,
+    936,
+    589
+   ]
+  },
+  {
+   "text": "23 296",
+   "bbox": [
+    987,
+    577,
+    1037,
+    589
+   ]
+  },
+  {
+   "text": "109 576",
+   "bbox": [
+    1089,
+    577,
+    1148,
+    589
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    92,
+    576,
+    299,
+    593
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    514,
+    610,
+    573,
+    623
+   ]
+  },
+  {
+   "text": "5 450",
+   "bbox": [
+    705,
+    611,
+    746,
+    623
+   ]
+  },
+  {
+   "text": "65 400",
+   "bbox": [
+    823,
+    611,
+    873,
+    623
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    611,
+    936,
+    623
+   ]
+  },
+  {
+   "text": "17 658",
+   "bbox": [
+    987,
+    611,
+    1037,
+    623
+   ]
+  },
+  {
+   "text": "83 058",
+   "bbox": [
+    1098,
+    611,
+    1148,
+    623
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    92,
+    610,
+    289,
+    627
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    514,
+    645,
+    545,
+    657
+   ]
+  },
+  {
+   "text": "19 880",
+   "bbox": [
+    696,
+    645,
+    746,
+    657
+   ]
+  },
+  {
+   "text": "79 520",
+   "bbox": [
+    823,
+    645,
+    873,
+    657
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    645,
+    936,
+    657
+   ]
+  },
+  {
+   "text": "21 470",
+   "bbox": [
+    987,
+    645,
+    1037,
+    657
+   ]
+  },
+  {
+   "text": "100 990",
+   "bbox": [
+    1089,
+    645,
+    1148,
+    657
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    92,
+    644,
+    224,
+    661
+   ]
+  },
+  {
+   "text": "10 karton",
+   "bbox": [
+    514,
+    678,
+    583,
+    691
+   ]
+  },
+  {
+   "text": "1 250",
+   "bbox": [
+    705,
+    679,
+    746,
+    691
+   ]
+  },
+  {
+   "text": "12 500",
+   "bbox": [
+    823,
+    679,
+    873,
+    691
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    903,
+    679,
+    936,
+    691
+   ]
+  },
+  {
+   "text": "2 250",
+   "bbox": [
+    996,
+    679,
+    1037,
+    691
+   ]
+  },
+  {
+   "text": "14 750",
+   "bbox": [
+    1098,
+    679,
+    1148,
+    691
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    92,
+    675,
+    207,
+    695
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    677,
+    732,
+    818,
+    748
+   ]
+  },
+  {
+   "text": "243 700 Ft",
+   "bbox": [
+    1052,
+    733,
+    1149,
+    748
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    683,
+    763,
+    818,
+    783
+   ]
+  },
+  {
+   "text": "64 674 Ft",
+   "bbox": [
+    1063,
+    768,
+    1149,
+    783
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    634,
+    803,
+    818,
+    818
+   ]
+  },
+  {
+   "text": "308 374 Ft",
+   "bbox": [
+    1050,
+    803,
+    1149,
+    818
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 07591156-68748254",
+   "bbox": [
+    92,
+    867,
+    411,
+    881
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

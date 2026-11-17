@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2025/02780",
+  "kiallitas_datuma": "2025. február 11.",
+  "teljesites_datuma": "2025. február 8.",
+  "fizetesi_hatarido": "2025. március 13.",
+  "elado_nev": "Papp Trade Zrt.",
+  "elado_cim": "H-6528 Bánya, Szerbfürdői utca 108.",
+  "elado_adoszam": "31117281-3-39",
+  "vevo_nev": "Péter Trade Zrt.",
+  "vevo_cim": "H-8361 Haraszti, Szabadság utca 33.",
+  "vevo_adoszam": "38233207-2-18",
+  "bankszamla": "HU56 5992 8214 9148 4525 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "699 480 Ft",
+  "afa_osszesen": "188 859 Ft",
+  "brutto_osszesen": "888 339 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "3 óra",
+    "egysegar": "15 240",
+    "netto": "45 720",
+    "afa_kulcs": "27%",
+    "afa": "12 344",
+    "brutto": "58 064"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "217 920",
+    "netto": "653 760",
+    "afa_kulcs": "27%",
+    "afa": "176 515",
+    "brutto": "830 275"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP",
+   "bbox": [
+    130,
+    115,
+    187,
+    132
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1015,
+    97,
+    1162,
+    131
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/02780",
+   "bbox": [
+    850,
+    153,
+    1162,
+    174
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    78,
+    234,
+    156,
+    254
+   ]
+  },
+  {
+   "text": "Papp Trade Zrt.",
+   "bbox": [
+    78,
+    273,
+    279,
+    299
+   ]
+  },
+  {
+   "text": "H-6528 Bánya, Szerbfürdői utca 108.",
+   "bbox": [
+    78,
+    308,
+    488,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 31117281-3-39",
+   "bbox": [
+    78,
+    341,
+    354,
+    361
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    234,
+    702,
+    254
+   ]
+  },
+  {
+   "text": "Péter Trade Zrt.",
+   "bbox": [
+    630,
+    273,
+    840,
+    293
+   ]
+  },
+  {
+   "text": "H-8361 Haraszti, Szabadság utca 33.",
+   "bbox": [
+    630,
+    308,
+    1037,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 38233207-2-18",
+   "bbox": [
+    630,
+    341,
+    906,
+    361
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    78,
+    412,
+    245,
+    429
+   ]
+  },
+  {
+   "text": "2025. február 11.",
+   "bbox": [
+    78,
+    443,
+    267,
+    462
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    349,
+    412,
+    534,
+    434
+   ]
+  },
+  {
+   "text": "2025. február 8.",
+   "bbox": [
+    349,
+    443,
+    525,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    412,
+    797,
+    429
+   ]
+  },
+  {
+   "text": "2025. március 13.",
+   "bbox": [
+    620,
+    443,
+    814,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    412,
+    1025,
+    429
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    891,
+    443,
+    980,
+    462
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    78,
+    497,
+    203,
+    518
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    497,
+    586,
+    518
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    497,
+    751,
+    518
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    497,
+    880,
+    513
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    493,
+    945,
+    513
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    493,
+    1048,
+    513
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    497,
+    1162,
+    513
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    511,
+    539,
+    563,
+    557
+   ]
+  },
+  {
+   "text": "15 240",
+   "bbox": [
+    683,
+    541,
+    750,
+    557
+   ]
+  },
+  {
+   "text": "45 720",
+   "bbox": [
+    813,
+    541,
+    880,
+    557
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    541,
+    945,
+    557
+   ]
+  },
+  {
+   "text": "12 344",
+   "bbox": [
+    981,
+    541,
+    1048,
+    557
+   ]
+  },
+  {
+   "text": "58 064",
+   "bbox": [
+    1095,
+    541,
+    1162,
+    557
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    78,
+    539,
+    385,
+    562
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    511,
+    579,
+    607,
+    595
+   ]
+  },
+  {
+   "text": "217 920",
+   "bbox": [
+    671,
+    579,
+    750,
+    595
+   ]
+  },
+  {
+   "text": "653 760",
+   "bbox": [
+    801,
+    579,
+    880,
+    595
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    579,
+    945,
+    595
+   ]
+  },
+  {
+   "text": "176 515",
+   "bbox": [
+    969,
+    579,
+    1048,
+    595
+   ]
+  },
+  {
+   "text": "830 275",
+   "bbox": [
+    1083,
+    579,
+    1162,
+    595
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    78,
+    577,
+    289,
+    600
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    637,
+    832,
+    657
+   ]
+  },
+  {
+   "text": "699 480 Ft",
+   "bbox": [
+    1038,
+    638,
+    1162,
+    657
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    669,
+    672,
+    832,
+    696
+   ]
+  },
+  {
+   "text": "188 859 Ft",
+   "bbox": [
+    1038,
+    677,
+    1162,
+    696
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    617,
+    716,
+    832,
+    740
+   ]
+  },
+  {
+   "text": "888 339 Ft",
+   "bbox": [
+    1031,
+    716,
+    1162,
+    735
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU56 5992 8214 9148 4525 0000 0000",
+   "bbox": [
+    78,
+    783,
+    686,
+    802
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2025/07689",
+  "kiallitas_datuma": "2025. 04. 17.",
+  "teljesites_datuma": "2025. 04. 16.",
+  "fizetesi_hatarido": "2025. 05. 17.",
+  "elado_nev": "Hegedűs Trade Kft.",
+  "elado_cim": "H-5288 Dunaújváros, József attila út 34.",
+  "elado_adoszam": "56592135-4-12",
+  "vevo_nev": "Szalai Tech Kft.",
+  "vevo_cim": "H-3033 Hódmezővásárhely, Tatabányai utca 70.",
+  "vevo_adoszam": "13927077-4-38",
+  "bankszamla": "66229012-75546690",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 366 980 Ft",
+  "afa_osszesen": "368 082 Ft",
+  "brutto_osszesen": "1 735 062 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "4 560",
+    "netto": "4 560",
+    "afa_kulcs": "5%",
+    "afa": "228",
+    "brutto": "4 788"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "13 000",
+    "netto": "13 000",
+    "afa_kulcs": "27%",
+    "afa": "3 510",
+    "brutto": "16 510"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "3 270",
+    "netto": "3 270",
+    "afa_kulcs": "27%",
+    "afa": "883",
+    "brutto": "4 153"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "133 370",
+    "netto": "1 333 700",
+    "afa_kulcs": "27%",
+    "afa": "360 099",
+    "brutto": "1 693 799"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "5 csomag",
+    "egysegar": "2 490",
+    "netto": "12 450",
+    "afa_kulcs": "27%",
+    "afa": "3 362",
+    "brutto": "15 812"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    419,
+    89,
+    821,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/07689",
+   "bbox": [
+    429,
+    144,
+    811,
+    164
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    80,
+    225,
+    152,
+    244
+   ]
+  },
+  {
+   "text": "Hegedűs Trade Kft.",
+   "bbox": [
+    80,
+    262,
+    306,
+    286
+   ]
+  },
+  {
+   "text": "H-5288 Dunaújváros, József attila út 34.",
+   "bbox": [
+    80,
+    296,
+    495,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 56592135-4-12",
+   "bbox": [
+    80,
+    327,
+    333,
+    345
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    225,
+    696,
+    244
+   ]
+  },
+  {
+   "text": "Szalai Tech Kft.",
+   "bbox": [
+    630,
+    262,
+    812,
+    281
+   ]
+  },
+  {
+   "text": "H-3033 Hódmezővásárhely, Tatabányai utca 70.",
+   "bbox": [
+    630,
+    296,
+    1120,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 13927077-4-38",
+   "bbox": [
+    630,
+    327,
+    883,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    80,
+    396,
+    232,
+    411
+   ]
+  },
+  {
+   "text": "2025. 04. 17.",
+   "bbox": [
+    80,
+    426,
+    214,
+    442
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    396,
+    520,
+    415
+   ]
+  },
+  {
+   "text": "2025. 04. 16.",
+   "bbox": [
+    350,
+    426,
+    484,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    396,
+    782,
+    411
+   ]
+  },
+  {
+   "text": "2025. 05. 17.",
+   "bbox": [
+    620,
+    426,
+    754,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    396,
+    1012,
+    411
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    890,
+    424,
+    971,
+    442
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    80,
+    476,
+    196,
+    495
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    477,
+    581,
+    495
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    666,
+    476,
+    749,
+    495
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    476,
+    879,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    892,
+    472,
+    944,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1008,
+    472,
+    1046,
+    491
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    476,
+    1160,
+    491
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    518,
+    550,
+    533
+   ]
+  },
+  {
+   "text": "4 560",
+   "bbox": [
+    703,
+    519,
+    749,
+    533
+   ]
+  },
+  {
+   "text": "4 560",
+   "bbox": [
+    833,
+    519,
+    879,
+    533
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    922,
+    519,
+    944,
+    533
+   ]
+  },
+  {
+   "text": "228",
+   "bbox": [
+    1016,
+    519,
+    1046,
+    533
+   ]
+  },
+  {
+   "text": "4 788",
+   "bbox": [
+    1114,
+    519,
+    1160,
+    533
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    80,
+    517,
+    330,
+    537
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    512,
+    553,
+    558,
+    569
+   ]
+  },
+  {
+   "text": "13 000",
+   "bbox": [
+    693,
+    555,
+    749,
+    569
+   ]
+  },
+  {
+   "text": "13 000",
+   "bbox": [
+    823,
+    555,
+    879,
+    569
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    555,
+    944,
+    569
+   ]
+  },
+  {
+   "text": "3 510",
+   "bbox": [
+    1000,
+    555,
+    1046,
+    569
+   ]
+  },
+  {
+   "text": "16 510",
+   "bbox": [
+    1104,
+    555,
+    1160,
+    569
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    80,
+    553,
+    329,
+    573
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    512,
+    590,
+    600,
+    605
+   ]
+  },
+  {
+   "text": "3 270",
+   "bbox": [
+    703,
+    591,
+    749,
+    605
+   ]
+  },
+  {
+   "text": "3 270",
+   "bbox": [
+    833,
+    591,
+    879,
+    605
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    591,
+    944,
+    605
+   ]
+  },
+  {
+   "text": "883",
+   "bbox": [
+    1016,
+    591,
+    1046,
+    605
+   ]
+  },
+  {
+   "text": "4 153",
+   "bbox": [
+    1114,
+    591,
+    1160,
+    605
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    80,
+    589,
+    192,
+    609
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    512,
+    626,
+    610,
+    641
+   ]
+  },
+  {
+   "text": "133 370",
+   "bbox": [
+    683,
+    627,
+    749,
+    641
+   ]
+  },
+  {
+   "text": "1 333 700",
+   "bbox": [
+    797,
+    627,
+    879,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    627,
+    944,
+    641
+   ]
+  },
+  {
+   "text": "360 099",
+   "bbox": [
+    980,
+    627,
+    1046,
+    641
+   ]
+  },
+  {
+   "text": "1 693 799",
+   "bbox": [
+    1078,
+    627,
+    1160,
+    641
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    80,
+    625,
+    275,
+    645
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    512,
+    663,
+    595,
+    681
+   ]
+  },
+  {
+   "text": "2 490",
+   "bbox": [
+    703,
+    663,
+    749,
+    677
+   ]
+  },
+  {
+   "text": "12 450",
+   "bbox": [
+    823,
+    663,
+    879,
+    677
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    663,
+    944,
+    677
+   ]
+  },
+  {
+   "text": "3 362",
+   "bbox": [
+    1000,
+    663,
+    1046,
+    677
+   ]
+  },
+  {
+   "text": "15 812",
+   "bbox": [
+    1104,
+    663,
+    1160,
+    677
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    80,
+    661,
+    314,
+    681
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    660,
+    718,
+    830,
+    737
+   ]
+  },
+  {
+   "text": "1 366 980 Ft",
+   "bbox": [
+    1025,
+    720,
+    1160,
+    737
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    751,
+    830,
+    774
+   ]
+  },
+  {
+   "text": "368 082 Ft",
+   "bbox": [
+    1045,
+    757,
+    1160,
+    774
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    707,
+    793,
+    830,
+    816
+   ]
+  },
+  {
+   "text": "1 735 062 Ft",
+   "bbox": [
+    1017,
+    794,
+    1160,
+    811
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 66229012-75546690",
+   "bbox": [
+    80,
+    858,
+    458,
+    876
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1656,
+    762,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2025/01694",
+  "kiallitas_datuma": "2025. december 31.",
+  "teljesites_datuma": "2025. december 31.",
+  "fizetesi_hatarido": "2026. január 15.",
+  "elado_nev": "Kis Logisztika Zrt.",
+  "elado_cim": "H-6936 Mindszentnémeti, Hódmezővásárhelyi út 130.",
+  "elado_adoszam": "45150049-4-41",
+  "vevo_nev": "Szabó Tech Bt.",
+  "vevo_cim": "H-9110 Kaposvár, József attila tér 219.",
+  "vevo_adoszam": "72655658-3-26",
+  "bankszamla": "HU72 5912 8627 9411 8225 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "617 800 Ft",
+  "afa_osszesen": "166 806 Ft",
+  "brutto_osszesen": "784 606 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "105 770",
+    "netto": "105 770",
+    "afa_kulcs": "27%",
+    "afa": "28 558",
+    "brutto": "134 328"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "2 280",
+    "netto": "2 280",
+    "afa_kulcs": "27%",
+    "afa": "616",
+    "brutto": "2 896"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "2 oldal",
+    "egysegar": "5 660",
+    "netto": "11 320",
+    "afa_kulcs": "27%",
+    "afa": "3 056",
+    "brutto": "14 376"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "14 110",
+    "netto": "14 110",
+    "afa_kulcs": "27%",
+    "afa": "3 810",
+    "brutto": "17 920"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "3 hó",
+    "egysegar": "142 400",
+    "netto": "427 200",
+    "afa_kulcs": "27%",
+    "afa": "115 344",
+    "brutto": "542 544"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "12 db",
+    "egysegar": "4 760",
+    "netto": "57 120",
+    "afa_kulcs": "27%",
+    "afa": "15 422",
+    "brutto": "72 542"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    419,
+    93,
+    821,
+    125
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/01694",
+   "bbox": [
+    429,
+    148,
+    811,
+    168
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    84,
+    229,
+    156,
+    248
+   ]
+  },
+  {
+   "text": "Kis Logisztika Zrt.",
+   "bbox": [
+    84,
+    266,
+    293,
+    290
+   ]
+  },
+  {
+   "text": "H-6936 Mindszentnémeti, Hódmezővásárhelyi út",
+   "bbox": [
+    84,
+    300,
+    583,
+    323
+   ]
+  },
+  {
+   "text": "130.",
+   "bbox": [
+    84,
+    333,
+    128,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 45150049-4-41",
+   "bbox": [
+    84,
+    362,
+    337,
+    380
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    229,
+    696,
+    248
+   ]
+  },
+  {
+   "text": "Szabó Tech Bt.",
+   "bbox": [
+    630,
+    266,
+    805,
+    285
+   ]
+  },
+  {
+   "text": "H-9110 Kaposvár, József attila tér 219.",
+   "bbox": [
+    630,
+    300,
+    1031,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 72655658-3-26",
+   "bbox": [
+    630,
+    331,
+    883,
+    349
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    84,
+    432,
+    264,
+    449
+   ]
+  },
+  {
+   "text": "2025. december 31.",
+   "bbox": [
+    384,
+    432,
+    590,
+    449
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    84,
+    465,
+    283,
+    487
+   ]
+  },
+  {
+   "text": "2025. december 31.",
+   "bbox": [
+    384,
+    465,
+    590,
+    482
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    84,
+    498,
+    273,
+    515
+   ]
+  },
+  {
+   "text": "2026. január 15.",
+   "bbox": [
+    384,
+    497,
+    553,
+    520
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    84,
+    531,
+    229,
+    548
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    384,
+    530,
+    467,
+    548
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    84,
+    575,
+    200,
+    594
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    576,
+    581,
+    594
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    665,
+    575,
+    748,
+    594
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    825,
+    575,
+    877,
+    590
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    571,
+    941,
+    590
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    571,
+    1043,
+    590
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1096,
+    575,
+    1156,
+    590
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    617,
+    550,
+    632
+   ]
+  },
+  {
+   "text": "105 770",
+   "bbox": [
+    682,
+    618,
+    748,
+    632
+   ]
+  },
+  {
+   "text": "105 770",
+   "bbox": [
+    811,
+    618,
+    877,
+    632
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    618,
+    941,
+    632
+   ]
+  },
+  {
+   "text": "28 558",
+   "bbox": [
+    987,
+    618,
+    1043,
+    632
+   ]
+  },
+  {
+   "text": "134 328",
+   "bbox": [
+    1090,
+    618,
+    1156,
+    632
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    84,
+    617,
+    186,
+    633
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    512,
+    653,
+    600,
+    668
+   ]
+  },
+  {
+   "text": "2 280",
+   "bbox": [
+    702,
+    654,
+    748,
+    668
+   ]
+  },
+  {
+   "text": "2 280",
+   "bbox": [
+    831,
+    654,
+    877,
+    668
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    654,
+    941,
+    668
+   ]
+  },
+  {
+   "text": "616",
+   "bbox": [
+    1013,
+    654,
+    1043,
+    668
+   ]
+  },
+  {
+   "text": "2 896",
+   "bbox": [
+    1110,
+    654,
+    1156,
+    668
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    84,
+    652,
+    196,
+    672
+   ]
+  },
+  {
+   "text": "2 oldal",
+   "bbox": [
+    512,
+    689,
+    573,
+    704
+   ]
+  },
+  {
+   "text": "5 660",
+   "bbox": [
+    702,
+    690,
+    748,
+    704
+   ]
+  },
+  {
+   "text": "11 320",
+   "bbox": [
+    821,
+    690,
+    877,
+    704
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    690,
+    941,
+    704
+   ]
+  },
+  {
+   "text": "3 056",
+   "bbox": [
+    997,
+    690,
+    1043,
+    704
+   ]
+  },
+  {
+   "text": "14 376",
+   "bbox": [
+    1100,
+    690,
+    1156,
+    704
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    84,
+    688,
+    330,
+    708
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    512,
+    724,
+    558,
+    740
+   ]
+  },
+  {
+   "text": "14 110",
+   "bbox": [
+    692,
+    726,
+    748,
+    740
+   ]
+  },
+  {
+   "text": "14 110",
+   "bbox": [
+    821,
+    726,
+    877,
+    740
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    726,
+    941,
+    740
+   ]
+  },
+  {
+   "text": "3 810",
+   "bbox": [
+    997,
+    726,
+    1043,
+    740
+   ]
+  },
+  {
+   "text": "17 920",
+   "bbox": [
+    1100,
+    726,
+    1156,
+    740
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    84,
+    724,
+    333,
+    744
+   ]
+  },
+  {
+   "text": "3 hó",
+   "bbox": [
+    512,
+    760,
+    550,
+    776
+   ]
+  },
+  {
+   "text": "142 400",
+   "bbox": [
+    682,
+    762,
+    748,
+    776
+   ]
+  },
+  {
+   "text": "427 200",
+   "bbox": [
+    811,
+    762,
+    877,
+    776
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    762,
+    941,
+    776
+   ]
+  },
+  {
+   "text": "115 344",
+   "bbox": [
+    977,
+    762,
+    1044,
+    776
+   ]
+  },
+  {
+   "text": "542 544",
+   "bbox": [
+    1090,
+    762,
+    1157,
+    776
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    84,
+    760,
+    346,
+    780
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    797,
+    560,
+    812
+   ]
+  },
+  {
+   "text": "4 760",
+   "bbox": [
+    702,
+    798,
+    748,
+    812
+   ]
+  },
+  {
+   "text": "57 120",
+   "bbox": [
+    821,
+    798,
+    877,
+    812
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    798,
+    941,
+    812
+   ]
+  },
+  {
+   "text": "15 422",
+   "bbox": [
+    987,
+    798,
+    1043,
+    812
+   ]
+  },
+  {
+   "text": "72 542",
+   "bbox": [
+    1100,
+    798,
+    1156,
+    812
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    84,
+    796,
+    265,
+    816
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    656,
+    853,
+    826,
+    872
+   ]
+  },
+  {
+   "text": "617 800 Ft",
+   "bbox": [
+    1041,
+    855,
+    1156,
+    872
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    886,
+    826,
+    909
+   ]
+  },
+  {
+   "text": "166 806 Ft",
+   "bbox": [
+    1041,
+    892,
+    1156,
+    909
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    703,
+    928,
+    826,
+    951
+   ]
+  },
+  {
+   "text": "784 606 Ft",
+   "bbox": [
+    1034,
+    929,
+    1156,
+    946
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU72 5912 8627 9411 8225 0000 0000",
+   "bbox": [
+    84,
+    993,
+    644,
+    1011
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    417,
+    1652,
+    824,
+    1670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

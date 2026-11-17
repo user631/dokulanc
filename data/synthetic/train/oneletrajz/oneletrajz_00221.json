@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Fekete József",
+  "email": "fekete.jozsef@outlook.com",
+  "telefon": "+36 70 729 1933",
+  "lakcim": "H-6003 Mosonhetvenapáti, Halasi utca 78.",
+  "szuletesi_datum": "2000. 03. 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2019 – 2024"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2023 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "projektmenedzsment",
+   "Excel",
+   "SAP",
+   "prezentáció",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Fekete József",
+   "bbox": [
+    432,
+    95,
+    809,
+    136
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    550,
+    163,
+    689,
+    193
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    181,
+    239
+   ]
+  },
+  {
+   "text": "fekete.jozsef@outlook.com",
+   "bbox": [
+    330,
+    221,
+    644,
+    244
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    254,
+    195,
+    272
+   ]
+  },
+  {
+   "text": "+36 70 729 1933",
+   "bbox": [
+    330,
+    255,
+    538,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    190,
+    305
+   ]
+  },
+  {
+   "text": "H-6003 Mosonhetvenapáti, Halasi utca 78.",
+   "bbox": [
+    330,
+    286,
+    826,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    320,
+    304,
+    338
+   ]
+  },
+  {
+   "text": "2000. 03. 22.",
+   "bbox": [
+    330,
+    321,
+    490,
+    338
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    374,
+    394,
+    400
+   ]
+  },
+  {
+   "text": "2023 – 2024",
+   "bbox": [
+    90,
+    427,
+    241,
+    444
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács és Társa Kft.",
+   "bbox": [
+    90,
+    452,
+    531,
+    472
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    506,
+    294,
+    533
+   ]
+  },
+  {
+   "text": "2019 – 2024",
+   "bbox": [
+    90,
+    560,
+    241,
+    577
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    585,
+    460,
+    610
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    612,
+    237,
+    636
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    657,
+    241,
+    674
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    682,
+    411,
+    707
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    710,
+    316,
+    733
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    763,
+    260,
+    790
+   ]
+  },
+  {
+   "text": "német (B1), olasz (A2)",
+   "bbox": [
+    90,
+    815,
+    356,
+    839
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    865,
+    250,
+    892
+   ]
+  },
+  {
+   "text": "csapatmunka, projektmenedzsment, Excel, SAP, prezentáció, SQL",
+   "bbox": [
+    90,
+    917,
+    859,
+    941
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

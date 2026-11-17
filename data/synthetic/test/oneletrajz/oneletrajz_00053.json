@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó István",
+  "email": "szabo.istvan@gmail.com",
+  "telefon": "+36 70 780 4430",
+  "lakcim": "H-7221 Drávaapáti, Tamásifalui utca 73.",
+  "szuletesi_datum": "1979. 08. 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "1997 – 2001"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "ceg": "Kovács Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "ceg": "Biró Szolgáltató Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Git",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó István",
+   "bbox": [
+    463,
+    91,
+    777,
+    131
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    157,
+    679,
+    187
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    215,
+    169,
+    232
+   ]
+  },
+  {
+   "text": "szabo.istvan@gmail.com",
+   "bbox": [
+    330,
+    215,
+    569,
+    236
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    180,
+    264
+   ]
+  },
+  {
+   "text": "+36 70 780 4430",
+   "bbox": [
+    330,
+    248,
+    499,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    177,
+    296
+   ]
+  },
+  {
+   "text": "H-7221 Drávaapáti, Tamásifalui utca 73.",
+   "bbox": [
+    330,
+    278,
+    725,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    310,
+    275,
+    328
+   ]
+  },
+  {
+   "text": "1979. 08. 24.",
+   "bbox": [
+    330,
+    312,
+    461,
+    328
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    357,
+    389
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    416,
+    212,
+    432
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Varga Zrt.",
+   "bbox": [
+    89,
+    441,
+    411,
+    464
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    484,
+    212,
+    500
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kovács Tech Kft.",
+   "bbox": [
+    90,
+    509,
+    522,
+    532
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    552,
+    212,
+    568
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Biró Szolgáltató Bt.",
+   "bbox": [
+    90,
+    577,
+    587,
+    600
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    629,
+    269,
+    655
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    682,
+    212,
+    698
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    707,
+    316,
+    730
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    732,
+    347,
+    754
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    776,
+    212,
+    792
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    801,
+    373,
+    824
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    827,
+    279,
+    848
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    879,
+    236,
+    905
+   ]
+  },
+  {
+   "text": "német (B1), angol (B2)",
+   "bbox": [
+    90,
+    930,
+    314,
+    952
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    979,
+    225,
+    1005
+   ]
+  },
+  {
+   "text": "projektmenedzsment, Git, Excel",
+   "bbox": [
+    90,
+    1031,
+    398,
+    1052
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

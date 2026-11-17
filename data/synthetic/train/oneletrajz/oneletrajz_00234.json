@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szekeres Anita",
+  "email": "szekeres.anita@gmail.com",
+  "telefon": "06 1 332 6260",
+  "lakcim": "H-5847 Szombathely, Hídkőrösi utca 82.",
+  "szuletesi_datum": "1983. 11. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2003 – 2008"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sándor Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2013 – 2015"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "ceg": "Horváth Szolgáltató Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2007 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Excel",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szekeres Anita",
+   "bbox": [
+    414,
+    99,
+    825,
+    137
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    491,
+    167,
+    748,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    181,
+    240
+   ]
+  },
+  {
+   "text": "szekeres.anita@gmail.com",
+   "bbox": [
+    330,
+    222,
+    639,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    195,
+    273
+   ]
+  },
+  {
+   "text": "06 1 332 6260",
+   "bbox": [
+    330,
+    256,
+    504,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    190,
+    306
+   ]
+  },
+  {
+   "text": "H-5847 Szombathely, Hídkőrösi utca 82.",
+   "bbox": [
+    330,
+    287,
+    802,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    321,
+    304,
+    339
+   ]
+  },
+  {
+   "text": "1983. 11. 18.",
+   "bbox": [
+    330,
+    322,
+    490,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    375,
+    394,
+    401
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    90,
+    428,
+    241,
+    445
+   ]
+  },
+  {
+   "text": "irodavezető – Sándor Consulting Kft.",
+   "bbox": [
+    90,
+    453,
+    583,
+    478
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    498,
+    241,
+    515
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Szolgáltató Kft.",
+   "bbox": [
+    89,
+    523,
+    621,
+    548
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    90,
+    568,
+    241,
+    585
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth Szolgáltató Kft.",
+   "bbox": [
+    90,
+    593,
+    810,
+    618
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    647,
+    294,
+    674
+   ]
+  },
+  {
+   "text": "2003 – 2008",
+   "bbox": [
+    90,
+    701,
+    241,
+    718
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    727,
+    351,
+    751
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    753,
+    274,
+    777
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    798,
+    241,
+    815
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    823,
+    429,
+    843
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    850,
+    391,
+    874
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    904,
+    260,
+    931
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (C1)",
+   "bbox": [
+    90,
+    957,
+    345,
+    980
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1006,
+    250,
+    1033
+   ]
+  },
+  {
+   "text": "csapatmunka, Excel, Python",
+   "bbox": [
+    90,
+    1059,
+    419,
+    1082
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

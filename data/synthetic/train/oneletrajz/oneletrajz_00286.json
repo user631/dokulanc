@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Zoltán",
+  "email": "kovacs.zoltan@example.hu",
+  "telefon": "+36 30 279 6010",
+  "lakcim": "H-5996 Veszprém, Béke tér 148.",
+  "szuletesi_datum": "2003. 04. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2023 – 2027"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Consulting Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2033 – jelenleg"
+   },
+   {
+    "ceg": "Kozma és Társa Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Horváth Consulting Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Git",
+   "Linux",
+   "C#",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    82,
+    205,
+    106
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    131,
+    101,
+    147
+   ]
+  },
+  {
+   "text": "kovacs.zoltan@example.hu",
+   "bbox": [
+    40,
+    157,
+    292,
+    176
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    191,
+    115,
+    207
+   ]
+  },
+  {
+   "text": "+36 30 279 6010",
+   "bbox": [
+    40,
+    217,
+    190,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    110,
+    267
+   ]
+  },
+  {
+   "text": "H-5996 Veszprém, Béke tér 148.",
+   "bbox": [
+    40,
+    276,
+    341,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    311,
+    194,
+    327
+   ]
+  },
+  {
+   "text": "2003. 04. 18.",
+   "bbox": [
+    40,
+    337,
+    164,
+    352
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    397,
+    193,
+    421
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    442,
+    158,
+    464
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    470,
+    150,
+    493
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    526,
+    170,
+    550
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    572,
+    170,
+    593
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    600,
+    70,
+    617
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    629,
+    92,
+    646
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    659,
+    65,
+    675
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    687,
+    143,
+    709
+   ]
+  },
+  {
+   "text": "Kovács Zoltán",
+   "bbox": [
+    450,
+    92,
+    753,
+    127
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    159,
+    580,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    228,
+    699,
+    254
+   ]
+  },
+  {
+   "text": "2033 – jelenleg",
+   "bbox": [
+    450,
+    280,
+    606,
+    302
+   ]
+  },
+  {
+   "text": "rendszergazda – Tóth Consulting Zrt.",
+   "bbox": [
+    450,
+    307,
+    863,
+    330
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    350,
+    606,
+    372
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kozma és Társa Zrt.",
+   "bbox": [
+    449,
+    377,
+    872,
+    400
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    420,
+    606,
+    442
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Horváth Consulting Bt.",
+   "bbox": [
+    449,
+    447,
+    902,
+    470
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    501,
+    618,
+    527
+   ]
+  },
+  {
+   "text": "2023 – 2027",
+   "bbox": [
+    450,
+    554,
+    568,
+    570
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    580,
+    730,
+    603
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    606,
+    514,
+    629
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    651,
+    568,
+    667
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    677,
+    735,
+    695
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    703,
+    544,
+    726
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

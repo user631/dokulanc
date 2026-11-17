@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Illés Zsanett",
+  "email": "illes.zsanett@example.hu",
+  "telefon": "+36 70 161 1641",
+  "lakcim": "H-1048 Szeged, Soproni utca 141.",
+  "szuletesi_datum": "1982. április 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2000 – 2005"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1996 – 2000"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Katona Trade Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2004 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Docker",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Illés Zsanett",
+   "bbox": [
+    468,
+    107,
+    771,
+    147
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    173,
+    679,
+    203
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    169,
+    248
+   ]
+  },
+  {
+   "text": "illes.zsanett@example.hu",
+   "bbox": [
+    330,
+    231,
+    577,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    180,
+    280
+   ]
+  },
+  {
+   "text": "+36 70 161 1641",
+   "bbox": [
+    330,
+    264,
+    499,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    177,
+    312
+   ]
+  },
+  {
+   "text": "H-1048 Szeged, Soproni utca 141.",
+   "bbox": [
+    330,
+    295,
+    663,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    275,
+    344
+   ]
+  },
+  {
+   "text": "1982. április 17.",
+   "bbox": [
+    330,
+    326,
+    487,
+    348
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    380,
+    357,
+    405
+   ]
+  },
+  {
+   "text": "2004 – 2006",
+   "bbox": [
+    90,
+    432,
+    212,
+    448
+   ]
+  },
+  {
+   "text": "rendszergazda – Katona Trade Bt.",
+   "bbox": [
+    90,
+    457,
+    484,
+    480
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    509,
+    269,
+    535
+   ]
+  },
+  {
+   "text": "2000 – 2005",
+   "bbox": [
+    90,
+    562,
+    212,
+    578
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    587,
+    691,
+    610
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    612,
+    277,
+    634
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    90,
+    656,
+    212,
+    672
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    681,
+    442,
+    704
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    706,
+    175,
+    728
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    759,
+    236,
+    785
+   ]
+  },
+  {
+   "text": "olasz (A2), német (B1)",
+   "bbox": [
+    90,
+    810,
+    310,
+    832
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    859,
+    225,
+    885
+   ]
+  },
+  {
+   "text": "Linux, Docker, JavaScript",
+   "bbox": [
+    90,
+    911,
+    336,
+    932
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

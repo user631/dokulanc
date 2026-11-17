@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Fodor Viktória",
+  "anyja_neve": "Tóth Lajos",
+  "szuletesi_hely": "Székháza",
+  "szuletesi_datum": "1994. 08. 09.",
+  "lakcim": "H-2630 Balatonvég, Ceglédi utca 224.",
+  "telefon": "06 1 486 6099",
+  "email": "fodor.viktoria@example.hu",
+  "adoazonosito_jel": "8466067590",
+  "taj_szam": "995 906 495",
+  "kelt": "Székfalva, 2025. 03. 20."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    529,
+    86,
+    712,
+    115
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    500,
+    140,
+    739,
+    154
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    192,
+    265,
+    210
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    247,
+    134,
+    259
+   ]
+  },
+  {
+   "text": "Fodor Viktória",
+   "bbox": [
+    431,
+    247,
+    553,
+    261
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    298,
+    184,
+    313
+   ]
+  },
+  {
+   "text": "Tóth Lajos",
+   "bbox": [
+    431,
+    293,
+    518,
+    311
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    349,
+    202,
+    364
+   ]
+  },
+  {
+   "text": "Székháza",
+   "bbox": [
+    431,
+    349,
+    508,
+    363
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    400,
+    195,
+    412
+   ]
+  },
+  {
+   "text": "1994. 08. 09.",
+   "bbox": [
+    431,
+    398,
+    544,
+    411
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    451,
+    156,
+    463
+   ]
+  },
+  {
+   "text": "H-2630 Balatonvég, Ceglédi utca 224.",
+   "bbox": [
+    431,
+    448,
+    750,
+    466
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    502,
+    198,
+    514
+   ]
+  },
+  {
+   "text": "06 1 486 6099",
+   "bbox": [
+    431,
+    498,
+    556,
+    511
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    553,
+    181,
+    565
+   ]
+  },
+  {
+   "text": "fodor.viktoria@example.hu",
+   "bbox": [
+    431,
+    550,
+    664,
+    568
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    604,
+    227,
+    619
+   ]
+  },
+  {
+   "text": "8466067590",
+   "bbox": [
+    431,
+    604,
+    541,
+    617
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    655,
+    171,
+    667
+   ]
+  },
+  {
+   "text": "995 906 495",
+   "bbox": [
+    431,
+    654,
+    540,
+    667
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    730,
+    228,
+    748
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    776,
+    387,
+    791
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    821,
+    252,
+    833
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    866,
+    401,
+    881
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    966,
+    122,
+    979
+   ]
+  },
+  {
+   "text": "Székfalva, 2025. 03. 20.",
+   "bbox": [
+    178,
+    962,
+    379,
+    979
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1016,
+    981,
+    1026
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

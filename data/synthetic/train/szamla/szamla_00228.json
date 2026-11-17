@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2025/00941",
+  "kiallitas_datuma": "2025. 01. 12.",
+  "teljesites_datuma": "2025. 01. 07.",
+  "fizetesi_hatarido": "2025. 01. 27.",
+  "elado_nev": "Szilágyi Consulting Bt.",
+  "elado_cim": "H-9581 Balatontapolcanémeti, Tapolcanémetii utca 77.",
+  "elado_adoszam": "15754145-4-37",
+  "vevo_nev": "Molnár Trade Kft.",
+  "vevo_cim": "H-5648 Székesfehérvár, Tatabányai utca 116.",
+  "vevo_adoszam": "78639315-4-16",
+  "bankszamla": "28632870-15508028-65762386",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "5 460 Ft",
+  "afa_osszesen": "983 Ft",
+  "brutto_osszesen": "6 443 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "1 820",
+    "netto": "5 460",
+    "afa_kulcs": "18%",
+    "afa": "983",
+    "brutto": "6 443"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZILÁGYI",
+   "bbox": [
+    106,
+    108,
+    204,
+    129
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    832,
+    86,
+    1165,
+    123
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/00941",
+   "bbox": [
+    929,
+    148,
+    1165,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    229,
+    139,
+    246
+   ]
+  },
+  {
+   "text": "Szilágyi Consulting Bt.",
+   "bbox": [
+    75,
+    263,
+    303,
+    285
+   ]
+  },
+  {
+   "text": "H-9581 Balatontapolcanémeti, Tapolcanémetii utca 77.",
+   "bbox": [
+    75,
+    294,
+    576,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 15754145-4-37",
+   "bbox": [
+    75,
+    322,
+    293,
+    338
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    230,
+    689,
+    246
+   ]
+  },
+  {
+   "text": "Molnár Trade Kft.",
+   "bbox": [
+    630,
+    263,
+    811,
+    280
+   ]
+  },
+  {
+   "text": "H-5648 Székesfehérvár, Tatabányai utca 116.",
+   "bbox": [
+    630,
+    294,
+    1037,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 78639315-4-16",
+   "bbox": [
+    630,
+    322,
+    847,
+    338
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    388,
+    203,
+    401
+   ]
+  },
+  {
+   "text": "2025. 01. 12.",
+   "bbox": [
+    75,
+    415,
+    188,
+    429
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    388,
+    489,
+    404
+   ]
+  },
+  {
+   "text": "2025. 01. 07.",
+   "bbox": [
+    347,
+    415,
+    460,
+    429
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    388,
+    754,
+    401
+   ]
+  },
+  {
+   "text": "2025. 01. 27.",
+   "bbox": [
+    619,
+    415,
+    732,
+    429
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    388,
+    994,
+    401
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    891,
+    414,
+    961,
+    429
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    463,
+    172,
+    478
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    463,
+    569,
+    478
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    680,
+    463,
+    751,
+    478
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    836,
+    463,
+    881,
+    475
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    903,
+    460,
+    947,
+    475
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1018,
+    460,
+    1050,
+    475
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1114,
+    463,
+    1165,
+    475
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    511,
+    501,
+    575,
+    514
+   ]
+  },
+  {
+   "text": "1 820",
+   "bbox": [
+    709,
+    502,
+    750,
+    514
+   ]
+  },
+  {
+   "text": "5 460",
+   "bbox": [
+    840,
+    502,
+    881,
+    514
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    919,
+    502,
+    947,
+    514
+   ]
+  },
+  {
+   "text": "983",
+   "bbox": [
+    1023,
+    502,
+    1050,
+    514
+   ]
+  },
+  {
+   "text": "6 443",
+   "bbox": [
+    1124,
+    502,
+    1165,
+    514
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    75,
+    498,
+    186,
+    517
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    689,
+    555,
+    835,
+    571
+   ]
+  },
+  {
+   "text": "5 460 Ft",
+   "bbox": [
+    1090,
+    556,
+    1165,
+    571
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    705,
+    586,
+    835,
+    605
+   ]
+  },
+  {
+   "text": "983 Ft",
+   "bbox": [
+    1107,
+    590,
+    1165,
+    605
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    638,
+    623,
+    835,
+    639
+   ]
+  },
+  {
+   "text": "6 443 Ft",
+   "bbox": [
+    1085,
+    624,
+    1165,
+    639
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 28632870-15508028-65762386",
+   "bbox": [
+    75,
+    686,
+    485,
+    701
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    714,
+    572,
+    730
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

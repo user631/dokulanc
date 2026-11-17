@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2026/02895",
+  "kiallitas_datuma": "2026. 09. 07.",
+  "teljesites_datuma": "2026. 09. 07.",
+  "fizetesi_hatarido": "2026. 09. 15.",
+  "elado_nev": "Kiss Trade Kft.",
+  "elado_cim": "H-3319 Mártonvárad, Szegedi út 236.",
+  "elado_adoszam": "77855420-2-20",
+  "vevo_nev": "Kovács Tech Zrt.",
+  "vevo_cim": "H-2687 Ózd, Egeri utca 195.",
+  "vevo_adoszam": "43264294-4-25",
+  "bankszamla": "59206837-04253861-50541518",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "158 260 Ft",
+  "afa_osszesen": "42 284 Ft",
+  "brutto_osszesen": "200 544 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "30 660",
+    "netto": "153 300",
+    "afa_kulcs": "27%",
+    "afa": "41 391",
+    "brutto": "194 691"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "2 karton",
+    "egysegar": "2 480",
+    "netto": "4 960",
+    "afa_kulcs": "18%",
+    "afa": "893",
+    "brutto": "5 853"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS",
+   "bbox": [
+    139,
+    126,
+    198,
+    144
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    695,
+    108,
+    1151,
+    146
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/02895",
+   "bbox": [
+    831,
+    165,
+    1151,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    89,
+    245,
+    174,
+    267
+   ]
+  },
+  {
+   "text": "Kiss Trade Kft.",
+   "bbox": [
+    89,
+    285,
+    286,
+    306
+   ]
+  },
+  {
+   "text": "H-3319 Mártonvárad, Szegedi út 236.",
+   "bbox": [
+    89,
+    320,
+    506,
+    346
+   ]
+  },
+  {
+   "text": "Adószám: 77855420-2-20",
+   "bbox": [
+    88,
+    353,
+    377,
+    374
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    245,
+    707,
+    267
+   ]
+  },
+  {
+   "text": "Kovács Tech Zrt.",
+   "bbox": [
+    630,
+    284,
+    854,
+    306
+   ]
+  },
+  {
+   "text": "H-2687 Ózd, Egeri utca 195.",
+   "bbox": [
+    630,
+    315,
+    948,
+    346
+   ]
+  },
+  {
+   "text": "Adószám: 43264294-4-25",
+   "bbox": [
+    629,
+    353,
+    918,
+    374
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    89,
+    424,
+    268,
+    442
+   ]
+  },
+  {
+   "text": "2026. 09. 07.",
+   "bbox": [
+    89,
+    457,
+    230,
+    475
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    354,
+    424,
+    549,
+    446
+   ]
+  },
+  {
+   "text": "2026. 09. 07.",
+   "bbox": [
+    354,
+    457,
+    495,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    424,
+    804,
+    442
+   ]
+  },
+  {
+   "text": "2026. 09. 15.",
+   "bbox": [
+    619,
+    457,
+    760,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    884,
+    424,
+    1024,
+    442
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    884,
+    456,
+    1002,
+    480
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    89,
+    508,
+    225,
+    530
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    510,
+    594,
+    530
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    645,
+    508,
+    747,
+    530
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    812,
+    508,
+    874,
+    526
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    868,
+    504,
+    938,
+    526
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    504,
+    1040,
+    526
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1080,
+    508,
+    1151,
+    526
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    513,
+    553,
+    607,
+    570
+   ]
+  },
+  {
+   "text": "30 660",
+   "bbox": [
+    680,
+    554,
+    747,
+    570
+   ]
+  },
+  {
+   "text": "153 300",
+   "bbox": [
+    795,
+    554,
+    874,
+    570
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    554,
+    938,
+    570
+   ]
+  },
+  {
+   "text": "41 391",
+   "bbox": [
+    972,
+    554,
+    1039,
+    570
+   ]
+  },
+  {
+   "text": "194 691",
+   "bbox": [
+    1072,
+    554,
+    1151,
+    570
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    88,
+    552,
+    305,
+    574
+   ]
+  },
+  {
+   "text": "2 karton",
+   "bbox": [
+    513,
+    591,
+    594,
+    608
+   ]
+  },
+  {
+   "text": "2 480",
+   "bbox": [
+    692,
+    592,
+    747,
+    608
+   ]
+  },
+  {
+   "text": "4 960",
+   "bbox": [
+    819,
+    592,
+    874,
+    608
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    893,
+    592,
+    938,
+    608
+   ]
+  },
+  {
+   "text": "893",
+   "bbox": [
+    1003,
+    592,
+    1039,
+    608
+   ]
+  },
+  {
+   "text": "5 853",
+   "bbox": [
+    1096,
+    592,
+    1151,
+    608
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    88,
+    586,
+    234,
+    612
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    636,
+    648,
+    821,
+    670
+   ]
+  },
+  {
+   "text": "158 260 Ft",
+   "bbox": [
+    1028,
+    651,
+    1151,
+    670
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    652,
+    682,
+    821,
+    709
+   ]
+  },
+  {
+   "text": "42 284 Ft",
+   "bbox": [
+    1042,
+    690,
+    1151,
+    709
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    675,
+    727,
+    821,
+    753
+   ]
+  },
+  {
+   "text": "200 544 Ft",
+   "bbox": [
+    1007,
+    729,
+    1151,
+    748
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 59206837-04253861-50541518",
+   "bbox": [
+    89,
+    796,
+    615,
+    815
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    391,
+    1643,
+    848,
+    1664
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

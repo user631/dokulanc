@@ -1,0 +1,224 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VARGA MARKET KFT.",
+  "uzlet_cim": "H-5655 Nagyhídhalas, Kossuth utca 151.",
+  "adoszam": "51759898-4-35",
+  "datum": "2024.01.23.",
+  "ido": "12:45",
+  "nyugtaszam": "3693/84157",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 596 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "531"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1128"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5937"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA MARKET KFT.",
+   "bbox": [
+    149,
+    36,
+    405,
+    51
+   ]
+  },
+  {
+   "text": "H-5655 Nagyhídhalas, Kossuth utca 151.",
+   "bbox": [
+    31,
+    70,
+    525,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 51759898-4-35",
+   "bbox": [
+    135,
+    94,
+    421,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    229,
+    140,
+    327,
+    156
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    184,
+    136,
+    198
+   ]
+  },
+  {
+   "text": "531 B00",
+   "bbox": [
+    435,
+    184,
+    533,
+    198
+   ]
+  },
+  {
+   "text": "2 DB x 564",
+   "bbox": [
+    24,
+    213,
+    144,
+    226
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    240,
+    150,
+    254
+   ]
+  },
+  {
+   "text": "1128 C00",
+   "bbox": [
+    421,
+    240,
+    533,
+    254
+   ]
+  },
+  {
+   "text": "3 DB x 1979",
+   "bbox": [
+    24,
+    269,
+    156,
+    282
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    296,
+    290,
+    310
+   ]
+  },
+  {
+   "text": "5937 C00",
+   "bbox": [
+    421,
+    296,
+    533,
+    310
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    334,
+    184,
+    356
+   ]
+  },
+  {
+   "text": "7 596 Ft",
+   "bbox": [
+    405,
+    339,
+    533,
+    356
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    377,
+    136,
+    394
+   ]
+  },
+  {
+   "text": "7 596 Ft",
+   "bbox": [
+    421,
+    380,
+    533,
+    394
+   ]
+  },
+  {
+   "text": "2024.01.23.",
+   "bbox": [
+    24,
+    424,
+    167,
+    437
+   ]
+  },
+  {
+   "text": "12:45",
+   "bbox": [
+    468,
+    424,
+    533,
+    437
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3693/84157",
+   "bbox": [
+    24,
+    452,
+    310,
+    470
+   ]
+  },
+  {
+   "text": "AP A85047099",
+   "bbox": [
+    24,
+    486,
+    180,
+    499
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    179,
+    525,
+    375,
+    543
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  557,
+  587
+ ]
+}

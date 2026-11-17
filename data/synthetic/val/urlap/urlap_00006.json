@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kovács Krisztina",
+  "anyja_neve": "Juhász Julianna",
+  "szuletesi_hely": "Németszéknémeti",
+  "szuletesi_datum": "2005.05.29.",
+  "lakcim": "H-7173 Dunaújváros, Veszprémi utca 192.",
+  "telefon": "06 1 945 7038",
+  "email": "kovacs.krisztina@example.hu",
+  "adoazonosito_jel": "8505525442",
+  "taj_szam": "197 911 581",
+  "kelt": "Eger, 2026.07.03."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    422,
+    102,
+    817,
+    139
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    449,
+    159,
+    791,
+    177
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    213,
+    365,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    265,
+    161,
+    282
+   ]
+  },
+  {
+   "text": "Kovács Krisztina",
+   "bbox": [
+    444,
+    264,
+    634,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    320,
+    236,
+    339
+   ]
+  },
+  {
+   "text": "Juhász Julianna",
+   "bbox": [
+    444,
+    320,
+    625,
+    339
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    371,
+    261,
+    392
+   ]
+  },
+  {
+   "text": "Németszéknémeti",
+   "bbox": [
+    444,
+    370,
+    652,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    424,
+    248,
+    441
+   ]
+  },
+  {
+   "text": "2005.05.29.",
+   "bbox": [
+    444,
+    424,
+    588,
+    441
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    477,
+    191,
+    494
+   ]
+  },
+  {
+   "text": "H-7173 Dunaújváros, Veszprémi utca 192.",
+   "bbox": [
+    444,
+    479,
+    943,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    530,
+    247,
+    547
+   ]
+  },
+  {
+   "text": "06 1 945 7038",
+   "bbox": [
+    444,
+    531,
+    618,
+    548
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    583,
+    226,
+    600
+   ]
+  },
+  {
+   "text": "kovacs.krisztina@example.hu",
+   "bbox": [
+    444,
+    587,
+    789,
+    610
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    636,
+    286,
+    657
+   ]
+  },
+  {
+   "text": "8505525442",
+   "bbox": [
+    444,
+    641,
+    594,
+    658
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    689,
+    216,
+    706
+   ]
+  },
+  {
+   "text": "197 911 581",
+   "bbox": [
+    444,
+    691,
+    595,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    771,
+    310,
+    794
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    813,
+    500,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    858,
+    312,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    903,
+    519,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    1008,
+    153,
+    1025
+   ]
+  },
+  {
+   "text": "Eger, 2026.07.03.",
+   "bbox": [
+    191,
+    1006,
+    404,
+    1028
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1057,
+    977,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

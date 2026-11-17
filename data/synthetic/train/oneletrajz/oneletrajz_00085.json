@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Adrienn",
+  "email": "horvath.adrienn@freemail.hu",
+  "telefon": "06 1 823 1081",
+  "lakcim": "H-4773 Nagykeresztvég, Hídfalvai utca 99.",
+  "szuletesi_datum": "1994.10.05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lengyel Logisztika Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2021 – 2022"
+   },
+   {
+    "ceg": "Illés Szolgáltató Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2020 – 2021"
+   },
+   {
+    "ceg": "Fülöp Consulting Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2018 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Java",
+   "JavaScript",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Adrienn",
+   "bbox": [
+    393,
+    108,
+    847,
+    149
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    507,
+    180,
+    733,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    234,
+    181,
+    252
+   ]
+  },
+  {
+   "text": "horvath.adrienn@freemail.hu",
+   "bbox": [
+    330,
+    234,
+    672,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    267,
+    195,
+    285
+   ]
+  },
+  {
+   "text": "06 1 823 1081",
+   "bbox": [
+    330,
+    268,
+    504,
+    285
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    300,
+    190,
+    318
+   ]
+  },
+  {
+   "text": "H-4773 Nagykeresztvég, Hídfalvai utca 99.",
+   "bbox": [
+    330,
+    299,
+    830,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    304,
+    351
+   ]
+  },
+  {
+   "text": "1994.10.05.",
+   "bbox": [
+    330,
+    334,
+    474,
+    351
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    387,
+    394,
+    413
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    90,
+    440,
+    241,
+    457
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Lengyel Logisztika Bt.",
+   "bbox": [
+    89,
+    465,
+    620,
+    490
+   ]
+  },
+  {
+   "text": "2020 – 2021",
+   "bbox": [
+    90,
+    510,
+    241,
+    527
+   ]
+  },
+  {
+   "text": "adatelemző – Illés Szolgáltató Bt.",
+   "bbox": [
+    90,
+    535,
+    541,
+    560
+   ]
+  },
+  {
+   "text": "2018 – 2020",
+   "bbox": [
+    90,
+    580,
+    241,
+    597
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Fülöp Consulting Zrt.",
+   "bbox": [
+    90,
+    605,
+    768,
+    630
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    659,
+    294,
+    686
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    713,
+    241,
+    730
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    739,
+    332,
+    763
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    765,
+    489,
+    789
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    810,
+    241,
+    827
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    835,
+    474,
+    860
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    862,
+    391,
+    886
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    916,
+    260,
+    943
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    969,
+    212,
+    992
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1018,
+    250,
+    1045
+   ]
+  },
+  {
+   "text": "csapatmunka, Java, JavaScript, Git",
+   "bbox": [
+    90,
+    1071,
+    497,
+    1094
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

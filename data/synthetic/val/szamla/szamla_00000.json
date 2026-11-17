@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/02020",
+  "kiallitas_datuma": "2025. szeptember 24.",
+  "teljesites_datuma": "2025. szeptember 23.",
+  "fizetesi_hatarido": "2025. október 9.",
+  "elado_nev": "Varga Tech Zrt.",
+  "elado_cim": "H-3342 Veszprém, József attila utca 189.",
+  "elado_adoszam": "42474531-2-24",
+  "vevo_nev": "Oláh és Társa Kft.",
+  "vevo_cim": "H-6081 Baja, Pécsi utca 67.",
+  "vevo_adoszam": "92049093-2-09",
+  "bankszamla": "HU70 3827 4352 2089 8759 8515 9819",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "40 720 Ft",
+  "afa_osszesen": "10 994 Ft",
+  "brutto_osszesen": "51 714 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "4 db",
+    "egysegar": "8 630",
+    "netto": "34 520",
+    "afa_kulcs": "27%",
+    "afa": "9 320",
+    "brutto": "43 840"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "6 200",
+    "netto": "6 200",
+    "afa_kulcs": "27%",
+    "afa": "1 674",
+    "brutto": "7 874"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA",
+   "bbox": [
+    125,
+    118,
+    198,
+    133
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1040,
+    95,
+    1158,
+    123
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/02020",
+   "bbox": [
+    932,
+    153,
+    1158,
+    173
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    234,
+    140,
+    250
+   ]
+  },
+  {
+   "text": "Varga Tech Zrt.",
+   "bbox": [
+    82,
+    269,
+    225,
+    289
+   ]
+  },
+  {
+   "text": "H-3342 Veszprém, József attila utca 189.",
+   "bbox": [
+    82,
+    302,
+    427,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 42474531-2-24",
+   "bbox": [
+    82,
+    331,
+    303,
+    345
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    234,
+    685,
+    250
+   ]
+  },
+  {
+   "text": "Oláh és Társa Kft.",
+   "bbox": [
+    630,
+    269,
+    795,
+    285
+   ]
+  },
+  {
+   "text": "H-6081 Baja, Pécsi utca 67.",
+   "bbox": [
+    630,
+    302,
+    861,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 92049093-2-09",
+   "bbox": [
+    630,
+    331,
+    851,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    398,
+    225,
+    412
+   ]
+  },
+  {
+   "text": "2025. szeptember 24.",
+   "bbox": [
+    382,
+    398,
+    567,
+    416
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    429,
+    240,
+    447
+   ]
+  },
+  {
+   "text": "2025. szeptember 23.",
+   "bbox": [
+    382,
+    429,
+    567,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    460,
+    230,
+    474
+   ]
+  },
+  {
+   "text": "2025. október 9.",
+   "bbox": [
+    382,
+    460,
+    524,
+    474
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    491,
+    197,
+    505
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    382,
+    491,
+    450,
+    505
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    534,
+    176,
+    549
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    535,
+    571,
+    549
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    682,
+    534,
+    750,
+    549
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    835,
+    534,
+    878,
+    546
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    899,
+    531,
+    942,
+    546
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1015,
+    531,
+    1045,
+    546
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1110,
+    534,
+    1158,
+    546
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    574,
+    543,
+    586
+   ]
+  },
+  {
+   "text": "8 630",
+   "bbox": [
+    709,
+    575,
+    749,
+    586
+   ]
+  },
+  {
+   "text": "34 520",
+   "bbox": [
+    829,
+    575,
+    878,
+    586
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    574,
+    942,
+    586
+   ]
+  },
+  {
+   "text": "9 320",
+   "bbox": [
+    1005,
+    575,
+    1045,
+    586
+   ]
+  },
+  {
+   "text": "43 840",
+   "bbox": [
+    1109,
+    575,
+    1158,
+    586
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    82,
+    574,
+    176,
+    589
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    608,
+    543,
+    620
+   ]
+  },
+  {
+   "text": "6 200",
+   "bbox": [
+    709,
+    609,
+    749,
+    620
+   ]
+  },
+  {
+   "text": "6 200",
+   "bbox": [
+    838,
+    609,
+    878,
+    620
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    608,
+    942,
+    620
+   ]
+  },
+  {
+   "text": "1 674",
+   "bbox": [
+    1005,
+    609,
+    1045,
+    620
+   ]
+  },
+  {
+   "text": "7 874",
+   "bbox": [
+    1118,
+    609,
+    1158,
+    620
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    82,
+    608,
+    227,
+    623
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    684,
+    661,
+    828,
+    677
+   ]
+  },
+  {
+   "text": "40 720 Ft",
+   "bbox": [
+    1076,
+    663,
+    1158,
+    677
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    699,
+    694,
+    828,
+    712
+   ]
+  },
+  {
+   "text": "10 994 Ft",
+   "bbox": [
+    1076,
+    698,
+    1158,
+    712
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    728,
+    732,
+    828,
+    751
+   ]
+  },
+  {
+   "text": "51 714 Ft",
+   "bbox": [
+    1075,
+    733,
+    1158,
+    747
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU70 3827 4352 2089 8759 8515 9819",
+   "bbox": [
+    82,
+    796,
+    547,
+    810
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1657,
+    731,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

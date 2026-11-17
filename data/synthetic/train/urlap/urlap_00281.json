@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Sándor Norbert",
+  "anyja_neve": "Kocsis Jolán",
+  "szuletesi_hely": "Sopron",
+  "szuletesi_datum": "1992. 04. 21.",
+  "lakcim": "H-6835 Szombathely, Mezőmártoni út 4.",
+  "telefon": "+36 70 410 8355",
+  "email": "sandor.norbert@gmail.com",
+  "adoazonosito_jel": "8457664077",
+  "taj_szam": "726 911 545",
+  "kelt": "Székvára, 2025. 03. 10."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    440,
+    102,
+    801,
+    134
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    477,
+    161,
+    763,
+    177
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    215,
+    307,
+    235
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    273,
+    156,
+    287
+   ]
+  },
+  {
+   "text": "Sándor Norbert",
+   "bbox": [
+    410,
+    270,
+    630,
+    294
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    327,
+    216,
+    345
+   ]
+  },
+  {
+   "text": "Kocsis Jolán",
+   "bbox": [
+    410,
+    323,
+    587,
+    346
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    381,
+    238,
+    399
+   ]
+  },
+  {
+   "text": "Sopron",
+   "bbox": [
+    410,
+    377,
+    510,
+    401
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    435,
+    229,
+    449
+   ]
+  },
+  {
+   "text": "1992. 04. 21.",
+   "bbox": [
+    410,
+    434,
+    603,
+    454
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    489,
+    183,
+    503
+   ]
+  },
+  {
+   "text": "H-6835 Szombathely, Mezőmártoni út 4.",
+   "bbox": [
+    410,
+    484,
+    994,
+    512
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    117,
+    543,
+    229,
+    557
+   ]
+  },
+  {
+   "text": "+36 70 410 8355",
+   "bbox": [
+    410,
+    540,
+    666,
+    559
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    597,
+    212,
+    611
+   ]
+  },
+  {
+   "text": "sandor.norbert@gmail.com",
+   "bbox": [
+    410,
+    595,
+    782,
+    622
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    651,
+    264,
+    669
+   ]
+  },
+  {
+   "text": "8457664077",
+   "bbox": [
+    410,
+    651,
+    600,
+    670
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    117,
+    705,
+    200,
+    719
+   ]
+  },
+  {
+   "text": "726 911 545",
+   "bbox": [
+    410,
+    705,
+    603,
+    725
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    783,
+    267,
+    803
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    830,
+    444,
+    848
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    875,
+    288,
+    889
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    920,
+    462,
+    938
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    1022,
+    145,
+    1037
+   ]
+  },
+  {
+   "text": "Székvára, 2025. 03. 10.",
+   "bbox": [
+    195,
+    1024,
+    511,
+    1046
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1072,
+    969,
+    1084
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

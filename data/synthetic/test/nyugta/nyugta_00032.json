@@ -1,0 +1,387 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "MAGYAR KISBOLT KFT.",
+  "uzlet_cim": "H-4663 Székesfehérvár, Borsodtapolcai utca 81.",
+  "adoszam": "49592920-5-36",
+  "datum": "2025.06.19.",
+  "ido": "10:56",
+  "nyugtaszam": "5846/26334",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 894 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2332"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "509"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2946"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2241"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1098"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "750"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2136"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "97"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "359"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "426"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MAGYAR KISBOLT KFT.",
+   "bbox": [
+    167,
+    33,
+    414,
+    48
+   ]
+  },
+  {
+   "text": "H-4663 Székesfehérvár, Borsodtapolcai utca 81.",
+   "bbox": [
+    61,
+    65,
+    521,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 49592920-5-36",
+   "bbox": [
+    181,
+    88,
+    401,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    249,
+    130,
+    333,
+    146
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    173,
+    132,
+    186
+   ]
+  },
+  {
+   "text": "2332 B00",
+   "bbox": [
+    463,
+    173,
+    559,
+    186
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    202,
+    156,
+    215
+   ]
+  },
+  {
+   "text": "509 A00",
+   "bbox": [
+    475,
+    202,
+    559,
+    215
+   ]
+  },
+  {
+   "text": "2 DB x 1473",
+   "bbox": [
+    24,
+    231,
+    134,
+    242
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    254,
+    180,
+    267
+   ]
+  },
+  {
+   "text": "2946 A00",
+   "bbox": [
+    463,
+    254,
+    559,
+    267
+   ]
+  },
+  {
+   "text": "3 DB x 747",
+   "bbox": [
+    24,
+    283,
+    124,
+    294
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    306,
+    120,
+    319
+   ]
+  },
+  {
+   "text": "2241 B00",
+   "bbox": [
+    463,
+    306,
+    559,
+    319
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    335,
+    144,
+    348
+   ]
+  },
+  {
+   "text": "1098 A00",
+   "bbox": [
+    463,
+    335,
+    559,
+    348
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    364,
+    192,
+    377
+   ]
+  },
+  {
+   "text": "750 C00",
+   "bbox": [
+    475,
+    364,
+    559,
+    377
+   ]
+  },
+  {
+   "text": "3 DB x 712",
+   "bbox": [
+    24,
+    393,
+    124,
+    404
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    416,
+    120,
+    429
+   ]
+  },
+  {
+   "text": "2136 A00",
+   "bbox": [
+    463,
+    416,
+    559,
+    429
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    445,
+    96,
+    458
+   ]
+  },
+  {
+   "text": "97 B00",
+   "bbox": [
+    487,
+    445,
+    559,
+    458
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    474,
+    192,
+    487
+   ]
+  },
+  {
+   "text": "359 A00",
+   "bbox": [
+    475,
+    474,
+    559,
+    487
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    503,
+    192,
+    516
+   ]
+  },
+  {
+   "text": "426 B00",
+   "bbox": [
+    475,
+    503,
+    559,
+    516
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    539,
+    164,
+    560
+   ]
+  },
+  {
+   "text": "12 894 Ft",
+   "bbox": [
+    433,
+    544,
+    559,
+    560
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    579,
+    144,
+    596
+   ]
+  },
+  {
+   "text": "12 894 Ft",
+   "bbox": [
+    451,
+    583,
+    559,
+    596
+   ]
+  },
+  {
+   "text": "2025.06.19.",
+   "bbox": [
+    24,
+    626,
+    134,
+    638
+   ]
+  },
+  {
+   "text": "10:56",
+   "bbox": [
+    509,
+    626,
+    559,
+    638
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5846/26334",
+   "bbox": [
+    24,
+    652,
+    244,
+    669
+   ]
+  },
+  {
+   "text": "AP A82194082",
+   "bbox": [
+    24,
+    684,
+    144,
+    696
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    208,
+    720,
+    373,
+    737
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  583,
+  783
+ ]
+}

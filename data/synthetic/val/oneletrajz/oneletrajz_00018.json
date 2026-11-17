@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár József",
+  "email": "molnar.jozsef@example.hu",
+  "telefon": "+36 30 834 6822",
+  "lakcim": "H-9111 Györgyvára, Ceglédi tér 141.",
+  "szuletesi_datum": "2004. szeptember 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2024 – 2027"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2020 – 2024"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Logisztika Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2028 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Excel",
+   "C#",
+   "Docker",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Molnár József",
+   "bbox": [
+    479,
+    89,
+    760,
+    124
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    518,
+    163,
+    721,
+    187
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    156,
+    234
+   ]
+  },
+  {
+   "text": "molnar.jozsef@example.hu",
+   "bbox": [
+    330,
+    218,
+    585,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    251,
+    168,
+    267
+   ]
+  },
+  {
+   "text": "+36 30 834 6822",
+   "bbox": [
+    330,
+    252,
+    488,
+    267
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    163,
+    300
+   ]
+  },
+  {
+   "text": "H-9111 Györgyvára, Ceglédi tér 141.",
+   "bbox": [
+    330,
+    283,
+    667,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    248,
+    333
+   ]
+  },
+  {
+   "text": "2004. szeptember 15.",
+   "bbox": [
+    330,
+    317,
+    533,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    310,
+    394
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    90,
+    423,
+    231,
+    443
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Logisztika Bt.",
+   "bbox": [
+    90,
+    450,
+    411,
+    470
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    503,
+    241,
+    527
+   ]
+  },
+  {
+   "text": "2024 – 2027",
+   "bbox": [
+    90,
+    557,
+    207,
+    572
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    583,
+    283,
+    603
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    609,
+    338,
+    630
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    654,
+    207,
+    669
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    680,
+    387,
+    700
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    706,
+    329,
+    727
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    760,
+    216,
+    784
+   ]
+  },
+  {
+   "text": "német (B1), angol (C1)",
+   "bbox": [
+    90,
+    812,
+    299,
+    833
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    862,
+    206,
+    886
+   ]
+  },
+  {
+   "text": "SAP, Excel, C#, Docker, prezentáció",
+   "bbox": [
+    90,
+    914,
+    414,
+    935
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

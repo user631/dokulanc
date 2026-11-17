@@ -1,0 +1,360 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balázs Anna",
+  "email": "balazs.anna@citromail.hu",
+  "telefon": "+36 70 634 4051",
+  "lakcim": "H-3354 Mellékbánya, Szombathelyi utca 249.",
+  "szuletesi_datum": "1990.04.05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Tech Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "ceg": "Gulyás Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2012 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "csapatmunka",
+   "Docker",
+   "Linux",
+   "projektmenedzsment",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    91,
+    207,
+    112
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    136,
+    101,
+    149
+   ]
+  },
+  {
+   "text": "balazs.anna@citromail.hu",
+   "bbox": [
+    40,
+    157,
+    262,
+    172
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    188,
+    111,
+    201
+   ]
+  },
+  {
+   "text": "+36 70 634 4051",
+   "bbox": [
+    40,
+    210,
+    193,
+    222
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    239,
+    107,
+    253
+   ]
+  },
+  {
+   "text": "H-3354 Mellékbánya, Szombathelyi",
+   "bbox": [
+    40,
+    260,
+    346,
+    277
+   ]
+  },
+  {
+   "text": "utca 249.",
+   "bbox": [
+    40,
+    283,
+    122,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    312,
+    193,
+    326
+   ]
+  },
+  {
+   "text": "1990.04.05.",
+   "bbox": [
+    40,
+    335,
+    146,
+    347
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    391,
+    195,
+    412
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    432,
+    143,
+    450
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    457,
+    154,
+    475
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    508,
+    177,
+    529
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    550,
+    68,
+    563
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    574,
+    160,
+    592
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    599,
+    104,
+    613
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    625,
+    88,
+    638
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    649,
+    232,
+    667
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    675,
+    81,
+    688
+   ]
+  },
+  {
+   "text": "Balázs Anna",
+   "bbox": [
+    450,
+    99,
+    747,
+    135
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    166,
+    672,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    228,
+    707,
+    251
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    277,
+    572,
+    291
+   ]
+  },
+  {
+   "text": "rendszergazda – Fekete Tech Bt.",
+   "bbox": [
+    450,
+    299,
+    814,
+    319
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    450,
+    339,
+    572,
+    353
+   ]
+  },
+  {
+   "text": "adatelemző – Gulyás Trade Kft.",
+   "bbox": [
+    450,
+    360,
+    799,
+    381
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    411,
+    623,
+    434
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    460,
+    572,
+    474
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    481,
+    729,
+    502
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    505,
+    582,
+    524
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    545,
+    572,
+    559
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    566,
+    734,
+    583
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    590,
+    532,
+    609
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

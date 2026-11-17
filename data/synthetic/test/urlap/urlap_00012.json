@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Tóth István",
+  "anyja_neve": "Lakatos Lajos",
+  "szuletesi_hely": "Tatabánya",
+  "szuletesi_datum": "1978. 06. 25.",
+  "lakcim": "H-3793 Tiszagyörgyvég, Petőfi sándor utca 112.",
+  "telefon": "+36 70 352 9909",
+  "email": "toth.istvan@citromail.hu",
+  "adoazonosito_jel": "8407174653",
+  "taj_szam": "678 305 289",
+  "kelt": "Sopron, 2024. 03. 16."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    543,
+    95,
+    698,
+    121
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    471,
+    141,
+    769,
+    158
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    195,
+    300,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    249,
+    137,
+    264
+   ]
+  },
+  {
+   "text": "Tóth István",
+   "bbox": [
+    392,
+    247,
+    504,
+    265
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    302,
+    198,
+    320
+   ]
+  },
+  {
+   "text": "Lakatos Lajos",
+   "bbox": [
+    392,
+    297,
+    527,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    353,
+    222,
+    372
+   ]
+  },
+  {
+   "text": "Tatabánya",
+   "bbox": [
+    392,
+    348,
+    497,
+    371
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    405,
+    213,
+    420
+   ]
+  },
+  {
+   "text": "1978. 06. 25.",
+   "bbox": [
+    392,
+    402,
+    526,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    457,
+    166,
+    472
+   ]
+  },
+  {
+   "text": "H-3793 Tiszagyörgyvég, Petőfi sándor utca 112.",
+   "bbox": [
+    392,
+    454,
+    867,
+    477
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    509,
+    213,
+    524
+   ]
+  },
+  {
+   "text": "+36 70 352 9909",
+   "bbox": [
+    392,
+    509,
+    557,
+    525
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    561,
+    196,
+    576
+   ]
+  },
+  {
+   "text": "toth.istvan@citromail.hu",
+   "bbox": [
+    392,
+    558,
+    639,
+    576
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    613,
+    247,
+    632
+   ]
+  },
+  {
+   "text": "8407174653",
+   "bbox": [
+    392,
+    611,
+    512,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    665,
+    186,
+    680
+   ]
+  },
+  {
+   "text": "678 305 289",
+   "bbox": [
+    392,
+    664,
+    514,
+    680
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    743,
+    257,
+    765
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    787,
+    433,
+    806
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    832,
+    275,
+    847
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    877,
+    450,
+    896
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    980,
+    131,
+    995
+   ]
+  },
+  {
+   "text": "Sopron, 2024. 03. 16.",
+   "bbox": [
+    177,
+    977,
+    394,
+    998
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1029,
+    986,
+    1042
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Balogh Bálint",
+  "anyja_neve": "Orosz Kristóf",
+  "szuletesi_hely": "Nyíregyháza",
+  "szuletesi_datum": "1961. 01. 28.",
+  "lakcim": "H-6363 Lajosmindszentberény, Zalaegerszegi út 41.",
+  "telefon": "+36 70 220 8336",
+  "email": "balogh.balint@freemail.hu",
+  "adoazonosito_jel": "8343608747",
+  "taj_szam": "466 324 201",
+  "kelt": "Székvárad, 2025. 04. 17."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    428,
+    85,
+    812,
+    118
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    192,
+    311,
+    214
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    247,
+    135,
+    261
+   ]
+  },
+  {
+   "text": "Balogh Bálint",
+   "bbox": [
+    395,
+    244,
+    525,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    299,
+    194,
+    317
+   ]
+  },
+  {
+   "text": "Orosz Kristóf",
+   "bbox": [
+    395,
+    300,
+    526,
+    317
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    350,
+    215,
+    369
+   ]
+  },
+  {
+   "text": "Nyíregyháza",
+   "bbox": [
+    395,
+    352,
+    516,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    402,
+    208,
+    417
+   ]
+  },
+  {
+   "text": "1961. 01. 28.",
+   "bbox": [
+    395,
+    402,
+    513,
+    422
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    455,
+    165,
+    469
+   ]
+  },
+  {
+   "text": "H-6363 Lajosmindszentberény, Zalaegerszegi út 41.",
+   "bbox": [
+    395,
+    451,
+    896,
+    473
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    507,
+    207,
+    521
+   ]
+  },
+  {
+   "text": "+36 70 220 8336",
+   "bbox": [
+    395,
+    504,
+    560,
+    524
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    559,
+    196,
+    573
+   ]
+  },
+  {
+   "text": "balogh.balint@freemail.hu",
+   "bbox": [
+    394,
+    554,
+    654,
+    576
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    611,
+    241,
+    629
+   ]
+  },
+  {
+   "text": "8343608747",
+   "bbox": [
+    395,
+    608,
+    518,
+    628
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    663,
+    185,
+    677
+   ]
+  },
+  {
+   "text": "466 324 201",
+   "bbox": [
+    395,
+    664,
+    512,
+    684
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    740,
+    270,
+    762
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    785,
+    421,
+    803
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    830,
+    267,
+    844
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    875,
+    436,
+    893
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    977,
+    127,
+    992
+   ]
+  },
+  {
+   "text": "Székvárad, 2025. 04. 17.",
+   "bbox": [
+    174,
+    973,
+    409,
+    994
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1026,
+    990,
+    1038
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Simon Judit",
+  "anyja_neve": "Tóth Mária",
+  "szuletesi_hely": "Kaposvár",
+  "szuletesi_datum": "2001.07.04.",
+  "lakcim": "H-7376 Eger, Béke utca 75.",
+  "telefon": "+36 20 346 7897",
+  "email": "simon.judit@example.hu",
+  "adoazonosito_jel": "8491279016",
+  "taj_szam": "479 749 930",
+  "kelt": "Hajdúkeresztnémeti, 2026.09.21."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    271,
+    88,
+    969,
+    126
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    200,
+    363,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    256,
+    150,
+    273
+   ]
+  },
+  {
+   "text": "Simon Judit",
+   "bbox": [
+    414,
+    253,
+    602,
+    280
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    311,
+    226,
+    331
+   ]
+  },
+  {
+   "text": "Tóth Mária",
+   "bbox": [
+    414,
+    308,
+    586,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    364,
+    255,
+    385
+   ]
+  },
+  {
+   "text": "Kaposvár",
+   "bbox": [
+    414,
+    364,
+    552,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    418,
+    243,
+    435
+   ]
+  },
+  {
+   "text": "2001.07.04.",
+   "bbox": [
+    414,
+    413,
+    585,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    472,
+    183,
+    489
+   ]
+  },
+  {
+   "text": "H-7376 Eger, Béke utca 75.",
+   "bbox": [
+    414,
+    466,
+    809,
+    496
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    526,
+    242,
+    543
+   ]
+  },
+  {
+   "text": "+36 20 346 7897",
+   "bbox": [
+    414,
+    526,
+    658,
+    547
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    580,
+    221,
+    597
+   ]
+  },
+  {
+   "text": "simon.judit@example.hu",
+   "bbox": [
+    414,
+    578,
+    786,
+    608
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    634,
+    283,
+    655
+   ]
+  },
+  {
+   "text": "8491279016",
+   "bbox": [
+    414,
+    631,
+    594,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    688,
+    208,
+    705
+   ]
+  },
+  {
+   "text": "479 749 930",
+   "bbox": [
+    414,
+    682,
+    595,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    769,
+    305,
+    793
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    813,
+    506,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    858,
+    308,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    903,
+    526,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    1008,
+    140,
+    1025
+   ]
+  },
+  {
+   "text": "Hajdúkeresztnémeti, 2026.09.21.",
+   "bbox": [
+    177,
+    1002,
+    618,
+    1031
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1057,
+    993,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

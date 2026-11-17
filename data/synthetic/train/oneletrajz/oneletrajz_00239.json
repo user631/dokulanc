@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Takács Ágnes",
+  "email": "takacs.agnes@example.hu",
+  "telefon": "06 1 861 7534",
+  "lakcim": "H-8058 Németi, Mellékberényi utca 125.",
+  "szuletesi_datum": "1988. november 8.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "ceg": "Kovács Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2011 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "SAP",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Takács Ágnes",
+   "bbox": [
+    440,
+    110,
+    799,
+    166
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    499,
+    187,
+    740,
+    213
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    240,
+    172,
+    257
+   ]
+  },
+  {
+   "text": "takacs.agnes@example.hu",
+   "bbox": [
+    330,
+    240,
+    614,
+    261
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    271,
+    185,
+    288
+   ]
+  },
+  {
+   "text": "06 1 861 7534",
+   "bbox": [
+    330,
+    272,
+    481,
+    288
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    302,
+    180,
+    319
+   ]
+  },
+  {
+   "text": "H-8058 Németi, Mellékberényi utca 125.",
+   "bbox": [
+    330,
+    302,
+    759,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    288,
+    350
+   ]
+  },
+  {
+   "text": "1988. november 8.",
+   "bbox": [
+    330,
+    333,
+    531,
+    350
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    385,
+    375,
+    410
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    436,
+    221,
+    452
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Kft.",
+   "bbox": [
+    90,
+    460,
+    455,
+    482
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    502,
+    221,
+    518
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Horváth és Társa Kft.",
+   "bbox": [
+    90,
+    526,
+    648,
+    548
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    568,
+    221,
+    584
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kovács Kft.",
+   "bbox": [
+    90,
+    592,
+    417,
+    610
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    643,
+    280,
+    669
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    90,
+    695,
+    221,
+    711
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    715,
+    293,
+    741
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    744,
+    373,
+    761
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    786,
+    221,
+    802
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    810,
+    468,
+    832
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    835,
+    363,
+    856
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    886,
+    247,
+    912
+   ]
+  },
+  {
+   "text": "angol (C1), angol (B2)",
+   "bbox": [
+    90,
+    937,
+    330,
+    958
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    984,
+    239,
+    1010
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, SAP, JavaScript",
+   "bbox": [
+    90,
+    1035,
+    413,
+    1056
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

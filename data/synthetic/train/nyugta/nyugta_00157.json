@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SIPOS ABC BT.",
+  "uzlet_cim": "H-4511 Tiszamelléknádasd, Szigetszentmiklósi utca 83.",
+  "adoszam": "47060542-4-06",
+  "datum": "2025.12.11.",
+  "ido": "12:06",
+  "nyugtaszam": "7540/61906",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 472 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2468"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "712"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "776"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "645"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "742"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1791"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "73"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1973"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "326"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2022"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "944"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIPOS ABC BT.",
+   "bbox": [
+    228,
+    33,
+    410,
+    50
+   ]
+  },
+  {
+   "text": "H-4511 Tiszamelléknádasd, Szigetszentmiklósi utca",
+   "bbox": [
+    25,
+    67,
+    613,
+    87
+   ]
+  },
+  {
+   "text": "83.",
+   "bbox": [
+    301,
+    97,
+    337,
+    111
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 47060542-4-06",
+   "bbox": [
+    187,
+    120,
+    451,
+    139
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    274,
+    167,
+    365,
+    185
+   ]
+  },
+  {
+   "text": "2 DB x 1234",
+   "bbox": [
+    24,
+    213,
+    156,
+    226
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    239,
+    154,
+    254
+   ]
+  },
+  {
+   "text": "2468 C00",
+   "bbox": [
+    510,
+    239,
+    614,
+    254
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    271,
+    128,
+    286
+   ]
+  },
+  {
+   "text": "712 A00",
+   "bbox": [
+    523,
+    271,
+    614,
+    286
+   ]
+  },
+  {
+   "text": "2 DB x 388",
+   "bbox": [
+    24,
+    303,
+    144,
+    316
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    327,
+    167,
+    348
+   ]
+  },
+  {
+   "text": "776 A00",
+   "bbox": [
+    523,
+    329,
+    614,
+    344
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    361,
+    232,
+    376
+   ]
+  },
+  {
+   "text": "645 B00",
+   "bbox": [
+    523,
+    361,
+    614,
+    376
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    393,
+    128,
+    408
+   ]
+  },
+  {
+   "text": "742 B00",
+   "bbox": [
+    523,
+    393,
+    614,
+    408
+   ]
+  },
+  {
+   "text": "3 DB x 597",
+   "bbox": [
+    24,
+    425,
+    144,
+    438
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    451,
+    141,
+    466
+   ]
+  },
+  {
+   "text": "1791 C00",
+   "bbox": [
+    510,
+    451,
+    614,
+    466
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    483,
+    102,
+    498
+   ]
+  },
+  {
+   "text": "73 B00",
+   "bbox": [
+    536,
+    483,
+    614,
+    498
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    515,
+    141,
+    530
+   ]
+  },
+  {
+   "text": "1973 B00",
+   "bbox": [
+    510,
+    515,
+    614,
+    530
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    547,
+    193,
+    562
+   ]
+  },
+  {
+   "text": "326 C00",
+   "bbox": [
+    523,
+    547,
+    614,
+    562
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    579,
+    271,
+    594
+   ]
+  },
+  {
+   "text": "2022 A00",
+   "bbox": [
+    510,
+    579,
+    614,
+    594
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    611,
+    128,
+    626
+   ]
+  },
+  {
+   "text": "944 B00",
+   "bbox": [
+    523,
+    611,
+    614,
+    626
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    650,
+    174,
+    673
+   ]
+  },
+  {
+   "text": "12 472 Ft",
+   "bbox": [
+    479,
+    655,
+    614,
+    673
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    692,
+    168,
+    712
+   ]
+  },
+  {
+   "text": "12 472 Ft",
+   "bbox": [
+    497,
+    696,
+    614,
+    712
+   ]
+  },
+  {
+   "text": "2025.12.11.",
+   "bbox": [
+    24,
+    743,
+    156,
+    757
+   ]
+  },
+  {
+   "text": "12:06",
+   "bbox": [
+    554,
+    743,
+    614,
+    757
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7540/61906",
+   "bbox": [
+    24,
+    770,
+    288,
+    791
+   ]
+  },
+  {
+   "text": "AP A26286623",
+   "bbox": [
+    24,
+    807,
+    168,
+    821
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    221,
+    846,
+    416,
+    866
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  638,
+  912
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kis Erika",
+  "email": "kis.erika@gmail.com",
+  "telefon": "+36 30 538 6992",
+  "lakcim": "H-6552 Somogymártonberény, Magyarmelléki utca 202.",
+  "szuletesi_datum": "2003. október 4.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2023 – 2027"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szalai Szolgáltató Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2033 – jelenleg"
+   },
+   {
+    "ceg": "Borbély Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2031 – jelenleg"
+   },
+   {
+    "ceg": "Csonka Consulting Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "B kategóriás jogosítvány",
+   "Excel",
+   "prezentáció",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kis Erika",
+   "bbox": [
+    527,
+    104,
+    713,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    167,
+    676,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    157,
+    237
+   ]
+  },
+  {
+   "text": "kis.erika@gmail.com",
+   "bbox": [
+    330,
+    221,
+    519,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    170,
+    268
+   ]
+  },
+  {
+   "text": "+36 30 538 6992",
+   "bbox": [
+    330,
+    253,
+    483,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    165,
+    299
+   ]
+  },
+  {
+   "text": "H-6552 Somogymártonberény, Magyarmelléki utca 202.",
+   "bbox": [
+    330,
+    283,
+    844,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    314,
+    252,
+    330
+   ]
+  },
+  {
+   "text": "2003. október 4.",
+   "bbox": [
+    330,
+    314,
+    478,
+    330
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    366,
+    321,
+    391
+   ]
+  },
+  {
+   "text": "2033 – jelenleg",
+   "bbox": [
+    90,
+    416,
+    229,
+    437
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szalai Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    441,
+    553,
+    463
+   ]
+  },
+  {
+   "text": "2031 – jelenleg",
+   "bbox": [
+    90,
+    482,
+    229,
+    503
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Borbély Szolgáltató Kft.",
+   "bbox": [
+    90,
+    507,
+    574,
+    529
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    548,
+    229,
+    569
+   ]
+  },
+  {
+   "text": "rendszergazda – Csonka Consulting Zrt.",
+   "bbox": [
+    90,
+    573,
+    500,
+    595
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    625,
+    249,
+    650
+   ]
+  },
+  {
+   "text": "2023 – 2027",
+   "bbox": [
+    90,
+    676,
+    201,
+    691
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    700,
+    629,
+    722
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    725,
+    274,
+    741
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    767,
+    201,
+    782
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    791,
+    340,
+    813
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    816,
+    327,
+    837
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    868,
+    222,
+    893
+   ]
+  },
+  {
+   "text": "német (B1), spanyol (B1)",
+   "bbox": [
+    90,
+    918,
+    313,
+    939
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    966,
+    212,
+    991
+   ]
+  },
+  {
+   "text": "SQL, B kategóriás jogosítvány, Excel, prezentáció, Git",
+   "bbox": [
+    90,
+    1016,
+    576,
+    1037
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

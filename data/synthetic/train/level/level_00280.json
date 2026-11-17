@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Balogh Consulting Bt.",
+  "felado_cim": "H-1595 Szeged, Pécsi tér 14.",
+  "cimzett": "Váradi Ilona",
+  "cimzett_cim": "H-4151 Dunakeszi, Kossuth utca 230.",
+  "datum": "2026. 01. 04.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "Ü-2026/79324",
+  "hatarido": "2026. 01. 14",
+  "teendo": "a SZ-2026/03440 számú számla 424 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Németh Ilona"
+ },
+ "lines": [
+  {
+   "text": "Balogh Consulting Bt.",
+   "bbox": [
+    124,
+    101,
+    398,
+    126
+   ]
+  },
+  {
+   "text": "H-1595 Szeged, Pécsi tér 14.",
+   "bbox": [
+    124,
+    137,
+    347,
+    154
+   ]
+  },
+  {
+   "text": "Tel.: +36 70 972 1858   E-mail: info@balogh.hu",
+   "bbox": [
+    124,
+    160,
+    503,
+    177
+   ]
+  },
+  {
+   "text": "Váradi Ilona",
+   "bbox": [
+    124,
+    245,
+    252,
+    260
+   ]
+  },
+  {
+   "text": "H-4151 Dunakeszi",
+   "bbox": [
+    124,
+    275,
+    301,
+    291
+   ]
+  },
+  {
+   "text": "Kossuth utca 230.",
+   "bbox": [
+    124,
+    304,
+    293,
+    320
+   ]
+  },
+  {
+   "text": "Székesfehérvár, 2026. 01. 04.",
+   "bbox": [
+    836,
+    373,
+    1116,
+    393
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    124,
+    427,
+    374,
+    447
+   ]
+  },
+  {
+   "text": "Ügyszám: Ü-2026/79324",
+   "bbox": [
+    124,
+    456,
+    363,
+    480
+   ]
+  },
+  {
+   "text": "Tisztelt Váradi Ilona!",
+   "bbox": [
+    124,
+    522,
+    322,
+    538
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2026/03440 számú, 2025. 11. 08. kelt számla 424 000 Ft összegű",
+   "bbox": [
+    123,
+    571,
+    1049,
+    592
+   ]
+  },
+  {
+   "text": "ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    124,
+    604,
+    625,
+    625
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2026. 01. 14 napjáig szíveskedjen átutalni a",
+   "bbox": [
+    124,
+    651,
+    913,
+    672
+   ]
+  },
+  {
+   "text": "47125641-35348744-26929974 számú bankszámlánkra.",
+   "bbox": [
+    124,
+    684,
+    656,
+    700
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    124,
+    731,
+    878,
+    752
+   ]
+  },
+  {
+   "text": "Üdvözlettel:",
+   "bbox": [
+    124,
+    805,
+    237,
+    824
+   ]
+  },
+  {
+   "text": "Németh Ilona",
+   "bbox": [
+    164,
+    902,
+    299,
+    917
+   ]
+  },
+  {
+   "text": "ügyvezető",
+   "bbox": [
+    164,
+    929,
+    252,
+    948
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

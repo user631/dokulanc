@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2025/00627",
+  "kiallitas_datuma": "2025.12.21.",
+  "teljesites_datuma": "2025.12.20.",
+  "fizetesi_hatarido": "2026.01.05.",
+  "elado_nev": "Máté Kft.",
+  "elado_cim": "H-9976 Kishídkőrös, Belsőkereszti utca 34.",
+  "elado_adoszam": "37248961-2-23",
+  "vevo_nev": "Novák és Társa Kft.",
+  "vevo_cim": "H-9259 Pusztahetvenvára, Keresztházai tér 146.",
+  "vevo_adoszam": "77899633-2-20",
+  "bankszamla": "24126775-10873285",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 064 840 Ft",
+  "afa_osszesen": "287 507 Ft",
+  "brutto_osszesen": "1 352 347 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 500",
+    "netto": "5 500",
+    "afa_kulcs": "27%",
+    "afa": "1 485",
+    "brutto": "6 985"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "297 070",
+    "netto": "891 210",
+    "afa_kulcs": "27%",
+    "afa": "240 627",
+    "brutto": "1 131 837"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "168 130",
+    "netto": "168 130",
+    "afa_kulcs": "27%",
+    "afa": "45 395",
+    "brutto": "213 525"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÁTÉ",
+   "bbox": [
+    150,
+    134,
+    212,
+    155
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    996,
+    120,
+    1139,
+    153
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/00627",
+   "bbox": [
+    848,
+    176,
+    1139,
+    196
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    101,
+    257,
+    178,
+    276
+   ]
+  },
+  {
+   "text": "Máté Kft.",
+   "bbox": [
+    101,
+    295,
+    213,
+    314
+   ]
+  },
+  {
+   "text": "H-9976 Kishídkőrös, Belsőkereszti utca 34.",
+   "bbox": [
+    101,
+    329,
+    561,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 37248961-2-23",
+   "bbox": [
+    101,
+    361,
+    372,
+    380
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    257,
+    700,
+    276
+   ]
+  },
+  {
+   "text": "Novák és Társa Kft.",
+   "bbox": [
+    630,
+    295,
+    866,
+    314
+   ]
+  },
+  {
+   "text": "H-9259 Pusztahetvenvára, Keresztházai tér",
+   "bbox": [
+    630,
+    329,
+    1098,
+    352
+   ]
+  },
+  {
+   "text": "146.",
+   "bbox": [
+    630,
+    363,
+    678,
+    380
+   ]
+  },
+  {
+   "text": "Adószám: 77899633-2-20",
+   "bbox": [
+    630,
+    393,
+    901,
+    412
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    101,
+    463,
+    255,
+    479
+   ]
+  },
+  {
+   "text": "2025.12.21.",
+   "bbox": [
+    101,
+    495,
+    221,
+    511
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    463,
+    533,
+    483
+   ]
+  },
+  {
+   "text": "2025.12.20.",
+   "bbox": [
+    360,
+    495,
+    480,
+    511
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    463,
+    782,
+    479
+   ]
+  },
+  {
+   "text": "2026.01.05.",
+   "bbox": [
+    619,
+    495,
+    739,
+    511
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    463,
+    1002,
+    479
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    878,
+    493,
+    961,
+    511
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    101,
+    546,
+    219,
+    565
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    546,
+    587,
+    565
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    546,
+    744,
+    565
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    546,
+    869,
+    561
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    879,
+    542,
+    931,
+    561
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    542,
+    1031,
+    561
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1077,
+    546,
+    1139,
+    561
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    516,
+    589,
+    579,
+    604
+   ]
+  },
+  {
+   "text": "5 500",
+   "bbox": [
+    694,
+    589,
+    744,
+    604
+   ]
+  },
+  {
+   "text": "5 500",
+   "bbox": [
+    819,
+    589,
+    869,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    589,
+    931,
+    604
+   ]
+  },
+  {
+   "text": "1 485",
+   "bbox": [
+    980,
+    589,
+    1030,
+    604
+   ]
+  },
+  {
+   "text": "6 985",
+   "bbox": [
+    1089,
+    589,
+    1139,
+    604
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    101,
+    588,
+    351,
+    608
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    516,
+    626,
+    606,
+    641
+   ]
+  },
+  {
+   "text": "297 070",
+   "bbox": [
+    672,
+    626,
+    744,
+    641
+   ]
+  },
+  {
+   "text": "891 210",
+   "bbox": [
+    797,
+    626,
+    869,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    626,
+    931,
+    641
+   ]
+  },
+  {
+   "text": "240 627",
+   "bbox": [
+    958,
+    626,
+    1030,
+    641
+   ]
+  },
+  {
+   "text": "1 131 837",
+   "bbox": [
+    1050,
+    626,
+    1139,
+    641
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    101,
+    625,
+    299,
+    645
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    516,
+    662,
+    555,
+    678
+   ]
+  },
+  {
+   "text": "168 130",
+   "bbox": [
+    672,
+    663,
+    744,
+    678
+   ]
+  },
+  {
+   "text": "168 130",
+   "bbox": [
+    797,
+    663,
+    869,
+    678
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    663,
+    931,
+    678
+   ]
+  },
+  {
+   "text": "45 395",
+   "bbox": [
+    969,
+    663,
+    1030,
+    678
+   ]
+  },
+  {
+   "text": "213 525",
+   "bbox": [
+    1067,
+    663,
+    1139,
+    678
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    101,
+    662,
+    368,
+    682
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    632,
+    719,
+    809,
+    739
+   ]
+  },
+  {
+   "text": "1 064 840 Ft",
+   "bbox": [
+    1001,
+    721,
+    1139,
+    739
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    652,
+    753,
+    809,
+    777
+   ]
+  },
+  {
+   "text": "287 507 Ft",
+   "bbox": [
+    1022,
+    759,
+    1139,
+    777
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    572,
+    796,
+    809,
+    815
+   ]
+  },
+  {
+   "text": "1 352 347 Ft",
+   "bbox": [
+    985,
+    797,
+    1139,
+    815
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 24126775-10873285",
+   "bbox": [
+    101,
+    863,
+    487,
+    881
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    101,
+    894,
+    732,
+    914
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

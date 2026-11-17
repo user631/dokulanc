@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Boros Erzsébet",
+  "email": "boros.erzsebet@gmail.com",
+  "telefon": "+36 70 418 7361",
+  "lakcim": "H-9234 Somogyvég, Mindszentnémetii utca 237.",
+  "szuletesi_datum": "1984. 03. 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2003 – 2006"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2008 – 2009"
+   },
+   {
+    "ceg": "Somogyi Szolgáltató Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2007 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "SAP",
+   "Python",
+   "Git",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Boros Erzsébet",
+   "bbox": [
+    454,
+    117,
+    786,
+    153
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    513,
+    185,
+    726,
+    210
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    236,
+    161,
+    253
+   ]
+  },
+  {
+   "text": "boros.erzsebet@gmail.com",
+   "bbox": [
+    330,
+    236,
+    595,
+    258
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    268,
+    173,
+    285
+   ]
+  },
+  {
+   "text": "+36 70 418 7361",
+   "bbox": [
+    330,
+    269,
+    495,
+    285
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    300,
+    168,
+    317
+   ]
+  },
+  {
+   "text": "H-9234 Somogyvég, Mindszentnémetii utca 237.",
+   "bbox": [
+    330,
+    300,
+    802,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    332,
+    261,
+    349
+   ]
+  },
+  {
+   "text": "1984. 03. 30.",
+   "bbox": [
+    330,
+    333,
+    453,
+    349
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    387,
+    330,
+    412
+   ]
+  },
+  {
+   "text": "2008 – 2009",
+   "bbox": [
+    90,
+    437,
+    209,
+    453
+   ]
+  },
+  {
+   "text": "rendszergazda – Németh Bt.",
+   "bbox": [
+    90,
+    463,
+    390,
+    485
+   ]
+  },
+  {
+   "text": "2007 – 2008",
+   "bbox": [
+    90,
+    505,
+    209,
+    521
+   ]
+  },
+  {
+   "text": "értékesítő – Somogyi Szolgáltató Bt.",
+   "bbox": [
+    90,
+    531,
+    480,
+    553
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    585,
+    257,
+    610
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    90,
+    635,
+    209,
+    651
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    661,
+    642,
+    683
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    686,
+    282,
+    708
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    729,
+    209,
+    745
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    755,
+    366,
+    772
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    780,
+    175,
+    802
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    835,
+    227,
+    860
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    884,
+    184,
+    905
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    935,
+    214,
+    960
+   ]
+  },
+  {
+   "text": "Linux, SAP, Python, Git, projektmenedzsment",
+   "bbox": [
+    90,
+    984,
+    521,
+    1006
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,392 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2026/03919",
+  "kiallitas_datuma": "2026.11.08.",
+  "teljesites_datuma": "2026.11.05.",
+  "fizetesi_hatarido": "2026.11.23.",
+  "elado_nev": "Kovács Consulting Bt.",
+  "elado_cim": "H-7797 Kecskemét, Rácmártoni utca 118.",
+  "elado_adoszam": "40702689-4-15",
+  "vevo_nev": "Kocsis Áron",
+  "vevo_cim": "H-1990 Sopron, Kecskeméti utca 118.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU75 6975 3574 2843 6832 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "269 140 Ft",
+  "afa_osszesen": "72 668 Ft",
+  "brutto_osszesen": "341 908 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "2 hó",
+    "egysegar": "134 570",
+    "netto": "269 140",
+    "afa_kulcs": "27%",
+    "afa": "72 668",
+    "brutto": "341 808"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    539,
+    84,
+    700,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2026/03919",
+   "bbox": [
+    415,
+    147,
+    826,
+    167
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    228,
+    159,
+    247
+   ]
+  },
+  {
+   "text": "Kovács Consulting Bt.",
+   "bbox": [
+    82,
+    265,
+    342,
+    290
+   ]
+  },
+  {
+   "text": "H-7797 Kecskemét, Rácmártoni utca 118.",
+   "bbox": [
+    82,
+    300,
+    533,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 40702689-4-15",
+   "bbox": [
+    82,
+    332,
+    353,
+    351
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    228,
+    700,
+    247
+   ]
+  },
+  {
+   "text": "Kocsis Áron",
+   "bbox": [
+    630,
+    261,
+    769,
+    285
+   ]
+  },
+  {
+   "text": "H-1990 Sopron, Kecskeméti utca 118.",
+   "bbox": [
+    630,
+    300,
+    1037,
+    324
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    82,
+    402,
+    236,
+    418
+   ]
+  },
+  {
+   "text": "2026.11.08.",
+   "bbox": [
+    82,
+    434,
+    202,
+    450
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    402,
+    524,
+    422
+   ]
+  },
+  {
+   "text": "2026.11.05.",
+   "bbox": [
+    351,
+    434,
+    471,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    402,
+    783,
+    418
+   ]
+  },
+  {
+   "text": "2026.11.23.",
+   "bbox": [
+    620,
+    434,
+    740,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    402,
+    1013,
+    418
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    432,
+    972,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    485,
+    200,
+    504
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    485,
+    583,
+    504
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    485,
+    749,
+    504
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    485,
+    878,
+    500
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    890,
+    481,
+    942,
+    500
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    481,
+    1046,
+    500
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1096,
+    485,
+    1158,
+    500
+   ]
+  },
+  {
+   "text": "2 hó",
+   "bbox": [
+    512,
+    527,
+    551,
+    543
+   ]
+  },
+  {
+   "text": "134 570",
+   "bbox": [
+    677,
+    528,
+    749,
+    543
+   ]
+  },
+  {
+   "text": "269 140",
+   "bbox": [
+    806,
+    528,
+    878,
+    543
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    528,
+    942,
+    543
+   ]
+  },
+  {
+   "text": "72 668",
+   "bbox": [
+    984,
+    528,
+    1045,
+    543
+   ]
+  },
+  {
+   "text": "341 808",
+   "bbox": [
+    1086,
+    528,
+    1158,
+    543
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    82,
+    527,
+    349,
+    547
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    651,
+    584,
+    828,
+    604
+   ]
+  },
+  {
+   "text": "269 140 Ft",
+   "bbox": [
+    1041,
+    586,
+    1158,
+    604
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    618,
+    828,
+    642
+   ]
+  },
+  {
+   "text": "72 668 Ft",
+   "bbox": [
+    1054,
+    624,
+    1158,
+    642
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    700,
+    661,
+    828,
+    685
+   ]
+  },
+  {
+   "text": "341 908 Ft",
+   "bbox": [
+    1027,
+    662,
+    1158,
+    680
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU75 6975 3574 2843 6832 0000 0000",
+   "bbox": [
+    82,
+    728,
+    652,
+    746
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    759,
+    713,
+    779
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

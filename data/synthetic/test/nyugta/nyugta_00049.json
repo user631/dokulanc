@@ -1,0 +1,383 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "TÓTH ÉLELMISZER BT.",
+  "uzlet_cim": "H-3988 Keresztvég, Béke utca 232.",
+  "adoszam": "67090273-5-23",
+  "datum": "2024.03.16.",
+  "ido": "17:37",
+  "nyugtaszam": "9196/42999",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 314 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3891"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1077"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "738"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "334"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1326"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3447"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "648"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "267"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "586"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ÉLELMISZER BT.",
+   "bbox": [
+    182,
+    28,
+    429,
+    48
+   ]
+  },
+  {
+   "text": "H-3988 Keresztvég, Béke utca 232.",
+   "bbox": [
+    124,
+    64,
+    487,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 67090273-5-23",
+   "bbox": [
+    185,
+    88,
+    427,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    264,
+    133,
+    349,
+    150
+   ]
+  },
+  {
+   "text": "3 DB x 1297",
+   "bbox": [
+    24,
+    177,
+    134,
+    189
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    201,
+    144,
+    215
+   ]
+  },
+  {
+   "text": "3891 B00",
+   "bbox": [
+    492,
+    201,
+    588,
+    215
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    231,
+    168,
+    245
+   ]
+  },
+  {
+   "text": "1077 B00",
+   "bbox": [
+    492,
+    231,
+    588,
+    245
+   ]
+  },
+  {
+   "text": "2 DB x 369",
+   "bbox": [
+    24,
+    261,
+    124,
+    273
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    284,
+    156,
+    303
+   ]
+  },
+  {
+   "text": "738 B00",
+   "bbox": [
+    504,
+    285,
+    588,
+    299
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    315,
+    192,
+    329
+   ]
+  },
+  {
+   "text": "334 A00",
+   "bbox": [
+    504,
+    315,
+    588,
+    329
+   ]
+  },
+  {
+   "text": "3 DB x 442",
+   "bbox": [
+    24,
+    345,
+    124,
+    357
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    369,
+    192,
+    383
+   ]
+  },
+  {
+   "text": "1326 A00",
+   "bbox": [
+    492,
+    369,
+    588,
+    383
+   ]
+  },
+  {
+   "text": "3 DB x 1149",
+   "bbox": [
+    24,
+    399,
+    134,
+    411
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    423,
+    120,
+    437
+   ]
+  },
+  {
+   "text": "3447 B00",
+   "bbox": [
+    492,
+    423,
+    588,
+    437
+   ]
+  },
+  {
+   "text": "2 DB x 324",
+   "bbox": [
+    24,
+    453,
+    124,
+    465
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    477,
+    192,
+    491
+   ]
+  },
+  {
+   "text": "648 A00",
+   "bbox": [
+    504,
+    477,
+    588,
+    491
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    507,
+    180,
+    521
+   ]
+  },
+  {
+   "text": "267 C00",
+   "bbox": [
+    504,
+    507,
+    588,
+    521
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    537,
+    120,
+    551
+   ]
+  },
+  {
+   "text": "586 A00",
+   "bbox": [
+    504,
+    537,
+    588,
+    551
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    574,
+    164,
+    596
+   ]
+  },
+  {
+   "text": "12 314 Ft",
+   "bbox": [
+    462,
+    579,
+    588,
+    596
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    614,
+    144,
+    633
+   ]
+  },
+  {
+   "text": "12 314 Ft",
+   "bbox": [
+    480,
+    619,
+    588,
+    633
+   ]
+  },
+  {
+   "text": "2024.03.16.",
+   "bbox": [
+    24,
+    662,
+    145,
+    675
+   ]
+  },
+  {
+   "text": "17:37",
+   "bbox": [
+    533,
+    662,
+    588,
+    675
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9196/42999",
+   "bbox": [
+    24,
+    688,
+    266,
+    707
+   ]
+  },
+  {
+   "text": "AP A29551329",
+   "bbox": [
+    24,
+    722,
+    156,
+    735
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    174,
+    761,
+    438,
+    778
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  612,
+  824
+ ]
+}

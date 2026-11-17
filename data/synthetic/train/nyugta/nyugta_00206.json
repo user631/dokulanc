@@ -1,0 +1,277 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET BT.",
+  "uzlet_cim": "H-3744 Mosonmagyaróvár, Hídhalasi utca 221.",
+  "adoszam": "54599129-2-14",
+  "datum": "2026.07.18.",
+  "ido": "18:25",
+  "nyugtaszam": "2675/07812",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 055 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "406"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "854"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2841"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "3818"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1136"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET BT.",
+   "bbox": [
+    182,
+    30,
+    407,
+    50
+   ]
+  },
+  {
+   "text": "H-3744 Mosonmagyaróvár, Hídhalasi utca",
+   "bbox": [
+    48,
+    65,
+    542,
+    86
+   ]
+  },
+  {
+   "text": "221.",
+   "bbox": [
+    269,
+    94,
+    321,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 54599129-2-14",
+   "bbox": [
+    152,
+    119,
+    438,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    165,
+    344,
+    182
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    207,
+    220,
+    224
+   ]
+  },
+  {
+   "text": "406 C00",
+   "bbox": [
+    469,
+    207,
+    567,
+    224
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    238,
+    248,
+    255
+   ]
+  },
+  {
+   "text": "854 C00",
+   "bbox": [
+    469,
+    238,
+    567,
+    255
+   ]
+  },
+  {
+   "text": "3 DB x 947",
+   "bbox": [
+    24,
+    269,
+    144,
+    283
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    297,
+    206,
+    311
+   ]
+  },
+  {
+   "text": "2841 C00",
+   "bbox": [
+    455,
+    294,
+    567,
+    311
+   ]
+  },
+  {
+   "text": "2 DB x 1909",
+   "bbox": [
+    24,
+    325,
+    156,
+    339
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    350,
+    290,
+    367
+   ]
+  },
+  {
+   "text": "3818 C00",
+   "bbox": [
+    455,
+    350,
+    567,
+    367
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    381,
+    136,
+    398
+   ]
+  },
+  {
+   "text": "1136 B00",
+   "bbox": [
+    455,
+    381,
+    567,
+    398
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    423,
+    184,
+    444
+   ]
+  },
+  {
+   "text": "9 055 Ft",
+   "bbox": [
+    439,
+    424,
+    567,
+    444
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    464,
+    164,
+    482
+   ]
+  },
+  {
+   "text": "9 055 Ft",
+   "bbox": [
+    455,
+    465,
+    567,
+    482
+   ]
+  },
+  {
+   "text": "2026.07.18.",
+   "bbox": [
+    24,
+    510,
+    167,
+    525
+   ]
+  },
+  {
+   "text": "18:25",
+   "bbox": [
+    502,
+    510,
+    567,
+    525
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2675/07812",
+   "bbox": [
+    24,
+    539,
+    310,
+    559
+   ]
+  },
+  {
+   "text": "AP A32079000",
+   "bbox": [
+    24,
+    572,
+    180,
+    587
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    230,
+    614,
+    360,
+    631
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  591,
+  676
+ ]
+}

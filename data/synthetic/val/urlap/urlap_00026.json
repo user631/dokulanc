@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Gál Péter",
+  "anyja_neve": "Szekeres József",
+  "szuletesi_hely": "Mellékharaszti",
+  "szuletesi_datum": "1959.12.15.",
+  "lakcim": "H-1273 Dunaszékháza, Petőfi sándor utca 111.",
+  "telefon": "+36 20 430 6932",
+  "email": "gal.peter@freemail.hu",
+  "adoazonosito_jel": "8339504957",
+  "taj_szam": "025 416 095",
+  "kelt": "Balatontótkőrös, 2026.12.29."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    486,
+    109,
+    754,
+    146
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    220,
+    372,
+    243
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    272,
+    168,
+    289
+   ]
+  },
+  {
+   "text": "Gál Péter",
+   "bbox": [
+    404,
+    268,
+    506,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    327,
+    243,
+    346
+   ]
+  },
+  {
+   "text": "Szekeres József",
+   "bbox": [
+    404,
+    322,
+    577,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    378,
+    268,
+    399
+   ]
+  },
+  {
+   "text": "Mellékharaszti",
+   "bbox": [
+    404,
+    376,
+    562,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    431,
+    255,
+    448
+   ]
+  },
+  {
+   "text": "1959.12.15.",
+   "bbox": [
+    404,
+    429,
+    532,
+    449
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    484,
+    198,
+    501
+   ]
+  },
+  {
+   "text": "H-1273 Dunaszékháza, Petőfi sándor utca 111.",
+   "bbox": [
+    403,
+    481,
+    915,
+    506
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    537,
+    254,
+    554
+   ]
+  },
+  {
+   "text": "+36 20 430 6932",
+   "bbox": [
+    404,
+    537,
+    614,
+    558
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    590,
+    233,
+    607
+   ]
+  },
+  {
+   "text": "gal.peter@freemail.hu",
+   "bbox": [
+    404,
+    586,
+    643,
+    613
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    643,
+    293,
+    664
+   ]
+  },
+  {
+   "text": "8339504957",
+   "bbox": [
+    404,
+    640,
+    561,
+    661
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    696,
+    223,
+    713
+   ]
+  },
+  {
+   "text": "025 416 095",
+   "bbox": [
+    404,
+    696,
+    551,
+    716
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    778,
+    317,
+    801
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    820,
+    507,
+    841
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    865,
+    319,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    910,
+    526,
+    931
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1015,
+    160,
+    1032
+   ]
+  },
+  {
+   "text": "Balatontótkőrös, 2026.12.29.",
+   "bbox": [
+    197,
+    1010,
+    510,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    914,
+    1064,
+    970,
+    1078
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

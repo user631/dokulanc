@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Sipos Mária",
+  "anyja_neve": "Vass Róbert",
+  "szuletesi_hely": "Nyíregyháza",
+  "szuletesi_datum": "1990.03.20.",
+  "lakcim": "H-9490 Vác, Mosonmelléki utca 205.",
+  "telefon": "+36 30 995 4003",
+  "email": "sipos.maria@example.hu",
+  "adoazonosito_jel": "8450036798",
+  "taj_szam": "613 341 712",
+  "kelt": "Sopron, 2026.03.14."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    518,
+    84,
+    722,
+    116
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    482,
+    137,
+    758,
+    153
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    189,
+    283,
+    209
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    242,
+    132,
+    256
+   ]
+  },
+  {
+   "text": "Sipos Mária",
+   "bbox": [
+    426,
+    234,
+    578,
+    259
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    294,
+    192,
+    311
+   ]
+  },
+  {
+   "text": "Vass Róbert",
+   "bbox": [
+    426,
+    287,
+    574,
+    306
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    344,
+    213,
+    362
+   ]
+  },
+  {
+   "text": "Nyíregyháza",
+   "bbox": [
+    426,
+    340,
+    584,
+    364
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    395,
+    204,
+    409
+   ]
+  },
+  {
+   "text": "1990.03.20.",
+   "bbox": [
+    426,
+    391,
+    580,
+    407
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    446,
+    158,
+    460
+   ]
+  },
+  {
+   "text": "H-9490 Vác, Mosonmelléki utca 205.",
+   "bbox": [
+    426,
+    444,
+    897,
+    465
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    497,
+    204,
+    511
+   ]
+  },
+  {
+   "text": "+36 30 995 4003",
+   "bbox": [
+    426,
+    492,
+    653,
+    509
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    548,
+    187,
+    562
+   ]
+  },
+  {
+   "text": "sipos.maria@example.hu",
+   "bbox": [
+    426,
+    546,
+    735,
+    569
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    599,
+    237,
+    617
+   ]
+  },
+  {
+   "text": "8450036798",
+   "bbox": [
+    426,
+    595,
+    596,
+    612
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    650,
+    177,
+    664
+   ]
+  },
+  {
+   "text": "613 341 712",
+   "bbox": [
+    426,
+    647,
+    597,
+    664
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    727,
+    243,
+    747
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    771,
+    414,
+    789
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    816,
+    265,
+    830
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    861,
+    424,
+    879
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    963,
+    125,
+    977
+   ]
+  },
+  {
+   "text": "Sopron, 2026.03.14.",
+   "bbox": [
+    173,
+    963,
+    401,
+    983
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1013,
+    989,
+    1024
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

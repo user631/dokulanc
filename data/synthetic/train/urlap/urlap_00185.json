@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Horváth Ágnes",
+  "anyja_neve": "Nagy Krisztina",
+  "szuletesi_hely": "Nagykanizsa",
+  "szuletesi_datum": "1955.08.25.",
+  "lakcim": "H-2040 Apáti, Tapolcavárai út 69.",
+  "telefon": "+36 30 937 2876",
+  "email": "horvath.agnes@example.hu",
+  "adoazonosito_jel": "8323772215",
+  "taj_szam": "641 981 955",
+  "kelt": "Borsodmindszentharaszti, 2026.12.16."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    397,
+    101,
+    843,
+    138
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    473,
+    158,
+    767,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    212,
+    340,
+    235
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    264,
+    153,
+    281
+   ]
+  },
+  {
+   "text": "Horváth Ágnes",
+   "bbox": [
+    440,
+    259,
+    638,
+    290
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    319,
+    218,
+    338
+   ]
+  },
+  {
+   "text": "Nagy Krisztina",
+   "bbox": [
+    440,
+    312,
+    646,
+    338
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    370,
+    241,
+    391
+   ]
+  },
+  {
+   "text": "Nagykanizsa",
+   "bbox": [
+    440,
+    368,
+    615,
+    394
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    423,
+    231,
+    440
+   ]
+  },
+  {
+   "text": "1955.08.25.",
+   "bbox": [
+    440,
+    425,
+    602,
+    444
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    476,
+    181,
+    493
+   ]
+  },
+  {
+   "text": "H-2040 Apáti, Tapolcavárai út 69.",
+   "bbox": [
+    440,
+    472,
+    920,
+    498
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    529,
+    232,
+    546
+   ]
+  },
+  {
+   "text": "+36 30 937 2876",
+   "bbox": [
+    440,
+    527,
+    682,
+    546
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    582,
+    212,
+    599
+   ]
+  },
+  {
+   "text": "horvath.agnes@example.hu",
+   "bbox": [
+    440,
+    579,
+    806,
+    604
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    635,
+    266,
+    656
+   ]
+  },
+  {
+   "text": "8323772215",
+   "bbox": [
+    440,
+    636,
+    622,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    688,
+    203,
+    705
+   ]
+  },
+  {
+   "text": "641 981 955",
+   "bbox": [
+    440,
+    687,
+    624,
+    705
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    770,
+    291,
+    793
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    812,
+    459,
+    833
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    857,
+    292,
+    874
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    902,
+    477,
+    923
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    1007,
+    142,
+    1024
+   ]
+  },
+  {
+   "text": "Borsodmindszentharaszti, 2026.12.16.",
+   "bbox": [
+    190,
+    1006,
+    675,
+    1026
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1056,
+    974,
+    1070
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

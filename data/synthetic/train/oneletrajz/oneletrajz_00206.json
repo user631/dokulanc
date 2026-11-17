@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Levente",
+  "email": "toth.levente@outlook.com",
+  "telefon": "06 1 529 3847",
+  "lakcim": "H-5639 Nagytótfa, Mezőtamásii utca 21.",
+  "szuletesi_datum": "1985. 09. 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hegedüs Logisztika Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2011 – 2013"
+   },
+   {
+    "ceg": "Varga Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Excel",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Levente",
+   "bbox": [
+    495,
+    106,
+    745,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    569,
+    174,
+    671,
+    197
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    228,
+    148,
+    242
+   ]
+  },
+  {
+   "text": "toth.levente@outlook.com",
+   "bbox": [
+    330,
+    228,
+    556,
+    244
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    159,
+    272
+   ]
+  },
+  {
+   "text": "06 1 529 3847",
+   "bbox": [
+    330,
+    259,
+    445,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    153,
+    302
+   ]
+  },
+  {
+   "text": "H-5639 Nagytótfa, Mezőtamásii utca 21.",
+   "bbox": [
+    330,
+    288,
+    663,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    229,
+    332
+   ]
+  },
+  {
+   "text": "1985. 09. 10.",
+   "bbox": [
+    330,
+    319,
+    435,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    289,
+    389
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    90,
+    419,
+    190,
+    432
+   ]
+  },
+  {
+   "text": "irodavezető – Hegedüs Logisztika Zrt.",
+   "bbox": [
+    90,
+    443,
+    410,
+    461
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    483,
+    190,
+    496
+   ]
+  },
+  {
+   "text": "adatelemző – Varga Consulting Kft.",
+   "bbox": [
+    90,
+    507,
+    391,
+    525
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    557,
+    227,
+    577
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    607,
+    190,
+    620
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    631,
+    260,
+    649
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    654,
+    310,
+    672
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    695,
+    190,
+    708
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    719,
+    295,
+    737
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    742,
+    254,
+    760
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    793,
+    202,
+    813
+   ]
+  },
+  {
+   "text": "spanyol (B1), francia (A2)",
+   "bbox": [
+    90,
+    842,
+    299,
+    860
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    889,
+    192,
+    909
+   ]
+  },
+  {
+   "text": "SQL, Excel, Linux",
+   "bbox": [
+    90,
+    938,
+    226,
+    955
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

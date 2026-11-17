@@ -1,0 +1,374 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BALÁZS MARKET BT.",
+  "uzlet_cim": "H-9017 Széknádasd, Petőfi utca 35.",
+  "adoszam": "60733847-2-03",
+  "datum": "2025.08.09.",
+  "ido": "15:27",
+  "nyugtaszam": "3293/54565",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "11 219 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1314"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1512"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1016"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "358"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "755"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2301"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1540"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "2022"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "401"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALÁZS MARKET BT.",
+   "bbox": [
+    142,
+    30,
+    380,
+    50
+   ]
+  },
+  {
+   "text": "H-9017 Széknádasd, Petőfi utca 35.",
+   "bbox": [
+    57,
+    68,
+    465,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 60733847-2-03",
+   "bbox": [
+    129,
+    91,
+    393,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    212,
+    137,
+    310,
+    152
+   ]
+  },
+  {
+   "text": "3 DB x 438",
+   "bbox": [
+    24,
+    178,
+    134,
+    190
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    203,
+    206,
+    217
+   ]
+  },
+  {
+   "text": "1314 C00",
+   "bbox": [
+    394,
+    203,
+    498,
+    217
+   ]
+  },
+  {
+   "text": "2 DB x 756",
+   "bbox": [
+    24,
+    232,
+    134,
+    244
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    257,
+    128,
+    271
+   ]
+  },
+  {
+   "text": "1512 C00",
+   "bbox": [
+    394,
+    257,
+    498,
+    271
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    287,
+    154,
+    301
+   ]
+  },
+  {
+   "text": "1016 A00",
+   "bbox": [
+    394,
+    287,
+    498,
+    301
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    318,
+    206,
+    331
+   ]
+  },
+  {
+   "text": "358 C00",
+   "bbox": [
+    407,
+    317,
+    498,
+    331
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    347,
+    232,
+    361
+   ]
+  },
+  {
+   "text": "755 A00",
+   "bbox": [
+    407,
+    347,
+    498,
+    361
+   ]
+  },
+  {
+   "text": "3 DB x 767",
+   "bbox": [
+    24,
+    376,
+    134,
+    388
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    401,
+    141,
+    415
+   ]
+  },
+  {
+   "text": "2301 B00",
+   "bbox": [
+    394,
+    401,
+    498,
+    415
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    432,
+    193,
+    445
+   ]
+  },
+  {
+   "text": "1540 B00",
+   "bbox": [
+    394,
+    431,
+    498,
+    445
+   ]
+  },
+  {
+   "text": "3 DB x 674",
+   "bbox": [
+    24,
+    460,
+    134,
+    472
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    485,
+    167,
+    499
+   ]
+  },
+  {
+   "text": "2022 C00",
+   "bbox": [
+    394,
+    485,
+    498,
+    499
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    515,
+    141,
+    529
+   ]
+  },
+  {
+   "text": "401 A00",
+   "bbox": [
+    407,
+    515,
+    498,
+    529
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    553,
+    184,
+    574
+   ]
+  },
+  {
+   "text": "11 219 Ft",
+   "bbox": [
+    354,
+    558,
+    498,
+    574
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    594,
+    128,
+    611
+   ]
+  },
+  {
+   "text": "11 219 Ft",
+   "bbox": [
+    381,
+    597,
+    498,
+    611
+   ]
+  },
+  {
+   "text": "2025.08.09.",
+   "bbox": [
+    24,
+    640,
+    156,
+    653
+   ]
+  },
+  {
+   "text": "15:27",
+   "bbox": [
+    438,
+    640,
+    498,
+    653
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3293/54565",
+   "bbox": [
+    24,
+    667,
+    288,
+    685
+   ]
+  },
+  {
+   "text": "AP A72726025",
+   "bbox": [
+    24,
+    700,
+    168,
+    713
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    162,
+    740,
+    358,
+    756
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  522,
+  800
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Horváth Bence",
+  "anyja_neve": "Lukács Mária",
+  "szuletesi_hely": "Hetvennádasd",
+  "szuletesi_datum": "1959. 07. 24.",
+  "lakcim": "H-6281 Érd, Hidai utca 10.",
+  "telefon": "+36 30 786 3967",
+  "email": "horvath.bence@freemail.hu",
+  "adoazonosito_jel": "8338068756",
+  "taj_szam": "435 171 742",
+  "kelt": "Tatabánya, 2024. 11. 23."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    505,
+    92,
+    734,
+    128
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    148,
+    780,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    203,
+    318,
+    227
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    258,
+    141,
+    273
+   ]
+  },
+  {
+   "text": "Horváth Bence",
+   "bbox": [
+    405,
+    255,
+    562,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    311,
+    206,
+    332
+   ]
+  },
+  {
+   "text": "Lukács Mária",
+   "bbox": [
+    405,
+    313,
+    542,
+    331
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    365,
+    229,
+    386
+   ]
+  },
+  {
+   "text": "Hetvennádasd",
+   "bbox": [
+    405,
+    361,
+    558,
+    379
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    419,
+    220,
+    435
+   ]
+  },
+  {
+   "text": "1959. 07. 24.",
+   "bbox": [
+    405,
+    416,
+    538,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    473,
+    168,
+    489
+   ]
+  },
+  {
+   "text": "H-6281 Érd, Hidai utca 10.",
+   "bbox": [
+    405,
+    471,
+    682,
+    496
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    527,
+    221,
+    543
+   ]
+  },
+  {
+   "text": "+36 30 786 3967",
+   "bbox": [
+    405,
+    527,
+    585,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    581,
+    201,
+    597
+   ]
+  },
+  {
+   "text": "horvath.bence@freemail.hu",
+   "bbox": [
+    405,
+    581,
+    700,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    635,
+    259,
+    656
+   ]
+  },
+  {
+   "text": "8338068756",
+   "bbox": [
+    405,
+    634,
+    535,
+    651
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    690,
+    191,
+    705
+   ]
+  },
+  {
+   "text": "435 171 742",
+   "bbox": [
+    405,
+    686,
+    536,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    771,
+    274,
+    795
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    814,
+    455,
+    835
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    859,
+    279,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    904,
+    475,
+    925
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    1009,
+    129,
+    1026
+   ]
+  },
+  {
+   "text": "Tatabánya, 2024. 11. 23.",
+   "bbox": [
+    177,
+    1006,
+    431,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1058,
+    987,
+    1072
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Bognár Krisztina",
+  "anyja_neve": "Kovács József",
+  "szuletesi_hely": "Törökgyörgyharaszti",
+  "szuletesi_datum": "2003.12.25.",
+  "lakcim": "H-9464 Kunszékháza, Mellékházai utca 103.",
+  "telefon": "+36 70 940 8949",
+  "email": "bognar.krisztina@example.hu",
+  "adoazonosito_jel": "8500313250",
+  "taj_szam": "288 587 183",
+  "kelt": "Hídkőrös, 2025.06.15."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    496,
+    82,
+    743,
+    120
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    194,
+    327,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    250,
+    135,
+    267
+   ]
+  },
+  {
+   "text": "Bognár Krisztina",
+   "bbox": [
+    417,
+    248,
+    589,
+    272
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    92,
+    305,
+    203,
+    325
+   ]
+  },
+  {
+   "text": "Kovács József",
+   "bbox": [
+    417,
+    300,
+    566,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    358,
+    226,
+    379
+   ]
+  },
+  {
+   "text": "Törökgyörgyharaszti",
+   "bbox": [
+    416,
+    357,
+    633,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    412,
+    216,
+    429
+   ]
+  },
+  {
+   "text": "2003.12.25.",
+   "bbox": [
+    417,
+    411,
+    542,
+    429
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    466,
+    164,
+    483
+   ]
+  },
+  {
+   "text": "H-9464 Kunszékháza, Mellékházai utca 103.",
+   "bbox": [
+    417,
+    467,
+    883,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    92,
+    520,
+    216,
+    537
+   ]
+  },
+  {
+   "text": "+36 70 940 8949",
+   "bbox": [
+    417,
+    523,
+    601,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    574,
+    199,
+    591
+   ]
+  },
+  {
+   "text": "bognar.krisztina@example.hu",
+   "bbox": [
+    417,
+    572,
+    729,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    92,
+    628,
+    251,
+    649
+   ]
+  },
+  {
+   "text": "8500313250",
+   "bbox": [
+    417,
+    626,
+    547,
+    644
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    92,
+    682,
+    188,
+    699
+   ]
+  },
+  {
+   "text": "288 587 183",
+   "bbox": [
+    417,
+    680,
+    550,
+    698
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    763,
+    278,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    807,
+    447,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    852,
+    276,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    125,
+    897,
+    470,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    1002,
+    126,
+    1019
+   ]
+  },
+  {
+   "text": "Hídkőrös, 2025.06.15.",
+   "bbox": [
+    171,
+    998,
+    403,
+    1022
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    944,
+    1051,
+    993,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

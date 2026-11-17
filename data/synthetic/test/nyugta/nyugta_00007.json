@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "VIRÁG DISZKONT KFT.",
+  "uzlet_cim": "H-6117 Keresztdevecser, Bajai utca 155.",
+  "adoszam": "56102174-2-35",
+  "datum": "2024.07.11.",
+  "ido": "11:01",
+  "nyugtaszam": "0641/17923",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "2 041 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "568"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "390"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1083"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VIRÁG DISZKONT KFT.",
+   "bbox": [
+    156,
+    30,
+    441,
+    50
+   ]
+  },
+  {
+   "text": "H-6117 Keresztdevecser, Bajai utca 155.",
+   "bbox": [
+    45,
+    65,
+    552,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56102174-2-35",
+   "bbox": [
+    156,
+    92,
+    442,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    138,
+    348,
+    155
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    180,
+    248,
+    197
+   ]
+  },
+  {
+   "text": "568 C00",
+   "bbox": [
+    476,
+    180,
+    574,
+    197
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    214,
+    220,
+    228
+   ]
+  },
+  {
+   "text": "390 A00",
+   "bbox": [
+    476,
+    211,
+    574,
+    228
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    245,
+    206,
+    259
+   ]
+  },
+  {
+   "text": "1083 C00",
+   "bbox": [
+    462,
+    242,
+    574,
+    259
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    284,
+    168,
+    305
+   ]
+  },
+  {
+   "text": "2 041 Ft",
+   "bbox": [
+    446,
+    285,
+    574,
+    305
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    325,
+    136,
+    343
+   ]
+  },
+  {
+   "text": "2 041 Ft",
+   "bbox": [
+    462,
+    326,
+    574,
+    343
+   ]
+  },
+  {
+   "text": "2024.07.11.",
+   "bbox": [
+    24,
+    371,
+    167,
+    386
+   ]
+  },
+  {
+   "text": "11:01",
+   "bbox": [
+    509,
+    371,
+    574,
+    386
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0641/17923",
+   "bbox": [
+    24,
+    400,
+    310,
+    420
+   ]
+  },
+  {
+   "text": "AP A98693952",
+   "bbox": [
+    24,
+    433,
+    180,
+    448
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    234,
+    475,
+    364,
+    492
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  598,
+  537
+ ]
+}

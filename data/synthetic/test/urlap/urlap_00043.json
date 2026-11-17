@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Székely Katalin",
+  "anyja_neve": "László Ilona",
+  "szuletesi_hely": "Tapolcakőrös",
+  "szuletesi_datum": "1969. 01. 17.",
+  "lakcim": "H-2449 Ózd, Hetvenvárai tér 106.",
+  "telefon": "+36 30 657 4266",
+  "email": "szekely.katalin@example.hu",
+  "adoazonosito_jel": "8372710074",
+  "taj_szam": "171 933 998",
+  "kelt": "Lajosszékapáti, 2024. 12. 02."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    503,
+    98,
+    736,
+    129
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    497,
+    152,
+    743,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    204,
+    278,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    258,
+    144,
+    271
+   ]
+  },
+  {
+   "text": "Székely Katalin",
+   "bbox": [
+    441,
+    253,
+    575,
+    272
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    308,
+    197,
+    325
+   ]
+  },
+  {
+   "text": "László Ilona",
+   "bbox": [
+    441,
+    306,
+    547,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    359,
+    215,
+    376
+   ]
+  },
+  {
+   "text": "Tapolcakőrös",
+   "bbox": [
+    441,
+    357,
+    557,
+    376
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    410,
+    207,
+    423
+   ]
+  },
+  {
+   "text": "1969. 01. 17.",
+   "bbox": [
+    441,
+    406,
+    554,
+    420
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    461,
+    169,
+    474
+   ]
+  },
+  {
+   "text": "H-2449 Ózd, Hetvenvárai tér 106.",
+   "bbox": [
+    441,
+    452,
+    730,
+    474
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    512,
+    207,
+    525
+   ]
+  },
+  {
+   "text": "+36 30 657 4266",
+   "bbox": [
+    441,
+    512,
+    589,
+    526
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    563,
+    195,
+    576
+   ]
+  },
+  {
+   "text": "szekely.katalin@example.hu",
+   "bbox": [
+    441,
+    560,
+    684,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    614,
+    237,
+    631
+   ]
+  },
+  {
+   "text": "8372710074",
+   "bbox": [
+    441,
+    616,
+    551,
+    630
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    666,
+    187,
+    678
+   ]
+  },
+  {
+   "text": "171 933 998",
+   "bbox": [
+    441,
+    662,
+    550,
+    676
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    742,
+    247,
+    760
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    786,
+    397,
+    803
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    831,
+    264,
+    844
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    876,
+    414,
+    893
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    977,
+    134,
+    990
+   ]
+  },
+  {
+   "text": "Lajosszékapáti, 2024. 12. 02.",
+   "bbox": [
+    187,
+    973,
+    435,
+    992
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1026,
+    973,
+    1037
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

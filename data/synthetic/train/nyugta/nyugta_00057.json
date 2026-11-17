@@ -1,0 +1,195 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KIS ABC KFT.",
+  "uzlet_cim": "H-9135 Kunmindszentvárad, Nagytamásii tér 78.",
+  "adoszam": "99505161-4-03",
+  "datum": "2026.01.19.",
+  "ido": "21:22",
+  "nyugtaszam": "0945/58485",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 271 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "284"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3087"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KIS ABC KFT.",
+   "bbox": [
+    201,
+    35,
+    369,
+    49
+   ]
+  },
+  {
+   "text": "H-9135 Kunmindszentvárad, Nagytamásii tér 78.",
+   "bbox": [
+    37,
+    63,
+    532,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 99505161-4-03",
+   "bbox": [
+    164,
+    88,
+    406,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    240,
+    131,
+    330,
+    147
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    174,
+    193,
+    187
+   ]
+  },
+  {
+   "text": "284 C00",
+   "bbox": [
+    456,
+    172,
+    547,
+    187
+   ]
+  },
+  {
+   "text": "3 DB x 1029",
+   "bbox": [
+    24,
+    201,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    224,
+    219,
+    239
+   ]
+  },
+  {
+   "text": "3087 C00",
+   "bbox": [
+    443,
+    224,
+    547,
+    239
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    263,
+    159,
+    283
+   ]
+  },
+  {
+   "text": "3 271 Ft",
+   "bbox": [
+    427,
+    265,
+    547,
+    283
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    302,
+    154,
+    319
+   ]
+  },
+  {
+   "text": "3 271 Ft",
+   "bbox": [
+    443,
+    304,
+    547,
+    319
+   ]
+  },
+  {
+   "text": "2026.01.19.",
+   "bbox": [
+    24,
+    346,
+    145,
+    360
+   ]
+  },
+  {
+   "text": "21:22",
+   "bbox": [
+    492,
+    346,
+    547,
+    360
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0945/58485",
+   "bbox": [
+    24,
+    374,
+    266,
+    392
+   ]
+  },
+  {
+   "text": "AP A44914932",
+   "bbox": [
+    24,
+    404,
+    156,
+    418
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    225,
+    444,
+    345,
+    460
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  571,
+  505
+ ]
+}

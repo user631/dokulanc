@@ -1,0 +1,264 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BIRÓ MARKET KFT.",
+  "uzlet_cim": "H-1932 Budapest, Alsóhídi utca 25.",
+  "adoszam": "78955578-4-37",
+  "datum": "2026.01.11.",
+  "ido": "21:35",
+  "nyugtaszam": "5959/91200",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 904 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2370"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2517"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "717"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3300"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BIRÓ MARKET KFT.",
+   "bbox": [
+    199,
+    28,
+    391,
+    47
+   ]
+  },
+  {
+   "text": "H-1932 Budapest, Alsóhídi utca 25.",
+   "bbox": [
+    125,
+    63,
+    465,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 78955578-4-37",
+   "bbox": [
+    185,
+    86,
+    405,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    127,
+    335,
+    142
+   ]
+  },
+  {
+   "text": "3 DB x 790",
+   "bbox": [
+    24,
+    168,
+    114,
+    179
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    190,
+    112,
+    203
+   ]
+  },
+  {
+   "text": "2370 C00",
+   "bbox": [
+    478,
+    190,
+    566,
+    203
+   ]
+  },
+  {
+   "text": "3 DB x 839",
+   "bbox": [
+    24,
+    218,
+    114,
+    229
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    240,
+    200,
+    253
+   ]
+  },
+  {
+   "text": "2517 B00",
+   "bbox": [
+    478,
+    240,
+    566,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 239",
+   "bbox": [
+    24,
+    268,
+    114,
+    279
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    290,
+    167,
+    303
+   ]
+  },
+  {
+   "text": "717 A00",
+   "bbox": [
+    489,
+    290,
+    566,
+    303
+   ]
+  },
+  {
+   "text": "3 DB x 1100",
+   "bbox": [
+    24,
+    318,
+    123,
+    329
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    340,
+    189,
+    353
+   ]
+  },
+  {
+   "text": "3300 C00",
+   "bbox": [
+    478,
+    340,
+    566,
+    353
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    376,
+    154,
+    396
+   ]
+  },
+  {
+   "text": "8 904 Ft",
+   "bbox": [
+    462,
+    380,
+    566,
+    396
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    414,
+    134,
+    431
+   ]
+  },
+  {
+   "text": "8 904 Ft",
+   "bbox": [
+    478,
+    418,
+    566,
+    431
+   ]
+  },
+  {
+   "text": "2026.01.11.",
+   "bbox": [
+    24,
+    461,
+    134,
+    472
+   ]
+  },
+  {
+   "text": "21:35",
+   "bbox": [
+    516,
+    461,
+    566,
+    472
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5959/91200",
+   "bbox": [
+    24,
+    486,
+    244,
+    502
+   ]
+  },
+  {
+   "text": "AP A49751227",
+   "bbox": [
+    24,
+    517,
+    144,
+    528
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    220,
+    553,
+    370,
+    569
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  590,
+  614
+ ]
+}

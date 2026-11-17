@@ -1,0 +1,424 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY DISZKONT KFT.",
+  "uzlet_cim": "H-1395 Ligetnádasd, Dózsa györgy utca 102.",
+  "adoszam": "19094522-2-25",
+  "datum": "2024.02.18.",
+  "ido": "14:24",
+  "nyugtaszam": "8215/30148",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "15 035 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "727"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4388"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1015"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "588"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2042"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1875"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "581"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "343"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "657"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "313"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "752"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "754"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY DISZKONT KFT.",
+   "bbox": [
+    135,
+    35,
+    387,
+    49
+   ]
+  },
+  {
+   "text": "H-1395 Ligetnádasd, Dózsa györgy utca 102.",
+   "bbox": [
+    30,
+    63,
+    492,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 19094522-2-25",
+   "bbox": [
+    140,
+    88,
+    382,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    216,
+    131,
+    306,
+    147
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    172,
+    232,
+    187
+   ]
+  },
+  {
+   "text": "727 A00",
+   "bbox": [
+    407,
+    172,
+    498,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 2194",
+   "bbox": [
+    24,
+    201,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    224,
+    271,
+    239
+   ]
+  },
+  {
+   "text": "4388 C00",
+   "bbox": [
+    394,
+    224,
+    498,
+    239
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    253,
+    128,
+    268
+   ]
+  },
+  {
+   "text": "1015 B00",
+   "bbox": [
+    394,
+    253,
+    498,
+    268
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    282,
+    128,
+    297
+   ]
+  },
+  {
+   "text": "588 A00",
+   "bbox": [
+    407,
+    282,
+    498,
+    297
+   ]
+  },
+  {
+   "text": "2 DB x 1021",
+   "bbox": [
+    24,
+    311,
+    145,
+    324
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    334,
+    180,
+    349
+   ]
+  },
+  {
+   "text": "2042 B00",
+   "bbox": [
+    394,
+    334,
+    498,
+    349
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    365,
+    154,
+    378
+   ]
+  },
+  {
+   "text": "1875 B00",
+   "bbox": [
+    394,
+    363,
+    498,
+    378
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    392,
+    141,
+    407
+   ]
+  },
+  {
+   "text": "581 B00",
+   "bbox": [
+    407,
+    392,
+    498,
+    407
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    421,
+    167,
+    439
+   ]
+  },
+  {
+   "text": "343 C00",
+   "bbox": [
+    407,
+    421,
+    498,
+    436
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    450,
+    141,
+    465
+   ]
+  },
+  {
+   "text": "657 A00",
+   "bbox": [
+    407,
+    450,
+    498,
+    465
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    481,
+    206,
+    494
+   ]
+  },
+  {
+   "text": "313 A00",
+   "bbox": [
+    407,
+    479,
+    498,
+    494
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    508,
+    206,
+    523
+   ]
+  },
+  {
+   "text": "752 B00",
+   "bbox": [
+    407,
+    508,
+    498,
+    523
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    537,
+    219,
+    552
+   ]
+  },
+  {
+   "text": "754 A00",
+   "bbox": [
+    407,
+    537,
+    498,
+    552
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    576,
+    174,
+    596
+   ]
+  },
+  {
+   "text": "15 035 Ft",
+   "bbox": [
+    363,
+    578,
+    498,
+    596
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    615,
+    167,
+    632
+   ]
+  },
+  {
+   "text": "15 035 Ft",
+   "bbox": [
+    381,
+    617,
+    498,
+    632
+   ]
+  },
+  {
+   "text": "2024.02.18.",
+   "bbox": [
+    24,
+    659,
+    145,
+    673
+   ]
+  },
+  {
+   "text": "14:24",
+   "bbox": [
+    443,
+    659,
+    498,
+    673
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8215/30148",
+   "bbox": [
+    24,
+    687,
+    266,
+    705
+   ]
+  },
+  {
+   "text": "AP A52448201",
+   "bbox": [
+    24,
+    717,
+    156,
+    731
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    171,
+    757,
+    351,
+    773
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  522,
+  818
+ ]
+}

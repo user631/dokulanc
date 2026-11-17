@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Viktor",
+  "email": "kovacs.viktor@example.hu",
+  "telefon": "06 1 930 1571",
+  "lakcim": "H-5697 Dunakeszi, Hátkövesdi tér 64.",
+  "szuletesi_datum": "1979. 01. 02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Logisztika Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2011 – 2012"
+   },
+   {
+    "ceg": "Juhász Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2007 – 2011"
+   },
+   {
+    "ceg": "Simon Tech Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "SQL",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Viktor",
+   "bbox": [
+    484,
+    85,
+    756,
+    120
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    521,
+    159,
+    718,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    213,
+    153,
+    228
+   ]
+  },
+  {
+   "text": "kovacs.viktor@example.hu",
+   "bbox": [
+    330,
+    213,
+    577,
+    232
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    245,
+    165,
+    260
+   ]
+  },
+  {
+   "text": "06 1 930 1571",
+   "bbox": [
+    330,
+    246,
+    455,
+    260
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    277,
+    159,
+    292
+   ]
+  },
+  {
+   "text": "H-5697 Dunakeszi, Hátkövesdi tér 64.",
+   "bbox": [
+    330,
+    276,
+    668,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    309,
+    242,
+    324
+   ]
+  },
+  {
+   "text": "1979. 01. 02.",
+   "bbox": [
+    330,
+    310,
+    446,
+    324
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    361,
+    302,
+    384
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    414,
+    199,
+    428
+   ]
+  },
+  {
+   "text": "rendszergazda – Varga Logisztika Kft.",
+   "bbox": [
+    90,
+    439,
+    439,
+    459
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    482,
+    199,
+    496
+   ]
+  },
+  {
+   "text": "értékesítő – Juhász Logisztika Bt.",
+   "bbox": [
+    90,
+    507,
+    400,
+    527
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    550,
+    199,
+    564
+   ]
+  },
+  {
+   "text": "adatelemző – Simon Tech Zrt.",
+   "bbox": [
+    90,
+    575,
+    371,
+    591
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    627,
+    237,
+    650
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    90,
+    680,
+    199,
+    694
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    705,
+    278,
+    725
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    730,
+    228,
+    750
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    774,
+    199,
+    788
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    799,
+    370,
+    819
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    824,
+    169,
+    844
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    877,
+    210,
+    900
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    929,
+    182,
+    948
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    977,
+    198,
+    1000
+   ]
+  },
+  {
+   "text": "prezentáció, SQL, projektmenedzsment",
+   "bbox": [
+    90,
+    1028,
+    446,
+    1048
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

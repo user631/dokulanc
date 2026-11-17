@@ -1,0 +1,350 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szabó Nikolett",
+  "email": "szabo.nikolett@gmail.com",
+  "telefon": "+36 20 197 8621",
+  "lakcim": "H-7105 Budaligetvára, Hajdúmártoni út 226.",
+  "szuletesi_datum": "2001. 05. 01.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Szilágyi és Társa Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "C#",
+   "prezentáció",
+   "SQL",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    83,
+    175,
+    103
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    130,
+    89,
+    143
+   ]
+  },
+  {
+   "text": "szabo.nikolett@gmail.com",
+   "bbox": [
+    40,
+    153,
+    244,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    186,
+    100,
+    199
+   ]
+  },
+  {
+   "text": "+36 20 197 8621",
+   "bbox": [
+    40,
+    210,
+    171,
+    222
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    242,
+    94,
+    255
+   ]
+  },
+  {
+   "text": "H-7105 Budaligetvára, Hajdúmártoni út",
+   "bbox": [
+    40,
+    265,
+    343,
+    281
+   ]
+  },
+  {
+   "text": "226.",
+   "bbox": [
+    40,
+    289,
+    75,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    321,
+    167,
+    334
+   ]
+  },
+  {
+   "text": "2001. 05. 01.",
+   "bbox": [
+    40,
+    345,
+    143,
+    357
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    404,
+    168,
+    423
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    445,
+    143,
+    463
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    472,
+    136,
+    490
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    527,
+    147,
+    546
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    568,
+    242,
+    586
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    596,
+    61,
+    609
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    623,
+    138,
+    640
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    650,
+    71,
+    665
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    677,
+    122,
+    694
+   ]
+  },
+  {
+   "text": "Szabó Nikolett",
+   "bbox": [
+    450,
+    88,
+    722,
+    119
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    159,
+    639,
+    181
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    223,
+    654,
+    244
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    274,
+    580,
+    292
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szabó Kft.",
+   "bbox": [
+    450,
+    299,
+    732,
+    318
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    340,
+    580,
+    358
+   ]
+  },
+  {
+   "text": "adatelemző – Szilágyi és Társa Kft.",
+   "bbox": [
+    450,
+    365,
+    762,
+    384
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    415,
+    588,
+    437
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    450,
+    468,
+    558,
+    481
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    492,
+    678,
+    511
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    449,
+    517,
+    502,
+    535
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    559,
+    558,
+    572
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    583,
+    684,
+    598
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    608,
+    524,
+    626
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

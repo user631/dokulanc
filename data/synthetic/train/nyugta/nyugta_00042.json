@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH ABC BT.",
+  "uzlet_cim": "H-7997 Mezőhetvenhida, Váci utca 185.",
+  "adoszam": "84464996-2-37",
+  "datum": "2025.10.19.",
+  "ido": "17:04",
+  "nyugtaszam": "8019/10971",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "4 398 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1224"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2563"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "611"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ABC BT.",
+   "bbox": [
+    209,
+    31,
+    365,
+    49
+   ]
+  },
+  {
+   "text": "H-7997 Mezőhetvenhida, Váci utca 185.",
+   "bbox": [
+    83,
+    65,
+    490,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 84464996-2-37",
+   "bbox": [
+    166,
+    87,
+    408,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    244,
+    130,
+    330,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 612",
+   "bbox": [
+    24,
+    170,
+    124,
+    181
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    192,
+    132,
+    205
+   ]
+  },
+  {
+   "text": "1224 A00",
+   "bbox": [
+    454,
+    192,
+    550,
+    205
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    220,
+    252,
+    233
+   ]
+  },
+  {
+   "text": "2563 C00",
+   "bbox": [
+    454,
+    220,
+    550,
+    233
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    248,
+    120,
+    261
+   ]
+  },
+  {
+   "text": "611 A00",
+   "bbox": [
+    466,
+    248,
+    550,
+    261
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    286,
+    150,
+    304
+   ]
+  },
+  {
+   "text": "4 398 Ft",
+   "bbox": [
+    438,
+    289,
+    551,
+    304
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    323,
+    144,
+    339
+   ]
+  },
+  {
+   "text": "4 398 Ft",
+   "bbox": [
+    454,
+    326,
+    550,
+    339
+   ]
+  },
+  {
+   "text": "2025.10.19.",
+   "bbox": [
+    24,
+    368,
+    145,
+    379
+   ]
+  },
+  {
+   "text": "17:04",
+   "bbox": [
+    495,
+    368,
+    550,
+    379
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8019/10971",
+   "bbox": [
+    24,
+    393,
+    266,
+    408
+   ]
+  },
+  {
+   "text": "AP A71453461",
+   "bbox": [
+    24,
+    424,
+    156,
+    435
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    166,
+    461,
+    408,
+    476
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  574,
+  520
+ ]
+}

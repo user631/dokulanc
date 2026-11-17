@@ -1,0 +1,427 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "JUHÁSZ MARKET KFT.",
+  "uzlet_cim": "H-5622 Györgyapáti, Hátapátii utca 95.",
+  "adoszam": "96042201-5-38",
+  "datum": "2025.09.12.",
+  "ido": "19:08",
+  "nyugtaszam": "8285/48315",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "18 084 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1450"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "4410"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "753"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "3972"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1746"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1170"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "410"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "216"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "888"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2814"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "255"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JUHÁSZ MARKET KFT.",
+   "bbox": [
+    201,
+    28,
+    435,
+    48
+   ]
+  },
+  {
+   "text": "H-5622 Györgyapáti, Hátapátii utca 95.",
+   "bbox": [
+    109,
+    64,
+    527,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 96042201-5-38",
+   "bbox": [
+    197,
+    88,
+    439,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    276,
+    133,
+    361,
+    150
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    177,
+    144,
+    191
+   ]
+  },
+  {
+   "text": "1450 B00",
+   "bbox": [
+    517,
+    177,
+    613,
+    191
+   ]
+  },
+  {
+   "text": "3 DB x 1470",
+   "bbox": [
+    24,
+    207,
+    134,
+    219
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    231,
+    180,
+    245
+   ]
+  },
+  {
+   "text": "4410 A00",
+   "bbox": [
+    517,
+    231,
+    613,
+    245
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    261,
+    132,
+    275
+   ]
+  },
+  {
+   "text": "753 B00",
+   "bbox": [
+    529,
+    261,
+    613,
+    275
+   ]
+  },
+  {
+   "text": "2 DB x 1986",
+   "bbox": [
+    24,
+    291,
+    134,
+    303
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    315,
+    252,
+    329
+   ]
+  },
+  {
+   "text": "3972 C00",
+   "bbox": [
+    517,
+    315,
+    613,
+    329
+   ]
+  },
+  {
+   "text": "2 DB x 873",
+   "bbox": [
+    24,
+    345,
+    124,
+    357
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    369,
+    168,
+    383
+   ]
+  },
+  {
+   "text": "1746 B00",
+   "bbox": [
+    517,
+    369,
+    613,
+    383
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    399,
+    120,
+    413
+   ]
+  },
+  {
+   "text": "1170 C00",
+   "bbox": [
+    517,
+    399,
+    613,
+    413
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    428,
+    156,
+    447
+   ]
+  },
+  {
+   "text": "410 A00",
+   "bbox": [
+    529,
+    429,
+    613,
+    443
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    459,
+    180,
+    473
+   ]
+  },
+  {
+   "text": "216 C00",
+   "bbox": [
+    529,
+    459,
+    613,
+    473
+   ]
+  },
+  {
+   "text": "2 DB x 444",
+   "bbox": [
+    24,
+    489,
+    124,
+    501
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    513,
+    192,
+    527
+   ]
+  },
+  {
+   "text": "888 B00",
+   "bbox": [
+    529,
+    513,
+    613,
+    527
+   ]
+  },
+  {
+   "text": "3 DB x 938",
+   "bbox": [
+    24,
+    543,
+    124,
+    555
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    567,
+    120,
+    581
+   ]
+  },
+  {
+   "text": "2814 A00",
+   "bbox": [
+    517,
+    567,
+    613,
+    581
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    597,
+    192,
+    615
+   ]
+  },
+  {
+   "text": "255 C00",
+   "bbox": [
+    529,
+    597,
+    613,
+    611
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    634,
+    164,
+    656
+   ]
+  },
+  {
+   "text": "18 084 Ft",
+   "bbox": [
+    487,
+    639,
+    613,
+    656
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    674,
+    144,
+    693
+   ]
+  },
+  {
+   "text": "18 084 Ft",
+   "bbox": [
+    505,
+    679,
+    613,
+    693
+   ]
+  },
+  {
+   "text": "2025.09.12.",
+   "bbox": [
+    24,
+    722,
+    145,
+    735
+   ]
+  },
+  {
+   "text": "19:08",
+   "bbox": [
+    558,
+    722,
+    613,
+    735
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8285/48315",
+   "bbox": [
+    24,
+    748,
+    266,
+    767
+   ]
+  },
+  {
+   "text": "AP A66123684",
+   "bbox": [
+    24,
+    782,
+    156,
+    795
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    228,
+    821,
+    408,
+    838
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  637,
+  884
+ ]
+}

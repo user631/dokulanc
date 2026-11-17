@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/08265",
+  "kiallitas_datuma": "2025.01.10.",
+  "teljesites_datuma": "2025.01.10.",
+  "fizetesi_hatarido": "2025.02.09.",
+  "elado_nev": "Kovács Kft.",
+  "elado_cim": "H-4515 Salgótarján, Petőfi sándor út 50.",
+  "elado_adoszam": "89666980-2-10",
+  "vevo_nev": "Balog Consulting Kft.",
+  "vevo_cim": "H-9286 Nagymellékháza, Somogytapolcai utca 221.",
+  "vevo_adoszam": "65102158-2-07",
+  "bankszamla": "HU19 6829 7765 6747 1078 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "492 920 Ft",
+  "afa_osszesen": "133 088 Ft",
+  "brutto_osszesen": "626 008 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "16 340",
+    "netto": "163 400",
+    "afa_kulcs": "27%",
+    "afa": "44 118",
+    "brutto": "207 518"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "27 460",
+    "netto": "329 520",
+    "afa_kulcs": "27%",
+    "afa": "88 970",
+    "brutto": "418 490"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    554,
+    86,
+    685,
+    117
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/08265",
+   "bbox": [
+    428,
+    145,
+    811,
+    168
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    83,
+    225,
+    152,
+    244
+   ]
+  },
+  {
+   "text": "Kovács Kft.",
+   "bbox": [
+    83,
+    264,
+    207,
+    283
+   ]
+  },
+  {
+   "text": "H-4515 Salgótarján, Petőfi sándor út 50.",
+   "bbox": [
+    83,
+    300,
+    492,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 89666980-2-10",
+   "bbox": [
+    83,
+    333,
+    347,
+    351
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    226,
+    695,
+    244
+   ]
+  },
+  {
+   "text": "Balog Consulting Kft.",
+   "bbox": [
+    630,
+    264,
+    863,
+    288
+   ]
+  },
+  {
+   "text": "H-9286 Nagymellékháza, Somogytapolcai utca",
+   "bbox": [
+    630,
+    300,
+    1100,
+    322
+   ]
+  },
+  {
+   "text": "221.",
+   "bbox": [
+    630,
+    335,
+    675,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 65102158-2-07",
+   "bbox": [
+    630,
+    366,
+    894,
+    384
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    83,
+    437,
+    256,
+    455
+   ]
+  },
+  {
+   "text": "2025.01.10.",
+   "bbox": [
+    383,
+    439,
+    505,
+    455
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    83,
+    472,
+    273,
+    494
+   ]
+  },
+  {
+   "text": "2025.01.10.",
+   "bbox": [
+    383,
+    474,
+    505,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    83,
+    507,
+    261,
+    525
+   ]
+  },
+  {
+   "text": "2025.02.09.",
+   "bbox": [
+    383,
+    509,
+    505,
+    525
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    83,
+    542,
+    220,
+    560
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    383,
+    542,
+    464,
+    560
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    83,
+    591,
+    196,
+    609
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    591,
+    582,
+    609
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    668,
+    591,
+    748,
+    609
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    591,
+    877,
+    605
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    890,
+    587,
+    942,
+    605
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1008,
+    587,
+    1045,
+    605
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    591,
+    1157,
+    605
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    512,
+    634,
+    611,
+    649
+   ]
+  },
+  {
+   "text": "16 340",
+   "bbox": [
+    688,
+    635,
+    748,
+    649
+   ]
+  },
+  {
+   "text": "163 400",
+   "bbox": [
+    806,
+    635,
+    877,
+    649
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    635,
+    942,
+    649
+   ]
+  },
+  {
+   "text": "44 118",
+   "bbox": [
+    984,
+    635,
+    1044,
+    649
+   ]
+  },
+  {
+   "text": "207 518",
+   "bbox": [
+    1086,
+    635,
+    1157,
+    649
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    83,
+    633,
+    282,
+    653
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    512,
+    671,
+    560,
+    687
+   ]
+  },
+  {
+   "text": "27 460",
+   "bbox": [
+    688,
+    673,
+    748,
+    687
+   ]
+  },
+  {
+   "text": "329 520",
+   "bbox": [
+    806,
+    673,
+    877,
+    687
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    673,
+    942,
+    687
+   ]
+  },
+  {
+   "text": "88 970",
+   "bbox": [
+    984,
+    673,
+    1044,
+    687
+   ]
+  },
+  {
+   "text": "418 490",
+   "bbox": [
+    1086,
+    673,
+    1157,
+    687
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    83,
+    671,
+    251,
+    691
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    658,
+    730,
+    827,
+    748
+   ]
+  },
+  {
+   "text": "492 920 Ft",
+   "bbox": [
+    1046,
+    732,
+    1157,
+    748
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    678,
+    766,
+    827,
+    787
+   ]
+  },
+  {
+   "text": "133 088 Ft",
+   "bbox": [
+    1046,
+    771,
+    1157,
+    787
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    711,
+    808,
+    827,
+    831
+   ]
+  },
+  {
+   "text": "626 008 Ft",
+   "bbox": [
+    1046,
+    810,
+    1157,
+    826
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU19 6829 7765 6747 1078 0000 0000",
+   "bbox": [
+    83,
+    876,
+    631,
+    893
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    407,
+    1652,
+    833,
+    1670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

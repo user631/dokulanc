@@ -1,0 +1,352 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BIRÓ KISBOLT KFT.",
+  "uzlet_cim": "H-4366 Mellékbánya, Belsőhídi utca 232.",
+  "adoszam": "69108369-2-10",
+  "datum": "2024.12.22.",
+  "ido": "09:41",
+  "nyugtaszam": "0592/17793",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 194 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2035"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "244"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "796"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1031"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "719"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1242"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2541"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "586"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BIRÓ KISBOLT KFT.",
+   "bbox": [
+    139,
+    31,
+    411,
+    52
+   ]
+  },
+  {
+   "text": "H-4366 Mellékbánya, Belsőhídi utca",
+   "bbox": [
+    54,
+    71,
+    496,
+    89
+   ]
+  },
+  {
+   "text": "232.",
+   "bbox": [
+    249,
+    99,
+    301,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 69108369-2-10",
+   "bbox": [
+    132,
+    124,
+    418,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    172,
+    327,
+    188
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    215,
+    290,
+    230
+   ]
+  },
+  {
+   "text": "2035 C00",
+   "bbox": [
+    415,
+    215,
+    527,
+    230
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    248,
+    207,
+    262
+   ]
+  },
+  {
+   "text": "244 A00",
+   "bbox": [
+    429,
+    247,
+    527,
+    262
+   ]
+  },
+  {
+   "text": "2 DB x 398",
+   "bbox": [
+    24,
+    279,
+    154,
+    292
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    305,
+    178,
+    324
+   ]
+  },
+  {
+   "text": "796 A00",
+   "bbox": [
+    429,
+    305,
+    527,
+    320
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    337,
+    136,
+    352
+   ]
+  },
+  {
+   "text": "1031 A00",
+   "bbox": [
+    415,
+    337,
+    527,
+    352
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    369,
+    220,
+    384
+   ]
+  },
+  {
+   "text": "719 B00",
+   "bbox": [
+    429,
+    369,
+    527,
+    384
+   ]
+  },
+  {
+   "text": "3 DB x 414",
+   "bbox": [
+    24,
+    401,
+    154,
+    414
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    428,
+    220,
+    442
+   ]
+  },
+  {
+   "text": "1242 A00",
+   "bbox": [
+    415,
+    427,
+    527,
+    442
+   ]
+  },
+  {
+   "text": "3 DB x 847",
+   "bbox": [
+    24,
+    459,
+    154,
+    472
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    485,
+    136,
+    500
+   ]
+  },
+  {
+   "text": "2541 A00",
+   "bbox": [
+    415,
+    485,
+    527,
+    500
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    517,
+    136,
+    532
+   ]
+  },
+  {
+   "text": "586 B00",
+   "bbox": [
+    429,
+    517,
+    527,
+    532
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    558,
+    194,
+    580
+   ]
+  },
+  {
+   "text": "9 194 Ft",
+   "bbox": [
+    391,
+    563,
+    527,
+    580
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    599,
+    165,
+    618
+   ]
+  },
+  {
+   "text": "9 194 Ft",
+   "bbox": [
+    415,
+    603,
+    527,
+    618
+   ]
+  },
+  {
+   "text": "2024.12.22.",
+   "bbox": [
+    24,
+    649,
+    167,
+    663
+   ]
+  },
+  {
+   "text": "09:41",
+   "bbox": [
+    462,
+    649,
+    527,
+    663
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0592/17793",
+   "bbox": [
+    24,
+    678,
+    310,
+    697
+   ]
+  },
+  {
+   "text": "AP A98172023",
+   "bbox": [
+    24,
+    713,
+    180,
+    727
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    169,
+    752,
+    380,
+    772
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  551,
+  816
+ ]
+}

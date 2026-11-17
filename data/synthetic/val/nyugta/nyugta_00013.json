@@ -1,0 +1,349 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "PÁL KISBOLT BT.",
+  "uzlet_cim": "H-2933 Balatonmindszentváros, Székvégi út 90.",
+  "adoszam": "77450324-3-26",
+  "datum": "2025.01.01.",
+  "ido": "15:32",
+  "nyugtaszam": "6660/58068",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 871 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "282"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2593"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1209"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "373"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "541"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1128"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1576"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1207"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "962"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÁL KISBOLT BT.",
+   "bbox": [
+    195,
+    30,
+    435,
+    51
+   ]
+  },
+  {
+   "text": "H-2933 Balatonmindszentváros, Székvégi út",
+   "bbox": [
+    48,
+    67,
+    581,
+    88
+   ]
+  },
+  {
+   "text": "90.",
+   "bbox": [
+    295,
+    96,
+    334,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77450324-3-26",
+   "bbox": [
+    172,
+    123,
+    458,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    264,
+    169,
+    366,
+    187
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    214,
+    207,
+    229
+   ]
+  },
+  {
+   "text": "282 C00",
+   "bbox": [
+    508,
+    212,
+    606,
+    229
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    244,
+    150,
+    261
+   ]
+  },
+  {
+   "text": "2593 C00",
+   "bbox": [
+    494,
+    244,
+    606,
+    261
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    276,
+    192,
+    293
+   ]
+  },
+  {
+   "text": "1209 C00",
+   "bbox": [
+    494,
+    276,
+    606,
+    293
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    308,
+    220,
+    325
+   ]
+  },
+  {
+   "text": "373 A00",
+   "bbox": [
+    508,
+    308,
+    606,
+    325
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    340,
+    136,
+    357
+   ]
+  },
+  {
+   "text": "541 A00",
+   "bbox": [
+    508,
+    340,
+    606,
+    357
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    372,
+    164,
+    389
+   ]
+  },
+  {
+   "text": "1128 B00",
+   "bbox": [
+    494,
+    372,
+    606,
+    389
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    406,
+    206,
+    421
+   ]
+  },
+  {
+   "text": "1576 C00",
+   "bbox": [
+    494,
+    404,
+    606,
+    421
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    438,
+    164,
+    453
+   ]
+  },
+  {
+   "text": "1207 C00",
+   "bbox": [
+    494,
+    436,
+    606,
+    453
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    468,
+    234,
+    485
+   ]
+  },
+  {
+   "text": "962 A00",
+   "bbox": [
+    508,
+    468,
+    606,
+    485
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    511,
+    194,
+    533
+   ]
+  },
+  {
+   "text": "10 871 Ft",
+   "bbox": [
+    453,
+    513,
+    606,
+    533
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    552,
+    165,
+    571
+   ]
+  },
+  {
+   "text": "10 871 Ft",
+   "bbox": [
+    480,
+    554,
+    606,
+    571
+   ]
+  },
+  {
+   "text": "2025.01.01.",
+   "bbox": [
+    24,
+    600,
+    167,
+    616
+   ]
+  },
+  {
+   "text": "15:32",
+   "bbox": [
+    541,
+    600,
+    606,
+    616
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6660/58068",
+   "bbox": [
+    24,
+    631,
+    310,
+    651
+   ]
+  },
+  {
+   "text": "AP A55946153",
+   "bbox": [
+    24,
+    664,
+    180,
+    680
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    161,
+    707,
+    469,
+    725
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  630,
+  770
+ ]
+}

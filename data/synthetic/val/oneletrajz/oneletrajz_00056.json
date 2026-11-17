@@ -1,0 +1,350 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Nagy István",
+  "email": "nagy.istvan@citromail.hu",
+  "telefon": "+36 30 363 6929",
+  "lakcim": "H-1999 Dunagyörgyháza, Tiszaszéki út 142.",
+  "szuletesi_datum": "1995.07.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Trade Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2019 – 2020"
+   },
+   {
+    "ceg": "Tóth Logisztika Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2017 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "B kategóriás jogosítvány",
+   "projektmenedzsment",
+   "csapatmunka",
+   "Docker",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    83,
+    207,
+    104
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    128,
+    101,
+    141
+   ]
+  },
+  {
+   "text": "nagy.istvan@citromail.hu",
+   "bbox": [
+    40,
+    149,
+    260,
+    165
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    180,
+    111,
+    193
+   ]
+  },
+  {
+   "text": "+36 30 363 6929",
+   "bbox": [
+    40,
+    202,
+    193,
+    214
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    231,
+    107,
+    245
+   ]
+  },
+  {
+   "text": "H-1999 Dunagyörgyháza, Tiszaszéki út",
+   "bbox": [
+    40,
+    252,
+    377,
+    269
+   ]
+  },
+  {
+   "text": "142.",
+   "bbox": [
+    40,
+    275,
+    79,
+    287
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    304,
+    193,
+    318
+   ]
+  },
+  {
+   "text": "1995.07.31.",
+   "bbox": [
+    40,
+    327,
+    146,
+    339
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    383,
+    195,
+    404
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    424,
+    130,
+    442
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    475,
+    177,
+    496
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    517,
+    75,
+    530
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    541,
+    263,
+    559
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    566,
+    232,
+    584
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    591,
+    160,
+    609
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    616,
+    104,
+    630
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    642,
+    68,
+    655
+   ]
+  },
+  {
+   "text": "Nagy István",
+   "bbox": [
+    450,
+    91,
+    745,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    159,
+    644,
+    177
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    220,
+    707,
+    243
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    450,
+    269,
+    572,
+    283
+   ]
+  },
+  {
+   "text": "irodavezető – Varga Trade Zrt.",
+   "bbox": [
+    450,
+    290,
+    793,
+    311
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    450,
+    331,
+    572,
+    345
+   ]
+  },
+  {
+   "text": "értékesítő – Tóth Logisztika Kft.",
+   "bbox": [
+    450,
+    352,
+    809,
+    373
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    403,
+    623,
+    426
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    452,
+    572,
+    466
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    474,
+    652,
+    494
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    497,
+    777,
+    516
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    537,
+    572,
+    551
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    558,
+    719,
+    579
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    582,
+    635,
+    601
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

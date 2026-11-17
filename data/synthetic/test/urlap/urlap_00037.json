@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Balázs György",
+  "anyja_neve": "Szabó Margit",
+  "szuletesi_hely": "Mindszentdevecser",
+  "szuletesi_datum": "1993.12.06.",
+  "lakcim": "H-5416 Dunaújváros, Tótvári utca 27.",
+  "telefon": "06 1 740 6893",
+  "email": "balazs.gyorgy@example.hu",
+  "adoazonosito_jel": "8463603653",
+  "taj_szam": "050 079 212",
+  "kelt": "Tamásivár, 2024.02.22."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    501,
+    89,
+    738,
+    126
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    198,
+    316,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    252,
+    140,
+    267
+   ]
+  },
+  {
+   "text": "Balázs György",
+   "bbox": [
+    395,
+    248,
+    553,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    305,
+    200,
+    323
+   ]
+  },
+  {
+   "text": "Szabó Margit",
+   "bbox": [
+    395,
+    304,
+    547,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    356,
+    220,
+    375
+   ]
+  },
+  {
+   "text": "Mindszentdevecser",
+   "bbox": [
+    395,
+    351,
+    613,
+    371
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    408,
+    211,
+    423
+   ]
+  },
+  {
+   "text": "1993.12.06.",
+   "bbox": [
+    395,
+    407,
+    525,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    460,
+    165,
+    475
+   ]
+  },
+  {
+   "text": "H-5416 Dunaújváros, Tótvári utca 27.",
+   "bbox": [
+    395,
+    458,
+    817,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    512,
+    212,
+    527
+   ]
+  },
+  {
+   "text": "06 1 740 6893",
+   "bbox": [
+    395,
+    508,
+    562,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    564,
+    195,
+    579
+   ]
+  },
+  {
+   "text": "balazs.gyorgy@example.hu",
+   "bbox": [
+    395,
+    565,
+    693,
+    591
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    616,
+    242,
+    635
+   ]
+  },
+  {
+   "text": "8463603653",
+   "bbox": [
+    395,
+    616,
+    545,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    668,
+    186,
+    683
+   ]
+  },
+  {
+   "text": "050 079 212",
+   "bbox": [
+    395,
+    666,
+    540,
+    686
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    747,
+    271,
+    768
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    790,
+    422,
+    809
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    835,
+    268,
+    850
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    880,
+    442,
+    899
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    983,
+    131,
+    999
+   ]
+  },
+  {
+   "text": "Tamásivár, 2024.02.22.",
+   "bbox": [
+    179,
+    981,
+    415,
+    1002
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1032,
+    983,
+    1045
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

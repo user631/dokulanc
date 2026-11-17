@@ -1,0 +1,491 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2026/04672",
+  "kiallitas_datuma": "2026. 08. 04.",
+  "teljesites_datuma": "2026. 07. 31.",
+  "fizetesi_hatarido": "2026. 07. 17.",
+  "elado_nev": "Vincze Logisztika Kft.",
+  "elado_cim": "H-7196 Dunamindszentdevecser, Dunakeszii utca 77.",
+  "elado_adoszam": "67412769-2-24",
+  "vevo_nev": "Farkas Trade Zrt.",
+  "vevo_cim": "H-1513 Nyírmellékharaszti, Keresztbányai utca 5.",
+  "vevo_adoszam": "78200902-3-08",
+  "bankszamla": "HU80 2688 7971 6732 0398 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "121 310 Ft",
+  "afa_osszesen": "9 354 Ft",
+  "brutto_osszesen": "130 664 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "5 csomag",
+    "egysegar": "2 990",
+    "netto": "14 950",
+    "afa_kulcs": "27%",
+    "afa": "4 036",
+    "brutto": "18 986"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "26 590",
+    "netto": "106 360",
+    "afa_kulcs": "5%",
+    "afa": "5 318",
+    "brutto": "111 678"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    397,
+    91,
+    842,
+    138
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/04672",
+   "bbox": [
+    417,
+    155,
+    824,
+    177
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    90,
+    236,
+    163,
+    254
+   ]
+  },
+  {
+   "text": "Farkas Trade Zrt.",
+   "bbox": [
+    90,
+    271,
+    309,
+    289
+   ]
+  },
+  {
+   "text": "H-1513 Nyírmellékharaszti, Keresztbányai utca",
+   "bbox": [
+    90,
+    303,
+    589,
+    324
+   ]
+  },
+  {
+   "text": "5.",
+   "bbox": [
+    90,
+    333,
+    111,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 78200902-3-08",
+   "bbox": [
+    90,
+    361,
+    365,
+    378
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    236,
+    710,
+    254
+   ]
+  },
+  {
+   "text": "Vincze Logisztika Kft.",
+   "bbox": [
+    630,
+    271,
+    908,
+    294
+   ]
+  },
+  {
+   "text": "H-7196 Dunamindszentdevecser, Dunakeszii",
+   "bbox": [
+    630,
+    303,
+    1102,
+    324
+   ]
+  },
+  {
+   "text": "utca 77.",
+   "bbox": [
+    630,
+    333,
+    716,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 67412769-2-24",
+   "bbox": [
+    630,
+    361,
+    905,
+    378
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    90,
+    428,
+    254,
+    442
+   ]
+  },
+  {
+   "text": "2026. 08. 04.",
+   "bbox": [
+    90,
+    456,
+    229,
+    471
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    428,
+    535,
+    446
+   ]
+  },
+  {
+   "text": "2026. 07. 31.",
+   "bbox": [
+    355,
+    456,
+    494,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    428,
+    789,
+    442
+   ]
+  },
+  {
+   "text": "2026. 07. 17.",
+   "bbox": [
+    620,
+    456,
+    759,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    428,
+    1013,
+    442
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    885,
+    454,
+    999,
+    475
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    504,
+    215,
+    522
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    505,
+    588,
+    522
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    653,
+    504,
+    747,
+    522
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    504,
+    874,
+    518
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    501,
+    938,
+    518
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    501,
+    1038,
+    518
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    504,
+    1150,
+    518
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    514,
+    545,
+    600,
+    562
+   ]
+  },
+  {
+   "text": "2 990",
+   "bbox": [
+    697,
+    545,
+    747,
+    558
+   ]
+  },
+  {
+   "text": "14 950",
+   "bbox": [
+    813,
+    545,
+    874,
+    558
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    545,
+    938,
+    558
+   ]
+  },
+  {
+   "text": "4 036",
+   "bbox": [
+    988,
+    545,
+    1038,
+    558
+   ]
+  },
+  {
+   "text": "18 986",
+   "bbox": [
+    1089,
+    545,
+    1150,
+    558
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    90,
+    544,
+    326,
+    562
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    514,
+    578,
+    553,
+    592
+   ]
+  },
+  {
+   "text": "26 590",
+   "bbox": [
+    686,
+    579,
+    747,
+    592
+   ]
+  },
+  {
+   "text": "106 360",
+   "bbox": [
+    802,
+    579,
+    874,
+    592
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    579,
+    938,
+    592
+   ]
+  },
+  {
+   "text": "5 318",
+   "bbox": [
+    988,
+    579,
+    1038,
+    592
+   ]
+  },
+  {
+   "text": "111 678",
+   "bbox": [
+    1078,
+    579,
+    1150,
+    592
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    90,
+    578,
+    339,
+    596
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    632,
+    820,
+    650
+   ]
+  },
+  {
+   "text": "121 310 Ft",
+   "bbox": [
+    1028,
+    634,
+    1150,
+    650
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    663,
+    820,
+    685
+   ]
+  },
+  {
+   "text": "9 354 Ft",
+   "bbox": [
+    1056,
+    669,
+    1150,
+    685
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    596,
+    702,
+    820,
+    724
+   ]
+  },
+  {
+   "text": "130 664 Ft",
+   "bbox": [
+    1014,
+    704,
+    1150,
+    720
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU80 2688 7971 6732 0398 0000 0000",
+   "bbox": [
+    90,
+    766,
+    688,
+    783
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1647,
+    761,
+    1663
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

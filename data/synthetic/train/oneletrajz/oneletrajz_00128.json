@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Csilla",
+  "email": "toth.csilla@citromail.hu",
+  "telefon": "+36 70 308 9843",
+  "lakcim": "H-7615 Vác, Végi tér 166.",
+  "szuletesi_datum": "1976. 06. 07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "1994 – 1999"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "1999 – 2000"
+   },
+   {
+    "ceg": "Tóth Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "1998 – 1999"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "JavaScript",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Csilla",
+   "bbox": [
+    500,
+    100,
+    739,
+    138
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    569,
+    164,
+    671,
+    191
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    158,
+    233
+   ]
+  },
+  {
+   "text": "toth.csilla@citromail.hu",
+   "bbox": [
+    330,
+    218,
+    523,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    168,
+    262
+   ]
+  },
+  {
+   "text": "+36 70 308 9843",
+   "bbox": [
+    330,
+    248,
+    472,
+    262
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    275,
+    164,
+    291
+   ]
+  },
+  {
+   "text": "H-7615 Vác, Végi tér 166.",
+   "bbox": [
+    330,
+    276,
+    545,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    304,
+    250,
+    320
+   ]
+  },
+  {
+   "text": "1976. 06. 07.",
+   "bbox": [
+    330,
+    306,
+    440,
+    320
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    355,
+    326,
+    378
+   ]
+  },
+  {
+   "text": "1999 – 2000",
+   "bbox": [
+    90,
+    404,
+    192,
+    418
+   ]
+  },
+  {
+   "text": "adatelemző – Szabó Kft.",
+   "bbox": [
+    90,
+    425,
+    335,
+    442
+   ]
+  },
+  {
+   "text": "1998 – 1999",
+   "bbox": [
+    90,
+    466,
+    192,
+    480
+   ]
+  },
+  {
+   "text": "rendszergazda – Tóth Tech Kft.",
+   "bbox": [
+    90,
+    487,
+    406,
+    508
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    538,
+    248,
+    561
+   ]
+  },
+  {
+   "text": "1994 – 1999",
+   "bbox": [
+    90,
+    587,
+    192,
+    601
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    604,
+    256,
+    629
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    632,
+    308,
+    651
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    90,
+    672,
+    192,
+    686
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    693,
+    335,
+    714
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    717,
+    251,
+    736
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    767,
+    220,
+    790
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    815,
+    184,
+    834
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    861,
+    213,
+    884
+   ]
+  },
+  {
+   "text": "projektmenedzsment, JavaScript, Git",
+   "bbox": [
+    90,
+    909,
+    398,
+    928
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

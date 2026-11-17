@@ -1,0 +1,458 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS KISBOLT BT.",
+  "uzlet_cim": "H-5621 Nyírhídvára, Budaligeti út 73.",
+  "adoszam": "83338845-2-31",
+  "datum": "2026.07.02.",
+  "ido": "18:53",
+  "nyugtaszam": "0922/60598",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "18 935 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "322"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1092"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1914"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6948"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "534"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1260"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1506"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "343"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1803"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "91"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2634"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "488"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS KISBOLT BT.",
+   "bbox": [
+    133,
+    30,
+    403,
+    51
+   ]
+  },
+  {
+   "text": "H-5621 Nyírhídvára, Budaligeti út 73.",
+   "bbox": [
+    27,
+    70,
+    508,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 83338845-2-31",
+   "bbox": [
+    125,
+    94,
+    411,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    219,
+    140,
+    317,
+    156
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    185,
+    220,
+    198
+   ]
+  },
+  {
+   "text": "322 B00",
+   "bbox": [
+    414,
+    184,
+    512,
+    198
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    215,
+    136,
+    229
+   ]
+  },
+  {
+   "text": "1092 A00",
+   "bbox": [
+    400,
+    215,
+    512,
+    229
+   ]
+  },
+  {
+   "text": "2 DB x 957",
+   "bbox": [
+    24,
+    244,
+    144,
+    257
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    272,
+    206,
+    285
+   ]
+  },
+  {
+   "text": "1914 A00",
+   "bbox": [
+    400,
+    271,
+    512,
+    285
+   ]
+  },
+  {
+   "text": "3 DB x 2316",
+   "bbox": [
+    24,
+    300,
+    156,
+    313
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    327,
+    290,
+    341
+   ]
+  },
+  {
+   "text": "6948 B00",
+   "bbox": [
+    400,
+    327,
+    512,
+    341
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    358,
+    136,
+    372
+   ]
+  },
+  {
+   "text": "534 C00",
+   "bbox": [
+    414,
+    358,
+    512,
+    372
+   ]
+  },
+  {
+   "text": "3 DB x 420",
+   "bbox": [
+    24,
+    387,
+    144,
+    400
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    414,
+    220,
+    428
+   ]
+  },
+  {
+   "text": "1260 B00",
+   "bbox": [
+    400,
+    414,
+    512,
+    428
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    445,
+    164,
+    459
+   ]
+  },
+  {
+   "text": "1506 B00",
+   "bbox": [
+    400,
+    445,
+    512,
+    459
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    476,
+    178,
+    493
+   ]
+  },
+  {
+   "text": "343 A00",
+   "bbox": [
+    414,
+    476,
+    512,
+    490
+   ]
+  },
+  {
+   "text": "3 DB x 601",
+   "bbox": [
+    24,
+    505,
+    144,
+    518
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    532,
+    136,
+    546
+   ]
+  },
+  {
+   "text": "1803 C00",
+   "bbox": [
+    400,
+    532,
+    512,
+    546
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    564,
+    108,
+    577
+   ]
+  },
+  {
+   "text": "91 C00",
+   "bbox": [
+    428,
+    563,
+    512,
+    577
+   ]
+  },
+  {
+   "text": "3 DB x 878",
+   "bbox": [
+    24,
+    592,
+    144,
+    605
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    619,
+    248,
+    633
+   ]
+  },
+  {
+   "text": "2634 C00",
+   "bbox": [
+    400,
+    619,
+    512,
+    633
+   ]
+  },
+  {
+   "text": "2 DB x 244",
+   "bbox": [
+    24,
+    648,
+    144,
+    661
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    676,
+    206,
+    689
+   ]
+  },
+  {
+   "text": "488 A00",
+   "bbox": [
+    414,
+    675,
+    512,
+    689
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    713,
+    184,
+    735
+   ]
+  },
+  {
+   "text": "18 935 Ft",
+   "bbox": [
+    368,
+    718,
+    512,
+    735
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    756,
+    136,
+    773
+   ]
+  },
+  {
+   "text": "18 935 Ft",
+   "bbox": [
+    386,
+    759,
+    512,
+    773
+   ]
+  },
+  {
+   "text": "2026.07.02.",
+   "bbox": [
+    24,
+    803,
+    167,
+    816
+   ]
+  },
+  {
+   "text": "18:53",
+   "bbox": [
+    447,
+    803,
+    512,
+    816
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0922/60598",
+   "bbox": [
+    24,
+    831,
+    310,
+    849
+   ]
+  },
+  {
+   "text": "AP A57905241",
+   "bbox": [
+    24,
+    865,
+    180,
+    878
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    203,
+    906,
+    333,
+    922
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  536,
+  966
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/03929",
+  "kiallitas_datuma": "2026. október 4.",
+  "teljesites_datuma": "2026. október 4.",
+  "fizetesi_hatarido": "2026. október 12.",
+  "elado_nev": "Varga és Társa Kft.",
+  "elado_cim": "H-5377 Dunaújváros, József attila utca 90.",
+  "elado_adoszam": "15060574-2-19",
+  "vevo_nev": "Németh Tech Kft.",
+  "vevo_cim": "H-1298 Hátfa, Ady endre utca 13.",
+  "vevo_adoszam": "82241878-3-43",
+  "bankszamla": "96723234-51842715-15913532",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 528 200 Ft",
+  "afa_osszesen": "412 614 Ft",
+  "brutto_osszesen": "1 940 814 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 640",
+    "netto": "2 640",
+    "afa_kulcs": "27%",
+    "afa": "713",
+    "brutto": "3 353"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "12 db",
+    "egysegar": "127 130",
+    "netto": "1 525 560",
+    "afa_kulcs": "27%",
+    "afa": "411 901",
+    "brutto": "1 937 461"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    558,
+    112,
+    681,
+    142
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/03929",
+   "bbox": [
+    463,
+    171,
+    777,
+    191
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    110,
+    252,
+    167,
+    268
+   ]
+  },
+  {
+   "text": "Németh Tech Kft.",
+   "bbox": [
+    110,
+    288,
+    283,
+    304
+   ]
+  },
+  {
+   "text": "H-1298 Hátfa, Ady endre utca 13.",
+   "bbox": [
+    110,
+    321,
+    411,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 82241878-3-43",
+   "bbox": [
+    110,
+    351,
+    340,
+    367
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    252,
+    693,
+    268
+   ]
+  },
+  {
+   "text": "Varga és Társa Kft.",
+   "bbox": [
+    630,
+    288,
+    815,
+    308
+   ]
+  },
+  {
+   "text": "H-5377 Dunaújváros, József attila utca 90.",
+   "bbox": [
+    630,
+    321,
+    1009,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 15060574-2-19",
+   "bbox": [
+    630,
+    351,
+    860,
+    367
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    110,
+    420,
+    237,
+    433
+   ]
+  },
+  {
+   "text": "2026. október 4.",
+   "bbox": [
+    110,
+    448,
+    252,
+    462
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    365,
+    420,
+    506,
+    436
+   ]
+  },
+  {
+   "text": "2026. október 4.",
+   "bbox": [
+    365,
+    448,
+    507,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    420,
+    753,
+    433
+   ]
+  },
+  {
+   "text": "2026. október 12.",
+   "bbox": [
+    620,
+    448,
+    773,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    875,
+    420,
+    976,
+    433
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    875,
+    448,
+    943,
+    462
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    110,
+    498,
+    211,
+    514
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    518,
+    499,
+    579,
+    514
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    498,
+    742,
+    514
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    498,
+    864,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    879,
+    495,
+    926,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    495,
+    1022,
+    511
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    498,
+    1130,
+    511
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    518,
+    540,
+    591,
+    555
+   ]
+  },
+  {
+   "text": "2 640",
+   "bbox": [
+    698,
+    540,
+    742,
+    552
+   ]
+  },
+  {
+   "text": "2 640",
+   "bbox": [
+    820,
+    540,
+    864,
+    552
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    540,
+    926,
+    552
+   ]
+  },
+  {
+   "text": "713",
+   "bbox": [
+    992,
+    540,
+    1022,
+    552
+   ]
+  },
+  {
+   "text": "3 353",
+   "bbox": [
+    1086,
+    540,
+    1130,
+    552
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    110,
+    539,
+    313,
+    555
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    518,
+    574,
+    562,
+    587
+   ]
+  },
+  {
+   "text": "127 130",
+   "bbox": [
+    678,
+    575,
+    742,
+    587
+   ]
+  },
+  {
+   "text": "1 525 560",
+   "bbox": [
+    786,
+    575,
+    864,
+    587
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    575,
+    926,
+    587
+   ]
+  },
+  {
+   "text": "411 901",
+   "bbox": [
+    958,
+    575,
+    1022,
+    587
+   ]
+  },
+  {
+   "text": "1 937 461",
+   "bbox": [
+    1052,
+    575,
+    1130,
+    587
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    110,
+    574,
+    205,
+    587
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    653,
+    628,
+    800,
+    645
+   ]
+  },
+  {
+   "text": "1 528 200 Ft",
+   "bbox": [
+    1012,
+    630,
+    1130,
+    645
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    670,
+    662,
+    800,
+    681
+   ]
+  },
+  {
+   "text": "412 614 Ft",
+   "bbox": [
+    1029,
+    666,
+    1130,
+    681
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    632,
+    701,
+    800,
+    721
+   ]
+  },
+  {
+   "text": "1 940 814 Ft",
+   "bbox": [
+    1012,
+    702,
+    1130,
+    717
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 96723234-51842715-15913532",
+   "bbox": [
+    110,
+    767,
+    540,
+    781
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    497,
+    1627,
+    742,
+    1642
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

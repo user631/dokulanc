@@ -1,0 +1,347 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALOGH CSEMEGE KFT.",
+  "uzlet_cim": "H-3559 Haraszti, Mosonhídi utca 52.",
+  "adoszam": "40703783-2-07",
+  "datum": "2026.04.04.",
+  "ido": "11:12",
+  "nyugtaszam": "2585/06735",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 716 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "725"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1142"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "87"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "608"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2177"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2016"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "153"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "814"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "994"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH CSEMEGE KFT.",
+   "bbox": [
+    153,
+    33,
+    381,
+    47
+   ]
+  },
+  {
+   "text": "H-3559 Haraszti, Mosonhídi utca 52.",
+   "bbox": [
+    92,
+    63,
+    442,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 40703783-2-07",
+   "bbox": [
+    157,
+    86,
+    377,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    228,
+    127,
+    307,
+    142
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    168,
+    112,
+    181
+   ]
+  },
+  {
+   "text": "725 A00",
+   "bbox": [
+    434,
+    168,
+    511,
+    181
+   ]
+  },
+  {
+   "text": "2 DB x 571",
+   "bbox": [
+    24,
+    196,
+    114,
+    207
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    218,
+    112,
+    231
+   ]
+  },
+  {
+   "text": "1142 C00",
+   "bbox": [
+    423,
+    218,
+    511,
+    231
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    246,
+    90,
+    259
+   ]
+  },
+  {
+   "text": "87 C00",
+   "bbox": [
+    445,
+    246,
+    511,
+    259
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    274,
+    145,
+    287
+   ]
+  },
+  {
+   "text": "608 A00",
+   "bbox": [
+    434,
+    274,
+    511,
+    287
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    302,
+    233,
+    315
+   ]
+  },
+  {
+   "text": "2177 A00",
+   "bbox": [
+    423,
+    302,
+    511,
+    315
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    330,
+    123,
+    343
+   ]
+  },
+  {
+   "text": "2016 C00",
+   "bbox": [
+    423,
+    330,
+    511,
+    343
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    358,
+    178,
+    374
+   ]
+  },
+  {
+   "text": "153 C00",
+   "bbox": [
+    434,
+    358,
+    511,
+    371
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    386,
+    189,
+    399
+   ]
+  },
+  {
+   "text": "814 B00",
+   "bbox": [
+    434,
+    386,
+    511,
+    399
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    414,
+    167,
+    427
+   ]
+  },
+  {
+   "text": "994 B00",
+   "bbox": [
+    434,
+    414,
+    511,
+    427
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    450,
+    154,
+    470
+   ]
+  },
+  {
+   "text": "8 716 Ft",
+   "bbox": [
+    407,
+    454,
+    511,
+    470
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    488,
+    134,
+    505
+   ]
+  },
+  {
+   "text": "8 716 Ft",
+   "bbox": [
+    423,
+    492,
+    511,
+    505
+   ]
+  },
+  {
+   "text": "2026.04.04.",
+   "bbox": [
+    24,
+    535,
+    134,
+    546
+   ]
+  },
+  {
+   "text": "11:12",
+   "bbox": [
+    461,
+    535,
+    511,
+    546
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2585/06735",
+   "bbox": [
+    24,
+    560,
+    244,
+    576
+   ]
+  },
+  {
+   "text": "AP A79684841",
+   "bbox": [
+    24,
+    591,
+    144,
+    602
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    217,
+    627,
+    317,
+    643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  535,
+  688
+ ]
+}

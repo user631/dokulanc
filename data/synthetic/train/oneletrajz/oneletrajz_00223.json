@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Lakatos Attila",
+  "email": "lakatos.attila@citromail.hu",
+  "telefon": "+36 30 491 3147",
+  "lakcim": "H-8964 Felsőligetbánya, Dózsa györgy tér 159.",
+  "szuletesi_datum": "1987.10.28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hegedűs Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2017 – 2019"
+   },
+   {
+    "ceg": "Horváth Logisztika Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "ceg": "Hegedűs Trade Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2011 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "csapatmunka",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    90,
+    222,
+    113
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    139,
+    101,
+    154
+   ]
+  },
+  {
+   "text": "lakatos.attila@citromail.hu",
+   "bbox": [
+    40,
+    163,
+    273,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    111,
+    212
+   ]
+  },
+  {
+   "text": "+36 30 491 3147",
+   "bbox": [
+    40,
+    221,
+    191,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    255,
+    109,
+    270
+   ]
+  },
+  {
+   "text": "H-8964 Felsőligetbánya, Dózsa",
+   "bbox": [
+    40,
+    279,
+    317,
+    298
+   ]
+  },
+  {
+   "text": "györgy tér 159.",
+   "bbox": [
+    40,
+    303,
+    175,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    337,
+    193,
+    352
+   ]
+  },
+  {
+   "text": "1987.10.28.",
+   "bbox": [
+    40,
+    361,
+    146,
+    376
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    202,
+    443
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    466,
+    151,
+    485
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    494,
+    139,
+    513
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    546,
+    189,
+    569
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    592,
+    86,
+    607
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    620,
+    169,
+    639
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    648,
+    152,
+    667
+   ]
+  },
+  {
+   "text": "Lakatos Attila",
+   "bbox": [
+    450,
+    100,
+    753,
+    133
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    170,
+    641,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    234,
+    692,
+    258
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    450,
+    285,
+    570,
+    301
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Hegedűs Zrt.",
+   "bbox": [
+    448,
+    311,
+    778,
+    333
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    353,
+    570,
+    369
+   ]
+  },
+  {
+   "text": "rendszergazda – Horváth Logisztika Kft.",
+   "bbox": [
+    450,
+    379,
+    890,
+    401
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    421,
+    570,
+    437
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Hegedűs Trade Zrt.",
+   "bbox": [
+    448,
+    447,
+    847,
+    469
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    500,
+    617,
+    524
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    450,
+    551,
+    570,
+    567
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    577,
+    664,
+    599
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    603,
+    711,
+    623
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    645,
+    570,
+    661
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    671,
+    787,
+    693
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    697,
+    533,
+    717
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

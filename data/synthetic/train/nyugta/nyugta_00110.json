@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PAPP CSEMEGE KFT.",
+  "uzlet_cim": "H-3696 Györgyfalva, József attila út 24.",
+  "adoszam": "77744746-2-11",
+  "datum": "2025.03.06.",
+  "ido": "18:11",
+  "nyugtaszam": "4786/81563",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 639 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "640"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "151"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "848"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP CSEMEGE KFT.",
+   "bbox": [
+    143,
+    33,
+    381,
+    49
+   ]
+  },
+  {
+   "text": "H-3696 Györgyfalva, József attila út",
+   "bbox": [
+    46,
+    66,
+    478,
+    85
+   ]
+  },
+  {
+   "text": "24.",
+   "bbox": [
+    244,
+    95,
+    280,
+    108
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77744746-2-11",
+   "bbox": [
+    130,
+    118,
+    394,
+    135
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    217,
+    164,
+    307,
+    181
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    208,
+    128,
+    223
+   ]
+  },
+  {
+   "text": "640 A00",
+   "bbox": [
+    409,
+    208,
+    500,
+    223
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    239,
+    206,
+    258
+   ]
+  },
+  {
+   "text": "151 C00",
+   "bbox": [
+    409,
+    239,
+    500,
+    254
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    270,
+    128,
+    285
+   ]
+  },
+  {
+   "text": "848 A00",
+   "bbox": [
+    409,
+    270,
+    500,
+    285
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    309,
+    174,
+    331
+   ]
+  },
+  {
+   "text": "1 639 Ft",
+   "bbox": [
+    380,
+    314,
+    500,
+    331
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    349,
+    167,
+    369
+   ]
+  },
+  {
+   "text": "1 639 Ft",
+   "bbox": [
+    396,
+    354,
+    500,
+    369
+   ]
+  },
+  {
+   "text": "2025.03.06.",
+   "bbox": [
+    24,
+    399,
+    156,
+    412
+   ]
+  },
+  {
+   "text": "18:11",
+   "bbox": [
+    440,
+    399,
+    500,
+    412
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4786/81563",
+   "bbox": [
+    24,
+    426,
+    288,
+    445
+   ]
+  },
+  {
+   "text": "AP A20499815",
+   "bbox": [
+    24,
+    461,
+    168,
+    474
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    130,
+    499,
+    394,
+    518
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  524,
+  564
+ ]
+}

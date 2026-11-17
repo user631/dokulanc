@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Kiss Gábor",
+  "anyja_neve": "Jónás Gábor",
+  "szuletesi_hely": "Tamásifalva",
+  "szuletesi_datum": "1995.03.27.",
+  "lakcim": "H-9682 Szerbgyörgyharaszti, Béke utca 130.",
+  "telefon": "+36 30 728 2200",
+  "email": "kiss.gabor@gmail.com",
+  "adoazonosito_jel": "8468368201",
+  "taj_szam": "881 950 506",
+  "kelt": "Györgyváros, 2025.12.29."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    520,
+    108,
+    720,
+    136
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    434,
+    156,
+    805,
+    175
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    210,
+    373,
+    235
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    266,
+    160,
+    283
+   ]
+  },
+  {
+   "text": "Kiss Gábor",
+   "bbox": [
+    402,
+    260,
+    520,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    321,
+    236,
+    341
+   ]
+  },
+  {
+   "text": "Jónás Gábor",
+   "bbox": [
+    401,
+    314,
+    541,
+    339
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    374,
+    265,
+    395
+   ]
+  },
+  {
+   "text": "Tamásifalva",
+   "bbox": [
+    401,
+    373,
+    542,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    428,
+    253,
+    445
+   ]
+  },
+  {
+   "text": "1995.03.27.",
+   "bbox": [
+    401,
+    425,
+    543,
+    447
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    482,
+    193,
+    499
+   ]
+  },
+  {
+   "text": "H-9682 Szerbgyörgyharaszti, Béke utca 130.",
+   "bbox": [
+    401,
+    478,
+    914,
+    509
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    536,
+    252,
+    553
+   ]
+  },
+  {
+   "text": "+36 30 728 2200",
+   "bbox": [
+    402,
+    534,
+    619,
+    556
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    590,
+    231,
+    607
+   ]
+  },
+  {
+   "text": "kiss.gabor@gmail.com",
+   "bbox": [
+    402,
+    585,
+    640,
+    613
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    644,
+    293,
+    665
+   ]
+  },
+  {
+   "text": "8468368201",
+   "bbox": [
+    402,
+    641,
+    568,
+    663
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    698,
+    218,
+    715
+   ]
+  },
+  {
+   "text": "881 950 506",
+   "bbox": [
+    402,
+    699,
+    553,
+    720
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    779,
+    315,
+    803
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    823,
+    516,
+    844
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    868,
+    318,
+    885
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    913,
+    536,
+    934
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    1018,
+    150,
+    1035
+   ]
+  },
+  {
+   "text": "Györgyváros, 2025.12.29.",
+   "bbox": [
+    187,
+    1012,
+    465,
+    1039
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    923,
+    1067,
+    983,
+    1081
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

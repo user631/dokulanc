@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ABC KFT.",
+  "uzlet_cim": "H-3124 Tótnémeti, Felsőmelléki utca 241.",
+  "adoszam": "45509900-4-11",
+  "datum": "2024.02.02.",
+  "ido": "21:36",
+  "nyugtaszam": "1773/29674",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "1 435 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1001"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "434"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ABC KFT.",
+   "bbox": [
+    206,
+    31,
+    401,
+    49
+   ]
+  },
+  {
+   "text": "H-3124 Tótnémeti, Felsőmelléki utca 241.",
+   "bbox": [
+    84,
+    65,
+    524,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 45509900-4-11",
+   "bbox": [
+    183,
+    87,
+    425,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    130,
+    347,
+    144
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    170,
+    120,
+    183
+   ]
+  },
+  {
+   "text": "1001 A00",
+   "bbox": [
+    488,
+    170,
+    584,
+    183
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    198,
+    156,
+    214
+   ]
+  },
+  {
+   "text": "434 C00",
+   "bbox": [
+    500,
+    198,
+    584,
+    211
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    234,
+    164,
+    254
+   ]
+  },
+  {
+   "text": "1 435 Ft",
+   "bbox": [
+    472,
+    239,
+    585,
+    254
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    273,
+    120,
+    289
+   ]
+  },
+  {
+   "text": "1 435 Ft",
+   "bbox": [
+    488,
+    276,
+    584,
+    289
+   ]
+  },
+  {
+   "text": "2024.02.02.",
+   "bbox": [
+    24,
+    318,
+    145,
+    329
+   ]
+  },
+  {
+   "text": "21:36",
+   "bbox": [
+    529,
+    318,
+    584,
+    329
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1773/29674",
+   "bbox": [
+    24,
+    343,
+    266,
+    358
+   ]
+  },
+  {
+   "text": "AP A22959227",
+   "bbox": [
+    24,
+    374,
+    156,
+    385
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    220,
+    411,
+    386,
+    426
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  608,
+  470
+ ]
+}

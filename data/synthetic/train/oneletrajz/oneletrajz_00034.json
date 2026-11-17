@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Virág Éva",
+  "email": "virag.eva@example.hu",
+  "telefon": "+36 70 628 7475",
+  "lakcim": "H-9629 Törökfürdőkövesd, József attila út 237.",
+  "szuletesi_datum": "1987.02.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Consulting Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2009 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "JavaScript",
+   "Python",
+   "SQL",
+   "ügyfélkezelés",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    207,
+    130
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    101,
+    167
+   ]
+  },
+  {
+   "text": "virag.eva@example.hu",
+   "bbox": [
+    40,
+    175,
+    237,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    111,
+    219
+   ]
+  },
+  {
+   "text": "+36 70 628 7475",
+   "bbox": [
+    40,
+    228,
+    193,
+    240
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    107,
+    271
+   ]
+  },
+  {
+   "text": "H-9629 Törökfürdőkövesd, József attila",
+   "bbox": [
+    40,
+    278,
+    377,
+    295
+   ]
+  },
+  {
+   "text": "út 237.",
+   "bbox": [
+    40,
+    299,
+    103,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    330,
+    193,
+    344
+   ]
+  },
+  {
+   "text": "1987.02.08.",
+   "bbox": [
+    40,
+    353,
+    146,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    195,
+    430
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    450,
+    134,
+    468
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    501,
+    177,
+    522
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    543,
+    88,
+    556
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    568,
+    133,
+    585
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    592,
+    102,
+    610
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    618,
+    77,
+    634
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    642,
+    162,
+    660
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    668,
+    81,
+    681
+   ]
+  },
+  {
+   "text": "Virág Éva",
+   "bbox": [
+    450,
+    109,
+    679,
+    161
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    184,
+    672,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    246,
+    707,
+    269
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    450,
+    295,
+    572,
+    309
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy Consulting Zrt.",
+   "bbox": [
+    450,
+    316,
+    944,
+    337
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    367,
+    623,
+    390
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    416,
+    572,
+    430
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    438,
+    667,
+    458
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    461,
+    703,
+    480
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    501,
+    572,
+    515
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    522,
+    734,
+    539
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    546,
+    693,
+    565
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

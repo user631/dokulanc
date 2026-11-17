@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Major Tamás",
+  "anyja_neve": "Juhász József",
+  "szuletesi_hely": "Tamásiváros",
+  "szuletesi_datum": "2000.09.06.",
+  "lakcim": "H-5075 Nyéktótváros, Ady endre tér 222.",
+  "telefon": "+36 70 299 3244",
+  "email": "major.tamas@example.hu",
+  "adoazonosito_jel": "8488268440",
+  "taj_szam": "049 663 446",
+  "kelt": "Békéscsaba, 2024.07.03."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    362,
+    84,
+    880,
+    116
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    477,
+    137,
+    763,
+    153
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    189,
+    283,
+    209
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    242,
+    132,
+    256
+   ]
+  },
+  {
+   "text": "Major Tamás",
+   "bbox": [
+    413,
+    239,
+    532,
+    259
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    294,
+    192,
+    311
+   ]
+  },
+  {
+   "text": "Juhász József",
+   "bbox": [
+    413,
+    295,
+    540,
+    311
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    344,
+    213,
+    362
+   ]
+  },
+  {
+   "text": "Tamásiváros",
+   "bbox": [
+    413,
+    346,
+    528,
+    362
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    395,
+    204,
+    409
+   ]
+  },
+  {
+   "text": "2000.09.06.",
+   "bbox": [
+    413,
+    392,
+    525,
+    407
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    446,
+    158,
+    460
+   ]
+  },
+  {
+   "text": "H-5075 Nyéktótváros, Ady endre tér 222.",
+   "bbox": [
+    413,
+    447,
+    793,
+    467
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    497,
+    204,
+    511
+   ]
+  },
+  {
+   "text": "+36 70 299 3244",
+   "bbox": [
+    413,
+    497,
+    563,
+    512
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    548,
+    187,
+    562
+   ]
+  },
+  {
+   "text": "major.tamas@example.hu",
+   "bbox": [
+    413,
+    546,
+    657,
+    565
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    599,
+    237,
+    617
+   ]
+  },
+  {
+   "text": "8488268440",
+   "bbox": [
+    413,
+    602,
+    523,
+    617
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    650,
+    177,
+    664
+   ]
+  },
+  {
+   "text": "049 663 446",
+   "bbox": [
+    413,
+    647,
+    524,
+    662
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    727,
+    243,
+    747
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    771,
+    414,
+    789
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    816,
+    265,
+    830
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    861,
+    424,
+    879
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    963,
+    125,
+    977
+   ]
+  },
+  {
+   "text": "Békéscsaba, 2024.07.03.",
+   "bbox": [
+    173,
+    959,
+    406,
+    979
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1013,
+    989,
+    1024
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

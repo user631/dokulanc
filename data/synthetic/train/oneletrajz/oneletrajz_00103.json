@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Simon András",
+  "email": "simon.andras@freemail.hu",
+  "telefon": "06 1 791 9302",
+  "lakcim": "H-6024 Keresztváros, Keresztkövesdi utca 145.",
+  "szuletesi_datum": "2001. szeptember 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2019 – 2024"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Kovács Logisztika Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Sándor Consulting Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2023 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "projektmenedzsment",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    198,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    152,
+    91,
+    164
+   ]
+  },
+  {
+   "text": "simon.andras@freemail.hu",
+   "bbox": [
+    40,
+    173,
+    241,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    204,
+    99,
+    216
+   ]
+  },
+  {
+   "text": "06 1 791 9302",
+   "bbox": [
+    40,
+    225,
+    145,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    97,
+    268
+   ]
+  },
+  {
+   "text": "H-6024 Keresztváros, Keresztkövesdi utca",
+   "bbox": [
+    40,
+    276,
+    362,
+    292
+   ]
+  },
+  {
+   "text": "145.",
+   "bbox": [
+    40,
+    298,
+    72,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    329,
+    168,
+    341
+   ]
+  },
+  {
+   "text": "2001. szeptember 5.",
+   "bbox": [
+    40,
+    349,
+    193,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    408,
+    182,
+    427
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    448,
+    124,
+    465
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    473,
+    141,
+    490
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    525,
+    170,
+    544
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    565,
+    63,
+    578
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    590,
+    207,
+    607
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    615,
+    84,
+    628
+   ]
+  },
+  {
+   "text": "Simon András",
+   "bbox": [
+    450,
+    115,
+    741,
+    146
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    182,
+    646,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    669,
+    265
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    450,
+    292,
+    582,
+    310
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Takács Consulting Kft.",
+   "bbox": [
+    450,
+    315,
+    848,
+    334
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    354,
+    582,
+    372
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Kovács Logisztika Kft.",
+   "bbox": [
+    450,
+    377,
+    845,
+    396
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    450,
+    416,
+    582,
+    434
+   ]
+  },
+  {
+   "text": "irodavezető – Sándor Consulting Zrt.",
+   "bbox": [
+    450,
+    439,
+    801,
+    458
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    488,
+    598,
+    510
+   ]
+  },
+  {
+   "text": "2019 – 2024",
+   "bbox": [
+    450,
+    537,
+    559,
+    551
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    560,
+    689,
+    579
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    449,
+    583,
+    507,
+    601
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    622,
+    559,
+    636
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    645,
+    684,
+    664
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    668,
+    669,
+    686
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

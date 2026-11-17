@@ -1,0 +1,405 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SIMON CSEMEGE BT.",
+  "uzlet_cim": "H-7971 Györgyfa, Mindszentfai utca 70.",
+  "adoszam": "61037261-5-39",
+  "datum": "2025.04.08.",
+  "ido": "08:26",
+  "nyugtaszam": "8391/51460",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 287 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2558"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1496"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1200"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2659"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "198"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "205"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "914"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1428"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "937"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "692"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON CSEMEGE BT.",
+   "bbox": [
+    177,
+    33,
+    415,
+    50
+   ]
+  },
+  {
+   "text": "H-7971 Györgyfa, Mindszentfai utca 70.",
+   "bbox": [
+    68,
+    67,
+    524,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 61037261-5-39",
+   "bbox": [
+    164,
+    92,
+    428,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    139,
+    342,
+    157
+   ]
+  },
+  {
+   "text": "2 DB x 1279",
+   "bbox": [
+    24,
+    185,
+    156,
+    198
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    211,
+    180,
+    226
+   ]
+  },
+  {
+   "text": "2558 C00",
+   "bbox": [
+    464,
+    211,
+    568,
+    226
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    243,
+    193,
+    258
+   ]
+  },
+  {
+   "text": "1496 A00",
+   "bbox": [
+    464,
+    243,
+    568,
+    258
+   ]
+  },
+  {
+   "text": "3 DB x 400",
+   "bbox": [
+    24,
+    275,
+    144,
+    288
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    299,
+    167,
+    320
+   ]
+  },
+  {
+   "text": "1200 C00",
+   "bbox": [
+    464,
+    301,
+    568,
+    316
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    333,
+    271,
+    348
+   ]
+  },
+  {
+   "text": "2659 B00",
+   "bbox": [
+    464,
+    333,
+    568,
+    348
+   ]
+  },
+  {
+   "text": "2 DB x 99",
+   "bbox": [
+    24,
+    365,
+    132,
+    378
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    391,
+    102,
+    406
+   ]
+  },
+  {
+   "text": "198 A00",
+   "bbox": [
+    477,
+    391,
+    568,
+    406
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    423,
+    206,
+    442
+   ]
+  },
+  {
+   "text": "205 C00",
+   "bbox": [
+    477,
+    423,
+    568,
+    438
+   ]
+  },
+  {
+   "text": "2 DB x 457",
+   "bbox": [
+    24,
+    455,
+    144,
+    468
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    481,
+    167,
+    496
+   ]
+  },
+  {
+   "text": "914 C00",
+   "bbox": [
+    477,
+    481,
+    568,
+    496
+   ]
+  },
+  {
+   "text": "2 DB x 714",
+   "bbox": [
+    24,
+    513,
+    144,
+    526
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    539,
+    128,
+    554
+   ]
+  },
+  {
+   "text": "1428 A00",
+   "bbox": [
+    464,
+    539,
+    568,
+    554
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    571,
+    128,
+    586
+   ]
+  },
+  {
+   "text": "937 A00",
+   "bbox": [
+    477,
+    571,
+    568,
+    586
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    603,
+    128,
+    618
+   ]
+  },
+  {
+   "text": "692 A00",
+   "bbox": [
+    477,
+    603,
+    568,
+    618
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    642,
+    159,
+    665
+   ]
+  },
+  {
+   "text": "12 287 Ft",
+   "bbox": [
+    433,
+    647,
+    568,
+    665
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    684,
+    155,
+    704
+   ]
+  },
+  {
+   "text": "12 287 Ft",
+   "bbox": [
+    451,
+    688,
+    568,
+    704
+   ]
+  },
+  {
+   "text": "2025.04.08.",
+   "bbox": [
+    24,
+    735,
+    156,
+    749
+   ]
+  },
+  {
+   "text": "08:26",
+   "bbox": [
+    508,
+    735,
+    568,
+    749
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8391/51460",
+   "bbox": [
+    24,
+    762,
+    288,
+    783
+   ]
+  },
+  {
+   "text": "AP A19437009",
+   "bbox": [
+    24,
+    799,
+    168,
+    813
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    198,
+    838,
+    393,
+    858
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  592,
+  904
+ ]
+}

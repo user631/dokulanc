@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Váradi Erika",
+  "email": "varadi.erika@citromail.hu",
+  "telefon": "+36 30 833 5999",
+  "lakcim": "H-4998 Nagyszékharaszti, Kossuth utca 215.",
+  "szuletesi_datum": "1985.06.17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2005 – 2008"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Székely Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "ceg": "Németh Trade Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2012 – 2014"
+   },
+   {
+    "ceg": "Lakatos Consulting Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2009 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "Git",
+   "Excel",
+   "Java",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Váradi Erika",
+   "bbox": [
+    498,
+    83,
+    742,
+    118
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    154,
+    676,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    156,
+    228
+   ]
+  },
+  {
+   "text": "varadi.erika@citromail.hu",
+   "bbox": [
+    330,
+    212,
+    571,
+    231
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    245,
+    168,
+    261
+   ]
+  },
+  {
+   "text": "+36 30 833 5999",
+   "bbox": [
+    330,
+    246,
+    488,
+    261
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    163,
+    294
+   ]
+  },
+  {
+   "text": "H-4998 Nagyszékharaszti, Kossuth utca 215.",
+   "bbox": [
+    330,
+    277,
+    741,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    248,
+    327
+   ]
+  },
+  {
+   "text": "1985.06.17.",
+   "bbox": [
+    330,
+    312,
+    444,
+    327
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    310,
+    388
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    418,
+    207,
+    433
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Székely Bt.",
+   "bbox": [
+    90,
+    444,
+    384,
+    464
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    488,
+    207,
+    503
+   ]
+  },
+  {
+   "text": "értékesítő – Németh Trade Kft.",
+   "bbox": [
+    90,
+    514,
+    398,
+    530
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    90,
+    558,
+    207,
+    573
+   ]
+  },
+  {
+   "text": "irodavezető – Lakatos Consulting Bt.",
+   "bbox": [
+    90,
+    584,
+    451,
+    604
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    637,
+    241,
+    661
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    90,
+    691,
+    207,
+    706
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    717,
+    430,
+    737
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    744,
+    240,
+    760
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    788,
+    207,
+    803
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    814,
+    346,
+    830
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    841,
+    272,
+    861
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    894,
+    216,
+    918
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    947,
+    185,
+    967
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    996,
+    206,
+    1020
+   ]
+  },
+  {
+   "text": "JavaScript, Git, Excel, Java, C#",
+   "bbox": [
+    90,
+    1049,
+    365,
+    1069
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

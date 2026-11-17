@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "MOLNÁR CSEMEGE BT.",
+  "uzlet_cim": "H-7584 Békéstamásivárad, Hetvenapátii utca 165.",
+  "adoszam": "21153426-2-34",
+  "datum": "2024.11.02.",
+  "ido": "10:31",
+  "nyugtaszam": "3848/87861",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "2 512 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "299"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2213"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR CSEMEGE BT.",
+   "bbox": [
+    182,
+    30,
+    453,
+    51
+   ]
+  },
+  {
+   "text": "H-7584 Békéstamásivárad, Hetvenapátii utca",
+   "bbox": [
+    45,
+    70,
+    591,
+    87
+   ]
+  },
+  {
+   "text": "165.",
+   "bbox": [
+    292,
+    97,
+    344,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 21153426-2-34",
+   "bbox": [
+    175,
+    121,
+    461,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    167,
+    367,
+    183
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    212,
+    220,
+    225
+   ]
+  },
+  {
+   "text": "299 C00",
+   "bbox": [
+    514,
+    211,
+    612,
+    225
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    242,
+    290,
+    256
+   ]
+  },
+  {
+   "text": "2213 B00",
+   "bbox": [
+    500,
+    242,
+    612,
+    256
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    280,
+    184,
+    302
+   ]
+  },
+  {
+   "text": "2 512 Ft",
+   "bbox": [
+    484,
+    285,
+    612,
+    302
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    323,
+    136,
+    340
+   ]
+  },
+  {
+   "text": "2 512 Ft",
+   "bbox": [
+    500,
+    326,
+    612,
+    340
+   ]
+  },
+  {
+   "text": "2024.11.02.",
+   "bbox": [
+    24,
+    370,
+    167,
+    383
+   ]
+  },
+  {
+   "text": "10:31",
+   "bbox": [
+    547,
+    370,
+    612,
+    383
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3848/87861",
+   "bbox": [
+    24,
+    398,
+    310,
+    416
+   ]
+  },
+  {
+   "text": "AP A56520256",
+   "bbox": [
+    24,
+    432,
+    180,
+    445
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    253,
+    473,
+    383,
+    489
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  636,
+  533
+ ]
+}

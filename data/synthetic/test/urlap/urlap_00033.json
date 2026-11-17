@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Varga Zsolt",
+  "anyja_neve": "Nagy József",
+  "szuletesi_hely": "Dunagyörgyapáti",
+  "szuletesi_datum": "1967.12.14.",
+  "lakcim": "H-4925 Magyarhetvenapáti, Székfalvai utca 79.",
+  "telefon": "06 1 602 7703",
+  "email": "varga.zsolt@example.hu",
+  "adoazonosito_jel": "8368718368",
+  "taj_szam": "863 049 622",
+  "kelt": "Háthida, 2025.02.20."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    375,
+    86,
+    866,
+    115
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    500,
+    140,
+    739,
+    154
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    192,
+    265,
+    210
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    247,
+    134,
+    259
+   ]
+  },
+  {
+   "text": "Varga Zsolt",
+   "bbox": [
+    393,
+    242,
+    512,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    298,
+    184,
+    313
+   ]
+  },
+  {
+   "text": "Nagy József",
+   "bbox": [
+    393,
+    295,
+    517,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    349,
+    202,
+    364
+   ]
+  },
+  {
+   "text": "Dunagyörgyapáti",
+   "bbox": [
+    392,
+    348,
+    563,
+    372
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    400,
+    195,
+    412
+   ]
+  },
+  {
+   "text": "1967.12.14.",
+   "bbox": [
+    392,
+    399,
+    511,
+    417
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    451,
+    156,
+    463
+   ]
+  },
+  {
+   "text": "H-4925 Magyarhetvenapáti, Székfalvai utca 79.",
+   "bbox": [
+    392,
+    448,
+    886,
+    475
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    502,
+    198,
+    514
+   ]
+  },
+  {
+   "text": "06 1 602 7703",
+   "bbox": [
+    393,
+    504,
+    549,
+    522
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    553,
+    181,
+    565
+   ]
+  },
+  {
+   "text": "varga.zsolt@example.hu",
+   "bbox": [
+    393,
+    553,
+    636,
+    577
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    604,
+    227,
+    619
+   ]
+  },
+  {
+   "text": "8368718368",
+   "bbox": [
+    393,
+    601,
+    540,
+    619
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    655,
+    171,
+    667
+   ]
+  },
+  {
+   "text": "863 049 622",
+   "bbox": [
+    393,
+    657,
+    542,
+    675
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    730,
+    228,
+    748
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    776,
+    387,
+    791
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    821,
+    252,
+    833
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    866,
+    401,
+    881
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    966,
+    122,
+    979
+   ]
+  },
+  {
+   "text": "Háthida, 2025.02.20.",
+   "bbox": [
+    177,
+    963,
+    376,
+    983
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1016,
+    981,
+    1026
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

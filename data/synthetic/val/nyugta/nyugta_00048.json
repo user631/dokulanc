@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TAMÁS MARKET BT.",
+  "uzlet_cim": "H-5409 Némethídvár, Szentmelléki utca 186.",
+  "adoszam": "24646589-2-13",
+  "datum": "2024.09.03.",
+  "ido": "11:22",
+  "nyugtaszam": "4376/46443",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 497 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "492"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "364"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1520"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1206"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2280"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "543"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1166"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2814"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "745"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "842"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "525"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAMÁS MARKET BT.",
+   "bbox": [
+    173,
+    28,
+    381,
+    48
+   ]
+  },
+  {
+   "text": "H-5409 Némethídvár, Szentmelléki utca 186.",
+   "bbox": [
+    67,
+    65,
+    487,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 24646589-2-13",
+   "bbox": [
+    167,
+    88,
+    387,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    235,
+    130,
+    319,
+    146
+   ]
+  },
+  {
+   "text": "2 DB x 246",
+   "bbox": [
+    24,
+    173,
+    124,
+    184
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    196,
+    192,
+    213
+   ]
+  },
+  {
+   "text": "492 C00",
+   "bbox": [
+    446,
+    196,
+    530,
+    209
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    225,
+    192,
+    238
+   ]
+  },
+  {
+   "text": "364 B00",
+   "bbox": [
+    446,
+    225,
+    530,
+    238
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    254,
+    144,
+    267
+   ]
+  },
+  {
+   "text": "1520 A00",
+   "bbox": [
+    434,
+    254,
+    530,
+    267
+   ]
+  },
+  {
+   "text": "2 DB x 603",
+   "bbox": [
+    24,
+    283,
+    124,
+    294
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    306,
+    120,
+    319
+   ]
+  },
+  {
+   "text": "1206 B00",
+   "bbox": [
+    434,
+    306,
+    530,
+    319
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    335,
+    132,
+    348
+   ]
+  },
+  {
+   "text": "2280 A00",
+   "bbox": [
+    434,
+    335,
+    530,
+    348
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    364,
+    132,
+    377
+   ]
+  },
+  {
+   "text": "543 A00",
+   "bbox": [
+    446,
+    364,
+    530,
+    377
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    393,
+    144,
+    406
+   ]
+  },
+  {
+   "text": "1166 A00",
+   "bbox": [
+    434,
+    393,
+    530,
+    406
+   ]
+  },
+  {
+   "text": "3 DB x 938",
+   "bbox": [
+    24,
+    422,
+    124,
+    433
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    445,
+    204,
+    458
+   ]
+  },
+  {
+   "text": "2814 B00",
+   "bbox": [
+    434,
+    445,
+    530,
+    458
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    474,
+    120,
+    487
+   ]
+  },
+  {
+   "text": "745 B00",
+   "bbox": [
+    446,
+    474,
+    530,
+    487
+   ]
+  },
+  {
+   "text": "2 DB x 421",
+   "bbox": [
+    24,
+    503,
+    124,
+    514
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    526,
+    192,
+    539
+   ]
+  },
+  {
+   "text": "842 C00",
+   "bbox": [
+    446,
+    526,
+    530,
+    539
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    555,
+    192,
+    568
+   ]
+  },
+  {
+   "text": "525 C00",
+   "bbox": [
+    446,
+    555,
+    530,
+    568
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    592,
+    150,
+    612
+   ]
+  },
+  {
+   "text": "12 497 Ft",
+   "bbox": [
+    404,
+    596,
+    530,
+    612
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    631,
+    144,
+    648
+   ]
+  },
+  {
+   "text": "12 497 Ft",
+   "bbox": [
+    422,
+    635,
+    530,
+    648
+   ]
+  },
+  {
+   "text": "2024.09.03.",
+   "bbox": [
+    24,
+    678,
+    134,
+    690
+   ]
+  },
+  {
+   "text": "11:22",
+   "bbox": [
+    480,
+    678,
+    530,
+    690
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4376/46443",
+   "bbox": [
+    24,
+    704,
+    244,
+    721
+   ]
+  },
+  {
+   "text": "AP A60176493",
+   "bbox": [
+    24,
+    736,
+    144,
+    748
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    156,
+    772,
+    398,
+    789
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  554,
+  835
+ ]
+}

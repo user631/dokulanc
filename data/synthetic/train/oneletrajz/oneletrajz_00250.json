@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Németh Erzsébet",
+  "email": "nemeth.erzsebet@gmail.com",
+  "telefon": "+36 20 810 3583",
+  "lakcim": "H-6122 Tótvárad, Ady endre utca 81.",
+  "szuletesi_datum": "1993.11.13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga és Társa Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "ceg": "Varga Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "SQL",
+   "prezentáció",
+   "ügyfélkezelés",
+   "Python",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Németh Erzsébet",
+   "bbox": [
+    431,
+    99,
+    809,
+    134
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    163,
+    680,
+    191
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    219,
+    159,
+    235
+   ]
+  },
+  {
+   "text": "nemeth.erzsebet@gmail.com",
+   "bbox": [
+    330,
+    220,
+    600,
+    239
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    173,
+    266
+   ]
+  },
+  {
+   "text": "+36 20 810 3583",
+   "bbox": [
+    330,
+    251,
+    480,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    168,
+    297
+   ]
+  },
+  {
+   "text": "H-6122 Tótvárad, Ady endre utca 81.",
+   "bbox": [
+    330,
+    281,
+    674,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    312,
+    252,
+    328
+   ]
+  },
+  {
+   "text": "1993.11.13.",
+   "bbox": [
+    330,
+    313,
+    442,
+    328
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    320,
+    388
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    415,
+    198,
+    430
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Varga és Társa Kft.",
+   "bbox": [
+    90,
+    439,
+    481,
+    461
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    481,
+    198,
+    496
+   ]
+  },
+  {
+   "text": "projektmenedzser – Varga Zrt.",
+   "bbox": [
+    90,
+    505,
+    405,
+    527
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    557,
+    245,
+    581
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    608,
+    198,
+    623
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    632,
+    619,
+    654
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    657,
+    273,
+    673
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    699,
+    198,
+    714
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    723,
+    396,
+    745
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    748,
+    330,
+    768
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    800,
+    218,
+    824
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    851,
+    185,
+    870
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    898,
+    209,
+    922
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, SQL, prezentáció, ügyfélkezelés, Python, Docker",
+   "bbox": [
+    90,
+    948,
+    785,
+    968
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

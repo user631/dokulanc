@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kiss Róbert",
+  "anyja_neve": "Kovács István",
+  "szuletesi_hely": "Hetvenkőrös",
+  "szuletesi_datum": "1959.07.21.",
+  "lakcim": "H-9743 Salgótarján, Váci utca 177.",
+  "telefon": "+36 70 162 6761",
+  "email": "kiss.robert@freemail.hu",
+  "adoazonosito_jel": "8338032824",
+  "taj_szam": "051 434 436",
+  "kelt": "Hódmezővásárhely, 2024.04.30."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    321,
+    115,
+    920,
+    150
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    468,
+    169,
+    772,
+    187
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    110,
+    224,
+    326,
+    246
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    122,
+    276,
+    161,
+    291
+   ]
+  },
+  {
+   "text": "Kiss Róbert",
+   "bbox": [
+    418,
+    270,
+    574,
+    292
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    122,
+    329,
+    221,
+    349
+   ]
+  },
+  {
+   "text": "Kovács István",
+   "bbox": [
+    418,
+    321,
+    598,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    122,
+    382,
+    243,
+    402
+   ]
+  },
+  {
+   "text": "Hetvenkőrös",
+   "bbox": [
+    418,
+    374,
+    581,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    122,
+    435,
+    236,
+    450
+   ]
+  },
+  {
+   "text": "1959.07.21.",
+   "bbox": [
+    418,
+    436,
+    580,
+    455
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    122,
+    488,
+    186,
+    503
+   ]
+  },
+  {
+   "text": "H-9743 Salgótarján, Váci utca 177.",
+   "bbox": [
+    418,
+    480,
+    901,
+    506
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    122,
+    541,
+    234,
+    556
+   ]
+  },
+  {
+   "text": "+36 70 162 6761",
+   "bbox": [
+    418,
+    536,
+    660,
+    555
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    122,
+    594,
+    217,
+    609
+   ]
+  },
+  {
+   "text": "kiss.robert@freemail.hu",
+   "bbox": [
+    418,
+    590,
+    736,
+    616
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    122,
+    647,
+    274,
+    667
+   ]
+  },
+  {
+   "text": "8338032824",
+   "bbox": [
+    418,
+    643,
+    598,
+    662
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    122,
+    700,
+    205,
+    715
+   ]
+  },
+  {
+   "text": "051 434 436",
+   "bbox": [
+    418,
+    700,
+    600,
+    718
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    110,
+    782,
+    287,
+    804
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    155,
+    824,
+    456,
+    844
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    155,
+    869,
+    294,
+    884
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    155,
+    914,
+    476,
+    934
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    110,
+    1019,
+    150,
+    1035
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2024.04.30.",
+   "bbox": [
+    200,
+    1015,
+    600,
+    1040
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    916,
+    1068,
+    964,
+    1081
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

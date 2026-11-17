@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Jónás Barnabás",
+  "anyja_neve": "Balázs Katalin",
+  "szuletesi_hely": "Falu",
+  "szuletesi_datum": "1961. 09. 03.",
+  "lakcim": "H-6207 Lajosmindszentvég, Székfalui út 45.",
+  "telefon": "+36 20 593 4268",
+  "email": "jonas.barnabas@example.hu",
+  "adoazonosito_jel": "8345783074",
+  "taj_szam": "510 774 770",
+  "kelt": "Tapolcabánya, 2025. 05. 06."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    536,
+    116,
+    705,
+    142
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    102,
+    216,
+    318,
+    238
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    114,
+    268,
+    153,
+    283
+   ]
+  },
+  {
+   "text": "Jónás Barnabás",
+   "bbox": [
+    397,
+    266,
+    599,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    321,
+    213,
+    341
+   ]
+  },
+  {
+   "text": "Balázs Katalin",
+   "bbox": [
+    398,
+    314,
+    579,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    114,
+    374,
+    235,
+    394
+   ]
+  },
+  {
+   "text": "Falu",
+   "bbox": [
+    398,
+    367,
+    450,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    114,
+    427,
+    228,
+    442
+   ]
+  },
+  {
+   "text": "1961. 09. 03.",
+   "bbox": [
+    398,
+    426,
+    580,
+    442
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    114,
+    480,
+    178,
+    495
+   ]
+  },
+  {
+   "text": "H-6207 Lajosmindszentvég, Székfalui út 45.",
+   "bbox": [
+    398,
+    474,
+    972,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    114,
+    533,
+    226,
+    548
+   ]
+  },
+  {
+   "text": "+36 20 593 4268",
+   "bbox": [
+    398,
+    532,
+    640,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    114,
+    586,
+    209,
+    601
+   ]
+  },
+  {
+   "text": "jonas.barnabas@example.hu",
+   "bbox": [
+    393,
+    580,
+    746,
+    609
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    639,
+    266,
+    659
+   ]
+  },
+  {
+   "text": "8345783074",
+   "bbox": [
+    398,
+    639,
+    578,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    114,
+    692,
+    197,
+    707
+   ]
+  },
+  {
+   "text": "510 774 770",
+   "bbox": [
+    398,
+    691,
+    580,
+    709
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    102,
+    774,
+    279,
+    796
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    147,
+    816,
+    448,
+    836
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    147,
+    861,
+    286,
+    876
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    906,
+    468,
+    926
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    102,
+    1011,
+    142,
+    1027
+   ]
+  },
+  {
+   "text": "Tapolcabánya, 2025. 05. 06.",
+   "bbox": [
+    192,
+    1010,
+    541,
+    1036
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    924,
+    1060,
+    972,
+    1073
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

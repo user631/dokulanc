@@ -1,0 +1,405 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET KFT.",
+  "uzlet_cim": "H-9195 Tamásihida, Magyargyörgyi utca 96.",
+  "adoszam": "78049635-3-06",
+  "datum": "2024.08.22.",
+  "ido": "20:41",
+  "nyugtaszam": "1777/79923",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 581 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "130"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1132"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "442"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "687"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "943"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2394"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2428"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "851"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "585"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "989"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET KFT.",
+   "bbox": [
+    142,
+    36,
+    383,
+    51
+   ]
+  },
+  {
+   "text": "H-9195 Tamásihida, Magyargyörgyi",
+   "bbox": [
+    55,
+    70,
+    471,
+    87
+   ]
+  },
+  {
+   "text": "utca 96.",
+   "bbox": [
+    211,
+    97,
+    315,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 78049635-3-06",
+   "bbox": [
+    120,
+    121,
+    406,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    214,
+    167,
+    312,
+    183
+   ]
+  },
+  {
+   "text": "2 DB x 65",
+   "bbox": [
+    24,
+    209,
+    132,
+    222
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    237,
+    108,
+    250
+   ]
+  },
+  {
+   "text": "130 C00",
+   "bbox": [
+    404,
+    236,
+    502,
+    250
+   ]
+  },
+  {
+   "text": "2 DB x 566",
+   "bbox": [
+    24,
+    265,
+    144,
+    278
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    293,
+    220,
+    306
+   ]
+  },
+  {
+   "text": "1132 A00",
+   "bbox": [
+    390,
+    292,
+    502,
+    306
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    323,
+    178,
+    340
+   ]
+  },
+  {
+   "text": "442 B00",
+   "bbox": [
+    404,
+    323,
+    502,
+    337
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    354,
+    178,
+    368
+   ]
+  },
+  {
+   "text": "687 B00",
+   "bbox": [
+    404,
+    354,
+    502,
+    368
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    386,
+    206,
+    399
+   ]
+  },
+  {
+   "text": "943 A00",
+   "bbox": [
+    404,
+    385,
+    502,
+    399
+   ]
+  },
+  {
+   "text": "2 DB x 1197",
+   "bbox": [
+    24,
+    414,
+    156,
+    427
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    441,
+    192,
+    455
+   ]
+  },
+  {
+   "text": "2394 B00",
+   "bbox": [
+    390,
+    441,
+    502,
+    455
+   ]
+  },
+  {
+   "text": "2 DB x 1214",
+   "bbox": [
+    24,
+    470,
+    156,
+    483
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    497,
+    136,
+    511
+   ]
+  },
+  {
+   "text": "2428 B00",
+   "bbox": [
+    390,
+    497,
+    502,
+    511
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    528,
+    234,
+    542
+   ]
+  },
+  {
+   "text": "851 A00",
+   "bbox": [
+    404,
+    528,
+    502,
+    542
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    559,
+    220,
+    573
+   ]
+  },
+  {
+   "text": "585 A00",
+   "bbox": [
+    404,
+    559,
+    502,
+    573
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    590,
+    136,
+    604
+   ]
+  },
+  {
+   "text": "989 C00",
+   "bbox": [
+    404,
+    590,
+    502,
+    604
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    629,
+    168,
+    650
+   ]
+  },
+  {
+   "text": "10 581 Ft",
+   "bbox": [
+    358,
+    633,
+    502,
+    650
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    671,
+    164,
+    688
+   ]
+  },
+  {
+   "text": "10 581 Ft",
+   "bbox": [
+    376,
+    674,
+    502,
+    688
+   ]
+  },
+  {
+   "text": "2024.08.22.",
+   "bbox": [
+    24,
+    718,
+    167,
+    731
+   ]
+  },
+  {
+   "text": "20:41",
+   "bbox": [
+    437,
+    718,
+    502,
+    731
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1777/79923",
+   "bbox": [
+    24,
+    746,
+    310,
+    764
+   ]
+  },
+  {
+   "text": "AP A90786469",
+   "bbox": [
+    24,
+    780,
+    180,
+    793
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    198,
+    821,
+    328,
+    837
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  526,
+  881
+ ]
+}

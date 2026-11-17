@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2025/09895",
+  "kiallitas_datuma": "2025. március 1.",
+  "teljesites_datuma": "2025. február 24.",
+  "fizetesi_hatarido": "2025. március 9.",
+  "elado_nev": "Szabó Logisztika Bt.",
+  "elado_cim": "H-1552 Dunakeszi, Keresztkőrösi utca 135.",
+  "elado_adoszam": "68486178-2-44",
+  "vevo_nev": "Nagy Tech Zrt.",
+  "vevo_cim": "H-9881 Magyartótbánya, Mátragyörgyi tér 90.",
+  "vevo_adoszam": "10043093-2-34",
+  "bankszamla": "HU39 3755 7582 5725 3785 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "295 520 Ft",
+  "afa_osszesen": "79 791 Ft",
+  "brutto_osszesen": "375 311 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "10 óra",
+    "egysegar": "13 420",
+    "netto": "134 200",
+    "afa_kulcs": "27%",
+    "afa": "36 234",
+    "brutto": "170 434"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 310",
+    "netto": "2 310",
+    "afa_kulcs": "27%",
+    "afa": "624",
+    "brutto": "2 934"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "153 010",
+    "netto": "153 010",
+    "afa_kulcs": "27%",
+    "afa": "41 313",
+    "brutto": "194 323"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "6 000",
+    "netto": "6 000",
+    "afa_kulcs": "27%",
+    "afa": "1 620",
+    "brutto": "7 620"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    127,
+    116,
+    198,
+    137
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    776,
+    95,
+    1157,
+    136
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/09895",
+   "bbox": [
+    877,
+    158,
+    1157,
+    179
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    83,
+    239,
+    161,
+    259
+   ]
+  },
+  {
+   "text": "Szabó Logisztika Bt.",
+   "bbox": [
+    83,
+    278,
+    335,
+    304
+   ]
+  },
+  {
+   "text": "H-1552 Dunakeszi, Keresztkőrösi utca 135.",
+   "bbox": [
+    83,
+    314,
+    560,
+    337
+   ]
+  },
+  {
+   "text": "Adószám: 68486178-2-44",
+   "bbox": [
+    83,
+    346,
+    359,
+    366
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    239,
+    702,
+    259
+   ]
+  },
+  {
+   "text": "Nagy Tech Zrt.",
+   "bbox": [
+    630,
+    278,
+    817,
+    304
+   ]
+  },
+  {
+   "text": "H-9881 Magyartótbánya, Mátragyörgyi tér 90.",
+   "bbox": [
+    630,
+    313,
+    1139,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 10043093-2-34",
+   "bbox": [
+    630,
+    346,
+    906,
+    366
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    83,
+    418,
+    277,
+    437
+   ]
+  },
+  {
+   "text": "2025. március 1.",
+   "bbox": [
+    383,
+    417,
+    569,
+    437
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    83,
+    453,
+    299,
+    477
+   ]
+  },
+  {
+   "text": "2025. február 24.",
+   "bbox": [
+    383,
+    452,
+    579,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    83,
+    488,
+    289,
+    507
+   ]
+  },
+  {
+   "text": "2025. március 9.",
+   "bbox": [
+    383,
+    487,
+    569,
+    507
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    83,
+    523,
+    241,
+    542
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    383,
+    522,
+    473,
+    542
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    83,
+    570,
+    208,
+    591
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    570,
+    587,
+    591
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    570,
+    749,
+    591
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    570,
+    877,
+    586
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    566,
+    942,
+    586
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    566,
+    1044,
+    586
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1092,
+    570,
+    1157,
+    586
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    512,
+    612,
+    576,
+    630
+   ]
+  },
+  {
+   "text": "13 420",
+   "bbox": [
+    681,
+    614,
+    748,
+    630
+   ]
+  },
+  {
+   "text": "134 200",
+   "bbox": [
+    798,
+    614,
+    877,
+    630
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    614,
+    942,
+    630
+   ]
+  },
+  {
+   "text": "36 234",
+   "bbox": [
+    977,
+    614,
+    1044,
+    630
+   ]
+  },
+  {
+   "text": "170 434",
+   "bbox": [
+    1078,
+    614,
+    1157,
+    630
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    83,
+    612,
+    197,
+    630
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    512,
+    652,
+    604,
+    673
+   ]
+  },
+  {
+   "text": "2 310",
+   "bbox": [
+    693,
+    652,
+    748,
+    668
+   ]
+  },
+  {
+   "text": "2 310",
+   "bbox": [
+    822,
+    652,
+    877,
+    668
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    652,
+    942,
+    668
+   ]
+  },
+  {
+   "text": "624",
+   "bbox": [
+    1008,
+    652,
+    1044,
+    668
+   ]
+  },
+  {
+   "text": "2 934",
+   "bbox": [
+    1102,
+    652,
+    1157,
+    668
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    83,
+    650,
+    343,
+    673
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    512,
+    688,
+    555,
+    706
+   ]
+  },
+  {
+   "text": "153 010",
+   "bbox": [
+    669,
+    690,
+    748,
+    706
+   ]
+  },
+  {
+   "text": "153 010",
+   "bbox": [
+    798,
+    690,
+    877,
+    706
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    690,
+    942,
+    706
+   ]
+  },
+  {
+   "text": "41 313",
+   "bbox": [
+    977,
+    690,
+    1044,
+    706
+   ]
+  },
+  {
+   "text": "194 323",
+   "bbox": [
+    1078,
+    690,
+    1157,
+    706
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    83,
+    688,
+    367,
+    711
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    728,
+    555,
+    744
+   ]
+  },
+  {
+   "text": "6 000",
+   "bbox": [
+    693,
+    728,
+    748,
+    744
+   ]
+  },
+  {
+   "text": "6 000",
+   "bbox": [
+    822,
+    728,
+    877,
+    744
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    728,
+    942,
+    744
+   ]
+  },
+  {
+   "text": "1 620",
+   "bbox": [
+    989,
+    728,
+    1044,
+    744
+   ]
+  },
+  {
+   "text": "7 620",
+   "bbox": [
+    1102,
+    728,
+    1157,
+    744
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    83,
+    726,
+    280,
+    749
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    643,
+    786,
+    827,
+    806
+   ]
+  },
+  {
+   "text": "295 520 Ft",
+   "bbox": [
+    1033,
+    787,
+    1157,
+    806
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    664,
+    821,
+    827,
+    845
+   ]
+  },
+  {
+   "text": "79 791 Ft",
+   "bbox": [
+    1047,
+    826,
+    1157,
+    845
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    580,
+    864,
+    827,
+    884
+   ]
+  },
+  {
+   "text": "375 311 Ft",
+   "bbox": [
+    1026,
+    865,
+    1157,
+    884
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU39 3755 7582 5725 3785 0000 0000",
+   "bbox": [
+    83,
+    932,
+    691,
+    951
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    460,
+    1650,
+    779,
+    1670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

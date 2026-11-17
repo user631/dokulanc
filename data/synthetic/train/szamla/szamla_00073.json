@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/02616",
+  "kiallitas_datuma": "2024. február 1.",
+  "teljesites_datuma": "2024. február 1.",
+  "fizetesi_hatarido": "2024. március 2.",
+  "elado_nev": "Szabó és Társa Zrt.",
+  "elado_cim": "H-2596 Kaposvár, Hátvárai utca 134.",
+  "elado_adoszam": "41050837-2-28",
+  "vevo_nev": "Fekete Szolgáltató Kft.",
+  "vevo_cim": "H-4948 Tótfalu, Salgótarjáni utca 204.",
+  "vevo_adoszam": "23557644-3-19",
+  "bankszamla": "03827859-26891558",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "197 280 Ft",
+  "afa_osszesen": "22 316 Ft",
+  "brutto_osszesen": "219 596 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "10 db",
+    "egysegar": "9 690",
+    "netto": "96 900",
+    "afa_kulcs": "5%",
+    "afa": "4 845",
+    "brutto": "101 745"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "15 070",
+    "netto": "30 140",
+    "afa_kulcs": "27%",
+    "afa": "8 138",
+    "brutto": "38 278"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "2 óra",
+    "egysegar": "11 170",
+    "netto": "22 340",
+    "afa_kulcs": "27%",
+    "afa": "6 032",
+    "brutto": "28 372"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "2 év",
+    "egysegar": "21 890",
+    "netto": "43 780",
+    "afa_kulcs": "5%",
+    "afa": "2 189",
+    "brutto": "45 969"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "2 csomag",
+    "egysegar": "2 060",
+    "netto": "4 120",
+    "afa_kulcs": "27%",
+    "afa": "1 112",
+    "brutto": "5 232"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    455,
+    108,
+    785,
+    135
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/02616",
+   "bbox": [
+    463,
+    166,
+    777,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    105,
+    247,
+    162,
+    262
+   ]
+  },
+  {
+   "text": "Szabó és Társa Zrt.",
+   "bbox": [
+    105,
+    281,
+    277,
+    296
+   ]
+  },
+  {
+   "text": "H-2596 Kaposvár, Hátvárai utca 134.",
+   "bbox": [
+    105,
+    313,
+    405,
+    330
+   ]
+  },
+  {
+   "text": "Adószám: 41050837-2-28",
+   "bbox": [
+    105,
+    340,
+    313,
+    354
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    247,
+    682,
+    262
+   ]
+  },
+  {
+   "text": "Fekete Szolgáltató Kft.",
+   "bbox": [
+    630,
+    281,
+    836,
+    300
+   ]
+  },
+  {
+   "text": "H-4948 Tótfalu, Salgótarjáni utca 204.",
+   "bbox": [
+    630,
+    312,
+    943,
+    330
+   ]
+  },
+  {
+   "text": "Adószám: 23557644-3-19",
+   "bbox": [
+    630,
+    340,
+    838,
+    354
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    105,
+    406,
+    217,
+    418
+   ]
+  },
+  {
+   "text": "2024. február 1.",
+   "bbox": [
+    105,
+    433,
+    231,
+    446
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    362,
+    406,
+    487,
+    421
+   ]
+  },
+  {
+   "text": "2024. február 1.",
+   "bbox": [
+    362,
+    433,
+    488,
+    446
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    406,
+    736,
+    418
+   ]
+  },
+  {
+   "text": "2024. március 2.",
+   "bbox": [
+    619,
+    433,
+    748,
+    446
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    876,
+    406,
+    966,
+    418
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    876,
+    433,
+    937,
+    446
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    105,
+    480,
+    195,
+    495
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    481,
+    572,
+    495
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    681,
+    480,
+    743,
+    495
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    480,
+    867,
+    492
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    477,
+    929,
+    492
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    477,
+    1026,
+    492
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    480,
+    1135,
+    492
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    517,
+    519,
+    557,
+    531
+   ]
+  },
+  {
+   "text": "9 690",
+   "bbox": [
+    703,
+    520,
+    743,
+    531
+   ]
+  },
+  {
+   "text": "96 900",
+   "bbox": [
+    818,
+    520,
+    867,
+    531
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    520,
+    929,
+    531
+   ]
+  },
+  {
+   "text": "4 845",
+   "bbox": [
+    986,
+    520,
+    1026,
+    531
+   ]
+  },
+  {
+   "text": "101 745",
+   "bbox": [
+    1077,
+    520,
+    1135,
+    531
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    105,
+    519,
+    293,
+    534
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    517,
+    552,
+    548,
+    564
+   ]
+  },
+  {
+   "text": "15 070",
+   "bbox": [
+    694,
+    553,
+    743,
+    564
+   ]
+  },
+  {
+   "text": "30 140",
+   "bbox": [
+    818,
+    553,
+    867,
+    564
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    553,
+    929,
+    564
+   ]
+  },
+  {
+   "text": "8 138",
+   "bbox": [
+    986,
+    553,
+    1026,
+    564
+   ]
+  },
+  {
+   "text": "38 278",
+   "bbox": [
+    1086,
+    553,
+    1135,
+    564
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    105,
+    552,
+    194,
+    567
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    517,
+    585,
+    553,
+    597
+   ]
+  },
+  {
+   "text": "11 170",
+   "bbox": [
+    694,
+    586,
+    743,
+    597
+   ]
+  },
+  {
+   "text": "22 340",
+   "bbox": [
+    818,
+    586,
+    867,
+    597
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    586,
+    929,
+    597
+   ]
+  },
+  {
+   "text": "6 032",
+   "bbox": [
+    986,
+    586,
+    1026,
+    597
+   ]
+  },
+  {
+   "text": "28 372",
+   "bbox": [
+    1086,
+    586,
+    1135,
+    597
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    105,
+    585,
+    294,
+    600
+   ]
+  },
+  {
+   "text": "2 év",
+   "bbox": [
+    517,
+    618,
+    546,
+    630
+   ]
+  },
+  {
+   "text": "21 890",
+   "bbox": [
+    694,
+    619,
+    743,
+    630
+   ]
+  },
+  {
+   "text": "43 780",
+   "bbox": [
+    818,
+    619,
+    867,
+    630
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    619,
+    929,
+    630
+   ]
+  },
+  {
+   "text": "2 189",
+   "bbox": [
+    986,
+    619,
+    1026,
+    630
+   ]
+  },
+  {
+   "text": "45 969",
+   "bbox": [
+    1086,
+    619,
+    1135,
+    630
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    105,
+    618,
+    295,
+    633
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    517,
+    652,
+    583,
+    666
+   ]
+  },
+  {
+   "text": "2 060",
+   "bbox": [
+    703,
+    652,
+    743,
+    663
+   ]
+  },
+  {
+   "text": "4 120",
+   "bbox": [
+    827,
+    652,
+    867,
+    663
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    652,
+    929,
+    663
+   ]
+  },
+  {
+   "text": "1 112",
+   "bbox": [
+    986,
+    652,
+    1026,
+    663
+   ]
+  },
+  {
+   "text": "5 232",
+   "bbox": [
+    1095,
+    652,
+    1135,
+    663
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    105,
+    651,
+    291,
+    666
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    671,
+    705,
+    805,
+    719
+   ]
+  },
+  {
+   "text": "197 280 Ft",
+   "bbox": [
+    1042,
+    706,
+    1135,
+    719
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    686,
+    736,
+    805,
+    753
+   ]
+  },
+  {
+   "text": "22 316 Ft",
+   "bbox": [
+    1053,
+    740,
+    1135,
+    753
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    633,
+    773,
+    805,
+    787
+   ]
+  },
+  {
+   "text": "219 596 Ft",
+   "bbox": [
+    1042,
+    774,
+    1135,
+    787
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 03827859-26891558",
+   "bbox": [
+    105,
+    837,
+    411,
+    850
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    512,
+    1635,
+    727,
+    1648
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Nagy Judit",
+  "anyja_neve": "Szőke János",
+  "szuletesi_hely": "Zalaegerszeg",
+  "szuletesi_datum": "1963.06.04.",
+  "lakcim": "H-9387 Ózd, Szentszéki utca 156.",
+  "telefon": "+36 70 440 6615",
+  "email": "nagy.judit@outlook.com",
+  "adoazonosito_jel": "8352177559",
+  "taj_szam": "239 003 892",
+  "kelt": "Keresztnádasd, 2025.11.14."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    493,
+    86,
+    747,
+    121
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    468,
+    140,
+    771,
+    156
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    85,
+    192,
+    328,
+    213
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    97,
+    245,
+    140,
+    259
+   ]
+  },
+  {
+   "text": "Nagy Judit",
+   "bbox": [
+    415,
+    237,
+    525,
+    263
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    97,
+    297,
+    206,
+    314
+   ]
+  },
+  {
+   "text": "Szőke János",
+   "bbox": [
+    415,
+    289,
+    543,
+    309
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    97,
+    347,
+    229,
+    365
+   ]
+  },
+  {
+   "text": "Zalaegerszeg",
+   "bbox": [
+    415,
+    341,
+    546,
+    365
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    97,
+    398,
+    218,
+    412
+   ]
+  },
+  {
+   "text": "1963.06.04.",
+   "bbox": [
+    414,
+    395,
+    540,
+    413
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    97,
+    449,
+    169,
+    463
+   ]
+  },
+  {
+   "text": "H-9387 Ózd, Szentszéki utca 156.",
+   "bbox": [
+    414,
+    445,
+    762,
+    468
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    97,
+    500,
+    218,
+    514
+   ]
+  },
+  {
+   "text": "+36 70 440 6615",
+   "bbox": [
+    415,
+    499,
+    598,
+    517
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    97,
+    551,
+    201,
+    565
+   ]
+  },
+  {
+   "text": "nagy.judit@outlook.com",
+   "bbox": [
+    415,
+    547,
+    642,
+    573
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    97,
+    602,
+    252,
+    620
+   ]
+  },
+  {
+   "text": "8352177559",
+   "bbox": [
+    415,
+    602,
+    549,
+    620
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    97,
+    653,
+    189,
+    667
+   ]
+  },
+  {
+   "text": "239 003 892",
+   "bbox": [
+    415,
+    653,
+    563,
+    671
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    85,
+    730,
+    278,
+    751
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    130,
+    774,
+    449,
+    792
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    130,
+    819,
+    283,
+    833
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    130,
+    864,
+    468,
+    882
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    85,
+    966,
+    130,
+    981
+   ]
+  },
+  {
+   "text": "Keresztnádasd, 2025.11.14.",
+   "bbox": [
+    175,
+    962,
+    425,
+    980
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1015,
+    989,
+    1027
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

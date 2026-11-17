@@ -1,0 +1,449 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NAGY KISBOLT BT.",
+  "uzlet_cim": "H-1596 Kecskemét, Béke utca 169.",
+  "adoszam": "58297427-2-08",
+  "datum": "2026.05.06.",
+  "ido": "08:58",
+  "nyugtaszam": "4231/57440",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "12 824 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "655"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "384"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "412"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3006"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1455"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "152"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2794"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "599"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "799"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "566"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1266"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "736"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY KISBOLT BT.",
+   "bbox": [
+    194,
+    36,
+    419,
+    50
+   ]
+  },
+  {
+   "text": "H-1596 Kecskemét, Béke utca 169.",
+   "bbox": [
+    115,
+    68,
+    499,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58297427-2-08",
+   "bbox": [
+    175,
+    91,
+    439,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    137,
+    356,
+    152
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    179,
+    141,
+    193
+   ]
+  },
+  {
+   "text": "655 B00",
+   "bbox": [
+    500,
+    179,
+    591,
+    193
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    209,
+    206,
+    223
+   ]
+  },
+  {
+   "text": "384 C00",
+   "bbox": [
+    500,
+    209,
+    591,
+    223
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    240,
+    206,
+    253
+   ]
+  },
+  {
+   "text": "412 A00",
+   "bbox": [
+    500,
+    239,
+    591,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 1002",
+   "bbox": [
+    24,
+    268,
+    145,
+    280
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    294,
+    193,
+    307
+   ]
+  },
+  {
+   "text": "3006 B00",
+   "bbox": [
+    487,
+    293,
+    591,
+    307
+   ]
+  },
+  {
+   "text": "3 DB x 485",
+   "bbox": [
+    24,
+    322,
+    134,
+    334
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    347,
+    141,
+    361
+   ]
+  },
+  {
+   "text": "1455 C00",
+   "bbox": [
+    487,
+    347,
+    591,
+    361
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    377,
+    206,
+    394
+   ]
+  },
+  {
+   "text": "152 C00",
+   "bbox": [
+    500,
+    377,
+    591,
+    391
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    407,
+    271,
+    421
+   ]
+  },
+  {
+   "text": "2794 C00",
+   "bbox": [
+    487,
+    407,
+    591,
+    421
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    437,
+    167,
+    451
+   ]
+  },
+  {
+   "text": "599 B00",
+   "bbox": [
+    500,
+    437,
+    591,
+    451
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    467,
+    219,
+    481
+   ]
+  },
+  {
+   "text": "799 A00",
+   "bbox": [
+    500,
+    467,
+    591,
+    481
+   ]
+  },
+  {
+   "text": "2 DB x 283",
+   "bbox": [
+    24,
+    496,
+    134,
+    508
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    522,
+    194,
+    535
+   ]
+  },
+  {
+   "text": "566 A00",
+   "bbox": [
+    500,
+    521,
+    591,
+    535
+   ]
+  },
+  {
+   "text": "2 DB x 633",
+   "bbox": [
+    24,
+    550,
+    134,
+    562
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    575,
+    128,
+    589
+   ]
+  },
+  {
+   "text": "1266 A00",
+   "bbox": [
+    487,
+    575,
+    591,
+    589
+   ]
+  },
+  {
+   "text": "2 DB x 368",
+   "bbox": [
+    24,
+    604,
+    134,
+    616
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    629,
+    167,
+    646
+   ]
+  },
+  {
+   "text": "736 B00",
+   "bbox": [
+    500,
+    629,
+    591,
+    643
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    667,
+    184,
+    688
+   ]
+  },
+  {
+   "text": "12 824 Ft",
+   "bbox": [
+    447,
+    672,
+    591,
+    688
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    708,
+    128,
+    725
+   ]
+  },
+  {
+   "text": "12 824 Ft",
+   "bbox": [
+    474,
+    711,
+    591,
+    725
+   ]
+  },
+  {
+   "text": "2026.05.06.",
+   "bbox": [
+    24,
+    754,
+    156,
+    767
+   ]
+  },
+  {
+   "text": "08:58",
+   "bbox": [
+    531,
+    754,
+    591,
+    767
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4231/57440",
+   "bbox": [
+    24,
+    781,
+    288,
+    799
+   ]
+  },
+  {
+   "text": "AP A35880740",
+   "bbox": [
+    24,
+    814,
+    168,
+    827
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    242,
+    855,
+    372,
+    870
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  615,
+  914
+ ]
+}

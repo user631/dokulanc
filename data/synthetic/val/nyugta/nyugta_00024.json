@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR ÉLELMISZER BT.",
+  "uzlet_cim": "H-1165 Mátraszékfalva, Keresztfai utca 102.",
+  "adoszam": "83579592-3-35",
+  "datum": "2024.02.16.",
+  "ido": "11:02",
+  "nyugtaszam": "6779/02146",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 602 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "514"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "805"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "911"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1572"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "456"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "766"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1117"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "937"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "962"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "380"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "693"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1489"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR ÉLELMISZER BT.",
+   "bbox": [
+    116,
+    30,
+    411,
+    50
+   ]
+  },
+  {
+   "text": "H-1165 Mátraszékfalva, Keresztfai utca",
+   "bbox": [
+    36,
+    68,
+    492,
+    84
+   ]
+  },
+  {
+   "text": "102.",
+   "bbox": [
+    240,
+    94,
+    288,
+    107
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 83579592-3-35",
+   "bbox": [
+    132,
+    117,
+    396,
+    133
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    215,
+    163,
+    313,
+    178
+   ]
+  },
+  {
+   "text": "2 DB x 257",
+   "bbox": [
+    24,
+    204,
+    134,
+    216
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    230,
+    194,
+    243
+   ]
+  },
+  {
+   "text": "514 A00",
+   "bbox": [
+    414,
+    229,
+    505,
+    243
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    259,
+    219,
+    273
+   ]
+  },
+  {
+   "text": "805 C00",
+   "bbox": [
+    414,
+    259,
+    505,
+    273
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    289,
+    128,
+    303
+   ]
+  },
+  {
+   "text": "911 A00",
+   "bbox": [
+    414,
+    289,
+    505,
+    303
+   ]
+  },
+  {
+   "text": "2 DB x 786",
+   "bbox": [
+    24,
+    318,
+    134,
+    330
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    343,
+    128,
+    357
+   ]
+  },
+  {
+   "text": "1572 B00",
+   "bbox": [
+    401,
+    343,
+    505,
+    357
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    373,
+    206,
+    387
+   ]
+  },
+  {
+   "text": "456 B00",
+   "bbox": [
+    414,
+    373,
+    505,
+    387
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    403,
+    141,
+    417
+   ]
+  },
+  {
+   "text": "766 A00",
+   "bbox": [
+    414,
+    403,
+    505,
+    417
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    434,
+    154,
+    447
+   ]
+  },
+  {
+   "text": "1117 B00",
+   "bbox": [
+    401,
+    433,
+    505,
+    447
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    463,
+    128,
+    477
+   ]
+  },
+  {
+   "text": "937 A00",
+   "bbox": [
+    414,
+    463,
+    505,
+    477
+   ]
+  },
+  {
+   "text": "2 DB x 481",
+   "bbox": [
+    24,
+    492,
+    134,
+    504
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    517,
+    141,
+    531
+   ]
+  },
+  {
+   "text": "962 C00",
+   "bbox": [
+    414,
+    517,
+    505,
+    531
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    547,
+    206,
+    561
+   ]
+  },
+  {
+   "text": "380 A00",
+   "bbox": [
+    414,
+    547,
+    505,
+    561
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    577,
+    128,
+    591
+   ]
+  },
+  {
+   "text": "693 B00",
+   "bbox": [
+    414,
+    577,
+    505,
+    591
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    607,
+    154,
+    621
+   ]
+  },
+  {
+   "text": "1489 A00",
+   "bbox": [
+    401,
+    607,
+    505,
+    621
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    645,
+    184,
+    666
+   ]
+  },
+  {
+   "text": "10 602 Ft",
+   "bbox": [
+    361,
+    650,
+    505,
+    666
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    686,
+    155,
+    703
+   ]
+  },
+  {
+   "text": "10 602 Ft",
+   "bbox": [
+    388,
+    689,
+    505,
+    703
+   ]
+  },
+  {
+   "text": "2024.02.16.",
+   "bbox": [
+    24,
+    732,
+    156,
+    745
+   ]
+  },
+  {
+   "text": "11:02",
+   "bbox": [
+    445,
+    732,
+    505,
+    745
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6779/02146",
+   "bbox": [
+    24,
+    759,
+    288,
+    777
+   ]
+  },
+  {
+   "text": "AP A42653545",
+   "bbox": [
+    24,
+    792,
+    168,
+    805
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    121,
+    832,
+    407,
+    848
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  529,
+  892
+ ]
+}

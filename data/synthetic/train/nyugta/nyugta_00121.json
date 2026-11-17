@@ -1,0 +1,303 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BORBÉLY MARKET BT.",
+  "uzlet_cim": "H-6183 Kunszékhalas, Ózdi út 132.",
+  "adoszam": "76057447-3-22",
+  "datum": "2026.05.26.",
+  "ido": "13:52",
+  "nyugtaszam": "6999/99747",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 148 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1235"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1596"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "757"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "754"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1216"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1530"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "60"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BORBÉLY MARKET BT.",
+   "bbox": [
+    204,
+    28,
+    420,
+    47
+   ]
+  },
+  {
+   "text": "H-6183 Kunszékhalas, Ózdi út 132.",
+   "bbox": [
+    147,
+    62,
+    477,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 76057447-3-22",
+   "bbox": [
+    202,
+    86,
+    422,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    127,
+    352,
+    142
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    168,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "1235 C00",
+   "bbox": [
+    513,
+    168,
+    601,
+    181
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    196,
+    134,
+    209
+   ]
+  },
+  {
+   "text": "1596 B00",
+   "bbox": [
+    513,
+    196,
+    601,
+    209
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    224,
+    123,
+    237
+   ]
+  },
+  {
+   "text": "757 A00",
+   "bbox": [
+    524,
+    224,
+    601,
+    237
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    252,
+    200,
+    265
+   ]
+  },
+  {
+   "text": "754 C00",
+   "bbox": [
+    524,
+    252,
+    601,
+    265
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    280,
+    112,
+    293
+   ]
+  },
+  {
+   "text": "1216 C00",
+   "bbox": [
+    513,
+    280,
+    601,
+    293
+   ]
+  },
+  {
+   "text": "2 DB x 765",
+   "bbox": [
+    24,
+    308,
+    114,
+    319
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    330,
+    112,
+    343
+   ]
+  },
+  {
+   "text": "1530 C00",
+   "bbox": [
+    513,
+    330,
+    601,
+    343
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    358,
+    90,
+    371
+   ]
+  },
+  {
+   "text": "60 A00",
+   "bbox": [
+    535,
+    358,
+    601,
+    371
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    394,
+    154,
+    414
+   ]
+  },
+  {
+   "text": "7 148 Ft",
+   "bbox": [
+    497,
+    398,
+    601,
+    414
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    432,
+    112,
+    449
+   ]
+  },
+  {
+   "text": "7 148 Ft",
+   "bbox": [
+    513,
+    436,
+    601,
+    449
+   ]
+  },
+  {
+   "text": "2026.05.26.",
+   "bbox": [
+    24,
+    479,
+    134,
+    490
+   ]
+  },
+  {
+   "text": "13:52",
+   "bbox": [
+    551,
+    479,
+    601,
+    490
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6999/99747",
+   "bbox": [
+    24,
+    504,
+    244,
+    520
+   ]
+  },
+  {
+   "text": "AP A39869248",
+   "bbox": [
+    24,
+    535,
+    144,
+    546
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    262,
+    571,
+    362,
+    587
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  625,
+  632
+ ]
+}

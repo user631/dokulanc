@@ -1,0 +1,298 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kiss Ilona",
+  "email": "kiss.ilona@gmail.com",
+  "telefon": "+36 30 117 8454",
+  "lakcim": "H-2465 Budapest, Dózsa györgy utca 225.",
+  "szuletesi_datum": "1987. 07. 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Tech Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2010 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "ügyfélkezelés",
+   "SAP",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    180,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    144,
+    90,
+    157
+   ]
+  },
+  {
+   "text": "kiss.ilona@gmail.com",
+   "bbox": [
+    40,
+    165,
+    203,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    101,
+    209
+   ]
+  },
+  {
+   "text": "+36 30 117 8454",
+   "bbox": [
+    40,
+    218,
+    163,
+    230
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    96,
+    261
+   ]
+  },
+  {
+   "text": "H-2465 Budapest, Dózsa györgy utca 225.",
+   "bbox": [
+    40,
+    268,
+    352,
+    285
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    300,
+    168,
+    313
+   ]
+  },
+  {
+   "text": "1987. 07. 21.",
+   "bbox": [
+    40,
+    322,
+    140,
+    334
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    380,
+    169,
+    399
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    420,
+    121,
+    437
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    472,
+    151,
+    491
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    512,
+    213,
+    529
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    536,
+    150,
+    554
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    562,
+    70,
+    575
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    587,
+    96,
+    600
+   ]
+  },
+  {
+   "text": "Kiss Ilona",
+   "bbox": [
+    450,
+    109,
+    638,
+    141
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    175,
+    648,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    662,
+    259
+   ]
+  },
+  {
+   "text": "2010 – 2011",
+   "bbox": [
+    450,
+    285,
+    549,
+    299
+   ]
+  },
+  {
+   "text": "tesztmérnök – Varga Tech Kft.",
+   "bbox": [
+    450,
+    308,
+    734,
+    327
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    358,
+    595,
+    380
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    450,
+    406,
+    549,
+    420
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    429,
+    709,
+    448
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    451,
+    555,
+    470
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    491,
+    549,
+    505
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    514,
+    719,
+    533
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    536,
+    673,
+    555
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

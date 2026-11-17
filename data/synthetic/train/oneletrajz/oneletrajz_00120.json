@@ -1,0 +1,328 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Török Zsolt",
+  "email": "torok.zsolt@freemail.hu",
+  "telefon": "+36 30 544 6922",
+  "lakcim": "H-6195 Fürdőváros, Ceglédi utca 48.",
+  "szuletesi_datum": "2004. november 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2024 – 2028"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2020 – 2024"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Trade Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2028 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "SAP",
+   "Python",
+   "projektmenedzsment",
+   "SQL",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    107,
+    220,
+    133
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    157,
+    107,
+    174
+   ]
+  },
+  {
+   "text": "torok.zsolt@freemail.hu",
+   "bbox": [
+    40,
+    182,
+    259,
+    201
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    217,
+    117,
+    234
+   ]
+  },
+  {
+   "text": "+36 30 544 6922",
+   "bbox": [
+    40,
+    243,
+    197,
+    259
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    277,
+    115,
+    294
+   ]
+  },
+  {
+   "text": "H-6195 Fürdőváros, Ceglédi utca 48.",
+   "bbox": [
+    40,
+    302,
+    380,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    337,
+    207,
+    354
+   ]
+  },
+  {
+   "text": "2004. november 18.",
+   "bbox": [
+    40,
+    362,
+    225,
+    379
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    422,
+    207,
+    448
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    468,
+    149,
+    490
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    497,
+    149,
+    519
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    551,
+    187,
+    577
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    599,
+    91,
+    615
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    628,
+    77,
+    644
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    656,
+    106,
+    677
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    685,
+    244,
+    706
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    715,
+    79,
+    735
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    743,
+    168,
+    764
+   ]
+  },
+  {
+   "text": "Török Zsolt",
+   "bbox": [
+    450,
+    119,
+    715,
+    156
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    189,
+    645,
+    210
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    254,
+    722,
+    280
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    306,
+    607,
+    329
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kiss Trade Bt.",
+   "bbox": [
+    450,
+    332,
+    965,
+    357
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    386,
+    634,
+    413
+   ]
+  },
+  {
+   "text": "2024 – 2028",
+   "bbox": [
+    450,
+    440,
+    581,
+    457
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    466,
+    682,
+    490
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    492,
+    717,
+    516
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    537,
+    581,
+    554
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    562,
+    754,
+    582
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    589,
+    538,
+    613
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

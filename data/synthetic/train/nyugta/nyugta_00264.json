@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FARKAS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-4493 Ligethida, Budapesti utca 54.",
+  "adoszam": "61133886-4-33",
+  "datum": "2025.07.27.",
+  "ido": "13:03",
+  "nyugtaszam": "0190/25637",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "9 046 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1087"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "3970"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "829"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1949"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1211"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS ÉLELMISZER KFT.",
+   "bbox": [
+    106,
+    31,
+    414,
+    49
+   ]
+  },
+  {
+   "text": "H-4493 Ligethida, Budapesti utca 54.",
+   "bbox": [
+    62,
+    63,
+    458,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 61133886-4-33",
+   "bbox": [
+    139,
+    88,
+    381,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    215,
+    131,
+    305,
+    147
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    172,
+    154,
+    187
+   ]
+  },
+  {
+   "text": "1087 A00",
+   "bbox": [
+    393,
+    172,
+    497,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 1985",
+   "bbox": [
+    24,
+    201,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    224,
+    271,
+    239
+   ]
+  },
+  {
+   "text": "3970 B00",
+   "bbox": [
+    393,
+    224,
+    497,
+    239
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    253,
+    128,
+    268
+   ]
+  },
+  {
+   "text": "829 C00",
+   "bbox": [
+    406,
+    253,
+    497,
+    268
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    282,
+    141,
+    297
+   ]
+  },
+  {
+   "text": "1949 A00",
+   "bbox": [
+    393,
+    282,
+    497,
+    297
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    311,
+    180,
+    326
+   ]
+  },
+  {
+   "text": "1211 A00",
+   "bbox": [
+    393,
+    311,
+    497,
+    326
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    350,
+    174,
+    370
+   ]
+  },
+  {
+   "text": "9 046 Ft",
+   "bbox": [
+    377,
+    352,
+    497,
+    370
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    389,
+    128,
+    406
+   ]
+  },
+  {
+   "text": "9 046 Ft",
+   "bbox": [
+    393,
+    391,
+    497,
+    406
+   ]
+  },
+  {
+   "text": "2025.07.27.",
+   "bbox": [
+    24,
+    433,
+    145,
+    447
+   ]
+  },
+  {
+   "text": "13:03",
+   "bbox": [
+    442,
+    433,
+    497,
+    447
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0190/25637",
+   "bbox": [
+    24,
+    461,
+    266,
+    479
+   ]
+  },
+  {
+   "text": "AP A52147926",
+   "bbox": [
+    24,
+    491,
+    156,
+    505
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    170,
+    531,
+    350,
+    547
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  521,
+  592
+ ]
+}

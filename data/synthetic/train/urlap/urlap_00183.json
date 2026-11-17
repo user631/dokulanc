@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Borbély Áron",
+  "anyja_neve": "Halász Márton",
+  "szuletesi_hely": "Németszékváros",
+  "szuletesi_datum": "1974.07.21.",
+  "lakcim": "H-2884 Alsótapolcavég, Dunaújvárosi utca 176.",
+  "telefon": "06 1 914 1254",
+  "email": "borbely.aron@freemail.hu",
+  "adoazonosito_jel": "8392825438",
+  "taj_szam": "993 433 904",
+  "kelt": "Törökhetvenfalu, 2024.06.12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    444,
+    89,
+    796,
+    120
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    484,
+    147,
+    755,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    200,
+    286,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    257,
+    141,
+    270
+   ]
+  },
+  {
+   "text": "Borbély Áron",
+   "bbox": [
+    429,
+    251,
+    597,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    310,
+    201,
+    327
+   ]
+  },
+  {
+   "text": "Halász Márton",
+   "bbox": [
+    429,
+    305,
+    615,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    362,
+    222,
+    380
+   ]
+  },
+  {
+   "text": "Németszékváros",
+   "bbox": [
+    429,
+    357,
+    632,
+    379
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    415,
+    214,
+    429
+   ]
+  },
+  {
+   "text": "1974.07.21.",
+   "bbox": [
+    429,
+    420,
+    591,
+    439
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    468,
+    165,
+    482
+   ]
+  },
+  {
+   "text": "H-2884 Alsótapolcavég, Dunaújvárosi utca 176.",
+   "bbox": [
+    429,
+    468,
+    1049,
+    497
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    521,
+    214,
+    535
+   ]
+  },
+  {
+   "text": "06 1 914 1254",
+   "bbox": [
+    429,
+    522,
+    639,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    574,
+    195,
+    588
+   ]
+  },
+  {
+   "text": "borbely.aron@freemail.hu",
+   "bbox": [
+    429,
+    569,
+    747,
+    598
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    627,
+    250,
+    645
+   ]
+  },
+  {
+   "text": "8392825438",
+   "bbox": [
+    429,
+    628,
+    609,
+    647
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    681,
+    184,
+    694
+   ]
+  },
+  {
+   "text": "993 433 904",
+   "bbox": [
+    429,
+    685,
+    611,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    758,
+    246,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    804,
+    427,
+    822
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    849,
+    272,
+    863
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    894,
+    443,
+    912
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    996,
+    131,
+    1010
+   ]
+  },
+  {
+   "text": "Törökhetvenfalu, 2024.06.12.",
+   "bbox": [
+    182,
+    999,
+    541,
+    1021
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1045,
+    980,
+    1057
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

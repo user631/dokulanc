@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2024/04951",
+  "kiallitas_datuma": "2024. 06. 12.",
+  "teljesites_datuma": "2024. 06. 07.",
+  "fizetesi_hatarido": "2024. 06. 20.",
+  "elado_nev": "Nagy Tech Zrt.",
+  "elado_cim": "H-2688 Felsőfürdővég, Magyartapolcai utca 173.",
+  "elado_adoszam": "50456200-5-20",
+  "vevo_nev": "Molnár és Társa Zrt.",
+  "vevo_cim": "H-6921 Székesfehérvár, Szegedi utca 157.",
+  "vevo_adoszam": "77594307-2-38",
+  "bankszamla": "HU70 3048 9930 1619 1572 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "333 910 Ft",
+  "afa_osszesen": "90 155 Ft",
+  "brutto_osszesen": "424 065 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "56 310",
+    "netto": "281 550",
+    "afa_kulcs": "27%",
+    "afa": "76 018",
+    "brutto": "357 568"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "2 920",
+    "netto": "8 760",
+    "afa_kulcs": "27%",
+    "afa": "2 365",
+    "brutto": "11 125"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "10 900",
+    "netto": "43 600",
+    "afa_kulcs": "27%",
+    "afa": "11 772",
+    "brutto": "55 372"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    116,
+    107,
+    186,
+    124
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    994,
+    81,
+    1170,
+    120
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/04951",
+   "bbox": [
+    889,
+    146,
+    1169,
+    163
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    70,
+    224,
+    136,
+    243
+   ]
+  },
+  {
+   "text": "Molnár és Társa Zrt.",
+   "bbox": [
+    71,
+    260,
+    299,
+    279
+   ]
+  },
+  {
+   "text": "H-6921 Székesfehérvár, Szegedi utca 157.",
+   "bbox": [
+    71,
+    295,
+    485,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 77594307-2-38",
+   "bbox": [
+    70,
+    325,
+    320,
+    341
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    224,
+    704,
+    243
+   ]
+  },
+  {
+   "text": "Nagy Tech Zrt.",
+   "bbox": [
+    630,
+    262,
+    797,
+    284
+   ]
+  },
+  {
+   "text": "H-2688 Felsőfürdővég, Magyartapolcai utca 173.",
+   "bbox": [
+    630,
+    295,
+    1098,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 50456200-5-20",
+   "bbox": [
+    629,
+    325,
+    879,
+    341
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    71,
+    392,
+    244,
+    409
+   ]
+  },
+  {
+   "text": "2024. 06. 12.",
+   "bbox": [
+    371,
+    393,
+    497,
+    409
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    71,
+    424,
+    259,
+    445
+   ]
+  },
+  {
+   "text": "2024. 06. 07.",
+   "bbox": [
+    371,
+    425,
+    497,
+    441
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    71,
+    456,
+    248,
+    473
+   ]
+  },
+  {
+   "text": "2024. 06. 20.",
+   "bbox": [
+    371,
+    457,
+    497,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    71,
+    488,
+    209,
+    505
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    371,
+    489,
+    447,
+    505
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    71,
+    532,
+    187,
+    551
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    533,
+    577,
+    551
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    532,
+    752,
+    551
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    834,
+    532,
+    883,
+    547
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    892,
+    529,
+    949,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    529,
+    1053,
+    547
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1112,
+    532,
+    1169,
+    547
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    510,
+    574,
+    547,
+    588
+   ]
+  },
+  {
+   "text": "56 310",
+   "bbox": [
+    691,
+    574,
+    751,
+    588
+   ]
+  },
+  {
+   "text": "281 550",
+   "bbox": [
+    812,
+    574,
+    883,
+    588
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    574,
+    949,
+    588
+   ]
+  },
+  {
+   "text": "76 018",
+   "bbox": [
+    993,
+    574,
+    1053,
+    588
+   ]
+  },
+  {
+   "text": "357 568",
+   "bbox": [
+    1098,
+    574,
+    1169,
+    588
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    71,
+    574,
+    227,
+    592
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    510,
+    609,
+    593,
+    623
+   ]
+  },
+  {
+   "text": "2 920",
+   "bbox": [
+    702,
+    609,
+    751,
+    623
+   ]
+  },
+  {
+   "text": "8 760",
+   "bbox": [
+    834,
+    609,
+    883,
+    623
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    609,
+    949,
+    623
+   ]
+  },
+  {
+   "text": "2 365",
+   "bbox": [
+    1004,
+    609,
+    1053,
+    623
+   ]
+  },
+  {
+   "text": "11 125",
+   "bbox": [
+    1109,
+    609,
+    1169,
+    623
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    71,
+    609,
+    173,
+    627
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    510,
+    644,
+    554,
+    658
+   ]
+  },
+  {
+   "text": "10 900",
+   "bbox": [
+    691,
+    644,
+    751,
+    658
+   ]
+  },
+  {
+   "text": "43 600",
+   "bbox": [
+    823,
+    644,
+    883,
+    658
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    644,
+    949,
+    658
+   ]
+  },
+  {
+   "text": "11 772",
+   "bbox": [
+    993,
+    644,
+    1053,
+    658
+   ]
+  },
+  {
+   "text": "55 372",
+   "bbox": [
+    1109,
+    644,
+    1169,
+    658
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    71,
+    644,
+    335,
+    662
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    672,
+    699,
+    839,
+    716
+   ]
+  },
+  {
+   "text": "333 910 Ft",
+   "bbox": [
+    1059,
+    699,
+    1170,
+    716
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    682,
+    731,
+    839,
+    752
+   ]
+  },
+  {
+   "text": "90 155 Ft",
+   "bbox": [
+    1072,
+    735,
+    1170,
+    752
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    612,
+    771,
+    839,
+    788
+   ]
+  },
+  {
+   "text": "424 065 Ft",
+   "bbox": [
+    1057,
+    771,
+    1169,
+    788
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU70 3048 9930 1619 1572 0000 0000",
+   "bbox": [
+    71,
+    838,
+    631,
+    853
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    71,
+    867,
+    623,
+    884
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MAGYAR KISBOLT BT.",
+  "uzlet_cim": "H-3568 Vár, Debreceni út 241.",
+  "adoszam": "71634632-3-41",
+  "datum": "2024.02.29.",
+  "ido": "07:43",
+  "nyugtaszam": "2858/07655",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 939 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "395"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "316"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1329"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "899"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MAGYAR KISBOLT BT.",
+   "bbox": [
+    166,
+    35,
+    454,
+    51
+   ]
+  },
+  {
+   "text": "H-3568 Vár, Debreceni út 241.",
+   "bbox": [
+    121,
+    67,
+    498,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71634632-3-41",
+   "bbox": [
+    167,
+    95,
+    453,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    141,
+    361,
+    159
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    184,
+    220,
+    201
+   ]
+  },
+  {
+   "text": "395 C00",
+   "bbox": [
+    499,
+    184,
+    597,
+    201
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    218,
+    220,
+    233
+   ]
+  },
+  {
+   "text": "316 A00",
+   "bbox": [
+    499,
+    216,
+    597,
+    233
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    250,
+    206,
+    265
+   ]
+  },
+  {
+   "text": "1329 B00",
+   "bbox": [
+    485,
+    248,
+    597,
+    265
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    280,
+    192,
+    297
+   ]
+  },
+  {
+   "text": "899 C00",
+   "bbox": [
+    499,
+    280,
+    597,
+    297
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    323,
+    177,
+    345
+   ]
+  },
+  {
+   "text": "2 939 Ft",
+   "bbox": [
+    461,
+    325,
+    597,
+    345
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    364,
+    179,
+    383
+   ]
+  },
+  {
+   "text": "2 939 Ft",
+   "bbox": [
+    485,
+    366,
+    597,
+    383
+   ]
+  },
+  {
+   "text": "2024.02.29.",
+   "bbox": [
+    24,
+    412,
+    167,
+    428
+   ]
+  },
+  {
+   "text": "07:43",
+   "bbox": [
+    532,
+    412,
+    597,
+    428
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2858/07655",
+   "bbox": [
+    24,
+    443,
+    310,
+    463
+   ]
+  },
+  {
+   "text": "AP A75331746",
+   "bbox": [
+    24,
+    476,
+    180,
+    492
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    240,
+    519,
+    380,
+    537
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  621,
+  582
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FAZEKAS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-2909 Somogyfürdőberény, József attila utca 20.",
+  "adoszam": "69498983-5-06",
+  "datum": "2025.11.03.",
+  "ido": "15:27",
+  "nyugtaszam": "1019/36853",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "11 389 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "977"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2543"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7869"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FAZEKAS ÉLELMISZER KFT.",
+   "bbox": [
+    112,
+    31,
+    434,
+    49
+   ]
+  },
+  {
+   "text": "H-2909 Somogyfürdőberény, József attila utca",
+   "bbox": [
+    31,
+    63,
+    515,
+    82
+   ]
+  },
+  {
+   "text": "20.",
+   "bbox": [
+    256,
+    89,
+    289,
+    103
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 69498983-5-06",
+   "bbox": [
+    152,
+    113,
+    394,
+    128
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    228,
+    156,
+    318,
+    172
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    197,
+    128,
+    212
+   ]
+  },
+  {
+   "text": "977 A00",
+   "bbox": [
+    431,
+    197,
+    522,
+    212
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    226,
+    141,
+    241
+   ]
+  },
+  {
+   "text": "2543 B00",
+   "bbox": [
+    418,
+    226,
+    522,
+    241
+   ]
+  },
+  {
+   "text": "3 DB x 2623",
+   "bbox": [
+    24,
+    255,
+    145,
+    268
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    278,
+    271,
+    293
+   ]
+  },
+  {
+   "text": "7869 B00",
+   "bbox": [
+    418,
+    278,
+    522,
+    293
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    317,
+    174,
+    337
+   ]
+  },
+  {
+   "text": "11 389 Ft",
+   "bbox": [
+    387,
+    319,
+    522,
+    337
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    356,
+    128,
+    373
+   ]
+  },
+  {
+   "text": "11 389 Ft",
+   "bbox": [
+    405,
+    358,
+    522,
+    373
+   ]
+  },
+  {
+   "text": "2025.11.03.",
+   "bbox": [
+    24,
+    400,
+    145,
+    414
+   ]
+  },
+  {
+   "text": "15:27",
+   "bbox": [
+    467,
+    400,
+    522,
+    414
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1019/36853",
+   "bbox": [
+    24,
+    428,
+    266,
+    446
+   ]
+  },
+  {
+   "text": "AP A10291943",
+   "bbox": [
+    24,
+    458,
+    156,
+    472
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    183,
+    498,
+    363,
+    514
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  546,
+  559
+ ]
+}

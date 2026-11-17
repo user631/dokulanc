@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH ÉLELMISZER KFT.",
+  "uzlet_cim": "H-2281 Szolnok, Nagykanizsai utca 20.",
+  "adoszam": "41373963-3-19",
+  "datum": "2024.08.16.",
+  "ido": "15:01",
+  "nyugtaszam": "6604/13786",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 666 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "295"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "741"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "749"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "502"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2434"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "506"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1257"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1182"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ÉLELMISZER KFT.",
+   "bbox": [
+    185,
+    28,
+    445,
+    48
+   ]
+  },
+  {
+   "text": "H-2281 Szolnok, Nagykanizsai utca 20.",
+   "bbox": [
+    130,
+    65,
+    500,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 41373963-3-19",
+   "bbox": [
+    205,
+    88,
+    425,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    130,
+    357,
+    146
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    173,
+    180,
+    186
+   ]
+  },
+  {
+   "text": "295 A00",
+   "bbox": [
+    522,
+    173,
+    606,
+    186
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    202,
+    132,
+    215
+   ]
+  },
+  {
+   "text": "741 A00",
+   "bbox": [
+    522,
+    202,
+    606,
+    215
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    231,
+    120,
+    244
+   ]
+  },
+  {
+   "text": "749 A00",
+   "bbox": [
+    522,
+    231,
+    606,
+    244
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    260,
+    156,
+    273
+   ]
+  },
+  {
+   "text": "502 A00",
+   "bbox": [
+    522,
+    260,
+    606,
+    273
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    289,
+    252,
+    302
+   ]
+  },
+  {
+   "text": "2434 B00",
+   "bbox": [
+    510,
+    289,
+    606,
+    302
+   ]
+  },
+  {
+   "text": "2 DB x 253",
+   "bbox": [
+    24,
+    318,
+    124,
+    329
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    341,
+    192,
+    358
+   ]
+  },
+  {
+   "text": "506 A00",
+   "bbox": [
+    522,
+    341,
+    606,
+    354
+   ]
+  },
+  {
+   "text": "3 DB x 419",
+   "bbox": [
+    24,
+    370,
+    124,
+    381
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    393,
+    192,
+    406
+   ]
+  },
+  {
+   "text": "1257 B00",
+   "bbox": [
+    510,
+    393,
+    606,
+    406
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    422,
+    204,
+    435
+   ]
+  },
+  {
+   "text": "1182 A00",
+   "bbox": [
+    510,
+    422,
+    606,
+    435
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    458,
+    164,
+    479
+   ]
+  },
+  {
+   "text": "7 666 Ft",
+   "bbox": [
+    494,
+    463,
+    606,
+    479
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    498,
+    120,
+    515
+   ]
+  },
+  {
+   "text": "7 666 Ft",
+   "bbox": [
+    510,
+    502,
+    606,
+    515
+   ]
+  },
+  {
+   "text": "2024.08.16.",
+   "bbox": [
+    24,
+    545,
+    134,
+    557
+   ]
+  },
+  {
+   "text": "15:01",
+   "bbox": [
+    556,
+    545,
+    606,
+    557
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6604/13786",
+   "bbox": [
+    24,
+    571,
+    244,
+    588
+   ]
+  },
+  {
+   "text": "AP A31494866",
+   "bbox": [
+    24,
+    603,
+    144,
+    615
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    232,
+    639,
+    397,
+    656
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  630,
+  702
+ ]
+}

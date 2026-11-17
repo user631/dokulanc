@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET BT.",
+  "uzlet_cim": "H-4191 Kismellékapáti, Hátházai utca 77.",
+  "adoszam": "24905215-2-30",
+  "datum": "2026.05.03.",
+  "ido": "12:12",
+  "nyugtaszam": "7903/99979",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 151 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2922"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "2229"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET BT.",
+   "bbox": [
+    164,
+    28,
+    374,
+    50
+   ]
+  },
+  {
+   "text": "H-4191 Kismellékapáti, Hátházai utca 77.",
+   "bbox": [
+    29,
+    67,
+    509,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 24905215-2-30",
+   "bbox": [
+    137,
+    92,
+    401,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    139,
+    315,
+    157
+   ]
+  },
+  {
+   "text": "3 DB x 974",
+   "bbox": [
+    24,
+    185,
+    144,
+    198
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    211,
+    128,
+    226
+   ]
+  },
+  {
+   "text": "2922 A00",
+   "bbox": [
+    410,
+    211,
+    514,
+    226
+   ]
+  },
+  {
+   "text": "3 DB x 743",
+   "bbox": [
+    24,
+    243,
+    144,
+    256
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    269,
+    206,
+    284
+   ]
+  },
+  {
+   "text": "2229 A00",
+   "bbox": [
+    410,
+    269,
+    514,
+    284
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    308,
+    174,
+    331
+   ]
+  },
+  {
+   "text": "5 151 Ft",
+   "bbox": [
+    394,
+    313,
+    514,
+    331
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    350,
+    155,
+    370
+   ]
+  },
+  {
+   "text": "5 151 Ft",
+   "bbox": [
+    410,
+    354,
+    514,
+    370
+   ]
+  },
+  {
+   "text": "2026.05.03.",
+   "bbox": [
+    24,
+    401,
+    156,
+    415
+   ]
+  },
+  {
+   "text": "12:12",
+   "bbox": [
+    454,
+    401,
+    514,
+    415
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7903/99979",
+   "bbox": [
+    24,
+    428,
+    288,
+    449
+   ]
+  },
+  {
+   "text": "AP A85599414",
+   "bbox": [
+    24,
+    465,
+    168,
+    479
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    171,
+    504,
+    366,
+    524
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  538,
+  570
+ ]
+}

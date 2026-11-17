@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VARGA CSEMEGE KFT.",
+  "uzlet_cim": "H-8009 Lajoshátdevecser, Petőfi utca 25.",
+  "adoszam": "11685395-2-16",
+  "datum": "2025.09.29.",
+  "ido": "20:31",
+  "nyugtaszam": "1162/45026",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 106 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "354"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "482"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2270"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA CSEMEGE KFT.",
+   "bbox": [
+    177,
+    36,
+    412,
+    49
+   ]
+  },
+  {
+   "text": "H-8009 Lajoshátdevecser, Petőfi utca 25.",
+   "bbox": [
+    75,
+    65,
+    515,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 11685395-2-16",
+   "bbox": [
+    174,
+    87,
+    416,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    252,
+    130,
+    338,
+    144
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    171,
+    192,
+    183
+   ]
+  },
+  {
+   "text": "354 C00",
+   "bbox": [
+    482,
+    170,
+    566,
+    183
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    198,
+    132,
+    211
+   ]
+  },
+  {
+   "text": "482 A00",
+   "bbox": [
+    482,
+    198,
+    566,
+    211
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    226,
+    132,
+    239
+   ]
+  },
+  {
+   "text": "2270 B00",
+   "bbox": [
+    470,
+    226,
+    566,
+    239
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    262,
+    164,
+    282
+   ]
+  },
+  {
+   "text": "3 106 Ft",
+   "bbox": [
+    454,
+    267,
+    567,
+    282
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    301,
+    144,
+    317
+   ]
+  },
+  {
+   "text": "3 106 Ft",
+   "bbox": [
+    470,
+    304,
+    566,
+    317
+   ]
+  },
+  {
+   "text": "2025.09.29.",
+   "bbox": [
+    24,
+    346,
+    145,
+    357
+   ]
+  },
+  {
+   "text": "20:31",
+   "bbox": [
+    511,
+    346,
+    566,
+    357
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1162/45026",
+   "bbox": [
+    24,
+    371,
+    266,
+    386
+   ]
+  },
+  {
+   "text": "AP A15656427",
+   "bbox": [
+    24,
+    402,
+    156,
+    413
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    240,
+    440,
+    350,
+    454
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  590,
+  498
+ ]
+}

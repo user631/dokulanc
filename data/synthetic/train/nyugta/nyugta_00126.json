@@ -1,0 +1,314 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZALAI DISZKONT KFT.",
+  "uzlet_cim": "H-9321 Szolnok, Ady endre utca 244.",
+  "adoszam": "17400172-3-39",
+  "datum": "2026.07.14.",
+  "ido": "18:24",
+  "nyugtaszam": "9959/08875",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "8 895 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1356"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "408"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "887"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "675"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "562"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3760"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1237"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZALAI DISZKONT KFT.",
+   "bbox": [
+    137,
+    37,
+    457,
+    52
+   ]
+  },
+  {
+   "text": "H-9321 Szolnok, Ady endre utca 244.",
+   "bbox": [
+    69,
+    71,
+    524,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 17400172-3-39",
+   "bbox": [
+    154,
+    96,
+    440,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    245,
+    144,
+    349,
+    160
+   ]
+  },
+  {
+   "text": "2 DB x 678",
+   "bbox": [
+    24,
+    187,
+    154,
+    200
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    213,
+    150,
+    228
+   ]
+  },
+  {
+   "text": "1356 C00",
+   "bbox": [
+    459,
+    213,
+    571,
+    228
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    245,
+    220,
+    260
+   ]
+  },
+  {
+   "text": "408 A00",
+   "bbox": [
+    473,
+    245,
+    571,
+    260
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    277,
+    234,
+    292
+   ]
+  },
+  {
+   "text": "887 B00",
+   "bbox": [
+    473,
+    277,
+    571,
+    292
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    309,
+    136,
+    324
+   ]
+  },
+  {
+   "text": "675 B00",
+   "bbox": [
+    473,
+    309,
+    571,
+    324
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    341,
+    136,
+    356
+   ]
+  },
+  {
+   "text": "562 B00",
+   "bbox": [
+    473,
+    341,
+    571,
+    356
+   ]
+  },
+  {
+   "text": "2 DB x 1880",
+   "bbox": [
+    24,
+    373,
+    167,
+    386
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    400,
+    164,
+    414
+   ]
+  },
+  {
+   "text": "3760 B00",
+   "bbox": [
+    459,
+    399,
+    571,
+    414
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    431,
+    136,
+    446
+   ]
+  },
+  {
+   "text": "1237 C00",
+   "bbox": [
+    459,
+    431,
+    571,
+    446
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    472,
+    194,
+    494
+   ]
+  },
+  {
+   "text": "8 895 Ft",
+   "bbox": [
+    435,
+    477,
+    571,
+    494
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    513,
+    179,
+    532
+   ]
+  },
+  {
+   "text": "8 895 Ft",
+   "bbox": [
+    459,
+    517,
+    571,
+    532
+   ]
+  },
+  {
+   "text": "2026.07.14.",
+   "bbox": [
+    24,
+    563,
+    167,
+    577
+   ]
+  },
+  {
+   "text": "18:24",
+   "bbox": [
+    506,
+    563,
+    571,
+    577
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9959/08875",
+   "bbox": [
+    24,
+    592,
+    310,
+    611
+   ]
+  },
+  {
+   "text": "AP A60360605",
+   "bbox": [
+    24,
+    627,
+    180,
+    641
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    143,
+    666,
+    451,
+    686
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  595,
+  730
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Horváth Piroska",
+  "email": "horvath.piroska@gmail.com",
+  "telefon": "+36 30 638 1008",
+  "lakcim": "H-9286 Somogygyörgynádasd, Szombathelyi út 79.",
+  "szuletesi_datum": "1975. 02. 05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "1994 – 1999"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2004 – 2006"
+   },
+   {
+    "ceg": "Lakatos Consulting Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2000 – 2004"
+   },
+   {
+    "ceg": "Virág Consulting Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "1998 – 2000"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "SAP",
+   "Docker",
+   "Linux",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    80,
+    229,
+    104
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    131,
+    104,
+    146
+   ]
+  },
+  {
+   "text": "horvath.piroska@gmail.com",
+   "bbox": [
+    40,
+    156,
+    308,
+    175
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    191,
+    116,
+    206
+   ]
+  },
+  {
+   "text": "+36 30 638 1008",
+   "bbox": [
+    40,
+    216,
+    202,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    250,
+    114,
+    266
+   ]
+  },
+  {
+   "text": "H-9286 Somogygyörgynádasd,",
+   "bbox": [
+    40,
+    276,
+    337,
+    295
+   ]
+  },
+  {
+   "text": "Szombathelyi út 79.",
+   "bbox": [
+    40,
+    301,
+    230,
+    320
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    335,
+    203,
+    351
+   ]
+  },
+  {
+   "text": "1975. 02. 05.",
+   "bbox": [
+    40,
+    361,
+    166,
+    376
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    210,
+    444
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    466,
+    141,
+    486
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    495,
+    162,
+    515
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    549,
+    195,
+    573
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    595,
+    152,
+    615
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    624,
+    85,
+    640
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    653,
+    110,
+    669
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    682,
+    92,
+    698
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    711,
+    169,
+    731
+   ]
+  },
+  {
+   "text": "Horváth Piroska",
+   "bbox": [
+    450,
+    89,
+    810,
+    124
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    161,
+    651,
+    181
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    226,
+    708,
+    251
+   ]
+  },
+  {
+   "text": "2004 – 2006",
+   "bbox": [
+    450,
+    278,
+    579,
+    295
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Pintér Tech Kft.",
+   "bbox": [
+    448,
+    304,
+    826,
+    328
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    348,
+    579,
+    365
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Lakatos Consulting Zrt.",
+   "bbox": [
+    450,
+    374,
+    934,
+    398
+   ]
+  },
+  {
+   "text": "1998 – 2000",
+   "bbox": [
+    450,
+    418,
+    579,
+    435
+   ]
+  },
+  {
+   "text": "rendszergazda – Virág Consulting Kft.",
+   "bbox": [
+    450,
+    444,
+    885,
+    468
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    499,
+    627,
+    524
+   ]
+  },
+  {
+   "text": "1994 – 1999",
+   "bbox": [
+    450,
+    551,
+    579,
+    568
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    579,
+    660,
+    601
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    605,
+    591,
+    627
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    450,
+    648,
+    579,
+    665
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    674,
+    744,
+    693
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    702,
+    712,
+    724
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

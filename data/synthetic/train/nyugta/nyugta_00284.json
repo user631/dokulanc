@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FEKETE CSEMEGE BT.",
+  "uzlet_cim": "H-7447 Újmellékváros, Kecskeméti utca 237.",
+  "adoszam": "83749692-2-25",
+  "datum": "2024.06.19.",
+  "ido": "12:56",
+  "nyugtaszam": "7813/53998",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "11 782 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "756"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1433"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "564"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6666"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "264"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "634"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1026"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "439"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEKETE CSEMEGE BT.",
+   "bbox": [
+    142,
+    35,
+    394,
+    49
+   ]
+  },
+  {
+   "text": "H-7447 Újmellékváros, Kecskeméti utca 237.",
+   "bbox": [
+    37,
+    63,
+    499,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 83749692-2-25",
+   "bbox": [
+    147,
+    88,
+    389,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    131,
+    313,
+    147
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    172,
+    206,
+    187
+   ]
+  },
+  {
+   "text": "756 B00",
+   "bbox": [
+    422,
+    172,
+    513,
+    187
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    203,
+    193,
+    216
+   ]
+  },
+  {
+   "text": "1433 C00",
+   "bbox": [
+    409,
+    201,
+    513,
+    216
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    230,
+    232,
+    245
+   ]
+  },
+  {
+   "text": "564 A00",
+   "bbox": [
+    422,
+    230,
+    513,
+    245
+   ]
+  },
+  {
+   "text": "3 DB x 2222",
+   "bbox": [
+    24,
+    259,
+    145,
+    272
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    282,
+    271,
+    297
+   ]
+  },
+  {
+   "text": "6666 C00",
+   "bbox": [
+    409,
+    282,
+    513,
+    297
+   ]
+  },
+  {
+   "text": "3 DB x 88",
+   "bbox": [
+    24,
+    311,
+    123,
+    324
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    336,
+    102,
+    349
+   ]
+  },
+  {
+   "text": "264 C00",
+   "bbox": [
+    422,
+    334,
+    513,
+    349
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    363,
+    128,
+    378
+   ]
+  },
+  {
+   "text": "634 B00",
+   "bbox": [
+    422,
+    363,
+    513,
+    378
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    392,
+    180,
+    407
+   ]
+  },
+  {
+   "text": "1026 C00",
+   "bbox": [
+    409,
+    392,
+    513,
+    407
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    421,
+    167,
+    436
+   ]
+  },
+  {
+   "text": "439 C00",
+   "bbox": [
+    422,
+    421,
+    513,
+    436
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    460,
+    174,
+    480
+   ]
+  },
+  {
+   "text": "11 782 Ft",
+   "bbox": [
+    378,
+    462,
+    513,
+    480
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    499,
+    128,
+    516
+   ]
+  },
+  {
+   "text": "11 782 Ft",
+   "bbox": [
+    396,
+    501,
+    513,
+    516
+   ]
+  },
+  {
+   "text": "2024.06.19.",
+   "bbox": [
+    24,
+    543,
+    145,
+    557
+   ]
+  },
+  {
+   "text": "12:56",
+   "bbox": [
+    458,
+    543,
+    513,
+    557
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7813/53998",
+   "bbox": [
+    24,
+    571,
+    266,
+    589
+   ]
+  },
+  {
+   "text": "AP A75322738",
+   "bbox": [
+    24,
+    601,
+    156,
+    615
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    208,
+    641,
+    328,
+    657
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  537,
+  702
+ ]
+}

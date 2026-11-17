@@ -1,0 +1,422 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HAJDU ÉLELMISZER BT.",
+  "uzlet_cim": "H-2416 Mezőhídfa, Érdi utca 180.",
+  "adoszam": "85900800-2-36",
+  "datum": "2026.11.09.",
+  "ido": "14:54",
+  "nyugtaszam": "2089/50856",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 726 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "374"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "578"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1463"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2228"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "436"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "645"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "594"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "664"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "400"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "381"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "922"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1041"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HAJDU ÉLELMISZER BT.",
+   "bbox": [
+    156,
+    30,
+    436,
+    50
+   ]
+  },
+  {
+   "text": "H-2416 Mezőhídfa, Érdi utca 180.",
+   "bbox": [
+    104,
+    65,
+    488,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 85900800-2-36",
+   "bbox": [
+    164,
+    91,
+    428,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    137,
+    345,
+    152
+   ]
+  },
+  {
+   "text": "2 DB x 187",
+   "bbox": [
+    24,
+    178,
+    134,
+    190
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    203,
+    206,
+    220
+   ]
+  },
+  {
+   "text": "374 B00",
+   "bbox": [
+    477,
+    203,
+    568,
+    217
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    233,
+    128,
+    247
+   ]
+  },
+  {
+   "text": "578 C00",
+   "bbox": [
+    477,
+    233,
+    568,
+    247
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    264,
+    193,
+    277
+   ]
+  },
+  {
+   "text": "1463 B00",
+   "bbox": [
+    464,
+    263,
+    568,
+    277
+   ]
+  },
+  {
+   "text": "2 DB x 1114",
+   "bbox": [
+    24,
+    292,
+    145,
+    304
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    317,
+    180,
+    331
+   ]
+  },
+  {
+   "text": "2228 A00",
+   "bbox": [
+    464,
+    317,
+    568,
+    331
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    347,
+    206,
+    361
+   ]
+  },
+  {
+   "text": "436 B00",
+   "bbox": [
+    477,
+    347,
+    568,
+    361
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    377,
+    232,
+    391
+   ]
+  },
+  {
+   "text": "645 A00",
+   "bbox": [
+    477,
+    377,
+    568,
+    391
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    408,
+    206,
+    421
+   ]
+  },
+  {
+   "text": "594 B00",
+   "bbox": [
+    477,
+    407,
+    568,
+    421
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    437,
+    141,
+    451
+   ]
+  },
+  {
+   "text": "664 A00",
+   "bbox": [
+    477,
+    437,
+    568,
+    451
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    467,
+    141,
+    481
+   ]
+  },
+  {
+   "text": "400 A00",
+   "bbox": [
+    477,
+    467,
+    568,
+    481
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    497,
+    167,
+    514
+   ]
+  },
+  {
+   "text": "381 C00",
+   "bbox": [
+    477,
+    497,
+    568,
+    511
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    527,
+    128,
+    541
+   ]
+  },
+  {
+   "text": "922 A00",
+   "bbox": [
+    477,
+    527,
+    568,
+    541
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    557,
+    154,
+    571
+   ]
+  },
+  {
+   "text": "1041 C00",
+   "bbox": [
+    464,
+    557,
+    568,
+    571
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    596,
+    168,
+    616
+   ]
+  },
+  {
+   "text": "9 726 Ft",
+   "bbox": [
+    440,
+    600,
+    568,
+    616
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    636,
+    168,
+    653
+   ]
+  },
+  {
+   "text": "9 726 Ft",
+   "bbox": [
+    464,
+    639,
+    568,
+    653
+   ]
+  },
+  {
+   "text": "2026.11.09.",
+   "bbox": [
+    24,
+    682,
+    156,
+    695
+   ]
+  },
+  {
+   "text": "14:54",
+   "bbox": [
+    508,
+    682,
+    568,
+    695
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2089/50856",
+   "bbox": [
+    24,
+    709,
+    288,
+    727
+   ]
+  },
+  {
+   "text": "AP A69340398",
+   "bbox": [
+    24,
+    742,
+    168,
+    755
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    231,
+    783,
+    361,
+    798
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  592,
+  842
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS KISBOLT BT.",
+  "uzlet_cim": "H-2074 Székesfehérvár, Mellékapátii utca 51.",
+  "adoszam": "57812175-3-20",
+  "datum": "2025.07.14.",
+  "ido": "17:13",
+  "nyugtaszam": "9167/71836",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 463 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "160"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1570"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "399"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2609"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "146"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "579"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS KISBOLT BT.",
+   "bbox": [
+    204,
+    33,
+    412,
+    48
+   ]
+  },
+  {
+   "text": "H-2074 Székesfehérvár, Mellékapátii utca 51.",
+   "bbox": [
+    66,
+    64,
+    550,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 57812175-3-20",
+   "bbox": [
+    187,
+    88,
+    429,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    266,
+    133,
+    351,
+    150
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    177,
+    192,
+    195
+   ]
+  },
+  {
+   "text": "160 B00",
+   "bbox": [
+    508,
+    177,
+    592,
+    191
+   ]
+  },
+  {
+   "text": "2 DB x 785",
+   "bbox": [
+    24,
+    207,
+    124,
+    219
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    231,
+    120,
+    245
+   ]
+  },
+  {
+   "text": "1570 B00",
+   "bbox": [
+    496,
+    231,
+    592,
+    245
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    260,
+    156,
+    279
+   ]
+  },
+  {
+   "text": "399 B00",
+   "bbox": [
+    508,
+    261,
+    592,
+    275
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    291,
+    252,
+    305
+   ]
+  },
+  {
+   "text": "2609 A00",
+   "bbox": [
+    496,
+    291,
+    592,
+    305
+   ]
+  },
+  {
+   "text": "2 DB x 73",
+   "bbox": [
+    24,
+    321,
+    114,
+    333
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    345,
+    96,
+    359
+   ]
+  },
+  {
+   "text": "146 B00",
+   "bbox": [
+    508,
+    345,
+    592,
+    359
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    375,
+    192,
+    389
+   ]
+  },
+  {
+   "text": "579 B00",
+   "bbox": [
+    508,
+    375,
+    592,
+    389
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    412,
+    164,
+    434
+   ]
+  },
+  {
+   "text": "6 463 Ft",
+   "bbox": [
+    480,
+    417,
+    592,
+    434
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    452,
+    144,
+    471
+   ]
+  },
+  {
+   "text": "6 463 Ft",
+   "bbox": [
+    496,
+    457,
+    592,
+    471
+   ]
+  },
+  {
+   "text": "2025.07.14.",
+   "bbox": [
+    24,
+    500,
+    145,
+    513
+   ]
+  },
+  {
+   "text": "17:13",
+   "bbox": [
+    537,
+    500,
+    592,
+    513
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9167/71836",
+   "bbox": [
+    24,
+    526,
+    266,
+    545
+   ]
+  },
+  {
+   "text": "AP A73402549",
+   "bbox": [
+    24,
+    560,
+    156,
+    573
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    248,
+    599,
+    368,
+    616
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  616,
+  662
+ ]
+}

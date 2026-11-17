@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Bálint Boglárka",
+  "email": "balint.boglarka@freemail.hu",
+  "telefon": "+36 70 407 3575",
+  "lakcim": "H-2099 Szombathely, Mezőtamásii utca 33.",
+  "szuletesi_datum": "1996. május 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2014 – 2019"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Jónás Consulting Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Budai Trade Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "ceg": "Nagy Consulting Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "Excel",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bálint Boglárka",
+   "bbox": [
+    479,
+    96,
+    761,
+    135
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    572,
+    163,
+    668,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    144,
+    230
+   ]
+  },
+  {
+   "text": "balint.boglarka@freemail.hu",
+   "bbox": [
+    330,
+    217,
+    550,
+    233
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    246,
+    155,
+    259
+   ]
+  },
+  {
+   "text": "+36 70 407 3575",
+   "bbox": [
+    330,
+    247,
+    461,
+    259
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    275,
+    149,
+    288
+   ]
+  },
+  {
+   "text": "H-2099 Szombathely, Mezőtamásii utca 33.",
+   "bbox": [
+    330,
+    275,
+    664,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    304,
+    222,
+    317
+   ]
+  },
+  {
+   "text": "1996. május 14.",
+   "bbox": [
+    330,
+    304,
+    455,
+    320
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    353,
+    277,
+    373
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    402,
+    206,
+    418
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Jónás Consulting Bt.",
+   "bbox": [
+    90,
+    424,
+    502,
+    442
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    465,
+    187,
+    477
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Budai Trade Kft.",
+   "bbox": [
+    90,
+    486,
+    415,
+    504
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    527,
+    187,
+    539
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Nagy Consulting Bt.",
+   "bbox": [
+    89,
+    548,
+    398,
+    566
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    598,
+    218,
+    618
+   ]
+  },
+  {
+   "text": "2014 – 2019",
+   "bbox": [
+    90,
+    648,
+    187,
+    660
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    669,
+    297,
+    687
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    693,
+    195,
+    709
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    733,
+    187,
+    745
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    754,
+    323,
+    772
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    778,
+    157,
+    794
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    827,
+    197,
+    847
+   ]
+  },
+  {
+   "text": "német (B2), francia (A2)",
+   "bbox": [
+    90,
+    876,
+    274,
+    892
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    921,
+    188,
+    941
+   ]
+  },
+  {
+   "text": "prezentáció, B kategóriás jogosítvány, Excel, csapatmunka",
+   "bbox": [
+    90,
+    970,
+    535,
+    986
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Martin",
+  "email": "szabo.martin@citromail.hu",
+  "telefon": "06 1 627 3422",
+  "lakcim": "H-1202 Békésligetnádasd, Szombathelyi utca 122.",
+  "szuletesi_datum": "1996.09.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Barna Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2022 – 2024"
+   },
+   {
+    "ceg": "Hegedűs Consulting Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2022"
+   },
+   {
+    "ceg": "Juhász Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2020 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "Python",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Martin",
+   "bbox": [
+    452,
+    113,
+    788,
+    150
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    506,
+    184,
+    733,
+    211
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    240,
+    177,
+    257
+   ]
+  },
+  {
+   "text": "szabo.martin@citromail.hu",
+   "bbox": [
+    330,
+    240,
+    608,
+    261
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    273,
+    188,
+    290
+   ]
+  },
+  {
+   "text": "06 1 627 3422",
+   "bbox": [
+    330,
+    274,
+    475,
+    294
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    306,
+    186,
+    323
+   ]
+  },
+  {
+   "text": "H-1202 Békésligetnádasd, Szombathelyi utca 122.",
+   "bbox": [
+    330,
+    306,
+    838,
+    328
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    339,
+    287,
+    356
+   ]
+  },
+  {
+   "text": "1996.09.03.",
+   "bbox": [
+    330,
+    340,
+    451,
+    360
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    392,
+    367,
+    418
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    90,
+    450,
+    223,
+    466
+   ]
+  },
+  {
+   "text": "rendszergazda – Barna Bt.",
+   "bbox": [
+    90,
+    472,
+    417,
+    495
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    90,
+    520,
+    220,
+    532
+   ]
+  },
+  {
+   "text": "projektmenedzser – Hegedűs Consulting Bt.",
+   "bbox": [
+    90,
+    542,
+    635,
+    565
+   ]
+  },
+  {
+   "text": "2020 – 2021",
+   "bbox": [
+    90,
+    590,
+    221,
+    602
+   ]
+  },
+  {
+   "text": "rendszergazda – Juhász Zrt.",
+   "bbox": [
+    90,
+    612,
+    438,
+    635
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    664,
+    282,
+    691
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    90,
+    719,
+    217,
+    735
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    745,
+    425,
+    768
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    772,
+    437,
+    794
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    816,
+    217,
+    832
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    842,
+    391,
+    865
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    869,
+    290,
+    891
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    921,
+    244,
+    948
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    975,
+    196,
+    997
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1023,
+    233,
+    1050
+   ]
+  },
+  {
+   "text": "csapatmunka, B kategóriás jogosítvány, Python, SAP",
+   "bbox": [
+    90,
+    1077,
+    624,
+    1099
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SIMON DISZKONT BT.",
+  "uzlet_cim": "H-4788 Hajdúligetkőrös, Kossuth utca 36.",
+  "adoszam": "66619994-2-44",
+  "datum": "2024.02.09.",
+  "ido": "14:08",
+  "nyugtaszam": "8553/36714",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 329 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "516"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "349"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "464"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON DISZKONT BT.",
+   "bbox": [
+    146,
+    34,
+    398,
+    49
+   ]
+  },
+  {
+   "text": "H-4788 Hajdúligetkőrös, Kossuth utca 36.",
+   "bbox": [
+    32,
+    64,
+    512,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 66619994-2-44",
+   "bbox": [
+    140,
+    90,
+    404,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    135,
+    320,
+    151
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    176,
+    167,
+    192
+   ]
+  },
+  {
+   "text": "516 C00",
+   "bbox": [
+    430,
+    176,
+    521,
+    192
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    206,
+    167,
+    225
+   ]
+  },
+  {
+   "text": "349 A00",
+   "bbox": [
+    430,
+    206,
+    521,
+    222
+   ]
+  },
+  {
+   "text": "2 DB x 232",
+   "bbox": [
+    24,
+    235,
+    134,
+    249
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    260,
+    206,
+    279
+   ]
+  },
+  {
+   "text": "464 B00",
+   "bbox": [
+    430,
+    260,
+    521,
+    276
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    300,
+    184,
+    321
+   ]
+  },
+  {
+   "text": "1 329 Ft",
+   "bbox": [
+    393,
+    302,
+    521,
+    321
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    341,
+    168,
+    358
+   ]
+  },
+  {
+   "text": "1 329 Ft",
+   "bbox": [
+    417,
+    342,
+    521,
+    358
+   ]
+  },
+  {
+   "text": "2024.02.09.",
+   "bbox": [
+    24,
+    386,
+    156,
+    400
+   ]
+  },
+  {
+   "text": "14:08",
+   "bbox": [
+    461,
+    386,
+    521,
+    400
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8553/36714",
+   "bbox": [
+    24,
+    414,
+    288,
+    433
+   ]
+  },
+  {
+   "text": "AP A24320871",
+   "bbox": [
+    24,
+    446,
+    168,
+    460
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    207,
+    486,
+    337,
+    503
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  545,
+  548
+ ]
+}

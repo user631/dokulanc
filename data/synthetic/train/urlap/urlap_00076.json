@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Molnár Katalin",
+  "anyja_neve": "Takács László",
+  "szuletesi_hely": "Balatonhetvenvár",
+  "szuletesi_datum": "1994. 09. 06.",
+  "lakcim": "H-3441 Mindszentfa, Magyarhetveni utca 134.",
+  "telefon": "+36 20 793 4109",
+  "email": "molnar.katalin@freemail.hu",
+  "adoazonosito_jel": "8466342729",
+  "taj_szam": "210 479 964",
+  "kelt": "Apáti, 2025. 02. 22."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    530,
+    98,
+    708,
+    126
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    467,
+    146,
+    773,
+    165
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    200,
+    333,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    256,
+    141,
+    273
+   ]
+  },
+  {
+   "text": "Molnár Katalin",
+   "bbox": [
+    427,
+    255,
+    652,
+    278
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    311,
+    209,
+    331
+   ]
+  },
+  {
+   "text": "Takács László",
+   "bbox": [
+    427,
+    308,
+    626,
+    331
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    364,
+    232,
+    385
+   ]
+  },
+  {
+   "text": "Balatonhetvenvár",
+   "bbox": [
+    427,
+    359,
+    679,
+    382
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    418,
+    222,
+    435
+   ]
+  },
+  {
+   "text": "1994. 09. 06.",
+   "bbox": [
+    427,
+    414,
+    620,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    472,
+    170,
+    489
+   ]
+  },
+  {
+   "text": "H-3441 Mindszentfa, Magyarhetveni utca 134.",
+   "bbox": [
+    427,
+    468,
+    1097,
+    495
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    526,
+    222,
+    543
+   ]
+  },
+  {
+   "text": "+36 20 793 4109",
+   "bbox": [
+    427,
+    521,
+    681,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    580,
+    205,
+    597
+   ]
+  },
+  {
+   "text": "molnar.katalin@freemail.hu",
+   "bbox": [
+    427,
+    578,
+    835,
+    604
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    634,
+    257,
+    655
+   ]
+  },
+  {
+   "text": "8466342729",
+   "bbox": [
+    427,
+    634,
+    617,
+    654
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    688,
+    194,
+    705
+   ]
+  },
+  {
+   "text": "210 479 964",
+   "bbox": [
+    427,
+    686,
+    618,
+    706
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    769,
+    284,
+    793
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    813,
+    453,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    858,
+    282,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    903,
+    476,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    1008,
+    132,
+    1025
+   ]
+  },
+  {
+   "text": "Apáti, 2025. 02. 22.",
+   "bbox": [
+    177,
+    1006,
+    449,
+    1031
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1057,
+    987,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

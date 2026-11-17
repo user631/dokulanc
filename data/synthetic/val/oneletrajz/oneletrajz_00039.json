@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Dudás Katalin",
+  "email": "dudas.katalin@example.hu",
+  "telefon": "+36 70 493 2472",
+  "lakcim": "H-9915 Hódmezővásárhely, Somogytamásii utca 78.",
+  "szuletesi_datum": "1995. december 2.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Török Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "ceg": "Tóth Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2019 – 2020"
+   },
+   {
+    "ceg": "Tamás Szolgáltató Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2017 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "Python",
+   "Git",
+   "B kategóriás jogosítvány",
+   "prezentáció",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Dudás Katalin",
+   "bbox": [
+    460,
+    98,
+    779,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    521,
+    167,
+    718,
+    187
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    164,
+    237
+   ]
+  },
+  {
+   "text": "dudas.katalin@example.hu",
+   "bbox": [
+    330,
+    220,
+    606,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    177,
+    270
+   ]
+  },
+  {
+   "text": "+36 70 493 2472",
+   "bbox": [
+    330,
+    254,
+    496,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    172,
+    303
+   ]
+  },
+  {
+   "text": "H-9915 Hódmezővásárhely, Somogytamásii utca 78.",
+   "bbox": [
+    330,
+    285,
+    855,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    267,
+    336
+   ]
+  },
+  {
+   "text": "1995. december 2.",
+   "bbox": [
+    330,
+    319,
+    515,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    374,
+    346,
+    400
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    426,
+    210,
+    442
+   ]
+  },
+  {
+   "text": "rendszergazda – Török Kft.",
+   "bbox": [
+    90,
+    452,
+    398,
+    476
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    90,
+    496,
+    210,
+    512
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Logisztika Kft.",
+   "bbox": [
+    90,
+    522,
+    469,
+    546
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    90,
+    566,
+    210,
+    582
+   ]
+  },
+  {
+   "text": "rendszergazda – Tamás Szolgáltató Kft.",
+   "bbox": [
+    90,
+    592,
+    539,
+    616
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    647,
+    265,
+    673
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    699,
+    210,
+    715
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    725,
+    680,
+    749
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    751,
+    289,
+    774
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    796,
+    210,
+    812
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    822,
+    369,
+    846
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    848,
+    350,
+    871
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    904,
+    235,
+    930
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (C1)",
+   "bbox": [
+    90,
+    955,
+    303,
+    977
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1006,
+    223,
+    1032
+   ]
+  },
+  {
+   "text": "JavaScript, Python, Git, B kategóriás jogosítvány, prezentáció, Excel",
+   "bbox": [
+    90,
+    1056,
+    767,
+    1079
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

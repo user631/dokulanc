@@ -1,0 +1,354 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Vörös Attila",
+  "email": "voros.attila@gmail.com",
+  "telefon": "+36 70 547 8095",
+  "lakcim": "H-5211 Hídfalva, Egeri utca 223.",
+  "szuletesi_datum": "1977. 02. 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "1997 – 2000"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "ceg": "Papp Consulting Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "ceg": "Horváth Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2001 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "prezentáció",
+   "JavaScript",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    103,
+    227,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    149,
+    109,
+    164
+   ]
+  },
+  {
+   "text": "voros.attila@gmail.com",
+   "bbox": [
+    40,
+    172,
+    263,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    205,
+    121,
+    220
+   ]
+  },
+  {
+   "text": "+36 70 547 8095",
+   "bbox": [
+    40,
+    229,
+    209,
+    243
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    260,
+    116,
+    276
+   ]
+  },
+  {
+   "text": "H-5211 Hídfalva, Egeri utca 223.",
+   "bbox": [
+    40,
+    284,
+    353,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    316,
+    215,
+    332
+   ]
+  },
+  {
+   "text": "1977. 02. 10.",
+   "bbox": [
+    40,
+    341,
+    171,
+    355
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    400,
+    213,
+    422
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    442,
+    146,
+    462
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    468,
+    156,
+    489
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    523,
+    191,
+    545
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    565,
+    110,
+    581
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    591,
+    156,
+    612
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    620,
+    143,
+    639
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    647,
+    69,
+    662
+   ]
+  },
+  {
+   "text": "Vörös Attila",
+   "bbox": [
+    450,
+    113,
+    747,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    180,
+    661,
+    200
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    735,
+    268
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    450,
+    294,
+    581,
+    310
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kovács és Társa Kft.",
+   "bbox": [
+    450,
+    318,
+    890,
+    336
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    360,
+    581,
+    376
+   ]
+  },
+  {
+   "text": "tesztmérnök – Papp Consulting Zrt.",
+   "bbox": [
+    450,
+    384,
+    892,
+    406
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    450,
+    426,
+    581,
+    442
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth Logisztika Kft.",
+   "bbox": [
+    450,
+    450,
+    1106,
+    472
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    501,
+    640,
+    527
+   ]
+  },
+  {
+   "text": "1997 – 2000",
+   "bbox": [
+    450,
+    553,
+    581,
+    569
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    577,
+    870,
+    599
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    450,
+    602,
+    619,
+    623
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    644,
+    581,
+    660
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    668,
+    754,
+    690
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    693,
+    656,
+    714
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

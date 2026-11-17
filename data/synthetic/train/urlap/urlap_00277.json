@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Bakos Éva",
+  "anyja_neve": "Varga János",
+  "szuletesi_hely": "Ligetnádasd",
+  "szuletesi_datum": "1972. 03. 03.",
+  "lakcim": "H-8634 Szentmelléknémeti, Mosonmagyaróvári tér 217.",
+  "telefon": "+36 30 779 8108",
+  "email": "bakos.eva@citromail.hu",
+  "adoazonosito_jel": "8384121401",
+  "taj_szam": "006 350 729",
+  "kelt": "Mosonmagyaróvár, 2024. 05. 04."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    333,
+    85,
+    908,
+    118
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    80,
+    189,
+    278,
+    210
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    92,
+    241,
+    127,
+    254
+   ]
+  },
+  {
+   "text": "Bakos Éva",
+   "bbox": [
+    391,
+    232,
+    526,
+    255
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    92,
+    292,
+    182,
+    309
+   ]
+  },
+  {
+   "text": "Varga János",
+   "bbox": [
+    391,
+    286,
+    558,
+    312
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    92,
+    342,
+    201,
+    360
+   ]
+  },
+  {
+   "text": "Ligetnádasd",
+   "bbox": [
+    391,
+    333,
+    562,
+    361
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    92,
+    393,
+    195,
+    407
+   ]
+  },
+  {
+   "text": "1972. 03. 03.",
+   "bbox": [
+    391,
+    392,
+    559,
+    410
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    92,
+    444,
+    150,
+    458
+   ]
+  },
+  {
+   "text": "H-8634 Szentmelléknémeti, Mosonmagyaróvári tér 217.",
+   "bbox": [
+    391,
+    437,
+    1111,
+    464
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    92,
+    495,
+    195,
+    509
+   ]
+  },
+  {
+   "text": "+36 30 779 8108",
+   "bbox": [
+    391,
+    493,
+    607,
+    511
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    92,
+    546,
+    178,
+    560
+   ]
+  },
+  {
+   "text": "bakos.eva@citromail.hu",
+   "bbox": [
+    391,
+    538,
+    709,
+    561
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    92,
+    597,
+    230,
+    615
+   ]
+  },
+  {
+   "text": "8384121401",
+   "bbox": [
+    391,
+    592,
+    551,
+    610
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    92,
+    649,
+    169,
+    662
+   ]
+  },
+  {
+   "text": "006 350 729",
+   "bbox": [
+    391,
+    643,
+    551,
+    661
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    80,
+    727,
+    242,
+    748
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    125,
+    769,
+    397,
+    787
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    125,
+    814,
+    249,
+    828
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    125,
+    859,
+    418,
+    877
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    80,
+    963,
+    116,
+    977
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár, 2024. 05. 04.",
+   "bbox": [
+    170,
+    956,
+    554,
+    981
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    948,
+    1012,
+    991,
+    1023
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

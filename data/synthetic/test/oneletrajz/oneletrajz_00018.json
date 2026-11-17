@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Nagy Zsuzsanna",
+  "email": "nagy.zsuzsanna@freemail.hu",
+  "telefon": "+36 30 521 9814",
+  "lakcim": "H-6055 Oroszszékvár, Drávamelléki utca 204.",
+  "szuletesi_datum": "1997.08.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lukács Trade Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2021 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Docker",
+   "ügyfélkezelés",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    241,
+    114
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    138,
+    114,
+    155
+   ]
+  },
+  {
+   "text": "nagy.zsuzsanna@freemail.hu",
+   "bbox": [
+    40,
+    163,
+    350,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    198,
+    127,
+    215
+   ]
+  },
+  {
+   "text": "+36 30 521 9814",
+   "bbox": [
+    40,
+    224,
+    221,
+    240
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    258,
+    122,
+    275
+   ]
+  },
+  {
+   "text": "H-6055 Oroszszékvár,",
+   "bbox": [
+    40,
+    283,
+    275,
+    304
+   ]
+  },
+  {
+   "text": "Drávamelléki utca 204.",
+   "bbox": [
+    40,
+    308,
+    285,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    343,
+    230,
+    360
+   ]
+  },
+  {
+   "text": "1997.08.27.",
+   "bbox": [
+    40,
+    369,
+    168,
+    385
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    428,
+    226,
+    454
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    475,
+    157,
+    496
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    528,
+    203,
+    554
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    576,
+    83,
+    592
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    604,
+    117,
+    621
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    632,
+    189,
+    654
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    662,
+    97,
+    679
+   ]
+  },
+  {
+   "text": "Nagy Zsuzsanna",
+   "bbox": [
+    450,
+    102,
+    879,
+    145
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    166,
+    589,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    754,
+    261
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    450,
+    288,
+    601,
+    305
+   ]
+  },
+  {
+   "text": "adatelemző – Lukács Trade Bt.",
+   "bbox": [
+    450,
+    313,
+    861,
+    333
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    367,
+    654,
+    394
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    421,
+    601,
+    438
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    446,
+    785,
+    471
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    474,
+    612,
+    497
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    518,
+    601,
+    535
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    543,
+    771,
+    568
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    571,
+    676,
+    594
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

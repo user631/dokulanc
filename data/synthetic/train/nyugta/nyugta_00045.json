@@ -1,0 +1,204 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HEGEDŰS ABC KFT.",
+  "uzlet_cim": "H-2065 Pilishetvenváros, Dunaújvárosi utca 6.",
+  "adoszam": "42393665-2-38",
+  "datum": "2026.12.20.",
+  "ido": "11:47",
+  "nyugtaszam": "2197/93686",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 877 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1137"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "3740"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HEGEDŰS ABC KFT.",
+   "bbox": [
+    169,
+    28,
+    377,
+    48
+   ]
+  },
+  {
+   "text": "H-2065 Pilishetvenváros, Dunaújvárosi utca 6.",
+   "bbox": [
+    48,
+    65,
+    498,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 42393665-2-38",
+   "bbox": [
+    163,
+    88,
+    383,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    231,
+    130,
+    315,
+    146
+   ]
+  },
+  {
+   "text": "3 DB x 379",
+   "bbox": [
+    24,
+    173,
+    124,
+    184
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    195,
+    156,
+    213
+   ]
+  },
+  {
+   "text": "1137 A00",
+   "bbox": [
+    427,
+    196,
+    523,
+    209
+   ]
+  },
+  {
+   "text": "2 DB x 1870",
+   "bbox": [
+    24,
+    225,
+    134,
+    236
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    248,
+    132,
+    261
+   ]
+  },
+  {
+   "text": "3740 C00",
+   "bbox": [
+    427,
+    248,
+    523,
+    261
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    284,
+    164,
+    305
+   ]
+  },
+  {
+   "text": "5 877 Ft",
+   "bbox": [
+    411,
+    289,
+    523,
+    305
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    324,
+    156,
+    341
+   ]
+  },
+  {
+   "text": "5 877 Ft",
+   "bbox": [
+    427,
+    328,
+    523,
+    341
+   ]
+  },
+  {
+   "text": "2026.12.20.",
+   "bbox": [
+    24,
+    371,
+    134,
+    383
+   ]
+  },
+  {
+   "text": "11:47",
+   "bbox": [
+    473,
+    371,
+    523,
+    383
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2197/93686",
+   "bbox": [
+    24,
+    397,
+    244,
+    414
+   ]
+  },
+  {
+   "text": "AP A18874964",
+   "bbox": [
+    24,
+    429,
+    144,
+    441
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    218,
+    465,
+    328,
+    482
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  547,
+  528
+ ]
+}

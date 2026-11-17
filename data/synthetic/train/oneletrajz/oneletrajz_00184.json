@@ -1,0 +1,341 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szilágyi Márta",
+  "email": "szilagyi.marta@citromail.hu",
+  "telefon": "+36 30 912 4189",
+  "lakcim": "H-8222 Mellékvég, Ady endre utca 192.",
+  "szuletesi_datum": "1988. 12. 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2006 – 2011"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Consulting Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2012 – 2013"
+   },
+   {
+    "ceg": "Hegedüs Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2010 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Linux",
+   "Excel",
+   "Python",
+   "B kategóriás jogosítvány",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    103,
+    200,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    90,
+    159
+   ]
+  },
+  {
+   "text": "szilagyi.marta@citromail.hu",
+   "bbox": [
+    40,
+    168,
+    242,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    96,
+    211
+   ]
+  },
+  {
+   "text": "+36 30 912 4189",
+   "bbox": [
+    40,
+    221,
+    161,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    252,
+    96,
+    263
+   ]
+  },
+  {
+   "text": "H-8222 Mellékvég, Ady endre utca 192.",
+   "bbox": [
+    40,
+    272,
+    325,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    304,
+    156,
+    315
+   ]
+  },
+  {
+   "text": "1988. 12. 23.",
+   "bbox": [
+    40,
+    325,
+    132,
+    336
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    382,
+    184,
+    400
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    422,
+    122,
+    439
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    474,
+    169,
+    492
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    514,
+    61,
+    527
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    539,
+    83,
+    552
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    564,
+    81,
+    577
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    589,
+    91,
+    606
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    614,
+    220,
+    631
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    639,
+    116,
+    656
+   ]
+  },
+  {
+   "text": "Szilágyi Márta",
+   "bbox": [
+    450,
+    111,
+    724,
+    150
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    178,
+    612,
+    194
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    651,
+    260
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    450,
+    288,
+    550,
+    300
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Consulting Bt.",
+   "bbox": [
+    450,
+    311,
+    791,
+    328
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    450,
+    350,
+    550,
+    362
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Hegedüs Szolgáltató Kft.",
+   "bbox": [
+    450,
+    373,
+    860,
+    390
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    423,
+    590,
+    443
+   ]
+  },
+  {
+   "text": "2006 – 2011",
+   "bbox": [
+    450,
+    471,
+    550,
+    483
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    494,
+    684,
+    511
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    449,
+    516,
+    554,
+    533
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    556,
+    550,
+    568
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    579,
+    666,
+    596
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    601,
+    598,
+    618
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Budai Mária",
+  "email": "budai.maria@gmail.com",
+  "telefon": "+36 30 149 6152",
+  "lakcim": "H-8202 Békésszékvára, Tamásiváradi utca 172.",
+  "szuletesi_datum": "1993. augusztus 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Budai Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2021 – 2024"
+   },
+   {
+    "ceg": "Mezei Logisztika Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2019 – 2021"
+   },
+   {
+    "ceg": "Balogh Trade Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "ügyfélkezelés",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    99,
+    200,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    98,
+    160
+   ]
+  },
+  {
+   "text": "budai.maria@gmail.com",
+   "bbox": [
+    40,
+    169,
+    260,
+    188
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    203,
+    112,
+    218
+   ]
+  },
+  {
+   "text": "+36 30 149 6152",
+   "bbox": [
+    40,
+    228,
+    178,
+    242
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    261,
+    106,
+    276
+   ]
+  },
+  {
+   "text": "H-8202 Békésszékvára, Tamásiváradi",
+   "bbox": [
+    40,
+    284,
+    371,
+    304
+   ]
+  },
+  {
+   "text": "utca 172.",
+   "bbox": [
+    40,
+    310,
+    123,
+    324
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    343,
+    192,
+    358
+   ]
+  },
+  {
+   "text": "1993. augusztus 24.",
+   "bbox": [
+    40,
+    368,
+    214,
+    386
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    429,
+    186,
+    450
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    471,
+    143,
+    491
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    500,
+    132,
+    519
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    555,
+    166,
+    576
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    597,
+    268,
+    617
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    625,
+    166,
+    645
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    654,
+    90,
+    669
+   ]
+  },
+  {
+   "text": "Budai Mária",
+   "bbox": [
+    450,
+    107,
+    702,
+    141
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    173,
+    574,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    691,
+    265
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    450,
+    292,
+    568,
+    308
+   ]
+  },
+  {
+   "text": "értékesítő – Budai Bt.",
+   "bbox": [
+    450,
+    318,
+    680,
+    335
+   ]
+  },
+  {
+   "text": "2019 – 2021",
+   "bbox": [
+    450,
+    360,
+    568,
+    376
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Mezei Logisztika Zrt.",
+   "bbox": [
+    449,
+    386,
+    863,
+    408
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    428,
+    568,
+    444
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Balogh Trade Bt.",
+   "bbox": [
+    450,
+    454,
+    833,
+    476
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    507,
+    613,
+    531
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    450,
+    558,
+    568,
+    574
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    584,
+    643,
+    606
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    608,
+    781,
+    631
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    652,
+    568,
+    668
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    678,
+    757,
+    700
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    702,
+    539,
+    725
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

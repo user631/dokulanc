@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tóth Eszter",
+  "email": "toth.eszter@citromail.hu",
+  "telefon": "+36 30 878 8419",
+  "lakcim": "H-4652 Fürdődevecser, Szigetszentmiklósi utca 33.",
+  "szuletesi_datum": "1996. május 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2015 – 2019"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "C#",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Eszter",
+   "bbox": [
+    515,
+    84,
+    724,
+    115
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    542,
+    154,
+    697,
+    170
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    205,
+    144,
+    218
+   ]
+  },
+  {
+   "text": "toth.eszter@citromail.hu",
+   "bbox": [
+    330,
+    205,
+    523,
+    220
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    234,
+    155,
+    247
+   ]
+  },
+  {
+   "text": "+36 30 878 8419",
+   "bbox": [
+    330,
+    235,
+    461,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    263,
+    149,
+    276
+   ]
+  },
+  {
+   "text": "H-4652 Fürdődevecser, Szigetszentmiklósi utca 33.",
+   "bbox": [
+    330,
+    263,
+    722,
+    279
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    292,
+    222,
+    305
+   ]
+  },
+  {
+   "text": "1996. május 29.",
+   "bbox": [
+    330,
+    292,
+    455,
+    308
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    341,
+    277,
+    361
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    391,
+    187,
+    403
+   ]
+  },
+  {
+   "text": "értékesítő – Fekete Bt.",
+   "bbox": [
+    90,
+    412,
+    279,
+    426
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    462,
+    218,
+    482
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    512,
+    187,
+    524
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    533,
+    297,
+    551
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    557,
+    195,
+    573
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    597,
+    187,
+    609
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    619,
+    291,
+    636
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    642,
+    240,
+    658
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    691,
+    197,
+    711
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    740,
+    166,
+    756
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    785,
+    188,
+    805
+   ]
+  },
+  {
+   "text": "Docker, C#, JavaScript",
+   "bbox": [
+    90,
+    834,
+    259,
+    850
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

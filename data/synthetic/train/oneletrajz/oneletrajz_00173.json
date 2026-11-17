@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Pásztor János",
+  "email": "pasztor.janos@example.hu",
+  "telefon": "+36 20 985 2216",
+  "lakcim": "H-4803 Szolnok, Dunakeszii utca 226.",
+  "szuletesi_datum": "1993. június 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros Trade Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2020 – 2022"
+   },
+   {
+    "ceg": "Molnár Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2019 – 2020"
+   },
+   {
+    "ceg": "Varga Tech Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "projektmenedzsment",
+   "Docker",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Pásztor János",
+   "bbox": [
+    474,
+    120,
+    766,
+    154
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    515,
+    190,
+    725,
+    215
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    245,
+    164,
+    260
+   ]
+  },
+  {
+   "text": "pasztor.janos@example.hu",
+   "bbox": [
+    329,
+    244,
+    581,
+    265
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    278,
+    172,
+    293
+   ]
+  },
+  {
+   "text": "+36 20 985 2216",
+   "bbox": [
+    330,
+    278,
+    493,
+    293
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    311,
+    173,
+    326
+   ]
+  },
+  {
+   "text": "H-4803 Szolnok, Dunakeszii utca 226.",
+   "bbox": [
+    330,
+    310,
+    694,
+    330
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    344,
+    254,
+    359
+   ]
+  },
+  {
+   "text": "1993. június 26.",
+   "bbox": [
+    330,
+    343,
+    483,
+    364
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    398,
+    326,
+    422
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    90,
+    450,
+    210,
+    465
+   ]
+  },
+  {
+   "text": "rendszergazda – Mészáros Trade Kft.",
+   "bbox": [
+    90,
+    477,
+    478,
+    498
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    90,
+    520,
+    210,
+    535
+   ]
+  },
+  {
+   "text": "adatelemző – Molnár Logisztika Kft.",
+   "bbox": [
+    90,
+    547,
+    469,
+    568
+   ]
+  },
+  {
+   "text": "2016 – 2019",
+   "bbox": [
+    90,
+    590,
+    210,
+    605
+   ]
+  },
+  {
+   "text": "adatelemző – Varga Tech Zrt.",
+   "bbox": [
+    90,
+    617,
+    399,
+    638
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    671,
+    255,
+    695
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    723,
+    210,
+    738
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    750,
+    291,
+    771
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    776,
+    241,
+    797
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    820,
+    210,
+    835
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    847,
+    347,
+    868
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    873,
+    167,
+    894
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    928,
+    222,
+    952
+   ]
+  },
+  {
+   "text": "német (B1), olasz (A2)",
+   "bbox": [
+    90,
+    979,
+    305,
+    1000
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1030,
+    211,
+    1054
+   ]
+  },
+  {
+   "text": "Excel, projektmenedzsment, Docker, csapatmunka",
+   "bbox": [
+    90,
+    1081,
+    562,
+    1102
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

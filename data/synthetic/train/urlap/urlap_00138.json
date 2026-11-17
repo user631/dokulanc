@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Magyar Attila",
+  "anyja_neve": "Varga Károly",
+  "szuletesi_hely": "Nagykanizsa",
+  "szuletesi_datum": "1966. 12. 29.",
+  "lakcim": "H-2129 Dunaújváros, Hódmezővásárhelyi utca 23.",
+  "telefon": "06 1 403 5155",
+  "email": "magyar.attila@gmail.com",
+  "adoazonosito_jel": "8365215535",
+  "taj_szam": "712 644 103",
+  "kelt": "Ligetfa, 2026. 12. 28."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    288,
+    81,
+    952,
+    118
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    190,
+    338,
+    212
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    244,
+    138,
+    259
+   ]
+  },
+  {
+   "text": "Magyar Attila",
+   "bbox": [
+    391,
+    239,
+    576,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    297,
+    208,
+    315
+   ]
+  },
+  {
+   "text": "Varga Károly",
+   "bbox": [
+    391,
+    294,
+    562,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    348,
+    232,
+    367
+   ]
+  },
+  {
+   "text": "Nagykanizsa",
+   "bbox": [
+    391,
+    343,
+    559,
+    368
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    400,
+    222,
+    415
+   ]
+  },
+  {
+   "text": "1966. 12. 29.",
+   "bbox": [
+    391,
+    402,
+    573,
+    419
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    452,
+    168,
+    467
+   ]
+  },
+  {
+   "text": "H-2129 Dunaújváros, Hódmezővásárhelyi utca 23.",
+   "bbox": [
+    391,
+    450,
+    1061,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    504,
+    221,
+    519
+   ]
+  },
+  {
+   "text": "06 1 403 5155",
+   "bbox": [
+    391,
+    505,
+    602,
+    522
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    556,
+    202,
+    571
+   ]
+  },
+  {
+   "text": "magyar.attila@gmail.com",
+   "bbox": [
+    391,
+    555,
+    720,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    608,
+    260,
+    627
+   ]
+  },
+  {
+   "text": "8365215535",
+   "bbox": [
+    391,
+    606,
+    572,
+    623
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    660,
+    192,
+    675
+   ]
+  },
+  {
+   "text": "712 644 103",
+   "bbox": [
+    391,
+    659,
+    573,
+    677
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    739,
+    285,
+    760
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    782,
+    458,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    827,
+    280,
+    842
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    872,
+    479,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    975,
+    129,
+    991
+   ]
+  },
+  {
+   "text": "Ligetfa, 2026. 12. 28.",
+   "bbox": [
+    171,
+    973,
+    431,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1024,
+    995,
+    1037
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

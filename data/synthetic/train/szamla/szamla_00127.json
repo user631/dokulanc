@@ -1,0 +1,840 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2024/09673",
+  "kiallitas_datuma": "2024-09-25",
+  "teljesites_datuma": "2024-09-24",
+  "fizetesi_hatarido": "2024-10-10",
+  "elado_nev": "Bálint Trade Kft.",
+  "elado_cim": "H-7922 Belsőmellékkövesd, Lajosmelléki utca 104.",
+  "elado_adoszam": "46499354-2-25",
+  "vevo_nev": "Lakatos Consulting Zrt.",
+  "vevo_cim": "H-6883 Újmindszenthalas, Hetvenkőrösi utca 238.",
+  "vevo_adoszam": "96170430-4-34",
+  "bankszamla": "48959634-56923712-35907496",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "812 200 Ft",
+  "afa_osszesen": "164 998 Ft",
+  "brutto_osszesen": "977 198 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "4 500",
+    "netto": "18 000",
+    "afa_kulcs": "27%",
+    "afa": "4 860",
+    "brutto": "22 860"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "4 db",
+    "egysegar": "9 020",
+    "netto": "36 080",
+    "afa_kulcs": "27%",
+    "afa": "9 742",
+    "brutto": "45 822"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "4 db",
+    "egysegar": "11 880",
+    "netto": "47 520",
+    "afa_kulcs": "27%",
+    "afa": "12 830",
+    "brutto": "60 350"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "4 hó",
+    "egysegar": "98 070",
+    "netto": "392 280",
+    "afa_kulcs": "27%",
+    "afa": "105 916",
+    "brutto": "498 196"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "2 db",
+    "egysegar": "9 900",
+    "netto": "19 800",
+    "afa_kulcs": "5%",
+    "afa": "990",
+    "brutto": "20 790"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "10 év",
+    "egysegar": "22 700",
+    "netto": "227 000",
+    "afa_kulcs": "5%",
+    "afa": "11 350",
+    "brutto": "238 350"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "17 880",
+    "netto": "71 520",
+    "afa_kulcs": "27%",
+    "afa": "19 310",
+    "brutto": "90 830"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    418,
+    90,
+    821,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/09673",
+   "bbox": [
+    430,
+    147,
+    811,
+    164
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    225,
+    156,
+    244
+   ]
+  },
+  {
+   "text": "Bálint Trade Kft.",
+   "bbox": [
+    82,
+    261,
+    268,
+    280
+   ]
+  },
+  {
+   "text": "H-7922 Belsőmellékkövesd, Lajosmelléki utca 104.",
+   "bbox": [
+    82,
+    296,
+    573,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 46499354-2-25",
+   "bbox": [
+    81,
+    326,
+    331,
+    342
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    225,
+    695,
+    244
+   ]
+  },
+  {
+   "text": "Lakatos Consulting Zrt.",
+   "bbox": [
+    630,
+    263,
+    900,
+    285
+   ]
+  },
+  {
+   "text": "H-6883 Újmindszenthalas, Hetvenkőrösi utca 238.",
+   "bbox": [
+    630,
+    292,
+    1113,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 96170430-4-34",
+   "bbox": [
+    629,
+    326,
+    879,
+    342
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    82,
+    393,
+    229,
+    408
+   ]
+  },
+  {
+   "text": "2024-09-25",
+   "bbox": [
+    82,
+    423,
+    192,
+    438
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    393,
+    513,
+    412
+   ]
+  },
+  {
+   "text": "2024-09-24",
+   "bbox": [
+    351,
+    423,
+    461,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    393,
+    772,
+    408
+   ]
+  },
+  {
+   "text": "2024-10-10",
+   "bbox": [
+    620,
+    423,
+    730,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    393,
+    1006,
+    408
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    423,
+    965,
+    438
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    471,
+    198,
+    490
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    472,
+    579,
+    490
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    661,
+    471,
+    750,
+    490
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    471,
+    878,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    468,
+    942,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    468,
+    1045,
+    486
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1101,
+    471,
+    1158,
+    486
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    512,
+    513,
+    595,
+    527
+   ]
+  },
+  {
+   "text": "4 500",
+   "bbox": [
+    700,
+    513,
+    749,
+    527
+   ]
+  },
+  {
+   "text": "18 000",
+   "bbox": [
+    818,
+    513,
+    878,
+    527
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    513,
+    942,
+    527
+   ]
+  },
+  {
+   "text": "4 860",
+   "bbox": [
+    996,
+    513,
+    1045,
+    527
+   ]
+  },
+  {
+   "text": "22 860",
+   "bbox": [
+    1098,
+    513,
+    1158,
+    527
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    82,
+    513,
+    184,
+    531
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    548,
+    550,
+    562
+   ]
+  },
+  {
+   "text": "9 020",
+   "bbox": [
+    700,
+    548,
+    749,
+    562
+   ]
+  },
+  {
+   "text": "36 080",
+   "bbox": [
+    818,
+    548,
+    878,
+    562
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    548,
+    942,
+    562
+   ]
+  },
+  {
+   "text": "9 742",
+   "bbox": [
+    996,
+    548,
+    1045,
+    562
+   ]
+  },
+  {
+   "text": "45 822",
+   "bbox": [
+    1098,
+    548,
+    1158,
+    562
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    82,
+    548,
+    228,
+    562
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    583,
+    550,
+    597
+   ]
+  },
+  {
+   "text": "11 880",
+   "bbox": [
+    689,
+    583,
+    749,
+    597
+   ]
+  },
+  {
+   "text": "47 520",
+   "bbox": [
+    818,
+    583,
+    878,
+    597
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    583,
+    942,
+    597
+   ]
+  },
+  {
+   "text": "12 830",
+   "bbox": [
+    985,
+    583,
+    1045,
+    597
+   ]
+  },
+  {
+   "text": "60 350",
+   "bbox": [
+    1098,
+    583,
+    1158,
+    597
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    82,
+    583,
+    194,
+    601
+   ]
+  },
+  {
+   "text": "4 hó",
+   "bbox": [
+    512,
+    618,
+    550,
+    632
+   ]
+  },
+  {
+   "text": "98 070",
+   "bbox": [
+    689,
+    618,
+    749,
+    632
+   ]
+  },
+  {
+   "text": "392 280",
+   "bbox": [
+    807,
+    618,
+    878,
+    632
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    618,
+    942,
+    632
+   ]
+  },
+  {
+   "text": "105 916",
+   "bbox": [
+    974,
+    618,
+    1045,
+    632
+   ]
+  },
+  {
+   "text": "498 196",
+   "bbox": [
+    1087,
+    618,
+    1158,
+    632
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    82,
+    618,
+    332,
+    636
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    512,
+    653,
+    550,
+    667
+   ]
+  },
+  {
+   "text": "9 900",
+   "bbox": [
+    700,
+    653,
+    749,
+    667
+   ]
+  },
+  {
+   "text": "19 800",
+   "bbox": [
+    818,
+    653,
+    878,
+    667
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    914,
+    653,
+    942,
+    667
+   ]
+  },
+  {
+   "text": "990",
+   "bbox": [
+    1012,
+    653,
+    1045,
+    667
+   ]
+  },
+  {
+   "text": "20 790",
+   "bbox": [
+    1098,
+    653,
+    1158,
+    667
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    82,
+    653,
+    317,
+    671
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    512,
+    688,
+    560,
+    702
+   ]
+  },
+  {
+   "text": "22 700",
+   "bbox": [
+    689,
+    688,
+    749,
+    702
+   ]
+  },
+  {
+   "text": "227 000",
+   "bbox": [
+    807,
+    688,
+    878,
+    702
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    914,
+    688,
+    942,
+    702
+   ]
+  },
+  {
+   "text": "11 350",
+   "bbox": [
+    985,
+    688,
+    1045,
+    702
+   ]
+  },
+  {
+   "text": "238 350",
+   "bbox": [
+    1087,
+    688,
+    1158,
+    702
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    82,
+    688,
+    316,
+    706
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    512,
+    723,
+    556,
+    737
+   ]
+  },
+  {
+   "text": "17 880",
+   "bbox": [
+    689,
+    723,
+    749,
+    737
+   ]
+  },
+  {
+   "text": "71 520",
+   "bbox": [
+    818,
+    723,
+    878,
+    737
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    723,
+    942,
+    737
+   ]
+  },
+  {
+   "text": "19 310",
+   "bbox": [
+    985,
+    723,
+    1045,
+    737
+   ]
+  },
+  {
+   "text": "90 830",
+   "bbox": [
+    1098,
+    723,
+    1158,
+    737
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    82,
+    723,
+    346,
+    741
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    661,
+    778,
+    828,
+    795
+   ]
+  },
+  {
+   "text": "812 200 Ft",
+   "bbox": [
+    1048,
+    778,
+    1159,
+    795
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    810,
+    828,
+    831
+   ]
+  },
+  {
+   "text": "164 998 Ft",
+   "bbox": [
+    1048,
+    814,
+    1159,
+    831
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    625,
+    850,
+    828,
+    872
+   ]
+  },
+  {
+   "text": "977 198 Ft",
+   "bbox": [
+    1046,
+    850,
+    1158,
+    867
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 48959634-56923712-35907496",
+   "bbox": [
+    82,
+    917,
+    566,
+    932
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    946,
+    634,
+    963
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    427,
+    1655,
+    812,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

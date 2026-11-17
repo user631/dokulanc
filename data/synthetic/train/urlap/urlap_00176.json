@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Bodnár Mónika",
+  "anyja_neve": "Budai Áron",
+  "szuletesi_hely": "Pécs",
+  "szuletesi_datum": "1993.08.08.",
+  "lakcim": "H-8244 Vác, Váci út 226.",
+  "telefon": "+36 70 434 3227",
+  "email": "bodnar.monika@citromail.hu",
+  "adoazonosito_jel": "8462402107",
+  "taj_szam": "483 643 239",
+  "kelt": "Hátfalu, 2025.10.12."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    522,
+    104,
+    715,
+    130
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    467,
+    152,
+    772,
+    170
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    96,
+    207,
+    332,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    261,
+    149,
+    276
+   ]
+  },
+  {
+   "text": "Bodnár Mónika",
+   "bbox": [
+    430,
+    261,
+    589,
+    278
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    107,
+    314,
+    212,
+    333
+   ]
+  },
+  {
+   "text": "Budai Áron",
+   "bbox": [
+    430,
+    306,
+    546,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    108,
+    367,
+    237,
+    386
+   ]
+  },
+  {
+   "text": "Pécs",
+   "bbox": [
+    430,
+    364,
+    475,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    108,
+    420,
+    227,
+    435
+   ]
+  },
+  {
+   "text": "1993.08.08.",
+   "bbox": [
+    430,
+    421,
+    553,
+    441
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    108,
+    473,
+    180,
+    488
+   ]
+  },
+  {
+   "text": "H-8244 Vác, Váci út 226.",
+   "bbox": [
+    430,
+    470,
+    688,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    526,
+    228,
+    541
+   ]
+  },
+  {
+   "text": "+36 70 434 3227",
+   "bbox": [
+    430,
+    528,
+    605,
+    548
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    108,
+    579,
+    212,
+    594
+   ]
+  },
+  {
+   "text": "bodnar.monika@citromail.hu",
+   "bbox": [
+    429,
+    578,
+    731,
+    599
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    107,
+    632,
+    262,
+    651
+   ]
+  },
+  {
+   "text": "8462402107",
+   "bbox": [
+    430,
+    632,
+    559,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    685,
+    200,
+    700
+   ]
+  },
+  {
+   "text": "483 643 239",
+   "bbox": [
+    430,
+    685,
+    560,
+    705
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    96,
+    765,
+    291,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    141,
+    809,
+    453,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    141,
+    854,
+    290,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    140,
+    899,
+    467,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    96,
+    1002,
+    141,
+    1018
+   ]
+  },
+  {
+   "text": "Hátfalu, 2025.10.12.",
+   "bbox": [
+    186,
+    999,
+    393,
+    1020
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1051,
+    979,
+    1064
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

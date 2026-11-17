@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Varga László",
+  "email": "varga.laszlo@outlook.com",
+  "telefon": "+36 30 350 8666",
+  "lakcim": "H-9144 Hátfalva, Tapolcadevecseri utca 159.",
+  "szuletesi_datum": "1985.01.10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szűcs Logisztika Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2010 – 2014"
+   },
+   {
+    "ceg": "Tóth Consulting Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2008 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Java",
+   "Linux",
+   "JavaScript",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Varga László",
+   "bbox": [
+    452,
+    106,
+    787,
+    153
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    499,
+    174,
+    740,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    172,
+    244
+   ]
+  },
+  {
+   "text": "varga.laszlo@outlook.com",
+   "bbox": [
+    330,
+    227,
+    609,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    185,
+    275
+   ]
+  },
+  {
+   "text": "+36 30 350 8666",
+   "bbox": [
+    330,
+    259,
+    511,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    180,
+    306
+   ]
+  },
+  {
+   "text": "H-9144 Hátfalva, Tapolcadevecseri utca 159.",
+   "bbox": [
+    330,
+    289,
+    807,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    320,
+    288,
+    337
+   ]
+  },
+  {
+   "text": "1985.01.10.",
+   "bbox": [
+    330,
+    321,
+    458,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    375,
+    397
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    423,
+    221,
+    439
+   ]
+  },
+  {
+   "text": "adatelemző – Szűcs Logisztika Kft.",
+   "bbox": [
+    90,
+    447,
+    523,
+    469
+   ]
+  },
+  {
+   "text": "2008 – 2010",
+   "bbox": [
+    90,
+    489,
+    221,
+    505
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Tóth Consulting Zrt.",
+   "bbox": [
+    90,
+    513,
+    633,
+    535
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    564,
+    280,
+    590
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    90,
+    616,
+    221,
+    632
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    640,
+    733,
+    662
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    665,
+    347,
+    682
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    707,
+    221,
+    723
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    731,
+    390,
+    753
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    756,
+    363,
+    777
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    807,
+    247,
+    833
+   ]
+  },
+  {
+   "text": "német (B2), spanyol (B1)",
+   "bbox": [
+    90,
+    858,
+    361,
+    879
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    905,
+    239,
+    931
+   ]
+  },
+  {
+   "text": "Docker, Java, Linux, JavaScript, SQL",
+   "bbox": [
+    90,
+    956,
+    480,
+    977
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

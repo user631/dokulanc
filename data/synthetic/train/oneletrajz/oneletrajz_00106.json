@@ -1,0 +1,337 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Somogyi Ilona",
+  "email": "somogyi.ilona@citromail.hu",
+  "telefon": "+36 20 312 2047",
+  "lakcim": "H-3438 Apáti, Arany jános utca 243.",
+  "szuletesi_datum": "1990. április 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bálint Logisztika Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2014 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Docker",
+   "Java",
+   "Python",
+   "Excel",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    230,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    112,
+    172
+   ]
+  },
+  {
+   "text": "somogyi.ilona@citromail.hu",
+   "bbox": [
+    40,
+    180,
+    314,
+    200
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    214,
+    123,
+    230
+   ]
+  },
+  {
+   "text": "+36 20 312 2047",
+   "bbox": [
+    40,
+    239,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    271,
+    119,
+    288
+   ]
+  },
+  {
+   "text": "H-3438 Apáti, Arany jános utca",
+   "bbox": [
+    40,
+    295,
+    359,
+    316
+   ]
+  },
+  {
+   "text": "243.",
+   "bbox": [
+    40,
+    321,
+    86,
+    336
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    353,
+    219,
+    370
+   ]
+  },
+  {
+   "text": "1990. április 17.",
+   "bbox": [
+    40,
+    377,
+    204,
+    398
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    218,
+    462
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    482,
+    161,
+    503
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    510,
+    152,
+    531
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    564,
+    196,
+    588
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    609,
+    72,
+    625
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    636,
+    115,
+    653
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    665,
+    88,
+    681
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    692,
+    112,
+    713
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    720,
+    95,
+    737
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    749,
+    96,
+    765
+   ]
+  },
+  {
+   "text": "Somogyi Ilona",
+   "bbox": [
+    450,
+    119,
+    827,
+    163
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    183,
+    583,
+    213
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    252,
+    743,
+    277
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    304,
+    592,
+    320
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Bálint Logisztika Kft.",
+   "bbox": [
+    450,
+    329,
+    966,
+    352
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    381,
+    649,
+    407
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    434,
+    592,
+    450
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    459,
+    682,
+    482
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    484,
+    830,
+    506
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    528,
+    592,
+    544
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    553,
+    759,
+    576
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    578,
+    735,
+    600
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

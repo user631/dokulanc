@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-1298 Kaposvár, Debreceni utca 99.",
+  "adoszam": "23409431-5-34",
+  "datum": "2024.06.26.",
+  "ido": "10:11",
+  "nyugtaszam": "6733/39545",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 930 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "991"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "92"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "167"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "689"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1408"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "425"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1052"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "624"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2292"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1190"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    222,
+    33,
+    402,
+    47
+   ]
+  },
+  {
+   "text": "H-1298 Kaposvár, Debreceni utca 99.",
+   "bbox": [
+    137,
+    63,
+    487,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23409431-5-34",
+   "bbox": [
+    202,
+    86,
+    422,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    127,
+    352,
+    142
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    168,
+    112,
+    181
+   ]
+  },
+  {
+   "text": "991 B00",
+   "bbox": [
+    523,
+    168,
+    600,
+    181
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    196,
+    90,
+    209
+   ]
+  },
+  {
+   "text": "92 A00",
+   "bbox": [
+    534,
+    196,
+    600,
+    209
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    224,
+    178,
+    240
+   ]
+  },
+  {
+   "text": "167 C00",
+   "bbox": [
+    523,
+    224,
+    600,
+    237
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    252,
+    178,
+    265
+   ]
+  },
+  {
+   "text": "689 A00",
+   "bbox": [
+    523,
+    252,
+    600,
+    265
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    280,
+    167,
+    293
+   ]
+  },
+  {
+   "text": "1408 C00",
+   "bbox": [
+    512,
+    280,
+    600,
+    293
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    308,
+    178,
+    321
+   ]
+  },
+  {
+   "text": "425 A00",
+   "bbox": [
+    523,
+    308,
+    600,
+    321
+   ]
+  },
+  {
+   "text": "2 DB x 526",
+   "bbox": [
+    24,
+    336,
+    114,
+    347
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    358,
+    123,
+    371
+   ]
+  },
+  {
+   "text": "1052 B00",
+   "bbox": [
+    512,
+    358,
+    600,
+    371
+   ]
+  },
+  {
+   "text": "3 DB x 208",
+   "bbox": [
+    24,
+    386,
+    114,
+    397
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    408,
+    167,
+    421
+   ]
+  },
+  {
+   "text": "624 C00",
+   "bbox": [
+    523,
+    408,
+    600,
+    421
+   ]
+  },
+  {
+   "text": "3 DB x 764",
+   "bbox": [
+    24,
+    436,
+    114,
+    447
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    458,
+    123,
+    471
+   ]
+  },
+  {
+   "text": "2292 B00",
+   "bbox": [
+    512,
+    458,
+    600,
+    471
+   ]
+  },
+  {
+   "text": "2 DB x 595",
+   "bbox": [
+    24,
+    486,
+    114,
+    497
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    508,
+    200,
+    521
+   ]
+  },
+  {
+   "text": "1190 A00",
+   "bbox": [
+    512,
+    508,
+    600,
+    521
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    544,
+    154,
+    564
+   ]
+  },
+  {
+   "text": "8 930 Ft",
+   "bbox": [
+    496,
+    548,
+    600,
+    564
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    582,
+    112,
+    599
+   ]
+  },
+  {
+   "text": "8 930 Ft",
+   "bbox": [
+    512,
+    586,
+    600,
+    599
+   ]
+  },
+  {
+   "text": "2024.06.26.",
+   "bbox": [
+    24,
+    629,
+    134,
+    640
+   ]
+  },
+  {
+   "text": "10:11",
+   "bbox": [
+    550,
+    629,
+    600,
+    640
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6733/39545",
+   "bbox": [
+    24,
+    654,
+    244,
+    670
+   ]
+  },
+  {
+   "text": "AP A82694660",
+   "bbox": [
+    24,
+    685,
+    144,
+    696
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    262,
+    721,
+    362,
+    737
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  624,
+  782
+ ]
+}

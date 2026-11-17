@@ -1,0 +1,224 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH ABC BT.",
+  "uzlet_cim": "H-3866 Kaposvár, Vácmelléki utca 60.",
+  "adoszam": "86227610-4-08",
+  "datum": "2025.05.02.",
+  "ido": "20:32",
+  "nyugtaszam": "5210/71485",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 328 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1731"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "787"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "810"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH ABC BT.",
+   "bbox": [
+    216,
+    34,
+    398,
+    48
+   ]
+  },
+  {
+   "text": "H-3866 Kaposvár, Vácmelléki utca 60.",
+   "bbox": [
+    109,
+    63,
+    505,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 86227610-4-08",
+   "bbox": [
+    186,
+    87,
+    428,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    128,
+    350,
+    143
+   ]
+  },
+  {
+   "text": "3 DB x 577",
+   "bbox": [
+    24,
+    168,
+    124,
+    180
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    190,
+    192,
+    204
+   ]
+  },
+  {
+   "text": "1731 B00",
+   "bbox": [
+    494,
+    190,
+    590,
+    204
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    218,
+    204,
+    232
+   ]
+  },
+  {
+   "text": "787 C00",
+   "bbox": [
+    506,
+    218,
+    590,
+    232
+   ]
+  },
+  {
+   "text": "2 DB x 405",
+   "bbox": [
+    24,
+    246,
+    124,
+    258
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    269,
+    192,
+    282
+   ]
+  },
+  {
+   "text": "810 C00",
+   "bbox": [
+    506,
+    268,
+    590,
+    282
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    306,
+    164,
+    325
+   ]
+  },
+  {
+   "text": "3 328 Ft",
+   "bbox": [
+    478,
+    308,
+    590,
+    325
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    344,
+    144,
+    360
+   ]
+  },
+  {
+   "text": "3 328 Ft",
+   "bbox": [
+    494,
+    346,
+    590,
+    360
+   ]
+  },
+  {
+   "text": "2025.05.02.",
+   "bbox": [
+    24,
+    388,
+    145,
+    401
+   ]
+  },
+  {
+   "text": "20:32",
+   "bbox": [
+    535,
+    388,
+    590,
+    401
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5210/71485",
+   "bbox": [
+    24,
+    415,
+    266,
+    432
+   ]
+  },
+  {
+   "text": "AP A33223613",
+   "bbox": [
+    24,
+    444,
+    156,
+    457
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    252,
+    482,
+    362,
+    497
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  614,
+  542
+ ]
+}

@@ -1,0 +1,281 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR MARKET BT.",
+  "uzlet_cim": "H-1213 Érd, Hajdútapolcai utca 73.",
+  "adoszam": "81914069-2-25",
+  "datum": "2024.01.02.",
+  "ido": "09:41",
+  "nyugtaszam": "3849/99050",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "4 321 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "557"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "897"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "566"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "406"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "746"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR MARKET BT.",
+   "bbox": [
+    199,
+    31,
+    437,
+    49
+   ]
+  },
+  {
+   "text": "H-1213 Érd, Hajdútapolcai utca 73.",
+   "bbox": [
+    131,
+    63,
+    505,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81914069-2-25",
+   "bbox": [
+    197,
+    88,
+    439,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    131,
+    363,
+    147
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    172,
+    128,
+    187
+   ]
+  },
+  {
+   "text": "557 C00",
+   "bbox": [
+    522,
+    172,
+    613,
+    187
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    201,
+    180,
+    216
+   ]
+  },
+  {
+   "text": "897 C00",
+   "bbox": [
+    522,
+    201,
+    613,
+    216
+   ]
+  },
+  {
+   "text": "2 DB x 283",
+   "bbox": [
+    24,
+    230,
+    134,
+    243
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    255,
+    193,
+    268
+   ]
+  },
+  {
+   "text": "566 A00",
+   "bbox": [
+    522,
+    253,
+    613,
+    268
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    282,
+    167,
+    300
+   ]
+  },
+  {
+   "text": "406 A00",
+   "bbox": [
+    522,
+    282,
+    613,
+    297
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    313,
+    154,
+    326
+   ]
+  },
+  {
+   "text": "1149 A00",
+   "bbox": [
+    509,
+    311,
+    613,
+    326
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    340,
+    141,
+    355
+   ]
+  },
+  {
+   "text": "746 B00",
+   "bbox": [
+    522,
+    340,
+    613,
+    355
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    379,
+    174,
+    399
+   ]
+  },
+  {
+   "text": "4 321 Ft",
+   "bbox": [
+    493,
+    381,
+    613,
+    399
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    418,
+    167,
+    435
+   ]
+  },
+  {
+   "text": "4 321 Ft",
+   "bbox": [
+    509,
+    420,
+    613,
+    435
+   ]
+  },
+  {
+   "text": "2024.01.02.",
+   "bbox": [
+    24,
+    462,
+    145,
+    476
+   ]
+  },
+  {
+   "text": "09:41",
+   "bbox": [
+    558,
+    462,
+    613,
+    476
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3849/99050",
+   "bbox": [
+    24,
+    490,
+    266,
+    508
+   ]
+  },
+  {
+   "text": "AP A28228869",
+   "bbox": [
+    24,
+    520,
+    156,
+    534
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    258,
+    560,
+    378,
+    576
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  637,
+  621
+ ]
+}

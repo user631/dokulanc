@@ -1,0 +1,321 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH DISZKONT BT.",
+  "uzlet_cim": "H-1755 Hódmezővásárhely, Szigetszentmiklósi utca 211.",
+  "adoszam": "32316672-2-24",
+  "datum": "2026.10.26.",
+  "ido": "09:47",
+  "nyugtaszam": "0033/87310",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 671 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "692"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2152"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "531"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1899"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2705"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2433"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1259"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH DISZKONT BT.",
+   "bbox": [
+    145,
+    30,
+    383,
+    49
+   ]
+  },
+  {
+   "text": "H-1755 Hódmezővásárhely,",
+   "bbox": [
+    120,
+    64,
+    408,
+    84
+   ]
+  },
+  {
+   "text": "Szigetszentmiklósi utca 211.",
+   "bbox": [
+    96,
+    90,
+    432,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 32316672-2-24",
+   "bbox": [
+    132,
+    116,
+    396,
+    132
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    216,
+    161,
+    312,
+    177
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    202,
+    128,
+    218
+   ]
+  },
+  {
+   "text": "692 C00",
+   "bbox": [
+    414,
+    202,
+    505,
+    218
+   ]
+  },
+  {
+   "text": "2 DB x 1076",
+   "bbox": [
+    24,
+    231,
+    145,
+    245
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    256,
+    128,
+    272
+   ]
+  },
+  {
+   "text": "2152 C00",
+   "bbox": [
+    401,
+    256,
+    505,
+    272
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    288,
+    206,
+    302
+   ]
+  },
+  {
+   "text": "531 B00",
+   "bbox": [
+    414,
+    286,
+    505,
+    302
+   ]
+  },
+  {
+   "text": "3 DB x 633",
+   "bbox": [
+    24,
+    315,
+    134,
+    329
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    340,
+    206,
+    356
+   ]
+  },
+  {
+   "text": "1899 A00",
+   "bbox": [
+    401,
+    340,
+    505,
+    356
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    370,
+    141,
+    386
+   ]
+  },
+  {
+   "text": "2705 A00",
+   "bbox": [
+    401,
+    370,
+    505,
+    386
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    400,
+    271,
+    416
+   ]
+  },
+  {
+   "text": "2433 B00",
+   "bbox": [
+    401,
+    400,
+    505,
+    416
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    432,
+    193,
+    446
+   ]
+  },
+  {
+   "text": "1259 B00",
+   "bbox": [
+    401,
+    430,
+    505,
+    446
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    470,
+    184,
+    491
+   ]
+  },
+  {
+   "text": "11 671 Ft",
+   "bbox": [
+    361,
+    472,
+    505,
+    491
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    511,
+    168,
+    528
+   ]
+  },
+  {
+   "text": "11 671 Ft",
+   "bbox": [
+    388,
+    512,
+    505,
+    528
+   ]
+  },
+  {
+   "text": "2026.10.26.",
+   "bbox": [
+    24,
+    556,
+    156,
+    570
+   ]
+  },
+  {
+   "text": "09:47",
+   "bbox": [
+    445,
+    556,
+    505,
+    570
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0033/87310",
+   "bbox": [
+    24,
+    584,
+    288,
+    603
+   ]
+  },
+  {
+   "text": "AP A54914455",
+   "bbox": [
+    24,
+    616,
+    168,
+    630
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    121,
+    656,
+    407,
+    673
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  529,
+  718
+ ]
+}

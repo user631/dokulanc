@@ -1,0 +1,186 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOVÁCS CSEMEGE KFT.",
+  "uzlet_cim": "H-8515 Vác, Széknémetii utca 129.",
+  "adoszam": "23268155-4-09",
+  "datum": "2025.10.17.",
+  "ido": "14:50",
+  "nyugtaszam": "7303/79268",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "2 222 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "747"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "975"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS CSEMEGE KFT.",
+   "bbox": [
+    167,
+    31,
+    433,
+    49
+   ]
+  },
+  {
+   "text": "H-8515 Vác, Széknémetii utca 129.",
+   "bbox": [
+    118,
+    63,
+    481,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23268155-4-09",
+   "bbox": [
+    179,
+    88,
+    421,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    255,
+    131,
+    345,
+    147
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    172,
+    219,
+    187
+   ]
+  },
+  {
+   "text": "747 A00",
+   "bbox": [
+    485,
+    172,
+    576,
+    187
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    203,
+    193,
+    216
+   ]
+  },
+  {
+   "text": "975 B00",
+   "bbox": [
+    485,
+    201,
+    576,
+    216
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    240,
+    174,
+    260
+   ]
+  },
+  {
+   "text": "2 222 Ft",
+   "bbox": [
+    456,
+    242,
+    576,
+    260
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    279,
+    128,
+    296
+   ]
+  },
+  {
+   "text": "2 222 Ft",
+   "bbox": [
+    472,
+    281,
+    576,
+    296
+   ]
+  },
+  {
+   "text": "2025.10.17.",
+   "bbox": [
+    24,
+    323,
+    145,
+    337
+   ]
+  },
+  {
+   "text": "14:50",
+   "bbox": [
+    521,
+    323,
+    576,
+    337
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7303/79268",
+   "bbox": [
+    24,
+    351,
+    266,
+    369
+   ]
+  },
+  {
+   "text": "AP A46866781",
+   "bbox": [
+    24,
+    381,
+    156,
+    395
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    168,
+    421,
+    432,
+    437
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  600,
+  482
+ ]
+}

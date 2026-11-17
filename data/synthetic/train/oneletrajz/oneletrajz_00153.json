@@ -1,0 +1,320 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Novák Dániel",
+  "email": "novak.daniel@example.hu",
+  "telefon": "+36 70 567 8952",
+  "lakcim": "H-3840 Váchídnádasd, Hídvégi utca 227.",
+  "szuletesi_datum": "1977. augusztus 4.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "1996 – 2001"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2001 – 2003"
+   },
+   {
+    "ceg": "Nagy Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2000 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Excel",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    86,
+    220,
+    112
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    136,
+    107,
+    153
+   ]
+  },
+  {
+   "text": "novak.daniel@example.hu",
+   "bbox": [
+    40,
+    161,
+    283,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    117,
+    213
+   ]
+  },
+  {
+   "text": "+36 70 567 8952",
+   "bbox": [
+    40,
+    222,
+    197,
+    238
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    115,
+    273
+   ]
+  },
+  {
+   "text": "H-3840 Váchídnádasd, Hídvégi utca",
+   "bbox": [
+    40,
+    281,
+    372,
+    302
+   ]
+  },
+  {
+   "text": "227.",
+   "bbox": [
+    40,
+    307,
+    79,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    341,
+    207,
+    358
+   ]
+  },
+  {
+   "text": "1977. augusztus 4.",
+   "bbox": [
+    40,
+    367,
+    214,
+    387
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    426,
+    207,
+    452
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    473,
+    137,
+    494
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    526,
+    187,
+    552
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    573,
+    108,
+    590
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    602,
+    90,
+    619
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    630,
+    171,
+    652
+   ]
+  },
+  {
+   "text": "Novák Dániel",
+   "bbox": [
+    450,
+    96,
+    762,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    168,
+    645,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    722,
+    259
+   ]
+  },
+  {
+   "text": "2001 – 2003",
+   "bbox": [
+    450,
+    286,
+    581,
+    303
+   ]
+  },
+  {
+   "text": "értékesítő – Nagy és Társa Bt.",
+   "bbox": [
+    450,
+    311,
+    807,
+    336
+   ]
+  },
+  {
+   "text": "2000 – 2001",
+   "bbox": [
+    450,
+    356,
+    581,
+    373
+   ]
+  },
+  {
+   "text": "rendszergazda – Nagy Zrt.",
+   "bbox": [
+    450,
+    382,
+    765,
+    406
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    435,
+    634,
+    462
+   ]
+  },
+  {
+   "text": "1996 – 2001",
+   "bbox": [
+    450,
+    489,
+    581,
+    506
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    514,
+    858,
+    539
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    541,
+    783,
+    565
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    450,
+    586,
+    581,
+    603
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    611,
+    740,
+    636
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    639,
+    644,
+    662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

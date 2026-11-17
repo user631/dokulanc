@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Mészáros Szilvia",
+  "email": "meszaros.szilvia@gmail.com",
+  "telefon": "+36 70 339 1330",
+  "lakcim": "H-4560 Hátharaszti, Petőfi utca 209.",
+  "szuletesi_datum": "1977.05.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1997 – 2002"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Consulting Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Székely Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "ceg": "Tóth Tech Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2001 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "projektmenedzsment",
+   "JavaScript",
+   "Excel",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Mészáros Szilvia",
+   "bbox": [
+    460,
+    106,
+    780,
+    139
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    534,
+    177,
+    705,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    230,
+    149,
+    244
+   ]
+  },
+  {
+   "text": "meszaros.szilvia@gmail.com",
+   "bbox": [
+    330,
+    230,
+    572,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    261,
+    162,
+    275
+   ]
+  },
+  {
+   "text": "+36 70 339 1330",
+   "bbox": [
+    330,
+    262,
+    476,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    292,
+    156,
+    306
+   ]
+  },
+  {
+   "text": "H-4560 Hátharaszti, Petőfi utca 209.",
+   "bbox": [
+    330,
+    292,
+    639,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    233,
+    337
+   ]
+  },
+  {
+   "text": "1977.05.09.",
+   "bbox": [
+    330,
+    324,
+    433,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    374,
+    294,
+    395
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    90,
+    426,
+    198,
+    439
+   ]
+  },
+  {
+   "text": "értékesítő – Németh Consulting Zrt.",
+   "bbox": [
+    90,
+    450,
+    419,
+    469
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    90,
+    492,
+    198,
+    505
+   ]
+  },
+  {
+   "text": "projektmenedzser – Székely Zrt.",
+   "bbox": [
+    90,
+    516,
+    385,
+    535
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    558,
+    198,
+    571
+   ]
+  },
+  {
+   "text": "értékesítő – Tóth Tech Bt.",
+   "bbox": [
+    90,
+    582,
+    327,
+    597
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    632,
+    228,
+    654
+   ]
+  },
+  {
+   "text": "1997 – 2002",
+   "bbox": [
+    90,
+    685,
+    198,
+    698
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    709,
+    267,
+    728
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    734,
+    219,
+    752
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    776,
+    198,
+    789
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    800,
+    362,
+    819
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    825,
+    164,
+    843
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    875,
+    206,
+    897
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    926,
+    184,
+    945
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    973,
+    197,
+    995
+   ]
+  },
+  {
+   "text": "Git, projektmenedzsment, JavaScript, Excel, ügyfélkezelés",
+   "bbox": [
+    90,
+    1025,
+    577,
+    1043
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

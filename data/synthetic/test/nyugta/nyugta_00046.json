@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SÁNDOR ÉLELMISZER BT.",
+  "uzlet_cim": "H-5513 Érd, Mosongyörgyi tér 125.",
+  "adoszam": "95646864-3-22",
+  "datum": "2026.03.09.",
+  "ido": "11:08",
+  "nyugtaszam": "1014/83079",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 434 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1311"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "730"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "676"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "422"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3009"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "979"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2992"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "315"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SÁNDOR ÉLELMISZER BT.",
+   "bbox": [
+    164,
+    30,
+    458,
+    50
+   ]
+  },
+  {
+   "text": "H-5513 Érd, Mosongyörgyi tér 125.",
+   "bbox": [
+    113,
+    65,
+    509,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 95646864-3-22",
+   "bbox": [
+    179,
+    91,
+    443,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    137,
+    360,
+    152
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    179,
+    154,
+    193
+   ]
+  },
+  {
+   "text": "1311 A00",
+   "bbox": [
+    494,
+    179,
+    598,
+    193
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    209,
+    128,
+    223
+   ]
+  },
+  {
+   "text": "730 C00",
+   "bbox": [
+    507,
+    209,
+    598,
+    223
+   ]
+  },
+  {
+   "text": "2 DB x 338",
+   "bbox": [
+    24,
+    238,
+    134,
+    250
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    263,
+    167,
+    280
+   ]
+  },
+  {
+   "text": "676 B00",
+   "bbox": [
+    507,
+    263,
+    598,
+    277
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    293,
+    141,
+    307
+   ]
+  },
+  {
+   "text": "422 A00",
+   "bbox": [
+    507,
+    293,
+    598,
+    307
+   ]
+  },
+  {
+   "text": "3 DB x 1003",
+   "bbox": [
+    24,
+    322,
+    145,
+    334
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    347,
+    180,
+    361
+   ]
+  },
+  {
+   "text": "3009 C00",
+   "bbox": [
+    494,
+    347,
+    598,
+    361
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    378,
+    193,
+    391
+   ]
+  },
+  {
+   "text": "979 A00",
+   "bbox": [
+    507,
+    377,
+    598,
+    391
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    407,
+    141,
+    421
+   ]
+  },
+  {
+   "text": "2992 A00",
+   "bbox": [
+    494,
+    407,
+    598,
+    421
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    438,
+    206,
+    451
+   ]
+  },
+  {
+   "text": "315 B00",
+   "bbox": [
+    507,
+    437,
+    598,
+    451
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    476,
+    168,
+    496
+   ]
+  },
+  {
+   "text": "10 434 Ft",
+   "bbox": [
+    454,
+    480,
+    598,
+    496
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    516,
+    155,
+    533
+   ]
+  },
+  {
+   "text": "10 434 Ft",
+   "bbox": [
+    481,
+    519,
+    598,
+    533
+   ]
+  },
+  {
+   "text": "2026.03.09.",
+   "bbox": [
+    24,
+    562,
+    156,
+    575
+   ]
+  },
+  {
+   "text": "11:08",
+   "bbox": [
+    538,
+    562,
+    598,
+    575
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1014/83079",
+   "bbox": [
+    24,
+    589,
+    288,
+    607
+   ]
+  },
+  {
+   "text": "AP A77267956",
+   "bbox": [
+    24,
+    622,
+    168,
+    635
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    246,
+    663,
+    376,
+    678
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  622,
+  722
+ ]
+}

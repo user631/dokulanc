@@ -1,0 +1,633 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2024/01789",
+  "kiallitas_datuma": "2024. július 16.",
+  "teljesites_datuma": "2024. július 14.",
+  "fizetesi_hatarido": "2024. július 31.",
+  "elado_nev": "Antal Trade Zrt.",
+  "elado_cim": "H-2395 Rácmártonhalas, Kossuth utca 222.",
+  "elado_adoszam": "81124440-3-22",
+  "vevo_nev": "Fekete Consulting Kft.",
+  "vevo_cim": "H-2156 Baja, Ligetberényi út 233.",
+  "vevo_adoszam": "82017141-2-12",
+  "bankszamla": "HU12 1740 8015 2980 3407 0680 0698",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "3 364 070 Ft",
+  "afa_osszesen": "904 892 Ft",
+  "brutto_osszesen": "4 268 962 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "10 db",
+    "egysegar": "840",
+    "netto": "8 400",
+    "afa_kulcs": "5%",
+    "afa": "420",
+    "brutto": "8 820"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "277 650",
+    "netto": "3 331 800",
+    "afa_kulcs": "27%",
+    "afa": "899 586",
+    "brutto": "4 231 386"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "4 csomag",
+    "egysegar": "4 330",
+    "netto": "17 320",
+    "afa_kulcs": "18%",
+    "afa": "3 118",
+    "brutto": "20 438"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "6 550",
+    "netto": "6 550",
+    "afa_kulcs": "27%",
+    "afa": "1 768",
+    "brutto": "8 318"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    529,
+    86,
+    711,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/01789",
+   "bbox": [
+    394,
+    143,
+    846,
+    169
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    77,
+    223,
+    164,
+    245
+   ]
+  },
+  {
+   "text": "Fekete Consulting Kft.",
+   "bbox": [
+    77,
+    263,
+    412,
+    289
+   ]
+  },
+  {
+   "text": "H-2156 Baja, Ligetberényi út 233.",
+   "bbox": [
+    77,
+    298,
+    512,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 82017141-2-12",
+   "bbox": [
+    77,
+    331,
+    408,
+    352
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    223,
+    724,
+    245
+   ]
+  },
+  {
+   "text": "Antal Trade Zrt.",
+   "bbox": [
+    630,
+    263,
+    867,
+    284
+   ]
+  },
+  {
+   "text": "H-2395 Rácmártonhalas, Kossuth utca",
+   "bbox": [
+    630,
+    298,
+    1116,
+    324
+   ]
+  },
+  {
+   "text": "222.",
+   "bbox": [
+    630,
+    333,
+    687,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 81124440-3-22",
+   "bbox": [
+    630,
+    364,
+    961,
+    385
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    77,
+    435,
+    317,
+    456
+   ]
+  },
+  {
+   "text": "2024. július 16.",
+   "bbox": [
+    377,
+    435,
+    577,
+    461
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    77,
+    470,
+    339,
+    496
+   ]
+  },
+  {
+   "text": "2024. július 14.",
+   "bbox": [
+    377,
+    470,
+    577,
+    496
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    77,
+    505,
+    323,
+    526
+   ]
+  },
+  {
+   "text": "2024. július 31.",
+   "bbox": [
+    377,
+    505,
+    577,
+    531
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    77,
+    540,
+    265,
+    561
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    377,
+    540,
+    478,
+    561
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    77,
+    587,
+    229,
+    609
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    589,
+    601,
+    609
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    637,
+    587,
+    750,
+    609
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    811,
+    587,
+    880,
+    605
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    869,
+    583,
+    945,
+    605
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    583,
+    1048,
+    605
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    587,
+    1163,
+    605
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    511,
+    632,
+    575,
+    649
+   ]
+  },
+  {
+   "text": "840",
+   "bbox": [
+    708,
+    633,
+    750,
+    649
+   ]
+  },
+  {
+   "text": "8 400",
+   "bbox": [
+    816,
+    633,
+    880,
+    649
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    907,
+    633,
+    945,
+    649
+   ]
+  },
+  {
+   "text": "420",
+   "bbox": [
+    1006,
+    633,
+    1048,
+    649
+   ]
+  },
+  {
+   "text": "8 820",
+   "bbox": [
+    1099,
+    633,
+    1163,
+    649
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    77,
+    631,
+    211,
+    653
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    511,
+    670,
+    632,
+    687
+   ]
+  },
+  {
+   "text": "277 650",
+   "bbox": [
+    658,
+    671,
+    750,
+    687
+   ]
+  },
+  {
+   "text": "3 331 800",
+   "bbox": [
+    766,
+    671,
+    880,
+    687
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    671,
+    945,
+    687
+   ]
+  },
+  {
+   "text": "899 586",
+   "bbox": [
+    956,
+    671,
+    1048,
+    687
+   ]
+  },
+  {
+   "text": "4 231 386",
+   "bbox": [
+    1049,
+    671,
+    1163,
+    687
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    77,
+    669,
+    318,
+    691
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    511,
+    709,
+    616,
+    729
+   ]
+  },
+  {
+   "text": "4 330",
+   "bbox": [
+    686,
+    709,
+    750,
+    725
+   ]
+  },
+  {
+   "text": "17 320",
+   "bbox": [
+    802,
+    709,
+    880,
+    725
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    893,
+    709,
+    945,
+    725
+   ]
+  },
+  {
+   "text": "3 118",
+   "bbox": [
+    984,
+    709,
+    1048,
+    725
+   ]
+  },
+  {
+   "text": "20 438",
+   "bbox": [
+    1085,
+    709,
+    1163,
+    725
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    77,
+    707,
+    281,
+    729
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    746,
+    561,
+    763
+   ]
+  },
+  {
+   "text": "6 550",
+   "bbox": [
+    686,
+    747,
+    750,
+    763
+   ]
+  },
+  {
+   "text": "6 550",
+   "bbox": [
+    816,
+    747,
+    880,
+    763
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    747,
+    945,
+    763
+   ]
+  },
+  {
+   "text": "1 768",
+   "bbox": [
+    984,
+    747,
+    1048,
+    763
+   ]
+  },
+  {
+   "text": "8 318",
+   "bbox": [
+    1099,
+    747,
+    1163,
+    763
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    77,
+    745,
+    295,
+    767
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    624,
+    803,
+    833,
+    825
+   ]
+  },
+  {
+   "text": "3 364 070 Ft",
+   "bbox": [
+    992,
+    806,
+    1163,
+    825
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    643,
+    837,
+    833,
+    864
+   ]
+  },
+  {
+   "text": "904 892 Ft",
+   "bbox": [
+    1018,
+    845,
+    1163,
+    864
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    669,
+    882,
+    833,
+    908
+   ]
+  },
+  {
+   "text": "4 268 962 Ft",
+   "bbox": [
+    981,
+    884,
+    1163,
+    903
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU12 1740 8015 2980 3407 0680 0698",
+   "bbox": [
+    77,
+    951,
+    776,
+    970
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    77,
+    983,
+    814,
+    1004
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    442,
+    1655,
+    798,
+    1676
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

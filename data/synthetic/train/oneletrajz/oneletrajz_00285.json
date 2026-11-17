@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Zsolt",
+  "email": "szabo.zsolt@citromail.hu",
+  "telefon": "06 1 464 8301",
+  "lakcim": "H-4886 Nyíregyháza, Dózsa györgy utca 25.",
+  "szuletesi_datum": "1998.01.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Juhász Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2023 – jelenleg"
+   },
+   {
+    "ceg": "Molnár és Társa Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2021 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Docker",
+   "projektmenedzsment",
+   "prezentáció",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Zsolt",
+   "bbox": [
+    484,
+    91,
+    756,
+    130
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    156,
+    676,
+    185
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    165,
+    229
+   ]
+  },
+  {
+   "text": "szabo.zsolt@citromail.hu",
+   "bbox": [
+    330,
+    212,
+    558,
+    231
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    175,
+    260
+   ]
+  },
+  {
+   "text": "06 1 464 8301",
+   "bbox": [
+    330,
+    244,
+    461,
+    260
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    274,
+    173,
+    291
+   ]
+  },
+  {
+   "text": "H-4886 Nyíregyháza, Dózsa györgy utca 25.",
+   "bbox": [
+    330,
+    274,
+    735,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    305,
+    265,
+    322
+   ]
+  },
+  {
+   "text": "1998.01.14.",
+   "bbox": [
+    330,
+    306,
+    436,
+    322
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    357,
+    344,
+    382
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    90,
+    407,
+    232,
+    428
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Juhász Consulting Kft.",
+   "bbox": [
+    90,
+    432,
+    546,
+    454
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    90,
+    474,
+    203,
+    490
+   ]
+  },
+  {
+   "text": "rendszergazda – Molnár és Társa Kft.",
+   "bbox": [
+    90,
+    498,
+    498,
+    520
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    549,
+    260,
+    575
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    90,
+    601,
+    203,
+    617
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    625,
+    395,
+    647
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    650,
+    208,
+    671
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    692,
+    203,
+    708
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    716,
+    355,
+    738
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    741,
+    327,
+    762
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    792,
+    230,
+    818
+   ]
+  },
+  {
+   "text": "német (B1), olasz (A2)",
+   "bbox": [
+    90,
+    843,
+    300,
+    864
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    890,
+    223,
+    916
+   ]
+  },
+  {
+   "text": "Git, Docker, projektmenedzsment, prezentáció, ügyfélkezelés",
+   "bbox": [
+    90,
+    941,
+    657,
+    962
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

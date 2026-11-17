@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH KISBOLT BT.",
+  "uzlet_cim": "H-8446 Székesfehérvár, Egeri tér 158.",
+  "adoszam": "14811085-4-26",
+  "datum": "2025.11.10.",
+  "ido": "18:48",
+  "nyugtaszam": "3775/44065",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 352 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1638"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "400"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "326"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "77"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1102"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1797"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "744"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2268"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH KISBOLT BT.",
+   "bbox": [
+    157,
+    31,
+    381,
+    49
+   ]
+  },
+  {
+   "text": "H-8446 Székesfehérvár, Egeri tér 158.",
+   "bbox": [
+    65,
+    63,
+    472,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 14811085-4-26",
+   "bbox": [
+    148,
+    88,
+    390,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    131,
+    314,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 546",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    195,
+    206,
+    210
+   ]
+  },
+  {
+   "text": "1638 B00",
+   "bbox": [
+    411,
+    195,
+    515,
+    210
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    224,
+    167,
+    242
+   ]
+  },
+  {
+   "text": "400 B00",
+   "bbox": [
+    424,
+    224,
+    515,
+    239
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    255,
+    206,
+    268
+   ]
+  },
+  {
+   "text": "326 A00",
+   "bbox": [
+    424,
+    253,
+    515,
+    268
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    284,
+    102,
+    297
+   ]
+  },
+  {
+   "text": "77 B00",
+   "bbox": [
+    437,
+    282,
+    515,
+    297
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    313,
+    193,
+    326
+   ]
+  },
+  {
+   "text": "1102 C00",
+   "bbox": [
+    411,
+    311,
+    515,
+    326
+   ]
+  },
+  {
+   "text": "3 DB x 599",
+   "bbox": [
+    24,
+    340,
+    134,
+    353
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    363,
+    167,
+    378
+   ]
+  },
+  {
+   "text": "1797 A00",
+   "bbox": [
+    411,
+    363,
+    515,
+    378
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    392,
+    141,
+    407
+   ]
+  },
+  {
+   "text": "744 B00",
+   "bbox": [
+    424,
+    392,
+    515,
+    407
+   ]
+  },
+  {
+   "text": "2 DB x 1134",
+   "bbox": [
+    24,
+    421,
+    145,
+    434
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    444,
+    219,
+    459
+   ]
+  },
+  {
+   "text": "2268 C00",
+   "bbox": [
+    411,
+    444,
+    515,
+    459
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    483,
+    159,
+    503
+   ]
+  },
+  {
+   "text": "8 352 Ft",
+   "bbox": [
+    395,
+    485,
+    515,
+    503
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    522,
+    128,
+    539
+   ]
+  },
+  {
+   "text": "8 352 Ft",
+   "bbox": [
+    411,
+    524,
+    515,
+    539
+   ]
+  },
+  {
+   "text": "2025.11.10.",
+   "bbox": [
+    24,
+    566,
+    145,
+    580
+   ]
+  },
+  {
+   "text": "18:48",
+   "bbox": [
+    460,
+    566,
+    515,
+    580
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3775/44065",
+   "bbox": [
+    24,
+    594,
+    266,
+    612
+   ]
+  },
+  {
+   "text": "AP A54025451",
+   "bbox": [
+    24,
+    624,
+    156,
+    638
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    179,
+    664,
+    359,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  539,
+  725
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Máté Márton",
+  "email": "mate.marton@citromail.hu",
+  "telefon": "+36 20 111 1953",
+  "lakcim": "H-2965 Hajdútótvára, Kecskeméti utca 98.",
+  "szuletesi_datum": "1987. 08. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bakos Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2011 – 2012"
+   },
+   {
+    "ceg": "Balog Tech Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2009 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Linux",
+   "SAP",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    85,
+    222,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    101,
+    149
+   ]
+  },
+  {
+   "text": "mate.marton@citromail.hu",
+   "bbox": [
+    40,
+    158,
+    276,
+    177
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    192,
+    111,
+    207
+   ]
+  },
+  {
+   "text": "+36 20 111 1953",
+   "bbox": [
+    40,
+    216,
+    191,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    250,
+    109,
+    265
+   ]
+  },
+  {
+   "text": "H-2965 Hajdútótvára, Kecskeméti",
+   "bbox": [
+    40,
+    274,
+    339,
+    293
+   ]
+  },
+  {
+   "text": "utca 98.",
+   "bbox": [
+    40,
+    298,
+    112,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    332,
+    193,
+    347
+   ]
+  },
+  {
+   "text": "1987. 08. 03.",
+   "bbox": [
+    40,
+    356,
+    158,
+    371
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    415,
+    202,
+    438
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    461,
+    151,
+    480
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    489,
+    161,
+    508
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    541,
+    189,
+    564
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    587,
+    109,
+    602
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    615,
+    92,
+    630
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    643,
+    82,
+    658
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    671,
+    169,
+    690
+   ]
+  },
+  {
+   "text": "Máté Márton",
+   "bbox": [
+    450,
+    94,
+    721,
+    128
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    160,
+    567,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    229,
+    692,
+    253
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    450,
+    280,
+    570,
+    296
+   ]
+  },
+  {
+   "text": "rendszergazda – Bakos Tech Kft.",
+   "bbox": [
+    450,
+    306,
+    813,
+    328
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    450,
+    348,
+    570,
+    364
+   ]
+  },
+  {
+   "text": "tesztmérnök – Balog Tech Bt.",
+   "bbox": [
+    450,
+    374,
+    773,
+    396
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    427,
+    617,
+    451
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    478,
+    570,
+    494
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    504,
+    827,
+    526
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    450,
+    530,
+    609,
+    550
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    572,
+    570,
+    588
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    598,
+    718,
+    620
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    624,
+    695,
+    644
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

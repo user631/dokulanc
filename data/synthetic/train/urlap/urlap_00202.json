@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Horváth Éva",
+  "anyja_neve": "Nagy Szilvia",
+  "szuletesi_hely": "Németmindszentvég",
+  "szuletesi_datum": "1991. 08. 04.",
+  "lakcim": "H-6751 Pécs, Béke utca 64.",
+  "telefon": "+36 20 813 3821",
+  "email": "horvath.eva@gmail.com",
+  "adoazonosito_jel": "8455052392",
+  "taj_szam": "984 274 314",
+  "kelt": "Hátnémeti, 2026. 08. 05."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    512,
+    88,
+    727,
+    122
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    198,
+    306,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    251,
+    140,
+    267
+   ]
+  },
+  {
+   "text": "Horváth Éva",
+   "bbox": [
+    389,
+    246,
+    512,
+    267
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    306,
+    206,
+    324
+   ]
+  },
+  {
+   "text": "Nagy Szilvia",
+   "bbox": [
+    389,
+    301,
+    512,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    357,
+    231,
+    377
+   ]
+  },
+  {
+   "text": "Németmindszentvég",
+   "bbox": [
+    389,
+    354,
+    601,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    410,
+    221,
+    426
+   ]
+  },
+  {
+   "text": "1991. 08. 04.",
+   "bbox": [
+    389,
+    409,
+    523,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    463,
+    170,
+    479
+   ]
+  },
+  {
+   "text": "H-6751 Pécs, Béke utca 64.",
+   "bbox": [
+    389,
+    459,
+    670,
+    481
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    516,
+    221,
+    532
+   ]
+  },
+  {
+   "text": "+36 20 813 3821",
+   "bbox": [
+    389,
+    519,
+    554,
+    535
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    569,
+    203,
+    585
+   ]
+  },
+  {
+   "text": "horvath.eva@gmail.com",
+   "bbox": [
+    389,
+    567,
+    637,
+    589
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    622,
+    257,
+    642
+   ]
+  },
+  {
+   "text": "8455052392",
+   "bbox": [
+    389,
+    626,
+    509,
+    642
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    675,
+    192,
+    691
+   ]
+  },
+  {
+   "text": "984 274 314",
+   "bbox": [
+    389,
+    679,
+    511,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    756,
+    262,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    799,
+    455,
+    819
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    844,
+    285,
+    860
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    889,
+    468,
+    909
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    994,
+    132,
+    1009
+   ]
+  },
+  {
+   "text": "Hátnémeti, 2026. 08. 05.",
+   "bbox": [
+    177,
+    989,
+    436,
+    1011
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1041,
+    988,
+    1055
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

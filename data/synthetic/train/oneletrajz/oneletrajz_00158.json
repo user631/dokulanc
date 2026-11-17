@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Krisztián",
+  "email": "toth.krisztian@freemail.hu",
+  "telefon": "+36 30 210 6784",
+  "lakcim": "H-5527 Kaposvár, Szabadság tér 48.",
+  "szuletesi_datum": "1980. 03. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2000 – 2005"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1996 – 2000"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Simon és Társa Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2005 – 2008"
+   },
+   {
+    "ceg": "Szilágyi Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2004 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "ügyfélkezelés",
+   "prezentáció",
+   "JavaScript",
+   "SAP",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Krisztián",
+   "bbox": [
+    466,
+    110,
+    773,
+    144
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    179,
+    707,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    230,
+    158,
+    245
+   ]
+  },
+  {
+   "text": "toth.krisztian@freemail.hu",
+   "bbox": [
+    330,
+    230,
+    562,
+    249
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    260,
+    168,
+    275
+   ]
+  },
+  {
+   "text": "+36 30 210 6784",
+   "bbox": [
+    330,
+    260,
+    481,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    290,
+    166,
+    305
+   ]
+  },
+  {
+   "text": "H-5527 Kaposvár, Szabadság tér 48.",
+   "bbox": [
+    330,
+    290,
+    660,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    320,
+    250,
+    335
+   ]
+  },
+  {
+   "text": "1980. 03. 03.",
+   "bbox": [
+    330,
+    320,
+    448,
+    335
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    371,
+    315,
+    393
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    90,
+    420,
+    201,
+    435
+   ]
+  },
+  {
+   "text": "tesztmérnök – Simon és Társa Zrt.",
+   "bbox": [
+    90,
+    444,
+    438,
+    460
+   ]
+  },
+  {
+   "text": "2004 – 2005",
+   "bbox": [
+    90,
+    484,
+    201,
+    499
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szilágyi Kft.",
+   "bbox": [
+    90,
+    508,
+    418,
+    528
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    557,
+    246,
+    581
+   ]
+  },
+  {
+   "text": "2000 – 2005",
+   "bbox": [
+    90,
+    608,
+    201,
+    623
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    632,
+    347,
+    652
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    89,
+    656,
+    147,
+    675
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    90,
+    696,
+    201,
+    711
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    720,
+    349,
+    736
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    744,
+    167,
+    763
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    793,
+    217,
+    817
+   ]
+  },
+  {
+   "text": "angol (B2), német (B2)",
+   "bbox": [
+    90,
+    844,
+    294,
+    863
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    889,
+    213,
+    913
+   ]
+  },
+  {
+   "text": "Python, ügyfélkezelés, prezentáció, JavaScript, SAP, Linux",
+   "bbox": [
+    90,
+    940,
+    614,
+    959
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

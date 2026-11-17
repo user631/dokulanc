@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Kocsis Tech Bt.",
+  "felado_cim": "H-6183 Veszprém, Tiszamindszenti utca 198.",
+  "cimzett": "Dr. Takács Ágnes",
+  "cimzett_cim": "H-5262 Ózd, Béke utca 52.",
+  "datum": "2024. december 27.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "REF-2024/13952",
+  "hatarido": "2025. január 19",
+  "teendo": "a SZ-2024/06128 számú számla 684 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Molnár Szabolcs"
+ },
+ "lines": [
+  {
+   "text": "Kocsis Tech Bt.",
+   "bbox": [
+    105,
+    80,
+    341,
+    103
+   ]
+  },
+  {
+   "text": "H-6183 Veszprém, Tiszamindszenti utca 198.",
+   "bbox": [
+    105,
+    119,
+    505,
+    138
+   ]
+  },
+  {
+   "text": "Tel.: +36 30 617 6236   E-mail: info@kocsis.hu",
+   "bbox": [
+    105,
+    143,
+    521,
+    162
+   ]
+  },
+  {
+   "text": "Dr. Takács Ágnes",
+   "bbox": [
+    105,
+    224,
+    316,
+    251
+   ]
+  },
+  {
+   "text": "H-5262 Ózd",
+   "bbox": [
+    105,
+    256,
+    236,
+    282
+   ]
+  },
+  {
+   "text": "Béke utca 52.",
+   "bbox": [
+    105,
+    290,
+    247,
+    312
+   ]
+  },
+  {
+   "text": "Alsóhetvenkőrös, 2024. december 27.",
+   "bbox": [
+    736,
+    360,
+    1135,
+    382
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    105,
+    414,
+    413,
+    437
+   ]
+  },
+  {
+   "text": "Ügyszám: REF-2024/13952",
+   "bbox": [
+    105,
+    444,
+    400,
+    471
+   ]
+  },
+  {
+   "text": "Tisztelt Címzett!",
+   "bbox": [
+    105,
+    512,
+    279,
+    530
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2024/06128 számú, 2024. október 8. kelt számla 684 000 Ft",
+   "bbox": [
+    105,
+    562,
+    1100,
+    585
+   ]
+  },
+  {
+   "text": "összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    105,
+    596,
+    771,
+    619
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2025. január 19 napjáig szíveskedjen átutalni a",
+   "bbox": [
+    105,
+    644,
+    1020,
+    667
+   ]
+  },
+  {
+   "text": "65608599-74479260-65251620 számú bankszámlánkra.",
+   "bbox": [
+    105,
+    678,
+    707,
+    700
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    104,
+    726,
+    969,
+    749
+   ]
+  },
+  {
+   "text": "Tisztelettel:",
+   "bbox": [
+    105,
+    804,
+    230,
+    822
+   ]
+  },
+  {
+   "text": "Molnár Szabolcs",
+   "bbox": [
+    145,
+    898,
+    349,
+    916
+   ]
+  },
+  {
+   "text": "ügyvezető",
+   "bbox": [
+    145,
+    927,
+    243,
+    949
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

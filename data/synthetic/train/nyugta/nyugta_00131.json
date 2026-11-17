@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY CSEMEGE KFT.",
+  "uzlet_cim": "H-6926 Mezőszékhida, Érdi utca 35.",
+  "adoszam": "75665058-2-20",
+  "datum": "2025.03.09.",
+  "ido": "14:36",
+  "nyugtaszam": "6648/31956",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 918 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "818"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7434"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2302"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "238"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2337"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "789"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY CSEMEGE KFT.",
+   "bbox": [
+    200,
+    33,
+    438,
+    50
+   ]
+  },
+  {
+   "text": "H-6926 Mezőszékhida, Érdi utca 35.",
+   "bbox": [
+    115,
+    64,
+    523,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 75665058-2-20",
+   "bbox": [
+    187,
+    92,
+    451,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    274,
+    139,
+    365,
+    157
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    185,
+    128,
+    200
+   ]
+  },
+  {
+   "text": "818 C00",
+   "bbox": [
+    524,
+    185,
+    615,
+    200
+   ]
+  },
+  {
+   "text": "3 DB x 2478",
+   "bbox": [
+    24,
+    217,
+    156,
+    230
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    243,
+    141,
+    258
+   ]
+  },
+  {
+   "text": "7434 C00",
+   "bbox": [
+    511,
+    243,
+    615,
+    258
+   ]
+  },
+  {
+   "text": "2 DB x 1151",
+   "bbox": [
+    24,
+    275,
+    156,
+    288
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    301,
+    154,
+    316
+   ]
+  },
+  {
+   "text": "2302 C00",
+   "bbox": [
+    511,
+    301,
+    615,
+    316
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    333,
+    193,
+    348
+   ]
+  },
+  {
+   "text": "238 B00",
+   "bbox": [
+    524,
+    333,
+    615,
+    348
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    365,
+    271,
+    380
+   ]
+  },
+  {
+   "text": "2337 C00",
+   "bbox": [
+    511,
+    365,
+    615,
+    380
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    397,
+    219,
+    412
+   ]
+  },
+  {
+   "text": "789 A00",
+   "bbox": [
+    524,
+    397,
+    615,
+    412
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    436,
+    174,
+    459
+   ]
+  },
+  {
+   "text": "13 918 Ft",
+   "bbox": [
+    480,
+    441,
+    615,
+    459
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    478,
+    168,
+    498
+   ]
+  },
+  {
+   "text": "13 918 Ft",
+   "bbox": [
+    498,
+    482,
+    615,
+    498
+   ]
+  },
+  {
+   "text": "2025.03.09.",
+   "bbox": [
+    24,
+    529,
+    156,
+    543
+   ]
+  },
+  {
+   "text": "14:36",
+   "bbox": [
+    555,
+    529,
+    615,
+    543
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6648/31956",
+   "bbox": [
+    24,
+    556,
+    288,
+    577
+   ]
+  },
+  {
+   "text": "AP A52981010",
+   "bbox": [
+    24,
+    593,
+    168,
+    607
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    221,
+    632,
+    416,
+    652
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  639,
+  698
+ ]
+}

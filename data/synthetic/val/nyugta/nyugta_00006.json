@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VARGA ABC KFT.",
+  "uzlet_cim": "H-1119 Pécs, Miskolci utca 39.",
+  "adoszam": "64811695-2-40",
+  "datum": "2026.05.17.",
+  "ido": "18:44",
+  "nyugtaszam": "5026/57057",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 181 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1129"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "459"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3699"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "557"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "963"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "288"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "271"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1815"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA ABC KFT.",
+   "bbox": [
+    199,
+    34,
+    409,
+    50
+   ]
+  },
+  {
+   "text": "H-1119 Pécs, Miskolci utca 39.",
+   "bbox": [
+    109,
+    65,
+    499,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 64811695-2-40",
+   "bbox": [
+    161,
+    92,
+    447,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    138,
+    353,
+    155
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    180,
+    234,
+    197
+   ]
+  },
+  {
+   "text": "1129 B00",
+   "bbox": [
+    472,
+    180,
+    584,
+    197
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    214,
+    220,
+    228
+   ]
+  },
+  {
+   "text": "459 C00",
+   "bbox": [
+    486,
+    211,
+    584,
+    228
+   ]
+  },
+  {
+   "text": "3 DB x 1233",
+   "bbox": [
+    24,
+    242,
+    156,
+    256
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    270,
+    164,
+    284
+   ]
+  },
+  {
+   "text": "3699 A00",
+   "bbox": [
+    472,
+    267,
+    584,
+    284
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    298,
+    150,
+    315
+   ]
+  },
+  {
+   "text": "557 A00",
+   "bbox": [
+    486,
+    298,
+    584,
+    315
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    329,
+    192,
+    346
+   ]
+  },
+  {
+   "text": "963 B00",
+   "bbox": [
+    486,
+    329,
+    584,
+    346
+   ]
+  },
+  {
+   "text": "3 DB x 96",
+   "bbox": [
+    24,
+    360,
+    132,
+    374
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    388,
+    108,
+    402
+   ]
+  },
+  {
+   "text": "288 B00",
+   "bbox": [
+    486,
+    385,
+    584,
+    402
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    419,
+    206,
+    433
+   ]
+  },
+  {
+   "text": "271 A00",
+   "bbox": [
+    486,
+    416,
+    584,
+    433
+   ]
+  },
+  {
+   "text": "3 DB x 605",
+   "bbox": [
+    24,
+    447,
+    144,
+    461
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    472,
+    178,
+    489
+   ]
+  },
+  {
+   "text": "1815 A00",
+   "bbox": [
+    472,
+    472,
+    584,
+    489
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    514,
+    184,
+    535
+   ]
+  },
+  {
+   "text": "9 181 Ft",
+   "bbox": [
+    456,
+    515,
+    584,
+    535
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    555,
+    178,
+    573
+   ]
+  },
+  {
+   "text": "9 181 Ft",
+   "bbox": [
+    472,
+    556,
+    584,
+    573
+   ]
+  },
+  {
+   "text": "2026.05.17.",
+   "bbox": [
+    24,
+    601,
+    167,
+    616
+   ]
+  },
+  {
+   "text": "18:44",
+   "bbox": [
+    519,
+    601,
+    584,
+    616
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5026/57057",
+   "bbox": [
+    24,
+    630,
+    310,
+    650
+   ]
+  },
+  {
+   "text": "AP A31559141",
+   "bbox": [
+    24,
+    663,
+    180,
+    678
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    161,
+    705,
+    447,
+    722
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  608,
+  767
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Molnár Gyula",
+  "email": "molnar.gyula@gmail.com",
+  "telefon": "+36 30 922 8339",
+  "lakcim": "H-5392 Tapolcaváros, Szenthetveni utca 231.",
+  "szuletesi_datum": "1987.10.10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss és Társa Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2010 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "JavaScript",
+   "SAP",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Molnár Gyula",
+   "bbox": [
+    471,
+    91,
+    769,
+    138
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    555,
+    158,
+    685,
+    188
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    216,
+    165,
+    233
+   ]
+  },
+  {
+   "text": "molnar.gyula@gmail.com",
+   "bbox": [
+    330,
+    216,
+    590,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    249,
+    181,
+    266
+   ]
+  },
+  {
+   "text": "+36 30 922 8339",
+   "bbox": [
+    330,
+    250,
+    495,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    175,
+    299
+   ]
+  },
+  {
+   "text": "H-5392 Tapolcaváros, Szenthetveni utca 231.",
+   "bbox": [
+    330,
+    281,
+    795,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    314,
+    270,
+    332
+   ]
+  },
+  {
+   "text": "1987.10.10.",
+   "bbox": [
+    330,
+    316,
+    450,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    339,
+    395
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    90,
+    422,
+    208,
+    438
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kiss és Társa Zrt.",
+   "bbox": [
+    89,
+    448,
+    478,
+    471
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    502,
+    258,
+    528
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    90,
+    555,
+    208,
+    571
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    578,
+    274,
+    604
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    607,
+    341,
+    625
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    652,
+    208,
+    668
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    678,
+    408,
+    701
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    704,
+    358,
+    727
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    759,
+    229,
+    785
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    811,
+    195,
+    833
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    861,
+    222,
+    887
+   ]
+  },
+  {
+   "text": "Linux, csapatmunka, B kategóriás jogosítvány, JavaScript, SAP, prezentáció",
+   "bbox": [
+    90,
+    912,
+    874,
+    935
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

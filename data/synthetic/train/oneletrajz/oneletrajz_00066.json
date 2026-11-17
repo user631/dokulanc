@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kovács Réka",
+  "email": "kovacs.reka@outlook.com",
+  "telefon": "06 1 650 6100",
+  "lakcim": "H-3427 Dunaújváros, Ady endre utca 160.",
+  "szuletesi_datum": "1994. március 2.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Logisztika Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2017 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Python",
+   "ügyfélkezelés",
+   "SQL",
+   "projektmenedzsment",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Réka",
+   "bbox": [
+    491,
+    103,
+    750,
+    137
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    531,
+    170,
+    708,
+    187
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    153,
+    234
+   ]
+  },
+  {
+   "text": "kovacs.reka@outlook.com",
+   "bbox": [
+    330,
+    220,
+    551,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    249,
+    166,
+    263
+   ]
+  },
+  {
+   "text": "06 1 650 6100",
+   "bbox": [
+    330,
+    249,
+    448,
+    263
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    160,
+    292
+   ]
+  },
+  {
+   "text": "H-3427 Dunaújváros, Ady endre utca 160.",
+   "bbox": [
+    330,
+    277,
+    682,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    307,
+    240,
+    321
+   ]
+  },
+  {
+   "text": "1994. március 2.",
+   "bbox": [
+    330,
+    306,
+    471,
+    321
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    357,
+    302,
+    379
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    90,
+    405,
+    189,
+    419
+   ]
+  },
+  {
+   "text": "irodavezető – Nagy Logisztika Bt.",
+   "bbox": [
+    90,
+    428,
+    401,
+    447
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    478,
+    235,
+    500
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    90,
+    526,
+    189,
+    540
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    549,
+    409,
+    568
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    572,
+    228,
+    586
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    611,
+    189,
+    625
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    634,
+    318,
+    653
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    656,
+    313,
+    675
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    707,
+    207,
+    729
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    755,
+    177,
+    773
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    801,
+    200,
+    823
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, Python, ügyfélkezelés, SQL, projektmenedzsment, Java",
+   "bbox": [
+    90,
+    848,
+    786,
+    867
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/02447",
+  "kiallitas_datuma": "2026. 11. 17.",
+  "teljesites_datuma": "2026. 11. 12.",
+  "fizetesi_hatarido": "2026. 12. 02.",
+  "elado_nev": "Takács Trade Zrt.",
+  "elado_cim": "H-6569 Kaposvár, Tapolcavárosi út 219.",
+  "elado_adoszam": "63758454-4-13",
+  "vevo_nev": "Török Logisztika Kft.",
+  "vevo_cim": "H-9564 Nagykanizsa, Györgyhalasi tér 119.",
+  "vevo_adoszam": "24858010-2-42",
+  "bankszamla": "92081187-35062439-40582843",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "16 230 Ft",
+  "afa_osszesen": "4 382 Ft",
+  "brutto_osszesen": "20 612 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "3 oldal",
+    "egysegar": "5 410",
+    "netto": "16 230",
+    "afa_kulcs": "27%",
+    "afa": "4 382",
+    "brutto": "20 612"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    429,
+    91,
+    811,
+    120
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/02447",
+   "bbox": [
+    449,
+    147,
+    792,
+    163
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    83,
+    226,
+    149,
+    243
+   ]
+  },
+  {
+   "text": "Takács Trade Zrt.",
+   "bbox": [
+    83,
+    260,
+    262,
+    277
+   ]
+  },
+  {
+   "text": "H-6569 Kaposvár, Tapolcavárosi út 219.",
+   "bbox": [
+    83,
+    293,
+    441,
+    312
+   ]
+  },
+  {
+   "text": "Adószám: 63758454-4-13",
+   "bbox": [
+    82,
+    321,
+    313,
+    336
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    226,
+    689,
+    243
+   ]
+  },
+  {
+   "text": "Török Logisztika Kft.",
+   "bbox": [
+    630,
+    261,
+    843,
+    281
+   ]
+  },
+  {
+   "text": "H-9564 Nagykanizsa, Györgyhalasi tér 119.",
+   "bbox": [
+    630,
+    293,
+    1017,
+    312
+   ]
+  },
+  {
+   "text": "Adószám: 24858010-2-42",
+   "bbox": [
+    629,
+    321,
+    860,
+    336
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    83,
+    387,
+    212,
+    399
+   ]
+  },
+  {
+   "text": "2026. 11. 17.",
+   "bbox": [
+    83,
+    413,
+    196,
+    427
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    387,
+    491,
+    402
+   ]
+  },
+  {
+   "text": "2026. 11. 12.",
+   "bbox": [
+    351,
+    413,
+    464,
+    427
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    387,
+    752,
+    399
+   ]
+  },
+  {
+   "text": "2026. 12. 02.",
+   "bbox": [
+    619,
+    413,
+    732,
+    427
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    887,
+    387,
+    989,
+    399
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    887,
+    413,
+    971,
+    431
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    83,
+    461,
+    180,
+    476
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    461,
+    569,
+    476
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    461,
+    748,
+    476
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    834,
+    461,
+    877,
+    473
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    893,
+    458,
+    942,
+    473
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    458,
+    1045,
+    473
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    461,
+    1157,
+    473
+   ]
+  },
+  {
+   "text": "3 oldal",
+   "bbox": [
+    512,
+    500,
+    561,
+    512
+   ]
+  },
+  {
+   "text": "5 410",
+   "bbox": [
+    707,
+    500,
+    748,
+    512
+   ]
+  },
+  {
+   "text": "16 230",
+   "bbox": [
+    827,
+    500,
+    877,
+    512
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    500,
+    942,
+    512
+   ]
+  },
+  {
+   "text": "4 382",
+   "bbox": [
+    1003,
+    500,
+    1044,
+    512
+   ]
+  },
+  {
+   "text": "20 612",
+   "bbox": [
+    1107,
+    500,
+    1157,
+    512
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    83,
+    499,
+    285,
+    515
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    672,
+    554,
+    827,
+    569
+   ]
+  },
+  {
+   "text": "16 230 Ft",
+   "bbox": [
+    1066,
+    554,
+    1157,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    681,
+    584,
+    827,
+    603
+   ]
+  },
+  {
+   "text": "4 382 Ft",
+   "bbox": [
+    1078,
+    588,
+    1157,
+    603
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    707,
+    621,
+    827,
+    641
+   ]
+  },
+  {
+   "text": "20 612 Ft",
+   "bbox": [
+    1065,
+    622,
+    1157,
+    637
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 92081187-35062439-40582843",
+   "bbox": [
+    83,
+    685,
+    523,
+    699
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    451,
+    1656,
+    787,
+    1670
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

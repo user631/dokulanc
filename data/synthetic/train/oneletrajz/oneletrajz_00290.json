@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár Csaba",
+  "email": "molnar.csaba@outlook.com",
+  "telefon": "+36 30 936 8294",
+  "lakcim": "H-6009 Egyházasmártondevecser, Belsőtamásii utca 19.",
+  "szuletesi_datum": "1993.06.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "ceg": "Nagy Tech Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "prezentáció",
+   "C#",
+   "projektmenedzsment",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    79,
+    229,
+    103
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    130,
+    104,
+    145
+   ]
+  },
+  {
+   "text": "molnar.csaba@outlook.com",
+   "bbox": [
+    40,
+    155,
+    308,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    116,
+    205
+   ]
+  },
+  {
+   "text": "+36 30 936 8294",
+   "bbox": [
+    40,
+    215,
+    202,
+    230
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    114,
+    265
+   ]
+  },
+  {
+   "text": "H-6009 Egyházasmártondevecser,",
+   "bbox": [
+    40,
+    275,
+    372,
+    294
+   ]
+  },
+  {
+   "text": "Belsőtamásii utca 19.",
+   "bbox": [
+    40,
+    300,
+    246,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    334,
+    203,
+    350
+   ]
+  },
+  {
+   "text": "1993.06.27.",
+   "bbox": [
+    40,
+    360,
+    154,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    419,
+    210,
+    443
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    465,
+    140,
+    485
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    519,
+    195,
+    543
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    565,
+    86,
+    581
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    594,
+    152,
+    614
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    623,
+    68,
+    639
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    652,
+    241,
+    672
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    681,
+    110,
+    697
+   ]
+  },
+  {
+   "text": "Molnár Csaba",
+   "bbox": [
+    450,
+    88,
+    758,
+    123
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    160,
+    651,
+    180
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    225,
+    708,
+    250
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    277,
+    579,
+    294
+   ]
+  },
+  {
+   "text": "projektmenedzser – Farkas Tech Kft.",
+   "bbox": [
+    450,
+    305,
+    867,
+    327
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    347,
+    579,
+    364
+   ]
+  },
+  {
+   "text": "adatelemző – Nagy Tech Zrt.",
+   "bbox": [
+    450,
+    373,
+    774,
+    397
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    428,
+    627,
+    453
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    450,
+    480,
+    579,
+    497
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    508,
+    660,
+    530
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    534,
+    813,
+    556
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    577,
+    579,
+    594
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    603,
+    803,
+    627
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    631,
+    539,
+    653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

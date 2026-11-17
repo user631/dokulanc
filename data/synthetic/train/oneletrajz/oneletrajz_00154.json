@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Nagy Károly",
+  "email": "nagy.karoly@gmail.com",
+  "telefon": "+36 20 451 3407",
+  "lakcim": "H-8399 Hídvár, Arany jános utca 236.",
+  "szuletesi_datum": "2004.11.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2023 – 2027"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sándor Trade Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Boros Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "Git",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Károly",
+   "bbox": [
+    460,
+    101,
+    780,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    514,
+    170,
+    725,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    172,
+    239
+   ]
+  },
+  {
+   "text": "nagy.karoly@gmail.com",
+   "bbox": [
+    330,
+    222,
+    585,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    185,
+    270
+   ]
+  },
+  {
+   "text": "+36 20 451 3407",
+   "bbox": [
+    330,
+    254,
+    511,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    180,
+    301
+   ]
+  },
+  {
+   "text": "H-8399 Hídvár, Arany jános utca 236.",
+   "bbox": [
+    330,
+    284,
+    730,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    288,
+    332
+   ]
+  },
+  {
+   "text": "2004.11.14.",
+   "bbox": [
+    330,
+    316,
+    458,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    375,
+    392
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    417,
+    253,
+    438
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Sándor Trade Kft.",
+   "bbox": [
+    90,
+    442,
+    680,
+    464
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    483,
+    253,
+    504
+   ]
+  },
+  {
+   "text": "irodavezető – Boros Logisztika Kft.",
+   "bbox": [
+    90,
+    508,
+    525,
+    530
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    559,
+    280,
+    585
+   ]
+  },
+  {
+   "text": "2023 – 2027",
+   "bbox": [
+    90,
+    611,
+    221,
+    627
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    631,
+    293,
+    657
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    660,
+    373,
+    677
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    702,
+    221,
+    718
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    726,
+    449,
+    748
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    751,
+    184,
+    772
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    802,
+    247,
+    828
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    853,
+    211,
+    874
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    900,
+    239,
+    926
+   ]
+  },
+  {
+   "text": "JavaScript, Git, ügyfélkezelés",
+   "bbox": [
+    90,
+    951,
+    402,
+    972
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2026/03482",
+  "kiallitas_datuma": "2026. július 17.",
+  "teljesites_datuma": "2026. július 15.",
+  "fizetesi_hatarido": "2026. július 25.",
+  "elado_nev": "Juhász Logisztika Zrt.",
+  "elado_cim": "H-4975 Tapolcabánya, Fürdőfai utca 43.",
+  "elado_adoszam": "25851322-5-23",
+  "vevo_nev": "Nagy és Társa Bt.",
+  "vevo_cim": "H-4266 Györgyváros, Lajosmindszenti utca 48.",
+  "vevo_adoszam": "14858985-3-33",
+  "bankszamla": "HU32 9347 3033 6103 8334 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "545 920 Ft",
+  "afa_osszesen": "144 672 Ft",
+  "brutto_osszesen": "690 592 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "12 csomag",
+    "egysegar": "2 140",
+    "netto": "25 680",
+    "afa_kulcs": "27%",
+    "afa": "6 934",
+    "brutto": "32 614"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "2 db",
+    "egysegar": "1 770",
+    "netto": "3 540",
+    "afa_kulcs": "27%",
+    "afa": "956",
+    "brutto": "4 496"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "10 230",
+    "netto": "10 230",
+    "afa_kulcs": "5%",
+    "afa": "512",
+    "brutto": "10 742"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "160 620",
+    "netto": "481 860",
+    "afa_kulcs": "27%",
+    "afa": "130 102",
+    "brutto": "611 962"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "2 800",
+    "netto": "2 800",
+    "afa_kulcs": "27%",
+    "afa": "756",
+    "brutto": "3 556"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "8 260",
+    "netto": "16 520",
+    "afa_kulcs": "27%",
+    "afa": "4 460",
+    "brutto": "20 980"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "5 290",
+    "netto": "5 290",
+    "afa_kulcs": "18%",
+    "afa": "952",
+    "brutto": "6 242"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JUHÁSZ",
+   "bbox": [
+    104,
+    104,
+    198,
+    124
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1045,
+    90,
+    1169,
+    117
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2026/03482",
+   "bbox": [
+    944,
+    145,
+    1169,
+    161
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    71,
+    226,
+    126,
+    241
+   ]
+  },
+  {
+   "text": "Nagy és Társa Bt.",
+   "bbox": [
+    71,
+    260,
+    241,
+    280
+   ]
+  },
+  {
+   "text": "H-4266 Györgyváros, Lajosmindszenti utca 48.",
+   "bbox": [
+    71,
+    291,
+    456,
+    309
+   ]
+  },
+  {
+   "text": "Adószám: 14858985-3-33",
+   "bbox": [
+    71,
+    319,
+    282,
+    333
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    226,
+    692,
+    241
+   ]
+  },
+  {
+   "text": "Juhász Logisztika Zrt.",
+   "bbox": [
+    630,
+    260,
+    843,
+    280
+   ]
+  },
+  {
+   "text": "H-4975 Tapolcabánya, Fürdőfai utca 43.",
+   "bbox": [
+    630,
+    291,
+    958,
+    309
+   ]
+  },
+  {
+   "text": "Adószám: 25851322-5-23",
+   "bbox": [
+    630,
+    319,
+    841,
+    333
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    71,
+    386,
+    224,
+    399
+   ]
+  },
+  {
+   "text": "2026. július 17.",
+   "bbox": [
+    371,
+    385,
+    497,
+    403
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    71,
+    416,
+    231,
+    433
+   ]
+  },
+  {
+   "text": "2026. július 15.",
+   "bbox": [
+    371,
+    415,
+    497,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    71,
+    446,
+    223,
+    459
+   ]
+  },
+  {
+   "text": "2026. július 25.",
+   "bbox": [
+    371,
+    445,
+    497,
+    463
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    71,
+    476,
+    187,
+    489
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    371,
+    475,
+    434,
+    489
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    71,
+    518,
+    161,
+    533
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    518,
+    565,
+    533
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    681,
+    518,
+    751,
+    533
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    842,
+    518,
+    883,
+    529
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    898,
+    515,
+    949,
+    529
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1019,
+    515,
+    1054,
+    529
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1120,
+    518,
+    1169,
+    529
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    510,
+    557,
+    586,
+    572
+   ]
+  },
+  {
+   "text": "2 140",
+   "bbox": [
+    711,
+    557,
+    751,
+    568
+   ]
+  },
+  {
+   "text": "25 680",
+   "bbox": [
+    834,
+    557,
+    883,
+    568
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    917,
+    557,
+    949,
+    568
+   ]
+  },
+  {
+   "text": "6 934",
+   "bbox": [
+    1013,
+    557,
+    1053,
+    568
+   ]
+  },
+  {
+   "text": "32 614",
+   "bbox": [
+    1120,
+    557,
+    1169,
+    568
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    70,
+    556,
+    260,
+    572
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    510,
+    589,
+    541,
+    601
+   ]
+  },
+  {
+   "text": "1 770",
+   "bbox": [
+    711,
+    590,
+    751,
+    601
+   ]
+  },
+  {
+   "text": "3 540",
+   "bbox": [
+    843,
+    590,
+    883,
+    601
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    917,
+    590,
+    949,
+    601
+   ]
+  },
+  {
+   "text": "956",
+   "bbox": [
+    1026,
+    590,
+    1053,
+    601
+   ]
+  },
+  {
+   "text": "4 496",
+   "bbox": [
+    1129,
+    590,
+    1169,
+    601
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    71,
+    589,
+    196,
+    605
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    622,
+    541,
+    634
+   ]
+  },
+  {
+   "text": "10 230",
+   "bbox": [
+    702,
+    623,
+    751,
+    634
+   ]
+  },
+  {
+   "text": "10 230",
+   "bbox": [
+    834,
+    623,
+    883,
+    634
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    926,
+    623,
+    949,
+    634
+   ]
+  },
+  {
+   "text": "512",
+   "bbox": [
+    1026,
+    623,
+    1053,
+    634
+   ]
+  },
+  {
+   "text": "10 742",
+   "bbox": [
+    1120,
+    623,
+    1169,
+    634
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    71,
+    622,
+    269,
+    638
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    510,
+    655,
+    581,
+    667
+   ]
+  },
+  {
+   "text": "160 620",
+   "bbox": [
+    693,
+    656,
+    751,
+    667
+   ]
+  },
+  {
+   "text": "481 860",
+   "bbox": [
+    825,
+    656,
+    883,
+    667
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    917,
+    656,
+    949,
+    667
+   ]
+  },
+  {
+   "text": "130 102",
+   "bbox": [
+    995,
+    656,
+    1053,
+    667
+   ]
+  },
+  {
+   "text": "611 962",
+   "bbox": [
+    1111,
+    656,
+    1169,
+    667
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    71,
+    655,
+    228,
+    671
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    510,
+    688,
+    581,
+    700
+   ]
+  },
+  {
+   "text": "2 800",
+   "bbox": [
+    711,
+    689,
+    751,
+    700
+   ]
+  },
+  {
+   "text": "2 800",
+   "bbox": [
+    843,
+    689,
+    883,
+    700
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    917,
+    689,
+    949,
+    700
+   ]
+  },
+  {
+   "text": "756",
+   "bbox": [
+    1026,
+    689,
+    1053,
+    700
+   ]
+  },
+  {
+   "text": "3 556",
+   "bbox": [
+    1129,
+    689,
+    1169,
+    700
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    71,
+    688,
+    159,
+    704
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    510,
+    721,
+    541,
+    733
+   ]
+  },
+  {
+   "text": "8 260",
+   "bbox": [
+    711,
+    722,
+    751,
+    733
+   ]
+  },
+  {
+   "text": "16 520",
+   "bbox": [
+    834,
+    722,
+    883,
+    733
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    917,
+    722,
+    949,
+    733
+   ]
+  },
+  {
+   "text": "4 460",
+   "bbox": [
+    1013,
+    722,
+    1053,
+    733
+   ]
+  },
+  {
+   "text": "20 980",
+   "bbox": [
+    1120,
+    722,
+    1169,
+    733
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    71,
+    721,
+    162,
+    737
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    510,
+    755,
+    577,
+    770
+   ]
+  },
+  {
+   "text": "5 290",
+   "bbox": [
+    711,
+    755,
+    751,
+    766
+   ]
+  },
+  {
+   "text": "5 290",
+   "bbox": [
+    843,
+    755,
+    883,
+    766
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    917,
+    755,
+    949,
+    766
+   ]
+  },
+  {
+   "text": "952",
+   "bbox": [
+    1026,
+    755,
+    1053,
+    766
+   ]
+  },
+  {
+   "text": "6 242",
+   "bbox": [
+    1129,
+    755,
+    1169,
+    766
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    71,
+    754,
+    201,
+    770
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    707,
+    807,
+    839,
+    822
+   ]
+  },
+  {
+   "text": "545 920 Ft",
+   "bbox": [
+    1075,
+    808,
+    1169,
+    822
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    713,
+    837,
+    839,
+    856
+   ]
+  },
+  {
+   "text": "144 672 Ft",
+   "bbox": [
+    1075,
+    842,
+    1169,
+    856
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    741,
+    876,
+    839,
+    894
+   ]
+  },
+  {
+   "text": "690 592 Ft",
+   "bbox": [
+    1073,
+    876,
+    1169,
+    890
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU32 9347 3033 6103 8334 0000 0000",
+   "bbox": [
+    71,
+    939,
+    529,
+    952
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    71,
+    967,
+    500,
+    981
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2025/01807",
+  "kiallitas_datuma": "2025. 07. 01.",
+  "teljesites_datuma": "2025. 06. 29.",
+  "fizetesi_hatarido": "2025. 07. 09.",
+  "elado_nev": "Szabó Bt.",
+  "elado_cim": "H-3528 Egyházaskeresztkövesd, Tamásivégi utca 65.",
+  "elado_adoszam": "11822464-4-17",
+  "vevo_nev": "Balázs Zrt.",
+  "vevo_cim": "H-1436 Pilishátnádasd, Somogymindszenti utca 211.",
+  "vevo_adoszam": "67540273-2-16",
+  "bankszamla": "12460690-45869785",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "615 700 Ft",
+  "afa_osszesen": "164 771 Ft",
+  "brutto_osszesen": "780 471 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "10 db",
+    "egysegar": "3 560",
+    "netto": "35 600",
+    "afa_kulcs": "27%",
+    "afa": "9 612",
+    "brutto": "45 212"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "3 oldal",
+    "egysegar": "6 440",
+    "netto": "19 320",
+    "afa_kulcs": "27%",
+    "afa": "5 216",
+    "brutto": "24 536"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "19 320",
+    "netto": "19 320",
+    "afa_kulcs": "27%",
+    "afa": "5 216",
+    "brutto": "24 536"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 060",
+    "netto": "2 060",
+    "afa_kulcs": "27%",
+    "afa": "556",
+    "brutto": "2 616"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "10 db",
+    "egysegar": "13 020",
+    "netto": "130 200",
+    "afa_kulcs": "27%",
+    "afa": "35 154",
+    "brutto": "165 354"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "78 580",
+    "netto": "392 900",
+    "afa_kulcs": "27%",
+    "afa": "106 083",
+    "brutto": "498 983"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "5 csomag",
+    "egysegar": "3 260",
+    "netto": "16 300",
+    "afa_kulcs": "18%",
+    "afa": "2 934",
+    "brutto": "19 234"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    441,
+    93,
+    800,
+    122
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/01807",
+   "bbox": [
+    465,
+    150,
+    775,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    231,
+    151,
+    246
+   ]
+  },
+  {
+   "text": "Szabó Bt.",
+   "bbox": [
+    85,
+    266,
+    180,
+    281
+   ]
+  },
+  {
+   "text": "H-3528 Egyházaskeresztkövesd, Tamásivégi utca 65.",
+   "bbox": [
+    85,
+    297,
+    537,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 11822464-4-17",
+   "bbox": [
+    85,
+    326,
+    310,
+    341
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    231,
+    689,
+    246
+   ]
+  },
+  {
+   "text": "Balázs Zrt.",
+   "bbox": [
+    630,
+    266,
+    739,
+    281
+   ]
+  },
+  {
+   "text": "H-1436 Pilishátnádasd, Somogymindszenti utca 211.",
+   "bbox": [
+    630,
+    297,
+    1082,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 67540273-2-16",
+   "bbox": [
+    630,
+    326,
+    855,
+    341
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    85,
+    393,
+    214,
+    406
+   ]
+  },
+  {
+   "text": "2025. 07. 01.",
+   "bbox": [
+    85,
+    421,
+    190,
+    434
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    393,
+    488,
+    410
+   ]
+  },
+  {
+   "text": "2025. 06. 29.",
+   "bbox": [
+    352,
+    421,
+    457,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    393,
+    748,
+    406
+   ]
+  },
+  {
+   "text": "2025. 07. 09.",
+   "bbox": [
+    619,
+    421,
+    724,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    393,
+    983,
+    406
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    886,
+    420,
+    949,
+    434
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    469,
+    177,
+    486
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    470,
+    572,
+    486
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    677,
+    469,
+    748,
+    486
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    834,
+    469,
+    876,
+    482
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    466,
+    941,
+    482
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    466,
+    1042,
+    482
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1104,
+    469,
+    1155,
+    482
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    513,
+    509,
+    554,
+    522
+   ]
+  },
+  {
+   "text": "3 560",
+   "bbox": [
+    707,
+    510,
+    748,
+    522
+   ]
+  },
+  {
+   "text": "35 600",
+   "bbox": [
+    826,
+    510,
+    876,
+    522
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    510,
+    941,
+    522
+   ]
+  },
+  {
+   "text": "9 612",
+   "bbox": [
+    1001,
+    510,
+    1042,
+    522
+   ]
+  },
+  {
+   "text": "45 212",
+   "bbox": [
+    1105,
+    510,
+    1155,
+    522
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    85,
+    509,
+    232,
+    526
+   ]
+  },
+  {
+   "text": "3 oldal",
+   "bbox": [
+    513,
+    543,
+    563,
+    556
+   ]
+  },
+  {
+   "text": "6 440",
+   "bbox": [
+    707,
+    544,
+    748,
+    556
+   ]
+  },
+  {
+   "text": "19 320",
+   "bbox": [
+    826,
+    544,
+    876,
+    556
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    544,
+    941,
+    556
+   ]
+  },
+  {
+   "text": "5 216",
+   "bbox": [
+    1001,
+    544,
+    1042,
+    556
+   ]
+  },
+  {
+   "text": "24 536",
+   "bbox": [
+    1105,
+    544,
+    1155,
+    556
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    85,
+    543,
+    282,
+    560
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    513,
+    578,
+    544,
+    590
+   ]
+  },
+  {
+   "text": "19 320",
+   "bbox": [
+    698,
+    578,
+    748,
+    590
+   ]
+  },
+  {
+   "text": "19 320",
+   "bbox": [
+    826,
+    578,
+    876,
+    590
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    578,
+    941,
+    590
+   ]
+  },
+  {
+   "text": "5 216",
+   "bbox": [
+    1001,
+    578,
+    1042,
+    590
+   ]
+  },
+  {
+   "text": "24 536",
+   "bbox": [
+    1105,
+    578,
+    1155,
+    590
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    85,
+    577,
+    217,
+    594
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    513,
+    612,
+    582,
+    628
+   ]
+  },
+  {
+   "text": "2 060",
+   "bbox": [
+    707,
+    612,
+    748,
+    624
+   ]
+  },
+  {
+   "text": "2 060",
+   "bbox": [
+    835,
+    612,
+    876,
+    624
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    612,
+    941,
+    624
+   ]
+  },
+  {
+   "text": "556",
+   "bbox": [
+    1015,
+    612,
+    1042,
+    624
+   ]
+  },
+  {
+   "text": "2 616",
+   "bbox": [
+    1114,
+    612,
+    1155,
+    624
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    84,
+    611,
+    280,
+    628
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    513,
+    645,
+    554,
+    658
+   ]
+  },
+  {
+   "text": "13 020",
+   "bbox": [
+    698,
+    646,
+    748,
+    658
+   ]
+  },
+  {
+   "text": "130 200",
+   "bbox": [
+    817,
+    646,
+    876,
+    658
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    646,
+    941,
+    658
+   ]
+  },
+  {
+   "text": "35 154",
+   "bbox": [
+    992,
+    646,
+    1042,
+    658
+   ]
+  },
+  {
+   "text": "165 354",
+   "bbox": [
+    1096,
+    646,
+    1155,
+    658
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    85,
+    645,
+    178,
+    662
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    513,
+    679,
+    545,
+    692
+   ]
+  },
+  {
+   "text": "78 580",
+   "bbox": [
+    698,
+    680,
+    748,
+    692
+   ]
+  },
+  {
+   "text": "392 900",
+   "bbox": [
+    817,
+    680,
+    876,
+    692
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    680,
+    941,
+    692
+   ]
+  },
+  {
+   "text": "106 083",
+   "bbox": [
+    983,
+    680,
+    1042,
+    692
+   ]
+  },
+  {
+   "text": "498 983",
+   "bbox": [
+    1096,
+    680,
+    1155,
+    692
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    85,
+    679,
+    292,
+    696
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    513,
+    714,
+    582,
+    730
+   ]
+  },
+  {
+   "text": "3 260",
+   "bbox": [
+    707,
+    714,
+    748,
+    726
+   ]
+  },
+  {
+   "text": "16 300",
+   "bbox": [
+    826,
+    714,
+    876,
+    726
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    908,
+    714,
+    941,
+    726
+   ]
+  },
+  {
+   "text": "2 934",
+   "bbox": [
+    1001,
+    714,
+    1042,
+    726
+   ]
+  },
+  {
+   "text": "19 234",
+   "bbox": [
+    1105,
+    714,
+    1155,
+    726
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    85,
+    713,
+    219,
+    730
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    684,
+    767,
+    825,
+    783
+   ]
+  },
+  {
+   "text": "615 700 Ft",
+   "bbox": [
+    1059,
+    768,
+    1156,
+    783
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    798,
+    825,
+    818
+   ]
+  },
+  {
+   "text": "164 771 Ft",
+   "bbox": [
+    1059,
+    803,
+    1156,
+    818
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    658,
+    838,
+    825,
+    858
+   ]
+  },
+  {
+   "text": "780 471 Ft",
+   "bbox": [
+    1057,
+    838,
+    1156,
+    853
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 12460690-45869785",
+   "bbox": [
+    85,
+    902,
+    404,
+    916
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    85,
+    931,
+    570,
+    947
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1654,
+    732,
+    1668
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

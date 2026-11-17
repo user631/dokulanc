@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Farkas Mária",
+  "anyja_neve": "Bakos Gyula",
+  "szuletesi_hely": "Ligetnádasd",
+  "szuletesi_datum": "1995.01.09.",
+  "lakcim": "H-7591 Lajosszékkőrös, Salgótarjáni tér 146.",
+  "telefon": "+36 70 144 6967",
+  "email": "farkas.maria@citromail.hu",
+  "adoazonosito_jel": "8467598677",
+  "taj_szam": "984 100 569",
+  "kelt": "Borsodtótnémeti, 2025.09.03."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    449,
+    93,
+    792,
+    123
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    488,
+    149,
+    751,
+    164
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    96,
+    202,
+    282,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    258,
+    143,
+    271
+   ]
+  },
+  {
+   "text": "Farkas Mária",
+   "bbox": [
+    442,
+    258,
+    560,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    310,
+    198,
+    326
+   ]
+  },
+  {
+   "text": "Bakos Gyula",
+   "bbox": [
+    442,
+    307,
+    553,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    108,
+    362,
+    216,
+    378
+   ]
+  },
+  {
+   "text": "Ligetnádasd",
+   "bbox": [
+    442,
+    357,
+    551,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    108,
+    414,
+    208,
+    427
+   ]
+  },
+  {
+   "text": "1995.01.09.",
+   "bbox": [
+    442,
+    415,
+    548,
+    429
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    108,
+    466,
+    166,
+    479
+   ]
+  },
+  {
+   "text": "H-7591 Lajosszékkőrös, Salgótarjáni tér 146.",
+   "bbox": [
+    442,
+    463,
+    840,
+    483
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    518,
+    210,
+    531
+   ]
+  },
+  {
+   "text": "+36 70 144 6967",
+   "bbox": [
+    442,
+    515,
+    589,
+    529
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    108,
+    570,
+    191,
+    583
+   ]
+  },
+  {
+   "text": "farkas.maria@citromail.hu",
+   "bbox": [
+    442,
+    567,
+    687,
+    585
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    622,
+    241,
+    638
+   ]
+  },
+  {
+   "text": "8467598677",
+   "bbox": [
+    442,
+    619,
+    552,
+    633
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    674,
+    183,
+    687
+   ]
+  },
+  {
+   "text": "984 100 569",
+   "bbox": [
+    442,
+    676,
+    551,
+    690
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    96,
+    750,
+    245,
+    769
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    141,
+    796,
+    409,
+    812
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    141,
+    841,
+    266,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    886,
+    422,
+    902
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    96,
+    986,
+    133,
+    1000
+   ]
+  },
+  {
+   "text": "Borsodtótnémeti, 2025.09.03.",
+   "bbox": [
+    186,
+    982,
+    457,
+    1002
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1036,
+    976,
+    1047
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

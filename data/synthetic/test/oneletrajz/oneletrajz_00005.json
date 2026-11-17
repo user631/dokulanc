@@ -1,0 +1,331 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Dudás András",
+  "email": "dudas.andras@citromail.hu",
+  "telefon": "+36 70 304 5976",
+  "lakcim": "H-4929 Cegléd, Nagykanizsai utca 161.",
+  "szuletesi_datum": "1992. 05. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2010 – 2015"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Borbély Consulting Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2016 – 2017"
+   },
+   {
+    "ceg": "Tóth Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2014 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Python",
+   "SAP",
+   "prezentáció",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    87,
+    188,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    132,
+    93,
+    146
+   ]
+  },
+  {
+   "text": "dudas.andras@citromail.hu",
+   "bbox": [
+    40,
+    154,
+    255,
+    170
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    186,
+    105,
+    200
+   ]
+  },
+  {
+   "text": "+36 70 304 5976",
+   "bbox": [
+    40,
+    209,
+    177,
+    222
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    240,
+    99,
+    254
+   ]
+  },
+  {
+   "text": "H-4929 Cegléd, Nagykanizsai utca 161.",
+   "bbox": [
+    40,
+    262,
+    349,
+    280
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    294,
+    175,
+    308
+   ]
+  },
+  {
+   "text": "1992. 05. 03.",
+   "bbox": [
+    40,
+    317,
+    142,
+    330
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    375,
+    180,
+    396
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    417,
+    131,
+    434
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    469,
+    158,
+    490
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    511,
+    85,
+    525
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    537,
+    99,
+    555
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    564,
+    73,
+    577
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    589,
+    139,
+    607
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    615,
+    64,
+    629
+   ]
+  },
+  {
+   "text": "Dudás András",
+   "bbox": [
+    450,
+    99,
+    737,
+    132
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    164,
+    649,
+    188
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    226,
+    674,
+    250
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    450,
+    276,
+    558,
+    290
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Borbély Consulting Zrt.",
+   "bbox": [
+    448,
+    299,
+    849,
+    320
+   ]
+  },
+  {
+   "text": "2014 – 2016",
+   "bbox": [
+    450,
+    340,
+    558,
+    354
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Kft.",
+   "bbox": [
+    450,
+    363,
+    674,
+    379
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    414,
+    606,
+    438
+   ]
+  },
+  {
+   "text": "2010 – 2015",
+   "bbox": [
+    450,
+    464,
+    558,
+    478
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    487,
+    694,
+    508
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    448,
+    511,
+    506,
+    531
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    552,
+    558,
+    566
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    575,
+    687,
+    596
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    599,
+    622,
+    619
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

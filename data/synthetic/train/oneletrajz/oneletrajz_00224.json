@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Juhász Katalin",
+  "email": "juhasz.katalin@gmail.com",
+  "telefon": "+36 30 299 5269",
+  "lakcim": "H-8418 Zalaegerszeg, Bácstapolcai utca 220.",
+  "szuletesi_datum": "1979. szeptember 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "1998 – 2002"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács és Társa Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Németh és Társa Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2006 – 2007"
+   },
+   {
+    "ceg": "Csonka Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    107,
+    186,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    152,
+    92,
+    165
+   ]
+  },
+  {
+   "text": "juhasz.katalin@gmail.com",
+   "bbox": [
+    40,
+    174,
+    251,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    104,
+    219
+   ]
+  },
+  {
+   "text": "+36 30 299 5269",
+   "bbox": [
+    40,
+    228,
+    163,
+    241
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    259,
+    99,
+    273
+   ]
+  },
+  {
+   "text": "H-8418 Zalaegerszeg, Bácstapolcai utca",
+   "bbox": [
+    40,
+    281,
+    355,
+    299
+   ]
+  },
+  {
+   "text": "220.",
+   "bbox": [
+    40,
+    304,
+    74,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    335,
+    173,
+    349
+   ]
+  },
+  {
+   "text": "1979. szeptember 18.",
+   "bbox": [
+    40,
+    358,
+    213,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    417,
+    175,
+    437
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    458,
+    127,
+    476
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    511,
+    156,
+    531
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    551,
+    155,
+    570
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    578,
+    221,
+    596
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    604,
+    127,
+    622
+   ]
+  },
+  {
+   "text": "Juhász Katalin",
+   "bbox": [
+    450,
+    115,
+    745,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    183,
+    631,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    675,
+    268
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    450,
+    295,
+    549,
+    309
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács és Társa Bt.",
+   "bbox": [
+    450,
+    318,
+    758,
+    334
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    450,
+    359,
+    550,
+    373
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Németh és Társa Kft.",
+   "bbox": [
+    449,
+    382,
+    826,
+    402
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    423,
+    549,
+    437
+   ]
+  },
+  {
+   "text": "adatelemző – Csonka Consulting Kft.",
+   "bbox": [
+    450,
+    446,
+    802,
+    466
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    497,
+    602,
+    520
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    547,
+    549,
+    561
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    570,
+    691,
+    590
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    593,
+    507,
+    613
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    635,
+    549,
+    649
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    658,
+    739,
+    678
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    681,
+    687,
+    701
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

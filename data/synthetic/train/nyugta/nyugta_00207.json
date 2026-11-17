@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZEKERES MARKET BT.",
+  "uzlet_cim": "H-9929 Nyíregyháza, Petőfi sándor utca 8.",
+  "adoszam": "34499041-2-35",
+  "datum": "2025.08.22.",
+  "ido": "08:08",
+  "nyugtaszam": "5782/82288",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 160 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2549"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1142"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "204"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1251"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1010"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1091"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2913"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZEKERES MARKET BT.",
+   "bbox": [
+    151,
+    33,
+    379,
+    47
+   ]
+  },
+  {
+   "text": "H-9929 Nyíregyháza, Petőfi sándor utca 8.",
+   "bbox": [
+    60,
+    63,
+    470,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34499041-2-35",
+   "bbox": [
+    155,
+    86,
+    375,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    127,
+    305,
+    142
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "2549 B00",
+   "bbox": [
+    419,
+    168,
+    507,
+    181
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    196,
+    134,
+    209
+   ]
+  },
+  {
+   "text": "1142 B00",
+   "bbox": [
+    419,
+    196,
+    507,
+    209
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    224,
+    178,
+    240
+   ]
+  },
+  {
+   "text": "204 A00",
+   "bbox": [
+    430,
+    224,
+    507,
+    237
+   ]
+  },
+  {
+   "text": "3 DB x 417",
+   "bbox": [
+    24,
+    252,
+    114,
+    263
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    274,
+    178,
+    287
+   ]
+  },
+  {
+   "text": "1251 B00",
+   "bbox": [
+    419,
+    274,
+    507,
+    287
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    302,
+    134,
+    315
+   ]
+  },
+  {
+   "text": "1010 A00",
+   "bbox": [
+    419,
+    302,
+    507,
+    315
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    330,
+    156,
+    343
+   ]
+  },
+  {
+   "text": "1091 C00",
+   "bbox": [
+    419,
+    330,
+    507,
+    343
+   ]
+  },
+  {
+   "text": "3 DB x 971",
+   "bbox": [
+    24,
+    358,
+    114,
+    369
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    380,
+    167,
+    393
+   ]
+  },
+  {
+   "text": "2913 C00",
+   "bbox": [
+    419,
+    380,
+    507,
+    393
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    416,
+    154,
+    436
+   ]
+  },
+  {
+   "text": "10 160 Ft",
+   "bbox": [
+    390,
+    420,
+    507,
+    436
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    454,
+    134,
+    471
+   ]
+  },
+  {
+   "text": "10 160 Ft",
+   "bbox": [
+    408,
+    458,
+    507,
+    471
+   ]
+  },
+  {
+   "text": "2025.08.22.",
+   "bbox": [
+    24,
+    501,
+    134,
+    512
+   ]
+  },
+  {
+   "text": "08:08",
+   "bbox": [
+    457,
+    501,
+    507,
+    512
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5782/82288",
+   "bbox": [
+    24,
+    526,
+    244,
+    542
+   ]
+  },
+  {
+   "text": "AP A80353474",
+   "bbox": [
+    24,
+    557,
+    144,
+    568
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    155,
+    593,
+    375,
+    609
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  531,
+  654
+ ]
+}

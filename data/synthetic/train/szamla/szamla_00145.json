@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2024/05987",
+  "kiallitas_datuma": "2024. 08. 24.",
+  "teljesites_datuma": "2024. 08. 20.",
+  "fizetesi_hatarido": "2024. 09. 01.",
+  "elado_nev": "Kiss Szolgáltató Zrt.",
+  "elado_cim": "H-4407 Mindszentháza, Ady endre út 31.",
+  "elado_adoszam": "24353278-2-31",
+  "vevo_nev": "Varga Bt.",
+  "vevo_cim": "H-6354 Cegléd, Zalaegerszegi utca 211.",
+  "vevo_adoszam": "44892586-2-41",
+  "bankszamla": "68838609-24937929-31340147",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 462 050 Ft",
+  "afa_osszesen": "394 753 Ft",
+  "brutto_osszesen": "1 856 803 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "51 810",
+    "netto": "51 810",
+    "afa_kulcs": "27%",
+    "afa": "13 989",
+    "brutto": "65 799"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "4 720",
+    "netto": "4 720",
+    "afa_kulcs": "27%",
+    "afa": "1 274",
+    "brutto": "5 994"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "14 220",
+    "netto": "14 220",
+    "afa_kulcs": "27%",
+    "afa": "3 839",
+    "brutto": "18 059"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "278 260",
+    "netto": "1 391 300",
+    "afa_kulcs": "27%",
+    "afa": "375 651",
+    "brutto": "1 766 951"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    424,
+    88,
+    816,
+    128
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/05987",
+   "bbox": [
+    418,
+    154,
+    822,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    89,
+    232,
+    165,
+    252
+   ]
+  },
+  {
+   "text": "Kiss Szolgáltató Zrt.",
+   "bbox": [
+    89,
+    269,
+    329,
+    294
+   ]
+  },
+  {
+   "text": "H-4407 Mindszentháza, Ady endre út 31.",
+   "bbox": [
+    89,
+    305,
+    510,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 24353278-2-31",
+   "bbox": [
+    88,
+    336,
+    357,
+    353
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    232,
+    698,
+    252
+   ]
+  },
+  {
+   "text": "Varga Bt.",
+   "bbox": [
+    629,
+    271,
+    740,
+    294
+   ]
+  },
+  {
+   "text": "H-6354 Cegléd, Zalaegerszegi utca 211.",
+   "bbox": [
+    630,
+    305,
+    1047,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 44892586-2-41",
+   "bbox": [
+    629,
+    336,
+    898,
+    353
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    89,
+    405,
+    273,
+    422
+   ]
+  },
+  {
+   "text": "2024. 08. 24.",
+   "bbox": [
+    389,
+    405,
+    523,
+    422
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    89,
+    438,
+    290,
+    460
+   ]
+  },
+  {
+   "text": "2024. 08. 20.",
+   "bbox": [
+    389,
+    438,
+    523,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    89,
+    471,
+    279,
+    488
+   ]
+  },
+  {
+   "text": "2024. 09. 01.",
+   "bbox": [
+    389,
+    471,
+    523,
+    488
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    89,
+    504,
+    236,
+    521
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    389,
+    504,
+    470,
+    521
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    89,
+    549,
+    206,
+    568
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    549,
+    582,
+    568
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    549,
+    748,
+    568
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    549,
+    874,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    545,
+    938,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    545,
+    1040,
+    564
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1091,
+    549,
+    1151,
+    564
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    513,
+    591,
+    551,
+    606
+   ]
+  },
+  {
+   "text": "51 810",
+   "bbox": [
+    686,
+    591,
+    747,
+    606
+   ]
+  },
+  {
+   "text": "51 810",
+   "bbox": [
+    813,
+    591,
+    874,
+    606
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    591,
+    938,
+    606
+   ]
+  },
+  {
+   "text": "13 989",
+   "bbox": [
+    978,
+    591,
+    1039,
+    606
+   ]
+  },
+  {
+   "text": "65 799",
+   "bbox": [
+    1090,
+    591,
+    1151,
+    606
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    89,
+    591,
+    250,
+    610
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    627,
+    552,
+    642
+   ]
+  },
+  {
+   "text": "4 720",
+   "bbox": [
+    697,
+    627,
+    747,
+    642
+   ]
+  },
+  {
+   "text": "4 720",
+   "bbox": [
+    824,
+    627,
+    874,
+    642
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    627,
+    938,
+    642
+   ]
+  },
+  {
+   "text": "1 274",
+   "bbox": [
+    989,
+    627,
+    1039,
+    642
+   ]
+  },
+  {
+   "text": "5 994",
+   "bbox": [
+    1101,
+    627,
+    1151,
+    642
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    89,
+    627,
+    249,
+    646
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    513,
+    663,
+    559,
+    678
+   ]
+  },
+  {
+   "text": "14 220",
+   "bbox": [
+    686,
+    663,
+    747,
+    678
+   ]
+  },
+  {
+   "text": "14 220",
+   "bbox": [
+    813,
+    663,
+    874,
+    678
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    663,
+    938,
+    678
+   ]
+  },
+  {
+   "text": "3 839",
+   "bbox": [
+    989,
+    663,
+    1039,
+    678
+   ]
+  },
+  {
+   "text": "18 059",
+   "bbox": [
+    1090,
+    663,
+    1151,
+    678
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    89,
+    663,
+    332,
+    682
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    513,
+    699,
+    598,
+    714
+   ]
+  },
+  {
+   "text": "278 260",
+   "bbox": [
+    675,
+    699,
+    747,
+    714
+   ]
+  },
+  {
+   "text": "1 391 300",
+   "bbox": [
+    785,
+    699,
+    874,
+    714
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    699,
+    938,
+    714
+   ]
+  },
+  {
+   "text": "375 651",
+   "bbox": [
+    967,
+    699,
+    1039,
+    714
+   ]
+  },
+  {
+   "text": "1 766 951",
+   "bbox": [
+    1062,
+    699,
+    1151,
+    714
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    89,
+    699,
+    289,
+    718
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    650,
+    756,
+    821,
+    773
+   ]
+  },
+  {
+   "text": "1 462 050 Ft",
+   "bbox": [
+    1017,
+    756,
+    1151,
+    773
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    659,
+    789,
+    821,
+    810
+   ]
+  },
+  {
+   "text": "394 753 Ft",
+   "bbox": [
+    1037,
+    793,
+    1151,
+    810
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    586,
+    828,
+    821,
+    847
+   ]
+  },
+  {
+   "text": "1 856 803 Ft",
+   "bbox": [
+    1016,
+    830,
+    1151,
+    847
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 68838609-24937929-31340147",
+   "bbox": [
+    89,
+    896,
+    574,
+    912
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    414,
+    1648,
+    825,
+    1665
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

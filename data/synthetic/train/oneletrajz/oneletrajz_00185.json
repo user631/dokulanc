@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár Eszter",
+  "email": "molnar.eszter@outlook.com",
+  "telefon": "+36 20 654 2874",
+  "lakcim": "H-9713 Salgótarján, Ady endre utca 145.",
+  "szuletesi_datum": "1994. október 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nemes Tech Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2018 – 2019"
+   },
+   {
+    "ceg": "Papp Consulting Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2016 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Python",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Molnár Eszter",
+   "bbox": [
+    435,
+    111,
+    804,
+    151
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    512,
+    182,
+    728,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    235,
+    179,
+    252
+   ]
+  },
+  {
+   "text": "molnar.eszter@outlook.com",
+   "bbox": [
+    330,
+    235,
+    637,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    267,
+    192,
+    284
+   ]
+  },
+  {
+   "text": "+36 20 654 2874",
+   "bbox": [
+    330,
+    268,
+    526,
+    284
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    298,
+    187,
+    316
+   ]
+  },
+  {
+   "text": "H-9713 Salgótarján, Ady endre utca 145.",
+   "bbox": [
+    330,
+    298,
+    790,
+    320
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    330,
+    300,
+    348
+   ]
+  },
+  {
+   "text": "1994. október 5.",
+   "bbox": [
+    330,
+    330,
+    516,
+    348
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    383,
+    409
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    90,
+    436,
+    232,
+    452
+   ]
+  },
+  {
+   "text": "irodavezető – Nemes Tech Zrt.",
+   "bbox": [
+    90,
+    461,
+    482,
+    479
+   ]
+  },
+  {
+   "text": "2016 – 2018",
+   "bbox": [
+    90,
+    504,
+    232,
+    520
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Papp Consulting Bt.",
+   "bbox": [
+    89,
+    529,
+    570,
+    552
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    581,
+    289,
+    607
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    634,
+    232,
+    650
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    655,
+    300,
+    682
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    684,
+    380,
+    706
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    728,
+    232,
+    744
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    753,
+    416,
+    771
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    778,
+    375,
+    800
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    831,
+    253,
+    857
+   ]
+  },
+  {
+   "text": "spanyol (B1), francia (A2)",
+   "bbox": [
+    90,
+    883,
+    378,
+    904
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    931,
+    243,
+    957
+   ]
+  },
+  {
+   "text": "SQL, Python, projektmenedzsment",
+   "bbox": [
+    90,
+    983,
+    476,
+    1004
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

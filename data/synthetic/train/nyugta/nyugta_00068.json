@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TAMÁS KISBOLT BT.",
+  "uzlet_cim": "H-9601 Veszprém, Tapolcakőrösi utca 8.",
+  "adoszam": "71222035-3-20",
+  "datum": "2025.01.20.",
+  "ido": "13:19",
+  "nyugtaszam": "6495/74118",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 349 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "431"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "509"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2313"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2409"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1140"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "453"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1444"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "758"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1190"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "183"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "519"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAMÁS KISBOLT BT.",
+   "bbox": [
+    206,
+    28,
+    427,
+    48
+   ]
+  },
+  {
+   "text": "H-9601 Veszprém, Tapolcakőrösi utca 8.",
+   "bbox": [
+    108,
+    64,
+    526,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71222035-3-20",
+   "bbox": [
+    196,
+    88,
+    438,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    275,
+    133,
+    360,
+    150
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    177,
+    192,
+    191
+   ]
+  },
+  {
+   "text": "431 C00",
+   "bbox": [
+    526,
+    177,
+    610,
+    191
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    207,
+    120,
+    221
+   ]
+  },
+  {
+   "text": "509 B00",
+   "bbox": [
+    526,
+    207,
+    610,
+    221
+   ]
+  },
+  {
+   "text": "3 DB x 771",
+   "bbox": [
+    24,
+    237,
+    124,
+    249
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    261,
+    216,
+    275
+   ]
+  },
+  {
+   "text": "2313 C00",
+   "bbox": [
+    514,
+    261,
+    610,
+    275
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    291,
+    252,
+    305
+   ]
+  },
+  {
+   "text": "2409 C00",
+   "bbox": [
+    514,
+    291,
+    610,
+    305
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    321,
+    168,
+    335
+   ]
+  },
+  {
+   "text": "1140 C00",
+   "bbox": [
+    514,
+    321,
+    610,
+    335
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    351,
+    132,
+    365
+   ]
+  },
+  {
+   "text": "453 A00",
+   "bbox": [
+    526,
+    351,
+    610,
+    365
+   ]
+  },
+  {
+   "text": "2 DB x 722",
+   "bbox": [
+    24,
+    381,
+    124,
+    393
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    405,
+    192,
+    419
+   ]
+  },
+  {
+   "text": "1444 B00",
+   "bbox": [
+    514,
+    405,
+    610,
+    419
+   ]
+  },
+  {
+   "text": "2 DB x 379",
+   "bbox": [
+    24,
+    435,
+    124,
+    447
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    458,
+    156,
+    477
+   ]
+  },
+  {
+   "text": "758 C00",
+   "bbox": [
+    526,
+    459,
+    610,
+    473
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    489,
+    144,
+    503
+   ]
+  },
+  {
+   "text": "1190 B00",
+   "bbox": [
+    514,
+    489,
+    610,
+    503
+   ]
+  },
+  {
+   "text": "3 DB x 61",
+   "bbox": [
+    24,
+    519,
+    114,
+    531
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    543,
+    96,
+    557
+   ]
+  },
+  {
+   "text": "183 A00",
+   "bbox": [
+    526,
+    543,
+    610,
+    557
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    573,
+    120,
+    587
+   ]
+  },
+  {
+   "text": "519 C00",
+   "bbox": [
+    526,
+    573,
+    610,
+    587
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    611,
+    150,
+    632
+   ]
+  },
+  {
+   "text": "11 349 Ft",
+   "bbox": [
+    484,
+    615,
+    610,
+    632
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    650,
+    156,
+    669
+   ]
+  },
+  {
+   "text": "11 349 Ft",
+   "bbox": [
+    502,
+    655,
+    610,
+    669
+   ]
+  },
+  {
+   "text": "2025.01.20.",
+   "bbox": [
+    24,
+    698,
+    145,
+    711
+   ]
+  },
+  {
+   "text": "13:19",
+   "bbox": [
+    555,
+    698,
+    610,
+    711
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6495/74118",
+   "bbox": [
+    24,
+    724,
+    266,
+    743
+   ]
+  },
+  {
+   "text": "AP A60343402",
+   "bbox": [
+    24,
+    758,
+    156,
+    771
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    185,
+    797,
+    449,
+    814
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  634,
+  860
+ ]
+}

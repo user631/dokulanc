@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szabó Erzsébet",
+  "email": "szabo.erzsebet@gmail.com",
+  "telefon": "+36 20 819 6721",
+  "lakcim": "H-8426 Tamásivára, Kecskeméti utca 135.",
+  "szuletesi_datum": "1979.09.28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "1997 – 2002"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Git",
+   "ügyfélkezelés",
+   "C#",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    95,
+    202,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    97,
+    155
+   ]
+  },
+  {
+   "text": "szabo.erzsebet@gmail.com",
+   "bbox": [
+    40,
+    163,
+    251,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    195,
+    108,
+    209
+   ]
+  },
+  {
+   "text": "+36 20 819 6721",
+   "bbox": [
+    40,
+    218,
+    181,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    104,
+    263
+   ]
+  },
+  {
+   "text": "H-8426 Tamásivára, Kecskeméti utca 135.",
+   "bbox": [
+    40,
+    271,
+    373,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    303,
+    183,
+    317
+   ]
+  },
+  {
+   "text": "1979.09.28.",
+   "bbox": [
+    40,
+    326,
+    135,
+    339
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    383,
+    189,
+    405
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    425,
+    127,
+    444
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    451,
+    127,
+    470
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    503,
+    171,
+    525
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    545,
+    98,
+    560
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    572,
+    64,
+    586
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    597,
+    151,
+    616
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    624,
+    65,
+    638
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    649,
+    97,
+    668
+   ]
+  },
+  {
+   "text": "Szabó Erzsébet",
+   "bbox": [
+    450,
+    103,
+    786,
+    140
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    172,
+    650,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    234,
+    690,
+    258
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    284,
+    561,
+    299
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy és Társa Kft.",
+   "bbox": [
+    450,
+    307,
+    886,
+    328
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    357,
+    612,
+    382
+   ]
+  },
+  {
+   "text": "1997 – 2002",
+   "bbox": [
+    450,
+    408,
+    561,
+    423
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    431,
+    736,
+    452
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    454,
+    562,
+    475
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    496,
+    561,
+    511
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    519,
+    716,
+    536
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    543,
+    624,
+    563
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

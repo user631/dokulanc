@@ -1,0 +1,228 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "RÁCZ ÉLELMISZER BT.",
+  "uzlet_cim": "H-6344 Györgyháza, Béke út 34.",
+  "adoszam": "48402091-4-07",
+  "datum": "2024.10.06.",
+  "ido": "16:26",
+  "nyugtaszam": "5566/73095",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 694 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "587"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "374"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1150"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "583"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ ÉLELMISZER BT.",
+   "bbox": [
+    198,
+    28,
+    426,
+    47
+   ]
+  },
+  {
+   "text": "H-6344 Györgyháza, Béke út 34.",
+   "bbox": [
+    162,
+    63,
+    462,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 48402091-4-07",
+   "bbox": [
+    202,
+    86,
+    422,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    127,
+    352,
+    142
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    168,
+    178,
+    181
+   ]
+  },
+  {
+   "text": "587 C00",
+   "bbox": [
+    523,
+    168,
+    600,
+    181
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    195,
+    145,
+    212
+   ]
+  },
+  {
+   "text": "374 A00",
+   "bbox": [
+    523,
+    196,
+    600,
+    209
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "1150 C00",
+   "bbox": [
+    512,
+    224,
+    600,
+    237
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    252,
+    123,
+    265
+   ]
+  },
+  {
+   "text": "583 C00",
+   "bbox": [
+    523,
+    252,
+    600,
+    265
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    289,
+    141,
+    308
+   ]
+  },
+  {
+   "text": "2 694 Ft",
+   "bbox": [
+    496,
+    292,
+    600,
+    308
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    326,
+    134,
+    343
+   ]
+  },
+  {
+   "text": "2 694 Ft",
+   "bbox": [
+    512,
+    330,
+    600,
+    343
+   ]
+  },
+  {
+   "text": "2024.10.06.",
+   "bbox": [
+    24,
+    373,
+    134,
+    384
+   ]
+  },
+  {
+   "text": "16:26",
+   "bbox": [
+    550,
+    373,
+    600,
+    384
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5566/73095",
+   "bbox": [
+    24,
+    398,
+    244,
+    414
+   ]
+  },
+  {
+   "text": "AP A85066511",
+   "bbox": [
+    24,
+    429,
+    144,
+    440
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    262,
+    465,
+    362,
+    481
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  624,
+  526
+ ]
+}

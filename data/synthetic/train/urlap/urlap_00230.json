@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Molnár Hajnalka",
+  "anyja_neve": "Németh Mária",
+  "szuletesi_hely": "Ligetvár",
+  "szuletesi_datum": "1998.01.16.",
+  "lakcim": "H-9867 Fürdőfalva, Nagyszéki út 244.",
+  "telefon": "06 1 111 6078",
+  "email": "molnar.hajnalka@example.hu",
+  "adoazonosito_jel": "8478626980",
+  "taj_szam": "513 948 222",
+  "kelt": "Dunahídkövesd, 2026.03.05."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    397,
+    94,
+    843,
+    131
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    473,
+    151,
+    767,
+    169
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    205,
+    333,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    257,
+    146,
+    274
+   ]
+  },
+  {
+   "text": "Molnár Hajnalka",
+   "bbox": [
+    429,
+    256,
+    591,
+    280
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    312,
+    211,
+    331
+   ]
+  },
+  {
+   "text": "Németh Mária",
+   "bbox": [
+    429,
+    313,
+    570,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    363,
+    234,
+    384
+   ]
+  },
+  {
+   "text": "Ligetvár",
+   "bbox": [
+    429,
+    364,
+    510,
+    388
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    416,
+    224,
+    433
+   ]
+  },
+  {
+   "text": "1998.01.16.",
+   "bbox": [
+    429,
+    417,
+    554,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    469,
+    174,
+    486
+   ]
+  },
+  {
+   "text": "H-9867 Fürdőfalva, Nagyszéki út 244.",
+   "bbox": [
+    429,
+    469,
+    811,
+    493
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    522,
+    225,
+    539
+   ]
+  },
+  {
+   "text": "06 1 111 6078",
+   "bbox": [
+    429,
+    523,
+    580,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    575,
+    205,
+    592
+   ]
+  },
+  {
+   "text": "molnar.hajnalka@example.hu",
+   "bbox": [
+    429,
+    574,
+    727,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    628,
+    259,
+    649
+   ]
+  },
+  {
+   "text": "8478626980",
+   "bbox": [
+    429,
+    628,
+    559,
+    645
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    681,
+    196,
+    698
+   ]
+  },
+  {
+   "text": "513 948 222",
+   "bbox": [
+    429,
+    680,
+    560,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    763,
+    284,
+    786
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    805,
+    452,
+    826
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    850,
+    285,
+    867
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    895,
+    470,
+    916
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    1000,
+    135,
+    1017
+   ]
+  },
+  {
+   "text": "Dunahídkövesd, 2026.03.05.",
+   "bbox": [
+    183,
+    996,
+    476,
+    1019
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1049,
+    981,
+    1063
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

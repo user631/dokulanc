@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2024/07990",
+  "kiallitas_datuma": "2024.03.19.",
+  "teljesites_datuma": "2024.03.15.",
+  "fizetesi_hatarido": "2024.03.27.",
+  "elado_nev": "Balogh Kft.",
+  "elado_cim": "H-7768 Veszprém, Bácsgyörgyi utca 247.",
+  "elado_adoszam": "24475471-2-07",
+  "vevo_nev": "Szabó Rebeka",
+  "vevo_cim": "H-3330 Németi, Ligetkövesdi utca 62.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU09 5221 3083 7121 5791 6505 0454",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "376 080 Ft",
+  "afa_osszesen": "101 542 Ft",
+  "brutto_osszesen": "477 622 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "5 280",
+    "netto": "21 120",
+    "afa_kulcs": "27%",
+    "afa": "5 702",
+    "brutto": "26 822"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "5 db",
+    "egysegar": "14 690",
+    "netto": "73 450",
+    "afa_kulcs": "27%",
+    "afa": "19 832",
+    "brutto": "93 282"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "42 690",
+    "netto": "213 450",
+    "afa_kulcs": "27%",
+    "afa": "57 632",
+    "brutto": "271 082"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "5 óra",
+    "egysegar": "13 110",
+    "netto": "65 550",
+    "afa_kulcs": "27%",
+    "afa": "17 698",
+    "brutto": "83 248"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 510",
+    "netto": "2 510",
+    "afa_kulcs": "27%",
+    "afa": "678",
+    "brutto": "3 188"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    402,
+    85,
+    838,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/07990",
+   "bbox": [
+    422,
+    149,
+    819,
+    170
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    84,
+    229,
+    161,
+    247
+   ]
+  },
+  {
+   "text": "Balogh Kft.",
+   "bbox": [
+    84,
+    264,
+    222,
+    285
+   ]
+  },
+  {
+   "text": "H-7768 Veszprém, Bácsgyörgyi utca 247.",
+   "bbox": [
+    84,
+    294,
+    503,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 24475471-2-07",
+   "bbox": [
+    84,
+    322,
+    351,
+    339
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    229,
+    700,
+    247
+   ]
+  },
+  {
+   "text": "Szabó Rebeka",
+   "bbox": [
+    630,
+    263,
+    804,
+    281
+   ]
+  },
+  {
+   "text": "H-3330 Németi, Ligetkövesdi utca 62.",
+   "bbox": [
+    630,
+    294,
+    1011,
+    315
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    84,
+    388,
+    239,
+    402
+   ]
+  },
+  {
+   "text": "2024.03.19.",
+   "bbox": [
+    84,
+    416,
+    201,
+    430
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    388,
+    522,
+    405
+   ]
+  },
+  {
+   "text": "2024.03.15.",
+   "bbox": [
+    352,
+    416,
+    469,
+    430
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    388,
+    779,
+    402
+   ]
+  },
+  {
+   "text": "2024.03.27.",
+   "bbox": [
+    620,
+    416,
+    737,
+    430
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    388,
+    1009,
+    402
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    888,
+    415,
+    975,
+    434
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    84,
+    462,
+    199,
+    479
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    464,
+    580,
+    479
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    661,
+    462,
+    749,
+    479
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    462,
+    877,
+    476
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    882,
+    459,
+    941,
+    476
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1006,
+    459,
+    1043,
+    476
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1095,
+    462,
+    1156,
+    476
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    512,
+    502,
+    570,
+    515
+   ]
+  },
+  {
+   "text": "5 280",
+   "bbox": [
+    698,
+    503,
+    748,
+    515
+   ]
+  },
+  {
+   "text": "21 120",
+   "bbox": [
+    816,
+    503,
+    877,
+    515
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    503,
+    941,
+    515
+   ]
+  },
+  {
+   "text": "5 702",
+   "bbox": [
+    993,
+    503,
+    1043,
+    515
+   ]
+  },
+  {
+   "text": "26 822",
+   "bbox": [
+    1095,
+    503,
+    1156,
+    515
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    84,
+    501,
+    316,
+    518
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    535,
+    551,
+    548
+   ]
+  },
+  {
+   "text": "14 690",
+   "bbox": [
+    687,
+    536,
+    748,
+    548
+   ]
+  },
+  {
+   "text": "73 450",
+   "bbox": [
+    816,
+    536,
+    877,
+    548
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    536,
+    941,
+    548
+   ]
+  },
+  {
+   "text": "19 832",
+   "bbox": [
+    982,
+    536,
+    1043,
+    548
+   ]
+  },
+  {
+   "text": "93 282",
+   "bbox": [
+    1095,
+    536,
+    1156,
+    548
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    84,
+    534,
+    230,
+    548
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    512,
+    567,
+    549,
+    581
+   ]
+  },
+  {
+   "text": "42 690",
+   "bbox": [
+    687,
+    569,
+    748,
+    581
+   ]
+  },
+  {
+   "text": "213 450",
+   "bbox": [
+    805,
+    569,
+    877,
+    581
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    569,
+    941,
+    581
+   ]
+  },
+  {
+   "text": "57 632",
+   "bbox": [
+    982,
+    569,
+    1043,
+    581
+   ]
+  },
+  {
+   "text": "271 082",
+   "bbox": [
+    1084,
+    569,
+    1156,
+    581
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    84,
+    567,
+    240,
+    584
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    512,
+    600,
+    556,
+    614
+   ]
+  },
+  {
+   "text": "13 110",
+   "bbox": [
+    687,
+    602,
+    748,
+    614
+   ]
+  },
+  {
+   "text": "65 550",
+   "bbox": [
+    816,
+    602,
+    877,
+    614
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    602,
+    941,
+    614
+   ]
+  },
+  {
+   "text": "17 698",
+   "bbox": [
+    982,
+    602,
+    1043,
+    614
+   ]
+  },
+  {
+   "text": "83 248",
+   "bbox": [
+    1095,
+    602,
+    1156,
+    614
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    84,
+    600,
+    349,
+    617
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    512,
+    635,
+    595,
+    650
+   ]
+  },
+  {
+   "text": "2 510",
+   "bbox": [
+    698,
+    635,
+    748,
+    647
+   ]
+  },
+  {
+   "text": "2 510",
+   "bbox": [
+    827,
+    635,
+    877,
+    647
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    635,
+    941,
+    647
+   ]
+  },
+  {
+   "text": "678",
+   "bbox": [
+    1010,
+    635,
+    1043,
+    647
+   ]
+  },
+  {
+   "text": "3 188",
+   "bbox": [
+    1106,
+    635,
+    1156,
+    647
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    84,
+    633,
+    312,
+    650
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    655,
+    687,
+    826,
+    704
+   ]
+  },
+  {
+   "text": "376 080 Ft",
+   "bbox": [
+    1044,
+    688,
+    1156,
+    704
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    673,
+    717,
+    826,
+    738
+   ]
+  },
+  {
+   "text": "101 542 Ft",
+   "bbox": [
+    1044,
+    722,
+    1156,
+    738
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    589,
+    755,
+    826,
+    772
+   ]
+  },
+  {
+   "text": "477 622 Ft",
+   "bbox": [
+    1028,
+    756,
+    1156,
+    772
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU09 5221 3083 7121 5791 6505 0454",
+   "bbox": [
+    84,
+    819,
+    643,
+    834
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    84,
+    846,
+    650,
+    862
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    424,
+    1654,
+    815,
+    1669
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

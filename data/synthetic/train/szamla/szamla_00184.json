@@ -1,0 +1,696 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2025/05831",
+  "kiallitas_datuma": "2025.01.12.",
+  "teljesites_datuma": "2025.01.07.",
+  "fizetesi_hatarido": "2025.02.11.",
+  "elado_nev": "Kovács Logisztika Zrt.",
+  "elado_cim": "H-1730 Apáti, Békéscsabai utca 143.",
+  "elado_adoszam": "44169020-2-30",
+  "vevo_nev": "Fodor Szolgáltató Kft.",
+  "vevo_cim": "H-9153 Szombathely, Drávatamásii utca 224.",
+  "vevo_adoszam": "23258125-2-18",
+  "bankszamla": "HU04 1955 4576 4668 3620 5128 3912",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "2 430 750 Ft",
+  "afa_osszesen": "605 733 Ft",
+  "brutto_osszesen": "3 036 483 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "11 460",
+    "netto": "11 460",
+    "afa_kulcs": "5%",
+    "afa": "573",
+    "brutto": "12 033"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "295 990",
+    "netto": "887 970",
+    "afa_kulcs": "27%",
+    "afa": "239 752",
+    "brutto": "1 127 722"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "10 év",
+    "egysegar": "21 840",
+    "netto": "218 400",
+    "afa_kulcs": "5%",
+    "afa": "10 920",
+    "brutto": "229 320"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "12 320",
+    "netto": "12 320",
+    "afa_kulcs": "27%",
+    "afa": "3 326",
+    "brutto": "15 646"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "10 hó",
+    "egysegar": "130 060",
+    "netto": "1 300 600",
+    "afa_kulcs": "27%",
+    "afa": "351 162",
+    "brutto": "1 651 762"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    445,
+    105,
+    795,
+    132
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/05831",
+   "bbox": [
+    462,
+    160,
+    779,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    96,
+    241,
+    158,
+    256
+   ]
+  },
+  {
+   "text": "Kovács Logisztika Zrt.",
+   "bbox": [
+    96,
+    275,
+    313,
+    295
+   ]
+  },
+  {
+   "text": "H-1730 Apáti, Békéscsabai utca 143.",
+   "bbox": [
+    96,
+    306,
+    396,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 44169020-2-30",
+   "bbox": [
+    96,
+    334,
+    307,
+    348
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    241,
+    685,
+    256
+   ]
+  },
+  {
+   "text": "Fodor Szolgáltató Kft.",
+   "bbox": [
+    630,
+    275,
+    839,
+    295
+   ]
+  },
+  {
+   "text": "H-9153 Szombathely, Drávatamásii utca 224.",
+   "bbox": [
+    630,
+    306,
+    1000,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 23258125-2-18",
+   "bbox": [
+    630,
+    334,
+    841,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    96,
+    401,
+    220,
+    412
+   ]
+  },
+  {
+   "text": "2025.01.12.",
+   "bbox": [
+    96,
+    427,
+    191,
+    439
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    401,
+    489,
+    416
+   ]
+  },
+  {
+   "text": "2025.01.07.",
+   "bbox": [
+    358,
+    427,
+    453,
+    439
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    401,
+    745,
+    412
+   ]
+  },
+  {
+   "text": "2025.02.11.",
+   "bbox": [
+    620,
+    427,
+    715,
+    439
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    882,
+    401,
+    976,
+    412
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    881,
+    426,
+    968,
+    443
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    475,
+    186,
+    490
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    475,
+    570,
+    490
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    475,
+    745,
+    490
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    475,
+    871,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    472,
+    934,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    472,
+    1034,
+    486
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1095,
+    475,
+    1144,
+    486
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    513,
+    546,
+    525
+   ]
+  },
+  {
+   "text": "11 460",
+   "bbox": [
+    696,
+    514,
+    745,
+    525
+   ]
+  },
+  {
+   "text": "11 460",
+   "bbox": [
+    822,
+    514,
+    871,
+    525
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    514,
+    934,
+    525
+   ]
+  },
+  {
+   "text": "573",
+   "bbox": [
+    1006,
+    514,
+    1033,
+    525
+   ]
+  },
+  {
+   "text": "12 033",
+   "bbox": [
+    1095,
+    514,
+    1144,
+    525
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    96,
+    513,
+    294,
+    529
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    515,
+    546,
+    586,
+    558
+   ]
+  },
+  {
+   "text": "295 990",
+   "bbox": [
+    687,
+    547,
+    745,
+    558
+   ]
+  },
+  {
+   "text": "887 970",
+   "bbox": [
+    813,
+    547,
+    871,
+    558
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    547,
+    934,
+    558
+   ]
+  },
+  {
+   "text": "239 752",
+   "bbox": [
+    975,
+    547,
+    1033,
+    558
+   ]
+  },
+  {
+   "text": "1 127 722",
+   "bbox": [
+    1073,
+    547,
+    1144,
+    558
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    96,
+    546,
+    253,
+    562
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    515,
+    579,
+    554,
+    591
+   ]
+  },
+  {
+   "text": "21 840",
+   "bbox": [
+    696,
+    580,
+    745,
+    591
+   ]
+  },
+  {
+   "text": "218 400",
+   "bbox": [
+    813,
+    580,
+    871,
+    591
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    580,
+    934,
+    591
+   ]
+  },
+  {
+   "text": "10 920",
+   "bbox": [
+    984,
+    580,
+    1033,
+    591
+   ]
+  },
+  {
+   "text": "229 320",
+   "bbox": [
+    1086,
+    580,
+    1144,
+    591
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    96,
+    579,
+    295,
+    595
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    612,
+    551,
+    624
+   ]
+  },
+  {
+   "text": "12 320",
+   "bbox": [
+    696,
+    613,
+    745,
+    624
+   ]
+  },
+  {
+   "text": "12 320",
+   "bbox": [
+    822,
+    613,
+    871,
+    624
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    613,
+    934,
+    624
+   ]
+  },
+  {
+   "text": "3 326",
+   "bbox": [
+    993,
+    613,
+    1033,
+    624
+   ]
+  },
+  {
+   "text": "15 646",
+   "bbox": [
+    1095,
+    613,
+    1144,
+    624
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    96,
+    612,
+    178,
+    624
+   ]
+  },
+  {
+   "text": "10 hó",
+   "bbox": [
+    515,
+    645,
+    555,
+    657
+   ]
+  },
+  {
+   "text": "130 060",
+   "bbox": [
+    687,
+    646,
+    745,
+    657
+   ]
+  },
+  {
+   "text": "1 300 600",
+   "bbox": [
+    800,
+    646,
+    871,
+    657
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    646,
+    934,
+    657
+   ]
+  },
+  {
+   "text": "351 162",
+   "bbox": [
+    975,
+    646,
+    1033,
+    657
+   ]
+  },
+  {
+   "text": "1 651 762",
+   "bbox": [
+    1073,
+    646,
+    1144,
+    657
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    96,
+    645,
+    300,
+    661
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    682,
+    698,
+    814,
+    713
+   ]
+  },
+  {
+   "text": "2 430 750 Ft",
+   "bbox": [
+    1034,
+    699,
+    1144,
+    713
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    688,
+    728,
+    814,
+    747
+   ]
+  },
+  {
+   "text": "605 733 Ft",
+   "bbox": [
+    1050,
+    733,
+    1144,
+    747
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    640,
+    767,
+    814,
+    781
+   ]
+  },
+  {
+   "text": "3 036 483 Ft",
+   "bbox": [
+    1032,
+    767,
+    1144,
+    781
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU04 1955 4576 4668 3620 5128 3912",
+   "bbox": [
+    96,
+    830,
+    554,
+    843
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    96,
+    858,
+    525,
+    872
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    458,
+    1643,
+    781,
+    1657
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Biró József",
+  "email": "biro.jozsef@outlook.com",
+  "telefon": "+36 70 367 4391",
+  "lakcim": "H-3715 Székesfehérvár, Györgybányai utca 238.",
+  "szuletesi_datum": "1995. 02. 01.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2014 – 2019"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szekeres és Társa Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "ceg": "Hegedüs és Társa Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "csapatmunka",
+   "ügyfélkezelés",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Biró József",
+   "bbox": [
+    492,
+    95,
+    749,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    517,
+    166,
+    723,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    165,
+    237
+   ]
+  },
+  {
+   "text": "biro.jozsef@outlook.com",
+   "bbox": [
+    330,
+    220,
+    586,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    181,
+    270
+   ]
+  },
+  {
+   "text": "+36 70 367 4391",
+   "bbox": [
+    330,
+    254,
+    495,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    175,
+    303
+   ]
+  },
+  {
+   "text": "H-3715 Székesfehérvár, Györgybányai utca 238.",
+   "bbox": [
+    330,
+    285,
+    823,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    270,
+    336
+   ]
+  },
+  {
+   "text": "1995. 02. 01.",
+   "bbox": [
+    330,
+    320,
+    464,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    373,
+    339,
+    399
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    426,
+    208,
+    442
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szekeres és Társa Bt.",
+   "bbox": [
+    90,
+    452,
+    545,
+    475
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    496,
+    208,
+    512
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Hegedüs és Társa Zrt.",
+   "bbox": [
+    90,
+    522,
+    587,
+    545
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    576,
+    258,
+    602
+   ]
+  },
+  {
+   "text": "2014 – 2019",
+   "bbox": [
+    90,
+    629,
+    208,
+    645
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    652,
+    274,
+    678
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    681,
+    366,
+    699
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    726,
+    208,
+    742
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    752,
+    375,
+    770
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    778,
+    184,
+    801
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    833,
+    229,
+    859
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    885,
+    190,
+    907
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    935,
+    222,
+    961
+   ]
+  },
+  {
+   "text": "Git, csapatmunka, ügyfélkezelés, prezentáció",
+   "bbox": [
+    90,
+    986,
+    568,
+    1009
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

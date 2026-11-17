@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BOGDÁN CSEMEGE KFT.",
+  "uzlet_cim": "H-5599 Tamásiberény, Petőfi sándor utca 246.",
+  "adoszam": "47639821-2-07",
+  "datum": "2024.01.06.",
+  "ido": "19:15",
+  "nyugtaszam": "4318/20724",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "3 582 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1716"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1866"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOGDÁN CSEMEGE KFT.",
+   "bbox": [
+    161,
+    28,
+    389,
+    47
+   ]
+  },
+  {
+   "text": "H-5599 Tamásiberény, Petőfi sándor utca 246.",
+   "bbox": [
+    55,
+    63,
+    495,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 47639821-2-07",
+   "bbox": [
+    165,
+    86,
+    385,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    127,
+    315,
+    142
+   ]
+  },
+  {
+   "text": "3 DB x 572",
+   "bbox": [
+    24,
+    168,
+    114,
+    179
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    190,
+    178,
+    203
+   ]
+  },
+  {
+   "text": "1716 B00",
+   "bbox": [
+    438,
+    190,
+    526,
+    203
+   ]
+  },
+  {
+   "text": "3 DB x 622",
+   "bbox": [
+    24,
+    218,
+    114,
+    229
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    240,
+    200,
+    253
+   ]
+  },
+  {
+   "text": "1866 A00",
+   "bbox": [
+    438,
+    240,
+    526,
+    253
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    276,
+    154,
+    296
+   ]
+  },
+  {
+   "text": "3 582 Ft",
+   "bbox": [
+    422,
+    280,
+    526,
+    296
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    314,
+    112,
+    331
+   ]
+  },
+  {
+   "text": "3 582 Ft",
+   "bbox": [
+    438,
+    318,
+    526,
+    331
+   ]
+  },
+  {
+   "text": "2024.01.06.",
+   "bbox": [
+    24,
+    361,
+    134,
+    372
+   ]
+  },
+  {
+   "text": "19:15",
+   "bbox": [
+    476,
+    361,
+    526,
+    372
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4318/20724",
+   "bbox": [
+    24,
+    386,
+    244,
+    402
+   ]
+  },
+  {
+   "text": "AP A98074360",
+   "bbox": [
+    24,
+    417,
+    144,
+    428
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    225,
+    453,
+    325,
+    469
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  550,
+  514
+ ]
+}

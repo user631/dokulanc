@@ -1,0 +1,250 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BOGNÁR CSEMEGE BT.",
+  "uzlet_cim": "H-5535 Keresztnádasd, Tapolcabányai utca 61.",
+  "adoszam": "39048334-4-04",
+  "datum": "2025.06.10.",
+  "ido": "09:32",
+  "nyugtaszam": "3454/75193",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 620 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "690"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "236"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "430"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1224"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1040"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOGNÁR CSEMEGE BT.",
+   "bbox": [
+    173,
+    30,
+    425,
+    50
+   ]
+  },
+  {
+   "text": "H-5535 Keresztnádasd, Tapolcabányai utca 61.",
+   "bbox": [
+    35,
+    68,
+    563,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 39048334-4-04",
+   "bbox": [
+    167,
+    91,
+    431,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    137,
+    348,
+    152
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    179,
+    141,
+    193
+   ]
+  },
+  {
+   "text": "690 A00",
+   "bbox": [
+    483,
+    179,
+    574,
+    193
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    210,
+    194,
+    223
+   ]
+  },
+  {
+   "text": "236 A00",
+   "bbox": [
+    483,
+    209,
+    574,
+    223
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    239,
+    167,
+    256
+   ]
+  },
+  {
+   "text": "430 C00",
+   "bbox": [
+    483,
+    239,
+    574,
+    253
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    269,
+    180,
+    283
+   ]
+  },
+  {
+   "text": "1224 C00",
+   "bbox": [
+    470,
+    269,
+    574,
+    283
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    299,
+    128,
+    313
+   ]
+  },
+  {
+   "text": "1040 A00",
+   "bbox": [
+    470,
+    299,
+    574,
+    313
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    337,
+    184,
+    358
+   ]
+  },
+  {
+   "text": "3 620 Ft",
+   "bbox": [
+    446,
+    342,
+    574,
+    358
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    378,
+    155,
+    395
+   ]
+  },
+  {
+   "text": "3 620 Ft",
+   "bbox": [
+    470,
+    381,
+    574,
+    395
+   ]
+  },
+  {
+   "text": "2025.06.10.",
+   "bbox": [
+    24,
+    424,
+    156,
+    437
+   ]
+  },
+  {
+   "text": "09:32",
+   "bbox": [
+    514,
+    424,
+    574,
+    437
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3454/75193",
+   "bbox": [
+    24,
+    451,
+    288,
+    469
+   ]
+  },
+  {
+   "text": "AP A92183728",
+   "bbox": [
+    24,
+    484,
+    168,
+    497
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    200,
+    524,
+    396,
+    540
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  598,
+  584
+ ]
+}

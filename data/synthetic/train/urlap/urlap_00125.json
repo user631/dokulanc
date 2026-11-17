@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Horváth Irén",
+  "anyja_neve": "Balogh István",
+  "szuletesi_hely": "Orosztapolcafa",
+  "szuletesi_datum": "1963.03.14.",
+  "lakcim": "H-6741 Székvárad, Szentmindszenti utca 209.",
+  "telefon": "06 1 248 5132",
+  "email": "horvath.iren@example.hu",
+  "adoazonosito_jel": "8351354813",
+  "taj_szam": "793 183 548",
+  "kelt": "Pilismindszentháza, 2026.11.25."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    489,
+    101,
+    751,
+    138
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    457,
+    157,
+    783,
+    174
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    210,
+    358,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    264,
+    158,
+    279
+   ]
+  },
+  {
+   "text": "Horváth Irén",
+   "bbox": [
+    445,
+    261,
+    586,
+    279
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    317,
+    228,
+    335
+   ]
+  },
+  {
+   "text": "Balogh István",
+   "bbox": [
+    445,
+    316,
+    597,
+    338
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    368,
+    252,
+    387
+   ]
+  },
+  {
+   "text": "Orosztapolcafa",
+   "bbox": [
+    445,
+    369,
+    607,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    420,
+    242,
+    435
+   ]
+  },
+  {
+   "text": "1963.03.14.",
+   "bbox": [
+    445,
+    417,
+    581,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    472,
+    188,
+    487
+   ]
+  },
+  {
+   "text": "H-6741 Székvárad, Szentmindszenti utca 209.",
+   "bbox": [
+    445,
+    467,
+    963,
+    489
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    524,
+    241,
+    539
+   ]
+  },
+  {
+   "text": "06 1 248 5132",
+   "bbox": [
+    445,
+    526,
+    609,
+    542
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    576,
+    222,
+    591
+   ]
+  },
+  {
+   "text": "horvath.iren@example.hu",
+   "bbox": [
+    445,
+    576,
+    731,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    628,
+    280,
+    647
+   ]
+  },
+  {
+   "text": "8351354813",
+   "bbox": [
+    445,
+    628,
+    585,
+    644
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    680,
+    212,
+    695
+   ]
+  },
+  {
+   "text": "793 183 548",
+   "bbox": [
+    445,
+    677,
+    587,
+    693
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    759,
+    305,
+    780
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    802,
+    478,
+    821
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    847,
+    300,
+    862
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    892,
+    499,
+    911
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    995,
+    149,
+    1011
+   ]
+  },
+  {
+   "text": "Pilismindszentháza, 2026.11.25.",
+   "bbox": [
+    191,
+    991,
+    551,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1044,
+    975,
+    1057
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

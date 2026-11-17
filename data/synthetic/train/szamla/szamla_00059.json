@@ -1,0 +1,417 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/07615",
+  "kiallitas_datuma": "2025. 06. 19.",
+  "teljesites_datuma": "2025. 06. 14.",
+  "fizetesi_hatarido": "2025. 07. 04.",
+  "elado_nev": "Pál Kft.",
+  "elado_cim": "H-7009 Miskolc, Tatabányai utca 210.",
+  "elado_adoszam": "23265114-2-26",
+  "vevo_nev": "László Kft.",
+  "vevo_cim": "H-5809 Alsótamásiháza, Petőfi sándor utca 133.",
+  "vevo_adoszam": "73369952-2-02",
+  "bankszamla": "45106246-37079129-83134377",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "2 330 Ft",
+  "afa_osszesen": "629 Ft",
+  "brutto_osszesen": "2 959 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 330",
+    "netto": "2 330",
+    "afa_kulcs": "27%",
+    "afa": "629",
+    "brutto": "2 959"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÁL",
+   "bbox": [
+    145,
+    119,
+    187,
+    140
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    998,
+    97,
+    1155,
+    137
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/07615",
+   "bbox": [
+    865,
+    160,
+    1154,
+    180
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    86,
+    241,
+    152,
+    260
+   ]
+  },
+  {
+   "text": "László Kft.",
+   "bbox": [
+    86,
+    278,
+    209,
+    297
+   ]
+  },
+  {
+   "text": "H-5809 Alsótamásiháza, Petőfi sándor utca 133.",
+   "bbox": [
+    86,
+    312,
+    578,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 73369952-2-02",
+   "bbox": [
+    86,
+    343,
+    339,
+    361
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    241,
+    702,
+    260
+   ]
+  },
+  {
+   "text": "Pál Kft.",
+   "bbox": [
+    630,
+    278,
+    716,
+    297
+   ]
+  },
+  {
+   "text": "H-7009 Miskolc, Tatabányai utca 210.",
+   "bbox": [
+    630,
+    312,
+    1014,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 23265114-2-26",
+   "bbox": [
+    630,
+    343,
+    883,
+    361
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    86,
+    413,
+    266,
+    430
+   ]
+  },
+  {
+   "text": "2025. 06. 19.",
+   "bbox": [
+    386,
+    414,
+    520,
+    430
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    86,
+    446,
+    285,
+    468
+   ]
+  },
+  {
+   "text": "2025. 06. 14.",
+   "bbox": [
+    386,
+    447,
+    520,
+    463
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    86,
+    479,
+    275,
+    496
+   ]
+  },
+  {
+   "text": "2025. 07. 04.",
+   "bbox": [
+    386,
+    480,
+    520,
+    496
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    86,
+    512,
+    231,
+    529
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    386,
+    511,
+    469,
+    529
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    556,
+    202,
+    575
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    557,
+    582,
+    575
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    665,
+    556,
+    748,
+    575
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    556,
+    876,
+    571
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    552,
+    940,
+    571
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    552,
+    1041,
+    571
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1094,
+    556,
+    1154,
+    571
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    513,
+    599,
+    596,
+    617
+   ]
+  },
+  {
+   "text": "2 330",
+   "bbox": [
+    702,
+    599,
+    748,
+    613
+   ]
+  },
+  {
+   "text": "2 330",
+   "bbox": [
+    830,
+    599,
+    876,
+    613
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    599,
+    940,
+    613
+   ]
+  },
+  {
+   "text": "629",
+   "bbox": [
+    1011,
+    599,
+    1041,
+    613
+   ]
+  },
+  {
+   "text": "2 959",
+   "bbox": [
+    1108,
+    599,
+    1154,
+    613
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    86,
+    597,
+    320,
+    617
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    654,
+    654,
+    824,
+    673
+   ]
+  },
+  {
+   "text": "2 330 Ft",
+   "bbox": [
+    1065,
+    656,
+    1154,
+    673
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    674,
+    687,
+    824,
+    710
+   ]
+  },
+  {
+   "text": "629 Ft",
+   "bbox": [
+    1085,
+    693,
+    1154,
+    710
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    624,
+    729,
+    824,
+    752
+   ]
+  },
+  {
+   "text": "2 959 Ft",
+   "bbox": [
+    1060,
+    730,
+    1154,
+    747
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 45106246-37079129-83134377",
+   "bbox": [
+    86,
+    794,
+    568,
+    812
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    86,
+    825,
+    681,
+    844
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1650,
+    762,
+    1668
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

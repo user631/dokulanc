@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Kocsis Gizella",
+  "anyja_neve": "Hajdu Judit",
+  "szuletesi_hely": "Eger",
+  "szuletesi_datum": "1995.07.06.",
+  "lakcim": "H-6526 Tamásiberény, Petőfi utca 154.",
+  "telefon": "06 1 186 7602",
+  "email": "kocsis.gizella@gmail.com",
+  "adoazonosito_jel": "8469370632",
+  "taj_szam": "333 171 657",
+  "kelt": "Fürdőharaszti, 2026.08.12."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    521,
+    90,
+    720,
+    122
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    474,
+    149,
+    766,
+    165
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    203,
+    295,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    261,
+    144,
+    275
+   ]
+  },
+  {
+   "text": "Kocsis Gizella",
+   "bbox": [
+    398,
+    260,
+    528,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    315,
+    204,
+    333
+   ]
+  },
+  {
+   "text": "Hajdu Judit",
+   "bbox": [
+    398,
+    317,
+    510,
+    337
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    369,
+    226,
+    387
+   ]
+  },
+  {
+   "text": "Eger",
+   "bbox": [
+    398,
+    368,
+    441,
+    387
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    423,
+    217,
+    437
+   ]
+  },
+  {
+   "text": "1995.07.06.",
+   "bbox": [
+    398,
+    422,
+    512,
+    437
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    477,
+    171,
+    491
+   ]
+  },
+  {
+   "text": "H-6526 Tamásiberény, Petőfi utca 154.",
+   "bbox": [
+    398,
+    476,
+    776,
+    497
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    531,
+    217,
+    545
+   ]
+  },
+  {
+   "text": "06 1 186 7602",
+   "bbox": [
+    398,
+    528,
+    533,
+    543
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    585,
+    200,
+    599
+   ]
+  },
+  {
+   "text": "kocsis.gizella@gmail.com",
+   "bbox": [
+    398,
+    581,
+    647,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    639,
+    252,
+    657
+   ]
+  },
+  {
+   "text": "8469370632",
+   "bbox": [
+    398,
+    640,
+    518,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    693,
+    188,
+    707
+   ]
+  },
+  {
+   "text": "333 171 657",
+   "bbox": [
+    398,
+    693,
+    516,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    771,
+    255,
+    791
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    818,
+    432,
+    836
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    863,
+    276,
+    877
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    908,
+    450,
+    926
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    1010,
+    133,
+    1025
+   ]
+  },
+  {
+   "text": "Fürdőharaszti, 2026.08.12.",
+   "bbox": [
+    183,
+    1006,
+    443,
+    1025
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1060,
+    981,
+    1072
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

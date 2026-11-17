@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Lakatos Imre",
+  "email": "lakatos.imre@freemail.hu",
+  "telefon": "+36 30 256 1088",
+  "lakcim": "H-5817 Bakonyhídnémeti, Pusztahídi út 38.",
+  "szuletesi_datum": "2003.10.04.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2021 – 2024"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bodnár Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "projektmenedzsment",
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "Excel",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Lakatos Imre",
+   "bbox": [
+    480,
+    110,
+    759,
+    145
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    175,
+    719,
+    199
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    226,
+    155,
+    241
+   ]
+  },
+  {
+   "text": "lakatos.imre@freemail.hu",
+   "bbox": [
+    330,
+    226,
+    550,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    167,
+    271
+   ]
+  },
+  {
+   "text": "+36 30 256 1088",
+   "bbox": [
+    330,
+    257,
+    480,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    161,
+    301
+   ]
+  },
+  {
+   "text": "H-5817 Bakonyhídnémeti, Pusztahídi út 38.",
+   "bbox": [
+    330,
+    286,
+    705,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    316,
+    246,
+    331
+   ]
+  },
+  {
+   "text": "2003.10.04.",
+   "bbox": [
+    330,
+    317,
+    430,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    314,
+    391
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    416,
+    222,
+    436
+   ]
+  },
+  {
+   "text": "értékesítő – Bodnár Bt.",
+   "bbox": [
+    90,
+    440,
+    314,
+    456
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    491,
+    246,
+    515
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    541,
+    198,
+    555
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    564,
+    361,
+    585
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    588,
+    203,
+    608
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    629,
+    198,
+    643
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    652,
+    343,
+    668
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    676,
+    262,
+    696
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    727,
+    218,
+    751
+   ]
+  },
+  {
+   "text": "angol (C1), francia (A2)",
+   "bbox": [
+    90,
+    776,
+    288,
+    796
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    823,
+    208,
+    847
+   ]
+  },
+  {
+   "text": "SAP, projektmenedzsment, JavaScript, B kategóriás jogosítvány, Excel, Linux",
+   "bbox": [
+    90,
+    872,
+    745,
+    892
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

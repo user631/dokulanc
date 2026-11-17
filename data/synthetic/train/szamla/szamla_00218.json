@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2024/05172",
+  "kiallitas_datuma": "2024. 05. 31.",
+  "teljesites_datuma": "2024. 05. 31.",
+  "fizetesi_hatarido": "2024. 06. 15.",
+  "elado_nev": "Kovács Szolgáltató Bt.",
+  "elado_cim": "H-7895 Ligetváros, Békéshídi utca 190.",
+  "elado_adoszam": "70765634-4-02",
+  "vevo_nev": "Juhász Zrt.",
+  "vevo_cim": "H-8875 Újmártonfalu, Nyékmelléki utca 177.",
+  "vevo_adoszam": "43111323-2-24",
+  "bankszamla": "HU13 8350 6905 5362 9838 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "148 790 Ft",
+  "afa_osszesen": "40 173 Ft",
+  "brutto_osszesen": "188 963 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "148 790",
+    "netto": "148 790",
+    "afa_kulcs": "27%",
+    "afa": "40 173",
+    "brutto": "188 963"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    551,
+    102,
+    689,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/05172",
+   "bbox": [
+    447,
+    158,
+    794,
+    174
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    94,
+    237,
+    160,
+    254
+   ]
+  },
+  {
+   "text": "Kovács Szolgáltató Bt.",
+   "bbox": [
+    94,
+    271,
+    327,
+    292
+   ]
+  },
+  {
+   "text": "H-7895 Ligetváros, Békéshídi utca 190.",
+   "bbox": [
+    94,
+    304,
+    445,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 70765634-4-02",
+   "bbox": [
+    93,
+    332,
+    324,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    237,
+    689,
+    254
+   ]
+  },
+  {
+   "text": "Juhász Zrt.",
+   "bbox": [
+    630,
+    271,
+    744,
+    288
+   ]
+  },
+  {
+   "text": "H-8875 Újmártonfalu, Nyékmelléki utca 177.",
+   "bbox": [
+    630,
+    300,
+    1021,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 43111323-2-24",
+   "bbox": [
+    629,
+    332,
+    860,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    94,
+    398,
+    223,
+    410
+   ]
+  },
+  {
+   "text": "2024. 05. 31.",
+   "bbox": [
+    94,
+    424,
+    207,
+    438
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    398,
+    497,
+    413
+   ]
+  },
+  {
+   "text": "2024. 05. 31.",
+   "bbox": [
+    357,
+    424,
+    470,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    398,
+    753,
+    410
+   ]
+  },
+  {
+   "text": "2024. 06. 15.",
+   "bbox": [
+    620,
+    424,
+    733,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    398,
+    985,
+    410
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    883,
+    424,
+    979,
+    442
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    94,
+    472,
+    191,
+    487
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    472,
+    571,
+    487
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    472,
+    746,
+    487
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    472,
+    872,
+    484
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    469,
+    935,
+    484
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1001,
+    469,
+    1036,
+    484
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1095,
+    472,
+    1146,
+    484
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    514,
+    511,
+    546,
+    523
+   ]
+  },
+  {
+   "text": "148 790",
+   "bbox": [
+    687,
+    511,
+    746,
+    523
+   ]
+  },
+  {
+   "text": "148 790",
+   "bbox": [
+    813,
+    511,
+    872,
+    523
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    511,
+    935,
+    523
+   ]
+  },
+  {
+   "text": "40 173",
+   "bbox": [
+    985,
+    511,
+    1035,
+    523
+   ]
+  },
+  {
+   "text": "188 963",
+   "bbox": [
+    1087,
+    511,
+    1146,
+    523
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    94,
+    510,
+    311,
+    526
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    661,
+    565,
+    816,
+    580
+   ]
+  },
+  {
+   "text": "148 790 Ft",
+   "bbox": [
+    1043,
+    565,
+    1146,
+    580
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    670,
+    595,
+    816,
+    614
+   ]
+  },
+  {
+   "text": "40 173 Ft",
+   "bbox": [
+    1055,
+    599,
+    1146,
+    614
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    630,
+    632,
+    816,
+    652
+   ]
+  },
+  {
+   "text": "188 963 Ft",
+   "bbox": [
+    1042,
+    633,
+    1146,
+    648
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU13 8350 6905 5362 9838 0000 0000",
+   "bbox": [
+    94,
+    696,
+    602,
+    710
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    94,
+    723,
+    581,
+    738
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    451,
+    1645,
+    787,
+    1659
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

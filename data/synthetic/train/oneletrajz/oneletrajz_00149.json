@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Gábor",
+  "email": "kovacs.gabor@outlook.com",
+  "telefon": "+36 70 376 7514",
+  "lakcim": "H-5793 Melléknémeti, Mosoni utca 186.",
+  "szuletesi_datum": "1976.06.09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "1994 – 1998"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "1998 – 2000"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "Docker",
+   "prezentáció",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    91,
+    181,
+    111
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    138,
+    92,
+    152
+   ]
+  },
+  {
+   "text": "kovacs.gabor@outlook.com",
+   "bbox": [
+    40,
+    162,
+    271,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    103,
+    210
+   ]
+  },
+  {
+   "text": "+36 70 376 7514",
+   "bbox": [
+    40,
+    221,
+    175,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    254,
+    97,
+    268
+   ]
+  },
+  {
+   "text": "H-5793 Melléknémeti, Mosoni utca 186.",
+   "bbox": [
+    40,
+    278,
+    372,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    312,
+    173,
+    326
+   ]
+  },
+  {
+   "text": "1976.06.09.",
+   "bbox": [
+    40,
+    337,
+    135,
+    350
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    397,
+    173,
+    417
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    440,
+    134,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    495,
+    150,
+    515
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    540,
+    62,
+    553
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    567,
+    125,
+    585
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    595,
+    246,
+    613
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    623,
+    100,
+    637
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    651,
+    139,
+    669
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    679,
+    153,
+    697
+   ]
+  },
+  {
+   "text": "Kovács Gábor",
+   "bbox": [
+    450,
+    96,
+    710,
+    129
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    169,
+    629,
+    187
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    662,
+    256
+   ]
+  },
+  {
+   "text": "1998 – 2000",
+   "bbox": [
+    450,
+    286,
+    559,
+    300
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kovács Bt.",
+   "bbox": [
+    450,
+    311,
+    743,
+    331
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    363,
+    597,
+    386
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    416,
+    559,
+    430
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    438,
+    608,
+    461
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    466,
+    685,
+    486
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    450,
+    510,
+    559,
+    524
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    535,
+    717,
+    555
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    561,
+    628,
+    580
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

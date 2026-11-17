@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VARGA KISBOLT BT.",
+  "uzlet_cim": "H-2919 Kaposvár, Hetvenfalvai utca 10.",
+  "adoszam": "37524795-2-38",
+  "datum": "2025.06.23.",
+  "ido": "13:52",
+  "nyugtaszam": "8378/65637",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "14 356 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2884"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "633"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2246"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3384"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1702"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "335"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "543"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "738"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1108"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "783"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA KISBOLT BT.",
+   "bbox": [
+    204,
+    36,
+    426,
+    49
+   ]
+  },
+  {
+   "text": "H-2919 Kaposvár, Hetvenfalvai utca 10.",
+   "bbox": [
+    107,
+    65,
+    525,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 37524795-2-38",
+   "bbox": [
+    195,
+    87,
+    437,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    130,
+    359,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 1442",
+   "bbox": [
+    24,
+    170,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    193,
+    180,
+    205
+   ]
+  },
+  {
+   "text": "2884 C00",
+   "bbox": [
+    513,
+    192,
+    609,
+    205
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    220,
+    216,
+    233
+   ]
+  },
+  {
+   "text": "633 A00",
+   "bbox": [
+    525,
+    220,
+    609,
+    233
+   ]
+  },
+  {
+   "text": "2 DB x 1123",
+   "bbox": [
+    24,
+    248,
+    134,
+    259
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    270,
+    168,
+    283
+   ]
+  },
+  {
+   "text": "2246 C00",
+   "bbox": [
+    513,
+    270,
+    609,
+    283
+   ]
+  },
+  {
+   "text": "3 DB x 1128",
+   "bbox": [
+    24,
+    298,
+    134,
+    309
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    320,
+    144,
+    333
+   ]
+  },
+  {
+   "text": "3384 A00",
+   "bbox": [
+    513,
+    320,
+    609,
+    333
+   ]
+  },
+  {
+   "text": "2 DB x 851",
+   "bbox": [
+    24,
+    348,
+    124,
+    359
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    370,
+    120,
+    383
+   ]
+  },
+  {
+   "text": "1702 B00",
+   "bbox": [
+    513,
+    370,
+    609,
+    383
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    398,
+    156,
+    414
+   ]
+  },
+  {
+   "text": "335 C00",
+   "bbox": [
+    525,
+    398,
+    609,
+    411
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    426,
+    156,
+    439
+   ]
+  },
+  {
+   "text": "543 B00",
+   "bbox": [
+    525,
+    426,
+    609,
+    439
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    454,
+    120,
+    467
+   ]
+  },
+  {
+   "text": "738 A00",
+   "bbox": [
+    525,
+    454,
+    609,
+    467
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    483,
+    144,
+    495
+   ]
+  },
+  {
+   "text": "1108 A00",
+   "bbox": [
+    513,
+    482,
+    609,
+    495
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    510,
+    132,
+    523
+   ]
+  },
+  {
+   "text": "783 B00",
+   "bbox": [
+    525,
+    510,
+    609,
+    523
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    546,
+    164,
+    566
+   ]
+  },
+  {
+   "text": "14 356 Ft",
+   "bbox": [
+    483,
+    551,
+    610,
+    566
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    585,
+    120,
+    601
+   ]
+  },
+  {
+   "text": "14 356 Ft",
+   "bbox": [
+    501,
+    588,
+    609,
+    601
+   ]
+  },
+  {
+   "text": "2025.06.23.",
+   "bbox": [
+    24,
+    630,
+    145,
+    641
+   ]
+  },
+  {
+   "text": "13:52",
+   "bbox": [
+    554,
+    630,
+    609,
+    641
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8378/65637",
+   "bbox": [
+    24,
+    655,
+    266,
+    670
+   ]
+  },
+  {
+   "text": "AP A56069955",
+   "bbox": [
+    24,
+    686,
+    156,
+    697
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    232,
+    723,
+    398,
+    738
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  633,
+  782
+ ]
+}

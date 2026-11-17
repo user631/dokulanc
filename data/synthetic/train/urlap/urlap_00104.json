@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Nagy István",
+  "anyja_neve": "Gál Gréta",
+  "szuletesi_hely": "Baja",
+  "szuletesi_datum": "1985. 08. 23.",
+  "lakcim": "H-8955 Mosonmagyaróvár, Dózsa györgy utca 80.",
+  "telefon": "+36 30 708 1558",
+  "email": "nagy.istvan@gmail.com",
+  "adoazonosito_jel": "8433338153",
+  "taj_szam": "622 300 793",
+  "kelt": "Györgydevecser, 2026. 06. 15."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    526,
+    100,
+    713,
+    125
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    91,
+    199,
+    318,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    103,
+    254,
+    142,
+    268
+   ]
+  },
+  {
+   "text": "Nagy István",
+   "bbox": [
+    435,
+    251,
+    572,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    306,
+    201,
+    324
+   ]
+  },
+  {
+   "text": "Gál Gréta",
+   "bbox": [
+    435,
+    304,
+    541,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    103,
+    357,
+    222,
+    376
+   ]
+  },
+  {
+   "text": "Baja",
+   "bbox": [
+    435,
+    356,
+    484,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    103,
+    409,
+    215,
+    424
+   ]
+  },
+  {
+   "text": "1985. 08. 23.",
+   "bbox": [
+    435,
+    410,
+    583,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    103,
+    462,
+    172,
+    476
+   ]
+  },
+  {
+   "text": "H-8955 Mosonmagyaróvár, Dózsa györgy utca 80.",
+   "bbox": [
+    435,
+    458,
+    994,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    103,
+    514,
+    214,
+    528
+   ]
+  },
+  {
+   "text": "+36 30 708 1558",
+   "bbox": [
+    435,
+    510,
+    629,
+    529
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    103,
+    566,
+    203,
+    580
+   ]
+  },
+  {
+   "text": "nagy.istvan@gmail.com",
+   "bbox": [
+    435,
+    562,
+    689,
+    588
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    618,
+    248,
+    636
+   ]
+  },
+  {
+   "text": "8433338153",
+   "bbox": [
+    435,
+    617,
+    581,
+    636
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    103,
+    670,
+    192,
+    684
+   ]
+  },
+  {
+   "text": "622 300 793",
+   "bbox": [
+    435,
+    671,
+    584,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    91,
+    747,
+    277,
+    769
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    136,
+    792,
+    428,
+    810
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    136,
+    837,
+    274,
+    851
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    882,
+    443,
+    900
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    91,
+    984,
+    134,
+    999
+   ]
+  },
+  {
+   "text": "Györgydevecser, 2026. 06. 15.",
+   "bbox": [
+    181,
+    983,
+    489,
+    1007
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1033,
+    983,
+    1045
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

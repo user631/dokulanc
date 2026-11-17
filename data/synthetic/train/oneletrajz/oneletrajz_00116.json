@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Horváth Annamária",
+  "email": "horvath.annamaria@example.hu",
+  "telefon": "06 1 781 1211",
+  "lakcim": "H-7347 Székesfehérvár, Kossuth út 47.",
+  "szuletesi_datum": "1983.12.24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2006 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "Docker",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    205,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    101,
+    163
+   ]
+  },
+  {
+   "text": "horvath.annamaria@example.hu",
+   "bbox": [
+    40,
+    173,
+    340,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    115,
+    223
+   ]
+  },
+  {
+   "text": "06 1 781 1211",
+   "bbox": [
+    40,
+    233,
+    168,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    110,
+    283
+   ]
+  },
+  {
+   "text": "H-7347 Székesfehérvár, Kossuth út",
+   "bbox": [
+    40,
+    292,
+    362,
+    312
+   ]
+  },
+  {
+   "text": "47.",
+   "bbox": [
+    40,
+    318,
+    70,
+    333
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    352,
+    194,
+    368
+   ]
+  },
+  {
+   "text": "1983.12.24.",
+   "bbox": [
+    40,
+    378,
+    152,
+    393
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    193,
+    462
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    482,
+    150,
+    505
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    513,
+    161,
+    534
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    567,
+    170,
+    591
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    611,
+    157,
+    634
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    640,
+    172,
+    663
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    670,
+    249,
+    692
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    700,
+    109,
+    716
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    729,
+    92,
+    745
+   ]
+  },
+  {
+   "text": "Horváth Annamária",
+   "bbox": [
+    450,
+    108,
+    875,
+    143
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    178,
+    682,
+    205
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    699,
+    270
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    450,
+    297,
+    568,
+    313
+   ]
+  },
+  {
+   "text": "értékesítő – Takács Kft.",
+   "bbox": [
+    450,
+    323,
+    715,
+    341
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    377,
+    618,
+    403
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    430,
+    568,
+    446
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    456,
+    759,
+    479
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    482,
+    577,
+    505
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    527,
+    568,
+    543
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    553,
+    735,
+    571
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    579,
+    544,
+    602
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,5343 @@
+[
+  {
+    "source": "data\\samples\\level_foto.jpg",
+    "doc_type": "level",
+    "type_probs": {
+      "szamla": 0.0178,
+      "nyugta": 0.0226,
+      "level": 0.9171,
+      "oneletrajz": 0.0233,
+      "urlap": 0.0193
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "alap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "Dudás Logisztika Kft.",
+        "bbox": [
+          101,
+          73,
+          411,
+          118
+        ],
+        "confidence": 0.9564
+      },
+      {
+        "id": 2,
+        "text": "H-9486 Szombathely , Bacskereszti utca 89",
+        "bbox": [
+          100,
+          114,
+          504,
+          140
+        ],
+        "confidence": 0.7013
+      },
+      {
+        "id": 3,
+        "text": "Tel : +36 20 708 8580 E-mail: inlo@dudas hu",
+        "bbox": [
+          100,
+          134,
+          534,
+          166
+        ],
+        "confidence": 0.6578
+      },
+      {
+        "id": 4,
+        "text": "Nagy Sándor",
+        "bbox": [
+          97,
+          217,
+          257,
+          255
+        ],
+        "confidence": 0.9814
+      },
+      {
+        "id": 5,
+        "text": "H-8875 Hajdúligethalas",
+        "bbox": [
+          99,
+          249,
+          361,
+          285
+        ],
+        "confidence": 0.5936
+      },
+      {
+        "id": 6,
+        "text": "Bácstamásii utca 9",
+        "bbox": [
+          100,
+          282,
+          314,
+          308
+        ],
+        "confidence": 0.6619
+      },
+      {
+        "id": 7,
+        "text": "Hátbánya, 2025.07. 20.",
+        "bbox": [
+          816,
+          343,
+          1079,
+          380
+        ],
+        "confidence": 0.7382
+      },
+      {
+        "id": 8,
+        "text": "Tárgy: Szerzödésmódositás",
+        "bbox": [
+          95,
+          394,
+          424,
+          439
+        ],
+        "confidence": 0.8658
+      },
+      {
+        "id": 9,
+        "text": "Ügyszám: REF-2025/21253",
+        "bbox": [
+          100,
+          432,
+          409,
+          469
+        ],
+        "confidence": 0.9997
+      },
+      {
+        "id": 10,
+        "text": "Tisztelt Ügyfelünk!",
+        "bbox": [
+          102,
+          492,
+          309,
+          532
+        ],
+        "confidence": 0.8908
+      },
+      {
+        "id": 11,
+        "text": "Tájékoztatjuk, hogy a közöttünk 2025. 05. 29. napján létrejött szolgáltatási szerzodes",
+        "bbox": [
+          102,
+          543,
+          1022,
+          578
+        ],
+        "confidence": 0.7294
+      },
+      {
+        "id": 12,
+        "text": "dijtételei a jövö hónaptól modosulnak.",
+        "bbox": [
+          100,
+          577,
+          513,
+          610
+        ],
+        "confidence": 0.5748
+      },
+      {
+        "id": 13,
+        "text": "A módosított szerzodést mellékelten megküldjük. Kérjük, hogy azt aláirva legkesobb 2025",
+        "bbox": [
+          101,
+          621,
+          1076,
+          658
+        ],
+        "confidence": 0.7286
+      },
+      {
+        "id": 14,
+        "text": "08. 15 napjáig juttassa vissza részünkre.",
+        "bbox": [
+          100,
+          660,
+          546,
+          690
+        ],
+        "confidence": 0.7618
+      },
+      {
+        "id": 15,
+        "text": "Kérdés esetén ügyfélszolgálatunk munkanapokon 8 és 16 óra között készséggel áll",
+        "bbox": [
+          102,
+          704,
+          1006,
+          736
+        ],
+        "confidence": 0.7373
+      },
+      {
+        "id": 16,
+        "text": "rendelkezésére.",
+        "bbox": [
+          100,
+          740,
+          280,
+          766
+        ],
+        "confidence": 0.9291
+      },
+      {
+        "id": 17,
+        "text": "Üdvözlettel:",
+        "bbox": [
+          102,
+          812,
+          236,
+          842
+        ],
+        "confidence": 0.9911
+      },
+      {
+        "id": 18,
+        "text": "Kozma János",
+        "bbox": [
+          140,
+          904,
+          300,
+          932
+        ],
+        "confidence": 0.9991
+      },
+      {
+        "id": 19,
+        "text": "pénzügyi vezetó",
+        "bbox": [
+          139,
+          932,
+          308,
+          964
+        ],
+        "confidence": 0.6896
+      }
+    ],
+    "fields": {
+      "felado": {
+        "ertek": "Dudás Logisztika Kft.",
+        "sor": 1
+      },
+      "felado_cim": {
+        "ertek": "H-9486 Szombathely, Bacskereszti utca 89",
+        "sor": 2
+      },
+      "cimzett": {
+        "ertek": "Nagy Sándor",
+        "sor": 4
+      },
+      "cimzett_cim": {
+        "ertek": "H-8875 Hajdúligethalas, Bácstamásii utca 9, Hátbánya",
+        "sor": 6
+      },
+      "datum": {
+        "ertek": "2025.07.20",
+        "sor": 7
+      },
+      "targy": {
+        "ertek": "Szerzödésmódositás",
+        "sor": 8
+      },
+      "ugyszam": {
+        "ertek": "REF-2025/21253",
+        "sor": 9
+      },
+      "hatarido": {
+        "ertek": "2025.08.15",
+        "sor": 13
+      },
+      "alairo": {
+        "ertek": "Kozma János",
+        "sor": 18
+      },
+      "teendo": "A címzett aláírva a módosított szerzödést legkesobb 2025.08.15. napjáig juttassa vissza a feladó számára.",
+      "osszefoglalo": "Dudás Logisztika Kft. modosított szerzödést aláírt Nagy Sándor számára, amit a legkésőbb 2025.08.15. között kell visszajuttatnia."
+    },
+    "parsed": {
+      "felado": "Dudás Logisztika Kft.",
+      "felado_cim": "H-9486 Szombathely, Bacskereszti utca 89",
+      "cimzett": "Nagy Sándor",
+      "cimzett_cim": "H-8875 Hajdúligethalas, Bácstamásii utca 9, Hátbánya",
+      "datum": "2025-07-20",
+      "targy": "Szerzödésmódositás",
+      "ugyszam": "REF-2025/21253",
+      "hatarido": "2025-08-15",
+      "alairo": "Kozma János"
+    },
+    "checks": [
+      {
+        "field": "hatarido",
+        "level": "ok",
+        "message": "Határidő: 26 nappal a levél dátuma után."
+      }
+    ],
+    "status": "ok",
+    "timings": {
+      "betoltes": 0.061,
+      "elofeldolgozas": 0.212,
+      "M1_tipus": 0.709,
+      "M2_ocr": 2.686,
+      "M3_kinyeres": 8.056,
+      "ellenorzes": 0.124
+    },
+    "preprocessing": {
+      "perspektiva_javitva": true,
+      "dolesszog": 0.0,
+      "eredeti_meret": [
+        1592,
+        2064
+      ],
+      "meret": [
+        1184,
+        1671
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\level_szkennelt.png",
+    "doc_type": "level",
+    "type_probs": {
+      "szamla": 0.0149,
+      "nyugta": 0.0201,
+      "level": 0.9305,
+      "oneletrajz": 0.0187,
+      "urlap": 0.0158
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "alap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "Orsós Zrt.",
+        "bbox": [
+          117,
+          97,
+          271,
+          133
+        ],
+        "confidence": 0.9762
+      },
+      {
+        "id": 2,
+        "text": "H-9472 Tóthalas, Halasi utca 50.",
+        "bbox": [
+          116,
+          136,
+          428,
+          162
+        ],
+        "confidence": 0.7602
+      },
+      {
+        "id": 3,
+        "text": "Tel: +36 20 464 7804 E-mail: info@orsos hu",
+        "bbox": [
+          116,
+          162,
+          560,
+          188
+        ],
+        "confidence": 0.6802
+      },
+      {
+        "id": 4,
+        "text": "Dr. Király Szabolcs",
+        "bbox": [
+          118,
+          245,
+          347,
+          286
+        ],
+        "confidence": 0.8239
+      },
+      {
+        "id": 5,
+        "text": "H-8010 Tapolcakórös",
+        "bbox": [
+          117,
+          281,
+          367,
+          319
+        ],
+        "confidence": 0.9991
+      },
+      {
+        "id": 6,
+        "text": "Kecskeméti utca 12",
+        "bbox": [
+          118,
+          315,
+          346,
+          346
+        ],
+        "confidence": 0.9558
+      },
+      {
+        "id": 7,
+        "text": "Székesfehérvár, 2026. június 13.",
+        "bbox": [
+          756,
+          385,
+          1123,
+          421
+        ],
+        "confidence": 0.8642
+      },
+      {
+        "id": 8,
+        "text": "Tárgy: Szerzódésmódosítás",
+        "bbox": [
+          113,
+          438,
+          454,
+          485
+        ],
+        "confidence": 0.9903
+      },
+      {
+        "id": 9,
+        "text": "Ügyszám: REF-2026/95405",
+        "bbox": [
+          117,
+          479,
+          431,
+          517
+        ],
+        "confidence": 0.9429
+      },
+      {
+        "id": 10,
+        "text": "Tisztelt Ügyfelünk!",
+        "bbox": [
+          117,
+          545,
+          339,
+          583
+        ],
+        "confidence": 0.8034
+      },
+      {
+        "id": 11,
+        "text": "Tájékoztatjuk, hogy közöttünk 2026. április 16. napján létrejött szolgáltatási szerzódés",
+        "bbox": [
+          117,
+          593,
+          1121,
+          638
+        ],
+        "confidence": 0.7889
+      },
+      {
+        "id": 12,
+        "text": "díjtételei a jövó hónaptól módosulnak.",
+        "bbox": [
+          117,
+          632,
+          557,
+          669
+        ],
+        "confidence": 0.9152
+      },
+      {
+        "id": 13,
+        "text": "A módosított szerzódést mellékelten megküldjük: Kérjük, hogy azt aláírva legkésóbb",
+        "bbox": [
+          121,
+          676,
+          1088,
+          721
+        ],
+        "confidence": 0.8097
+      },
+      {
+        "id": 14,
+        "text": "2026. június 21 napjáig juttassa vissza részünkre.",
+        "bbox": [
+          117,
+          716,
+          673,
+          757
+        ],
+        "confidence": 0.8273
+      },
+      {
+        "id": 15,
+        "text": "Kérdés esetén ügyfélszolgálatunk munkanapokon 8 és 16 óra között készséggel áll",
+        "bbox": [
+          117,
+          765,
+          1073,
+          807
+        ],
+        "confidence": 0.8037
+      },
+      {
+        "id": 16,
+        "text": "rendelkezésére.",
+        "bbox": [
+          116,
+          806,
+          300,
+          834
+        ],
+        "confidence": 0.995
+      },
+      {
+        "id": 17,
+        "text": "Tisztelettel:",
+        "bbox": [
+          118,
+          886,
+          254,
+          914
+        ],
+        "confidence": 0.9716
+      },
+      {
+        "id": 18,
+        "text": "Kis Anna",
+        "bbox": [
+          158,
+          984,
+          270,
+          1010
+        ],
+        "confidence": 0.7226
+      },
+      {
+        "id": 19,
+        "text": "ügyintézó",
+        "bbox": [
+          156,
+          1009,
+          273,
+          1048
+        ],
+        "confidence": 0.9997
+      }
+    ],
+    "fields": {
+      "felado": {
+        "ertek": "Orsós Zrt.",
+        "sor": 1
+      },
+      "felado_cim": {
+        "ertek": "H-9472 Tóthalas, Halasi utca 50.",
+        "sor": 2
+      },
+      "cimzett": {
+        "ertek": "Dr. Király Szabolcs",
+        "sor": 4
+      },
+      "cimzett_cim": {
+        "ertek": "H-8010 Tapolcakórös, Kecskeméti utca 12",
+        "sor": 6
+      },
+      "datum": {
+        "ertek": "2026. június 13.",
+        "sor": 7
+      },
+      "targy": {
+        "ertek": "Szerzódésmódosítás",
+        "sor": 8
+      },
+      "ugyszam": {
+        "ertek": "REF-2026/95405",
+        "sor": 9
+      },
+      "hatarido": {
+        "ertek": "2026. június 21",
+        "sor": 13
+      },
+      "alairo": {
+        "ertek": "Kis Anna",
+        "sor": 18
+      },
+      "teendo": "A módosított szerzódést aláírva és legkésőbb 2026. június 21 napjáig juttassa vissza részünkre.",
+      "osszefoglalo": "Orsós Zrt. módosított szerzódést aláírva és visszaadva a leírt határidőig, hogy a jövő hónaptól változó díjtételekre soroljon fel."
+    },
+    "parsed": {
+      "felado": "Orsós Zrt.",
+      "felado_cim": "H-9472 Tóthalas, Halasi utca 50.",
+      "cimzett": "Dr. Király Szabolcs",
+      "cimzett_cim": "H-8010 Tapolcakórös, Kecskeméti utca 12",
+      "datum": "2026-06-13",
+      "targy": "Szerzódésmódosítás",
+      "ugyszam": "REF-2026/95405",
+      "hatarido": "2026-06-21",
+      "alairo": "Kis Anna"
+    },
+    "checks": [
+      {
+        "field": "hatarido",
+        "level": "ok",
+        "message": "Határidő: 8 nappal a levél dátuma után."
+      }
+    ],
+    "status": "ok",
+    "timings": {
+      "betoltes": 0.042,
+      "elofeldolgozas": 0.052,
+      "M1_tipus": 0.013,
+      "M2_ocr": 0.737,
+      "M3_kinyeres": 8.202,
+      "ellenorzes": 0.005
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": 0.0,
+      "eredeti_meret": [
+        1246,
+        1758
+      ],
+      "meret": [
+        1246,
+        1758
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\nyugta_foto.jpg",
+    "doc_type": "nyugta",
+    "type_probs": {
+      "szamla": 0.0364,
+      "nyugta": 0.8289,
+      "level": 0.029,
+      "oneletrajz": 0.0519,
+      "urlap": 0.0539
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "nyugta",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "VASS KISBOLT KFT.",
+        "bbox": [
+          274,
+          152,
+          492,
+          183
+        ],
+        "confidence": 0.7288
+      },
+      {
+        "id": 2,
+        "text": "H-8684 Tapolcahalas, Ceglédi utca 13.",
+        "bbox": [
+          189,
+          183,
+          582,
+          217
+        ],
+        "confidence": 0.7894
+      },
+      {
+        "id": 3,
+        "text": "ADÓSZÁM:96032082-5-05",
+        "bbox": [
+          270,
+          211,
+          505,
+          242
+        ],
+        "confidence": 0.8537
+      },
+      {
+        "id": 4,
+        "text": "NYUGTA",
+        "bbox": [
+          347,
+          256,
+          434,
+          283
+        ],
+        "confidence": 0.9998
+      },
+      {
+        "id": 5,
+        "text": "TEJ 2,8* 1L | 360 C00",
+        "bbox": [
+          135,
+          295,
+          660,
+          331
+        ],
+        "confidence": 0.5422
+      },
+      {
+        "id": 6,
+        "text": "RIZS 1KG | 837 A00",
+        "bbox": [
+          138,
+          327,
+          660,
+          357
+        ],
+        "confidence": 0.7449
+      },
+      {
+        "id": 7,
+        "text": "2 DB X 1632",
+        "bbox": [
+          143,
+          363,
+          245,
+          382
+        ],
+        "confidence": 0.4273
+      },
+      {
+        "id": 8,
+        "text": "PAPRIKA KG | 3264A00",
+        "bbox": [
+          143,
+          379,
+          662,
+          408
+        ],
+        "confidence": 0.8693
+      },
+      {
+        "id": 9,
+        "text": "PARIZSI 3006 | 877 C00",
+        "bbox": [
+          145,
+          409,
+          663,
+          437
+        ],
+        "confidence": 0.7276
+      },
+      {
+        "id": 10,
+        "text": "2 DB X 432",
+        "bbox": [
+          149,
+          442,
+          243,
+          463
+        ],
+        "confidence": 0.3907
+      },
+      {
+        "id": 11,
+        "text": "LISZT BLSS 1KG | 864  A00",
+        "bbox": [
+          150,
+          461,
+          663,
+          487
+        ],
+        "confidence": 0.5725
+      },
+      {
+        "id": 12,
+        "text": "CUKOR 1KG | 510 c00",
+        "bbox": [
+          153,
+          490,
+          663,
+          514
+        ],
+        "confidence": 0.6132
+      },
+      {
+        "id": 13,
+        "text": "2 08 X 571",
+        "bbox": [
+          155,
+          520,
+          248,
+          539
+        ],
+        "confidence": 0.3054
+      },
+      {
+        "id": 14,
+        "text": "CSOKOLADE 1006 | 1142 C00",
+        "bbox": [
+          158,
+          540,
+          665,
+          570
+        ],
+        "confidence": 0.526
+      },
+      {
+        "id": 15,
+        "text": "VÉGÖSSZEG: | 7 854 Ft",
+        "bbox": [
+          162,
+          576,
+          666,
+          605
+        ],
+        "confidence": 0.7719
+      },
+      {
+        "id": 16,
+        "text": "KÉSZPÉNZ | 7 854 Ft",
+        "bbox": [
+          165,
+          612,
+          666,
+          639
+        ],
+        "confidence": 0.9122
+      },
+      {
+        "id": 17,
+        "text": "2026.07.14 | 20:48",
+        "bbox": [
+          168,
+          653,
+          666,
+          675
+        ],
+        "confidence": 0.7016
+      },
+      {
+        "id": 18,
+        "text": "NYUGTASZMM: 3089/63418",
+        "bbox": [
+          171,
+          677,
+          387,
+          699
+        ],
+        "confidence": 0.6292
+      },
+      {
+        "id": 19,
+        "text": "AP 434965198",
+        "bbox": [
+          174,
+          705,
+          292,
+          724
+        ],
+        "confidence": 0.4795
+      },
+      {
+        "id": 20,
+        "text": "VISZONTLATASRA!",
+        "bbox": [
+          334,
+          740,
+          499,
+          767
+        ],
+        "confidence": 0.415
+      }
+    ],
+    "fields": {
+      "uzlet_nev": {
+        "ertek": "VASS KISBOLT KFT.",
+        "sor": 1
+      },
+      "uzlet_cim": {
+        "ertek": "H-8684 Tapolcahalas, Ceglédi utca 13.",
+        "sor": 2
+      },
+      "adoszam": {
+        "ertek": "96032082-5-05",
+        "sor": 3
+      },
+      "datum": {
+        "ertek": "2026.07.14",
+        "sor": 17
+      },
+      "ido": {
+        "ertek": "20:48",
+        "sor": 17
+      },
+      "nyugtaszam": {
+        "ertek": "3089/63418",
+        "sor": 18
+      },
+      "fizetesi_mod": {
+        "ertek": "KÉSZPÉNZ",
+        "sor": 16
+      },
+      "vegosszeg": {
+        "ertek": "7 854 Ft",
+        "sor": 15
+      },
+      "tetelek": [
+        {
+          "megnevezes": "TEJ 2,8* 1L",
+          "osszeg": "360 C00",
+          "sor": 5
+        },
+        {
+          "megnevezes": "RIZS 1KG",
+          "osszeg": "837 A00",
+          "sor": 6
+        },
+        {
+          "megnevezes": "PAPRIKA KG",
+          "osszeg": "3264A00",
+          "sor": 8
+        },
+        {
+          "megnevezes": "PARIZSI 3006",
+          "osszeg": "877 C00",
+          "sor": 9
+        },
+        {
+          "megnevezes": "LISZT BLSS 1KG",
+          "osszeg": "864 A00",
+          "sor": 11
+        },
+        {
+          "megnevezes": "CUKOR 1KG",
+          "osszeg": "510 c00",
+          "sor": 12
+        },
+        {
+          "megnevezes": "CSOKOLADE 1006",
+          "osszeg": "1142 C00",
+          "sor": 14
+        }
+      ]
+    },
+    "parsed": {
+      "uzlet_nev": "VASS KISBOLT KFT.",
+      "uzlet_cim": "H-8684 Tapolcahalas, Ceglédi utca 13.",
+      "adoszam": "96032082-5-05",
+      "datum": "2026-07-14",
+      "ido": "20:48",
+      "nyugtaszam": "3089/63418",
+      "fizetesi_mod": "KÉSZPÉNZ",
+      "vegosszeg": 7854.0,
+      "tetelek": [
+        360.0,
+        837.0,
+        3264.0,
+        877.0,
+        864.0,
+        510.0,
+        1142.0
+      ]
+    },
+    "checks": [
+      {
+        "field": "adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "vegosszeg",
+        "level": "ok",
+        "message": "A tételek összege egyezik a végösszeggel."
+      }
+    ],
+    "status": "ok",
+    "timings": {
+      "betoltes": 0.004,
+      "elofeldolgozas": 0.059,
+      "M1_tipus": 0.007,
+      "M2_ocr": 0.549,
+      "M3_kinyeres": 9.231,
+      "ellenorzes": 0.002
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": 1.5,
+      "eredeti_meret": [
+        799,
+        901
+      ],
+      "meret": [
+        822,
+        921
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\nyugta_hibas_foto.jpg",
+    "doc_type": "nyugta",
+    "type_probs": {
+      "szamla": 0.0214,
+      "nyugta": 0.8981,
+      "level": 0.0297,
+      "oneletrajz": 0.0257,
+      "urlap": 0.0251
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "nyugta",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "HORVATH MARKET BT,",
+        "bbox": [
+          141,
+          20,
+          351,
+          43
+        ],
+        "confidence": 0.7181
+      },
+      {
+        "id": 2,
+        "text": "H-2330 Pusztafurdovára, Budapesti utca 41.",
+        "bbox": [
+          37,
+          44,
+          454,
+          72
+        ],
+        "confidence": 0.3774
+      },
+      {
+        "id": 3,
+        "text": "ADOSZAM:*60031451-2-15",
+        "bbox": [
+          136,
+          70,
+          358,
+          89
+        ],
+        "confidence": 0.5909
+      },
+      {
+        "id": 4,
+        "text": "NYUGTA",
+        "bbox": [
+          205,
+          105,
+          288,
+          126
+        ],
+        "confidence": 0.9997
+      },
+      {
+        "id": 5,
+        "text": "3 DB* 363",
+        "bbox": [
+          16,
+          139,
+          112,
+          157
+        ],
+        "confidence": 0.5505
+      },
+      {
+        "id": 6,
+        "text": "LISZT BLSS IKG | 1149 'AOo",
+        "bbox": [
+          16,
+          159,
+          478,
+          180
+        ],
+        "confidence": 0.4211
+      },
+      {
+        "id": 7,
+        "text": "TOJAS 1ODB | 1408 Coo",
+        "bbox": [
+          16,
+          184,
+          478,
+          204
+        ],
+        "confidence": 0.5943
+      },
+      {
+        "id": 8,
+        "text": "3 0B X 887",
+        "bbox": [
+          17,
+          208,
+          112,
+          226
+        ],
+        "confidence": 0.482
+      },
+      {
+        "id": 9,
+        "text": "PARIZSI 3006 | 2661 coo",
+        "bbox": [
+          16,
+          226,
+          478,
+          249
+        ],
+        "confidence": 0.5501
+      },
+      {
+        "id": 10,
+        "text": "PARADICSOY KG | 1172 Coo",
+        "bbox": [
+          16,
+          253,
+          478,
+          273
+        ],
+        "confidence": 0.6543
+      },
+      {
+        "id": 11,
+        "text": "2 0B X 1717",
+        "bbox": [
+          16,
+          276,
+          120,
+          295
+        ],
+        "confidence": 0.5704
+      },
+      {
+        "id": 12,
+        "text": "PAPRIKA KG | 3434*Boo",
+        "bbox": [
+          16,
+          297,
+          478,
+          318
+        ],
+        "confidence": 0.7385
+      },
+      {
+        "id": 13,
+        "text": "SAJT TRAPPISTA 5oog | 2032 Coo",
+        "bbox": [
+          15,
+          321,
+          478,
+          342
+        ],
+        "confidence": 0.4419
+      },
+      {
+        "id": 14,
+        "text": "MOSOGATOSZER IL | 995 Boo",
+        "bbox": [
+          15,
+          345,
+          478,
+          368
+        ],
+        "confidence": 0.6407
+      },
+      {
+        "id": 15,
+        "text": "3 0B * 755",
+        "bbox": [
+          17,
+          370,
+          112,
+          389
+        ],
+        "confidence": 0.3234
+      },
+      {
+        "id": 16,
+        "text": "BANAN 1KG | 2265 Coo",
+        "bbox": [
+          16,
+          389,
+          480,
+          418
+        ],
+        "confidence": 0.3185
+      },
+      {
+        "id": 17,
+        "text": "VÉGÖSSZEG: | 15 126 Ft",
+        "bbox": [
+          16,
+          423,
+          477,
+          448
+        ],
+        "confidence": 0.8747
+      },
+      {
+        "id": 18,
+        "text": "BANKKARTYA | 15 126 Ft",
+        "bbox": [
+          16,
+          457,
+          478,
+          478
+        ],
+        "confidence": 0.9817
+      },
+      {
+        "id": 19,
+        "text": "2026.07.25. | 15:17",
+        "bbox": [
+          16,
+          494,
+          477,
+          513
+        ],
+        "confidence": 0.7794
+      },
+      {
+        "id": 20,
+        "text": "NYUGTASZAM; 6053/10354",
+        "bbox": [
+          16,
+          518,
+          237,
+          538
+        ],
+        "confidence": 0.7119
+      },
+      {
+        "id": 21,
+        "text": "AP  451533423",
+        "bbox": [
+          17,
+          543,
+          139,
+          562
+        ],
+        "confidence": 0.2985
+      },
+      {
+        "id": 22,
+        "text": "KOSZONJUK VASARLAST!",
+        "bbox": [
+          126,
+          576,
+          364,
+          600
+        ],
+        "confidence": 0.7285
+      }
+    ],
+    "fields": {
+      "uzlet_nev": {
+        "ertek": "HORVATH MARKET BT",
+        "sor": 1
+      },
+      "uzlet_cim": {
+        "ertek": "H-2330 Pusztafurdovára, Budapesti utca 41.",
+        "sor": 2
+      },
+      "adoszam": {
+        "ertek": "60031451-2-15",
+        "sor": 3
+      },
+      "datum": {
+        "ertek": "2026.07.25.",
+        "sor": 19
+      },
+      "ido": {
+        "ertek": "15:17",
+        "sor": 19
+      },
+      "nyugtaszam": {
+        "ertek": "6053/10354",
+        "sor": 20
+      },
+      "fizetesi_mod": {
+        "ertek": "BANKKARTYA",
+        "sor": 18
+      },
+      "vegosszeg": {
+        "ertek": "15126 Ft",
+        "sor": 17
+      },
+      "tetelek": [
+        {
+          "megnevezes": "LISZT BLSS IKG",
+          "osszeg": "1149 Ft",
+          "sor": 5
+        },
+        {
+          "megnevezes": "TOJAS",
+          "osszeg": "1408 Ft",
+          "sor": 6
+        },
+        {
+          "megnevezes": "0B",
+          "osszeg": "2661 Ft",
+          "sor": 8
+        },
+        {
+          "megnevezes": "PARIZSI 3006",
+          "osszeg": "2661 Ft",
+          "sor": 9
+        },
+        {
+          "megnevezes": "PARADICSOY KG",
+          "osszeg": "1172 Ft",
+          "sor": 10
+        },
+        {
+          "megnevezes": "0B",
+          "osszeg": "3434 Ft",
+          "sor": 12
+        },
+        {
+          "megnevezes": "SAJT TRAPPISTA 500g",
+          "osszeg": "2032 Ft",
+          "sor": 13
+        },
+        {
+          "megnevezes": "MOSOGATOSZER IL",
+          "osszeg": "995 Ft",
+          "sor": 14
+        },
+        {
+          "megnevezes": "0B",
+          "osszeg": "2265 Ft",
+          "sor": 16
+        }
+      ]
+    },
+    "parsed": {
+      "uzlet_nev": "HORVATH MARKET BT",
+      "uzlet_cim": "H-2330 Pusztafurdovára, Budapesti utca 41.",
+      "adoszam": "60031451-2-15",
+      "datum": "2026-07-25",
+      "ido": "15:17",
+      "nyugtaszam": "6053/10354",
+      "fizetesi_mod": "BANKKARTYA",
+      "vegosszeg": 15126.0,
+      "tetelek": [
+        1149.0,
+        1408.0,
+        2661.0,
+        2661.0,
+        1172.0,
+        3434.0,
+        2032.0,
+        995.0,
+        2265.0
+      ]
+    },
+    "checks": [
+      {
+        "field": "uzlet_cim",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.38)."
+      },
+      {
+        "field": "adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "vegosszeg",
+        "level": "hiba",
+        "message": "A tételek összege (17,777) ≠ végösszeg (15,126)."
+      }
+    ],
+    "status": "hiba",
+    "timings": {
+      "betoltes": 0.003,
+      "elofeldolgozas": 0.03,
+      "M1_tipus": 0.006,
+      "M2_ocr": 0.668,
+      "M3_kinyeres": 9.233,
+      "ellenorzes": 0.008
+    },
+    "preprocessing": {
+      "perspektiva_javitva": true,
+      "dolesszog": 0.0,
+      "eredeti_meret": [
+        628,
+        758
+      ],
+      "meret": [
+        495,
+        630
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\nyugta_szkennelt.png",
+    "doc_type": "nyugta",
+    "type_probs": {
+      "szamla": 0.0248,
+      "nyugta": 0.9011,
+      "level": 0.0167,
+      "oneletrajz": 0.0366,
+      "urlap": 0.0208
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "nyugta",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "NEMES ABC BI",
+        "bbox": [
+          195,
+          33,
+          384,
+          57
+        ],
+        "confidence": 0.8935
+      },
+      {
+        "id": 2,
+        "text": "H-9196 Mindszenthalas, Kossuth utca 183",
+        "bbox": [
+          35,
+          67,
+          550,
+          93
+        ],
+        "confidence": 0.9938
+      },
+      {
+        "id": 3,
+        "text": "ADÓSZÁM: 66820527-2-38",
+        "bbox": [
+          151,
+          93,
+          441,
+          117
+        ],
+        "confidence": 0.9937
+      },
+      {
+        "id": 4,
+        "text": "NYUGIA",
+        "bbox": [
+          246,
+          138,
+          347,
+          162
+        ],
+        "confidence": 0.9884
+      },
+      {
+        "id": 5,
+        "text": "VAJ 200G | 1298 A0o",
+        "bbox": [
+          26,
+          181,
+          568,
+          205
+        ],
+        "confidence": 0.7927
+      },
+      {
+        "id": 6,
+        "text": "PAPIRZSEBKENDO | 446 B0o",
+        "bbox": [
+          25,
+          213,
+          568,
+          236
+        ],
+        "confidence": 0.8783
+      },
+      {
+        "id": 7,
+        "text": "CUKOR IKG | 444 A0o",
+        "bbox": [
+          24,
+          245,
+          568,
+          267
+        ],
+        "confidence": 0.8802
+      },
+      {
+        "id": 8,
+        "text": "BANAN IKG | 731 BOO",
+        "bbox": [
+          25,
+          275,
+          568,
+          298
+        ],
+        "confidence": 0.8573
+      },
+      {
+        "id": 9,
+        "text": "ASVANYVIZ 1, 51 | 205Aoo",
+        "bbox": [
+          24,
+          305,
+          568,
+          333
+        ],
+        "confidence": 0.8045
+      },
+      {
+        "id": 10,
+        "text": "UDIIO 21 | 768 Aoo",
+        "bbox": [
+          25,
+          338,
+          568,
+          359
+        ],
+        "confidence": 0.697
+      },
+      {
+        "id": 11,
+        "text": "2 DB X 2359",
+        "bbox": [
+          25,
+          365,
+          161,
+          387
+        ],
+        "confidence": 0.8195
+      },
+      {
+        "id": 12,
+        "text": "KAVE 250G | 4718 coo",
+        "bbox": [
+          23,
+          393,
+          568,
+          415
+        ],
+        "confidence": 0.8631
+      },
+      {
+        "id": 13,
+        "text": "JOGHURI NATUR | 253 Coo",
+        "bbox": [
+          25,
+          424,
+          568,
+          447
+        ],
+        "confidence": 0.8766
+      },
+      {
+        "id": 14,
+        "text": "EIZETENDÓ : | 8 863 Et",
+        "bbox": [
+          23,
+          462,
+          570,
+          496
+        ],
+        "confidence": 0.5937
+      },
+      {
+        "id": 15,
+        "text": "BANKKÁRTYA | 8 863 Ft",
+        "bbox": [
+          25,
+          506,
+          568,
+          531
+        ],
+        "confidence": 0.763
+      },
+      {
+        "id": 16,
+        "text": "2025.03 .19 | 08 : 39",
+        "bbox": [
+          25,
+          552,
+          568,
+          573
+        ],
+        "confidence": 0.9624
+      },
+      {
+        "id": 17,
+        "text": "NYUGIASZÉM:  4596/72850",
+        "bbox": [
+          24,
+          580,
+          315,
+          608
+        ],
+        "confidence": 0.5967
+      },
+      {
+        "id": 18,
+        "text": "AP 422942714",
+        "bbox": [
+          25,
+          613,
+          184,
+          635
+        ],
+        "confidence": 0.7651
+      },
+      {
+        "id": 19,
+        "text": "VISZONTLÁTÁSRA!",
+        "bbox": [
+          195,
+          654,
+          394,
+          680
+        ],
+        "confidence": 0.9708
+      }
+    ],
+    "fields": {
+      "uzlet_nev": {
+        "ertek": "NEMES ABC BI",
+        "sor": 1
+      },
+      "uzlet_cim": {
+        "ertek": "H-9196 Mindszenthalas, Kossuth utca 183",
+        "sor": 2
+      },
+      "adoszam": {
+        "ertek": "66820527-2-38",
+        "sor": 3
+      },
+      "datum": {
+        "ertek": "2025.03.19",
+        "sor": 16
+      },
+      "ido": {
+        "ertek": "08:39",
+        "sor": 16
+      },
+      "nyugtaszam": {
+        "ertek": "4596/72850",
+        "sor": 17
+      },
+      "fizetesi_mod": {
+        "ertek": "BANKKÁRTYA",
+        "sor": 15
+      },
+      "vegosszeg": {
+        "ertek": "8863",
+        "sor": 16
+      },
+      "tetelek": [
+        {
+          "megnevezes": "VAJ 200G",
+          "osszeg": "1298",
+          "sor": 5
+        },
+        {
+          "megnevezes": "PAPIRZSEBKENDO",
+          "osszeg": "446",
+          "sor": 6
+        },
+        {
+          "megnevezes": "CUKOR IKG",
+          "osszeg": "444",
+          "sor": 7
+        },
+        {
+          "megnevezes": "BANAN IKG",
+          "osszeg": "731",
+          "sor": 8
+        },
+        {
+          "megnevezes": "ASVANYVIZ 1, 51",
+          "osszeg": "205",
+          "sor": 9
+        },
+        {
+          "megnevezes": "UDIIO 21",
+          "osszeg": "768",
+          "sor": 10
+        },
+        {
+          "megnevezes": "KAVE 250G",
+          "osszeg": "4718",
+          "sor": 12
+        },
+        {
+          "megnevezes": "JOGHURI NATUR",
+          "osszeg": "253",
+          "sor": 13
+        }
+      ]
+    },
+    "parsed": {
+      "uzlet_nev": "NEMES ABC BI",
+      "uzlet_cim": "H-9196 Mindszenthalas, Kossuth utca 183",
+      "adoszam": "66820527-2-38",
+      "datum": "2025-03-19",
+      "ido": "08:39",
+      "nyugtaszam": "4596/72850",
+      "fizetesi_mod": "BANKKÁRTYA",
+      "vegosszeg": 8863.0,
+      "tetelek": [
+        1298.0,
+        446.0,
+        444.0,
+        731.0,
+        205.0,
+        768.0,
+        4718.0,
+        253.0
+      ]
+    },
+    "checks": [
+      {
+        "field": "adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "vegosszeg",
+        "level": "ok",
+        "message": "A tételek összege egyezik a végösszeggel."
+      }
+    ],
+    "status": "ok",
+    "timings": {
+      "betoltes": 0.008,
+      "elofeldolgozas": 0.037,
+      "M1_tipus": 0.007,
+      "M2_ocr": 0.68,
+      "M3_kinyeres": 8.674,
+      "ellenorzes": 0.001
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": 0.25,
+      "eredeti_meret": [
+        592,
+        721
+      ],
+      "meret": [
+        595,
+        723
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\oneletrajz_foto.jpg",
+    "doc_type": "oneletrajz",
+    "type_probs": {
+      "szamla": 0.0175,
+      "nyugta": 0.033,
+      "level": 0.0422,
+      "oneletrajz": 0.8762,
+      "urlap": 0.0312
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "alap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "RHETOSEG | Tóth Balázs",
+        "bbox": [
+          0,
+          87,
+          491,
+          129
+        ],
+        "confidence": 0.7561
+      },
+      {
+        "id": 2,
+        "text": "04",
+        "bbox": [
+          0,
+          130,
+          21,
+          145
+        ],
+        "confidence": 0.5203
+      },
+      {
+        "id": 3,
+        "text": "1belanocramde h | Onéletrajz",
+        "bbox": [
+          0,
+          147,
+          404,
+          180
+        ],
+        "confidence": 0.2713
+      },
+      {
+        "id": 4,
+        "text": "lon",
+        "bbox": [
+          0,
+          179,
+          30,
+          195
+        ],
+        "confidence": 0.613
+      },
+      {
+        "id": 5,
+        "text": "'807779869",
+        "bbox": [
+          0,
+          195,
+          82,
+          214
+        ],
+        "confidence": 0.4146
+      },
+      {
+        "id": 6,
+        "text": "Iim | Szakmai tapasztalat",
+        "bbox": [
+          0,
+          208,
+          484,
+          242
+        ],
+        "confidence": 0.8507
+      },
+      {
+        "id": 7,
+        "text": "283 Topolcanadasd Srobadsegutce 240 | 2024 = 2025",
+        "bbox": [
+          0,
+          241,
+          404,
+          274
+        ],
+        "confidence": 0.3301
+      },
+      {
+        "id": 8,
+        "text": "Jleted dotum | Junior elleszto -~ Sandor BL",
+        "bbox": [
+          0,
+          272,
+          516,
+          299
+        ],
+        "confidence": 0.1942
+      },
+      {
+        "id": 9,
+        "text": "99 1122",
+        "bbox": [
+          0,
+          292,
+          56,
+          309
+        ],
+        "confidence": 0.5811
+      },
+      {
+        "id": 10,
+        "text": "2021 2024",
+        "bbox": [
+          318,
+          311,
+          405,
+          329
+        ],
+        "confidence": 0.6991
+      },
+      {
+        "id": 11,
+        "text": "Irodavezetó _ Toth Szolcaltato BL",
+        "bbox": [
+          317,
+          330,
+          559,
+          354
+        ],
+        "confidence": 0.2465
+      },
+      {
+        "id": 12,
+        "text": "Yelvtudas",
+        "bbox": [
+          0,
+          343,
+          91,
+          367
+        ],
+        "confidence": 0.3406
+      },
+      {
+        "id": 13,
+        "text": "Panyol (01) | Tanulmányok",
+        "bbox": [
+          0,
+          375,
+          438,
+          401
+        ],
+        "confidence": 0.6436
+      },
+      {
+        "id": 14,
+        "text": "ÉsZSEGEK | 2017= 2021",
+        "bbox": [
+          0,
+          418,
+          407,
+          449
+        ],
+        "confidence": 0.28
+      },
+      {
+        "id": 15,
+        "text": "Obudal Ecyetem",
+        "bbox": [
+          321,
+          436,
+          443,
+          462
+        ],
+        "confidence": 0.5809
+      },
+      {
+        "id": 16,
+        "text": "oaa | mernokinformatikus BSc",
+        "bbox": [
+          0,
+          458,
+          494,
+          481
+        ],
+        "confidence": 0.5782
+      },
+      {
+        "id": 17,
+        "text": "nus",
+        "bbox": [
+          0,
+          485,
+          30,
+          502
+        ],
+        "confidence": 0.1415
+      },
+      {
+        "id": 18,
+        "text": "2013 = 2017",
+        "bbox": [
+          322,
+          495,
+          409,
+          513
+        ],
+        "confidence": 0.598
+      },
+      {
+        "id": 19,
+        "text": "rezentado | Arany Janos Glmnazium",
+        "bbox": [
+          0,
+          506,
+          495,
+          539
+        ],
+        "confidence": 0.7076
+      },
+      {
+        "id": 20,
+        "text": "Intormatika tabozat",
+        "bbox": [
+          323,
+          536,
+          464,
+          559
+        ],
+        "confidence": 0.1955
+      },
+      {
+        "id": 21,
+        "text": "nP",
+        "bbox": [
+          0,
+          552,
+          23,
+          571
+        ],
+        "confidence": 0.2382
+      }
+    ],
+    "fields": {
+      "nev": {
+        "ertek": "Tóth Balázs",
+        "sor": 1
+      },
+      "email": {
+        "ertek": null,
+        "sor": null
+      },
+      "telefon": {
+        "ertek": "04",
+        "sor": 2
+      },
+      "lakcim": {
+        "ertek": "1belanocramde h",
+        "sor": 7
+      },
+      "szuletesi_datum": {
+        "ertek": null,
+        "sor": null
+      },
+      "tanulmanyok": [
+        {
+          "intezmeny": "Obudai Egyetem",
+          "szak": "mernök informatikus BSc",
+          "idoszak": "2013 = 2017",
+          "sor": 15
+        },
+        {
+          "intezmeny": "Arany János Gimnázium",
+          "szak": "információ tájékoztató",
+          "idoszak": "2017 = 2021",
+          "sor": 19
+        }
+      ],
+      "munkahelyek": [
+        {
+          "ceg": "Topolcanadasd Srobadsegutce",
+          "pozicio": "Junior ellenőr",
+          "idoszak": "2024 = 2025",
+          "sor": 7
+        },
+        {
+          "ceg": "Toth Szolcaltato BL",
+          "pozicio": "Irodavezető",
+          "idoszak": null,
+          "sor": 11
+        }
+      ],
+      "nyelvek": [
+        "Panyol (01)"
+      ],
+      "keszsegek": [
+        "Szakmai tapasztalat",
+        "Irodavezető",
+        "Junior ellenőr"
+      ]
+    },
+    "parsed": {
+      "nev": "Tóth Balázs",
+      "telefon": "04",
+      "lakcim": "1belanocramde h"
+    },
+    "checks": [
+      {
+        "field": "dokumentum",
+        "level": "figyelmeztetes",
+        "message": "Gyenge képminőség: az átlagos OCR-konfidencia 0.47, ezért a kinyert adatok megbízhatatlanok lehetnek. Érdemes élesebb, jobban megvilágított fotót készíteni."
+      },
+      {
+        "field": "telefon",
+        "level": "figyelmeztetes",
+        "message": "Szokatlan formátumú telefonszám."
+      }
+    ],
+    "status": "figyelmeztetes",
+    "timings": {
+      "betoltes": 0.02,
+      "elofeldolgozas": 0.065,
+      "M1_tipus": 0.01,
+      "M2_ocr": 0.636,
+      "M3_kinyeres": 17.36,
+      "ellenorzes": 0.0
+    },
+    "preprocessing": {
+      "perspektiva_javitva": true,
+      "dolesszog": 0.25,
+      "eredeti_meret": [
+        1318,
+        1716
+      ],
+      "meret": [
+        965,
+        1486
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\oneletrajz_szkennelt.png",
+    "doc_type": "oneletrajz",
+    "type_probs": {
+      "szamla": 0.026,
+      "nyugta": 0.0268,
+      "level": 0.0418,
+      "oneletrajz": 0.8784,
+      "urlap": 0.027
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "alap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "Oláh Mária",
+        "bbox": [
+          507,
+          123,
+          781,
+          185
+        ],
+        "confidence": 0.9944
+      },
+      {
+        "id": 2,
+        "text": "Önéletrajz",
+        "bbox": [
+          579,
+          196,
+          710,
+          236
+        ],
+        "confidence": 0.9995
+      },
+      {
+        "id": 3,
+        "text": "E-mail: | olah.maria@gmail .com",
+        "bbox": [
+          110,
+          254,
+          578,
+          282
+        ],
+        "confidence": 0.6492
+      },
+      {
+        "id": 4,
+        "text": "Telefon: | +36 20 795 9333",
+        "bbox": [
+          110,
+          286,
+          526,
+          314
+        ],
+        "confidence": 0.895
+      },
+      {
+        "id": 5,
+        "text": "Lakcím: | H-7283 Hídfa, Ady endre út 166.",
+        "bbox": [
+          110,
+          315,
+          674,
+          348
+        ],
+        "confidence": 0.9178
+      },
+      {
+        "id": 6,
+        "text": "Születési dátum: 1981. október 7",
+        "bbox": [
+          110,
+          350,
+          512,
+          376
+        ],
+        "confidence": 0.9993
+      },
+      {
+        "id": 7,
+        "text": "Szakmai tapasztalat",
+        "bbox": [
+          109,
+          402,
+          385,
+          439
+        ],
+        "confidence": 0.9998
+      },
+      {
+        "id": 8,
+        "text": "2007 2011",
+        "bbox": [
+          110,
+          454,
+          236,
+          480
+        ],
+        "confidence": 0.9922
+      },
+      {
+        "id": 9,
+        "text": "projektmenedzser Bogdán Zrt.",
+        "bbox": [
+          110,
+          480,
+          490,
+          512
+        ],
+        "confidence": 0.9185
+      },
+      {
+        "id": 10,
+        "text": "2003 - 2007",
+        "bbox": [
+          110,
+          522,
+          238,
+          548
+        ],
+        "confidence": 0.6331
+      },
+      {
+        "id": 11,
+        "text": "junior fejlesztó Varga Logisztika Kft.",
+        "bbox": [
+          108,
+          546,
+          562,
+          579
+        ],
+        "confidence": 0.8169
+      },
+      {
+        "id": 12,
+        "text": "Tanulmányok",
+        "bbox": [
+          109,
+          599,
+          299,
+          635
+        ],
+        "confidence": 0.9993
+      },
+      {
+        "id": 13,
+        "text": "1999 2003",
+        "bbox": [
+          110,
+          652,
+          238,
+          678
+        ],
+        "confidence": 1.0
+      },
+      {
+        "id": 14,
+        "text": "Corvinus Egyetem",
+        "bbox": [
+          110,
+          678,
+          324,
+          708
+        ],
+        "confidence": 0.5523
+      },
+      {
+        "id": 15,
+        "text": "pénzügy MSc",
+        "bbox": [
+          110,
+          704,
+          244,
+          732
+        ],
+        "confidence": 0.9977
+      },
+      {
+        "id": 16,
+        "text": "1995 1999",
+        "bbox": [
+          110,
+          746,
+          238,
+          772
+        ],
+        "confidence": 0.8089
+      },
+      {
+        "id": 17,
+        "text": "Bolyai János Gimnázium",
+        "bbox": [
+          112,
+          772,
+          398,
+          802
+        ],
+        "confidence": 0.8806
+      },
+      {
+        "id": 18,
+        "text": "informatika tagozat",
+        "bbox": [
+          110,
+          798,
+          306,
+          826
+        ],
+        "confidence": 0.9987
+      },
+      {
+        "id": 19,
+        "text": "Nyelvtudás",
+        "bbox": [
+          110,
+          848,
+          265,
+          887
+        ],
+        "confidence": 0.9992
+      },
+      {
+        "id": 20,
+        "text": "spanyol (B1)",
+        "bbox": [
+          108,
+          901,
+          240,
+          933
+        ],
+        "confidence": 0.9943
+      },
+      {
+        "id": 21,
+        "text": "Készségek",
+        "bbox": [
+          111,
+          949,
+          255,
+          987
+        ],
+        "confidence": 1.0
+      },
+      {
+        "id": 22,
+        "text": "SQL, csapatmunka, Python, Docker , prezentáció , projektmenedzsment",
+        "bbox": [
+          110,
+          1000,
+          804,
+          1032
+        ],
+        "confidence": 0.7571
+      }
+    ],
+    "fields": {
+      "nev": {
+        "ertek": "Oláh Mária",
+        "sor": 1
+      },
+      "email": {
+        "ertek": "olah.maria@gmail .com",
+        "sor": 3
+      },
+      "telefon": {
+        "ertek": "+36 20 795 9333",
+        "sor": 4
+      },
+      "lakcim": {
+        "ertek": "H-7283 Hídfa, Ady endre út 166.",
+        "sor": 5
+      },
+      "szuletesi_datum": {
+        "ertek": "1981. október 7",
+        "sor": 6
+      },
+      "tanulmanyok": [
+        {
+          "intezmeny": "Corvinus Egyetem",
+          "szak": "pénzügy",
+          "idoszak": "2003 - 2007",
+          "sor": 14
+        },
+        {
+          "intezmeny": "Bolyai János Gimnázium",
+          "szak": "informatika",
+          "idoszak": "1995 - 1999",
+          "sor": 17
+        }
+      ],
+      "munkahelyek": [
+        {
+          "ceg": "Bogdán Zrt.",
+          "pozicio": "projektmenedzser",
+          "idoszak": "2007 - 2011",
+          "sor": 9
+        },
+        {
+          "ceg": "Varga Logisztika Kft.",
+          "pozicio": "junior fejlesztő",
+          "idoszak": "2003 - 2007",
+          "sor": 10
+        }
+      ],
+      "nyelvek": [
+        "spanyol (B1)",
+        "sor: 20"
+      ],
+      "keszsegek": [
+        "SQL",
+        "csapatmunka",
+        "Python",
+        "Docker",
+        "prezentáció",
+        "projektmenedzsment",
+        "sor: 22"
+      ]
+    },
+    "parsed": {
+      "nev": "Oláh Mária",
+      "email": "olah.maria@gmail .com",
+      "telefon": "+36 20 795 9333",
+      "lakcim": "H-7283 Hídfa, Ady endre út 166.",
+      "szuletesi_datum": "1981-10-07"
+    },
+    "checks": [
+      {
+        "field": "email",
+        "level": "ok",
+        "message": "Az e-mail-cím formátuma helyes."
+      },
+      {
+        "field": "telefon",
+        "level": "ok",
+        "message": "A telefonszám formátuma helyes."
+      }
+    ],
+    "status": "ok",
+    "timings": {
+      "betoltes": 0.037,
+      "elofeldolgozas": 0.063,
+      "M1_tipus": 0.013,
+      "M2_ocr": 0.715,
+      "M3_kinyeres": 8.043,
+      "ellenorzes": 0.0
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": 0.75,
+      "eredeti_meret": [
+        1264,
+        1770
+      ],
+      "meret": [
+        1287,
+        1786
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\szamla_digitalis.pdf",
+    "doc_type": "szamla",
+    "type_probs": {
+      "szamla": 0.933,
+      "nyugta": 0.0199,
+      "level": 0.0144,
+      "oneletrajz": 0.0184,
+      "urlap": 0.0142
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "tablazat",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "KOCSIS | Számla",
+        "bbox": [
+          191,
+          169,
+          1514,
+          231
+        ],
+        "confidence": 0.9986
+      },
+      {
+        "id": 2,
+        "text": "Sorszám: KFT-2024/05210",
+        "bbox": [
+          1124,
+          243,
+          1515,
+          283
+        ],
+        "confidence": 0.6413
+      },
+      {
+        "id": 3,
+        "text": "Vevó: | Eladó:",
+        "bbox": [
+          142,
+          350,
+          941,
+          390
+        ],
+        "confidence": 0.9997
+      },
+      {
+        "id": 4,
+        "text": "Katona és Társa Bt | Kocsis Logisztika Zrt.",
+        "bbox": [
+          142,
+          399,
+          1169,
+          444
+        ],
+        "confidence": 0.8973
+      },
+      {
+        "id": 5,
+        "text": "H-7460 Felsókeresztháza, Dózsa györgy utca H-3185 Tapolcadevecser, Mindszentvégi utca 4.",
+        "bbox": [
+          142,
+          437,
+          1485,
+          488
+        ],
+        "confidence": 0.6331
+      },
+      {
+        "id": 6,
+        "text": "148. | Adószám: 58861938-2-32",
+        "bbox": [
+          143,
+          485,
+          1182,
+          525
+        ],
+        "confidence": 0.997
+      },
+      {
+        "id": 7,
+        "text": "Adószám: 43688287-2-19",
+        "bbox": [
+          142,
+          527,
+          488,
+          564
+        ],
+        "confidence": 0.7788
+      },
+      {
+        "id": 8,
+        "text": "Kiállítás dátuma | Teljesítés dátuma | Fizetési határidó | Fizetési mód",
+        "bbox": [
+          140,
+          615,
+          1327,
+          655
+        ],
+        "confidence": 0.7964
+      },
+      {
+        "id": 9,
+        "text": "2024-07-04 | 2024-06-30 | 2024-08-03 | bankkártya",
+        "bbox": [
+          139,
+          651,
+          1312,
+          699
+        ],
+        "confidence": 0.7825
+      },
+      {
+        "id": 10,
+        "text": "Megnevezés | Menny. | Egységár Nettó ÁFA% ÁFA Bruttó",
+        "bbox": [
+          143,
+          720,
+          1511,
+          764
+        ],
+        "confidence": 0.978
+      },
+      {
+        "id": 11,
+        "text": "Nyomtatópapír A4 500 lap | 10 csomag | 2 920 | 29 200 27% 7 884 37 084",
+        "bbox": [
+          142,
+          778,
+          1511,
+          822
+        ],
+        "confidence": 0.9117
+      },
+      {
+        "id": 12,
+        "text": "Szállítási díj | 1 alkalom | 2 730 | 2 730 27% | 737 | 3 467",
+        "bbox": [
+          139,
+          828,
+          1509,
+          865
+        ],
+        "confidence": 0.9411
+      },
+      {
+        "id": 13,
+        "text": "Nettó összesen: | 31 930 Ft",
+        "bbox": [
+          841,
+          905,
+          1512,
+          946
+        ],
+        "confidence": 0.9493
+      },
+      {
+        "id": 14,
+        "text": "ÁFA összesen: | 8 621 Ft",
+        "bbox": [
+          865,
+          953,
+          1512,
+          993
+        ],
+        "confidence": 0.9626
+      },
+      {
+        "id": 15,
+        "text": "Fizetendó összesen: | 40 551 Ft",
+        "bbox": [
+          761,
+          1002,
+          1515,
+          1042
+        ],
+        "confidence": 0.9457
+      },
+      {
+        "id": 16,
+        "text": "Bankszámlaszám: HU47 2855 6899 8329 8222 9004 4227",
+        "bbox": [
+          139,
+          1093,
+          884,
+          1130
+        ],
+        "confidence": 0.8368
+      },
+      {
+        "id": 17,
+        "text": "Köszönjük hogy minket választott!",
+        "bbox": [
+          637,
+          2159,
+          1015,
+          2202
+        ],
+        "confidence": 0.9836
+      }
+    ],
+    "fields": {
+      "szamlaszam": {
+        "ertek": "KFT-2024/05210",
+        "sor": 2
+      },
+      "kiallitas_datuma": {
+        "ertek": "2024-07-04",
+        "sor": 9
+      },
+      "teljesites_datuma": {
+        "ertek": "2024-06-30",
+        "sor": 9
+      },
+      "fizetesi_hatarido": {
+        "ertek": "2024-08-03",
+        "sor": 9
+      },
+      "elado_nev": {
+        "ertek": "Kocsis Logisztika Zrt.",
+        "sor": 4
+      },
+      "elado_cim": {
+        "ertek": "H-7460 Felsókeresztháza, Dózsa györgy utca H-3460 Felsókeresztháza, Dózsa györgy utca H-3185 Tapolcadevecser, Mindszentvégi utca 4.",
+        "sor": 5
+      },
+      "elado_adoszam": {
+        "ertek": "43688287-2-19",
+        "sor": 6
+      },
+      "vevo_nev": {
+        "ertek": "Katona és Társa Bt",
+        "sor": 4
+      },
+      "vevo_cim": {
+        "ertek": "H-7460 Felsókeresztháza, Dózsa györgy utca H-3185 Tapolcadevecser, Mindszentvégi utca 4.",
+        "sor": 5
+      },
+      "vevo_adoszam": {
+        "ertek": "58861938-2-32",
+        "sor": 6
+      },
+      "bankszamla": {
+        "ertek": "HU47 2855 6899 8329 8222 9004 4227",
+        "sor": 16
+      },
+      "fizetesi_mod": {
+        "ertek": "bankkártya",
+        "sor": 9
+      },
+      "netto_osszesen": {
+        "ertek": "31930",
+        "sor": 13
+      },
+      "afa_osszesen": {
+        "ertek": "8621",
+        "sor": 14
+      },
+      "brutto_osszesen": {
+        "ertek": "40551",
+        "sor": 15
+      },
+      "tetelek": [
+        {
+          "megnevezes": "Nyomtatópapír A4 500 lap",
+          "mennyiseg": "10 csomag",
+          "egysegar": "2 920",
+          "netto": "29 200",
+          "afa_kulcs": "27%",
+          "afa": "7 884",
+          "brutto": "37 084",
+          "sor": 11
+        },
+        {
+          "megnevezes": "Szállítási díj",
+          "mennyiseg": "1 alkalom",
+          "egysegar": "2730",
+          "netto": "2730",
+          "afa_kulcs": "27%",
+          "afa": "737",
+          "brutto": "3467",
+          "sor": 12
+        }
+      ]
+    },
+    "parsed": {
+      "szamlaszam": "KFT-2024/05210",
+      "kiallitas_datuma": "2024-07-04",
+      "teljesites_datuma": "2024-06-30",
+      "fizetesi_hatarido": "2024-08-03",
+      "elado_nev": "Kocsis Logisztika Zrt.",
+      "elado_cim": "H-7460 Felsókeresztháza, Dózsa györgy utca H-3460 Felsókeresztháza, Dózsa györgy utca H-3185 Tapolcadevecser, Mindszentvégi utca 4.",
+      "elado_adoszam": "43688287-2-19",
+      "vevo_nev": "Katona és Társa Bt",
+      "vevo_cim": "H-7460 Felsókeresztháza, Dózsa györgy utca H-3185 Tapolcadevecser, Mindszentvégi utca 4.",
+      "vevo_adoszam": "58861938-2-32",
+      "bankszamla": "HU47 2855 6899 8329 8222 9004 4227",
+      "fizetesi_mod": "bankkártya",
+      "netto_osszesen": 31930.0,
+      "afa_osszesen": 8621.0,
+      "brutto_osszesen": 40551.0,
+      "tetelek": [
+        {
+          "egysegar": 2920.0,
+          "netto": 29200.0,
+          "afa": 7884.0,
+          "brutto": 37084.0,
+          "mennyiseg": 10.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 2730.0,
+          "netto": 2730.0,
+          "afa": 737.0,
+          "brutto": 3467.0,
+          "mennyiseg": 1.0,
+          "afa_kulcs": 27.0
+        }
+      ]
+    },
+    "checks": [
+      {
+        "field": "elado_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "vevo_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "bankszamla",
+        "level": "ok",
+        "message": "Az IBAN ellenőrző összege helyes."
+      },
+      {
+        "field": "tetelek[1]",
+        "level": "figyelmeztetes",
+        "message": "A tétel számai az aritmetikai összefüggések alapján a forrássorból javítva (netto: 31930 → 29 200)."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "ok",
+        "message": "Nettó + ÁFA = bruttó végösszeg."
+      },
+      {
+        "field": "netto_osszesen",
+        "level": "ok",
+        "message": "A tételek netto értékeinek összege egyezik."
+      },
+      {
+        "field": "afa_osszesen",
+        "level": "ok",
+        "message": "A tételek afa értékeinek összege egyezik."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "ok",
+        "message": "A tételek brutto értékeinek összege egyezik."
+      },
+      {
+        "field": "fizetesi_hatarido",
+        "level": "ok",
+        "message": "A fizetési határidő a kiállítás után van."
+      }
+    ],
+    "status": "figyelmeztetes",
+    "timings": {
+      "betoltes": 0.588,
+      "elofeldolgozas": 0.053,
+      "M1_tipus": 0.017,
+      "M2_ocr": 0.993,
+      "M3_kinyeres": 12.794,
+      "ellenorzes": 0.002
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": 0.0,
+      "eredeti_meret": [
+        1654,
+        2339
+      ],
+      "meret": [
+        1654,
+        2339
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\szamla_foto.jpg",
+    "doc_type": "szamla",
+    "type_probs": {
+      "szamla": 0.9086,
+      "nyugta": 0.021,
+      "level": 0.0178,
+      "oneletrajz": 0.031,
+      "urlap": 0.0216
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "tablazat",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "SZÁMLA",
+        "bbox": [
+          491,
+          83,
+          631,
+          125
+        ],
+        "confidence": 0.9999
+      },
+      {
+        "id": 2,
+        "text": "Számla sorszama: A-2026/07227",
+        "bbox": [
+          419,
+          140,
+          700,
+          164
+        ],
+        "confidence": 0.5527
+      },
+      {
+        "id": 3,
+        "text": "Elado: | Vevo:",
+        "bbox": [
+          94,
+          208,
+          626,
+          233
+        ],
+        "confidence": 0.6328
+      },
+      {
+        "id": 4,
+        "text": "Kovacs Trade Kit. | Balogh és Iarsa Zrt.",
+        "bbox": [
+          94,
+          238,
+          741,
+          265
+        ],
+        "confidence": 0.2734
+      },
+      {
+        "id": 5,
+        "text": "H-9139 ZalacgerszegBckeskereszti utca 21 | H-2417 Raclurdovara, Hajduhati ter 238",
+        "bbox": [
+          94,
+          266,
+          884,
+          294
+        ],
+        "confidence": 0.5159
+      },
+      {
+        "id": 6,
+        "text": "Adoszam: 27075362-2-25 | Adoszam: 66815183-3-20",
+        "bbox": [
+          94,
+          291,
+          776,
+          316
+        ],
+        "confidence": 0.6385
+      },
+      {
+        "id": 7,
+        "text": "Klallitas datuma: | 2026msjus 11",
+        "bbox": [
+          94,
+          349,
+          494,
+          372
+        ],
+        "confidence": 0.7185
+      },
+      {
+        "id": 8,
+        "text": "Teljesites datuma: | 2026 majus 7",
+        "bbox": [
+          94,
+          376,
+          483,
+          400
+        ],
+        "confidence": 0.6076
+      },
+      {
+        "id": 9,
+        "text": "Flzetes hatarido: | 2026.junius 10.",
+        "bbox": [
+          94,
+          402,
+          498,
+          427
+        ],
+        "confidence": 0.6361
+      },
+      {
+        "id": 10,
+        "text": "Flzetesi mod: | keszpenz",
+        "bbox": [
+          94,
+          430,
+          443,
+          455
+        ],
+        "confidence": 0.6217
+      },
+      {
+        "id": 11,
+        "text": "Menpy | cysecer | Nonto Aax | afa | Oruno",
+        "bbox": [
+          466,
+          464,
+          1030,
+          489
+        ],
+        "confidence": 0.2158
+      },
+      {
+        "id": 12,
+        "text": "Domain (Coutfacio | do | 4000 | 6000 13 | 2160 | 10160",
+        "bbox": [
+          95,
+          500,
+          1029,
+          524
+        ],
+        "confidence": 0.3237
+      },
+      {
+        "id": 13,
+        "text": "Irodevce(omeg | 10d | 7010 | 70200 27 18834 | 69154",
+        "bbox": [
+          96,
+          529,
+          1029,
+          552
+        ],
+        "confidence": 0.3371
+      },
+      {
+        "id": 14,
+        "text": "Soliey | ioghelom | 400 | 480o 278 41061 | 86701",
+        "bbox": [
+          96,
+          556,
+          1029,
+          581
+        ],
+        "confidence": 0.142
+      },
+      {
+        "id": 15,
+        "text": "'beres | 107 | 28430 | 84140o 27 02176 | 318/8",
+        "bbox": [
+          175,
+          586,
+          1028,
+          609
+        ],
+        "confidence": 0.3483
+      },
+      {
+        "id": 16,
+        "text": "mSoolp | Jcomeg | 2620 | 81440 7 | 8440 | 09020",
+        "bbox": [
+          199,
+          617,
+          1029,
+          641
+        ],
+        "confidence": 0.2333
+      },
+      {
+        "id": 17,
+        "text": "Montor2u | d0 | 126830 | 360530 270 102 746 481290",
+        "bbox": [
+          98,
+          645,
+          1029,
+          667
+        ],
+        "confidence": 0.2577
+      },
+      {
+        "id": 18,
+        "text": "Netto osszesen: | 875 890 Ft",
+        "bbox": [
+          594,
+          692,
+          1032,
+          716
+        ],
+        "confidence": 0.4551
+      },
+      {
+        "id": 19,
+        "text": "FAfA osszcsen: | 23649061",
+        "bbox": [
+          605,
+          719,
+          1032,
+          747
+        ],
+        "confidence": 0.3345
+      },
+      {
+        "id": 20,
+        "text": "Vegosszee: | 112380f(",
+        "bbox": [
+          633,
+          754,
+          1029,
+          778
+        ],
+        "confidence": 0.2546
+      },
+      {
+        "id": 21,
+        "text": "Bankszamloszam 72940552-76169871-68976841",
+        "bbox": [
+          95,
+          808,
+          468,
+          831
+        ],
+        "confidence": 0.4399
+      },
+      {
+        "id": 22,
+        "text": "NC",
+        "bbox": [
+          537,
+          1400,
+          557,
+          1413
+        ],
+        "confidence": 0.4464
+      }
+    ],
+    "fields": {
+      "szamlaszam": {
+        "ertek": "A-2026/07227",
+        "sor": 2
+      },
+      "kiallitas_datuma": {
+        "ertek": "2026-07-11",
+        "sor": 7
+      },
+      "teljesites_datuma": {
+        "ertek": "2026-05-07",
+        "sor": 8
+      },
+      "fizetesi_hatarido": {
+        "ertek": "2026-06-10",
+        "sor": 9
+      },
+      "elado_nev": {
+        "ertek": "Kovacs Trade Kit.",
+        "sor": 4
+      },
+      "elado_cim": {
+        "ertek": "H-9139 Zalacgerszeg Bckeskereszti utca 21",
+        "sor": 5
+      },
+      "elado_adoszam": {
+        "ertek": "27075362-2-25",
+        "sor": 6
+      },
+      "vevo_nev": {
+        "ertek": "Balogh és Iarsa Zrt.",
+        "sor": 4
+      },
+      "vevo_cim": {
+        "ertek": "H-2417 Raclurdovara, Hajduhati ter 238",
+        "sor": 5
+      },
+      "vevo_adoszam": {
+        "ertek": "66815183-3-20",
+        "sor": 6
+      },
+      "bankszamla": {
+        "ertek": "72940552-76169871-68976841",
+        "sor": 21
+      },
+      "fizetesi_mod": {
+        "ertek": "keszpenz",
+        "sor": 10
+      },
+      "netto_osszesen": {
+        "ertek": "875890 Ft",
+        "sor": 18
+      },
+      "afa_osszesen": {
+        "ertek": "23649061",
+        "sor": 19
+      },
+      "brutto_osszesen": {
+        "ertek": "112380 Ft",
+        "sor": 20
+      },
+      "tetelek": [
+        {
+          "megnevezes": "Domain (Coutfacio",
+          "mennyiseg": "d",
+          "egysegar": "d000",
+          "netto": "4000",
+          "afa_kulcs": "600013",
+          "afa": "2160",
+          "brutto": "10160",
+          "sor": 12
+        },
+        {
+          "megnevezes": "Irodevce(omeg",
+          "mennyiseg": "d",
+          "egysegar": "d020",
+          "netto": "7010",
+          "afa_kulcs": "d027",
+          "afa": "18834",
+          "brutto": "69154",
+          "sor": 13
+        },
+        {
+          "megnevezes": "Soley | ioghelom",
+          "mennyiseg": "400",
+          "egysegar": "480o",
+          "netto": "192000",
+          "afa_kulcs": "27",
+          "afa": "86701",
+          "brutto": "278701",
+          "sor": 14
+        },
+        {
+          "megnevezes": "Berese",
+          "mennyiseg": "107",
+          "egysegar": "28430",
+          "netto": "3015010",
+          "afa_kulcs": "27",
+          "afa": "2176",
+          "brutto": "303676",
+          "sor": 15
+        },
+        {
+          "megnevezes": "Motor2u",
+          "mennyiseg": "d",
+          "egysegar": "81440",
+          "netto": "126830",
+          "afa_kulcs": "7",
+          "afa": "8440",
+          "brutto": "135270",
+          "sor": 16
+        },
+        {
+          "megnevezes": "Montor2u",
+          "mennyiseg": "2620",
+          "egysegar": "81440",
+          "netto": "2121280",
+          "afa_kulcs": "7",
+          "afa": "8440",
+          "brutto": "2129720",
+          "sor": 17
+        }
+      ]
+    },
+    "parsed": {
+      "szamlaszam": "A-2026/07227",
+      "kiallitas_datuma": "2026-07-11",
+      "teljesites_datuma": "2026-05-07",
+      "fizetesi_hatarido": "2026-06-10",
+      "elado_nev": "Kovacs Trade Kit.",
+      "elado_cim": "H-9139 Zalacgerszeg Bckeskereszti utca 21",
+      "elado_adoszam": "27075362-2-25",
+      "vevo_nev": "Balogh és Iarsa Zrt.",
+      "vevo_cim": "H-2417 Raclurdovara, Hajduhati ter 238",
+      "vevo_adoszam": "66815183-3-20",
+      "bankszamla": "72940552-76169871-68976841",
+      "fizetesi_mod": "keszpenz",
+      "netto_osszesen": 875890.0,
+      "afa_osszesen": 23649061.0,
+      "brutto_osszesen": 112380.0,
+      "tetelek": [
+        {
+          "egysegar": 0.0,
+          "netto": 4000.0,
+          "afa": 2160.0,
+          "brutto": 10160.0,
+          "mennyiseg": null,
+          "afa_kulcs": 600013.0
+        },
+        {
+          "egysegar": 20.0,
+          "netto": 7010.0,
+          "afa": 18834.0,
+          "brutto": 69154.0,
+          "mennyiseg": null,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 480.0,
+          "netto": 192000.0,
+          "afa": 86701.0,
+          "brutto": 278701.0,
+          "mennyiseg": 400.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 28430.0,
+          "netto": 3015010.0,
+          "afa": 2176.0,
+          "brutto": 303676.0,
+          "mennyiseg": 107.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 81440.0,
+          "netto": 126830.0,
+          "afa": 8440.0,
+          "brutto": 135270.0,
+          "mennyiseg": null,
+          "afa_kulcs": 7.0
+        },
+        {
+          "egysegar": 81440.0,
+          "netto": 2121280.0,
+          "afa": 8440.0,
+          "brutto": 2129720.0,
+          "mennyiseg": 2620.0,
+          "afa_kulcs": 7.0
+        }
+      ]
+    },
+    "checks": [
+      {
+        "field": "dokumentum",
+        "level": "figyelmeztetes",
+        "message": "Gyenge képminőség: az átlagos OCR-konfidencia 0.45, ezért a kinyert adatok megbízhatatlanok lehetnek. Érdemes élesebb, jobban megvilágított fotót készíteni."
+      },
+      {
+        "field": "kiallitas_datuma",
+        "level": "figyelmeztetes",
+        "message": "Az érték nem található a felismert szövegben (lehetséges hallucináció vagy OCR-hiba)."
+      },
+      {
+        "field": "teljesites_datuma",
+        "level": "figyelmeztetes",
+        "message": "Az érték nem található a felismert szövegben (lehetséges hallucináció vagy OCR-hiba)."
+      },
+      {
+        "field": "fizetesi_hatarido",
+        "level": "figyelmeztetes",
+        "message": "Az érték nem található a felismert szövegben (lehetséges hallucináció vagy OCR-hiba)."
+      },
+      {
+        "field": "elado_nev",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.27)."
+      },
+      {
+        "field": "vevo_nev",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.27)."
+      },
+      {
+        "field": "bankszamla",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.44)."
+      },
+      {
+        "field": "netto_osszesen",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.46)."
+      },
+      {
+        "field": "afa_osszesen",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.33)."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.25)."
+      },
+      {
+        "field": "tetelek[4]",
+        "level": "figyelmeztetes",
+        "message": "A tétel megnevezése nem található a szövegben: Berese"
+      },
+      {
+        "field": "elado_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "vevo_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "bankszamla",
+        "level": "ok",
+        "message": "A bankszámlaszám ellenőrző számjegyei helyesek."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "hiba",
+        "message": "Nettó + ÁFA (24,524,951) ≠ bruttó végösszeg (112,380), eltérés: 24,412,571."
+      },
+      {
+        "field": "tetelek[1]",
+        "level": "hiba",
+        "message": "Nem létező ÁFA-kulcs: 600013"
+      },
+      {
+        "field": "tetelek[1]",
+        "level": "hiba",
+        "message": "A tétel ÁFA-összege (2,160) nem egyezik a nettó × kulcs értékkel (24,000,520)."
+      },
+      {
+        "field": "tetelek[1]",
+        "level": "hiba",
+        "message": "A tétel nettó + ÁFA összege nem egyezik a bruttóval."
+      },
+      {
+        "field": "tetelek[2]",
+        "level": "hiba",
+        "message": "A tétel ÁFA-összege (18,834) nem egyezik a nettó × kulcs értékkel (1,893)."
+      },
+      {
+        "field": "tetelek[2]",
+        "level": "hiba",
+        "message": "A tétel nettó + ÁFA összege nem egyezik a bruttóval."
+      },
+      {
+        "field": "tetelek[3]",
+        "level": "hiba",
+        "message": "A tétel ÁFA-összege (86,701) nem egyezik a nettó × kulcs értékkel (51,840)."
+      },
+      {
+        "field": "tetelek[4]",
+        "level": "hiba",
+        "message": "A tétel ÁFA-összege (2,176) nem egyezik a nettó × kulcs értékkel (814,053)."
+      },
+      {
+        "field": "tetelek[4]",
+        "level": "hiba",
+        "message": "A tétel nettó + ÁFA összege nem egyezik a bruttóval."
+      },
+      {
+        "field": "tetelek[4]",
+        "level": "hiba",
+        "message": "Mennyiség × egységár ≠ nettó érték."
+      },
+      {
+        "field": "tetelek[5]",
+        "level": "hiba",
+        "message": "Nem létező ÁFA-kulcs: 7"
+      },
+      {
+        "field": "tetelek[5]",
+        "level": "hiba",
+        "message": "A tétel ÁFA-összege (8,440) nem egyezik a nettó × kulcs értékkel (8,878)."
+      },
+      {
+        "field": "tetelek[6]",
+        "level": "hiba",
+        "message": "Nem létező ÁFA-kulcs: 7"
+      },
+      {
+        "field": "tetelek[6]",
+        "level": "hiba",
+        "message": "A tétel ÁFA-összege (8,440) nem egyezik a nettó × kulcs értékkel (148,490)."
+      },
+      {
+        "field": "tetelek[6]",
+        "level": "hiba",
+        "message": "Mennyiség × egységár ≠ nettó érték."
+      },
+      {
+        "field": "netto_osszesen",
+        "level": "hiba",
+        "message": "A tételek netto összege (5,466,130) ≠ netto_osszesen (875,890)."
+      },
+      {
+        "field": "afa_osszesen",
+        "level": "hiba",
+        "message": "A tételek afa összege (126,751) ≠ afa_osszesen (23,649,061)."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "hiba",
+        "message": "A tételek brutto összege (2,926,681) ≠ brutto_osszesen (112,380)."
+      },
+      {
+        "field": "fizetesi_hatarido",
+        "level": "hiba",
+        "message": "A fizetési határidő korábbi, mint a kiállítás dátuma."
+      }
+    ],
+    "status": "hiba",
+    "timings": {
+      "betoltes": 0.01,
+      "elofeldolgozas": 0.071,
+      "M1_tipus": 0.01,
+      "M2_ocr": 1.154,
+      "M3_kinyeres": 15.726,
+      "ellenorzes": 0.003
+    },
+    "preprocessing": {
+      "perspektiva_javitva": true,
+      "dolesszog": 0.25,
+      "eredeti_meret": [
+        1369,
+        1818
+      ],
+      "meret": [
+        1127,
+        1505
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\szamla_hibas_foto.jpg",
+    "doc_type": "szamla",
+    "type_probs": {
+      "szamla": 0.9183,
+      "nyugta": 0.0189,
+      "level": 0.0148,
+      "oneletrajz": 0.0278,
+      "urlap": 0.0203
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "tablazat",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "TAMÁS | SZÁMLA / INVOICE",
+        "bbox": [
+          135,
+          98,
+          1164,
+          157
+        ],
+        "confidence": 0.871
+      },
+      {
+        "id": 2,
+        "text": "Sorszám: €-2026/07471",
+        "bbox": [
+          920,
+          162,
+          1160,
+          190
+        ],
+        "confidence": 0.9403
+      },
+      {
+        "id": 3,
+        "text": "Eladó: | Vevó:",
+        "bbox": [
+          96,
+          244,
+          700,
+          270
+        ],
+        "confidence": 0.9842
+      },
+      {
+        "id": 4,
+        "text": "Tamás Tech Zrt. | Tóth Kft.",
+        "bbox": [
+          94,
+          280,
+          728,
+          306
+        ],
+        "confidence": 0.9906
+      },
+      {
+        "id": 5,
+        "text": "H-3646 Kaposvár , Pilismindszenti utca 68. | H-8764 Mindszentvára, Belsótamásii út 204 .",
+        "bbox": [
+          94,
+          310,
+          1044,
+          340
+        ],
+        "confidence": 0.7843
+      },
+      {
+        "id": 6,
+        "text": "Adószám: 84432567-3-38 | Adószám: 65765236-5-32",
+        "bbox": [
+          94,
+          340,
+          876,
+          368
+        ],
+        "confidence": 0.9436
+      },
+      {
+        "id": 7,
+        "text": "Kiállítás dátuma: | 2026.10.18",
+        "bbox": [
+          94,
+          410,
+          510,
+          436
+        ],
+        "confidence": 0.9304
+      },
+      {
+        "id": 8,
+        "text": "Teljesités dátuma: | 2026.10.18",
+        "bbox": [
+          94,
+          442,
+          510,
+          470
+        ],
+        "confidence": 0.8166
+      },
+      {
+        "id": 9,
+        "text": "Fizetési határidó: | 2026.11.17.",
+        "bbox": [
+          96,
+          474,
+          514,
+          500
+        ],
+        "confidence": 0.6464
+      },
+      {
+        "id": 10,
+        "text": "Fizetési mód: | készpénz",
+        "bbox": [
+          94,
+          506,
+          492,
+          534
+        ],
+        "confidence": 0.8854
+      },
+      {
+        "id": 11,
+        "text": "Megncvezés | Menny. | Egysegár | Nettó < AFA% | AFA | Brutto",
+        "bbox": [
+          95,
+          548,
+          1161,
+          576
+        ],
+        "confidence": 0.6289
+      },
+      {
+        "id": 12,
+        "text": "Könyv: Gépi tanulás alapjai | 3db | 9 200 | 27600 596 | 1380 | 28 980",
+        "bbox": [
+          93,
+          590,
+          1161,
+          617
+        ],
+        "confidence": 0.8525
+      },
+      {
+        "id": 13,
+        "text": "Nettó összesen: | 27 600 Ft",
+        "bbox": [
+          670,
+          644,
+          1162,
+          670
+        ],
+        "confidence": 0.8131
+      },
+      {
+        "id": 14,
+        "text": "ÁFA összesen: | 1380 Ft",
+        "bbox": [
+          686,
+          680,
+          1162,
+          706
+        ],
+        "confidence": 0.8346
+      },
+      {
+        "id": 15,
+        "text": "Fizetendo összesen: | 28 980 Ft",
+        "bbox": [
+          625,
+          715,
+          1162,
+          742
+        ],
+        "confidence": 0.7496
+      },
+      {
+        "id": 16,
+        "text": "Bankszámlaszám: HU42 5569 6322 7926 4518 OOOO OOOo",
+        "bbox": [
+          96,
+          782,
+          608,
+          806
+        ],
+        "confidence": 0.4995
+      },
+      {
+        "id": 17,
+        "text": "Kerjuk; atutaláskor a kozlemenyben tuntesse fel 0 szamla sorszamat",
+        "bbox": [
+          94,
+          812,
+          608,
+          836
+        ],
+        "confidence": 0.2429
+      }
+    ],
+    "fields": {
+      "szamlaszam": {
+        "ertek": "€-2026/07471",
+        "sor": 2
+      },
+      "kiallitas_datuma": {
+        "ertek": "2026.10.18",
+        "sor": 7
+      },
+      "teljesites_datuma": {
+        "ertek": "2026.10.18",
+        "sor": 8
+      },
+      "fizetesi_hatarido": {
+        "ertek": "2026.11.17.",
+        "sor": 9
+      },
+      "elado_nev": {
+        "ertek": "Tamás Tech Zrt.",
+        "sor": 4
+      },
+      "elado_cim": {
+        "ertek": "H-3646 Kaposvár, Pilismindszenti utca 68.",
+        "sor": 5
+      },
+      "elado_adoszam": {
+        "ertek": "84432567-3-38",
+        "sor": 6
+      },
+      "vevo_nev": {
+        "ertek": "Tóth Kft.",
+        "sor": 4
+      },
+      "vevo_cim": {
+        "ertek": "H-8764 Mindszentvára, Belsótamásii út 204.",
+        "sor": 5
+      },
+      "vevo_adoszam": {
+        "ertek": "65765236-5-32",
+        "sor": 6
+      },
+      "bankszamla": {
+        "ertek": "HU42 5569 6322 7926 4518 OOOO OOOo",
+        "sor": 16
+      },
+      "fizetesi_mod": {
+        "ertek": "készpénz",
+        "sor": 10
+      },
+      "netto_osszesen": {
+        "ertek": "27 600 Ft",
+        "sor": 13
+      },
+      "afa_osszesen": {
+        "ertek": "1380 Ft",
+        "sor": 14
+      },
+      "brutto_osszesen": {
+        "ertek": "28 980 Ft",
+        "sor": 15
+      },
+      "tetelek": [
+        {
+          "megnevezes": "Könyv: Gépi tanulás alapjai",
+          "mennyiseg": "3db",
+          "egysegar": "9 200",
+          "netto": "27 600",
+          "afa_kulcs": "5%",
+          "afa": "1 380",
+          "brutto": "28 980",
+          "sor": 12
+        }
+      ]
+    },
+    "parsed": {
+      "szamlaszam": "€-2026/07471",
+      "kiallitas_datuma": "2026-10-18",
+      "teljesites_datuma": "2026-10-18",
+      "fizetesi_hatarido": "2026-11-17",
+      "elado_nev": "Tamás Tech Zrt.",
+      "elado_cim": "H-3646 Kaposvár, Pilismindszenti utca 68.",
+      "elado_adoszam": "84432567-3-38",
+      "vevo_nev": "Tóth Kft.",
+      "vevo_cim": "H-8764 Mindszentvára, Belsótamásii út 204.",
+      "vevo_adoszam": "65765236-5-32",
+      "bankszamla": "HU42 5569 6322 7926 4518 OOOO OOOo",
+      "fizetesi_mod": "készpénz",
+      "netto_osszesen": 27600.0,
+      "afa_osszesen": 1380.0,
+      "brutto_osszesen": 28980.0,
+      "tetelek": [
+        {
+          "egysegar": 9200.0,
+          "netto": 27600.0,
+          "afa": 1380.0,
+          "brutto": 28980.0,
+          "mennyiseg": 3.0,
+          "afa_kulcs": 5.0
+        }
+      ]
+    },
+    "checks": [
+      {
+        "field": "bankszamla",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.50)."
+      },
+      {
+        "field": "elado_adoszam",
+        "level": "hiba",
+        "message": "Érvénytelen adószám (formátum vagy ellenőrző számjegy): 84432567-3-38"
+      },
+      {
+        "field": "vevo_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "bankszamla",
+        "level": "figyelmeztetes",
+        "message": "Az IBAN ellenőrző összege helyes. OCR-karaktercsere javítása után: HU42 5569 6322 7926 4518 OOOO OOOo → HU42 5569 6322 7926 4518 0000 0000"
+      },
+      {
+        "field": "tetelek[1]",
+        "level": "figyelmeztetes",
+        "message": "A tétel számai az aritmetikai összefüggések alapján a forrássorból javítva (netto: 27600 596 → 27 600, afa_kulcs: 596 → 5%)."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "ok",
+        "message": "Nettó + ÁFA = bruttó végösszeg."
+      },
+      {
+        "field": "netto_osszesen",
+        "level": "ok",
+        "message": "A tételek netto értékeinek összege egyezik."
+      },
+      {
+        "field": "afa_osszesen",
+        "level": "ok",
+        "message": "A tételek afa értékeinek összege egyezik."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "ok",
+        "message": "A tételek brutto értékeinek összege egyezik."
+      },
+      {
+        "field": "fizetesi_hatarido",
+        "level": "ok",
+        "message": "A fizetési határidő a kiállítás után van."
+      }
+    ],
+    "status": "hiba",
+    "timings": {
+      "betoltes": 0.015,
+      "elofeldolgozas": 0.063,
+      "M1_tipus": 0.012,
+      "M2_ocr": 0.879,
+      "M3_kinyeres": 10.357,
+      "ellenorzes": 0.002
+    },
+    "preprocessing": {
+      "perspektiva_javitva": true,
+      "dolesszog": 0.0,
+      "eredeti_meret": [
+        1511,
+        1985
+      ],
+      "meret": [
+        1259,
+        1740
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\szamla_szkennelt.png",
+    "doc_type": "szamla",
+    "type_probs": {
+      "szamla": 0.9268,
+      "nyugta": 0.0212,
+      "level": 0.0171,
+      "oneletrajz": 0.0193,
+      "urlap": 0.0155
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "tablazat",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "VARGA | Számla",
+        "bbox": [
+          134,
+          107,
+          1201,
+          151
+        ],
+        "confidence": 1.0
+      },
+      {
+        "id": 2,
+        "text": "Sorszám: A-2024/08021",
+        "bbox": [
+          941,
+          161,
+          1198,
+          192
+        ],
+        "confidence": 0.9994
+      },
+      {
+        "id": 3,
+        "text": "Eladó: | Vevó:",
+        "bbox": [
+          94,
+          240,
+          724,
+          268
+        ],
+        "confidence": 0.9875
+      },
+      {
+        "id": 4,
+        "text": "Varga Szolgáltató Bt. | Kiss Consulting Kft.",
+        "bbox": [
+          92,
+          271,
+          883,
+          311
+        ],
+        "confidence": 0.8525
+      },
+      {
+        "id": 5,
+        "text": "H-9151 Zalaegerszeg; Melléknádasdi út 181. | H-5055 Hetvendevecser, Belsóhetveni utca 193",
+        "bbox": [
+          93,
+          307,
+          1118,
+          344
+        ],
+        "confidence": 0.8526
+      },
+      {
+        "id": 6,
+        "text": "Adószám: 97680451-2-08 | Adószám: 88472672-2-44",
+        "bbox": [
+          93,
+          337,
+          910,
+          366
+        ],
+        "confidence": 0.9458
+      },
+      {
+        "id": 7,
+        "text": "Kiállítás dátuma: | 2024. március 8.",
+        "bbox": [
+          94,
+          408,
+          552,
+          434
+        ],
+        "confidence": 0.7806
+      },
+      {
+        "id": 8,
+        "text": "Teljesítés dátuma: | 2024. március 7",
+        "bbox": [
+          94,
+          438,
+          550,
+          468
+        ],
+        "confidence": 0.9969
+      },
+      {
+        "id": 9,
+        "text": "Fizetési határidö: | 2024. április 7",
+        "bbox": [
+          94,
+          472,
+          532,
+          500
+        ],
+        "confidence": 0.9492
+      },
+      {
+        "id": 10,
+        "text": "Fizetési mód: | bankkártya",
+        "bbox": [
+          94,
+          499,
+          507,
+          536
+        ],
+        "confidence": 0.9956
+      },
+      {
+        "id": 11,
+        "text": "Megnevezés | Menny | Egységár | Nettó ÁFA% | ÁFA | Bruttó",
+        "bbox": [
+          94,
+          548,
+          1197,
+          574
+        ],
+        "confidence": 0.9879
+      },
+      {
+        "id": 12,
+        "text": "Webtárhely bérlés | 12 év | 31 050 | 372 600 27% 100 602 473 202",
+        "bbox": [
+          93,
+          586,
+          1198,
+          614
+        ],
+        "confidence": 0.9636
+      },
+      {
+        "id": 13,
+        "text": "Nyomtatópapír A4 500 lap | csomag | 2 660 | 2 660 279 | 718 | 3 378",
+        "bbox": [
+          94,
+          621,
+          1199,
+          651
+        ],
+        "confidence": 0.9636
+      },
+      {
+        "id": 14,
+        "text": "Fordítás angolról magyarra | 1 oldal | 4 050 | 4 050 27% | 1 094 | 5 144",
+        "bbox": [
+          92,
+          656,
+          1197,
+          686
+        ],
+        "confidence": 0.9473
+      },
+      {
+        "id": 15,
+        "text": "Monitor 27 | 3 db | 121 540 | 364 620 279 | 98 447 | 463 067",
+        "bbox": [
+          94,
+          694,
+          1197,
+          718
+        ],
+        "confidence": 0.9858
+      },
+      {
+        "id": 16,
+        "text": "Gépjármú szerviz munkadíj | 5 óra | 12 200 | 61 00O 27% | 16 470 | 77 470",
+        "bbox": [
+          92,
+          728,
+          1200,
+          754
+        ],
+        "confidence": 0.877
+      },
+      {
+        "id": 17,
+        "text": "Szakmai folyóirat elófizetés | év | 26 040 | 26 040 59 | 1 302 | 27 342",
+        "bbox": [
+          92,
+          762,
+          1197,
+          788
+        ],
+        "confidence": 0.9343
+      },
+      {
+        "id": 18,
+        "text": "Tanácsadás | 2 óra | 24 320 | 48 640 27% | 13 133 | 61 773",
+        "bbox": [
+          91,
+          798,
+          1197,
+          824
+        ],
+        "confidence": 0.8639
+      },
+      {
+        "id": 19,
+        "text": "Nettó összesen: | 879 610 Ft",
+        "bbox": [
+          704,
+          854,
+          1200,
+          882
+        ],
+        "confidence": 0.7021
+      },
+      {
+        "id": 20,
+        "text": "ÁFA összesen: | 231 766 Ft",
+        "bbox": [
+          722,
+          890,
+          1198,
+          918
+        ],
+        "confidence": 0.9153
+      },
+      {
+        "id": 21,
+        "text": "Bruttó végösszeg: | 1 111 376 Ft",
+        "bbox": [
+          672,
+          928,
+          1198,
+          958
+        ],
+        "confidence": 0.9928
+      },
+      {
+        "id": 22,
+        "text": "Bankszámlaszám: 75136277-01079819-33190849",
+        "bbox": [
+          92,
+          992,
+          546,
+          1018
+        ],
+        "confidence": 0.9137
+      },
+      {
+        "id": 23,
+        "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát",
+        "bbox": [
+          92,
+          1019,
+          632,
+          1046
+        ],
+        "confidence": 0.8546
+      },
+      {
+        "id": 24,
+        "text": "Köszönjük hogy minket választott!",
+        "bbox": [
+          509,
+          1678,
+          777,
+          1705
+        ],
+        "confidence": 0.9762
+      }
+    ],
+    "fields": {
+      "szamlaszam": {
+        "ertek": "A-2024/08021",
+        "sor": 2
+      },
+      "kiallitas_datuma": {
+        "ertek": "2024. március 8.",
+        "sor": 7
+      },
+      "teljesites_datuma": {
+        "ertek": "2024. március 7",
+        "sor": 8
+      },
+      "fizetesi_hatarido": {
+        "ertek": "2024. április 7",
+        "sor": 9
+      },
+      "elado_nev": {
+        "ertek": "Varga Szolgáltató Bt.",
+        "sor": 4
+      },
+      "elado_cim": {
+        "ertek": "H-9151 Zalaegerszeg; Melléknádasdi út 181.",
+        "sor": 5
+      },
+      "elado_adoszam": {
+        "ertek": "97680451-2-08",
+        "sor": 6
+      },
+      "vevo_nev": {
+        "ertek": "Kiss Consulting Kft.",
+        "sor": 4
+      },
+      "vevo_cim": {
+        "ertek": "H-5055 Hetvendevecser, Belsóhetveni utca 193",
+        "sor": 5
+      },
+      "vevo_adoszam": {
+        "ertek": "88472672-2-44",
+        "sor": 6
+      },
+      "bankszamla": {
+        "ertek": "75136277-01079819-33190849",
+        "sor": 21
+      },
+      "fizetesi_mod": {
+        "ertek": "bankkártya",
+        "sor": 10
+      },
+      "netto_osszesen": {
+        "ertek": "879610 Ft",
+        "sor": 19
+      },
+      "afa_osszesen": {
+        "ertek": "231766 Ft",
+        "sor": 20
+      },
+      "brutto_osszesen": {
+        "ertek": "1111376 Ft",
+        "sor": 21
+      },
+      "tetelek": [
+        {
+          "megnevezes": "Webtárhely bérlés",
+          "mennyiseg": "12 év",
+          "egysegar": "31 050 Ft",
+          "netto": "372 600 Ft",
+          "afa_kulcs": "27%",
+          "afa": "100 602 Ft",
+          "brutto": "473 202 Ft",
+          "sor": 12
+        },
+        {
+          "megnevezes": "Nyomtatópapír A4 500 lap",
+          "mennyiseg": "csomag",
+          "egysegar": "2 660 Ft",
+          "netto": "2 660 Ft",
+          "afa_kulcs": "27%",
+          "afa": "718 Ft",
+          "brutto": "3 378 Ft",
+          "sor": 13
+        },
+        {
+          "megnevezes": "Fordítás angolról magyarra",
+          "mennyiseg": "1 oldal",
+          "egysegar": "4 050 Ft",
+          "netto": "4 050 Ft",
+          "afa_kulcs": "27%",
+          "afa": "1 094 Ft",
+          "brutto": "5 144 Ft",
+          "sor": 14
+        },
+        {
+          "megnevezes": "Monitor 27",
+          "mennyiseg": "3 db",
+          "egysegar": "121 540 Ft",
+          "netto": "364 620 Ft",
+          "afa_kulcs": "27%",
+          "afa": "98 447 Ft",
+          "brutto": "463 067 Ft",
+          "sor": 15
+        },
+        {
+          "megnevezes": "Gépjármú szerviz munkadíj",
+          "mennyiseg": "5 óra",
+          "egysegar": "12 200 Ft",
+          "netto": "61 000 Ft",
+          "afa_kulcs": "27%",
+          "afa": "16 470 Ft",
+          "brutto": "77 470 Ft",
+          "sor": 16
+        },
+        {
+          "megnevezes": "Szakmai folyóirat előfizetés",
+          "mennyiseg": "év",
+          "egysegar": "26 040",
+          "netto": "26 040",
+          "afa_kulcs": "5%",
+          "afa": "1 302",
+          "brutto": "27 342",
+          "sor": 17
+        },
+        {
+          "megnevezes": "Tanácsadás",
+          "mennyiseg": "2 óra",
+          "egysegar": "24 320 Ft",
+          "netto": "48 640 Ft",
+          "afa_kulcs": "27%",
+          "afa": "13 133 Ft",
+          "brutto": "61 773 Ft",
+          "sor": 18
+        }
+      ]
+    },
+    "parsed": {
+      "szamlaszam": "A-2024/08021",
+      "kiallitas_datuma": "2024-03-08",
+      "teljesites_datuma": "2024-03-07",
+      "fizetesi_hatarido": "2024-04-07",
+      "elado_nev": "Varga Szolgáltató Bt.",
+      "elado_cim": "H-9151 Zalaegerszeg; Melléknádasdi út 181.",
+      "elado_adoszam": "97680451-2-08",
+      "vevo_nev": "Kiss Consulting Kft.",
+      "vevo_cim": "H-5055 Hetvendevecser, Belsóhetveni utca 193",
+      "vevo_adoszam": "88472672-2-44",
+      "bankszamla": "75136277-01079819-33190849",
+      "fizetesi_mod": "bankkártya",
+      "netto_osszesen": 879610.0,
+      "afa_osszesen": 231766.0,
+      "brutto_osszesen": 1111376.0,
+      "tetelek": [
+        {
+          "egysegar": 31050.0,
+          "netto": 372600.0,
+          "afa": 100602.0,
+          "brutto": 473202.0,
+          "mennyiseg": 12.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 2660.0,
+          "netto": 2660.0,
+          "afa": 718.0,
+          "brutto": 3378.0,
+          "mennyiseg": null,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 4050.0,
+          "netto": 4050.0,
+          "afa": 1094.0,
+          "brutto": 5144.0,
+          "mennyiseg": 1.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 121540.0,
+          "netto": 364620.0,
+          "afa": 98447.0,
+          "brutto": 463067.0,
+          "mennyiseg": 3.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 12200.0,
+          "netto": 61000.0,
+          "afa": 16470.0,
+          "brutto": 77470.0,
+          "mennyiseg": 5.0,
+          "afa_kulcs": 27.0
+        },
+        {
+          "egysegar": 26040.0,
+          "netto": 26040.0,
+          "afa": 1302.0,
+          "brutto": 27342.0,
+          "mennyiseg": null,
+          "afa_kulcs": 5.0
+        },
+        {
+          "egysegar": 24320.0,
+          "netto": 48640.0,
+          "afa": 13133.0,
+          "brutto": 61773.0,
+          "mennyiseg": 2.0,
+          "afa_kulcs": 27.0
+        }
+      ]
+    },
+    "checks": [
+      {
+        "field": "elado_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "vevo_adoszam",
+        "level": "ok",
+        "message": "Az adószám formátuma és ellenőrző számjegye helyes."
+      },
+      {
+        "field": "bankszamla",
+        "level": "ok",
+        "message": "A bankszámlaszám ellenőrző számjegyei helyesek."
+      },
+      {
+        "field": "tetelek[6]",
+        "level": "figyelmeztetes",
+        "message": "A tétel számai az aritmetikai összefüggések alapján a forrássorból javítva (afa_kulcs: 59 → 5%)."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "ok",
+        "message": "Nettó + ÁFA = bruttó végösszeg."
+      },
+      {
+        "field": "netto_osszesen",
+        "level": "ok",
+        "message": "A tételek netto értékeinek összege egyezik."
+      },
+      {
+        "field": "afa_osszesen",
+        "level": "ok",
+        "message": "A tételek afa értékeinek összege egyezik."
+      },
+      {
+        "field": "brutto_osszesen",
+        "level": "ok",
+        "message": "A tételek brutto értékeinek összege egyezik."
+      },
+      {
+        "field": "fizetesi_hatarido",
+        "level": "ok",
+        "message": "A fizetési határidő a kiállítás után van."
+      }
+    ],
+    "status": "figyelmeztetes",
+    "timings": {
+      "betoltes": 0.041,
+      "elofeldolgozas": 0.064,
+      "M1_tipus": 0.013,
+      "M2_ocr": 1.405,
+      "M3_kinyeres": 17.511,
+      "ellenorzes": 0.004
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": 0.75,
+      "eredeti_meret": [
+        1268,
+        1774
+      ],
+      "meret": [
+        1291,
+        1790
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\urlap_foto.jpg",
+    "doc_type": "urlap",
+    "type_probs": {
+      "szamla": 0.0147,
+      "nyugta": 0.0185,
+      "level": 0.0242,
+      "oneletrajz": 0.017,
+      "urlap": 0.9256
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "urlap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "IGÉNYLÓLAP",
+        "bbox": [
+          453,
+          66,
+          634,
+          105
+        ],
+        "confidence": 0.9983
+      },
+      {
+        "id": 2,
+        "text": "Személyes adatok",
+        "bbox": [
+          84,
+          161,
+          245,
+          194
+        ],
+        "confidence": 0.9392
+      },
+      {
+        "id": 3,
+        "text": "Nev: | Naogy Mária",
+        "bbox": [
+          77,
+          210,
+          469,
+          252
+        ],
+        "confidence": 0.6023
+      },
+      {
+        "id": 4,
+        "text": "Anyja neve: | Varga György",
+        "bbox": [
+          78,
+          256,
+          490,
+          295
+        ],
+        "confidence": 0.8171
+      },
+      {
+        "id": 5,
+        "text": "Szuletesi hely: | Fa",
+        "bbox": [
+          76,
+          310,
+          374,
+          339
+        ],
+        "confidence": 0.7777
+      },
+      {
+        "id": 6,
+        "text": "Szuletesi ido: | 1951.08. 25.",
+        "bbox": [
+          76,
+          356,
+          477,
+          388
+        ],
+        "confidence": 0.7103
+      },
+      {
+        "id": 7,
+        "text": "Lkdm: | H-8799 Váctapolcaberény , Egyházasmelléki utca 174.",
+        "bbox": [
+          77,
+          404,
+          897,
+          439
+        ],
+        "confidence": 0.8407
+      },
+      {
+        "id": 8,
+        "text": "Telefonszam: | +36 20 850 7376",
+        "bbox": [
+          75,
+          452,
+          526,
+          483
+        ],
+        "confidence": 0.8785
+      },
+      {
+        "id": 9,
+        "text": "E-mail dm: | nagy maria@citromail_hu",
+        "bbox": [
+          78,
+          497,
+          598,
+          528
+        ],
+        "confidence": 0.5775
+      },
+      {
+        "id": 10,
+        "text": "Adoazonosito jel: | 8309169493",
+        "bbox": [
+          78,
+          544,
+          481,
+          573
+        ],
+        "confidence": 0.8732
+      },
+      {
+        "id": 11,
+        "text": "Inszam: | 066 882 815",
+        "bbox": [
+          78,
+          592,
+          481,
+          622
+        ],
+        "confidence": 0.8818
+      },
+      {
+        "id": 12,
+        "text": "2 Nyilatkozatok",
+        "bbox": [
+          70,
+          664,
+          212,
+          690
+        ],
+        "confidence": 0.9798
+      },
+      {
+        "id": 13,
+        "text": "Hozzajarulok adataim kezelesehez",
+        "bbox": [
+          106,
+          702,
+          368,
+          728
+        ],
+        "confidence": 0.6335
+      },
+      {
+        "id": 14,
+        "text": "Hirlevelet kerek",
+        "bbox": [
+          108,
+          745,
+          231,
+          765
+        ],
+        "confidence": 0.5727
+      },
+      {
+        "id": 15,
+        "text": "Az adatok 0 valosagnak megfclelnek",
+        "bbox": [
+          107,
+          782,
+          382,
+          810
+        ],
+        "confidence": 0.4211
+      },
+      {
+        "id": 16,
+        "text": "Kelt: Szeged, 2024.06. 24.",
+        "bbox": [
+          69,
+          876,
+          360,
+          907
+        ],
+        "confidence": 0.7402
+      }
+    ],
+    "fields": {
+      "urlap_cime": {
+        "ertek": "IGÉNYLÓLP",
+        "sor": 1
+      },
+      "nev": {
+        "ertek": "Naogy Mária",
+        "sor": 3
+      },
+      "anyja_neve": {
+        "ertek": "Varga György",
+        "sor": 4
+      },
+      "szuletesi_hely": {
+        "ertek": "Fa",
+        "sor": 5
+      },
+      "szuletesi_datum": {
+        "ertek": "1951.08. 25.",
+        "sor": 6
+      },
+      "lakcim": {
+        "ertek": "H-8799 Váctapolcaberény, Egyházasmelléki utca 174.",
+        "sor": 7
+      },
+      "telefon": {
+        "ertek": "+36 20 850 7376",
+        "sor": 8
+      },
+      "email": {
+        "ertek": "nagy maria@citromail_hu",
+        "sor": 9
+      },
+      "adoazonosito_jel": {
+        "ertek": "8309169493",
+        "sor": 10
+      },
+      "taj_szam": {
+        "ertek": "066 882 815",
+        "sor": 11
+      },
+      "kelt": {
+        "ertek": "Szeged, 2024.06. 24.",
+        "sor": 16
+      }
+    },
+    "parsed": {
+      "urlap_cime": "IGÉNYLÓLP",
+      "nev": "Naogy Mária",
+      "anyja_neve": "Varga György",
+      "szuletesi_hely": "Fa",
+      "szuletesi_datum": "1951-08-25",
+      "lakcim": "H-8799 Váctapolcaberény, Egyházasmelléki utca 174.",
+      "telefon": "+36 20 850 7376",
+      "email": "nagy maria@citromail_hu",
+      "adoazonosito_jel": "8309169493",
+      "taj_szam": "066 882 815",
+      "kelt": "2024-06-24"
+    },
+    "checks": [
+      {
+        "field": "email",
+        "level": "figyelmeztetes",
+        "message": "Hibás formátumú e-mail-cím."
+      },
+      {
+        "field": "telefon",
+        "level": "ok",
+        "message": "A telefonszám formátuma helyes."
+      },
+      {
+        "field": "adoazonosito_jel",
+        "level": "ok",
+        "message": "Az adóazonosító jel ellenőrző számjegye helyes."
+      },
+      {
+        "field": "szuletesi_datum",
+        "level": "ok",
+        "message": "A születési dátum egyezik az adóazonosító jelben kódolttal."
+      },
+      {
+        "field": "taj_szam",
+        "level": "ok",
+        "message": "A TAJ-szám ellenőrző számjegye helyes."
+      }
+    ],
+    "status": "figyelmeztetes",
+    "timings": {
+      "betoltes": 0.015,
+      "elofeldolgozas": 0.057,
+      "M1_tipus": 0.011,
+      "M2_ocr": 0.579,
+      "M3_kinyeres": 7.325,
+      "ellenorzes": 0.0
+    },
+    "preprocessing": {
+      "perspektiva_javitva": true,
+      "dolesszog": 0.0,
+      "eredeti_meret": [
+        1697,
+        2157
+      ],
+      "meret": [
+        1091,
+        1560
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\urlap_hibas_foto.jpg",
+    "doc_type": "urlap",
+    "type_probs": {
+      "szamla": 0.0172,
+      "nyugta": 0.0131,
+      "level": 0.0264,
+      "oneletrajz": 0.0089,
+      "urlap": 0.9344
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "urlap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+        "bbox": [
+          457,
+          184,
+          984,
+          237
+        ],
+        "confidence": 0.9998
+      },
+      {
+        "id": 2,
+        "text": "Qal Jelolt mezok Ktoltese kotelezo",
+        "bbox": [
+          613,
+          233,
+          841,
+          251
+        ],
+        "confidence": 0.509
+      },
+      {
+        "id": 3,
+        "text": "1. Személyes adatok",
+        "bbox": [
+          288,
+          274,
+          484,
+          298
+        ],
+        "confidence": 0.9457
+      },
+      {
+        "id": 4,
+        "text": "Nev: | Varga Ágnes",
+        "bbox": [
+          293,
+          307,
+          665,
+          335
+        ],
+        "confidence": 0.6276
+      },
+      {
+        "id": 5,
+        "text": "Anyja neve: | Fagekas Péter",
+        "bbox": [
+          289,
+          344,
+          672,
+          375
+        ],
+        "confidence": 0.8053
+      },
+      {
+        "id": 6,
+        "text": "Szuletési hely: | Dunakessi",
+        "bbox": [
+          284,
+          384,
+          640,
+          415
+        ],
+        "confidence": 0.4931
+      },
+      {
+        "id": 7,
+        "text": "Szuletesi Ido: | 1996. 01. 23.",
+        "bbox": [
+          283,
+          426,
+          654,
+          450
+        ],
+        "confidence": 0.7072
+      },
+      {
+        "id": 8,
+        "text": "Lakcim: | 1-5893 Sgombathely, Miskolcvutca 25",
+        "bbox": [
+          281,
+          462,
+          922,
+          492
+        ],
+        "confidence": 0.5631
+      },
+      {
+        "id": 9,
+        "text": "Telefonszam: | +36 30 592 6999",
+        "bbox": [
+          276,
+          502,
+          692,
+          527
+        ],
+        "confidence": 0.7557
+      },
+      {
+        "id": 10,
+        "text": "E-mall cim: | vargaagnes@citromailhu",
+        "bbox": [
+          273,
+          539,
+          802,
+          569
+        ],
+        "confidence": 0.7746
+      },
+      {
+        "id": 11,
+        "text": "Adoazonositó jel: | 8471387557",
+        "bbox": [
+          270,
+          577,
+          640,
+          605
+        ],
+        "confidence": 0.7945
+      },
+      {
+        "id": 12,
+        "text": "TAJ szám: | 559 747 548",
+        "bbox": [
+          267,
+          619,
+          638,
+          646
+        ],
+        "confidence": 0.5925
+      },
+      {
+        "id": 13,
+        "text": "2. Nyilatkozatok",
+        "bbox": [
+          254,
+          682,
+          414,
+          706
+        ],
+        "confidence": 0.9097
+      },
+      {
+        "id": 14,
+        "text": "Hozzojarulok adatalm kezelesehez",
+        "bbox": [
+          285,
+          717,
+          545,
+          738
+        ],
+        "confidence": 0.7453
+      },
+      {
+        "id": 15,
+        "text": "Hirlevelet kerek.",
+        "bbox": [
+          283,
+          751,
+          407,
+          771
+        ],
+        "confidence": 0.6879
+      },
+      {
+        "id": 16,
+        "text": "Azadatok 0 valosagnak megfelelnek.",
+        "bbox": [
+          281,
+          785,
+          556,
+          811
+        ],
+        "confidence": 0.7943
+      },
+      {
+        "id": 17,
+        "text": "Kelt: Mindszentfa, 2024. 09. 29.",
+        "bbox": [
+          239,
+          859,
+          562,
+          889
+        ],
+        "confidence": 0.5482
+      }
+    ],
+    "fields": {
+      "urlap_cime": {
+        "ertek": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+        "sor": 1
+      },
+      "nev": {
+        "ertek": "Varga Ágnes",
+        "sor": 4
+      },
+      "anyja_neve": {
+        "ertek": "Fagekas Péter",
+        "sor": 5
+      },
+      "szuletesi_hely": {
+        "ertek": "Dunakessi",
+        "sor": 6
+      },
+      "szuletesi_datum": {
+        "ertek": "1996. 01. 23.",
+        "sor": 7
+      },
+      "lakcim": {
+        "ertek": "1-5893 Sgombathely, Miskolcvutca 25",
+        "sor": 8
+      },
+      "telefon": {
+        "ertek": "+36 30 592 6999",
+        "sor": 9
+      },
+      "email": {
+        "ertek": "vargaagnes@citromailhu",
+        "sor": 10
+      },
+      "adoazonosito_jel": {
+        "ertek": "8471387557",
+        "sor": 11
+      },
+      "taj_szam": {
+        "ertek": "559 747 548",
+        "sor": 12
+      },
+      "kelt": {
+        "ertek": "Mindszentfa, 2024. 09. 29.",
+        "sor": 17
+      }
+    },
+    "parsed": {
+      "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+      "nev": "Varga Ágnes",
+      "anyja_neve": "Fagekas Péter",
+      "szuletesi_hely": "Dunakessi",
+      "szuletesi_datum": "1996-01-23",
+      "lakcim": "1-5893 Sgombathely, Miskolcvutca 25",
+      "telefon": "+36 30 592 6999",
+      "email": "vargaagnes@citromailhu",
+      "adoazonosito_jel": "8471387557",
+      "taj_szam": "559 747 548",
+      "kelt": "2024-09-29"
+    },
+    "checks": [
+      {
+        "field": "szuletesi_hely",
+        "level": "figyelmeztetes",
+        "message": "Alacsony OCR-konfidenciájú sorból származik (0.49)."
+      },
+      {
+        "field": "email",
+        "level": "figyelmeztetes",
+        "message": "Hibás formátumú e-mail-cím."
+      },
+      {
+        "field": "telefon",
+        "level": "ok",
+        "message": "A telefonszám formátuma helyes."
+      },
+      {
+        "field": "adoazonosito_jel",
+        "level": "ok",
+        "message": "Az adóazonosító jel ellenőrző számjegye helyes."
+      },
+      {
+        "field": "szuletesi_datum",
+        "level": "ok",
+        "message": "A születési dátum egyezik az adóazonosító jelben kódolttal."
+      },
+      {
+        "field": "taj_szam",
+        "level": "hiba",
+        "message": "Érvénytelen TAJ-szám: 559 747 548"
+      }
+    ],
+    "status": "hiba",
+    "timings": {
+      "betoltes": 0.009,
+      "elofeldolgozas": 0.065,
+      "M1_tipus": 0.012,
+      "M2_ocr": 0.681,
+      "M3_kinyeres": 7.754,
+      "ellenorzes": 0.0
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": -2.25,
+      "eredeti_meret": [
+        1227,
+        1628
+      ],
+      "meret": [
+        1289,
+        1674
+      ]
+    },
+    "errors": []
+  },
+  {
+    "source": "data\\samples\\urlap_szkennelt.png",
+    "doc_type": "urlap",
+    "type_probs": {
+      "szamla": 0.0181,
+      "nyugta": 0.0247,
+      "level": 0.022,
+      "oneletrajz": 0.0234,
+      "urlap": 0.9119
+    },
+    "type_source": "M1",
+    "llm_type": null,
+    "ocr_profile": "urlap",
+    "ocr_engine": "easyocr",
+    "ocr_lines": [
+      {
+        "id": 1,
+        "text": "REGISZTRÁCIÓS ÚRLAP",
+        "bbox": [
+          405,
+          112,
+          866,
+          169
+        ],
+        "confidence": 0.9508
+      },
+      {
+        "id": 2,
+        "text": "1. Személyes adatok",
+        "bbox": [
+          124,
+          225,
+          363,
+          262
+        ],
+        "confidence": 0.9747
+      },
+      {
+        "id": 3,
+        "text": "Név: | Juhász István",
+        "bbox": [
+          136,
+          286,
+          580,
+          312
+        ],
+        "confidence": 0.9779
+      },
+      {
+        "id": 4,
+        "text": "Anyja neve: | Fehér Gábor",
+        "bbox": [
+          136,
+          340,
+          570,
+          368
+        ],
+        "confidence": 0.9511
+      },
+      {
+        "id": 5,
+        "text": "Születési hely: | Zalaegerszeg",
+        "bbox": [
+          133,
+          388,
+          577,
+          425
+        ],
+        "confidence": 0.9096
+      },
+      {
+        "id": 6,
+        "text": "Születési idö: | 1981. 11. 28.",
+        "bbox": [
+          134,
+          446,
+          568,
+          474
+        ],
+        "confidence": 0.9485
+      },
+      {
+        "id": 7,
+        "text": "Lakcím: | H-1737 Hódmezövásárhely , Dunaújvárosi utca 202.",
+        "bbox": [
+          134,
+          493,
+          973,
+          529
+        ],
+        "confidence": 0.8626
+      },
+      {
+        "id": 8,
+        "text": "Telefonszám: | +36 30 476 5958",
+        "bbox": [
+          136,
+          554,
+          614,
+          582
+        ],
+        "confidence": 0.9232
+      },
+      {
+        "id": 9,
+        "text": "E-mail cím: | juhasz istvan@freemail.hu",
+        "bbox": [
+          136,
+          608,
+          712,
+          638
+        ],
+        "confidence": 0.6765
+      },
+      {
+        "id": 10,
+        "text": "Adóazonosító jel: | 8419698024",
+        "bbox": [
+          136,
+          660,
+          566,
+          692
+        ],
+        "confidence": 0.9326
+      },
+      {
+        "id": 11,
+        "text": "TAJ szám: | 582 201 802",
+        "bbox": [
+          136,
+          720,
+          566,
+          748
+        ],
+        "confidence": 0.8033
+      },
+      {
+        "id": 12,
+        "text": "2 Nyilatkozatok",
+        "bbox": [
+          125,
+          793,
+          311,
+          829
+        ],
+        "confidence": 1.0
+      },
+      {
+        "id": 13,
+        "text": "Hozzájárulok adataim kezeléséhez",
+        "bbox": [
+          168,
+          844,
+          510,
+          870
+        ],
+        "confidence": 0.9926
+      },
+      {
+        "id": 14,
+        "text": "Hírlevelet kérek.",
+        "bbox": [
+          168,
+          890,
+          326,
+          914
+        ],
+        "confidence": 0.9482
+      },
+      {
+        "id": 15,
+        "text": "Az adatok a valóságnak megfelelnek_",
+        "bbox": [
+          170,
+          934,
+          528,
+          962
+        ],
+        "confidence": 0.9321
+      },
+      {
+        "id": 16,
+        "text": "Kelt: Vác, 2026. 02. 06.",
+        "bbox": [
+          124,
+          1034,
+          410,
+          1062
+        ],
+        "confidence": 0.8326
+      },
+      {
+        "id": 17,
+        "text": "aláirás",
+        "bbox": [
+          927,
+          1087,
+          987,
+          1107
+        ],
+        "confidence": 0.6094
+      }
+    ],
+    "fields": {
+      "urlap_cime": {
+        "ertek": "REGISZTRÁCIÓS ÚRLAP",
+        "sor": 1
+      },
+      "nev": {
+        "ertek": "Juhász István",
+        "sor": 3
+      },
+      "anyja_neve": {
+        "ertek": "Fehér Gábor",
+        "sor": 4
+      },
+      "szuletesi_hely": {
+        "ertek": "Zalaegerszeg",
+        "sor": 5
+      },
+      "szuletesi_datum": {
+        "ertek": "1981. 11. 28.",
+        "sor": 6
+      },
+      "lakcim": {
+        "ertek": "H-1737 Hódmezövásárhely , Dunaújvárosi utca 202.",
+        "sor": 7
+      },
+      "telefon": {
+        "ertek": "+36 30 476 5958",
+        "sor": 8
+      },
+      "email": {
+        "ertek": "juhasz istvan@freemail.hu",
+        "sor": 9
+      },
+      "adoazonosito_jel": {
+        "ertek": "8419698024",
+        "sor": 10
+      },
+      "taj_szam": {
+        "ertek": "582 201 802",
+        "sor": 11
+      },
+      "kelt": {
+        "ertek": "Vác",
+        "sor": 16
+      }
+    },
+    "parsed": {
+      "urlap_cime": "REGISZTRÁCIÓS ÚRLAP",
+      "nev": "Juhász István",
+      "anyja_neve": "Fehér Gábor",
+      "szuletesi_hely": "Zalaegerszeg",
+      "szuletesi_datum": "1981-11-28",
+      "lakcim": "H-1737 Hódmezövásárhely , Dunaújvárosi utca 202.",
+      "telefon": "+36 30 476 5958",
+      "email": "juhasz istvan@freemail.hu",
+      "adoazonosito_jel": "8419698024",
+      "taj_szam": "582 201 802",
+      "kelt": null
+    },
+    "checks": [
+      {
+        "field": "kelt",
+        "level": "figyelmeztetes",
+        "message": "Nem értelmezhető dátum, ellenőrizendő: Vác"
+      },
+      {
+        "field": "email",
+        "level": "ok",
+        "message": "Az e-mail-cím formátuma helyes."
+      },
+      {
+        "field": "telefon",
+        "level": "ok",
+        "message": "A telefonszám formátuma helyes."
+      },
+      {
+        "field": "adoazonosito_jel",
+        "level": "ok",
+        "message": "Az adóazonosító jel ellenőrző számjegye helyes."
+      },
+      {
+        "field": "szuletesi_datum",
+        "level": "ok",
+        "message": "A születési dátum egyezik az adóazonosító jelben kódolttal."
+      },
+      {
+        "field": "taj_szam",
+        "level": "ok",
+        "message": "A TAJ-szám ellenőrző számjegye helyes."
+      }
+    ],
+    "status": "figyelmeztetes",
+    "timings": {
+      "betoltes": 0.036,
+      "elofeldolgozas": 0.061,
+      "M1_tipus": 0.012,
+      "M2_ocr": 0.702,
+      "M3_kinyeres": 6.968,
+      "ellenorzes": 0.0
+    },
+    "preprocessing": {
+      "perspektiva_javitva": false,
+      "dolesszog": -0.5,
+      "eredeti_meret": [
+        1258,
+        1768
+      ],
+      "meret": [
+        1273,
+        1778
+      ]
+    },
+    "errors": []
+  }
+]

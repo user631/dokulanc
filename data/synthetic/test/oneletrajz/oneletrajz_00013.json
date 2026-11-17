@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Takács Márk",
+  "email": "takacs.mark@example.hu",
+  "telefon": "+36 20 699 8462",
+  "lakcim": "H-1037 Kereszthalas, Felsőmindszenti tér 30.",
+  "szuletesi_datum": "1985. november 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Balogh és Társa Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2009 – 2010"
+   },
+   {
+    "ceg": "Farkas Trade Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2008 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "prezentáció",
+   "Python",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    198,
+    115
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    140,
+    91,
+    152
+   ]
+  },
+  {
+   "text": "takacs.mark@example.hu",
+   "bbox": [
+    40,
+    160,
+    236,
+    177
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    192,
+    99,
+    204
+   ]
+  },
+  {
+   "text": "+36 20 699 8462",
+   "bbox": [
+    40,
+    213,
+    164,
+    225
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    244,
+    97,
+    256
+   ]
+  },
+  {
+   "text": "H-1037 Kereszthalas, Felsőmindszenti tér",
+   "bbox": [
+    40,
+    264,
+    354,
+    280
+   ]
+  },
+  {
+   "text": "30.",
+   "bbox": [
+    40,
+    286,
+    63,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    317,
+    168,
+    329
+   ]
+  },
+  {
+   "text": "1985. november 5.",
+   "bbox": [
+    40,
+    338,
+    179,
+    350
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    396,
+    182,
+    415
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    436,
+    133,
+    453
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    488,
+    170,
+    507
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    528,
+    84,
+    541
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    553,
+    133,
+    570
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    578,
+    96,
+    595
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    603,
+    147,
+    620
+   ]
+  },
+  {
+   "text": "Takács Márk",
+   "bbox": [
+    450,
+    103,
+    709,
+    134
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    170,
+    646,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    231,
+    669,
+    253
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    450,
+    280,
+    559,
+    294
+   ]
+  },
+  {
+   "text": "értékesítő – Balogh és Társa Zrt.",
+   "bbox": [
+    450,
+    303,
+    761,
+    322
+   ]
+  },
+  {
+   "text": "2008 – 2009",
+   "bbox": [
+    450,
+    342,
+    559,
+    356
+   ]
+  },
+  {
+   "text": "irodavezető – Farkas Trade Zrt.",
+   "bbox": [
+    450,
+    365,
+    747,
+    380
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    414,
+    598,
+    436
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    463,
+    559,
+    477
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    486,
+    948,
+    505
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    509,
+    623,
+    527
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    548,
+    559,
+    562
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    571,
+    684,
+    590
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    594,
+    669,
+    612
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

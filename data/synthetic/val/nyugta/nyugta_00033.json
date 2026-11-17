@@ -1,0 +1,458 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TAKÁCS ÉLELMISZER BT.",
+  "uzlet_cim": "H-7427 Nyíregyháza, Mezőtamásii utca 249.",
+  "adoszam": "43939497-3-04",
+  "datum": "2025.10.28.",
+  "ido": "10:08",
+  "nyugtaszam": "7766/48823",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "16 609 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "637"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1156"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "300"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3798"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "687"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "124"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1834"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2505"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1179"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "942"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "341"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3106"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAKÁCS ÉLELMISZER BT.",
+   "bbox": [
+    154,
+    30,
+    448,
+    50
+   ]
+  },
+  {
+   "text": "H-7427 Nyíregyháza, Mezőtamásii utca 249.",
+   "bbox": [
+    55,
+    68,
+    547,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 43939497-3-04",
+   "bbox": [
+    169,
+    91,
+    433,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    252,
+    137,
+    350,
+    152
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    179,
+    128,
+    193
+   ]
+  },
+  {
+   "text": "637 B00",
+   "bbox": [
+    487,
+    179,
+    578,
+    193
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    209,
+    219,
+    223
+   ]
+  },
+  {
+   "text": "1156 C00",
+   "bbox": [
+    474,
+    209,
+    578,
+    223
+   ]
+  },
+  {
+   "text": "2 DB x 150",
+   "bbox": [
+    24,
+    238,
+    134,
+    250
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    263,
+    206,
+    280
+   ]
+  },
+  {
+   "text": "300 A00",
+   "bbox": [
+    487,
+    263,
+    578,
+    277
+   ]
+  },
+  {
+   "text": "3 DB x 1266",
+   "bbox": [
+    24,
+    292,
+    145,
+    304
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    318,
+    154,
+    331
+   ]
+  },
+  {
+   "text": "3798 B00",
+   "bbox": [
+    474,
+    317,
+    578,
+    331
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    347,
+    128,
+    361
+   ]
+  },
+  {
+   "text": "687 C00",
+   "bbox": [
+    487,
+    347,
+    578,
+    361
+   ]
+  },
+  {
+   "text": "2 DB x 62",
+   "bbox": [
+    24,
+    376,
+    123,
+    388
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    402,
+    102,
+    415
+   ]
+  },
+  {
+   "text": "124 A00",
+   "bbox": [
+    487,
+    401,
+    578,
+    415
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    431,
+    141,
+    445
+   ]
+  },
+  {
+   "text": "1834 B00",
+   "bbox": [
+    474,
+    431,
+    578,
+    445
+   ]
+  },
+  {
+   "text": "3 DB x 835",
+   "bbox": [
+    24,
+    460,
+    134,
+    472
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    485,
+    180,
+    499
+   ]
+  },
+  {
+   "text": "2505 B00",
+   "bbox": [
+    474,
+    485,
+    578,
+    499
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    515,
+    128,
+    529
+   ]
+  },
+  {
+   "text": "1179 B00",
+   "bbox": [
+    474,
+    515,
+    578,
+    529
+   ]
+  },
+  {
+   "text": "2 DB x 471",
+   "bbox": [
+    24,
+    544,
+    134,
+    556
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    569,
+    141,
+    583
+   ]
+  },
+  {
+   "text": "942 C00",
+   "bbox": [
+    487,
+    569,
+    578,
+    583
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    599,
+    206,
+    613
+   ]
+  },
+  {
+   "text": "341 C00",
+   "bbox": [
+    487,
+    599,
+    578,
+    613
+   ]
+  },
+  {
+   "text": "2 DB x 1553",
+   "bbox": [
+    24,
+    628,
+    145,
+    640
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    653,
+    154,
+    667
+   ]
+  },
+  {
+   "text": "3106 B00",
+   "bbox": [
+    474,
+    653,
+    578,
+    667
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    691,
+    184,
+    712
+   ]
+  },
+  {
+   "text": "16 609 Ft",
+   "bbox": [
+    434,
+    696,
+    578,
+    712
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    732,
+    128,
+    749
+   ]
+  },
+  {
+   "text": "16 609 Ft",
+   "bbox": [
+    461,
+    735,
+    578,
+    749
+   ]
+  },
+  {
+   "text": "2025.10.28.",
+   "bbox": [
+    24,
+    778,
+    156,
+    791
+   ]
+  },
+  {
+   "text": "10:08",
+   "bbox": [
+    518,
+    778,
+    578,
+    791
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7766/48823",
+   "bbox": [
+    24,
+    805,
+    288,
+    823
+   ]
+  },
+  {
+   "text": "AP A85208433",
+   "bbox": [
+    24,
+    838,
+    168,
+    851
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    202,
+    878,
+    398,
+    894
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  602,
+  938
+ ]
+}

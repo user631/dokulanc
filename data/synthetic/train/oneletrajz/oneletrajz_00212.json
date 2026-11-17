@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Péter Magdolna",
+  "email": "peter.magdolna@citromail.hu",
+  "telefon": "+36 20 937 6090",
+  "lakcim": "H-2767 Székvára, Veszprémi utca 210.",
+  "szuletesi_datum": "1991. november 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szőke Trade Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "ceg": "Kovács Logisztika Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2015 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "Java",
+   "JavaScript",
+   "SQL",
+   "csapatmunka",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Péter Magdolna",
+   "bbox": [
+    470,
+    100,
+    769,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    572,
+    167,
+    668,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    144,
+    234
+   ]
+  },
+  {
+   "text": "peter.magdolna@citromail.hu",
+   "bbox": [
+    330,
+    221,
+    561,
+    237
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    155,
+    263
+   ]
+  },
+  {
+   "text": "+36 20 937 6090",
+   "bbox": [
+    330,
+    251,
+    461,
+    263
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    279,
+    149,
+    292
+   ]
+  },
+  {
+   "text": "H-2767 Székvára, Veszprémi utca 210.",
+   "bbox": [
+    330,
+    279,
+    627,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    308,
+    222,
+    321
+   ]
+  },
+  {
+   "text": "1991. november 28.",
+   "bbox": [
+    330,
+    308,
+    487,
+    321
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    357,
+    277,
+    377
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    90,
+    407,
+    187,
+    419
+   ]
+  },
+  {
+   "text": "irodavezető – Szőke Trade Bt.",
+   "bbox": [
+    90,
+    428,
+    338,
+    442
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    90,
+    469,
+    187,
+    481
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kovács Logisztika Bt.",
+   "bbox": [
+    90,
+    490,
+    451,
+    508
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    540,
+    218,
+    560
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    590,
+    187,
+    602
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    611,
+    317,
+    629
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    635,
+    186,
+    651
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    675,
+    187,
+    687
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    696,
+    293,
+    714
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    720,
+    287,
+    736
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    769,
+    197,
+    789
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    818,
+    186,
+    834
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    863,
+    188,
+    883
+   ]
+  },
+  {
+   "text": "Excel, Java, JavaScript, SQL, csapatmunka, Git",
+   "bbox": [
+    90,
+    912,
+    438,
+    928
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

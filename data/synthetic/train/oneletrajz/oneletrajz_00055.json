@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár Ádám",
+  "email": "molnar.adam@gmail.com",
+  "telefon": "+36 30 897 7549",
+  "lakcim": "H-1575 Felsővár, Nyékfürdői utca 135.",
+  "szuletesi_datum": "1983.07.24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2002 – 2005"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vincze Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "ceg": "Tóth Trade Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "ceg": "Varga Trade Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2006 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Excel",
+   "B kategóriás jogosítvány",
+   "Linux",
+   "csapatmunka",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    200,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    100,
+    150
+   ]
+  },
+  {
+   "text": "molnar.adam@gmail.com",
+   "bbox": [
+    40,
+    159,
+    265,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    193,
+    112,
+    208
+   ]
+  },
+  {
+   "text": "+36 30 897 7549",
+   "bbox": [
+    40,
+    218,
+    190,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    106,
+    266
+   ]
+  },
+  {
+   "text": "H-1575 Felsővár, Nyékfürdői utca 135.",
+   "bbox": [
+    40,
+    275,
+    374,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    309,
+    191,
+    324
+   ]
+  },
+  {
+   "text": "1983.07.24.",
+   "bbox": [
+    40,
+    334,
+    140,
+    348
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    394,
+    194,
+    416
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    437,
+    133,
+    458
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    169,
+    514
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    535,
+    105,
+    556
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    563,
+    87,
+    579
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    591,
+    265,
+    612
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    619,
+    89,
+    635
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    647,
+    163,
+    668
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    676,
+    80,
+    691
+   ]
+  },
+  {
+   "text": "Molnár Ádám",
+   "bbox": [
+    450,
+    90,
+    746,
+    134
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    166,
+    568,
+    193
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    232,
+    690,
+    257
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    450,
+    282,
+    569,
+    298
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Vincze Logisztika Kft.",
+   "bbox": [
+    450,
+    308,
+    995,
+    330
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    350,
+    569,
+    366
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Tóth Trade Zrt.",
+   "bbox": [
+    450,
+    376,
+    811,
+    398
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    450,
+    418,
+    569,
+    434
+   ]
+  },
+  {
+   "text": "adatelemző – Varga Trade Bt.",
+   "bbox": [
+    450,
+    444,
+    762,
+    466
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    498,
+    617,
+    523
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    450,
+    548,
+    569,
+    564
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    574,
+    814,
+    596
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    599,
+    774,
+    621
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    642,
+    569,
+    658
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    668,
+    751,
+    690
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    693,
+    535,
+    715
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

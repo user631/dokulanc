@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Ilona",
+  "email": "szabo.ilona@example.hu",
+  "telefon": "+36 20 697 4178",
+  "lakcim": "H-6092 Budakereszthalas, Dózsa györgy utca 89.",
+  "szuletesi_datum": "2000. március 2.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Németh Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Git",
+   "Python",
+   "SAP",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Ilona",
+   "bbox": [
+    492,
+    100,
+    747,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    528,
+    165,
+    712,
+    184
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    157,
+    233
+   ]
+  },
+  {
+   "text": "szabo.ilona@example.hu",
+   "bbox": [
+    330,
+    217,
+    561,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    248,
+    170,
+    264
+   ]
+  },
+  {
+   "text": "+36 20 697 4178",
+   "bbox": [
+    330,
+    249,
+    483,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    279,
+    165,
+    295
+   ]
+  },
+  {
+   "text": "H-6092 Budakereszthalas, Dózsa györgy utca 89.",
+   "bbox": [
+    330,
+    279,
+    779,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    310,
+    252,
+    326
+   ]
+  },
+  {
+   "text": "2000. március 2.",
+   "bbox": [
+    330,
+    310,
+    479,
+    326
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    362,
+    321,
+    387
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    412,
+    229,
+    433
+   ]
+  },
+  {
+   "text": "értékesítő – Horváth Consulting Kft.",
+   "bbox": [
+    90,
+    437,
+    462,
+    459
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    478,
+    229,
+    499
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Németh Szolgáltató Kft.",
+   "bbox": [
+    90,
+    503,
+    577,
+    525
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    555,
+    249,
+    580
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    606,
+    201,
+    621
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    630,
+    378,
+    652
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    655,
+    208,
+    676
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    697,
+    201,
+    712
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    721,
+    338,
+    743
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    746,
+    271,
+    767
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    798,
+    222,
+    823
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    848,
+    183,
+    869
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    896,
+    212,
+    921
+   ]
+  },
+  {
+   "text": "Linux, Git, Python, SAP, csapatmunka, projektmenedzsment",
+   "bbox": [
+    90,
+    946,
+    640,
+    967
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

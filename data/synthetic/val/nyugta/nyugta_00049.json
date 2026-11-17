@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BARNA KISBOLT KFT.",
+  "uzlet_cim": "H-6125 Vác, Zalaegerszegi utca 70.",
+  "adoszam": "65475272-2-37",
+  "datum": "2024.10.13.",
+  "ido": "09:24",
+  "nyugtaszam": "6849/74992",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "12 207 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "483"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2378"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "148"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1296"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1758"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2172"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "923"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1155"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "770"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "392"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "732"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BARNA KISBOLT KFT.",
+   "bbox": [
+    165,
+    37,
+    453,
+    52
+   ]
+  },
+  {
+   "text": "H-6125 Vác, Zalaegerszegi utca 70.",
+   "bbox": [
+    88,
+    71,
+    530,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 65475272-2-37",
+   "bbox": [
+    166,
+    96,
+    452,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    257,
+    144,
+    361,
+    160
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    187,
+    150,
+    202
+   ]
+  },
+  {
+   "text": "483 B00",
+   "bbox": [
+    496,
+    187,
+    594,
+    202
+   ]
+  },
+  {
+   "text": "2 DB x 1189",
+   "bbox": [
+    24,
+    219,
+    167,
+    232
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    245,
+    234,
+    260
+   ]
+  },
+  {
+   "text": "2378 C00",
+   "bbox": [
+    482,
+    245,
+    594,
+    260
+   ]
+  },
+  {
+   "text": "2 DB x 74",
+   "bbox": [
+    24,
+    277,
+    141,
+    290
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    304,
+    108,
+    318
+   ]
+  },
+  {
+   "text": "148 C00",
+   "bbox": [
+    496,
+    303,
+    594,
+    318
+   ]
+  },
+  {
+   "text": "2 DB x 648",
+   "bbox": [
+    24,
+    335,
+    154,
+    348
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    361,
+    248,
+    376
+   ]
+  },
+  {
+   "text": "1296 C00",
+   "bbox": [
+    482,
+    361,
+    594,
+    376
+   ]
+  },
+  {
+   "text": "3 DB x 586",
+   "bbox": [
+    24,
+    393,
+    154,
+    406
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    420,
+    220,
+    434
+   ]
+  },
+  {
+   "text": "1758 A00",
+   "bbox": [
+    482,
+    419,
+    594,
+    434
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    451,
+    290,
+    466
+   ]
+  },
+  {
+   "text": "2172 C00",
+   "bbox": [
+    482,
+    451,
+    594,
+    466
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    483,
+    136,
+    498
+   ]
+  },
+  {
+   "text": "923 B00",
+   "bbox": [
+    496,
+    483,
+    594,
+    498
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    515,
+    192,
+    530
+   ]
+  },
+  {
+   "text": "1155 C00",
+   "bbox": [
+    482,
+    515,
+    594,
+    530
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    547,
+    220,
+    562
+   ]
+  },
+  {
+   "text": "770 A00",
+   "bbox": [
+    496,
+    547,
+    594,
+    562
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    579,
+    178,
+    594
+   ]
+  },
+  {
+   "text": "392 A00",
+   "bbox": [
+    496,
+    579,
+    594,
+    594
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    611,
+    150,
+    626
+   ]
+  },
+  {
+   "text": "732 C00",
+   "bbox": [
+    496,
+    611,
+    594,
+    626
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    653,
+    177,
+    674
+   ]
+  },
+  {
+   "text": "12 207 Ft",
+   "bbox": [
+    441,
+    657,
+    594,
+    674
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    693,
+    136,
+    712
+   ]
+  },
+  {
+   "text": "12 207 Ft",
+   "bbox": [
+    468,
+    697,
+    594,
+    712
+   ]
+  },
+  {
+   "text": "2024.10.13.",
+   "bbox": [
+    24,
+    743,
+    167,
+    757
+   ]
+  },
+  {
+   "text": "09:24",
+   "bbox": [
+    529,
+    743,
+    594,
+    757
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6849/74992",
+   "bbox": [
+    24,
+    772,
+    310,
+    791
+   ]
+  },
+  {
+   "text": "AP A84771838",
+   "bbox": [
+    24,
+    807,
+    180,
+    821
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    239,
+    848,
+    379,
+    866
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  618,
+  910
+ ]
+}

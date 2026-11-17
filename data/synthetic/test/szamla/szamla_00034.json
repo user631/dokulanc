@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/06535",
+  "kiallitas_datuma": "2025-08-22",
+  "teljesites_datuma": "2025-08-19",
+  "fizetesi_hatarido": "2025-09-06",
+  "elado_nev": "Fábián Szolgáltató Bt.",
+  "elado_cim": "H-1408 Györgyvára, Kisháti út 8.",
+  "elado_adoszam": "39398282-5-06",
+  "vevo_nev": "Máté Zoltán",
+  "vevo_cim": "H-2002 Tapolcavár, Mártonházai utca 225.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU40 0902 0029 8394 7278 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 454 700 Ft",
+  "afa_osszesen": "392 769 Ft",
+  "brutto_osszesen": "1 847 469 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "290 940",
+    "netto": "1 454 700",
+    "afa_kulcs": "27%",
+    "afa": "392 769",
+    "brutto": "1 847 469"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FÁBIÁN",
+   "bbox": [
+    133,
+    131,
+    226,
+    155
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    972,
+    111,
+    1141,
+    152
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/06535",
+   "bbox": [
+    881,
+    175,
+    1140,
+    198
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    100,
+    256,
+    171,
+    274
+   ]
+  },
+  {
+   "text": "Fábián Szolgáltató Bt.",
+   "bbox": [
+    100,
+    291,
+    356,
+    314
+   ]
+  },
+  {
+   "text": "H-1408 Györgyvára, Kisháti út 8.",
+   "bbox": [
+    100,
+    323,
+    402,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 39398282-5-06",
+   "bbox": [
+    99,
+    352,
+    334,
+    369
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    256,
+    695,
+    274
+   ]
+  },
+  {
+   "text": "Máté Zoltán",
+   "bbox": [
+    630,
+    291,
+    770,
+    309
+   ]
+  },
+  {
+   "text": "H-2002 Tapolcavár, Mártonházai utca 225.",
+   "bbox": [
+    630,
+    323,
+    1023,
+    344
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    100,
+    419,
+    280,
+    436
+   ]
+  },
+  {
+   "text": "2025-08-22",
+   "bbox": [
+    400,
+    420,
+    504,
+    436
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    100,
+    450,
+    295,
+    471
+   ]
+  },
+  {
+   "text": "2025-08-19",
+   "bbox": [
+    400,
+    451,
+    504,
+    467
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    100,
+    481,
+    282,
+    498
+   ]
+  },
+  {
+   "text": "2025-09-06",
+   "bbox": [
+    400,
+    482,
+    504,
+    498
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    100,
+    512,
+    239,
+    529
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    400,
+    512,
+    473,
+    529
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    555,
+    211,
+    573
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    556,
+    583,
+    573
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    662,
+    555,
+    744,
+    573
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    555,
+    869,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    552,
+    932,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    552,
+    1031,
+    569
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1083,
+    555,
+    1140,
+    569
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    516,
+    595,
+    592,
+    609
+   ]
+  },
+  {
+   "text": "290 940",
+   "bbox": [
+    678,
+    596,
+    744,
+    609
+   ]
+  },
+  {
+   "text": "1 454 700",
+   "bbox": [
+    787,
+    596,
+    869,
+    609
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    596,
+    932,
+    609
+   ]
+  },
+  {
+   "text": "392 769",
+   "bbox": [
+    964,
+    596,
+    1030,
+    609
+   ]
+  },
+  {
+   "text": "1 847 469",
+   "bbox": [
+    1058,
+    596,
+    1140,
+    609
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    100,
+    595,
+    268,
+    613
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    654,
+    649,
+    810,
+    667
+   ]
+  },
+  {
+   "text": "1 454 700 Ft",
+   "bbox": [
+    1017,
+    651,
+    1141,
+    667
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    669,
+    680,
+    810,
+    702
+   ]
+  },
+  {
+   "text": "392 769 Ft",
+   "bbox": [
+    1036,
+    686,
+    1141,
+    702
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    610,
+    719,
+    810,
+    741
+   ]
+  },
+  {
+   "text": "1 847 469 Ft",
+   "bbox": [
+    1002,
+    721,
+    1141,
+    737
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU40 0902 0029 8394 7278 0000 0000",
+   "bbox": [
+    100,
+    783,
+    614,
+    800
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    497,
+    1637,
+    742,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

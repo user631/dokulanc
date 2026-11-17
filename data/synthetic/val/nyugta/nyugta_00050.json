@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "TAKÁCS MARKET KFT.",
+  "uzlet_cim": "H-3016 Híddevecser, Tiszamelléki utca 30.",
+  "adoszam": "81945342-2-33",
+  "datum": "2024.05.22.",
+  "ido": "18:00",
+  "nyugtaszam": "0614/10458",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 477 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "930"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "547"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAKÁCS MARKET KFT.",
+   "bbox": [
+    145,
+    31,
+    397,
+    49
+   ]
+  },
+  {
+   "text": "H-3016 Híddevecser, Tiszamelléki utca 30.",
+   "bbox": [
+    45,
+    63,
+    496,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81945342-2-33",
+   "bbox": [
+    150,
+    88,
+    392,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    131,
+    316,
+    147
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    172,
+    128,
+    187
+   ]
+  },
+  {
+   "text": "930 A00",
+   "bbox": [
+    428,
+    172,
+    519,
+    187
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    203,
+    206,
+    216
+   ]
+  },
+  {
+   "text": "547 C00",
+   "bbox": [
+    428,
+    201,
+    519,
+    216
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    240,
+    174,
+    260
+   ]
+  },
+  {
+   "text": "1 477 Ft",
+   "bbox": [
+    399,
+    242,
+    519,
+    260
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    279,
+    154,
+    296
+   ]
+  },
+  {
+   "text": "1 477 Ft",
+   "bbox": [
+    415,
+    281,
+    519,
+    296
+   ]
+  },
+  {
+   "text": "2024.05.22.",
+   "bbox": [
+    24,
+    323,
+    145,
+    337
+   ]
+  },
+  {
+   "text": "18:00",
+   "bbox": [
+    464,
+    323,
+    519,
+    337
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0614/10458",
+   "bbox": [
+    24,
+    351,
+    266,
+    369
+   ]
+  },
+  {
+   "text": "AP A29070325",
+   "bbox": [
+    24,
+    381,
+    156,
+    395
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    139,
+    421,
+    403,
+    437
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  543,
+  482
+ ]
+}

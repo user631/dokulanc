@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER BT.",
+  "uzlet_cim": "H-7066 Cegléd, Keresztapátii út 202.",
+  "adoszam": "16428773-2-41",
+  "datum": "2024.11.03.",
+  "ido": "16:05",
+  "nyugtaszam": "3078/76427",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 030 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1653"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1382"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "544"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1452"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "462"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "383"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "659"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "329"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1017"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER BT.",
+   "bbox": [
+    130,
+    31,
+    410,
+    49
+   ]
+  },
+  {
+   "text": "H-7066 Cegléd, Keresztapátii út 202.",
+   "bbox": [
+    72,
+    63,
+    468,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 16428773-2-41",
+   "bbox": [
+    149,
+    88,
+    391,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    131,
+    315,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 551",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    195,
+    128,
+    210
+   ]
+  },
+  {
+   "text": "1653 C00",
+   "bbox": [
+    412,
+    195,
+    516,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 691",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    247,
+    232,
+    262
+   ]
+  },
+  {
+   "text": "1382 B00",
+   "bbox": [
+    412,
+    247,
+    516,
+    262
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    276,
+    141,
+    291
+   ]
+  },
+  {
+   "text": "544 B00",
+   "bbox": [
+    425,
+    276,
+    516,
+    291
+   ]
+  },
+  {
+   "text": "3 DB x 383",
+   "bbox": [
+    24,
+    305,
+    134,
+    318
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    328,
+    206,
+    343
+   ]
+  },
+  {
+   "text": "1149 B00",
+   "bbox": [
+    412,
+    328,
+    516,
+    343
+   ]
+  },
+  {
+   "text": "2 DB x 726",
+   "bbox": [
+    24,
+    357,
+    134,
+    370
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    380,
+    141,
+    395
+   ]
+  },
+  {
+   "text": "1452 C00",
+   "bbox": [
+    412,
+    380,
+    516,
+    395
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    411,
+    206,
+    424
+   ]
+  },
+  {
+   "text": "462 C00",
+   "bbox": [
+    425,
+    409,
+    516,
+    424
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    438,
+    167,
+    453
+   ]
+  },
+  {
+   "text": "383 A00",
+   "bbox": [
+    425,
+    438,
+    516,
+    453
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    467,
+    128,
+    482
+   ]
+  },
+  {
+   "text": "659 A00",
+   "bbox": [
+    425,
+    467,
+    516,
+    482
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    496,
+    167,
+    514
+   ]
+  },
+  {
+   "text": "329 C00",
+   "bbox": [
+    425,
+    496,
+    516,
+    511
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    525,
+    128,
+    540
+   ]
+  },
+  {
+   "text": "1017 C00",
+   "bbox": [
+    412,
+    525,
+    516,
+    540
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    564,
+    174,
+    584
+   ]
+  },
+  {
+   "text": "9 030 Ft",
+   "bbox": [
+    396,
+    566,
+    516,
+    584
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    603,
+    154,
+    620
+   ]
+  },
+  {
+   "text": "9 030 Ft",
+   "bbox": [
+    412,
+    605,
+    516,
+    620
+   ]
+  },
+  {
+   "text": "2024.11.03.",
+   "bbox": [
+    24,
+    647,
+    145,
+    661
+   ]
+  },
+  {
+   "text": "16:05",
+   "bbox": [
+    461,
+    647,
+    516,
+    661
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3078/76427",
+   "bbox": [
+    24,
+    675,
+    266,
+    693
+   ]
+  },
+  {
+   "text": "AP A37900540",
+   "bbox": [
+    24,
+    705,
+    156,
+    719
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    138,
+    745,
+    402,
+    761
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  540,
+  806
+ ]
+}

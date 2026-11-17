@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Balog Antal",
+  "anyja_neve": "Major Viktor",
+  "szuletesi_hely": "Szolnok",
+  "szuletesi_datum": "2005.04.29.",
+  "lakcim": "H-8540 Tatabánya, Mellékvégi utca 130.",
+  "telefon": "06 1 369 1634",
+  "email": "balog.antal@outlook.com",
+  "adoazonosito_jel": "8505226870",
+  "taj_szam": "894 799 455",
+  "kelt": "Borsodmellékkőrös, 2024.03.17."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    331,
+    100,
+    910,
+    134
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    95,
+    206,
+    306,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    107,
+    259,
+    144,
+    273
+   ]
+  },
+  {
+   "text": "Balog Antal",
+   "bbox": [
+    438,
+    259,
+    566,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    107,
+    311,
+    203,
+    329
+   ]
+  },
+  {
+   "text": "Major Viktor",
+   "bbox": [
+    438,
+    306,
+    585,
+    331
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    107,
+    363,
+    225,
+    381
+   ]
+  },
+  {
+   "text": "Szolnok",
+   "bbox": [
+    438,
+    357,
+    527,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    107,
+    415,
+    217,
+    429
+   ]
+  },
+  {
+   "text": "2005.04.29.",
+   "bbox": [
+    438,
+    411,
+    576,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    107,
+    467,
+    169,
+    481
+   ]
+  },
+  {
+   "text": "H-8540 Tatabánya, Mellékvégi utca 130.",
+   "bbox": [
+    438,
+    461,
+    889,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    107,
+    519,
+    217,
+    533
+   ]
+  },
+  {
+   "text": "06 1 369 1634",
+   "bbox": [
+    438,
+    514,
+    601,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    107,
+    571,
+    200,
+    585
+   ]
+  },
+  {
+   "text": "balog.antal@outlook.com",
+   "bbox": [
+    438,
+    568,
+    712,
+    594
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    107,
+    623,
+    252,
+    641
+   ]
+  },
+  {
+   "text": "8505226870",
+   "bbox": [
+    438,
+    621,
+    588,
+    640
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    107,
+    675,
+    188,
+    689
+   ]
+  },
+  {
+   "text": "894 799 455",
+   "bbox": [
+    438,
+    675,
+    587,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    95,
+    754,
+    265,
+    776
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    140,
+    797,
+    433,
+    815
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    140,
+    842,
+    274,
+    856
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    140,
+    887,
+    449,
+    905
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    95,
+    991,
+    133,
+    1006
+   ]
+  },
+  {
+   "text": "Borsodmellékkőrös, 2024.03.17.",
+   "bbox": [
+    185,
+    987,
+    510,
+    1008
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1040,
+    977,
+    1052
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LAKATOS CSEMEGE KFT.",
+  "uzlet_cim": "H-9158 Hídvég, Úji tér 1.",
+  "adoszam": "61149575-2-05",
+  "datum": "2026.05.24.",
+  "ido": "07:10",
+  "nyugtaszam": "8071/10037",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "6 965 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "623"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "414"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1271"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2044"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1008"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1605"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS CSEMEGE KFT.",
+   "bbox": [
+    162,
+    34,
+    422,
+    48
+   ]
+  },
+  {
+   "text": "H-9158 Hídvég, Úji tér 1.",
+   "bbox": [
+    154,
+    63,
+    429,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 61149575-2-05",
+   "bbox": [
+    171,
+    87,
+    413,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    128,
+    335,
+    143
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    168,
+    216,
+    182
+   ]
+  },
+  {
+   "text": "623 B00",
+   "bbox": [
+    477,
+    168,
+    561,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 207",
+   "bbox": [
+    24,
+    196,
+    124,
+    208
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    218,
+    192,
+    235
+   ]
+  },
+  {
+   "text": "414 B00",
+   "bbox": [
+    477,
+    218,
+    561,
+    232
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    246,
+    168,
+    260
+   ]
+  },
+  {
+   "text": "1271 A00",
+   "bbox": [
+    465,
+    246,
+    561,
+    260
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    274,
+    132,
+    288
+   ]
+  },
+  {
+   "text": "2044 A00",
+   "bbox": [
+    465,
+    274,
+    561,
+    288
+   ]
+  },
+  {
+   "text": "3 DB x 336",
+   "bbox": [
+    24,
+    302,
+    124,
+    314
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    324,
+    192,
+    338
+   ]
+  },
+  {
+   "text": "1008 C00",
+   "bbox": [
+    465,
+    324,
+    561,
+    338
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    353,
+    144,
+    366
+   ]
+  },
+  {
+   "text": "1605 C00",
+   "bbox": [
+    465,
+    352,
+    561,
+    366
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    390,
+    150,
+    409
+   ]
+  },
+  {
+   "text": "6 965 Ft",
+   "bbox": [
+    449,
+    392,
+    561,
+    409
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    428,
+    120,
+    444
+   ]
+  },
+  {
+   "text": "6 965 Ft",
+   "bbox": [
+    465,
+    430,
+    561,
+    444
+   ]
+  },
+  {
+   "text": "2026.05.24.",
+   "bbox": [
+    24,
+    472,
+    145,
+    485
+   ]
+  },
+  {
+   "text": "07:10",
+   "bbox": [
+    506,
+    472,
+    561,
+    485
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8071/10037",
+   "bbox": [
+    24,
+    499,
+    266,
+    516
+   ]
+  },
+  {
+   "text": "AP A96122891",
+   "bbox": [
+    24,
+    528,
+    156,
+    541
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    209,
+    566,
+    374,
+    581
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  585,
+  626
+ ]
+}

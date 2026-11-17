@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Bogdán Mária",
+  "email": "bogdan.maria@example.hu",
+  "telefon": "+36 20 454 5437",
+  "lakcim": "H-4274 Törökhátfalu, Bácstapolcai utca 198.",
+  "szuletesi_datum": "1982. szeptember 1.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2001 – 2006"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2012 – 2014"
+   },
+   {
+    "ceg": "Kovács Trade Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "ceg": "Vörös Logisztika Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2005 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "SAP",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bogdán Mária",
+   "bbox": [
+    460,
+    93,
+    779,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    159,
+    674,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    213,
+    161,
+    229
+   ]
+  },
+  {
+   "text": "bogdan.maria@example.hu",
+   "bbox": [
+    330,
+    213,
+    575,
+    233
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    172,
+    259
+   ]
+  },
+  {
+   "text": "+36 20 454 5437",
+   "bbox": [
+    330,
+    244,
+    484,
+    259
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    272,
+    168,
+    289
+   ]
+  },
+  {
+   "text": "H-4274 Törökhátfalu, Bácstapolcai utca 198.",
+   "bbox": [
+    330,
+    272,
+    726,
+    293
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    302,
+    259,
+    319
+   ]
+  },
+  {
+   "text": "1982. szeptember 1.",
+   "bbox": [
+    330,
+    303,
+    513,
+    323
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    354,
+    330,
+    378
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    404,
+    201,
+    419
+   ]
+  },
+  {
+   "text": "irodavezető – Tóth Bt.",
+   "bbox": [
+    90,
+    427,
+    322,
+    444
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    468,
+    201,
+    483
+   ]
+  },
+  {
+   "text": "irodavezető – Kovács Trade Kft.",
+   "bbox": [
+    90,
+    491,
+    424,
+    508
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    90,
+    532,
+    201,
+    547
+   ]
+  },
+  {
+   "text": "projektmenedzser – Vörös Logisztika Zrt.",
+   "bbox": [
+    90,
+    555,
+    522,
+    576
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    605,
+    252,
+    630
+   ]
+  },
+  {
+   "text": "2001 – 2006",
+   "bbox": [
+    90,
+    656,
+    201,
+    671
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    675,
+    261,
+    700
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    702,
+    305,
+    719
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    744,
+    201,
+    759
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    767,
+    345,
+    788
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    790,
+    169,
+    811
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    841,
+    224,
+    866
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    891,
+    180,
+    911
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    937,
+    216,
+    962
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, SAP, JavaScript",
+   "bbox": [
+    90,
+    986,
+    358,
+    1007
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

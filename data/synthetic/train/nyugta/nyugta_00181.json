@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BUDAI DISZKONT KFT.",
+  "uzlet_cim": "H-7370 Németi, Ligetdevecseri utca 25.",
+  "adoszam": "58813038-2-39",
+  "datum": "2026.05.17.",
+  "ido": "18:40",
+  "nyugtaszam": "2924/21139",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "13 989 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "456"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2046"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1293"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "899"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1641"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "896"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "303"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "757"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "227"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2480"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1665"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1326"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BUDAI DISZKONT KFT.",
+   "bbox": [
+    176,
+    33,
+    423,
+    48
+   ]
+  },
+  {
+   "text": "H-7370 Németi, Ligetdevecseri utca 25.",
+   "bbox": [
+    91,
+    64,
+    509,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58813038-2-39",
+   "bbox": [
+    179,
+    88,
+    421,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    133,
+    343,
+    150
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    177,
+    192,
+    191
+   ]
+  },
+  {
+   "text": "456 B00",
+   "bbox": [
+    493,
+    177,
+    577,
+    191
+   ]
+  },
+  {
+   "text": "3 DB x 682",
+   "bbox": [
+    24,
+    207,
+    124,
+    219
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    231,
+    132,
+    245
+   ]
+  },
+  {
+   "text": "2046 C00",
+   "bbox": [
+    481,
+    231,
+    577,
+    245
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    261,
+    144,
+    275
+   ]
+  },
+  {
+   "text": "1293 C00",
+   "bbox": [
+    481,
+    261,
+    577,
+    275
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    291,
+    204,
+    305
+   ]
+  },
+  {
+   "text": "899 C00",
+   "bbox": [
+    493,
+    291,
+    577,
+    305
+   ]
+  },
+  {
+   "text": "3 DB x 547",
+   "bbox": [
+    24,
+    321,
+    124,
+    333
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    345,
+    132,
+    359
+   ]
+  },
+  {
+   "text": "1641 B00",
+   "bbox": [
+    481,
+    345,
+    577,
+    359
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    375,
+    168,
+    389
+   ]
+  },
+  {
+   "text": "896 A00",
+   "bbox": [
+    493,
+    375,
+    577,
+    389
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    405,
+    192,
+    419
+   ]
+  },
+  {
+   "text": "303 B00",
+   "bbox": [
+    493,
+    405,
+    577,
+    419
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    435,
+    120,
+    449
+   ]
+  },
+  {
+   "text": "757 A00",
+   "bbox": [
+    493,
+    435,
+    577,
+    449
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    465,
+    192,
+    483
+   ]
+  },
+  {
+   "text": "227 C00",
+   "bbox": [
+    493,
+    465,
+    577,
+    479
+   ]
+  },
+  {
+   "text": "2 DB x 1240",
+   "bbox": [
+    24,
+    495,
+    134,
+    507
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    519,
+    180,
+    533
+   ]
+  },
+  {
+   "text": "2480 B00",
+   "bbox": [
+    481,
+    519,
+    577,
+    533
+   ]
+  },
+  {
+   "text": "3 DB x 555",
+   "bbox": [
+    24,
+    549,
+    124,
+    561
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    573,
+    120,
+    587
+   ]
+  },
+  {
+   "text": "1665 A00",
+   "bbox": [
+    481,
+    573,
+    577,
+    587
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    603,
+    144,
+    617
+   ]
+  },
+  {
+   "text": "1326 C00",
+   "bbox": [
+    481,
+    603,
+    577,
+    617
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    640,
+    164,
+    662
+   ]
+  },
+  {
+   "text": "13 989 Ft",
+   "bbox": [
+    451,
+    645,
+    577,
+    662
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    680,
+    120,
+    699
+   ]
+  },
+  {
+   "text": "13 989 Ft",
+   "bbox": [
+    469,
+    685,
+    577,
+    699
+   ]
+  },
+  {
+   "text": "2026.05.17.",
+   "bbox": [
+    24,
+    728,
+    145,
+    741
+   ]
+  },
+  {
+   "text": "18:40",
+   "bbox": [
+    522,
+    728,
+    577,
+    741
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2924/21139",
+   "bbox": [
+    24,
+    754,
+    266,
+    773
+   ]
+  },
+  {
+   "text": "AP A11677663",
+   "bbox": [
+    24,
+    788,
+    156,
+    801
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    240,
+    827,
+    360,
+    844
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  601,
+  890
+ ]
+}

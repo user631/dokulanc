@@ -1,0 +1,770 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2026/03299",
+  "kiallitas_datuma": "2026. augusztus 31.",
+  "teljesites_datuma": "2026. augusztus 27.",
+  "fizetesi_hatarido": "2026. augusztus 18.",
+  "elado_nev": "Kovács Trade Bt.",
+  "elado_cim": "H-5747 Tamásiharaszti, Pusztaszéki utca 25.",
+  "elado_adoszam": "56360644-2-44",
+  "vevo_nev": "Hegedüs Szolgáltató Kft.",
+  "vevo_cim": "H-6749 Kövesd, Ligetvári utca 126.",
+  "vevo_adoszam": "94776731-2-27",
+  "bankszamla": "HU19 2331 9770 0172 0789 6939 8946",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "821 660 Ft",
+  "afa_osszesen": "217 939 Ft",
+  "brutto_osszesen": "1 039 599 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "108 960",
+    "netto": "326 880",
+    "afa_kulcs": "27%",
+    "afa": "88 258",
+    "brutto": "415 138"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "880",
+    "netto": "880",
+    "afa_kulcs": "5%",
+    "afa": "44",
+    "brutto": "924"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "10 csomag",
+    "egysegar": "4 130",
+    "netto": "41 300",
+    "afa_kulcs": "18%",
+    "afa": "7 434",
+    "brutto": "48 734"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "87 410",
+    "netto": "437 050",
+    "afa_kulcs": "27%",
+    "afa": "118 004",
+    "brutto": "555 054"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "10 850",
+    "netto": "10 850",
+    "afa_kulcs": "27%",
+    "afa": "2 930",
+    "brutto": "13 780"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "4 700",
+    "netto": "4 700",
+    "afa_kulcs": "27%",
+    "afa": "1 269",
+    "brutto": "5 969"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    113,
+    114,
+    215,
+    137
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    764,
+    93,
+    1156,
+    133
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/03299",
+   "bbox": [
+    859,
+    159,
+    1156,
+    177
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    83,
+    237,
+    152,
+    257
+   ]
+  },
+  {
+   "text": "Hegedüs Szolgáltató Kft.",
+   "bbox": [
+    84,
+    274,
+    377,
+    299
+   ]
+  },
+  {
+   "text": "H-6749 Kövesd, Ligetvári utca 126.",
+   "bbox": [
+    84,
+    310,
+    446,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 94776731-2-27",
+   "bbox": [
+    83,
+    341,
+    352,
+    358
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    237,
+    706,
+    257
+   ]
+  },
+  {
+   "text": "Kovács Trade Bt.",
+   "bbox": [
+    630,
+    274,
+    834,
+    294
+   ]
+  },
+  {
+   "text": "H-5747 Tamásiharaszti, Pusztaszéki utca 25.",
+   "bbox": [
+    630,
+    310,
+    1096,
+    330
+   ]
+  },
+  {
+   "text": "Adószám: 56360644-2-44",
+   "bbox": [
+    629,
+    341,
+    898,
+    358
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    84,
+    410,
+    239,
+    425
+   ]
+  },
+  {
+   "text": "2026. augusztus 31.",
+   "bbox": [
+    84,
+    439,
+    279,
+    459
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    410,
+    521,
+    429
+   ]
+  },
+  {
+   "text": "2026. augusztus 27.",
+   "bbox": [
+    352,
+    439,
+    547,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    410,
+    779,
+    425
+   ]
+  },
+  {
+   "text": "2026. augusztus 18.",
+   "bbox": [
+    620,
+    439,
+    815,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    410,
+    1010,
+    425
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    888,
+    439,
+    964,
+    455
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    84,
+    490,
+    201,
+    509
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    490,
+    581,
+    509
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    490,
+    749,
+    509
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    490,
+    877,
+    505
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    486,
+    941,
+    506
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    486,
+    1044,
+    505
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1096,
+    490,
+    1156,
+    505
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    512,
+    532,
+    597,
+    547
+   ]
+  },
+  {
+   "text": "108 960",
+   "bbox": [
+    676,
+    532,
+    748,
+    547
+   ]
+  },
+  {
+   "text": "326 880",
+   "bbox": [
+    805,
+    532,
+    877,
+    547
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    532,
+    941,
+    547
+   ]
+  },
+  {
+   "text": "88 258",
+   "bbox": [
+    982,
+    532,
+    1043,
+    547
+   ]
+  },
+  {
+   "text": "415 138",
+   "bbox": [
+    1084,
+    532,
+    1156,
+    547
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    84,
+    532,
+    284,
+    551
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    568,
+    551,
+    583
+   ]
+  },
+  {
+   "text": "880",
+   "bbox": [
+    715,
+    568,
+    748,
+    583
+   ]
+  },
+  {
+   "text": "880",
+   "bbox": [
+    844,
+    568,
+    877,
+    583
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    912,
+    568,
+    941,
+    583
+   ]
+  },
+  {
+   "text": "44",
+   "bbox": [
+    1021,
+    568,
+    1043,
+    583
+   ]
+  },
+  {
+   "text": "924",
+   "bbox": [
+    1123,
+    568,
+    1156,
+    583
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    84,
+    568,
+    191,
+    587
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    512,
+    604,
+    610,
+    623
+   ]
+  },
+  {
+   "text": "4 130",
+   "bbox": [
+    698,
+    604,
+    748,
+    619
+   ]
+  },
+  {
+   "text": "41 300",
+   "bbox": [
+    816,
+    604,
+    877,
+    619
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    901,
+    604,
+    941,
+    619
+   ]
+  },
+  {
+   "text": "7 434",
+   "bbox": [
+    993,
+    604,
+    1043,
+    619
+   ]
+  },
+  {
+   "text": "48 734",
+   "bbox": [
+    1095,
+    604,
+    1156,
+    619
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    84,
+    604,
+    249,
+    623
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    512,
+    640,
+    551,
+    655
+   ]
+  },
+  {
+   "text": "87 410",
+   "bbox": [
+    687,
+    640,
+    748,
+    655
+   ]
+  },
+  {
+   "text": "437 050",
+   "bbox": [
+    805,
+    640,
+    877,
+    655
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    640,
+    941,
+    655
+   ]
+  },
+  {
+   "text": "118 004",
+   "bbox": [
+    971,
+    640,
+    1043,
+    655
+   ]
+  },
+  {
+   "text": "555 054",
+   "bbox": [
+    1084,
+    640,
+    1156,
+    655
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    84,
+    640,
+    340,
+    659
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    676,
+    551,
+    691
+   ]
+  },
+  {
+   "text": "10 850",
+   "bbox": [
+    687,
+    676,
+    748,
+    691
+   ]
+  },
+  {
+   "text": "10 850",
+   "bbox": [
+    816,
+    676,
+    877,
+    691
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    676,
+    941,
+    691
+   ]
+  },
+  {
+   "text": "2 930",
+   "bbox": [
+    993,
+    676,
+    1043,
+    691
+   ]
+  },
+  {
+   "text": "13 780",
+   "bbox": [
+    1095,
+    676,
+    1156,
+    691
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    84,
+    676,
+    199,
+    695
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    512,
+    712,
+    570,
+    727
+   ]
+  },
+  {
+   "text": "4 700",
+   "bbox": [
+    698,
+    712,
+    748,
+    727
+   ]
+  },
+  {
+   "text": "4 700",
+   "bbox": [
+    827,
+    712,
+    877,
+    727
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    712,
+    941,
+    727
+   ]
+  },
+  {
+   "text": "1 269",
+   "bbox": [
+    993,
+    712,
+    1043,
+    727
+   ]
+  },
+  {
+   "text": "5 969",
+   "bbox": [
+    1106,
+    712,
+    1156,
+    727
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    84,
+    712,
+    325,
+    731
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    655,
+    769,
+    826,
+    786
+   ]
+  },
+  {
+   "text": "821 660 Ft",
+   "bbox": [
+    1042,
+    769,
+    1156,
+    786
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    664,
+    802,
+    826,
+    823
+   ]
+  },
+  {
+   "text": "217 939 Ft",
+   "bbox": [
+    1042,
+    806,
+    1156,
+    823
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    591,
+    841,
+    826,
+    860
+   ]
+  },
+  {
+   "text": "1 039 599 Ft",
+   "bbox": [
+    1021,
+    843,
+    1156,
+    860
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU19 2331 9770 0172 0789 6939 8946",
+   "bbox": [
+    84,
+    909,
+    647,
+    925
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    482,
+    1653,
+    758,
+    1670
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VINCZE ÉLELMISZER KFT.",
+  "uzlet_cim": "H-1544 Szigetszentmiklós, Ady endre utca 35.",
+  "adoszam": "34476806-2-33",
+  "datum": "2026.12.24.",
+  "ido": "08:42",
+  "nyugtaszam": "2449/88377",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "14 267 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "660"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8763"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1284"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "75"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "597"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1548"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1440"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VINCZE ÉLELMISZER KFT.",
+   "bbox": [
+    168,
+    28,
+    454,
+    48
+   ]
+  },
+  {
+   "text": "H-1544 Szigetszentmiklós, Ady endre utca 35.",
+   "bbox": [
+    91,
+    65,
+    531,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34476806-2-33",
+   "bbox": [
+    201,
+    88,
+    421,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    130,
+    353,
+    146
+   ]
+  },
+  {
+   "text": "3 DB x 220",
+   "bbox": [
+    24,
+    173,
+    124,
+    184
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    196,
+    180,
+    209
+   ]
+  },
+  {
+   "text": "660 A00",
+   "bbox": [
+    514,
+    196,
+    598,
+    209
+   ]
+  },
+  {
+   "text": "3 DB x 2921",
+   "bbox": [
+    24,
+    225,
+    134,
+    236
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    248,
+    132,
+    261
+   ]
+  },
+  {
+   "text": "8763 C00",
+   "bbox": [
+    502,
+    248,
+    598,
+    261
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    277,
+    168,
+    290
+   ]
+  },
+  {
+   "text": "1284 C00",
+   "bbox": [
+    502,
+    277,
+    598,
+    290
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    306,
+    96,
+    319
+   ]
+  },
+  {
+   "text": "75 C00",
+   "bbox": [
+    526,
+    306,
+    598,
+    319
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    335,
+    120,
+    348
+   ]
+  },
+  {
+   "text": "597 B00",
+   "bbox": [
+    514,
+    335,
+    598,
+    348
+   ]
+  },
+  {
+   "text": "2 DB x 774",
+   "bbox": [
+    24,
+    364,
+    124,
+    375
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    387,
+    132,
+    400
+   ]
+  },
+  {
+   "text": "1548 C00",
+   "bbox": [
+    502,
+    387,
+    598,
+    400
+   ]
+  },
+  {
+   "text": "3 DB x 480",
+   "bbox": [
+    24,
+    416,
+    124,
+    427
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    439,
+    132,
+    452
+   ]
+  },
+  {
+   "text": "1440 A00",
+   "bbox": [
+    502,
+    439,
+    598,
+    452
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    475,
+    164,
+    496
+   ]
+  },
+  {
+   "text": "14 267 Ft",
+   "bbox": [
+    472,
+    480,
+    598,
+    496
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    515,
+    144,
+    532
+   ]
+  },
+  {
+   "text": "14 267 Ft",
+   "bbox": [
+    490,
+    519,
+    598,
+    532
+   ]
+  },
+  {
+   "text": "2026.12.24.",
+   "bbox": [
+    24,
+    562,
+    134,
+    574
+   ]
+  },
+  {
+   "text": "08:42",
+   "bbox": [
+    548,
+    562,
+    598,
+    574
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2449/88377",
+   "bbox": [
+    24,
+    588,
+    244,
+    605
+   ]
+  },
+  {
+   "text": "AP A78477362",
+   "bbox": [
+    24,
+    620,
+    144,
+    632
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    190,
+    656,
+    432,
+    673
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  622,
+  719
+ ]
+}

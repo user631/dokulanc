@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Juhász Zsófia",
+  "email": "juhasz.zsofia@freemail.hu",
+  "telefon": "+36 20 755 6365",
+  "lakcim": "H-1671 Hetvenváros, Tótvégi utca 25.",
+  "szuletesi_datum": "1988.09.13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Logisztika Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2011 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "B kategóriás jogosítvány",
+   "Docker",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    95,
+    205,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    144,
+    101,
+    160
+   ]
+  },
+  {
+   "text": "juhasz.zsofia@freemail.hu",
+   "bbox": [
+    40,
+    170,
+    287,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    204,
+    115,
+    220
+   ]
+  },
+  {
+   "text": "+36 20 755 6365",
+   "bbox": [
+    40,
+    230,
+    190,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    264,
+    110,
+    280
+   ]
+  },
+  {
+   "text": "H-1671 Hetvenváros, Tótvégi utca",
+   "bbox": [
+    40,
+    289,
+    355,
+    309
+   ]
+  },
+  {
+   "text": "25.",
+   "bbox": [
+    40,
+    315,
+    70,
+    330
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    349,
+    194,
+    365
+   ]
+  },
+  {
+   "text": "1988.09.13.",
+   "bbox": [
+    40,
+    375,
+    152,
+    390
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    435,
+    193,
+    459
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    481,
+    141,
+    502
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    535,
+    170,
+    559
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    581,
+    76,
+    597
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    608,
+    282,
+    631
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    639,
+    109,
+    655
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    668,
+    65,
+    684
+   ]
+  },
+  {
+   "text": "Juhász Zsófia",
+   "bbox": [
+    450,
+    105,
+    744,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    172,
+    580,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    241,
+    699,
+    267
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    294,
+    568,
+    310
+   ]
+  },
+  {
+   "text": "irodavezető – Tóth Logisztika Zrt.",
+   "bbox": [
+    450,
+    320,
+    830,
+    343
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    374,
+    618,
+    400
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    450,
+    427,
+    568,
+    443
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    450,
+    634,
+    476
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    479,
+    716,
+    502
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    524,
+    568,
+    540
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    550,
+    719,
+    573
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    576,
+    544,
+    599
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

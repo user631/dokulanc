@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Terézia",
+  "email": "toth.terezia@outlook.com",
+  "telefon": "+36 70 150 7102",
+  "lakcim": "H-1278 Székesfehérvár, Székfai utca 215.",
+  "szuletesi_datum": "1979. 10. 09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kozma Trade Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2003 – 2006"
+   },
+   {
+    "ceg": "Fodor Trade Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2002 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Excel",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Terézia",
+   "bbox": [
+    484,
+    118,
+    756,
+    152
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    187,
+    707,
+    204
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    158,
+    253
+   ]
+  },
+  {
+   "text": "toth.terezia@outlook.com",
+   "bbox": [
+    330,
+    238,
+    558,
+    257
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    268,
+    168,
+    283
+   ]
+  },
+  {
+   "text": "+36 70 150 7102",
+   "bbox": [
+    330,
+    268,
+    481,
+    283
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    298,
+    166,
+    313
+   ]
+  },
+  {
+   "text": "H-1278 Székesfehérvár, Székfai utca 215.",
+   "bbox": [
+    330,
+    298,
+    706,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    328,
+    250,
+    343
+   ]
+  },
+  {
+   "text": "1979. 10. 09.",
+   "bbox": [
+    330,
+    328,
+    448,
+    343
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    379,
+    315,
+    401
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    90,
+    428,
+    201,
+    443
+   ]
+  },
+  {
+   "text": "irodavezető – Kozma Trade Kft.",
+   "bbox": [
+    90,
+    452,
+    408,
+    468
+   ]
+  },
+  {
+   "text": "2002 – 2003",
+   "bbox": [
+    90,
+    492,
+    201,
+    507
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Fodor Trade Zrt.",
+   "bbox": [
+    89,
+    516,
+    429,
+    536
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    565,
+    246,
+    589
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    90,
+    616,
+    201,
+    631
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    640,
+    372,
+    660
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    664,
+    391,
+    683
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    90,
+    704,
+    201,
+    719
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    728,
+    349,
+    744
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    752,
+    260,
+    771
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    801,
+    217,
+    825
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    852,
+    180,
+    871
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    897,
+    213,
+    921
+   ]
+  },
+  {
+   "text": "Linux, Excel, ügyfélkezelés",
+   "bbox": [
+    90,
+    948,
+    329,
+    967
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

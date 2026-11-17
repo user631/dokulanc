@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH ABC BT.",
+  "uzlet_cim": "H-4742 Baja, Dózsa györgy utca 138.",
+  "adoszam": "89190838-2-06",
+  "datum": "2026.07.25.",
+  "ido": "18:16",
+  "nyugtaszam": "0067/27209",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 719 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "550"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1169"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ABC BT.",
+   "bbox": [
+    215,
+    31,
+    407,
+    52
+   ]
+  },
+  {
+   "text": "H-4742 Baja, Dózsa györgy utca 138.",
+   "bbox": [
+    83,
+    71,
+    538,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 89190838-2-06",
+   "bbox": [
+    168,
+    96,
+    454,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    144,
+    363,
+    160
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    187,
+    178,
+    202
+   ]
+  },
+  {
+   "text": "550 C00",
+   "bbox": [
+    501,
+    187,
+    599,
+    202
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    219,
+    164,
+    234
+   ]
+  },
+  {
+   "text": "1169 A00",
+   "bbox": [
+    487,
+    219,
+    599,
+    234
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    261,
+    177,
+    282
+   ]
+  },
+  {
+   "text": "1 719 Ft",
+   "bbox": [
+    463,
+    265,
+    599,
+    282
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    301,
+    165,
+    320
+   ]
+  },
+  {
+   "text": "1 719 Ft",
+   "bbox": [
+    487,
+    305,
+    599,
+    320
+   ]
+  },
+  {
+   "text": "2026.07.25.",
+   "bbox": [
+    24,
+    351,
+    167,
+    365
+   ]
+  },
+  {
+   "text": "18:16",
+   "bbox": [
+    534,
+    351,
+    599,
+    365
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0067/27209",
+   "bbox": [
+    24,
+    380,
+    310,
+    399
+   ]
+  },
+  {
+   "text": "AP A48909307",
+   "bbox": [
+    24,
+    415,
+    180,
+    429
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    157,
+    454,
+    465,
+    474
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  623,
+  518
+ ]
+}

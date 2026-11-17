@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balogh Ilona",
+  "email": "balogh.ilona@citromail.hu",
+  "telefon": "+36 70 246 8678",
+  "lakcim": "H-6255 Pusztagyörgydevecser, Debreceni utca 22.",
+  "szuletesi_datum": "1980. 06. 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Logisztika Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2002 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Linux",
+   "B kategóriás jogosítvány",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    94,
+    217,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    140,
+    104,
+    154
+   ]
+  },
+  {
+   "text": "balogh.ilona@citromail.hu",
+   "bbox": [
+    40,
+    162,
+    276,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    194,
+    115,
+    208
+   ]
+  },
+  {
+   "text": "+36 70 246 8678",
+   "bbox": [
+    40,
+    217,
+    194,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    111,
+    262
+   ]
+  },
+  {
+   "text": "H-6255 Pusztagyörgydevecser,",
+   "bbox": [
+    40,
+    270,
+    321,
+    288
+   ]
+  },
+  {
+   "text": "Debreceni utca 22.",
+   "bbox": [
+    40,
+    292,
+    210,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    324,
+    203,
+    338
+   ]
+  },
+  {
+   "text": "1980. 06. 20.",
+   "bbox": [
+    40,
+    347,
+    161,
+    360
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    404,
+    205,
+    426
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    446,
+    154,
+    465
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    472,
+    149,
+    491
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    524,
+    184,
+    546
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    566,
+    108,
+    581
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    593,
+    91,
+    607
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    618,
+    275,
+    637
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    645,
+    82,
+    659
+   ]
+  },
+  {
+   "text": "Balogh Ilona",
+   "bbox": [
+    450,
+    104,
+    764,
+    147
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    171,
+    678,
+    195
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    720,
+    257
+   ]
+  },
+  {
+   "text": "2002 – 2003",
+   "bbox": [
+    450,
+    283,
+    581,
+    298
+   ]
+  },
+  {
+   "text": "tesztmérnök – Molnár Logisztika Bt.",
+   "bbox": [
+    450,
+    306,
+    874,
+    327
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    356,
+    630,
+    381
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    450,
+    407,
+    581,
+    422
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    430,
+    776,
+    451
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    453,
+    791,
+    474
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    495,
+    581,
+    510
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    518,
+    748,
+    535
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    541,
+    710,
+    562
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

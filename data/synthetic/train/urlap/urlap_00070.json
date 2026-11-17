@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Nagy Viktor",
+  "anyja_neve": "Szalai Éva",
+  "szuletesi_hely": "Ózd",
+  "szuletesi_datum": "1972.09.09.",
+  "lakcim": "H-6756 Tiszahetvennémeti, Szabadság utca 78.",
+  "telefon": "+36 20 597 3570",
+  "email": "nagy.viktor@gmail.com",
+  "adoazonosito_jel": "8386022507",
+  "taj_szam": "591 354 823",
+  "kelt": "Bakonykeresztvára, 2024.02.14."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    455,
+    91,
+    784,
+    126
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    455,
+    147,
+    785,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    90,
+    203,
+    323,
+    226
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    102,
+    259,
+    144,
+    275
+   ]
+  },
+  {
+   "text": "Nagy Viktor",
+   "bbox": [
+    421,
+    255,
+    598,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    314,
+    211,
+    333
+   ]
+  },
+  {
+   "text": "Szalai Éva",
+   "bbox": [
+    421,
+    309,
+    585,
+    341
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    102,
+    367,
+    236,
+    387
+   ]
+  },
+  {
+   "text": "Ózd",
+   "bbox": [
+    421,
+    357,
+    487,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    102,
+    421,
+    227,
+    437
+   ]
+  },
+  {
+   "text": "1972.09.09.",
+   "bbox": [
+    421,
+    417,
+    592,
+    437
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    102,
+    475,
+    176,
+    491
+   ]
+  },
+  {
+   "text": "H-6756 Tiszahetvennémeti, Szabadság utca 78.",
+   "bbox": [
+    421,
+    473,
+    1122,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    529,
+    227,
+    545
+   ]
+  },
+  {
+   "text": "+36 20 597 3570",
+   "bbox": [
+    421,
+    527,
+    665,
+    547
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    102,
+    583,
+    208,
+    599
+   ]
+  },
+  {
+   "text": "nagy.viktor@gmail.com",
+   "bbox": [
+    421,
+    580,
+    783,
+    610
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    637,
+    264,
+    657
+   ]
+  },
+  {
+   "text": "8386022507",
+   "bbox": [
+    421,
+    635,
+    602,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    691,
+    197,
+    707
+   ]
+  },
+  {
+   "text": "591 354 823",
+   "bbox": [
+    421,
+    690,
+    601,
+    710
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    90,
+    771,
+    277,
+    794
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    135,
+    816,
+    465,
+    836
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    135,
+    861,
+    292,
+    877
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    906,
+    480,
+    926
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    90,
+    1010,
+    138,
+    1026
+   ]
+  },
+  {
+   "text": "Bakonykeresztvára, 2024.02.14.",
+   "bbox": [
+    180,
+    1005,
+    608,
+    1034
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    934,
+    1058,
+    985,
+    1072
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

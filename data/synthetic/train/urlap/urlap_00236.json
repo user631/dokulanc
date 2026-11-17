@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Simon Mária",
+  "anyja_neve": "Pásztor Erik",
+  "szuletesi_hely": "Tamásivárad",
+  "szuletesi_datum": "1992.04.14.",
+  "lakcim": "H-2524 Györgyhida, Belsőmindszenti tér 82.",
+  "telefon": "+36 70 130 9163",
+  "email": "simon.maria@gmail.com",
+  "adoazonosito_jel": "8457593773",
+  "taj_szam": "272 355 978",
+  "kelt": "Szigetszentmiklós, 2024.04.29."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    410,
+    97,
+    829,
+    133
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    153,
+    780,
+    171
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    208,
+    323,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    263,
+    146,
+    278
+   ]
+  },
+  {
+   "text": "Simon Mária",
+   "bbox": [
+    411,
+    259,
+    581,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    316,
+    211,
+    337
+   ]
+  },
+  {
+   "text": "Pásztor Erik",
+   "bbox": [
+    411,
+    309,
+    572,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    370,
+    234,
+    391
+   ]
+  },
+  {
+   "text": "Tamásivárad",
+   "bbox": [
+    411,
+    364,
+    578,
+    387
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    424,
+    225,
+    440
+   ]
+  },
+  {
+   "text": "1992.04.14.",
+   "bbox": [
+    411,
+    420,
+    584,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    478,
+    173,
+    494
+   ]
+  },
+  {
+   "text": "H-2524 Györgyhida, Belsőmindszenti tér 82.",
+   "bbox": [
+    411,
+    470,
+    1017,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    532,
+    226,
+    548
+   ]
+  },
+  {
+   "text": "+36 70 130 9163",
+   "bbox": [
+    411,
+    534,
+    665,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    586,
+    206,
+    602
+   ]
+  },
+  {
+   "text": "simon.maria@gmail.com",
+   "bbox": [
+    411,
+    578,
+    729,
+    608
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    640,
+    264,
+    661
+   ]
+  },
+  {
+   "text": "8457593773",
+   "bbox": [
+    411,
+    641,
+    601,
+    660
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    695,
+    196,
+    710
+   ]
+  },
+  {
+   "text": "272 355 978",
+   "bbox": [
+    411,
+    691,
+    602,
+    710
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    776,
+    279,
+    800
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    819,
+    460,
+    840
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    864,
+    284,
+    880
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    909,
+    480,
+    930
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    1014,
+    134,
+    1031
+   ]
+  },
+  {
+   "text": "Szigetszentmiklós, 2024.04.29.",
+   "bbox": [
+    182,
+    1013,
+    571,
+    1040
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1063,
+    982,
+    1077
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

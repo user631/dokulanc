@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Horváth Erzsébet",
+  "anyja_neve": "Tóth Zsolt",
+  "szuletesi_hely": "Mezőfürdőkőrös",
+  "szuletesi_datum": "1975. 10. 14.",
+  "lakcim": "H-7426 Tiszagyörgyváros, Béke utca 164.",
+  "telefon": "06 1 230 5461",
+  "email": "horvath.erzsebet@gmail.com",
+  "adoazonosito_jel": "8397326782",
+  "taj_szam": "895 672 944",
+  "kelt": "Mátraligetfalva, 2026. 11. 11."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    456,
+    85,
+    784,
+    121
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    141,
+    780,
+    159
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    80,
+    196,
+    311,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    92,
+    251,
+    134,
+    266
+   ]
+  },
+  {
+   "text": "Horváth Erzsébet",
+   "bbox": [
+    424,
+    248,
+    605,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    92,
+    304,
+    199,
+    325
+   ]
+  },
+  {
+   "text": "Tóth Zsolt",
+   "bbox": [
+    424,
+    302,
+    532,
+    320
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    92,
+    358,
+    222,
+    379
+   ]
+  },
+  {
+   "text": "Mezőfürdőkőrös",
+   "bbox": [
+    424,
+    354,
+    600,
+    372
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    92,
+    412,
+    213,
+    428
+   ]
+  },
+  {
+   "text": "1975. 10. 14.",
+   "bbox": [
+    424,
+    411,
+    557,
+    428
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    92,
+    466,
+    161,
+    482
+   ]
+  },
+  {
+   "text": "H-7426 Tiszagyörgyváros, Béke utca 164.",
+   "bbox": [
+    424,
+    465,
+    859,
+    489
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    92,
+    520,
+    214,
+    536
+   ]
+  },
+  {
+   "text": "06 1 230 5461",
+   "bbox": [
+    424,
+    520,
+    575,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    92,
+    574,
+    194,
+    590
+   ]
+  },
+  {
+   "text": "horvath.erzsebet@gmail.com",
+   "bbox": [
+    424,
+    572,
+    734,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    92,
+    628,
+    252,
+    649
+   ]
+  },
+  {
+   "text": "8397326782",
+   "bbox": [
+    424,
+    629,
+    554,
+    646
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    92,
+    683,
+    184,
+    698
+   ]
+  },
+  {
+   "text": "895 672 944",
+   "bbox": [
+    424,
+    681,
+    555,
+    698
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    80,
+    764,
+    267,
+    788
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    125,
+    807,
+    448,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    125,
+    852,
+    272,
+    868
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    125,
+    897,
+    468,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    80,
+    1002,
+    122,
+    1019
+   ]
+  },
+  {
+   "text": "Mátraligetfalva, 2026. 11. 11.",
+   "bbox": [
+    170,
+    999,
+    474,
+    1023
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1051,
+    994,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Takács Ilona",
+  "anyja_neve": "Nagy Ilona",
+  "szuletesi_hely": "Tamásivára",
+  "szuletesi_datum": "1979.09.03.",
+  "lakcim": "H-9471 Tamásikőrös, Bakonytapolcai út 166.",
+  "telefon": "+36 30 310 2920",
+  "email": "takacs.ilona@example.hu",
+  "adoazonosito_jel": "8411529487",
+  "taj_szam": "633 926 360",
+  "kelt": "Tótnémeti, 2025.09.26."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    313,
+    89,
+    928,
+    125
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    145,
+    780,
+    163
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    200,
+    315,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    255,
+    138,
+    270
+   ]
+  },
+  {
+   "text": "Takács Ilona",
+   "bbox": [
+    415,
+    246,
+    573,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    96,
+    308,
+    203,
+    329
+   ]
+  },
+  {
+   "text": "Nagy Ilona",
+   "bbox": [
+    415,
+    302,
+    553,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    362,
+    226,
+    383
+   ]
+  },
+  {
+   "text": "Tamásivára",
+   "bbox": [
+    415,
+    358,
+    565,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    416,
+    217,
+    432
+   ]
+  },
+  {
+   "text": "1979.09.03.",
+   "bbox": [
+    415,
+    414,
+    588,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    470,
+    165,
+    486
+   ]
+  },
+  {
+   "text": "H-9471 Tamásikőrös, Bakonytapolcai út 166.",
+   "bbox": [
+    415,
+    468,
+    1030,
+    499
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    524,
+    218,
+    540
+   ]
+  },
+  {
+   "text": "+36 30 310 2920",
+   "bbox": [
+    415,
+    521,
+    669,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    578,
+    198,
+    594
+   ]
+  },
+  {
+   "text": "takacs.ilona@example.hu",
+   "bbox": [
+    415,
+    575,
+    733,
+    606
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    96,
+    632,
+    256,
+    653
+   ]
+  },
+  {
+   "text": "8411529487",
+   "bbox": [
+    415,
+    631,
+    605,
+    651
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    687,
+    188,
+    702
+   ]
+  },
+  {
+   "text": "633 926 360",
+   "bbox": [
+    415,
+    684,
+    606,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    768,
+    271,
+    792
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    811,
+    452,
+    832
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    856,
+    276,
+    872
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    129,
+    901,
+    472,
+    922
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    1006,
+    126,
+    1023
+   ]
+  },
+  {
+   "text": "Tótnémeti, 2025.09.26.",
+   "bbox": [
+    174,
+    1005,
+    478,
+    1028
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    941,
+    1055,
+    990,
+    1069
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

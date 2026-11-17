@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kovács Erzsébet",
+  "anyja_neve": "Török Milán",
+  "szuletesi_hely": "Veszprém",
+  "szuletesi_datum": "1975. 05. 19.",
+  "lakcim": "H-4295 Budapest, Györgyfalui utca 155.",
+  "telefon": "+36 20 233 6965",
+  "email": "kovacs.erzsebet@example.hu",
+  "adoazonosito_jel": "8395843194",
+  "taj_szam": "535 082 315",
+  "kelt": "Hódmezővásárhely, 2025. 08. 31."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    354,
+    84,
+    887,
+    117
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    471,
+    137,
+    769,
+    154
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    191,
+    296,
+    213
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    245,
+    133,
+    260
+   ]
+  },
+  {
+   "text": "Kovács Erzsébet",
+   "bbox": [
+    420,
+    246,
+    580,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    298,
+    194,
+    316
+   ]
+  },
+  {
+   "text": "Török Milán",
+   "bbox": [
+    420,
+    298,
+    536,
+    316
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    349,
+    218,
+    368
+   ]
+  },
+  {
+   "text": "Veszprém",
+   "bbox": [
+    420,
+    347,
+    515,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    401,
+    209,
+    416
+   ]
+  },
+  {
+   "text": "1975. 05. 19.",
+   "bbox": [
+    420,
+    402,
+    554,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    453,
+    162,
+    468
+   ]
+  },
+  {
+   "text": "H-4295 Budapest, Györgyfalui utca 155.",
+   "bbox": [
+    420,
+    450,
+    817,
+    472
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    505,
+    209,
+    520
+   ]
+  },
+  {
+   "text": "+36 20 233 6965",
+   "bbox": [
+    420,
+    502,
+    585,
+    518
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    557,
+    192,
+    572
+   ]
+  },
+  {
+   "text": "kovacs.erzsebet@example.hu",
+   "bbox": [
+    420,
+    554,
+    711,
+    575
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    609,
+    243,
+    628
+   ]
+  },
+  {
+   "text": "8395843194",
+   "bbox": [
+    420,
+    611,
+    540,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    661,
+    182,
+    676
+   ]
+  },
+  {
+   "text": "535 082 315",
+   "bbox": [
+    420,
+    663,
+    542,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    739,
+    253,
+    761
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    783,
+    429,
+    802
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    828,
+    271,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    873,
+    446,
+    892
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    976,
+    127,
+    991
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2025. 08. 31.",
+   "bbox": [
+    173,
+    971,
+    506,
+    994
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    944,
+    1025,
+    990,
+    1038
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,705 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2024/09528",
+  "kiallitas_datuma": "2024. 08. 22.",
+  "teljesites_datuma": "2024. 08. 21.",
+  "fizetesi_hatarido": "2024. 09. 06.",
+  "elado_nev": "Jónás Bt.",
+  "elado_cim": "H-6841 Tatabánya, Szabadság út 131.",
+  "elado_adoszam": "33667366-4-10",
+  "vevo_nev": "Nagy Trade Kft.",
+  "vevo_cim": "H-9150 Borsodgyörgynádasd, Balatonmártoni utca 97.",
+  "vevo_adoszam": "53778310-2-18",
+  "bankszamla": "HU51 2485 0524 1263 3889 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "1 588 140 Ft",
+  "afa_osszesen": "412 799 Ft",
+  "brutto_osszesen": "2 000 939 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "12 csomag",
+    "egysegar": "2 440",
+    "netto": "29 280",
+    "afa_kulcs": "27%",
+    "afa": "7 906",
+    "brutto": "37 186"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "121 560",
+    "netto": "1 458 720",
+    "afa_kulcs": "27%",
+    "afa": "393 854",
+    "brutto": "1 852 574"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "10 csomag",
+    "egysegar": "4 640",
+    "netto": "46 400",
+    "afa_kulcs": "18%",
+    "afa": "8 352",
+    "brutto": "54 752"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "10 db",
+    "egysegar": "4 570",
+    "netto": "45 700",
+    "afa_kulcs": "5%",
+    "afa": "2 285",
+    "brutto": "47 985"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "12 db",
+    "egysegar": "670",
+    "netto": "8 040",
+    "afa_kulcs": "5%",
+    "afa": "402",
+    "brutto": "8 442"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    423,
+    110,
+    817,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/09528",
+   "bbox": [
+    449,
+    166,
+    792,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    102,
+    246,
+    172,
+    263
+   ]
+  },
+  {
+   "text": "Jónás Bt.",
+   "bbox": [
+    102,
+    281,
+    206,
+    298
+   ]
+  },
+  {
+   "text": "H-6841 Tatabánya, Szabadság út 131.",
+   "bbox": [
+    102,
+    315,
+    472,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 33667366-4-10",
+   "bbox": [
+    101,
+    344,
+    350,
+    359
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    246,
+    693,
+    263
+   ]
+  },
+  {
+   "text": "Nagy Trade Kft.",
+   "bbox": [
+    630,
+    281,
+    801,
+    303
+   ]
+  },
+  {
+   "text": "H-9150 Borsodgyörgynádasd, Balatonmártoni utca",
+   "bbox": [
+    630,
+    315,
+    1114,
+    334
+   ]
+  },
+  {
+   "text": "97.",
+   "bbox": [
+    630,
+    344,
+    660,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 53778310-2-18",
+   "bbox": [
+    629,
+    373,
+    878,
+    388
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    102,
+    438,
+    240,
+    452
+   ]
+  },
+  {
+   "text": "2024. 08. 22.",
+   "bbox": [
+    102,
+    466,
+    220,
+    481
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    361,
+    438,
+    512,
+    456
+   ]
+  },
+  {
+   "text": "2024. 08. 21.",
+   "bbox": [
+    361,
+    466,
+    479,
+    481
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    438,
+    762,
+    452
+   ]
+  },
+  {
+   "text": "2024. 09. 06.",
+   "bbox": [
+    620,
+    466,
+    738,
+    481
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    438,
+    988,
+    452
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    879,
+    466,
+    963,
+    485
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    102,
+    514,
+    208,
+    532
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    515,
+    578,
+    532
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    514,
+    745,
+    532
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    514,
+    868,
+    528
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    877,
+    511,
+    930,
+    529
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    511,
+    1029,
+    528
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    514,
+    1138,
+    528
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    516,
+    555,
+    604,
+    572
+   ]
+  },
+  {
+   "text": "2 440",
+   "bbox": [
+    699,
+    555,
+    744,
+    568
+   ]
+  },
+  {
+   "text": "29 280",
+   "bbox": [
+    813,
+    555,
+    868,
+    568
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    555,
+    930,
+    568
+   ]
+  },
+  {
+   "text": "7 906",
+   "bbox": [
+    984,
+    555,
+    1029,
+    568
+   ]
+  },
+  {
+   "text": "37 186",
+   "bbox": [
+    1083,
+    555,
+    1138,
+    568
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    102,
+    555,
+    311,
+    572
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    516,
+    589,
+    603,
+    602
+   ]
+  },
+  {
+   "text": "121 560",
+   "bbox": [
+    679,
+    589,
+    744,
+    602
+   ]
+  },
+  {
+   "text": "1 458 720",
+   "bbox": [
+    788,
+    589,
+    868,
+    602
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    589,
+    930,
+    602
+   ]
+  },
+  {
+   "text": "393 854",
+   "bbox": [
+    964,
+    589,
+    1029,
+    602
+   ]
+  },
+  {
+   "text": "1 852 574",
+   "bbox": [
+    1058,
+    589,
+    1138,
+    602
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    102,
+    589,
+    283,
+    606
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    516,
+    623,
+    604,
+    640
+   ]
+  },
+  {
+   "text": "4 640",
+   "bbox": [
+    699,
+    623,
+    744,
+    636
+   ]
+  },
+  {
+   "text": "46 400",
+   "bbox": [
+    813,
+    623,
+    868,
+    636
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    894,
+    623,
+    930,
+    636
+   ]
+  },
+  {
+   "text": "8 352",
+   "bbox": [
+    984,
+    623,
+    1029,
+    636
+   ]
+  },
+  {
+   "text": "54 752",
+   "bbox": [
+    1083,
+    623,
+    1138,
+    636
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    102,
+    623,
+    250,
+    640
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    516,
+    657,
+    561,
+    670
+   ]
+  },
+  {
+   "text": "4 570",
+   "bbox": [
+    699,
+    657,
+    744,
+    670
+   ]
+  },
+  {
+   "text": "45 700",
+   "bbox": [
+    813,
+    657,
+    868,
+    670
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    657,
+    930,
+    670
+   ]
+  },
+  {
+   "text": "2 285",
+   "bbox": [
+    984,
+    657,
+    1029,
+    670
+   ]
+  },
+  {
+   "text": "47 985",
+   "bbox": [
+    1083,
+    657,
+    1138,
+    670
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    102,
+    657,
+    320,
+    674
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    516,
+    691,
+    561,
+    704
+   ]
+  },
+  {
+   "text": "670",
+   "bbox": [
+    714,
+    691,
+    744,
+    704
+   ]
+  },
+  {
+   "text": "8 040",
+   "bbox": [
+    823,
+    691,
+    868,
+    704
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    691,
+    930,
+    704
+   ]
+  },
+  {
+   "text": "402",
+   "bbox": [
+    999,
+    691,
+    1029,
+    704
+   ]
+  },
+  {
+   "text": "8 442",
+   "bbox": [
+    1093,
+    691,
+    1138,
+    704
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    102,
+    691,
+    198,
+    708
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    652,
+    745,
+    808,
+    761
+   ]
+  },
+  {
+   "text": "1 588 140 Ft",
+   "bbox": [
+    1017,
+    745,
+    1138,
+    761
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    660,
+    776,
+    808,
+    796
+   ]
+  },
+  {
+   "text": "412 799 Ft",
+   "bbox": [
+    1035,
+    780,
+    1138,
+    796
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    620,
+    814,
+    808,
+    835
+   ]
+  },
+  {
+   "text": "2 000 939 Ft",
+   "bbox": [
+    1016,
+    815,
+    1139,
+    831
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU51 2485 0524 1263 3889 0000 0000",
+   "bbox": [
+    102,
+    880,
+    620,
+    895
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    102,
+    908,
+    624,
+    924
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    438,
+    1636,
+    802,
+    1651
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

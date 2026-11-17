@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Borbély János",
+  "anyja_neve": "Fehér Judit",
+  "szuletesi_hely": "Baja",
+  "szuletesi_datum": "1978.05.04.",
+  "lakcim": "H-1486 Szerbmártonvárad, Lajoshídi tér 191.",
+  "telefon": "+36 20 231 8271",
+  "email": "borbely.janos@example.hu",
+  "adoazonosito_jel": "8406653108",
+  "taj_szam": "939 208 452",
+  "kelt": "Drávamellékhida, 2025.09.28."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    372,
+    93,
+    867,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    206,
+    338,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    263,
+    148,
+    278
+   ]
+  },
+  {
+   "text": "Borbély János",
+   "bbox": [
+    422,
+    260,
+    594,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    316,
+    212,
+    337
+   ]
+  },
+  {
+   "text": "Fehér Judit",
+   "bbox": [
+    422,
+    314,
+    567,
+    337
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    370,
+    236,
+    391
+   ]
+  },
+  {
+   "text": "Baja",
+   "bbox": [
+    422,
+    369,
+    474,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    424,
+    227,
+    440
+   ]
+  },
+  {
+   "text": "1978.05.04.",
+   "bbox": [
+    422,
+    421,
+    564,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    478,
+    182,
+    494
+   ]
+  },
+  {
+   "text": "H-1486 Szerbmártonvárad, Lajoshídi tér 191.",
+   "bbox": [
+    422,
+    475,
+    972,
+    504
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    532,
+    229,
+    548
+   ]
+  },
+  {
+   "text": "+36 20 231 8271",
+   "bbox": [
+    422,
+    531,
+    627,
+    552
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    586,
+    216,
+    602
+   ]
+  },
+  {
+   "text": "borbely.janos@example.hu",
+   "bbox": [
+    422,
+    587,
+    740,
+    616
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    640,
+    263,
+    661
+   ]
+  },
+  {
+   "text": "8406653108",
+   "bbox": [
+    422,
+    639,
+    578,
+    660
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    695,
+    203,
+    710
+   ]
+  },
+  {
+   "text": "939 208 452",
+   "bbox": [
+    422,
+    689,
+    582,
+    711
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    774,
+    293,
+    797
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    819,
+    460,
+    840
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    864,
+    291,
+    880
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    909,
+    476,
+    930
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    1012,
+    140,
+    1029
+   ]
+  },
+  {
+   "text": "Drávamellékhida, 2025.09.28.",
+   "bbox": [
+    183,
+    1012,
+    519,
+    1035
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1061,
+    983,
+    1075
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

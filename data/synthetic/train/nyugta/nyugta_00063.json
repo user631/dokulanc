@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "ILLÉS DISZKONT BT.",
+  "uzlet_cim": "H-8238 Kecskemét, Drávamártoni utca 154.",
+  "adoszam": "77255284-3-03",
+  "datum": "2024.05.19.",
+  "ido": "09:21",
+  "nyugtaszam": "8199/76733",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 275 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1589"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2556"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "76"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2496"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "558"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ILLÉS DISZKONT BT.",
+   "bbox": [
+    190,
+    28,
+    424,
+    48
+   ]
+  },
+  {
+   "text": "H-8238 Kecskemét, Drávamártoni utca 154.",
+   "bbox": [
+    107,
+    65,
+    507,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77255284-3-03",
+   "bbox": [
+    197,
+    88,
+    417,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    130,
+    349,
+    146
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    173,
+    180,
+    186
+   ]
+  },
+  {
+   "text": "1589 B00",
+   "bbox": [
+    494,
+    173,
+    590,
+    186
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    202,
+    252,
+    215
+   ]
+  },
+  {
+   "text": "2556 B00",
+   "bbox": [
+    494,
+    202,
+    590,
+    215
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    231,
+    96,
+    244
+   ]
+  },
+  {
+   "text": "76 C00",
+   "bbox": [
+    518,
+    231,
+    590,
+    244
+   ]
+  },
+  {
+   "text": "3 DB x 832",
+   "bbox": [
+    24,
+    260,
+    124,
+    271
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    283,
+    120,
+    296
+   ]
+  },
+  {
+   "text": "2496 C00",
+   "bbox": [
+    494,
+    283,
+    590,
+    296
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    312,
+    156,
+    325
+   ]
+  },
+  {
+   "text": "558 A00",
+   "bbox": [
+    506,
+    312,
+    590,
+    325
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    348,
+    164,
+    369
+   ]
+  },
+  {
+   "text": "7 275 Ft",
+   "bbox": [
+    478,
+    353,
+    590,
+    369
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    388,
+    144,
+    405
+   ]
+  },
+  {
+   "text": "7 275 Ft",
+   "bbox": [
+    494,
+    392,
+    590,
+    405
+   ]
+  },
+  {
+   "text": "2024.05.19.",
+   "bbox": [
+    24,
+    435,
+    134,
+    447
+   ]
+  },
+  {
+   "text": "09:21",
+   "bbox": [
+    540,
+    435,
+    590,
+    447
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8199/76733",
+   "bbox": [
+    24,
+    461,
+    244,
+    478
+   ]
+  },
+  {
+   "text": "AP A91754666",
+   "bbox": [
+    24,
+    493,
+    144,
+    505
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    252,
+    529,
+    362,
+    546
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  614,
+  592
+ ]
+}

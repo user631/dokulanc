@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szabó Gábor",
+  "email": "szabo.gabor@outlook.com",
+  "telefon": "+36 30 978 5629",
+  "lakcim": "H-3876 Mátramártonbánya, Bácsgyörgyi út 144.",
+  "szuletesi_datum": "1985.01.12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fodor Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2012 – 2013"
+   },
+   {
+    "ceg": "Kovács Tech Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2011 – 2012"
+   },
+   {
+    "ceg": "Szabó Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2008 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "JavaScript",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Gábor",
+   "bbox": [
+    486,
+    101,
+    754,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    535,
+    165,
+    705,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    215,
+    150,
+    229
+   ]
+  },
+  {
+   "text": "szabo.gabor@outlook.com",
+   "bbox": [
+    330,
+    215,
+    555,
+    233
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    244,
+    162,
+    258
+   ]
+  },
+  {
+   "text": "+36 30 978 5629",
+   "bbox": [
+    330,
+    245,
+    468,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    273,
+    157,
+    287
+   ]
+  },
+  {
+   "text": "H-3876 Mátramártonbánya, Bácsgyörgyi út 144.",
+   "bbox": [
+    330,
+    273,
+    729,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    302,
+    235,
+    316
+   ]
+  },
+  {
+   "text": "1985.01.12.",
+   "bbox": [
+    330,
+    303,
+    422,
+    316
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    352,
+    302,
+    374
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    90,
+    401,
+    190,
+    414
+   ]
+  },
+  {
+   "text": "irodavezető – Fodor Consulting Kft.",
+   "bbox": [
+    90,
+    423,
+    425,
+    443
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    463,
+    190,
+    476
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Tech Kft.",
+   "bbox": [
+    90,
+    485,
+    379,
+    500
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    525,
+    190,
+    538
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szabó Zrt.",
+   "bbox": [
+    90,
+    547,
+    464,
+    567
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    597,
+    237,
+    619
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    646,
+    190,
+    659
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    668,
+    274,
+    688
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    691,
+    222,
+    709
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    731,
+    190,
+    744
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    753,
+    357,
+    773
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    776,
+    254,
+    794
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    826,
+    210,
+    848
+   ]
+  },
+  {
+   "text": "olasz (A2), spanyol (B1)",
+   "bbox": [
+    90,
+    874,
+    284,
+    892
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    920,
+    200,
+    942
+   ]
+  },
+  {
+   "text": "csapatmunka, JavaScript, Linux",
+   "bbox": [
+    90,
+    968,
+    348,
+    986
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

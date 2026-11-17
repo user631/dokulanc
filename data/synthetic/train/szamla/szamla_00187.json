@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/09243",
+  "kiallitas_datuma": "2024. december 31.",
+  "teljesites_datuma": "2024. december 30.",
+  "fizetesi_hatarido": "2025. január 30.",
+  "elado_nev": "Szabó Kft.",
+  "elado_cim": "H-6430 Hetvennémeti, Nyírligeti utca 140.",
+  "elado_adoszam": "63213393-2-09",
+  "vevo_nev": "Sárközi Tech Zrt.",
+  "vevo_cim": "H-3368 Budapest, Törökháti utca 139.",
+  "vevo_adoszam": "69370258-2-32",
+  "bankszamla": "HU33 7180 1234 3829 9609 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "397 190 Ft",
+  "afa_osszesen": "65 925 Ft",
+  "brutto_osszesen": "463 115 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "11 470",
+    "netto": "11 470",
+    "afa_kulcs": "27%",
+    "afa": "3 097",
+    "brutto": "14 567"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "4 év",
+    "egysegar": "49 480",
+    "netto": "197 920",
+    "afa_kulcs": "27%",
+    "afa": "53 438",
+    "brutto": "251 358"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "12 év",
+    "egysegar": "15 650",
+    "netto": "187 800",
+    "afa_kulcs": "5%",
+    "afa": "9 390",
+    "brutto": "197 190"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    413,
+    106,
+    828,
+    147
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/09243",
+   "bbox": [
+    431,
+    172,
+    809,
+    190
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    106,
+    252,
+    172,
+    270
+   ]
+  },
+  {
+   "text": "Sárközi Tech Zrt.",
+   "bbox": [
+    106,
+    290,
+    305,
+    308
+   ]
+  },
+  {
+   "text": "H-3368 Budapest, Törökháti utca 139.",
+   "bbox": [
+    106,
+    325,
+    478,
+    347
+   ]
+  },
+  {
+   "text": "Adószám: 69370258-2-32",
+   "bbox": [
+    106,
+    357,
+    358,
+    374
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    252,
+    703,
+    270
+   ]
+  },
+  {
+   "text": "Szabó Kft.",
+   "bbox": [
+    630,
+    290,
+    748,
+    308
+   ]
+  },
+  {
+   "text": "H-6430 Hetvennémeti, Nyírligeti utca 140.",
+   "bbox": [
+    630,
+    325,
+    1048,
+    347
+   ]
+  },
+  {
+   "text": "Adószám: 63213393-2-09",
+   "bbox": [
+    630,
+    357,
+    882,
+    374
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    106,
+    427,
+    259,
+    441
+   ]
+  },
+  {
+   "text": "2024. december 31.",
+   "bbox": [
+    106,
+    457,
+    292,
+    473
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    363,
+    427,
+    522,
+    445
+   ]
+  },
+  {
+   "text": "2024. december 30.",
+   "bbox": [
+    363,
+    457,
+    549,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    427,
+    771,
+    441
+   ]
+  },
+  {
+   "text": "2025. január 30.",
+   "bbox": [
+    620,
+    457,
+    774,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    877,
+    427,
+    990,
+    441
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    877,
+    457,
+    962,
+    478
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    106,
+    509,
+    213,
+    527
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    509,
+    586,
+    527
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    509,
+    743,
+    527
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    509,
+    866,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    864,
+    505,
+    928,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    983,
+    505,
+    1026,
+    523
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1074,
+    509,
+    1134,
+    523
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    517,
+    551,
+    555,
+    566
+   ]
+  },
+  {
+   "text": "11 470",
+   "bbox": [
+    683,
+    552,
+    743,
+    566
+   ]
+  },
+  {
+   "text": "11 470",
+   "bbox": [
+    806,
+    552,
+    866,
+    566
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    552,
+    928,
+    566
+   ]
+  },
+  {
+   "text": "3 097",
+   "bbox": [
+    977,
+    552,
+    1026,
+    566
+   ]
+  },
+  {
+   "text": "14 567",
+   "bbox": [
+    1074,
+    552,
+    1134,
+    566
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    106,
+    551,
+    216,
+    570
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    517,
+    588,
+    553,
+    603
+   ]
+  },
+  {
+   "text": "49 480",
+   "bbox": [
+    683,
+    589,
+    743,
+    603
+   ]
+  },
+  {
+   "text": "197 920",
+   "bbox": [
+    795,
+    589,
+    866,
+    603
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    589,
+    928,
+    603
+   ]
+  },
+  {
+   "text": "53 438",
+   "bbox": [
+    966,
+    589,
+    1026,
+    603
+   ]
+  },
+  {
+   "text": "251 358",
+   "bbox": [
+    1063,
+    589,
+    1134,
+    603
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    106,
+    588,
+    260,
+    607
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    517,
+    625,
+    564,
+    640
+   ]
+  },
+  {
+   "text": "15 650",
+   "bbox": [
+    683,
+    626,
+    743,
+    640
+   ]
+  },
+  {
+   "text": "187 800",
+   "bbox": [
+    795,
+    626,
+    866,
+    640
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    899,
+    626,
+    928,
+    640
+   ]
+  },
+  {
+   "text": "9 390",
+   "bbox": [
+    977,
+    626,
+    1026,
+    640
+   ]
+  },
+  {
+   "text": "197 190",
+   "bbox": [
+    1063,
+    626,
+    1134,
+    640
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    106,
+    625,
+    342,
+    644
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    645,
+    683,
+    804,
+    701
+   ]
+  },
+  {
+   "text": "397 190 Ft",
+   "bbox": [
+    1023,
+    684,
+    1134,
+    701
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    652,
+    716,
+    804,
+    739
+   ]
+  },
+  {
+   "text": "65 925 Ft",
+   "bbox": [
+    1036,
+    722,
+    1134,
+    739
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    596,
+    759,
+    804,
+    777
+   ]
+  },
+  {
+   "text": "463 115 Ft",
+   "bbox": [
+    1021,
+    760,
+    1135,
+    777
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU33 7180 1234 3829 9609 0000 0000",
+   "bbox": [
+    106,
+    827,
+    659,
+    843
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    106,
+    858,
+    665,
+    876
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    423,
+    1630,
+    818,
+    1647
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

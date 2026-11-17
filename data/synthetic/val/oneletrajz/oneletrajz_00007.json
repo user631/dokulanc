@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Virág Levente",
+  "email": "virag.levente@outlook.com",
+  "telefon": "+36 30 317 9380",
+  "lakcim": "H-8765 Dunakeszi, Tamásivárosi utca 213.",
+  "szuletesi_datum": "1993. február 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "C#",
+   "projektmenedzsment",
+   "Excel",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    206,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    101,
+    149
+   ]
+  },
+  {
+   "text": "virag.levente@outlook.com",
+   "bbox": [
+    40,
+    158,
+    292,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    193,
+    114,
+    209
+   ]
+  },
+  {
+   "text": "+36 30 317 9380",
+   "bbox": [
+    40,
+    219,
+    193,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    253,
+    109,
+    269
+   ]
+  },
+  {
+   "text": "H-8765 Dunakeszi, Tamásivárosi",
+   "bbox": [
+    40,
+    278,
+    338,
+    297
+   ]
+  },
+  {
+   "text": "utca 213.",
+   "bbox": [
+    40,
+    304,
+    124,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    338,
+    196,
+    354
+   ]
+  },
+  {
+   "text": "1993. február 17.",
+   "bbox": [
+    40,
+    363,
+    195,
+    379
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    424,
+    201,
+    448
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    469,
+    139,
+    491
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    498,
+    140,
+    520
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    553,
+    173,
+    577
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    599,
+    89,
+    615
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    628,
+    67,
+    644
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    656,
+    246,
+    678
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    685,
+    88,
+    702
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    714,
+    171,
+    736
+   ]
+  },
+  {
+   "text": "Virág Levente",
+   "bbox": [
+    450,
+    97,
+    750,
+    143
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    166,
+    671,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    231,
+    706,
+    257
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    283,
+    570,
+    299
+   ]
+  },
+  {
+   "text": "adatelemző – Horváth Trade Kft.",
+   "bbox": [
+    450,
+    309,
+    820,
+    327
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    364,
+    625,
+    390
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    450,
+    416,
+    570,
+    432
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    442,
+    1040,
+    466
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    468,
+    649,
+    491
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    513,
+    570,
+    529
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    539,
+    792,
+    563
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    565,
+    710,
+    588
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

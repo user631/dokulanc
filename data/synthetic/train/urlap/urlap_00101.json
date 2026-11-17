@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Beáta",
+  "anyja_neve": "Tóth Emese",
+  "szuletesi_hely": "Felsőgyörgynémeti",
+  "szuletesi_datum": "1964.08.01.",
+  "lakcim": "H-9928 Nagykanizsa, Arany jános út 68.",
+  "telefon": "06 1 812 2081",
+  "email": "nagy.beata@gmail.com",
+  "adoazonosito_jel": "8356417058",
+  "taj_szam": "847 634 033",
+  "kelt": "Mezőmellékhida, 2025.06.23."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    410,
+    110,
+    829,
+    146
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    221,
+    336,
+    245
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    276,
+    159,
+    291
+   ]
+  },
+  {
+   "text": "Nagy Beáta",
+   "bbox": [
+    426,
+    272,
+    548,
+    296
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    329,
+    224,
+    350
+   ]
+  },
+  {
+   "text": "Tóth Emese",
+   "bbox": [
+    426,
+    327,
+    551,
+    345
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    383,
+    247,
+    404
+   ]
+  },
+  {
+   "text": "Felsőgyörgynémeti",
+   "bbox": [
+    426,
+    385,
+    630,
+    409
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    437,
+    238,
+    453
+   ]
+  },
+  {
+   "text": "1964.08.01.",
+   "bbox": [
+    426,
+    436,
+    545,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    491,
+    186,
+    507
+   ]
+  },
+  {
+   "text": "H-9928 Nagykanizsa, Arany jános út 68.",
+   "bbox": [
+    426,
+    492,
+    848,
+    516
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    117,
+    545,
+    239,
+    561
+   ]
+  },
+  {
+   "text": "06 1 812 2081",
+   "bbox": [
+    426,
+    545,
+    577,
+    562
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    599,
+    219,
+    615
+   ]
+  },
+  {
+   "text": "nagy.beata@gmail.com",
+   "bbox": [
+    426,
+    601,
+    675,
+    625
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    653,
+    277,
+    674
+   ]
+  },
+  {
+   "text": "8356417058",
+   "bbox": [
+    426,
+    654,
+    556,
+    671
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    117,
+    708,
+    209,
+    723
+   ]
+  },
+  {
+   "text": "847 634 033",
+   "bbox": [
+    426,
+    710,
+    557,
+    727
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    789,
+    292,
+    813
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    832,
+    473,
+    853
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    877,
+    297,
+    893
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    922,
+    493,
+    943
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    1027,
+    147,
+    1044
+   ]
+  },
+  {
+   "text": "Mezőmellékhida, 2025.06.23.",
+   "bbox": [
+    195,
+    1024,
+    503,
+    1045
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    920,
+    1076,
+    969,
+    1090
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

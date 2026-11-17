@@ -1,0 +1,321 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LENGYEL MARKET KFT.",
+  "uzlet_cim": "H-8177 Dunaújváros, Szabadság utca 52.",
+  "adoszam": "72448160-2-40",
+  "datum": "2024.07.19.",
+  "ido": "14:46",
+  "nyugtaszam": "2776/82421",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 928 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "87"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "228"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1605"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "524"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "372"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "4734"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1378"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LENGYEL MARKET KFT.",
+   "bbox": [
+    166,
+    34,
+    413,
+    48
+   ]
+  },
+  {
+   "text": "H-8177 Dunaújváros, Szabadság utca 52.",
+   "bbox": [
+    81,
+    63,
+    499,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 72448160-2-40",
+   "bbox": [
+    169,
+    87,
+    411,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    128,
+    333,
+    143
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    169,
+    96,
+    182
+   ]
+  },
+  {
+   "text": "87 A00",
+   "bbox": [
+    485,
+    168,
+    557,
+    182
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    196,
+    192,
+    213
+   ]
+  },
+  {
+   "text": "228 B00",
+   "bbox": [
+    473,
+    196,
+    557,
+    210
+   ]
+  },
+  {
+   "text": "3 DB x 535",
+   "bbox": [
+    24,
+    224,
+    124,
+    236
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    246,
+    120,
+    260
+   ]
+  },
+  {
+   "text": "1605 C00",
+   "bbox": [
+    461,
+    246,
+    557,
+    260
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    274,
+    156,
+    288
+   ]
+  },
+  {
+   "text": "524 B00",
+   "bbox": [
+    473,
+    274,
+    557,
+    288
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    302,
+    156,
+    319
+   ]
+  },
+  {
+   "text": "372 C00",
+   "bbox": [
+    473,
+    302,
+    557,
+    316
+   ]
+  },
+  {
+   "text": "3 DB x 1578",
+   "bbox": [
+    24,
+    330,
+    134,
+    342
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    353,
+    180,
+    366
+   ]
+  },
+  {
+   "text": "4734 C00",
+   "bbox": [
+    461,
+    352,
+    557,
+    366
+   ]
+  },
+  {
+   "text": "2 DB x 689",
+   "bbox": [
+    24,
+    380,
+    124,
+    392
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    402,
+    120,
+    416
+   ]
+  },
+  {
+   "text": "1378 A00",
+   "bbox": [
+    461,
+    402,
+    557,
+    416
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    440,
+    164,
+    459
+   ]
+  },
+  {
+   "text": "8 928 Ft",
+   "bbox": [
+    445,
+    442,
+    557,
+    459
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    478,
+    144,
+    494
+   ]
+  },
+  {
+   "text": "8 928 Ft",
+   "bbox": [
+    461,
+    480,
+    557,
+    494
+   ]
+  },
+  {
+   "text": "2024.07.19.",
+   "bbox": [
+    24,
+    522,
+    145,
+    535
+   ]
+  },
+  {
+   "text": "14:46",
+   "bbox": [
+    502,
+    522,
+    557,
+    535
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2776/82421",
+   "bbox": [
+    24,
+    549,
+    266,
+    566
+   ]
+  },
+  {
+   "text": "AP A69864302",
+   "bbox": [
+    24,
+    578,
+    156,
+    591
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    169,
+    616,
+    411,
+    631
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  581,
+  676
+ ]
+}

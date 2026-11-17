@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2025/05957",
+  "kiallitas_datuma": "2025.09.21.",
+  "teljesites_datuma": "2025.09.18.",
+  "fizetesi_hatarido": "2025.10.06.",
+  "elado_nev": "Török és Társa Zrt.",
+  "elado_cim": "H-4859 Tiszatapolcakövesd, Győri utca 121.",
+  "elado_adoszam": "92619380-3-19",
+  "vevo_nev": "Kovács Consulting Zrt.",
+  "vevo_cim": "H-5630 Tamásifalu, Kuntamásii tér 195.",
+  "vevo_adoszam": "59035286-2-22",
+  "bankszamla": "48510033-72936638",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "464 420 Ft",
+  "afa_osszesen": "79 413 Ft",
+  "brutto_osszesen": "543 833 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "4 980",
+    "netto": "49 800",
+    "afa_kulcs": "27%",
+    "afa": "13 446",
+    "brutto": "63 246"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "12 óra",
+    "egysegar": "14 610",
+    "netto": "175 320",
+    "afa_kulcs": "27%",
+    "afa": "47 336",
+    "brutto": "222 656"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "3 030",
+    "netto": "30 300",
+    "afa_kulcs": "27%",
+    "afa": "8 181",
+    "brutto": "38 481"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "10 év",
+    "egysegar": "20 900",
+    "netto": "209 000",
+    "afa_kulcs": "5%",
+    "afa": "10 450",
+    "brutto": "219 450"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÖRÖK",
+   "bbox": [
+    139,
+    137,
+    229,
+    157
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    708,
+    114,
+    1136,
+    156
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2025/05957",
+   "bbox": [
+    835,
+    180,
+    1136,
+    199
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    104,
+    261,
+    182,
+    279
+   ]
+  },
+  {
+   "text": "Török és Társa Zrt.",
+   "bbox": [
+    104,
+    300,
+    336,
+    318
+   ]
+  },
+  {
+   "text": "H-4859 Tiszatapolcakövesd, Győri utca 121.",
+   "bbox": [
+    104,
+    335,
+    558,
+    358
+   ]
+  },
+  {
+   "text": "Adószám: 92619380-3-19",
+   "bbox": [
+    104,
+    368,
+    371,
+    386
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    261,
+    699,
+    279
+   ]
+  },
+  {
+   "text": "Kovács Consulting Zrt.",
+   "bbox": [
+    630,
+    300,
+    905,
+    324
+   ]
+  },
+  {
+   "text": "H-5630 Tamásifalu, Kuntamásii tér 195.",
+   "bbox": [
+    630,
+    335,
+    1037,
+    357
+   ]
+  },
+  {
+   "text": "Adószám: 59035286-2-22",
+   "bbox": [
+    630,
+    368,
+    897,
+    386
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    104,
+    439,
+    292,
+    457
+   ]
+  },
+  {
+   "text": "2025.09.21.",
+   "bbox": [
+    404,
+    440,
+    526,
+    457
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    104,
+    474,
+    301,
+    497
+   ]
+  },
+  {
+   "text": "2025.09.18.",
+   "bbox": [
+    404,
+    475,
+    526,
+    492
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    104,
+    509,
+    291,
+    527
+   ]
+  },
+  {
+   "text": "2025.10.06.",
+   "bbox": [
+    404,
+    510,
+    526,
+    527
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    104,
+    544,
+    246,
+    562
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    404,
+    544,
+    481,
+    562
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    104,
+    591,
+    218,
+    611
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    591,
+    588,
+    611
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    591,
+    743,
+    611
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    591,
+    867,
+    606
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    862,
+    587,
+    929,
+    606
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    982,
+    587,
+    1027,
+    606
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1074,
+    591,
+    1136,
+    606
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    516,
+    634,
+    588,
+    650
+   ]
+  },
+  {
+   "text": "4 980",
+   "bbox": [
+    693,
+    635,
+    743,
+    650
+   ]
+  },
+  {
+   "text": "49 800",
+   "bbox": [
+    806,
+    635,
+    867,
+    650
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    635,
+    929,
+    650
+   ]
+  },
+  {
+   "text": "13 446",
+   "bbox": [
+    966,
+    635,
+    1027,
+    650
+   ]
+  },
+  {
+   "text": "63 246",
+   "bbox": [
+    1075,
+    635,
+    1136,
+    650
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    104,
+    634,
+    344,
+    655
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    516,
+    672,
+    572,
+    688
+   ]
+  },
+  {
+   "text": "14 610",
+   "bbox": [
+    682,
+    673,
+    743,
+    688
+   ]
+  },
+  {
+   "text": "175 320",
+   "bbox": [
+    795,
+    673,
+    867,
+    688
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    673,
+    929,
+    688
+   ]
+  },
+  {
+   "text": "47 336",
+   "bbox": [
+    966,
+    673,
+    1027,
+    688
+   ]
+  },
+  {
+   "text": "222 656",
+   "bbox": [
+    1064,
+    673,
+    1136,
+    688
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    104,
+    672,
+    350,
+    693
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    516,
+    710,
+    616,
+    726
+   ]
+  },
+  {
+   "text": "3 030",
+   "bbox": [
+    693,
+    711,
+    743,
+    726
+   ]
+  },
+  {
+   "text": "30 300",
+   "bbox": [
+    806,
+    711,
+    867,
+    726
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    889,
+    711,
+    929,
+    726
+   ]
+  },
+  {
+   "text": "8 181",
+   "bbox": [
+    977,
+    711,
+    1027,
+    726
+   ]
+  },
+  {
+   "text": "38 481",
+   "bbox": [
+    1075,
+    711,
+    1136,
+    726
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    104,
+    710,
+    214,
+    731
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    516,
+    748,
+    565,
+    764
+   ]
+  },
+  {
+   "text": "20 900",
+   "bbox": [
+    682,
+    749,
+    743,
+    764
+   ]
+  },
+  {
+   "text": "209 000",
+   "bbox": [
+    795,
+    749,
+    867,
+    764
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    900,
+    749,
+    929,
+    764
+   ]
+  },
+  {
+   "text": "10 450",
+   "bbox": [
+    966,
+    749,
+    1027,
+    764
+   ]
+  },
+  {
+   "text": "219 450",
+   "bbox": [
+    1064,
+    749,
+    1136,
+    764
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    104,
+    748,
+    352,
+    769
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    641,
+    808,
+    806,
+    826
+   ]
+  },
+  {
+   "text": "464 420 Ft",
+   "bbox": [
+    1023,
+    809,
+    1137,
+    826
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    648,
+    842,
+    806,
+    865
+   ]
+  },
+  {
+   "text": "79 413 Ft",
+   "bbox": [
+    1036,
+    848,
+    1137,
+    865
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    608,
+    886,
+    806,
+    910
+   ]
+  },
+  {
+   "text": "543 833 Ft",
+   "bbox": [
+    1019,
+    887,
+    1136,
+    904
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 48510033-72936638",
+   "bbox": [
+    104,
+    954,
+    486,
+    971
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    410,
+    1631,
+    830,
+    1649
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

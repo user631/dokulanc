@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "PAPP MARKET BT.",
+  "uzlet_cim": "H-2362 Törökfürdőnémeti, Borsodtamásii utca 234.",
+  "adoszam": "83990018-2-51",
+  "datum": "2026.10.19.",
+  "ido": "08:13",
+  "nyugtaszam": "9606/39746",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 951 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "517"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "698"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "878"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4844"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1029"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1257"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "728"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP MARKET BT.",
+   "bbox": [
+    199,
+    36,
+    409,
+    50
+   ]
+  },
+  {
+   "text": "H-2362 Törökfürdőnémeti, Borsodtamásii utca 234.",
+   "bbox": [
+    40,
+    66,
+    568,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 83990018-2-51",
+   "bbox": [
+    183,
+    89,
+    425,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    133,
+    350,
+    148
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    175,
+    167,
+    188
+   ]
+  },
+  {
+   "text": "517 A00",
+   "bbox": [
+    494,
+    175,
+    585,
+    188
+   ]
+  },
+  {
+   "text": "2 DB x 349",
+   "bbox": [
+    24,
+    203,
+    134,
+    214
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    228,
+    206,
+    240
+   ]
+  },
+  {
+   "text": "698 C00",
+   "bbox": [
+    494,
+    227,
+    585,
+    240
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    256,
+    232,
+    269
+   ]
+  },
+  {
+   "text": "878 B00",
+   "bbox": [
+    494,
+    256,
+    585,
+    269
+   ]
+  },
+  {
+   "text": "2 DB x 2422",
+   "bbox": [
+    24,
+    284,
+    145,
+    295
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    308,
+    271,
+    321
+   ]
+  },
+  {
+   "text": "4844 C00",
+   "bbox": [
+    481,
+    308,
+    585,
+    321
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    337,
+    128,
+    350
+   ]
+  },
+  {
+   "text": "1029 C00",
+   "bbox": [
+    481,
+    337,
+    585,
+    350
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    367,
+    193,
+    379
+   ]
+  },
+  {
+   "text": "1257 B00",
+   "bbox": [
+    481,
+    366,
+    585,
+    379
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    395,
+    128,
+    408
+   ]
+  },
+  {
+   "text": "728 B00",
+   "bbox": [
+    494,
+    395,
+    585,
+    408
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    431,
+    174,
+    452
+   ]
+  },
+  {
+   "text": "9 951 Ft",
+   "bbox": [
+    465,
+    436,
+    585,
+    452
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    472,
+    154,
+    488
+   ]
+  },
+  {
+   "text": "9 951 Ft",
+   "bbox": [
+    481,
+    475,
+    585,
+    488
+   ]
+  },
+  {
+   "text": "2026.10.19.",
+   "bbox": [
+    24,
+    517,
+    145,
+    529
+   ]
+  },
+  {
+   "text": "08:13",
+   "bbox": [
+    530,
+    517,
+    585,
+    529
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9606/39746",
+   "bbox": [
+    24,
+    543,
+    266,
+    560
+   ]
+  },
+  {
+   "text": "AP A44656025",
+   "bbox": [
+    24,
+    575,
+    156,
+    587
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    172,
+    613,
+    436,
+    629
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  609,
+  673
+ ]
+}

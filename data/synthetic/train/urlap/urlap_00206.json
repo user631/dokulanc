@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Nagy Tamás",
+  "anyja_neve": "Gál István",
+  "szuletesi_hely": "Nyékhídvára",
+  "szuletesi_datum": "2001.11.04.",
+  "lakcim": "H-1345 Budapest, Békésmelléki utca 37.",
+  "telefon": "+36 30 369 4916",
+  "email": "nagy.tamas@freemail.hu",
+  "adoazonosito_jel": "8492503696",
+  "taj_szam": "540 732 603",
+  "kelt": "Debrecen, 2024.03.29."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    437,
+    87,
+    803,
+    123
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    466,
+    146,
+    774,
+    164
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    199,
+    321,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    258,
+    144,
+    273
+   ]
+  },
+  {
+   "text": "Nagy Tamás",
+   "bbox": [
+    423,
+    251,
+    584,
+    281
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    312,
+    213,
+    331
+   ]
+  },
+  {
+   "text": "Gál István",
+   "bbox": [
+    423,
+    310,
+    552,
+    335
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    366,
+    240,
+    385
+   ]
+  },
+  {
+   "text": "Nyékhídvára",
+   "bbox": [
+    423,
+    362,
+    586,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    420,
+    229,
+    435
+   ]
+  },
+  {
+   "text": "2001.11.04.",
+   "bbox": [
+    423,
+    420,
+    596,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    474,
+    176,
+    489
+   ]
+  },
+  {
+   "text": "H-1345 Budapest, Békésmelléki utca 37.",
+   "bbox": [
+    423,
+    471,
+    973,
+    502
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    528,
+    230,
+    543
+   ]
+  },
+  {
+   "text": "+36 30 369 4916",
+   "bbox": [
+    423,
+    525,
+    677,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    582,
+    208,
+    597
+   ]
+  },
+  {
+   "text": "nagy.tamas@freemail.hu",
+   "bbox": [
+    423,
+    577,
+    740,
+    607
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    636,
+    266,
+    655
+   ]
+  },
+  {
+   "text": "8492503696",
+   "bbox": [
+    423,
+    638,
+    613,
+    658
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    690,
+    202,
+    705
+   ]
+  },
+  {
+   "text": "540 732 603",
+   "bbox": [
+    423,
+    688,
+    614,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    769,
+    270,
+    791
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    815,
+    474,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    860,
+    289,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    905,
+    492,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    1007,
+    132,
+    1023
+   ]
+  },
+  {
+   "text": "Debrecen, 2024.03.29.",
+   "bbox": [
+    178,
+    1008,
+    467,
+    1032
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1057,
+    989,
+    1070
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

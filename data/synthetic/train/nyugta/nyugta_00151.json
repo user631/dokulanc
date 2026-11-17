@@ -1,0 +1,411 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALOGH DISZKONT BT.",
+  "uzlet_cim": "H-8493 Keresztfa, Arany jános út 53.",
+  "adoszam": "46272355-2-09",
+  "datum": "2025.04.24.",
+  "ido": "08:29",
+  "nyugtaszam": "2539/68809",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 820 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "985"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "786"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "634"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1425"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "975"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2667"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "761"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1220"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "975"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "533"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "849"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH DISZKONT BT.",
+   "bbox": [
+    183,
+    34,
+    430,
+    48
+   ]
+  },
+  {
+   "text": "H-8493 Keresztfa, Arany jános út 53.",
+   "bbox": [
+    109,
+    63,
+    505,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46272355-2-09",
+   "bbox": [
+    186,
+    87,
+    428,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    128,
+    350,
+    143
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    168,
+    204,
+    182
+   ]
+  },
+  {
+   "text": "985 A00",
+   "bbox": [
+    507,
+    168,
+    591,
+    182
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    196,
+    132,
+    210
+   ]
+  },
+  {
+   "text": "786 A00",
+   "bbox": [
+    507,
+    196,
+    591,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 317",
+   "bbox": [
+    24,
+    224,
+    124,
+    236
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    246,
+    192,
+    260
+   ]
+  },
+  {
+   "text": "634 C00",
+   "bbox": [
+    507,
+    246,
+    591,
+    260
+   ]
+  },
+  {
+   "text": "3 DB x 475",
+   "bbox": [
+    24,
+    274,
+    124,
+    286
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    297,
+    192,
+    310
+   ]
+  },
+  {
+   "text": "1425 A00",
+   "bbox": [
+    495,
+    296,
+    591,
+    310
+   ]
+  },
+  {
+   "text": "3 DB x 325",
+   "bbox": [
+    24,
+    324,
+    124,
+    336
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    347,
+    180,
+    360
+   ]
+  },
+  {
+   "text": "975 C00",
+   "bbox": [
+    507,
+    346,
+    591,
+    360
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    374,
+    132,
+    388
+   ]
+  },
+  {
+   "text": "2667 A00",
+   "bbox": [
+    495,
+    374,
+    591,
+    388
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    402,
+    216,
+    416
+   ]
+  },
+  {
+   "text": "761 B00",
+   "bbox": [
+    507,
+    402,
+    591,
+    416
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    431,
+    180,
+    444
+   ]
+  },
+  {
+   "text": "1220 A00",
+   "bbox": [
+    495,
+    430,
+    591,
+    444
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    458,
+    168,
+    472
+   ]
+  },
+  {
+   "text": "975 B00",
+   "bbox": [
+    507,
+    458,
+    591,
+    472
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    486,
+    156,
+    500
+   ]
+  },
+  {
+   "text": "533 A00",
+   "bbox": [
+    507,
+    486,
+    591,
+    500
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    514,
+    120,
+    528
+   ]
+  },
+  {
+   "text": "849 B00",
+   "bbox": [
+    507,
+    514,
+    591,
+    528
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    552,
+    164,
+    571
+   ]
+  },
+  {
+   "text": "11 820 Ft",
+   "bbox": [
+    465,
+    554,
+    591,
+    571
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    590,
+    144,
+    606
+   ]
+  },
+  {
+   "text": "11 820 Ft",
+   "bbox": [
+    483,
+    592,
+    591,
+    606
+   ]
+  },
+  {
+   "text": "2025.04.24.",
+   "bbox": [
+    24,
+    634,
+    145,
+    647
+   ]
+  },
+  {
+   "text": "08:29",
+   "bbox": [
+    536,
+    634,
+    591,
+    647
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2539/68809",
+   "bbox": [
+    24,
+    661,
+    266,
+    678
+   ]
+  },
+  {
+   "text": "AP A98386984",
+   "bbox": [
+    24,
+    690,
+    156,
+    703
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    252,
+    728,
+    362,
+    743
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  615,
+  788
+ ]
+}

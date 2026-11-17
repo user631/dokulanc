@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Németh Miklós",
+  "email": "nemeth.miklos@freemail.hu",
+  "telefon": "06 1 434 8828",
+  "lakcim": "H-5877 Nyírtamásidevecser, Salgótarjáni utca 62.",
+  "szuletesi_datum": "1977.07.12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "1997 – 2002"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Szolgáltató Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "ceg": "Kovács Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2001 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "prezentáció",
+   "Java",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Németh Miklós",
+   "bbox": [
+    457,
+    100,
+    783,
+    134
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    169,
+    720,
+    191
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    158,
+    235
+   ]
+  },
+  {
+   "text": "nemeth.miklos@freemail.hu",
+   "bbox": [
+    330,
+    220,
+    578,
+    239
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    168,
+    265
+   ]
+  },
+  {
+   "text": "06 1 434 8828",
+   "bbox": [
+    330,
+    250,
+    458,
+    265
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    280,
+    166,
+    295
+   ]
+  },
+  {
+   "text": "H-5877 Nyírtamásidevecser, Salgótarjáni utca 62.",
+   "bbox": [
+    330,
+    280,
+    772,
+    299
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    310,
+    250,
+    325
+   ]
+  },
+  {
+   "text": "1977.07.12.",
+   "bbox": [
+    330,
+    310,
+    436,
+    325
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    361,
+    315,
+    383
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    410,
+    201,
+    425
+   ]
+  },
+  {
+   "text": "tesztmérnök – Molnár Szolgáltató Bt.",
+   "bbox": [
+    90,
+    434,
+    464,
+    454
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    90,
+    474,
+    201,
+    489
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kovács Kft.",
+   "bbox": [
+    90,
+    498,
+    414,
+    518
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    547,
+    246,
+    571
+   ]
+  },
+  {
+   "text": "1997 – 2002",
+   "bbox": [
+    90,
+    598,
+    201,
+    613
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    622,
+    372,
+    642
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    646,
+    391,
+    665
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    686,
+    201,
+    701
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    710,
+    382,
+    730
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    734,
+    316,
+    753
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    783,
+    217,
+    807
+   ]
+  },
+  {
+   "text": "német (B2), angol (C1)",
+   "bbox": [
+    90,
+    834,
+    295,
+    853
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    879,
+    213,
+    903
+   ]
+  },
+  {
+   "text": "SAP, prezentáció, Java, csapatmunka",
+   "bbox": [
+    90,
+    930,
+    429,
+    949
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Nagy Mária",
+  "anyja_neve": "Hegedűs Nikolett",
+  "szuletesi_hely": "Borsodmellékvára",
+  "szuletesi_datum": "1967.09.13.",
+  "lakcim": "H-7642 Egyházasligethalas, Petőfi út 112.",
+  "telefon": "+36 70 557 9738",
+  "email": "nagy.maria@outlook.com",
+  "adoazonosito_jel": "8367792882",
+  "taj_szam": "986 243 400",
+  "kelt": "Hátbánya, 2026.05.05."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    447,
+    103,
+    792,
+    140
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    475,
+    159,
+    763,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    212,
+    330,
+    234
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    266,
+    154,
+    281
+   ]
+  },
+  {
+   "text": "Nagy Mária",
+   "bbox": [
+    400,
+    259,
+    520,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    319,
+    214,
+    337
+   ]
+  },
+  {
+   "text": "Hegedűs Nikolett",
+   "bbox": [
+    399,
+    314,
+    584,
+    344
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    370,
+    234,
+    389
+   ]
+  },
+  {
+   "text": "Borsodmellékvára",
+   "bbox": [
+    399,
+    368,
+    584,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    422,
+    225,
+    437
+   ]
+  },
+  {
+   "text": "1967.09.13.",
+   "bbox": [
+    400,
+    416,
+    526,
+    437
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    474,
+    179,
+    489
+   ]
+  },
+  {
+   "text": "H-7642 Egyházasligethalas, Petőfi út 112.",
+   "bbox": [
+    399,
+    467,
+    862,
+    497
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    114,
+    526,
+    226,
+    541
+   ]
+  },
+  {
+   "text": "+36 70 557 9738",
+   "bbox": [
+    400,
+    520,
+    594,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    578,
+    209,
+    593
+   ]
+  },
+  {
+   "text": "nagy.maria@outlook.com",
+   "bbox": [
+    400,
+    575,
+    652,
+    602
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    630,
+    256,
+    649
+   ]
+  },
+  {
+   "text": "8367792882",
+   "bbox": [
+    400,
+    627,
+    560,
+    648
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    114,
+    682,
+    200,
+    697
+   ]
+  },
+  {
+   "text": "986 243 400",
+   "bbox": [
+    400,
+    680,
+    555,
+    701
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    761,
+    285,
+    782
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    804,
+    436,
+    823
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    849,
+    282,
+    864
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    894,
+    456,
+    913
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    997,
+    145,
+    1013
+   ]
+  },
+  {
+   "text": "Hátbánya, 2026.05.05.",
+   "bbox": [
+    192,
+    990,
+    411,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    924,
+    1046,
+    969,
+    1059
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

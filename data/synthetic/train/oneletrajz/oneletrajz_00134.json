@@ -1,0 +1,331 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Oláh Judit",
+  "email": "olah.judit@freemail.hu",
+  "telefon": "+36 30 286 4300",
+  "lakcim": "H-7799 Fürdőháza, Bakonytapolcai út 84.",
+  "szuletesi_datum": "1993.05.21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Jakab és Társa Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "ceg": "Mészáros Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2017 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SAP",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    83,
+    202,
+    105
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    97,
+    143
+   ]
+  },
+  {
+   "text": "olah.judit@freemail.hu",
+   "bbox": [
+    40,
+    151,
+    216,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    108,
+    197
+   ]
+  },
+  {
+   "text": "+36 30 286 4300",
+   "bbox": [
+    40,
+    206,
+    181,
+    219
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    237,
+    104,
+    251
+   ]
+  },
+  {
+   "text": "H-7799 Fürdőháza, Bakonytapolcai út 84.",
+   "bbox": [
+    40,
+    259,
+    368,
+    277
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    291,
+    183,
+    305
+   ]
+  },
+  {
+   "text": "1993.05.21.",
+   "bbox": [
+    40,
+    314,
+    135,
+    327
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    371,
+    189,
+    393
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    413,
+    134,
+    432
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    439,
+    138,
+    458
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    491,
+    171,
+    513
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    533,
+    97,
+    552
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    560,
+    73,
+    574
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    585,
+    151,
+    604
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    611,
+    216,
+    630
+   ]
+  },
+  {
+   "text": "Oláh Judit",
+   "bbox": [
+    450,
+    91,
+    674,
+    128
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    160,
+    623,
+    179
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    222,
+    690,
+    246
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    272,
+    561,
+    287
+   ]
+  },
+  {
+   "text": "adatelemző – Jakab és Társa Zrt.",
+   "bbox": [
+    450,
+    295,
+    798,
+    312
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    450,
+    336,
+    561,
+    351
+   ]
+  },
+  {
+   "text": "projektmenedzser – Mészáros Tech Kft.",
+   "bbox": [
+    450,
+    359,
+    864,
+    380
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    409,
+    612,
+    434
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    460,
+    561,
+    475
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    483,
+    736,
+    504
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    506,
+    748,
+    527
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    548,
+    561,
+    563
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    571,
+    702,
+    592
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    594,
+    529,
+    615
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

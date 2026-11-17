@@ -1,0 +1,347 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH ÉLELMISZER KFT.",
+  "uzlet_cim": "H-7909 Mindszentharaszti, Székesfehérvári utca 37.",
+  "adoszam": "88963208-4-07",
+  "datum": "2025.01.13.",
+  "ido": "18:04",
+  "nyugtaszam": "2924/06320",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 338 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1216"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1315"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "767"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1720"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "407"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "519"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2303"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "381"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "710"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH ÉLELMISZER KFT.",
+   "bbox": [
+    136,
+    28,
+    444,
+    49
+   ]
+  },
+  {
+   "text": "H-7909 Mindszentharaszti, Székesfehérvári",
+   "bbox": [
+    44,
+    66,
+    536,
+    85
+   ]
+  },
+  {
+   "text": "utca 37.",
+   "bbox": [
+    242,
+    95,
+    338,
+    108
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 88963208-4-07",
+   "bbox": [
+    158,
+    118,
+    422,
+    135
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    245,
+    164,
+    335,
+    181
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    208,
+    180,
+    223
+   ]
+  },
+  {
+   "text": "1216 B00",
+   "bbox": [
+    453,
+    208,
+    557,
+    223
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    239,
+    154,
+    254
+   ]
+  },
+  {
+   "text": "1315 A00",
+   "bbox": [
+    453,
+    239,
+    557,
+    254
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    270,
+    128,
+    285
+   ]
+  },
+  {
+   "text": "767 C00",
+   "bbox": [
+    466,
+    270,
+    557,
+    285
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    301,
+    154,
+    316
+   ]
+  },
+  {
+   "text": "1720 C00",
+   "bbox": [
+    453,
+    301,
+    557,
+    316
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    332,
+    206,
+    347
+   ]
+  },
+  {
+   "text": "407 B00",
+   "bbox": [
+    466,
+    332,
+    557,
+    347
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    363,
+    206,
+    378
+   ]
+  },
+  {
+   "text": "519 B00",
+   "bbox": [
+    466,
+    363,
+    557,
+    378
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    394,
+    271,
+    409
+   ]
+  },
+  {
+   "text": "2303 B00",
+   "bbox": [
+    453,
+    394,
+    557,
+    409
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    424,
+    167,
+    444
+   ]
+  },
+  {
+   "text": "381 B00",
+   "bbox": [
+    466,
+    425,
+    557,
+    440
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    456,
+    141,
+    471
+   ]
+  },
+  {
+   "text": "710 B00",
+   "bbox": [
+    466,
+    456,
+    557,
+    471
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    495,
+    159,
+    517
+   ]
+  },
+  {
+   "text": "9 338 Ft",
+   "bbox": [
+    437,
+    500,
+    557,
+    517
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    535,
+    167,
+    555
+   ]
+  },
+  {
+   "text": "9 338 Ft",
+   "bbox": [
+    453,
+    540,
+    557,
+    555
+   ]
+  },
+  {
+   "text": "2025.01.13.",
+   "bbox": [
+    24,
+    585,
+    156,
+    598
+   ]
+  },
+  {
+   "text": "18:04",
+   "bbox": [
+    497,
+    585,
+    557,
+    598
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2924/06320",
+   "bbox": [
+    24,
+    612,
+    288,
+    631
+   ]
+  },
+  {
+   "text": "AP A71282150",
+   "bbox": [
+    24,
+    647,
+    168,
+    660
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    200,
+    685,
+    380,
+    704
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  581,
+  750
+ ]
+}

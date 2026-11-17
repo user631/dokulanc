@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FEKETE MARKET BT.",
+  "uzlet_cim": "H-4920 Mártonhalas, Nagykanizsai utca 229.",
+  "adoszam": "57154576-2-10",
+  "datum": "2024.02.02.",
+  "ido": "13:49",
+  "nyugtaszam": "9554/55298",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 406 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "761"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "338"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "307"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEKETE MARKET BT.",
+   "bbox": [
+    194,
+    33,
+    415,
+    48
+   ]
+  },
+  {
+   "text": "H-4920 Mártonhalas, Nagykanizsai utca 229.",
+   "bbox": [
+    95,
+    65,
+    515,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 57154576-2-10",
+   "bbox": [
+    195,
+    88,
+    415,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    130,
+    347,
+    146
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    173,
+    120,
+    186
+   ]
+  },
+  {
+   "text": "761 B00",
+   "bbox": [
+    502,
+    173,
+    586,
+    186
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    201,
+    156,
+    219
+   ]
+  },
+  {
+   "text": "338 A00",
+   "bbox": [
+    502,
+    202,
+    586,
+    215
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    231,
+    180,
+    244
+   ]
+  },
+  {
+   "text": "307 A00",
+   "bbox": [
+    502,
+    231,
+    586,
+    244
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    267,
+    164,
+    288
+   ]
+  },
+  {
+   "text": "1 406 Ft",
+   "bbox": [
+    474,
+    272,
+    586,
+    288
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    307,
+    156,
+    324
+   ]
+  },
+  {
+   "text": "1 406 Ft",
+   "bbox": [
+    490,
+    311,
+    586,
+    324
+   ]
+  },
+  {
+   "text": "2024.02.02.",
+   "bbox": [
+    24,
+    354,
+    134,
+    366
+   ]
+  },
+  {
+   "text": "13:49",
+   "bbox": [
+    536,
+    354,
+    586,
+    366
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9554/55298",
+   "bbox": [
+    24,
+    380,
+    244,
+    397
+   ]
+  },
+  {
+   "text": "AP A19610946",
+   "bbox": [
+    24,
+    412,
+    144,
+    424
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    250,
+    448,
+    360,
+    465
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  610,
+  511
+ ]
+}

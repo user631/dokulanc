@@ -1,0 +1,303 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-3267 Híddevecser, Györgykövesdi utca 188.",
+  "adoszam": "90013771-2-12",
+  "datum": "2025.07.27.",
+  "ido": "11:09",
+  "nyugtaszam": "3604/64870",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 805 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2233"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7701"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "475"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "775"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "493"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "979"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS ÉLELMISZER KFT.",
+   "bbox": [
+    160,
+    30,
+    460,
+    50
+   ]
+  },
+  {
+   "text": "H-3267 Híddevecser, Györgykövesdi utca 188.",
+   "bbox": [
+    30,
+    65,
+    589,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90013771-2-12",
+   "bbox": [
+    167,
+    92,
+    453,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    138,
+    359,
+    155
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    180,
+    290,
+    197
+   ]
+  },
+  {
+   "text": "2233 B00",
+   "bbox": [
+    485,
+    180,
+    597,
+    197
+   ]
+  },
+  {
+   "text": "3 DB x 2567",
+   "bbox": [
+    24,
+    211,
+    156,
+    225
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    236,
+    150,
+    253
+   ]
+  },
+  {
+   "text": "7701 C00",
+   "bbox": [
+    485,
+    236,
+    597,
+    253
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    267,
+    178,
+    284
+   ]
+  },
+  {
+   "text": "475 A00",
+   "bbox": [
+    499,
+    267,
+    597,
+    284
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    301,
+    206,
+    315
+   ]
+  },
+  {
+   "text": "1149 B00",
+   "bbox": [
+    485,
+    298,
+    597,
+    315
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    329,
+    248,
+    346
+   ]
+  },
+  {
+   "text": "775 A00",
+   "bbox": [
+    499,
+    329,
+    597,
+    346
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    363,
+    220,
+    377
+   ]
+  },
+  {
+   "text": "493 C00",
+   "bbox": [
+    499,
+    360,
+    597,
+    377
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    391,
+    136,
+    408
+   ]
+  },
+  {
+   "text": "979 B00",
+   "bbox": [
+    499,
+    391,
+    597,
+    408
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    433,
+    168,
+    454
+   ]
+  },
+  {
+   "text": "13 805 Ft",
+   "bbox": [
+    453,
+    434,
+    597,
+    454
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    474,
+    178,
+    492
+   ]
+  },
+  {
+   "text": "13 805 Ft",
+   "bbox": [
+    471,
+    475,
+    597,
+    492
+   ]
+  },
+  {
+   "text": "2025.07.27.",
+   "bbox": [
+    24,
+    520,
+    167,
+    535
+   ]
+  },
+  {
+   "text": "11:09",
+   "bbox": [
+    532,
+    520,
+    597,
+    535
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3604/64870",
+   "bbox": [
+    24,
+    549,
+    310,
+    569
+   ]
+  },
+  {
+   "text": "AP A56011157",
+   "bbox": [
+    24,
+    582,
+    180,
+    597
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    245,
+    624,
+    375,
+    641
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  621,
+  686
+ ]
+}

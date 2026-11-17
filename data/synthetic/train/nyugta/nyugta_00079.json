@@ -1,0 +1,347 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS MARKET KFT.",
+  "uzlet_cim": "H-3620 Budapest, Petőfi sándor utca 182.",
+  "adoszam": "12892350-2-18",
+  "datum": "2024.06.25.",
+  "ido": "14:11",
+  "nyugtaszam": "3557/46346",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 307 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1071"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "380"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "972"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1716"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "591"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2010"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "374"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2476"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "717"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS MARKET KFT.",
+   "bbox": [
+    165,
+    37,
+    421,
+    52
+   ]
+  },
+  {
+   "text": "H-3620 Budapest, Petőfi sándor utca 182.",
+   "bbox": [
+    33,
+    71,
+    553,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 12892350-2-18",
+   "bbox": [
+    150,
+    96,
+    436,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    144,
+    345,
+    160
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    188,
+    164,
+    202
+   ]
+  },
+  {
+   "text": "1071 A00",
+   "bbox": [
+    450,
+    187,
+    562,
+    202
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    219,
+    220,
+    234
+   ]
+  },
+  {
+   "text": "380 A00",
+   "bbox": [
+    464,
+    219,
+    562,
+    234
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    251,
+    192,
+    266
+   ]
+  },
+  {
+   "text": "972 B00",
+   "bbox": [
+    464,
+    251,
+    562,
+    266
+   ]
+  },
+  {
+   "text": "3 DB x 572",
+   "bbox": [
+    24,
+    283,
+    154,
+    296
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    309,
+    220,
+    324
+   ]
+  },
+  {
+   "text": "1716 C00",
+   "bbox": [
+    450,
+    309,
+    562,
+    324
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    341,
+    248,
+    356
+   ]
+  },
+  {
+   "text": "591 B00",
+   "bbox": [
+    464,
+    341,
+    562,
+    356
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    373,
+    150,
+    388
+   ]
+  },
+  {
+   "text": "2010 C00",
+   "bbox": [
+    450,
+    373,
+    562,
+    388
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    406,
+    220,
+    420
+   ]
+  },
+  {
+   "text": "374 C00",
+   "bbox": [
+    464,
+    405,
+    562,
+    420
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    437,
+    290,
+    452
+   ]
+  },
+  {
+   "text": "2476 B00",
+   "bbox": [
+    450,
+    437,
+    562,
+    452
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    469,
+    136,
+    484
+   ]
+  },
+  {
+   "text": "717 C00",
+   "bbox": [
+    464,
+    469,
+    562,
+    484
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    510,
+    194,
+    532
+   ]
+  },
+  {
+   "text": "10 307 Ft",
+   "bbox": [
+    409,
+    515,
+    562,
+    532
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    551,
+    165,
+    570
+   ]
+  },
+  {
+   "text": "10 307 Ft",
+   "bbox": [
+    436,
+    555,
+    562,
+    570
+   ]
+  },
+  {
+   "text": "2024.06.25.",
+   "bbox": [
+    24,
+    601,
+    167,
+    615
+   ]
+  },
+  {
+   "text": "14:11",
+   "bbox": [
+    497,
+    601,
+    562,
+    615
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3557/46346",
+   "bbox": [
+    24,
+    630,
+    310,
+    649
+   ]
+  },
+  {
+   "text": "AP A11494450",
+   "bbox": [
+    24,
+    665,
+    180,
+    679
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    223,
+    706,
+    363,
+    724
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  586,
+  768
+ ]
+}

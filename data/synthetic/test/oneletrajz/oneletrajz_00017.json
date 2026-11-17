@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Andrea",
+  "email": "szabo.andrea@gmail.com",
+  "telefon": "+36 20 795 1990",
+  "lakcim": "H-8984 Tótvárad, Petőfi sándor utca 113.",
+  "szuletesi_datum": "2000.10.13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2018 – 2023"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Oláh Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2022 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "B kategóriás jogosítvány",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Andrea",
+   "bbox": [
+    454,
+    100,
+    785,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    166,
+    679,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    169,
+    241
+   ]
+  },
+  {
+   "text": "szabo.andrea@gmail.com",
+   "bbox": [
+    330,
+    224,
+    580,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    180,
+    273
+   ]
+  },
+  {
+   "text": "+36 20 795 1990",
+   "bbox": [
+    330,
+    257,
+    499,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    177,
+    305
+   ]
+  },
+  {
+   "text": "H-8984 Tótvárad, Petőfi sándor utca 113.",
+   "bbox": [
+    330,
+    287,
+    735,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    275,
+    337
+   ]
+  },
+  {
+   "text": "2000.10.13.",
+   "bbox": [
+    330,
+    321,
+    447,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    373,
+    357,
+    398
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    90,
+    425,
+    212,
+    441
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Oláh Kft.",
+   "bbox": [
+    89,
+    450,
+    398,
+    473
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    502,
+    269,
+    528
+   ]
+  },
+  {
+   "text": "2018 – 2023",
+   "bbox": [
+    90,
+    555,
+    212,
+    571
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    580,
+    483,
+    603
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    605,
+    245,
+    627
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    649,
+    212,
+    665
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    674,
+    386,
+    692
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    700,
+    279,
+    721
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    752,
+    236,
+    778
+   ]
+  },
+  {
+   "text": "francia (A2), német (B2)",
+   "bbox": [
+    90,
+    803,
+    327,
+    825
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    852,
+    225,
+    878
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, B kategóriás jogosítvány, csapatmunka",
+   "bbox": [
+    90,
+    903,
+    615,
+    925
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

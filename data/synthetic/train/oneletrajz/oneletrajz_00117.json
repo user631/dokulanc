@@ -1,0 +1,321 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Barbara",
+  "email": "toth.barbara@gmail.com",
+  "telefon": "+36 70 346 7333",
+  "lakcim": "H-2829 Piliskeresztháza, Érdi utca 242.",
+  "szuletesi_datum": "1997.12.02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Szolgáltató Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2023"
+   },
+   {
+    "ceg": "Balog Tech Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2020 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Linux",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    232,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    102,
+    160
+   ]
+  },
+  {
+   "text": "toth.barbara@gmail.com",
+   "bbox": [
+    40,
+    170,
+    251,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    108,
+    220
+   ]
+  },
+  {
+   "text": "+36 70 346 7333",
+   "bbox": [
+    40,
+    231,
+    188,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    110,
+    280
+   ]
+  },
+  {
+   "text": "H-2829 Piliskeresztháza, Érdi utca 242.",
+   "bbox": [
+    40,
+    286,
+    376,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    326,
+    183,
+    340
+   ]
+  },
+  {
+   "text": "1997.12.02.",
+   "bbox": [
+    40,
+    351,
+    143,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    411,
+    213,
+    434
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    456,
+    140,
+    476
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    511,
+    194,
+    534
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    556,
+    261,
+    577
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    586,
+    80,
+    601
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    614,
+    92,
+    630
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    644,
+    80,
+    659
+   ]
+  },
+  {
+   "text": "Tóth Barbara",
+   "bbox": [
+    450,
+    106,
+    730,
+    139
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    177,
+    660,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    686,
+    267
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    450,
+    295,
+    570,
+    310
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    322,
+    833,
+    343
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    450,
+    365,
+    570,
+    380
+   ]
+  },
+  {
+   "text": "értékesítő – Balog Tech Bt.",
+   "bbox": [
+    450,
+    392,
+    727,
+    413
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    446,
+    615,
+    470
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    450,
+    498,
+    570,
+    513
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    525,
+    730,
+    546
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    449,
+    551,
+    575,
+    572
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    595,
+    570,
+    610
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    622,
+    766,
+    643
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    648,
+    631,
+    669
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

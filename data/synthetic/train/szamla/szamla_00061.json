@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2024/01034",
+  "kiallitas_datuma": "2024.08.13.",
+  "teljesites_datuma": "2024.08.08.",
+  "fizetesi_hatarido": "2024.08.28.",
+  "elado_nev": "Nagy Consulting Kft.",
+  "elado_cim": "H-5299 Újhídváros, Mártonvárosi utca 196.",
+  "elado_adoszam": "40132378-2-15",
+  "vevo_nev": "Kis József",
+  "vevo_cim": "H-2821 Kaposvár, Dózsa györgy utca 225.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU87 9152 3125 5311 1829 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "139 550 Ft",
+  "afa_osszesen": "36 005 Ft",
+  "brutto_osszesen": "175 555 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "4 700",
+    "netto": "4 700",
+    "afa_kulcs": "27%",
+    "afa": "1 269",
+    "brutto": "5 969"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "21 320",
+    "netto": "106 600",
+    "afa_kulcs": "27%",
+    "afa": "28 782",
+    "brutto": "135 382"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "9 650",
+    "netto": "9 650",
+    "afa_kulcs": "27%",
+    "afa": "2 606",
+    "brutto": "12 256"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "12 karton",
+    "egysegar": "1 550",
+    "netto": "18 600",
+    "afa_kulcs": "18%",
+    "afa": "3 348",
+    "brutto": "21 948"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    150,
+    141,
+    220,
+    158
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    701,
+    123,
+    1135,
+    156
+   ]
+  },
+  {
+   "text": "Sorszám: A-2024/01034",
+   "bbox": [
+    842,
+    180,
+    1135,
+    200
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    104,
+    260,
+    179,
+    280
+   ]
+  },
+  {
+   "text": "Kis József",
+   "bbox": [
+    105,
+    299,
+    242,
+    319
+   ]
+  },
+  {
+   "text": "H-2821 Kaposvár, Dózsa györgy utca 225.",
+   "bbox": [
+    105,
+    336,
+    581,
+    359
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    260,
+    714,
+    280
+   ]
+  },
+  {
+   "text": "Nagy Consulting Kft.",
+   "bbox": [
+    630,
+    299,
+    904,
+    324
+   ]
+  },
+  {
+   "text": "H-5299 Újhídváros, Mártonvárosi utca 196.",
+   "bbox": [
+    630,
+    331,
+    1111,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 40132378-2-15",
+   "bbox": [
+    629,
+    369,
+    920,
+    387
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    105,
+    438,
+    304,
+    458
+   ]
+  },
+  {
+   "text": "2024.08.13.",
+   "bbox": [
+    405,
+    440,
+    538,
+    458
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    105,
+    473,
+    322,
+    498
+   ]
+  },
+  {
+   "text": "2024.08.08.",
+   "bbox": [
+    405,
+    475,
+    538,
+    493
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    105,
+    508,
+    310,
+    528
+   ]
+  },
+  {
+   "text": "2024.08.28.",
+   "bbox": [
+    405,
+    510,
+    538,
+    528
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    105,
+    543,
+    264,
+    563
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    405,
+    545,
+    529,
+    568
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    105,
+    590,
+    232,
+    611
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    591,
+    591,
+    611
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    645,
+    590,
+    743,
+    611
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    812,
+    590,
+    867,
+    607
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    864,
+    587,
+    929,
+    608
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    981,
+    587,
+    1026,
+    607
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1070,
+    590,
+    1135,
+    607
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    517,
+    635,
+    581,
+    651
+   ]
+  },
+  {
+   "text": "4 700",
+   "bbox": [
+    689,
+    635,
+    743,
+    651
+   ]
+  },
+  {
+   "text": "4 700",
+   "bbox": [
+    813,
+    635,
+    867,
+    651
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    885,
+    635,
+    929,
+    651
+   ]
+  },
+  {
+   "text": "1 269",
+   "bbox": [
+    972,
+    635,
+    1026,
+    651
+   ]
+  },
+  {
+   "text": "5 969",
+   "bbox": [
+    1081,
+    635,
+    1135,
+    651
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    105,
+    635,
+    364,
+    655
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    517,
+    673,
+    558,
+    689
+   ]
+  },
+  {
+   "text": "21 320",
+   "bbox": [
+    677,
+    673,
+    743,
+    689
+   ]
+  },
+  {
+   "text": "106 600",
+   "bbox": [
+    789,
+    673,
+    867,
+    689
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    885,
+    673,
+    929,
+    689
+   ]
+  },
+  {
+   "text": "28 782",
+   "bbox": [
+    960,
+    673,
+    1026,
+    689
+   ]
+  },
+  {
+   "text": "135 382",
+   "bbox": [
+    1057,
+    673,
+    1135,
+    689
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    105,
+    673,
+    280,
+    693
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    517,
+    711,
+    559,
+    727
+   ]
+  },
+  {
+   "text": "9 650",
+   "bbox": [
+    689,
+    711,
+    743,
+    727
+   ]
+  },
+  {
+   "text": "9 650",
+   "bbox": [
+    813,
+    711,
+    867,
+    727
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    885,
+    711,
+    929,
+    727
+   ]
+  },
+  {
+   "text": "2 606",
+   "bbox": [
+    972,
+    711,
+    1026,
+    727
+   ]
+  },
+  {
+   "text": "12 256",
+   "bbox": [
+    1069,
+    711,
+    1135,
+    727
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    105,
+    711,
+    272,
+    727
+   ]
+  },
+  {
+   "text": "12 karton",
+   "bbox": [
+    517,
+    749,
+    607,
+    765
+   ]
+  },
+  {
+   "text": "1 550",
+   "bbox": [
+    689,
+    749,
+    743,
+    765
+   ]
+  },
+  {
+   "text": "18 600",
+   "bbox": [
+    801,
+    749,
+    867,
+    765
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    885,
+    749,
+    929,
+    765
+   ]
+  },
+  {
+   "text": "3 348",
+   "bbox": [
+    972,
+    749,
+    1026,
+    765
+   ]
+  },
+  {
+   "text": "21 948",
+   "bbox": [
+    1069,
+    749,
+    1135,
+    765
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    104,
+    745,
+    252,
+    769
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    622,
+    808,
+    805,
+    827
+   ]
+  },
+  {
+   "text": "139 550 Ft",
+   "bbox": [
+    1014,
+    808,
+    1136,
+    827
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    632,
+    841,
+    805,
+    866
+   ]
+  },
+  {
+   "text": "36 005 Ft",
+   "bbox": [
+    1028,
+    847,
+    1136,
+    866
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    553,
+    886,
+    805,
+    905
+   ]
+  },
+  {
+   "text": "175 555 Ft",
+   "bbox": [
+    1012,
+    886,
+    1135,
+    905
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU87 9152 3125 5311 1829 0000 0000",
+   "bbox": [
+    105,
+    955,
+    719,
+    972
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    105,
+    988,
+    770,
+    1007
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    466,
+    1629,
+    774,
+    1648
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

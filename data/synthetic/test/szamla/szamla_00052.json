@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2024/07701",
+  "kiallitas_datuma": "2024.03.03.",
+  "teljesites_datuma": "2024.02.27.",
+  "fizetesi_hatarido": "2024.03.11.",
+  "elado_nev": "Varga Logisztika Zrt.",
+  "elado_cim": "H-8117 Szeged, Tapolcaapátii út 230.",
+  "elado_adoszam": "80358143-5-34",
+  "vevo_nev": "Fekete Trade Bt.",
+  "vevo_cim": "H-3306 Magyarkeresztvára, Felsőtamásii utca 63.",
+  "vevo_adoszam": "22930998-2-41",
+  "bankszamla": "HU12 7272 9281 8968 7037 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "197 580 Ft",
+  "afa_osszesen": "28 671 Ft",
+  "brutto_osszesen": "226 251 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "17 820",
+    "netto": "17 820",
+    "afa_kulcs": "27%",
+    "afa": "4 811",
+    "brutto": "22 631"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "4 db",
+    "egysegar": "740",
+    "netto": "2 960",
+    "afa_kulcs": "5%",
+    "afa": "148",
+    "brutto": "3 108"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "10 db",
+    "egysegar": "10 920",
+    "netto": "109 200",
+    "afa_kulcs": "5%",
+    "afa": "5 460",
+    "brutto": "114 660"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "5 óra",
+    "egysegar": "13 520",
+    "netto": "67 600",
+    "afa_kulcs": "27%",
+    "afa": "18 252",
+    "brutto": "85 852"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    434,
+    100,
+    806,
+    138
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/07701",
+   "bbox": [
+    449,
+    164,
+    792,
+    181
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    100,
+    244,
+    170,
+    261
+   ]
+  },
+  {
+   "text": "Varga Logisztika Zrt.",
+   "bbox": [
+    99,
+    279,
+    326,
+    301
+   ]
+  },
+  {
+   "text": "H-8117 Szeged, Tapolcaapátii út 230.",
+   "bbox": [
+    100,
+    313,
+    462,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 80358143-5-34",
+   "bbox": [
+    99,
+    342,
+    348,
+    357
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    244,
+    693,
+    261
+   ]
+  },
+  {
+   "text": "Fekete Trade Bt.",
+   "bbox": [
+    630,
+    279,
+    810,
+    296
+   ]
+  },
+  {
+   "text": "H-3306 Magyarkeresztvára, Felsőtamásii utca 63.",
+   "bbox": [
+    630,
+    313,
+    1107,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 22930998-2-41",
+   "bbox": [
+    629,
+    342,
+    878,
+    357
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    100,
+    407,
+    238,
+    421
+   ]
+  },
+  {
+   "text": "2024.03.03.",
+   "bbox": [
+    100,
+    435,
+    206,
+    450
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    407,
+    511,
+    425
+   ]
+  },
+  {
+   "text": "2024.02.27.",
+   "bbox": [
+    360,
+    435,
+    466,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    407,
+    762,
+    421
+   ]
+  },
+  {
+   "text": "2024.03.11.",
+   "bbox": [
+    620,
+    435,
+    726,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    407,
+    989,
+    421
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    880,
+    435,
+    950,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    483,
+    206,
+    501
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    484,
+    578,
+    501
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    483,
+    745,
+    501
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    483,
+    869,
+    497
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    879,
+    480,
+    932,
+    498
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    993,
+    480,
+    1030,
+    497
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    483,
+    1140,
+    497
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    516,
+    524,
+    557,
+    537
+   ]
+  },
+  {
+   "text": "17 820",
+   "bbox": [
+    689,
+    524,
+    744,
+    537
+   ]
+  },
+  {
+   "text": "17 820",
+   "bbox": [
+    814,
+    524,
+    869,
+    537
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    524,
+    932,
+    537
+   ]
+  },
+  {
+   "text": "4 811",
+   "bbox": [
+    985,
+    524,
+    1030,
+    537
+   ]
+  },
+  {
+   "text": "22 631",
+   "bbox": [
+    1085,
+    524,
+    1140,
+    537
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    100,
+    524,
+    345,
+    541
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    516,
+    558,
+    551,
+    571
+   ]
+  },
+  {
+   "text": "740",
+   "bbox": [
+    714,
+    558,
+    744,
+    571
+   ]
+  },
+  {
+   "text": "2 960",
+   "bbox": [
+    824,
+    558,
+    869,
+    571
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    906,
+    558,
+    932,
+    571
+   ]
+  },
+  {
+   "text": "148",
+   "bbox": [
+    1000,
+    558,
+    1030,
+    571
+   ]
+  },
+  {
+   "text": "3 108",
+   "bbox": [
+    1095,
+    558,
+    1140,
+    571
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    100,
+    558,
+    196,
+    575
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    516,
+    592,
+    561,
+    605
+   ]
+  },
+  {
+   "text": "10 920",
+   "bbox": [
+    689,
+    592,
+    744,
+    605
+   ]
+  },
+  {
+   "text": "109 200",
+   "bbox": [
+    804,
+    592,
+    869,
+    605
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    906,
+    592,
+    932,
+    605
+   ]
+  },
+  {
+   "text": "5 460",
+   "bbox": [
+    985,
+    592,
+    1030,
+    605
+   ]
+  },
+  {
+   "text": "114 660",
+   "bbox": [
+    1075,
+    592,
+    1140,
+    605
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    100,
+    592,
+    318,
+    609
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    516,
+    626,
+    557,
+    639
+   ]
+  },
+  {
+   "text": "13 520",
+   "bbox": [
+    689,
+    626,
+    744,
+    639
+   ]
+  },
+  {
+   "text": "67 600",
+   "bbox": [
+    814,
+    626,
+    869,
+    639
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    626,
+    932,
+    639
+   ]
+  },
+  {
+   "text": "18 252",
+   "bbox": [
+    975,
+    626,
+    1030,
+    639
+   ]
+  },
+  {
+   "text": "85 852",
+   "bbox": [
+    1085,
+    626,
+    1140,
+    639
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    100,
+    626,
+    318,
+    643
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    654,
+    680,
+    810,
+    696
+   ]
+  },
+  {
+   "text": "197 580 Ft",
+   "bbox": [
+    1037,
+    680,
+    1140,
+    696
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    711,
+    810,
+    731
+   ]
+  },
+  {
+   "text": "28 671 Ft",
+   "bbox": [
+    1049,
+    715,
+    1140,
+    731
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    689,
+    749,
+    810,
+    770
+   ]
+  },
+  {
+   "text": "226 251 Ft",
+   "bbox": [
+    1036,
+    750,
+    1141,
+    766
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU12 7272 9281 8968 7037 0000 0000",
+   "bbox": [
+    100,
+    815,
+    618,
+    830
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    498,
+    1638,
+    742,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

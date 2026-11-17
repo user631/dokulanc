@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SIMON ABC KFT.",
+  "uzlet_cim": "H-7245 Némettamásikőrös, Kossuth utca 117.",
+  "adoszam": "81580534-2-15",
+  "datum": "2024.11.23.",
+  "ido": "11:33",
+  "nyugtaszam": "1206/07912",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 192 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1197"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1251"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2278"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2336"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2130"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON ABC KFT.",
+   "bbox": [
+    180,
+    33,
+    362,
+    48
+   ]
+  },
+  {
+   "text": "H-7245 Némettamásikőrös, Kossuth utca 117.",
+   "bbox": [
+    61,
+    65,
+    481,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81580534-2-15",
+   "bbox": [
+    161,
+    88,
+    381,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    229,
+    130,
+    313,
+    146
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    173,
+    180,
+    186
+   ]
+  },
+  {
+   "text": "1197 A00",
+   "bbox": [
+    422,
+    173,
+    518,
+    186
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    202,
+    144,
+    215
+   ]
+  },
+  {
+   "text": "1251 B00",
+   "bbox": [
+    422,
+    202,
+    518,
+    215
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    231,
+    132,
+    244
+   ]
+  },
+  {
+   "text": "2278 A00",
+   "bbox": [
+    422,
+    231,
+    518,
+    244
+   ]
+  },
+  {
+   "text": "2 DB x 1168",
+   "bbox": [
+    24,
+    260,
+    134,
+    271
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    283,
+    120,
+    296
+   ]
+  },
+  {
+   "text": "2336 B00",
+   "bbox": [
+    422,
+    283,
+    518,
+    296
+   ]
+  },
+  {
+   "text": "2 DB x 1065",
+   "bbox": [
+    24,
+    312,
+    134,
+    323
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    335,
+    144,
+    348
+   ]
+  },
+  {
+   "text": "2130 C00",
+   "bbox": [
+    422,
+    335,
+    518,
+    348
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    372,
+    150,
+    392
+   ]
+  },
+  {
+   "text": "9 192 Ft",
+   "bbox": [
+    406,
+    376,
+    518,
+    392
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    411,
+    144,
+    428
+   ]
+  },
+  {
+   "text": "9 192 Ft",
+   "bbox": [
+    422,
+    415,
+    518,
+    428
+   ]
+  },
+  {
+   "text": "2024.11.23.",
+   "bbox": [
+    24,
+    458,
+    134,
+    470
+   ]
+  },
+  {
+   "text": "11:33",
+   "bbox": [
+    468,
+    458,
+    518,
+    470
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1206/07912",
+   "bbox": [
+    24,
+    484,
+    244,
+    501
+   ]
+  },
+  {
+   "text": "AP A64047269",
+   "bbox": [
+    24,
+    516,
+    144,
+    528
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    216,
+    552,
+    326,
+    569
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  542,
+  615
+ ]
+}

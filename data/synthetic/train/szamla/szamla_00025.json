@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/08942",
+  "kiallitas_datuma": "2024. szeptember 3.",
+  "teljesites_datuma": "2024. augusztus 29.",
+  "fizetesi_hatarido": "2024. szeptember 11.",
+  "elado_nev": "Kovács Kft.",
+  "elado_cim": "H-8662 Hetvenkövesd, Szabadság utca 202.",
+  "elado_adoszam": "24971207-2-30",
+  "vevo_nev": "Király és Társa Bt.",
+  "vevo_cim": "H-2781 Nyírfürdővárad, Tótnémetii utca 138.",
+  "vevo_adoszam": "77717096-2-04",
+  "bankszamla": "09658947-68921741",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "941 910 Ft",
+  "afa_osszesen": "254 316 Ft",
+  "brutto_osszesen": "1 196 226 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "3 db",
+    "egysegar": "77 860",
+    "netto": "233 580",
+    "afa_kulcs": "27%",
+    "afa": "63 067",
+    "brutto": "296 647"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "5 180",
+    "netto": "51 800",
+    "afa_kulcs": "27%",
+    "afa": "13 986",
+    "brutto": "65 786"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "4 490",
+    "netto": "4 490",
+    "afa_kulcs": "27%",
+    "afa": "1 212",
+    "brutto": "5 702"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "27 260",
+    "netto": "136 300",
+    "afa_kulcs": "27%",
+    "afa": "36 801",
+    "brutto": "173 101"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "6 140",
+    "netto": "6 140",
+    "afa_kulcs": "27%",
+    "afa": "1 658",
+    "brutto": "7 798"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "127 400",
+    "netto": "509 600",
+    "afa_kulcs": "27%",
+    "afa": "137 592",
+    "brutto": "647 192"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    118,
+    125,
+    227,
+    147
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    694,
+    104,
+    1147,
+    153
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/08942",
+   "bbox": [
+    857,
+    168,
+    1147,
+    192
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    93,
+    247,
+    180,
+    267
+   ]
+  },
+  {
+   "text": "Kovács Kft.",
+   "bbox": [
+    93,
+    285,
+    245,
+    305
+   ]
+  },
+  {
+   "text": "H-8662 Hetvenkövesd, Szabadság utca 202.",
+   "bbox": [
+    93,
+    322,
+    560,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 24971207-2-30",
+   "bbox": [
+    92,
+    354,
+    366,
+    376
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    247,
+    707,
+    267
+   ]
+  },
+  {
+   "text": "Király és Társa Bt.",
+   "bbox": [
+    630,
+    285,
+    876,
+    311
+   ]
+  },
+  {
+   "text": "H-2781 Nyírfürdővárad, Tótnémetii utca 138.",
+   "bbox": [
+    630,
+    322,
+    1109,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 77717096-2-04",
+   "bbox": [
+    629,
+    354,
+    902,
+    376
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    93,
+    424,
+    304,
+    442
+   ]
+  },
+  {
+   "text": "2024. szeptember 3.",
+   "bbox": [
+    393,
+    424,
+    608,
+    447
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    93,
+    458,
+    318,
+    481
+   ]
+  },
+  {
+   "text": "2024. augusztus 29.",
+   "bbox": [
+    393,
+    460,
+    604,
+    481
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    93,
+    492,
+    308,
+    510
+   ]
+  },
+  {
+   "text": "2024. szeptember 11.",
+   "bbox": [
+    393,
+    492,
+    615,
+    515
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    93,
+    526,
+    258,
+    544
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    393,
+    526,
+    476,
+    544
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    93,
+    571,
+    223,
+    592
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    572,
+    595,
+    592
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    648,
+    571,
+    746,
+    592
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    813,
+    571,
+    872,
+    587
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    567,
+    936,
+    587
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    567,
+    1037,
+    587
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1077,
+    571,
+    1147,
+    587
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    514,
+    614,
+    555,
+    634
+   ]
+  },
+  {
+   "text": "77 860",
+   "bbox": [
+    681,
+    615,
+    746,
+    634
+   ]
+  },
+  {
+   "text": "233 580",
+   "bbox": [
+    794,
+    615,
+    872,
+    634
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    615,
+    936,
+    634
+   ]
+  },
+  {
+   "text": "63 067",
+   "bbox": [
+    971,
+    615,
+    1036,
+    634
+   ]
+  },
+  {
+   "text": "296 647",
+   "bbox": [
+    1071,
+    615,
+    1147,
+    634
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    93,
+    614,
+    205,
+    634
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    514,
+    651,
+    587,
+    667
+   ]
+  },
+  {
+   "text": "5 180",
+   "bbox": [
+    695,
+    652,
+    746,
+    671
+   ]
+  },
+  {
+   "text": "51 800",
+   "bbox": [
+    808,
+    652,
+    872,
+    671
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    652,
+    936,
+    671
+   ]
+  },
+  {
+   "text": "13 986",
+   "bbox": [
+    973,
+    652,
+    1036,
+    671
+   ]
+  },
+  {
+   "text": "65 786",
+   "bbox": [
+    1083,
+    652,
+    1147,
+    671
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    93,
+    651,
+    349,
+    672
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    688,
+    603,
+    704
+   ]
+  },
+  {
+   "text": "4 490",
+   "bbox": [
+    692,
+    693,
+    746,
+    708
+   ]
+  },
+  {
+   "text": "4 490",
+   "bbox": [
+    818,
+    693,
+    872,
+    708
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    689,
+    936,
+    708
+   ]
+  },
+  {
+   "text": "1 212",
+   "bbox": [
+    989,
+    693,
+    1036,
+    704
+   ]
+  },
+  {
+   "text": "5 702",
+   "bbox": [
+    1095,
+    693,
+    1147,
+    708
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    93,
+    688,
+    205,
+    709
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    514,
+    726,
+    551,
+    745
+   ]
+  },
+  {
+   "text": "27 260",
+   "bbox": [
+    681,
+    726,
+    746,
+    745
+   ]
+  },
+  {
+   "text": "136 300",
+   "bbox": [
+    796,
+    726,
+    872,
+    745
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    726,
+    936,
+    745
+   ]
+  },
+  {
+   "text": "36 801",
+   "bbox": [
+    972,
+    726,
+    1036,
+    745
+   ]
+  },
+  {
+   "text": "173 101",
+   "bbox": [
+    1079,
+    730,
+    1147,
+    745
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    92,
+    725,
+    261,
+    746
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    762,
+    552,
+    778
+   ]
+  },
+  {
+   "text": "6 140",
+   "bbox": [
+    695,
+    763,
+    746,
+    782
+   ]
+  },
+  {
+   "text": "6 140",
+   "bbox": [
+    821,
+    763,
+    872,
+    782
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    763,
+    936,
+    782
+   ]
+  },
+  {
+   "text": "1 658",
+   "bbox": [
+    986,
+    763,
+    1036,
+    782
+   ]
+  },
+  {
+   "text": "7 798",
+   "bbox": [
+    1095,
+    763,
+    1147,
+    782
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    93,
+    762,
+    257,
+    783
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    514,
+    799,
+    606,
+    819
+   ]
+  },
+  {
+   "text": "127 400",
+   "bbox": [
+    671,
+    804,
+    746,
+    819
+   ]
+  },
+  {
+   "text": "509 600",
+   "bbox": [
+    793,
+    800,
+    872,
+    819
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    800,
+    936,
+    819
+   ]
+  },
+  {
+   "text": "137 592",
+   "bbox": [
+    964,
+    804,
+    1036,
+    819
+   ]
+  },
+  {
+   "text": "647 192",
+   "bbox": [
+    1074,
+    800,
+    1147,
+    819
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    93,
+    799,
+    288,
+    820
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    645,
+    856,
+    817,
+    875
+   ]
+  },
+  {
+   "text": "941 910 Ft",
+   "bbox": [
+    1032,
+    857,
+    1147,
+    880
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    657,
+    890,
+    817,
+    913
+   ]
+  },
+  {
+   "text": "254 316 Ft",
+   "bbox": [
+    1031,
+    895,
+    1147,
+    917
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    562,
+    932,
+    817,
+    951
+   ]
+  },
+  {
+   "text": "1 196 226 Ft",
+   "bbox": [
+    998,
+    933,
+    1147,
+    956
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 09658947-68921741",
+   "bbox": [
+    93,
+    1001,
+    493,
+    1022
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    93,
+    1032,
+    707,
+    1051
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

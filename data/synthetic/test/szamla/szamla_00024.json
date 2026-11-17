@@ -1,0 +1,498 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/03344",
+  "kiallitas_datuma": "2025.02.05.",
+  "teljesites_datuma": "2025.02.05.",
+  "fizetesi_hatarido": "2025.02.20.",
+  "elado_nev": "Németh Szolgáltató Kft.",
+  "elado_cim": "H-7667 Miskolc, Szabadság utca 127.",
+  "elado_adoszam": "89063813-4-27",
+  "vevo_nev": "Oláh Szolgáltató Bt.",
+  "vevo_cim": "H-7314 Kuntapolcakövesd, Melléknémetii utca 237.",
+  "vevo_adoszam": "98684915-2-18",
+  "bankszamla": "51134776-50733059-51136998",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 305 580 Ft",
+  "afa_osszesen": "352 507 Ft",
+  "brutto_osszesen": "1 658 087 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "10 hó",
+    "egysegar": "121 930",
+    "netto": "1 219 300",
+    "afa_kulcs": "27%",
+    "afa": "329 211",
+    "brutto": "1 548 511"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "12 db",
+    "egysegar": "7 190",
+    "netto": "86 280",
+    "afa_kulcs": "27%",
+    "afa": "23 296",
+    "brutto": "109 576"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH",
+   "bbox": [
+    108,
+    111,
+    211,
+    135
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1002,
+    99,
+    1160,
+    136
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/03344",
+   "bbox": [
+    857,
+    155,
+    1160,
+    181
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    80,
+    236,
+    161,
+    257
+   ]
+  },
+  {
+   "text": "Németh Szolgáltató Kft.",
+   "bbox": [
+    80,
+    274,
+    394,
+    300
+   ]
+  },
+  {
+   "text": "H-7667 Miskolc, Szabadság utca 127.",
+   "bbox": [
+    80,
+    310,
+    476,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 89063813-4-27",
+   "bbox": [
+    79,
+    342,
+    352,
+    361
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    236,
+    703,
+    257
+   ]
+  },
+  {
+   "text": "Oláh Szolgáltató Bt.",
+   "bbox": [
+    630,
+    274,
+    892,
+    300
+   ]
+  },
+  {
+   "text": "H-7314 Kuntapolcakövesd, Melléknémetii utca",
+   "bbox": [
+    630,
+    310,
+    1117,
+    334
+   ]
+  },
+  {
+   "text": "237.",
+   "bbox": [
+    630,
+    343,
+    676,
+    361
+   ]
+  },
+  {
+   "text": "Adószám: 98684915-2-18",
+   "bbox": [
+    629,
+    374,
+    902,
+    393
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    80,
+    443,
+    252,
+    460
+   ]
+  },
+  {
+   "text": "2025.02.05.",
+   "bbox": [
+    80,
+    475,
+    205,
+    492
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    443,
+    537,
+    464
+   ]
+  },
+  {
+   "text": "2025.02.05.",
+   "bbox": [
+    350,
+    475,
+    475,
+    492
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    443,
+    794,
+    460
+   ]
+  },
+  {
+   "text": "2025.02.20.",
+   "bbox": [
+    620,
+    475,
+    745,
+    492
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    443,
+    1021,
+    460
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    890,
+    473,
+    970,
+    492
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    80,
+    525,
+    207,
+    546
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    526,
+    588,
+    546
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    653,
+    525,
+    750,
+    546
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    525,
+    879,
+    542
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    521,
+    944,
+    542
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    521,
+    1047,
+    542
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    525,
+    1160,
+    542
+   ]
+  },
+  {
+   "text": "10 hó",
+   "bbox": [
+    512,
+    568,
+    564,
+    585
+   ]
+  },
+  {
+   "text": "121 930",
+   "bbox": [
+    676,
+    569,
+    749,
+    585
+   ]
+  },
+  {
+   "text": "1 219 300",
+   "bbox": [
+    788,
+    569,
+    879,
+    585
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    569,
+    944,
+    585
+   ]
+  },
+  {
+   "text": "329 211",
+   "bbox": [
+    973,
+    569,
+    1046,
+    585
+   ]
+  },
+  {
+   "text": "1 548 511",
+   "bbox": [
+    1069,
+    569,
+    1160,
+    585
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    80,
+    568,
+    344,
+    589
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    605,
+    565,
+    622
+   ]
+  },
+  {
+   "text": "7 190",
+   "bbox": [
+    698,
+    606,
+    749,
+    622
+   ]
+  },
+  {
+   "text": "86 280",
+   "bbox": [
+    817,
+    606,
+    879,
+    622
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    606,
+    944,
+    622
+   ]
+  },
+  {
+   "text": "23 296",
+   "bbox": [
+    984,
+    606,
+    1046,
+    622
+   ]
+  },
+  {
+   "text": "109 576",
+   "bbox": [
+    1087,
+    606,
+    1160,
+    622
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    80,
+    605,
+    264,
+    626
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    655,
+    662,
+    830,
+    683
+   ]
+  },
+  {
+   "text": "1 305 580 Ft",
+   "bbox": [
+    1017,
+    664,
+    1161,
+    683
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    695,
+    830,
+    721
+   ]
+  },
+  {
+   "text": "352 507 Ft",
+   "bbox": [
+    1039,
+    702,
+    1161,
+    721
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    605,
+    738,
+    830,
+    764
+   ]
+  },
+  {
+   "text": "1 658 087 Ft",
+   "bbox": [
+    1002,
+    740,
+    1161,
+    759
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 51134776-50733059-51136998",
+   "bbox": [
+    80,
+    806,
+    592,
+    825
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    80,
+    837,
+    698,
+    858
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    406,
+    1655,
+    832,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

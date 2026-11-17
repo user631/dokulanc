@@ -1,0 +1,420 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET KFT.",
+  "uzlet_cim": "H-1918 Lajoshátkőrös, Dunakeszii utca 24.",
+  "adoszam": "80075635-2-19",
+  "datum": "2025.10.26.",
+  "ido": "12:47",
+  "nyugtaszam": "3555/20600",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 092 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "344"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2463"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "461"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "738"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "276"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "209"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "382"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3654"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "634"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1053"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4978"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET KFT.",
+   "bbox": [
+    172,
+    30,
+    396,
+    50
+   ]
+  },
+  {
+   "text": "H-1918 Lajoshátkőrös, Dunakeszii utca 24.",
+   "bbox": [
+    38,
+    68,
+    530,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 80075635-2-19",
+   "bbox": [
+    152,
+    91,
+    416,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    235,
+    137,
+    333,
+    152
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    180,
+    194,
+    193
+   ]
+  },
+  {
+   "text": "344 A00",
+   "bbox": [
+    454,
+    179,
+    545,
+    193
+   ]
+  },
+  {
+   "text": "3 DB x 821",
+   "bbox": [
+    24,
+    208,
+    134,
+    220
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    233,
+    180,
+    247
+   ]
+  },
+  {
+   "text": "2463 B00",
+   "bbox": [
+    441,
+    233,
+    545,
+    247
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    263,
+    141,
+    277
+   ]
+  },
+  {
+   "text": "461 C00",
+   "bbox": [
+    454,
+    263,
+    545,
+    277
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    293,
+    128,
+    307
+   ]
+  },
+  {
+   "text": "738 C00",
+   "bbox": [
+    454,
+    293,
+    545,
+    307
+   ]
+  },
+  {
+   "text": "3 DB x 92",
+   "bbox": [
+    24,
+    322,
+    123,
+    334
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    348,
+    102,
+    361
+   ]
+  },
+  {
+   "text": "276 C00",
+   "bbox": [
+    454,
+    347,
+    545,
+    361
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    377,
+    206,
+    394
+   ]
+  },
+  {
+   "text": "209 C00",
+   "bbox": [
+    454,
+    377,
+    545,
+    391
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    407,
+    206,
+    421
+   ]
+  },
+  {
+   "text": "382 C00",
+   "bbox": [
+    454,
+    407,
+    545,
+    421
+   ]
+  },
+  {
+   "text": "3 DB x 1218",
+   "bbox": [
+    24,
+    436,
+    145,
+    448
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    462,
+    154,
+    475
+   ]
+  },
+  {
+   "text": "3654 C00",
+   "bbox": [
+    441,
+    461,
+    545,
+    475
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    491,
+    232,
+    505
+   ]
+  },
+  {
+   "text": "634 C00",
+   "bbox": [
+    454,
+    491,
+    545,
+    505
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    521,
+    128,
+    535
+   ]
+  },
+  {
+   "text": "1053 B00",
+   "bbox": [
+    441,
+    521,
+    545,
+    535
+   ]
+  },
+  {
+   "text": "2 DB x 2489",
+   "bbox": [
+    24,
+    550,
+    145,
+    562
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    575,
+    271,
+    589
+   ]
+  },
+  {
+   "text": "4978 C00",
+   "bbox": [
+    441,
+    575,
+    545,
+    589
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    613,
+    184,
+    634
+   ]
+  },
+  {
+   "text": "15 092 Ft",
+   "bbox": [
+    401,
+    618,
+    545,
+    634
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    654,
+    128,
+    671
+   ]
+  },
+  {
+   "text": "15 092 Ft",
+   "bbox": [
+    428,
+    657,
+    545,
+    671
+   ]
+  },
+  {
+   "text": "2025.10.26.",
+   "bbox": [
+    24,
+    700,
+    156,
+    713
+   ]
+  },
+  {
+   "text": "12:47",
+   "bbox": [
+    485,
+    700,
+    545,
+    713
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3555/20600",
+   "bbox": [
+    24,
+    727,
+    288,
+    745
+   ]
+  },
+  {
+   "text": "AP A37907026",
+   "bbox": [
+    24,
+    760,
+    168,
+    773
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    219,
+    801,
+    349,
+    816
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  569,
+  860
+ ]
+}

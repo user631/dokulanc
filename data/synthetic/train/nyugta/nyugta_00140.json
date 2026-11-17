@@ -1,0 +1,378 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZALAI ÉLELMISZER BT.",
+  "uzlet_cim": "H-5987 Kecskemét, Ady endre tér 129.",
+  "adoszam": "93946261-3-06",
+  "datum": "2024.05.02.",
+  "ido": "08:12",
+  "nyugtaszam": "5261/37936",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 120 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1464"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "607"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1570"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "160"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1148"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1094"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1040"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "337"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2284"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "416"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZALAI ÉLELMISZER BT.",
+   "bbox": [
+    169,
+    31,
+    442,
+    49
+   ]
+  },
+  {
+   "text": "H-5987 Kecskemét, Ady endre tér 129.",
+   "bbox": [
+    108,
+    65,
+    504,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 93946261-3-06",
+   "bbox": [
+    185,
+    87,
+    427,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    130,
+    349,
+    144
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    171,
+    144,
+    183
+   ]
+  },
+  {
+   "text": "1464 C00",
+   "bbox": [
+    492,
+    170,
+    588,
+    183
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    198,
+    156,
+    211
+   ]
+  },
+  {
+   "text": "607 A00",
+   "bbox": [
+    504,
+    198,
+    588,
+    211
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    227,
+    180,
+    239
+   ]
+  },
+  {
+   "text": "1570 A00",
+   "bbox": [
+    492,
+    226,
+    588,
+    239
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    254,
+    192,
+    270
+   ]
+  },
+  {
+   "text": "160 A00",
+   "bbox": [
+    504,
+    254,
+    588,
+    267
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    282,
+    204,
+    295
+   ]
+  },
+  {
+   "text": "1148 C00",
+   "bbox": [
+    492,
+    282,
+    588,
+    295
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    310,
+    168,
+    323
+   ]
+  },
+  {
+   "text": "1094 A00",
+   "bbox": [
+    492,
+    310,
+    588,
+    323
+   ]
+  },
+  {
+   "text": "2 DB x 520",
+   "bbox": [
+    24,
+    338,
+    124,
+    349
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    360,
+    192,
+    373
+   ]
+  },
+  {
+   "text": "1040 A00",
+   "bbox": [
+    492,
+    360,
+    588,
+    373
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    389,
+    180,
+    401
+   ]
+  },
+  {
+   "text": "337 B00",
+   "bbox": [
+    504,
+    388,
+    588,
+    401
+   ]
+  },
+  {
+   "text": "2 DB x 1142",
+   "bbox": [
+    24,
+    416,
+    134,
+    427
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    438,
+    120,
+    451
+   ]
+  },
+  {
+   "text": "2284 C00",
+   "bbox": [
+    492,
+    438,
+    588,
+    451
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    466,
+    132,
+    479
+   ]
+  },
+  {
+   "text": "416 A00",
+   "bbox": [
+    504,
+    466,
+    588,
+    479
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    504,
+    150,
+    522
+   ]
+  },
+  {
+   "text": "10 120 Ft",
+   "bbox": [
+    462,
+    507,
+    589,
+    522
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    541,
+    144,
+    557
+   ]
+  },
+  {
+   "text": "10 120 Ft",
+   "bbox": [
+    480,
+    544,
+    588,
+    557
+   ]
+  },
+  {
+   "text": "2024.05.02.",
+   "bbox": [
+    24,
+    586,
+    145,
+    597
+   ]
+  },
+  {
+   "text": "08:12",
+   "bbox": [
+    533,
+    586,
+    588,
+    597
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5261/37936",
+   "bbox": [
+    24,
+    611,
+    266,
+    626
+   ]
+  },
+  {
+   "text": "AP A27657159",
+   "bbox": [
+    24,
+    642,
+    156,
+    653
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    185,
+    679,
+    427,
+    694
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  612,
+  738
+ ]
+}

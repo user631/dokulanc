@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/08539",
+  "kiallitas_datuma": "2026. november 14.",
+  "teljesites_datuma": "2026. november 9.",
+  "fizetesi_hatarido": "2026. november 22.",
+  "elado_nev": "Szabó Logisztika Bt.",
+  "elado_cim": "H-7090 Hetvenberény, Szerbhídi utca 15.",
+  "elado_adoszam": "40618900-2-51",
+  "vevo_nev": "Kovács Trade Kft.",
+  "vevo_cim": "H-5611 Mosonmagyaróvár, Tiszafürdői utca 191.",
+  "vevo_adoszam": "14805468-2-24",
+  "bankszamla": "33378516-41507281",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "85 830 Ft",
+  "afa_osszesen": "23 174 Ft",
+  "brutto_osszesen": "109 004 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "3 db",
+    "egysegar": "3 760",
+    "netto": "11 280",
+    "afa_kulcs": "27%",
+    "afa": "3 046",
+    "brutto": "14 326"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "5 óra",
+    "egysegar": "14 910",
+    "netto": "74 550",
+    "afa_kulcs": "27%",
+    "afa": "20 128",
+    "brutto": "94 678"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    428,
+    116,
+    812,
+    148
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/08539",
+   "bbox": [
+    446,
+    173,
+    794,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    107,
+    253,
+    180,
+    271
+   ]
+  },
+  {
+   "text": "Szabó Logisztika Bt.",
+   "bbox": [
+    107,
+    291,
+    335,
+    315
+   ]
+  },
+  {
+   "text": "H-7090 Hetvenberény, Szerbhídi utca 15.",
+   "bbox": [
+    107,
+    326,
+    510,
+    348
+   ]
+  },
+  {
+   "text": "Adószám: 40618900-2-51",
+   "bbox": [
+    107,
+    358,
+    359,
+    375
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    253,
+    696,
+    271
+   ]
+  },
+  {
+   "text": "Kovács Trade Kft.",
+   "bbox": [
+    630,
+    291,
+    838,
+    309
+   ]
+  },
+  {
+   "text": "H-5611 Mosonmagyaróvár, Tiszafürdői utca 191.",
+   "bbox": [
+    630,
+    326,
+    1110,
+    348
+   ]
+  },
+  {
+   "text": "Adószám: 14805468-2-24",
+   "bbox": [
+    630,
+    358,
+    882,
+    375
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    107,
+    429,
+    287,
+    445
+   ]
+  },
+  {
+   "text": "2026. november 14.",
+   "bbox": [
+    407,
+    428,
+    600,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    107,
+    463,
+    296,
+    484
+   ]
+  },
+  {
+   "text": "2026. november 9.",
+   "bbox": [
+    407,
+    462,
+    588,
+    479
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    107,
+    497,
+    288,
+    513
+   ]
+  },
+  {
+   "text": "2026. november 22.",
+   "bbox": [
+    407,
+    496,
+    600,
+    513
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    107,
+    531,
+    245,
+    547
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    407,
+    530,
+    482,
+    547
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    107,
+    576,
+    214,
+    594
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    576,
+    586,
+    594
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    576,
+    743,
+    594
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    576,
+    866,
+    590
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    572,
+    927,
+    590
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    982,
+    572,
+    1025,
+    590
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1073,
+    576,
+    1133,
+    590
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    517,
+    618,
+    555,
+    633
+   ]
+  },
+  {
+   "text": "3 760",
+   "bbox": [
+    694,
+    619,
+    743,
+    633
+   ]
+  },
+  {
+   "text": "11 280",
+   "bbox": [
+    806,
+    619,
+    866,
+    633
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    619,
+    927,
+    633
+   ]
+  },
+  {
+   "text": "3 046",
+   "bbox": [
+    976,
+    619,
+    1025,
+    633
+   ]
+  },
+  {
+   "text": "14 326",
+   "bbox": [
+    1073,
+    619,
+    1133,
+    633
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    107,
+    618,
+    254,
+    637
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    517,
+    655,
+    561,
+    670
+   ]
+  },
+  {
+   "text": "14 910",
+   "bbox": [
+    683,
+    656,
+    743,
+    670
+   ]
+  },
+  {
+   "text": "74 550",
+   "bbox": [
+    806,
+    656,
+    866,
+    670
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    656,
+    927,
+    670
+   ]
+  },
+  {
+   "text": "20 128",
+   "bbox": [
+    965,
+    656,
+    1025,
+    670
+   ]
+  },
+  {
+   "text": "94 678",
+   "bbox": [
+    1073,
+    656,
+    1133,
+    670
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    107,
+    655,
+    365,
+    674
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    713,
+    803,
+    731
+   ]
+  },
+  {
+   "text": "85 830 Ft",
+   "bbox": [
+    1035,
+    714,
+    1133,
+    731
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    651,
+    746,
+    803,
+    769
+   ]
+  },
+  {
+   "text": "23 174 Ft",
+   "bbox": [
+    1035,
+    752,
+    1133,
+    769
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    685,
+    789,
+    803,
+    812
+   ]
+  },
+  {
+   "text": "109 004 Ft",
+   "bbox": [
+    1020,
+    790,
+    1134,
+    807
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 33378516-41507281",
+   "bbox": [
+    107,
+    857,
+    478,
+    873
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    483,
+    1629,
+    757,
+    1646
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

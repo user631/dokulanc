@@ -1,0 +1,597 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2025/09822",
+  "kiallitas_datuma": "2025. 09. 28.",
+  "teljesites_datuma": "2025. 09. 26.",
+  "fizetesi_hatarido": "2025. 10. 13.",
+  "elado_nev": "Király és Társa Bt.",
+  "elado_cim": "H-5914 Pécs, Mellékváradi utca 97.",
+  "elado_adoszam": "10583128-2-19",
+  "vevo_nev": "Kovács Ferenc",
+  "vevo_cim": "H-6334 Hetvennádasd, Szenti utca 151.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU96 2564 6245 5534 9958 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "129 070 Ft",
+  "afa_osszesen": "10 783 Ft",
+  "brutto_osszesen": "139 853 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "12 db",
+    "egysegar": "8 990",
+    "netto": "107 880",
+    "afa_kulcs": "5%",
+    "afa": "5 394",
+    "brutto": "113 274"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "3 690",
+    "netto": "3 690",
+    "afa_kulcs": "18%",
+    "afa": "664",
+    "brutto": "4 354"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "2 oldal",
+    "egysegar": "5 840",
+    "netto": "11 680",
+    "afa_kulcs": "27%",
+    "afa": "3 154",
+    "brutto": "14 834"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "5 820",
+    "netto": "5 820",
+    "afa_kulcs": "27%",
+    "afa": "1 571",
+    "brutto": "7 391"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    536,
+    107,
+    704,
+    141
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/09822",
+   "bbox": [
+    418,
+    163,
+    821,
+    190
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    98,
+    244,
+    177,
+    264
+   ]
+  },
+  {
+   "text": "Kovács Ferenc",
+   "bbox": [
+    99,
+    282,
+    300,
+    303
+   ]
+  },
+  {
+   "text": "H-6334 Hetvennádasd, Szenti utca 151.",
+   "bbox": [
+    99,
+    319,
+    532,
+    342
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    243,
+    719,
+    264
+   ]
+  },
+  {
+   "text": "Király és Társa Bt.",
+   "bbox": [
+    630,
+    282,
+    884,
+    309
+   ]
+  },
+  {
+   "text": "H-5914 Pécs, Mellékváradi utca 97.",
+   "bbox": [
+    630,
+    319,
+    1015,
+    343
+   ]
+  },
+  {
+   "text": "Adószám: 10583128-2-19",
+   "bbox": [
+    629,
+    352,
+    910,
+    376
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    99,
+    423,
+    288,
+    440
+   ]
+  },
+  {
+   "text": "2025. 09. 28.",
+   "bbox": [
+    99,
+    456,
+    239,
+    477
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    423,
+    561,
+    445
+   ]
+  },
+  {
+   "text": "2025. 09. 26.",
+   "bbox": [
+    359,
+    456,
+    499,
+    477
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    423,
+    812,
+    440
+   ]
+  },
+  {
+   "text": "2025. 10. 13.",
+   "bbox": [
+    619,
+    460,
+    751,
+    477
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    423,
+    1025,
+    440
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    879,
+    455,
+    962,
+    473
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    99,
+    507,
+    237,
+    529
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    508,
+    600,
+    529
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    643,
+    507,
+    746,
+    529
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    807,
+    507,
+    870,
+    524
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    503,
+    932,
+    524
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    981,
+    503,
+    1032,
+    524
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1066,
+    507,
+    1141,
+    524
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    515,
+    551,
+    566,
+    568
+   ]
+  },
+  {
+   "text": "8 990",
+   "bbox": [
+    689,
+    552,
+    745,
+    572
+   ]
+  },
+  {
+   "text": "107 880",
+   "bbox": [
+    791,
+    552,
+    870,
+    572
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    902,
+    552,
+    932,
+    572
+   ]
+  },
+  {
+   "text": "5 394",
+   "bbox": [
+    978,
+    556,
+    1031,
+    572
+   ]
+  },
+  {
+   "text": "113 274",
+   "bbox": [
+    1071,
+    556,
+    1141,
+    572
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    99,
+    551,
+    365,
+    573
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    594,
+    602,
+    611
+   ]
+  },
+  {
+   "text": "3 690",
+   "bbox": [
+    690,
+    590,
+    745,
+    610
+   ]
+  },
+  {
+   "text": "3 690",
+   "bbox": [
+    815,
+    590,
+    870,
+    610
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    892,
+    590,
+    932,
+    606
+   ]
+  },
+  {
+   "text": "664",
+   "bbox": [
+    995,
+    590,
+    1031,
+    610
+   ]
+  },
+  {
+   "text": "4 354",
+   "bbox": [
+    1088,
+    594,
+    1141,
+    610
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    99,
+    589,
+    278,
+    611
+   ]
+  },
+  {
+   "text": "2 oldal",
+   "bbox": [
+    515,
+    627,
+    580,
+    644
+   ]
+  },
+  {
+   "text": "5 840",
+   "bbox": [
+    689,
+    628,
+    745,
+    648
+   ]
+  },
+  {
+   "text": "11 680",
+   "bbox": [
+    808,
+    628,
+    870,
+    644
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    891,
+    628,
+    932,
+    648
+   ]
+  },
+  {
+   "text": "3 154",
+   "bbox": [
+    981,
+    632,
+    1031,
+    648
+   ]
+  },
+  {
+   "text": "14 834",
+   "bbox": [
+    1078,
+    628,
+    1141,
+    648
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    99,
+    627,
+    363,
+    649
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    665,
+    554,
+    682
+   ]
+  },
+  {
+   "text": "5 820",
+   "bbox": [
+    689,
+    666,
+    745,
+    686
+   ]
+  },
+  {
+   "text": "5 820",
+   "bbox": [
+    814,
+    666,
+    870,
+    686
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    891,
+    666,
+    932,
+    686
+   ]
+  },
+  {
+   "text": "1 571",
+   "bbox": [
+    985,
+    670,
+    1031,
+    686
+   ]
+  },
+  {
+   "text": "7 391",
+   "bbox": [
+    1092,
+    670,
+    1141,
+    686
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    99,
+    665,
+    294,
+    687
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    632,
+    723,
+    811,
+    743
+   ]
+  },
+  {
+   "text": "129 070 Ft",
+   "bbox": [
+    1018,
+    725,
+    1141,
+    748
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    646,
+    758,
+    811,
+    782
+   ]
+  },
+  {
+   "text": "10 783 Ft",
+   "bbox": [
+    1034,
+    764,
+    1141,
+    787
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    663,
+    801,
+    811,
+    827
+   ]
+  },
+  {
+   "text": "139 853 Ft",
+   "bbox": [
+    1004,
+    803,
+    1142,
+    826
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU96 2564 6245 5534 9958 0000 0000",
+   "bbox": [
+    99,
+    871,
+    733,
+    893
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,626 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2024/02523",
+  "kiallitas_datuma": "2024.12.08.",
+  "teljesites_datuma": "2024.12.08.",
+  "fizetesi_hatarido": "2024.12.23.",
+  "elado_nev": "Rácz Trade Kft.",
+  "elado_cim": "H-1030 Györgykövesd, Tapolcaváradi utca 189.",
+  "elado_adoszam": "96029119-2-28",
+  "vevo_nev": "Horváth Szolgáltató Kft.",
+  "vevo_cim": "H-2367 Tamásivár, Végi utca 12.",
+  "vevo_adoszam": "78508451-2-28",
+  "bankszamla": "14035043-68927563-28002062",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "570 470 Ft",
+  "afa_osszesen": "153 572 Ft",
+  "brutto_osszesen": "724 042 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "5 050",
+    "netto": "5 050",
+    "afa_kulcs": "18%",
+    "afa": "909",
+    "brutto": "5 959"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "3 hó",
+    "egysegar": "60 420",
+    "netto": "181 260",
+    "afa_kulcs": "27%",
+    "afa": "48 940",
+    "brutto": "230 200"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "185 130",
+    "netto": "370 260",
+    "afa_kulcs": "27%",
+    "afa": "99 970",
+    "brutto": "470 230"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "13 900",
+    "netto": "13 900",
+    "afa_kulcs": "27%",
+    "afa": "3 753",
+    "brutto": "17 653"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ",
+   "bbox": [
+    152,
+    135,
+    218,
+    158
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    732,
+    123,
+    1135,
+    154
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2024/02523",
+   "bbox": [
+    849,
+    180,
+    1135,
+    197
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    105,
+    258,
+    179,
+    277
+   ]
+  },
+  {
+   "text": "Rácz Trade Kft.",
+   "bbox": [
+    105,
+    294,
+    279,
+    313
+   ]
+  },
+  {
+   "text": "H-1030 Györgykövesd, Tapolcaváradi utca 189.",
+   "bbox": [
+    105,
+    329,
+    564,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 96029119-2-28",
+   "bbox": [
+    104,
+    359,
+    354,
+    375
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    258,
+    695,
+    277
+   ]
+  },
+  {
+   "text": "Horváth Szolgáltató Kft.",
+   "bbox": [
+    630,
+    294,
+    903,
+    318
+   ]
+  },
+  {
+   "text": "H-2367 Tamásivár, Végi utca 12.",
+   "bbox": [
+    630,
+    329,
+    947,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 78508451-2-28",
+   "bbox": [
+    629,
+    359,
+    879,
+    375
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    105,
+    426,
+    252,
+    441
+   ]
+  },
+  {
+   "text": "2024.12.08.",
+   "bbox": [
+    105,
+    456,
+    219,
+    471
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    362,
+    426,
+    524,
+    445
+   ]
+  },
+  {
+   "text": "2024.12.08.",
+   "bbox": [
+    362,
+    456,
+    476,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    426,
+    771,
+    441
+   ]
+  },
+  {
+   "text": "2024.12.23.",
+   "bbox": [
+    619,
+    456,
+    733,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    876,
+    426,
+    993,
+    441
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    876,
+    456,
+    968,
+    475
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    105,
+    504,
+    221,
+    523
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    505,
+    584,
+    523
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    504,
+    744,
+    523
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    504,
+    867,
+    519
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    501,
+    929,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    986,
+    501,
+    1026,
+    519
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    504,
+    1135,
+    519
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    517,
+    546,
+    602,
+    564
+   ]
+  },
+  {
+   "text": "5 050",
+   "bbox": [
+    694,
+    546,
+    743,
+    560
+   ]
+  },
+  {
+   "text": "5 050",
+   "bbox": [
+    818,
+    546,
+    867,
+    560
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    890,
+    546,
+    929,
+    560
+   ]
+  },
+  {
+   "text": "909",
+   "bbox": [
+    993,
+    546,
+    1026,
+    560
+   ]
+  },
+  {
+   "text": "5 959",
+   "bbox": [
+    1086,
+    546,
+    1135,
+    560
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    105,
+    546,
+    265,
+    564
+   ]
+  },
+  {
+   "text": "3 hó",
+   "bbox": [
+    517,
+    581,
+    555,
+    595
+   ]
+  },
+  {
+   "text": "60 420",
+   "bbox": [
+    683,
+    581,
+    743,
+    595
+   ]
+  },
+  {
+   "text": "181 260",
+   "bbox": [
+    796,
+    581,
+    867,
+    595
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    581,
+    929,
+    595
+   ]
+  },
+  {
+   "text": "48 940",
+   "bbox": [
+    966,
+    581,
+    1026,
+    595
+   ]
+  },
+  {
+   "text": "230 200",
+   "bbox": [
+    1064,
+    581,
+    1135,
+    595
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    105,
+    581,
+    355,
+    599
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    517,
+    616,
+    600,
+    630
+   ]
+  },
+  {
+   "text": "185 130",
+   "bbox": [
+    672,
+    616,
+    743,
+    630
+   ]
+  },
+  {
+   "text": "370 260",
+   "bbox": [
+    796,
+    616,
+    867,
+    630
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    616,
+    929,
+    630
+   ]
+  },
+  {
+   "text": "99 970",
+   "bbox": [
+    966,
+    616,
+    1026,
+    630
+   ]
+  },
+  {
+   "text": "470 230",
+   "bbox": [
+    1064,
+    616,
+    1135,
+    630
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    105,
+    616,
+    304,
+    634
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    517,
+    651,
+    561,
+    665
+   ]
+  },
+  {
+   "text": "13 900",
+   "bbox": [
+    683,
+    651,
+    743,
+    665
+   ]
+  },
+  {
+   "text": "13 900",
+   "bbox": [
+    807,
+    651,
+    867,
+    665
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    651,
+    929,
+    665
+   ]
+  },
+  {
+   "text": "3 753",
+   "bbox": [
+    977,
+    651,
+    1026,
+    665
+   ]
+  },
+  {
+   "text": "17 653",
+   "bbox": [
+    1075,
+    651,
+    1135,
+    665
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    105,
+    651,
+    340,
+    669
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    638,
+    706,
+    805,
+    723
+   ]
+  },
+  {
+   "text": "570 470 Ft",
+   "bbox": [
+    1025,
+    706,
+    1136,
+    723
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    648,
+    738,
+    805,
+    759
+   ]
+  },
+  {
+   "text": "153 572 Ft",
+   "bbox": [
+    1025,
+    742,
+    1136,
+    759
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    602,
+    778,
+    805,
+    800
+   ]
+  },
+  {
+   "text": "724 042 Ft",
+   "bbox": [
+    1023,
+    778,
+    1135,
+    795
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 14035043-68927563-28002062",
+   "bbox": [
+    105,
+    845,
+    589,
+    860
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    105,
+    874,
+    657,
+    891
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

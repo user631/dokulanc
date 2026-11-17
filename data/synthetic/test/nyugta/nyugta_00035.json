@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALÁZS CSEMEGE BT.",
+  "uzlet_cim": "H-7615 Tatabánya, Ceglédi utca 159.",
+  "adoszam": "77642864-2-29",
+  "datum": "2025.03.02.",
+  "ido": "09:17",
+  "nyugtaszam": "5003/10125",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "6 746 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1086"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "399"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2538"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2723"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALÁZS CSEMEGE BT.",
+   "bbox": [
+    169,
+    30,
+    421,
+    49
+   ]
+  },
+  {
+   "text": "H-7615 Tatabánya, Ceglédi utca 159.",
+   "bbox": [
+    85,
+    64,
+    505,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77642864-2-29",
+   "bbox": [
+    163,
+    90,
+    427,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    135,
+    343,
+    151
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    176,
+    128,
+    192
+   ]
+  },
+  {
+   "text": "1086 C00",
+   "bbox": [
+    463,
+    176,
+    567,
+    192
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    206,
+    206,
+    222
+   ]
+  },
+  {
+   "text": "399 C00",
+   "bbox": [
+    476,
+    206,
+    567,
+    222
+   ]
+  },
+  {
+   "text": "3 DB x 846",
+   "bbox": [
+    24,
+    235,
+    134,
+    249
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    260,
+    128,
+    276
+   ]
+  },
+  {
+   "text": "2538 C00",
+   "bbox": [
+    463,
+    260,
+    567,
+    276
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    290,
+    271,
+    306
+   ]
+  },
+  {
+   "text": "2723 B00",
+   "bbox": [
+    463,
+    290,
+    567,
+    306
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    330,
+    184,
+    351
+   ]
+  },
+  {
+   "text": "6 746 Ft",
+   "bbox": [
+    439,
+    332,
+    567,
+    351
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    371,
+    168,
+    388
+   ]
+  },
+  {
+   "text": "6 746 Ft",
+   "bbox": [
+    463,
+    372,
+    567,
+    388
+   ]
+  },
+  {
+   "text": "2025.03.02.",
+   "bbox": [
+    24,
+    416,
+    156,
+    430
+   ]
+  },
+  {
+   "text": "09:17",
+   "bbox": [
+    507,
+    416,
+    567,
+    430
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5003/10125",
+   "bbox": [
+    24,
+    444,
+    288,
+    463
+   ]
+  },
+  {
+   "text": "AP A40047314",
+   "bbox": [
+    24,
+    476,
+    168,
+    490
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    230,
+    516,
+    360,
+    533
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  591,
+  578
+ ]
+}

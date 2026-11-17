@@ -1,0 +1,378 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS MARKET BT.",
+  "uzlet_cim": "H-1074 Tótváros, Dunakeszii utca 230.",
+  "adoszam": "25533301-3-41",
+  "datum": "2026.12.11.",
+  "ido": "10:30",
+  "nyugtaszam": "8353/70796",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 476 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "355"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "613"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1418"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "769"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2036"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1347"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "898"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "895"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1275"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1870"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS MARKET BT.",
+   "bbox": [
+    177,
+    31,
+    415,
+    49
+   ]
+  },
+  {
+   "text": "H-1074 Tótváros, Dunakeszii utca 230.",
+   "bbox": [
+    92,
+    63,
+    499,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 25533301-3-41",
+   "bbox": [
+    175,
+    88,
+    417,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    131,
+    341,
+    147
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    172,
+    206,
+    187
+   ]
+  },
+  {
+   "text": "355 B00",
+   "bbox": [
+    478,
+    172,
+    569,
+    187
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    201,
+    206,
+    216
+   ]
+  },
+  {
+   "text": "613 A00",
+   "bbox": [
+    478,
+    201,
+    569,
+    216
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    232,
+    193,
+    245
+   ]
+  },
+  {
+   "text": "1418 A00",
+   "bbox": [
+    465,
+    230,
+    569,
+    245
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    259,
+    219,
+    274
+   ]
+  },
+  {
+   "text": "769 A00",
+   "bbox": [
+    478,
+    259,
+    569,
+    274
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    288,
+    271,
+    303
+   ]
+  },
+  {
+   "text": "2036 B00",
+   "bbox": [
+    465,
+    288,
+    569,
+    303
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    317,
+    154,
+    332
+   ]
+  },
+  {
+   "text": "1347 C00",
+   "bbox": [
+    465,
+    317,
+    569,
+    332
+   ]
+  },
+  {
+   "text": "2 DB x 449",
+   "bbox": [
+    24,
+    346,
+    134,
+    359
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    369,
+    141,
+    384
+   ]
+  },
+  {
+   "text": "898 B00",
+   "bbox": [
+    478,
+    369,
+    569,
+    384
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    398,
+    180,
+    413
+   ]
+  },
+  {
+   "text": "895 C00",
+   "bbox": [
+    478,
+    398,
+    569,
+    413
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    427,
+    128,
+    442
+   ]
+  },
+  {
+   "text": "1275 A00",
+   "bbox": [
+    465,
+    427,
+    569,
+    442
+   ]
+  },
+  {
+   "text": "2 DB x 935",
+   "bbox": [
+    24,
+    456,
+    134,
+    469
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    479,
+    128,
+    494
+   ]
+  },
+  {
+   "text": "1870 A00",
+   "bbox": [
+    465,
+    479,
+    569,
+    494
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    518,
+    174,
+    538
+   ]
+  },
+  {
+   "text": "11 476 Ft",
+   "bbox": [
+    434,
+    520,
+    569,
+    538
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    557,
+    154,
+    574
+   ]
+  },
+  {
+   "text": "11 476 Ft",
+   "bbox": [
+    452,
+    559,
+    569,
+    574
+   ]
+  },
+  {
+   "text": "2026.12.11.",
+   "bbox": [
+    24,
+    601,
+    145,
+    615
+   ]
+  },
+  {
+   "text": "10:30",
+   "bbox": [
+    514,
+    601,
+    569,
+    615
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8353/70796",
+   "bbox": [
+    24,
+    629,
+    266,
+    647
+   ]
+  },
+  {
+   "text": "AP A51680964",
+   "bbox": [
+    24,
+    659,
+    156,
+    673
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    206,
+    699,
+    386,
+    715
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  593,
+  760
+ ]
+}

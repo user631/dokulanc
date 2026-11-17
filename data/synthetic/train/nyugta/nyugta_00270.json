@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER BT.",
+  "uzlet_cim": "H-8568 Budatapolcahida, Székfai utca 238.",
+  "adoszam": "37241146-2-20",
+  "datum": "2024.05.05.",
+  "ido": "07:02",
+  "nyugtaszam": "7450/00632",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 007 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "598"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1409"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER BT.",
+   "bbox": [
+    173,
+    31,
+    433,
+    48
+   ]
+  },
+  {
+   "text": "H-8568 Budatapolcahida, Székfai utca 238.",
+   "bbox": [
+    77,
+    63,
+    528,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 37241146-2-20",
+   "bbox": [
+    182,
+    87,
+    424,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    128,
+    346,
+    143
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    168,
+    216,
+    182
+   ]
+  },
+  {
+   "text": "598 C00",
+   "bbox": [
+    498,
+    168,
+    582,
+    182
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    197,
+    144,
+    210
+   ]
+  },
+  {
+   "text": "1409 A00",
+   "bbox": [
+    486,
+    196,
+    582,
+    210
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    234,
+    150,
+    253
+   ]
+  },
+  {
+   "text": "2 007 Ft",
+   "bbox": [
+    470,
+    236,
+    582,
+    253
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    272,
+    156,
+    288
+   ]
+  },
+  {
+   "text": "2 007 Ft",
+   "bbox": [
+    486,
+    274,
+    582,
+    288
+   ]
+  },
+  {
+   "text": "2024.05.05.",
+   "bbox": [
+    24,
+    316,
+    145,
+    329
+   ]
+  },
+  {
+   "text": "07:02",
+   "bbox": [
+    527,
+    316,
+    582,
+    329
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7450/00632",
+   "bbox": [
+    24,
+    343,
+    266,
+    360
+   ]
+  },
+  {
+   "text": "AP A78707298",
+   "bbox": [
+    24,
+    372,
+    156,
+    385
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    220,
+    410,
+    385,
+    425
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  606,
+  470
+ ]
+}

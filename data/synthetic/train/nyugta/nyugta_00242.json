@@ -1,0 +1,418 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "JAKAB CSEMEGE KFT.",
+  "uzlet_cim": "H-7480 Zalaegerszeg, Belsői utca 178.",
+  "adoszam": "90844177-3-14",
+  "datum": "2026.07.03.",
+  "ido": "13:02",
+  "nyugtaszam": "7462/81862",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 702 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "998"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1488"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "649"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "222"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "888"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "374"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4524"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "426"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "593"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1391"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JAKAB CSEMEGE KFT.",
+   "bbox": [
+    151,
+    33,
+    385,
+    48
+   ]
+  },
+  {
+   "text": "H-7480 Zalaegerszeg, Belsői utca 178.",
+   "bbox": [
+    64,
+    64,
+    471,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90844177-3-14",
+   "bbox": [
+    147,
+    88,
+    389,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    133,
+    311,
+    150
+   ]
+  },
+  {
+   "text": "3 DB x 383",
+   "bbox": [
+    24,
+    177,
+    124,
+    189
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    201,
+    192,
+    215
+   ]
+  },
+  {
+   "text": "1149 B00",
+   "bbox": [
+    416,
+    201,
+    512,
+    215
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    231,
+    168,
+    245
+   ]
+  },
+  {
+   "text": "998 C00",
+   "bbox": [
+    428,
+    231,
+    512,
+    245
+   ]
+  },
+  {
+   "text": "2 DB x 744",
+   "bbox": [
+    24,
+    261,
+    124,
+    273
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    285,
+    120,
+    299
+   ]
+  },
+  {
+   "text": "1488 C00",
+   "bbox": [
+    416,
+    285,
+    512,
+    299
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    315,
+    132,
+    329
+   ]
+  },
+  {
+   "text": "649 C00",
+   "bbox": [
+    428,
+    315,
+    512,
+    329
+   ]
+  },
+  {
+   "text": "3 DB x 74",
+   "bbox": [
+    24,
+    345,
+    114,
+    357
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    369,
+    96,
+    383
+   ]
+  },
+  {
+   "text": "222 C00",
+   "bbox": [
+    428,
+    369,
+    512,
+    383
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    399,
+    120,
+    413
+   ]
+  },
+  {
+   "text": "888 A00",
+   "bbox": [
+    428,
+    399,
+    512,
+    413
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    429,
+    192,
+    443
+   ]
+  },
+  {
+   "text": "374 C00",
+   "bbox": [
+    428,
+    429,
+    512,
+    443
+   ]
+  },
+  {
+   "text": "3 DB x 1508",
+   "bbox": [
+    24,
+    459,
+    134,
+    471
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    483,
+    144,
+    497
+   ]
+  },
+  {
+   "text": "4524 B00",
+   "bbox": [
+    416,
+    483,
+    512,
+    497
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    512,
+    156,
+    531
+   ]
+  },
+  {
+   "text": "426 A00",
+   "bbox": [
+    428,
+    513,
+    512,
+    527
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    543,
+    156,
+    557
+   ]
+  },
+  {
+   "text": "593 B00",
+   "bbox": [
+    428,
+    543,
+    512,
+    557
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    573,
+    144,
+    587
+   ]
+  },
+  {
+   "text": "1391 A00",
+   "bbox": [
+    416,
+    573,
+    512,
+    587
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    610,
+    164,
+    632
+   ]
+  },
+  {
+   "text": "12 702 Ft",
+   "bbox": [
+    386,
+    615,
+    512,
+    632
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    650,
+    144,
+    669
+   ]
+  },
+  {
+   "text": "12 702 Ft",
+   "bbox": [
+    404,
+    655,
+    512,
+    669
+   ]
+  },
+  {
+   "text": "2026.07.03.",
+   "bbox": [
+    24,
+    698,
+    145,
+    711
+   ]
+  },
+  {
+   "text": "13:02",
+   "bbox": [
+    457,
+    698,
+    512,
+    711
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7462/81862",
+   "bbox": [
+    24,
+    724,
+    266,
+    743
+   ]
+  },
+  {
+   "text": "AP A24538306",
+   "bbox": [
+    24,
+    758,
+    156,
+    771
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    136,
+    797,
+    400,
+    814
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  536,
+  860
+ ]
+}

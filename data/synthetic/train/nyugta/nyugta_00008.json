@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BOGNÁR ÉLELMISZER BT.",
+  "uzlet_cim": "H-2708 Zalaegerszeg, Bakonymártoni utca 40.",
+  "adoszam": "46156828-2-08",
+  "datum": "2024.09.17.",
+  "ido": "15:04",
+  "nyugtaszam": "9287/42392",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 039 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "312"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1045"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "682"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOGNÁR ÉLELMISZER BT.",
+   "bbox": [
+    127,
+    31,
+    421,
+    49
+   ]
+  },
+  {
+   "text": "H-2708 Zalaegerszeg, Bakonymártoni utca 40.",
+   "bbox": [
+    37,
+    63,
+    510,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46156828-2-08",
+   "bbox": [
+    153,
+    88,
+    395,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    229,
+    131,
+    319,
+    147
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    174,
+    206,
+    187
+   ]
+  },
+  {
+   "text": "312 A00",
+   "bbox": [
+    434,
+    172,
+    525,
+    187
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    201,
+    128,
+    216
+   ]
+  },
+  {
+   "text": "1045 A00",
+   "bbox": [
+    421,
+    201,
+    525,
+    216
+   ]
+  },
+  {
+   "text": "2 DB x 341",
+   "bbox": [
+    24,
+    230,
+    134,
+    243
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    253,
+    167,
+    271
+   ]
+  },
+  {
+   "text": "682 C00",
+   "bbox": [
+    434,
+    253,
+    525,
+    268
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    292,
+    174,
+    312
+   ]
+  },
+  {
+   "text": "2 039 Ft",
+   "bbox": [
+    405,
+    294,
+    525,
+    312
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    331,
+    154,
+    348
+   ]
+  },
+  {
+   "text": "2 039 Ft",
+   "bbox": [
+    421,
+    333,
+    525,
+    348
+   ]
+  },
+  {
+   "text": "2024.09.17.",
+   "bbox": [
+    24,
+    375,
+    145,
+    389
+   ]
+  },
+  {
+   "text": "15:04",
+   "bbox": [
+    470,
+    375,
+    525,
+    389
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9287/42392",
+   "bbox": [
+    24,
+    403,
+    266,
+    421
+   ]
+  },
+  {
+   "text": "AP A49679702",
+   "bbox": [
+    24,
+    433,
+    156,
+    447
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    142,
+    473,
+    406,
+    489
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  549,
+  534
+ ]
+}

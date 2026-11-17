@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2024/08561",
+  "kiallitas_datuma": "2024. november 8.",
+  "teljesites_datuma": "2024. november 8.",
+  "fizetesi_hatarido": "2024. november 23.",
+  "elado_nev": "Lakatos Trade Zrt.",
+  "elado_cim": "H-6794 Németi, Békéscsabai utca 120.",
+  "elado_adoszam": "46679903-3-15",
+  "vevo_nev": "Kis Trade Kft.",
+  "vevo_cim": "H-7412 Eger, Szabadság utca 195.",
+  "vevo_adoszam": "26247753-4-41",
+  "bankszamla": "79076371-51951778-99712294",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "150 950 Ft",
+  "afa_osszesen": "14 942 Ft",
+  "brutto_osszesen": "165 892 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "12 csomag",
+    "egysegar": "4 740",
+    "netto": "56 880",
+    "afa_kulcs": "18%",
+    "afa": "10 238",
+    "brutto": "67 118"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "16 880",
+    "netto": "67 520",
+    "afa_kulcs": "5%",
+    "afa": "3 376",
+    "brutto": "70 896"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "5 310",
+    "netto": "26 550",
+    "afa_kulcs": "5%",
+    "afa": "1 328",
+    "brutto": "27 878"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS",
+   "bbox": [
+    112,
+    126,
+    229,
+    143
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    742,
+    100,
+    1150,
+    140
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2024/08561",
+   "bbox": [
+    890,
+    165,
+    1150,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    245,
+    162,
+    263
+   ]
+  },
+  {
+   "text": "Lakatos Trade Zrt.",
+   "bbox": [
+    90,
+    283,
+    298,
+    300
+   ]
+  },
+  {
+   "text": "H-6794 Németi, Békéscsabai utca 120.",
+   "bbox": [
+    90,
+    317,
+    453,
+    337
+   ]
+  },
+  {
+   "text": "Adószám: 46679903-3-15",
+   "bbox": [
+    90,
+    348,
+    338,
+    364
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    245,
+    693,
+    263
+   ]
+  },
+  {
+   "text": "Kis Trade Kft.",
+   "bbox": [
+    630,
+    283,
+    785,
+    300
+   ]
+  },
+  {
+   "text": "H-7412 Eger, Szabadság utca 195.",
+   "bbox": [
+    630,
+    317,
+    955,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 26247753-4-41",
+   "bbox": [
+    630,
+    348,
+    878,
+    364
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    90,
+    417,
+    236,
+    430
+   ]
+  },
+  {
+   "text": "2024. november 8.",
+   "bbox": [
+    90,
+    445,
+    257,
+    461
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    417,
+    508,
+    434
+   ]
+  },
+  {
+   "text": "2024. november 8.",
+   "bbox": [
+    355,
+    445,
+    522,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    417,
+    765,
+    430
+   ]
+  },
+  {
+   "text": "2024. november 23.",
+   "bbox": [
+    620,
+    445,
+    798,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    417,
+    994,
+    430
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    885,
+    445,
+    953,
+    461
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    497,
+    193,
+    514
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    497,
+    579,
+    514
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    668,
+    497,
+    747,
+    514
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    497,
+    874,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    493,
+    938,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    493,
+    1039,
+    510
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    497,
+    1150,
+    510
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    514,
+    539,
+    601,
+    556
+   ]
+  },
+  {
+   "text": "4 740",
+   "bbox": [
+    702,
+    539,
+    747,
+    552
+   ]
+  },
+  {
+   "text": "56 880",
+   "bbox": [
+    819,
+    539,
+    874,
+    552
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    901,
+    539,
+    938,
+    552
+   ]
+  },
+  {
+   "text": "10 238",
+   "bbox": [
+    983,
+    539,
+    1038,
+    552
+   ]
+  },
+  {
+   "text": "67 118",
+   "bbox": [
+    1095,
+    539,
+    1150,
+    552
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    90,
+    538,
+    241,
+    556
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    514,
+    575,
+    548,
+    588
+   ]
+  },
+  {
+   "text": "16 880",
+   "bbox": [
+    692,
+    575,
+    747,
+    588
+   ]
+  },
+  {
+   "text": "67 520",
+   "bbox": [
+    819,
+    575,
+    874,
+    588
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    575,
+    938,
+    588
+   ]
+  },
+  {
+   "text": "3 376",
+   "bbox": [
+    993,
+    575,
+    1038,
+    588
+   ]
+  },
+  {
+   "text": "70 896",
+   "bbox": [
+    1095,
+    575,
+    1150,
+    588
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    90,
+    574,
+    320,
+    592
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    514,
+    610,
+    549,
+    624
+   ]
+  },
+  {
+   "text": "5 310",
+   "bbox": [
+    702,
+    611,
+    747,
+    624
+   ]
+  },
+  {
+   "text": "26 550",
+   "bbox": [
+    819,
+    611,
+    874,
+    624
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    611,
+    938,
+    624
+   ]
+  },
+  {
+   "text": "1 328",
+   "bbox": [
+    993,
+    611,
+    1038,
+    624
+   ]
+  },
+  {
+   "text": "27 878",
+   "bbox": [
+    1095,
+    611,
+    1150,
+    624
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    90,
+    610,
+    317,
+    628
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    668,
+    668,
+    820,
+    684
+   ]
+  },
+  {
+   "text": "150 950 Ft",
+   "bbox": [
+    1046,
+    668,
+    1150,
+    684
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    700,
+    820,
+    721
+   ]
+  },
+  {
+   "text": "14 942 Ft",
+   "bbox": [
+    1058,
+    705,
+    1150,
+    721
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    639,
+    742,
+    820,
+    763
+   ]
+  },
+  {
+   "text": "165 892 Ft",
+   "bbox": [
+    1043,
+    742,
+    1150,
+    758
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 79076371-51951778-99712294",
+   "bbox": [
+    90,
+    807,
+    535,
+    823
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    90,
+    838,
+    607,
+    855
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    431,
+    1647,
+    809,
+    1664
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

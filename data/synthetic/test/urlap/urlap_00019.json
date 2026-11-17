@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Takács Balázs",
+  "anyja_neve": "Rácz László",
+  "szuletesi_hely": "Hídfalva",
+  "szuletesi_datum": "1954. 08. 27.",
+  "lakcim": "H-2538 Balatonbánya, Városi utca 180.",
+  "telefon": "+36 20 236 6027",
+  "email": "takacs.balazs@citromail.hu",
+  "adoazonosito_jel": "8320142393",
+  "taj_szam": "253 956 275",
+  "kelt": "Székesfehérvár, 2025. 09. 14."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    518,
+    82,
+    722,
+    114
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    477,
+    135,
+    763,
+    151
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    187,
+    281,
+    207
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    240,
+    130,
+    254
+   ]
+  },
+  {
+   "text": "Takács Balázs",
+   "bbox": [
+    401,
+    235,
+    549,
+    253
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    292,
+    190,
+    309
+   ]
+  },
+  {
+   "text": "Rácz László",
+   "bbox": [
+    396,
+    290,
+    520,
+    308
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    342,
+    211,
+    360
+   ]
+  },
+  {
+   "text": "Hídfalva",
+   "bbox": [
+    400,
+    337,
+    486,
+    359
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    393,
+    202,
+    407
+   ]
+  },
+  {
+   "text": "1954. 08. 27.",
+   "bbox": [
+    400,
+    390,
+    540,
+    408
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    444,
+    156,
+    458
+   ]
+  },
+  {
+   "text": "H-2538 Balatonbánya, Városi utca 180.",
+   "bbox": [
+    400,
+    437,
+    805,
+    460
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    495,
+    202,
+    509
+   ]
+  },
+  {
+   "text": "+36 20 236 6027",
+   "bbox": [
+    401,
+    493,
+    594,
+    511
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    546,
+    185,
+    560
+   ]
+  },
+  {
+   "text": "takacs.balazs@citromail.hu",
+   "bbox": [
+    400,
+    543,
+    676,
+    563
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    597,
+    235,
+    615
+   ]
+  },
+  {
+   "text": "8320142393",
+   "bbox": [
+    401,
+    595,
+    550,
+    613
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    648,
+    175,
+    662
+   ]
+  },
+  {
+   "text": "253 956 275",
+   "bbox": [
+    401,
+    648,
+    540,
+    666
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    725,
+    241,
+    745
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    769,
+    412,
+    787
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    814,
+    263,
+    828
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    859,
+    422,
+    877
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    961,
+    123,
+    975
+   ]
+  },
+  {
+   "text": "Székesfehérvár, 2025. 09. 14.",
+   "bbox": [
+    171,
+    958,
+    446,
+    976
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    947,
+    1011,
+    991,
+    1022
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

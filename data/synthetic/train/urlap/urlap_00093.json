@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Péter Éva",
+  "anyja_neve": "Németh Jolán",
+  "szuletesi_hely": "Tamásiapáti",
+  "szuletesi_datum": "2002. 01. 31.",
+  "lakcim": "H-6879 Nagygyörgykőrös, Hídnémetii utca 135.",
+  "telefon": "+36 70 496 1947",
+  "email": "peter.eva@outlook.com",
+  "adoazonosito_jel": "8493385409",
+  "taj_szam": "981 122 223",
+  "kelt": "Budapest, 2026. 07. 28."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    271,
+    81,
+    969,
+    119
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    80,
+    193,
+    356,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    92,
+    249,
+    143,
+    266
+   ]
+  },
+  {
+   "text": "Péter Éva",
+   "bbox": [
+    409,
+    247,
+    522,
+    270
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    92,
+    304,
+    219,
+    324
+   ]
+  },
+  {
+   "text": "Németh Jolán",
+   "bbox": [
+    410,
+    299,
+    561,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    92,
+    357,
+    248,
+    378
+   ]
+  },
+  {
+   "text": "Tamásiapáti",
+   "bbox": [
+    409,
+    355,
+    551,
+    379
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    92,
+    411,
+    236,
+    428
+   ]
+  },
+  {
+   "text": "2002. 01. 31.",
+   "bbox": [
+    410,
+    408,
+    563,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    92,
+    465,
+    176,
+    482
+   ]
+  },
+  {
+   "text": "H-6879 Nagygyörgykőrös, Hídnémetii utca 135.",
+   "bbox": [
+    409,
+    456,
+    938,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    92,
+    519,
+    235,
+    536
+   ]
+  },
+  {
+   "text": "+36 70 496 1947",
+   "bbox": [
+    410,
+    515,
+    617,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    92,
+    573,
+    214,
+    590
+   ]
+  },
+  {
+   "text": "peter.eva@outlook.com",
+   "bbox": [
+    410,
+    568,
+    665,
+    592
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    92,
+    627,
+    276,
+    648
+   ]
+  },
+  {
+   "text": "8493385409",
+   "bbox": [
+    410,
+    626,
+    579,
+    648
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    92,
+    681,
+    201,
+    698
+   ]
+  },
+  {
+   "text": "981 122 223",
+   "bbox": [
+    410,
+    678,
+    570,
+    700
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    80,
+    762,
+    298,
+    786
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    125,
+    806,
+    499,
+    827
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    125,
+    851,
+    301,
+    868
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    125,
+    896,
+    519,
+    917
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    80,
+    1001,
+    133,
+    1018
+   ]
+  },
+  {
+   "text": "Budapest, 2026. 07. 28.",
+   "bbox": [
+    169,
+    994,
+    435,
+    1018
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1050,
+    1000,
+    1064
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kiss Rozália",
+  "email": "kiss.rozalia@example.hu",
+  "telefon": "+36 70 769 9232",
+  "lakcim": "H-9982 Budapest, Oroszszéki utca 129.",
+  "szuletesi_datum": "1980.06.01.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1999 – 2004"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga és Társa Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2004 – 2005"
+   },
+   {
+    "ceg": "Nagy Trade Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2003 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "prezentáció",
+   "Python",
+   "B kategóriás jogosítvány",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss Rozália",
+   "bbox": [
+    506,
+    108,
+    733,
+    141
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    567,
+    176,
+    672,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    232,
+    149,
+    246
+   ]
+  },
+  {
+   "text": "kiss.rozalia@example.hu",
+   "bbox": [
+    330,
+    232,
+    540,
+    250
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    162,
+    277
+   ]
+  },
+  {
+   "text": "+36 70 769 9232",
+   "bbox": [
+    330,
+    264,
+    476,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    156,
+    308
+   ]
+  },
+  {
+   "text": "H-9982 Budapest, Oroszszéki utca 129.",
+   "bbox": [
+    330,
+    294,
+    661,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    233,
+    339
+   ]
+  },
+  {
+   "text": "1980.06.01.",
+   "bbox": [
+    330,
+    326,
+    433,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    294,
+    397
+   ]
+  },
+  {
+   "text": "2004 – 2005",
+   "bbox": [
+    90,
+    428,
+    198,
+    441
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Varga és Társa Kft.",
+   "bbox": [
+    89,
+    452,
+    420,
+    471
+   ]
+  },
+  {
+   "text": "2003 – 2004",
+   "bbox": [
+    90,
+    494,
+    198,
+    507
+   ]
+  },
+  {
+   "text": "tesztmérnök – Nagy Trade Zrt.",
+   "bbox": [
+    90,
+    518,
+    369,
+    537
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    568,
+    228,
+    590
+   ]
+  },
+  {
+   "text": "1999 – 2004",
+   "bbox": [
+    90,
+    621,
+    198,
+    634
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    645,
+    564,
+    664
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    670,
+    299,
+    684
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    712,
+    198,
+    725
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    737,
+    309,
+    755
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    761,
+    308,
+    779
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    811,
+    206,
+    833
+   ]
+  },
+  {
+   "text": "német (B1), francia (A2)",
+   "bbox": [
+    90,
+    862,
+    292,
+    881
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    909,
+    197,
+    931
+   ]
+  },
+  {
+   "text": "SQL, prezentáció, Python, B kategóriás jogosítvány, Excel",
+   "bbox": [
+    90,
+    961,
+    572,
+    979
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

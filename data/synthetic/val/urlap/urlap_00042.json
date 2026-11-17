@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Tóth Katalin",
+  "anyja_neve": "Budai Csilla",
+  "szuletesi_hely": "Debrecen",
+  "szuletesi_datum": "1950. 08. 05.",
+  "lakcim": "H-8968 Mindszentvég, Belsőkereszti tér 222.",
+  "telefon": "06 1 428 6431",
+  "email": "toth.katalin@example.hu",
+  "adoazonosito_jel": "8305313727",
+  "taj_szam": "468 456 814",
+  "kelt": "Nyíregyháza, 2024. 11. 26."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    409,
+    101,
+    830,
+    136
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    483,
+    155,
+    756,
+    171
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    207,
+    315,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    260,
+    148,
+    274
+   ]
+  },
+  {
+   "text": "Tóth Katalin",
+   "bbox": [
+    427,
+    257,
+    592,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    312,
+    205,
+    329
+   ]
+  },
+  {
+   "text": "Budai Csilla",
+   "bbox": [
+    427,
+    305,
+    590,
+    325
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    362,
+    224,
+    380
+   ]
+  },
+  {
+   "text": "Debrecen",
+   "bbox": [
+    427,
+    361,
+    545,
+    380
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    413,
+    216,
+    427
+   ]
+  },
+  {
+   "text": "1950. 08. 05.",
+   "bbox": [
+    427,
+    408,
+    599,
+    424
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    464,
+    172,
+    478
+   ]
+  },
+  {
+   "text": "H-8968 Mindszentvég, Belsőkereszti tér 222.",
+   "bbox": [
+    427,
+    459,
+    986,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    515,
+    217,
+    529
+   ]
+  },
+  {
+   "text": "06 1 428 6431",
+   "bbox": [
+    427,
+    514,
+    624,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    566,
+    200,
+    580
+   ]
+  },
+  {
+   "text": "toth.katalin@example.hu",
+   "bbox": [
+    426,
+    563,
+    743,
+    586
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    617,
+    248,
+    635
+   ]
+  },
+  {
+   "text": "8305313727",
+   "bbox": [
+    427,
+    616,
+    597,
+    633
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    668,
+    194,
+    682
+   ]
+  },
+  {
+   "text": "468 456 814",
+   "bbox": [
+    427,
+    662,
+    598,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    745,
+    273,
+    766
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    789,
+    416,
+    807
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    834,
+    270,
+    848
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    879,
+    436,
+    897
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    981,
+    138,
+    996
+   ]
+  },
+  {
+   "text": "Nyíregyháza, 2024. 11. 26.",
+   "bbox": [
+    190,
+    978,
+    499,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1029,
+    971,
+    1041
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

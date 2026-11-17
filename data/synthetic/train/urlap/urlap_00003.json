@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Bálint Lili",
+  "anyja_neve": "Nagy Margit",
+  "szuletesi_hely": "Rácmártonkőrös",
+  "szuletesi_datum": "2006. 05. 09.",
+  "lakcim": "H-2928 Kecskemét, Mellékapátii utca 158.",
+  "telefon": "+36 30 900 9934",
+  "email": "balint.lili@gmail.com",
+  "adoazonosito_jel": "8508972059",
+  "taj_szam": "065 826 379",
+  "kelt": "Tapolcaharaszti, 2025. 04. 01."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    497,
+    105,
+    743,
+    141
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    466,
+    164,
+    774,
+    182
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    217,
+    339,
+    241
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    276,
+    162,
+    291
+   ]
+  },
+  {
+   "text": "Bálint Lili",
+   "bbox": [
+    417,
+    276,
+    511,
+    293
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    330,
+    231,
+    349
+   ]
+  },
+  {
+   "text": "Nagy Margit",
+   "bbox": [
+    417,
+    331,
+    545,
+    353
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    384,
+    258,
+    403
+   ]
+  },
+  {
+   "text": "Rácmártonkőrös",
+   "bbox": [
+    417,
+    383,
+    591,
+    400
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    438,
+    247,
+    453
+   ]
+  },
+  {
+   "text": "2006. 05. 09.",
+   "bbox": [
+    417,
+    435,
+    556,
+    452
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    492,
+    194,
+    507
+   ]
+  },
+  {
+   "text": "H-2928 Kecskemét, Mellékapátii utca 158.",
+   "bbox": [
+    417,
+    493,
+    862,
+    515
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    546,
+    248,
+    561
+   ]
+  },
+  {
+   "text": "+36 30 900 9934",
+   "bbox": [
+    417,
+    545,
+    595,
+    562
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    600,
+    226,
+    615
+   ]
+  },
+  {
+   "text": "balint.lili@gmail.com",
+   "bbox": [
+    417,
+    599,
+    632,
+    621
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    654,
+    284,
+    673
+   ]
+  },
+  {
+   "text": "8508972059",
+   "bbox": [
+    417,
+    649,
+    547,
+    666
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    708,
+    220,
+    723
+   ]
+  },
+  {
+   "text": "065 826 379",
+   "bbox": [
+    417,
+    708,
+    548,
+    725
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    787,
+    288,
+    809
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    833,
+    492,
+    852
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    878,
+    307,
+    893
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    923,
+    510,
+    942
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    1025,
+    150,
+    1041
+   ]
+  },
+  {
+   "text": "Tapolcaharaszti, 2025. 04. 01.",
+   "bbox": [
+    196,
+    1022,
+    516,
+    1044
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    917,
+    1075,
+    971,
+    1088
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Novák László",
+  "anyja_neve": "Budai Olivér",
+  "szuletesi_hely": "Pilisfürdővég",
+  "szuletesi_datum": "1994. 08. 10.",
+  "lakcim": "H-4741 Érd, Ady endre utca 247.",
+  "telefon": "06 1 112 9004",
+  "email": "novak.laszlo@outlook.com",
+  "adoazonosito_jel": "8466074570",
+  "taj_szam": "516 440 691",
+  "kelt": "Székdevecser, 2024. 03. 29."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    397,
+    103,
+    843,
+    137
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    468,
+    160,
+    771,
+    177
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    213,
+    327,
+    235
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    268,
+    156,
+    283
+   ]
+  },
+  {
+   "text": "Novák László",
+   "bbox": [
+    436,
+    268,
+    587,
+    289
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    321,
+    219,
+    340
+   ]
+  },
+  {
+   "text": "Budai Olivér",
+   "bbox": [
+    436,
+    319,
+    579,
+    340
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    374,
+    243,
+    393
+   ]
+  },
+  {
+   "text": "Pilisfürdővég",
+   "bbox": [
+    436,
+    370,
+    587,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    427,
+    233,
+    442
+   ]
+  },
+  {
+   "text": "1994. 08. 10.",
+   "bbox": [
+    436,
+    422,
+    580,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    480,
+    186,
+    495
+   ]
+  },
+  {
+   "text": "H-4741 Érd, Ady endre utca 247.",
+   "bbox": [
+    436,
+    468,
+    822,
+    502
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    533,
+    235,
+    548
+   ]
+  },
+  {
+   "text": "06 1 112 9004",
+   "bbox": [
+    436,
+    532,
+    595,
+    552
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    586,
+    216,
+    601
+   ]
+  },
+  {
+   "text": "novak.laszlo@outlook.com",
+   "bbox": [
+    436,
+    586,
+    731,
+    607
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    639,
+    268,
+    658
+   ]
+  },
+  {
+   "text": "8466074570",
+   "bbox": [
+    436,
+    635,
+    586,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    692,
+    210,
+    707
+   ]
+  },
+  {
+   "text": "516 440 691",
+   "bbox": [
+    436,
+    693,
+    577,
+    714
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    771,
+    278,
+    793
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    816,
+    461,
+    835
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    861,
+    293,
+    876
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    906,
+    479,
+    925
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    1010,
+    146,
+    1025
+   ]
+  },
+  {
+   "text": "Székdevecser, 2024. 03. 29.",
+   "bbox": [
+    193,
+    1009,
+    501,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1059,
+    972,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

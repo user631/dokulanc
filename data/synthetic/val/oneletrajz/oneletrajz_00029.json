@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Simon Boglárka",
+  "email": "simon.boglarka@citromail.hu",
+  "telefon": "+36 70 526 9214",
+  "lakcim": "H-4922 Vác, Tapolcadevecseri utca 96.",
+  "szuletesi_datum": "1976. február 1.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "1995 – 2000"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orsós Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "ceg": "Fülöp Trade Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "1999 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "SAP",
+   "projektmenedzsment",
+   "C#",
+   "Excel",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Simon Boglárka",
+   "bbox": [
+    471,
+    107,
+    769,
+    148
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    569,
+    175,
+    671,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    148,
+    243
+   ]
+  },
+  {
+   "text": "simon.boglarka@citromail.hu",
+   "bbox": [
+    330,
+    229,
+    577,
+    247
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    259,
+    159,
+    273
+   ]
+  },
+  {
+   "text": "+36 70 526 9214",
+   "bbox": [
+    330,
+    260,
+    465,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    153,
+    303
+   ]
+  },
+  {
+   "text": "H-4922 Vác, Tapolcadevecseri utca 96.",
+   "bbox": [
+    330,
+    289,
+    646,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    229,
+    333
+   ]
+  },
+  {
+   "text": "1976. február 1.",
+   "bbox": [
+    330,
+    319,
+    462,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    289,
+    390
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    420,
+    190,
+    433
+   ]
+  },
+  {
+   "text": "irodavezető – Orsós Bt.",
+   "bbox": [
+    90,
+    444,
+    290,
+    458
+   ]
+  },
+  {
+   "text": "1999 – 2001",
+   "bbox": [
+    90,
+    484,
+    190,
+    497
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Fülöp Trade Zrt.",
+   "bbox": [
+    90,
+    508,
+    476,
+    526
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    558,
+    227,
+    578
+   ]
+  },
+  {
+   "text": "1995 – 2000",
+   "bbox": [
+    90,
+    608,
+    190,
+    621
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    632,
+    307,
+    650
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    89,
+    656,
+    141,
+    673
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    90,
+    696,
+    190,
+    709
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    720,
+    309,
+    734
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    743,
+    254,
+    761
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    794,
+    202,
+    814
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    843,
+    174,
+    861
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    890,
+    192,
+    910
+   ]
+  },
+  {
+   "text": "SQL, SAP, projektmenedzsment, C#, Excel, Git",
+   "bbox": [
+    90,
+    939,
+    467,
+    957
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

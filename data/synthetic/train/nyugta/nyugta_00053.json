@@ -1,0 +1,204 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH DISZKONT BT.",
+  "uzlet_cim": "H-4795 Szenttamásikőrös, Györgyfai utca 32.",
+  "adoszam": "77014496-5-42",
+  "datum": "2024.12.18.",
+  "ido": "14:13",
+  "nyugtaszam": "6731/78283",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 470 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "132"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1338"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH DISZKONT BT.",
+   "bbox": [
+    116,
+    30,
+    416,
+    50
+   ]
+  },
+  {
+   "text": "H-4795 Szenttamásikőrös, Györgyfai",
+   "bbox": [
+    45,
+    65,
+    487,
+    86
+   ]
+  },
+  {
+   "text": "utca 32.",
+   "bbox": [
+    214,
+    94,
+    318,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77014496-5-42",
+   "bbox": [
+    123,
+    119,
+    409,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    218,
+    165,
+    315,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 66",
+   "bbox": [
+    24,
+    207,
+    132,
+    221
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    235,
+    108,
+    249
+   ]
+  },
+  {
+   "text": "132 A00",
+   "bbox": [
+    410,
+    232,
+    508,
+    249
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    263,
+    164,
+    280
+   ]
+  },
+  {
+   "text": "1338 B00",
+   "bbox": [
+    396,
+    263,
+    508,
+    280
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    305,
+    168,
+    326
+   ]
+  },
+  {
+   "text": "2 470 Ft",
+   "bbox": [
+    380,
+    306,
+    508,
+    326
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    346,
+    164,
+    364
+   ]
+  },
+  {
+   "text": "2 470 Ft",
+   "bbox": [
+    396,
+    347,
+    508,
+    364
+   ]
+  },
+  {
+   "text": "2024.12.18.",
+   "bbox": [
+    24,
+    392,
+    167,
+    407
+   ]
+  },
+  {
+   "text": "14:13",
+   "bbox": [
+    443,
+    392,
+    508,
+    407
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6731/78283",
+   "bbox": [
+    24,
+    421,
+    310,
+    441
+   ]
+  },
+  {
+   "text": "AP A11007522",
+   "bbox": [
+    24,
+    454,
+    180,
+    469
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    168,
+    496,
+    363,
+    513
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  532,
+  558
+ ]
+}

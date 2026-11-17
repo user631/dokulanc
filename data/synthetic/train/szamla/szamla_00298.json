@@ -1,0 +1,401 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/02813",
+  "kiallitas_datuma": "2024. 11. 20.",
+  "teljesites_datuma": "2024. 11. 20.",
+  "fizetesi_hatarido": "2024. 11. 15.",
+  "elado_nev": "Farkas Trade Kft.",
+  "elado_cim": "H-4410 Tamásivára, Arany jános köz 192.",
+  "elado_adoszam": "56714524-2-29",
+  "vevo_nev": "Nagy Consulting Kft.",
+  "vevo_cim": "H-6834 Debrecen, Keresztberényi tér 57.",
+  "vevo_adoszam": "17231327-3-14",
+  "bankszamla": "HU47 5742 0332 8848 6620 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "15 100 Ft",
+  "afa_osszesen": "2 718 Ft",
+  "brutto_osszesen": "17 818 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "10 karton",
+    "egysegar": "1 510",
+    "netto": "15 100",
+    "afa_kulcs": "18%",
+    "afa": "2 718",
+    "brutto": "17 818"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    530,
+    76,
+    710,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/02813",
+   "bbox": [
+    418,
+    140,
+    822,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    221,
+    156,
+    242
+   ]
+  },
+  {
+   "text": "Farkas Trade Kft.",
+   "bbox": [
+    75,
+    260,
+    299,
+    280
+   ]
+  },
+  {
+   "text": "H-4410 Tamásivára, Arany jános köz 192.",
+   "bbox": [
+    75,
+    295,
+    522,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 56714524-2-29",
+   "bbox": [
+    74,
+    327,
+    347,
+    346
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    221,
+    703,
+    242
+   ]
+  },
+  {
+   "text": "Nagy Consulting Kft.",
+   "bbox": [
+    630,
+    260,
+    900,
+    285
+   ]
+  },
+  {
+   "text": "H-6834 Debrecen, Keresztberényi tér 57.",
+   "bbox": [
+    630,
+    295,
+    1067,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 17231327-3-14",
+   "bbox": [
+    629,
+    327,
+    902,
+    346
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    75,
+    396,
+    277,
+    416
+   ]
+  },
+  {
+   "text": "2024. 11. 20.",
+   "bbox": [
+    375,
+    398,
+    516,
+    416
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    75,
+    430,
+    296,
+    455
+   ]
+  },
+  {
+   "text": "2024. 11. 20.",
+   "bbox": [
+    375,
+    432,
+    516,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    75,
+    464,
+    282,
+    484
+   ]
+  },
+  {
+   "text": "2024. 11. 15.",
+   "bbox": [
+    375,
+    466,
+    516,
+    484
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    75,
+    498,
+    235,
+    518
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    375,
+    499,
+    472,
+    523
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    544,
+    202,
+    565
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    545,
+    587,
+    565
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    544,
+    751,
+    565
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    544,
+    881,
+    561
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    540,
+    947,
+    561
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1009,
+    540,
+    1051,
+    561
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1098,
+    544,
+    1165,
+    561
+   ]
+  },
+  {
+   "text": "10 karton",
+   "bbox": [
+    511,
+    587,
+    599,
+    604
+   ]
+  },
+  {
+   "text": "1 510",
+   "bbox": [
+    699,
+    588,
+    750,
+    604
+   ]
+  },
+  {
+   "text": "15 100",
+   "bbox": [
+    819,
+    588,
+    881,
+    604
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    904,
+    588,
+    947,
+    604
+   ]
+  },
+  {
+   "text": "2 718",
+   "bbox": [
+    999,
+    588,
+    1050,
+    604
+   ]
+  },
+  {
+   "text": "17 818",
+   "bbox": [
+    1103,
+    588,
+    1165,
+    604
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    74,
+    583,
+    211,
+    608
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    660,
+    644,
+    835,
+    665
+   ]
+  },
+  {
+   "text": "15 100 Ft",
+   "bbox": [
+    1058,
+    646,
+    1166,
+    665
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    677,
+    835,
+    703
+   ]
+  },
+  {
+   "text": "2 718 Ft",
+   "bbox": [
+    1072,
+    684,
+    1166,
+    703
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    610,
+    720,
+    835,
+    746
+   ]
+  },
+  {
+   "text": "17 818 Ft",
+   "bbox": [
+    1046,
+    722,
+    1166,
+    741
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU47 5742 0332 8848 6620 0000 0000",
+   "bbox": [
+    75,
+    788,
+    670,
+    807
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    819,
+    693,
+    840
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

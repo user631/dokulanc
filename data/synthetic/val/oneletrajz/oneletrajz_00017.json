@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Varga János",
+  "email": "varga.janos@gmail.com",
+  "telefon": "+36 20 492 2362",
+  "lakcim": "H-7553 Bakonyfürdőhalas, Békéscsabai utca 114.",
+  "szuletesi_datum": "2003. április 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2022 – 2026"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Consulting Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Java",
+   "projektmenedzsment",
+   "Linux",
+   "C#",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Varga János",
+   "bbox": [
+    491,
+    108,
+    749,
+    151
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    174,
+    675,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    160,
+    246
+   ]
+  },
+  {
+   "text": "varga.janos@gmail.com",
+   "bbox": [
+    330,
+    230,
+    547,
+    251
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    168,
+    278
+   ]
+  },
+  {
+   "text": "+36 20 492 2362",
+   "bbox": [
+    330,
+    263,
+    481,
+    278
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    169,
+    310
+   ]
+  },
+  {
+   "text": "H-7553 Bakonyfürdőhalas, Békéscsabai utca 114.",
+   "bbox": [
+    330,
+    294,
+    776,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    327,
+    245,
+    342
+   ]
+  },
+  {
+   "text": "2003. április 26.",
+   "bbox": [
+    330,
+    326,
+    475,
+    347
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    381,
+    314,
+    404
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    430,
+    227,
+    451
+   ]
+  },
+  {
+   "text": "értékesítő – Kiss Consulting Zrt.",
+   "bbox": [
+    90,
+    458,
+    412,
+    478
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    510,
+    245,
+    534
+   ]
+  },
+  {
+   "text": "2022 – 2026",
+   "bbox": [
+    90,
+    561,
+    201,
+    576
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    588,
+    281,
+    608
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    612,
+    332,
+    633
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    655,
+    201,
+    670
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    682,
+    398,
+    702
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    706,
+    316,
+    727
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    760,
+    214,
+    784
+   ]
+  },
+  {
+   "text": "angol (C1), német (B2)",
+   "bbox": [
+    90,
+    810,
+    297,
+    831
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    860,
+    206,
+    884
+   ]
+  },
+  {
+   "text": "csapatmunka, Java, projektmenedzsment, Linux, C#, Python",
+   "bbox": [
+    90,
+    910,
+    630,
+    931
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

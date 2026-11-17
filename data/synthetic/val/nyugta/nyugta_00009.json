@@ -1,0 +1,303 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FARKAS ÉLELMISZER BT.",
+  "uzlet_cim": "H-7463 Tapolcadevecser, Szerbszéki utca 224.",
+  "adoszam": "48952314-4-03",
+  "datum": "2026.07.23.",
+  "ido": "17:55",
+  "nyugtaszam": "9791/37506",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 771 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "791"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "318"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1247"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "256"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1105"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3405"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "649"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS ÉLELMISZER BT.",
+   "bbox": [
+    192,
+    28,
+    444,
+    47
+   ]
+  },
+  {
+   "text": "H-7463 Tapolcadevecser, Szerbszéki utca 224.",
+   "bbox": [
+    98,
+    63,
+    538,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 48952314-4-03",
+   "bbox": [
+    208,
+    86,
+    428,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    279,
+    127,
+    358,
+    142
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    168,
+    112,
+    181
+   ]
+  },
+  {
+   "text": "791 A00",
+   "bbox": [
+    535,
+    168,
+    612,
+    181
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    196,
+    178,
+    209
+   ]
+  },
+  {
+   "text": "318 B00",
+   "bbox": [
+    535,
+    196,
+    612,
+    209
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "1247 A00",
+   "bbox": [
+    524,
+    224,
+    612,
+    237
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    252,
+    178,
+    268
+   ]
+  },
+  {
+   "text": "256 C00",
+   "bbox": [
+    535,
+    252,
+    612,
+    265
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    280,
+    167,
+    293
+   ]
+  },
+  {
+   "text": "1105 B00",
+   "bbox": [
+    524,
+    280,
+    612,
+    293
+   ]
+  },
+  {
+   "text": "3 DB x 1135",
+   "bbox": [
+    24,
+    308,
+    123,
+    319
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    330,
+    189,
+    343
+   ]
+  },
+  {
+   "text": "3405 C00",
+   "bbox": [
+    524,
+    330,
+    612,
+    343
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    358,
+    200,
+    371
+   ]
+  },
+  {
+   "text": "649 C00",
+   "bbox": [
+    535,
+    358,
+    612,
+    371
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    394,
+    154,
+    414
+   ]
+  },
+  {
+   "text": "7 771 Ft",
+   "bbox": [
+    508,
+    398,
+    612,
+    414
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    432,
+    112,
+    449
+   ]
+  },
+  {
+   "text": "7 771 Ft",
+   "bbox": [
+    524,
+    436,
+    612,
+    449
+   ]
+  },
+  {
+   "text": "2026.07.23.",
+   "bbox": [
+    24,
+    479,
+    134,
+    490
+   ]
+  },
+  {
+   "text": "17:55",
+   "bbox": [
+    562,
+    479,
+    612,
+    490
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9791/37506",
+   "bbox": [
+    24,
+    504,
+    244,
+    520
+   ]
+  },
+  {
+   "text": "AP A79641916",
+   "bbox": [
+    24,
+    535,
+    144,
+    546
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    243,
+    571,
+    393,
+    587
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  636,
+  632
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Pataki Gergely",
+  "email": "pataki.gergely@outlook.com",
+  "telefon": "+36 20 550 6601",
+  "lakcim": "H-2205 Nagykanizsa, Szabadság utca 160.",
+  "szuletesi_datum": "1989. 05. 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2007 – 2012"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2014 – 2016"
+   },
+   {
+    "ceg": "Kocsis Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2012 – 2014"
+   },
+   {
+    "ceg": "Oláh Logisztika Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2011 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "projektmenedzsment",
+   "Linux",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Pataki Gergely",
+   "bbox": [
+    478,
+    94,
+    762,
+    135
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    534,
+    165,
+    705,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    149,
+    232
+   ]
+  },
+  {
+   "text": "pataki.gergely@outlook.com",
+   "bbox": [
+    330,
+    218,
+    577,
+    236
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    249,
+    162,
+    263
+   ]
+  },
+  {
+   "text": "+36 20 550 6601",
+   "bbox": [
+    330,
+    250,
+    476,
+    263
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    280,
+    156,
+    294
+   ]
+  },
+  {
+   "text": "H-2205 Nagykanizsa, Szabadság utca 160.",
+   "bbox": [
+    330,
+    280,
+    687,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    233,
+    325
+   ]
+  },
+  {
+   "text": "1989. 05. 28.",
+   "bbox": [
+    330,
+    312,
+    443,
+    325
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    362,
+    294,
+    383
+   ]
+  },
+  {
+   "text": "2014 – 2016",
+   "bbox": [
+    90,
+    414,
+    198,
+    427
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szabó Szolgáltató Kft.",
+   "bbox": [
+    90,
+    438,
+    478,
+    457
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    480,
+    198,
+    493
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kocsis Logisztika Kft.",
+   "bbox": [
+    90,
+    504,
+    544,
+    523
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    546,
+    198,
+    559
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Oláh Logisztika Bt.",
+   "bbox": [
+    90,
+    570,
+    524,
+    589
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    620,
+    228,
+    642
+   ]
+  },
+  {
+   "text": "2007 – 2012",
+   "bbox": [
+    90,
+    673,
+    198,
+    686
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    697,
+    267,
+    716
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    722,
+    317,
+    740
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    764,
+    198,
+    777
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    789,
+    309,
+    807
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    813,
+    257,
+    831
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    863,
+    206,
+    885
+   ]
+  },
+  {
+   "text": "angol (B2), francia (A2)",
+   "bbox": [
+    90,
+    914,
+    284,
+    933
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    961,
+    197,
+    983
+   ]
+  },
+  {
+   "text": "Git, projektmenedzsment, Linux, C#, ügyfélkezelés",
+   "bbox": [
+    90,
+    1013,
+    515,
+    1031
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

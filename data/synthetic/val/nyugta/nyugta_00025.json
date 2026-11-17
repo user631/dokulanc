@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "HORVÁTH ABC KFT.",
+  "uzlet_cim": "H-7389 Ligetapáti, Ady endre út 138.",
+  "adoszam": "98990083-2-38",
+  "datum": "2024.06.20.",
+  "ido": "10:05",
+  "nyugtaszam": "2592/84510",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 123 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "330"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "606"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "935"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "364"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "888"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH ABC KFT.",
+   "bbox": [
+    163,
+    30,
+    403,
+    51
+   ]
+  },
+  {
+   "text": "H-7389 Ligetapáti, Ady endre út 138.",
+   "bbox": [
+    49,
+    70,
+    517,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98990083-2-38",
+   "bbox": [
+    140,
+    94,
+    426,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    234,
+    140,
+    332,
+    156
+   ]
+  },
+  {
+   "text": "2 DB x 165",
+   "bbox": [
+    24,
+    182,
+    144,
+    195
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    209,
+    220,
+    226
+   ]
+  },
+  {
+   "text": "330 B00",
+   "bbox": [
+    445,
+    209,
+    543,
+    223
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    240,
+    178,
+    254
+   ]
+  },
+  {
+   "text": "606 B00",
+   "bbox": [
+    445,
+    240,
+    543,
+    254
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    271,
+    136,
+    285
+   ]
+  },
+  {
+   "text": "935 B00",
+   "bbox": [
+    445,
+    271,
+    543,
+    285
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    302,
+    178,
+    319
+   ]
+  },
+  {
+   "text": "364 C00",
+   "bbox": [
+    445,
+    302,
+    543,
+    316
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    333,
+    248,
+    347
+   ]
+  },
+  {
+   "text": "888 B00",
+   "bbox": [
+    445,
+    333,
+    543,
+    347
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    371,
+    184,
+    393
+   ]
+  },
+  {
+   "text": "3 123 Ft",
+   "bbox": [
+    415,
+    376,
+    543,
+    393
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    414,
+    164,
+    431
+   ]
+  },
+  {
+   "text": "3 123 Ft",
+   "bbox": [
+    431,
+    417,
+    543,
+    431
+   ]
+  },
+  {
+   "text": "2024.06.20.",
+   "bbox": [
+    24,
+    461,
+    167,
+    474
+   ]
+  },
+  {
+   "text": "10:05",
+   "bbox": [
+    478,
+    461,
+    543,
+    474
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2592/84510",
+   "bbox": [
+    24,
+    489,
+    310,
+    507
+   ]
+  },
+  {
+   "text": "AP A72556785",
+   "bbox": [
+    24,
+    523,
+    180,
+    536
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    184,
+    562,
+    380,
+    580
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  567,
+  624
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Varga Kornél",
+  "email": "varga.kornel@gmail.com",
+  "telefon": "+36 70 419 3650",
+  "lakcim": "H-7248 Nyírfürdőfa, Szabadság utca 84.",
+  "szuletesi_datum": "1996. február 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Szolgáltató Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2018 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "B kategóriás jogosítvány",
+   "Docker",
+   "Java",
+   "ügyfélkezelés",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Varga Kornél",
+   "bbox": [
+    473,
+    104,
+    767,
+    151
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    513,
+    172,
+    726,
+    197
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    161,
+    240
+   ]
+  },
+  {
+   "text": "varga.kornel@gmail.com",
+   "bbox": [
+    330,
+    223,
+    571,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    173,
+    272
+   ]
+  },
+  {
+   "text": "+36 70 419 3650",
+   "bbox": [
+    330,
+    256,
+    495,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    168,
+    304
+   ]
+  },
+  {
+   "text": "H-7248 Nyírfürdőfa, Szabadság utca 84.",
+   "bbox": [
+    330,
+    287,
+    715,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    261,
+    336
+   ]
+  },
+  {
+   "text": "1996. február 10.",
+   "bbox": [
+    330,
+    319,
+    495,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    374,
+    330,
+    399
+   ]
+  },
+  {
+   "text": "2018 – 2020",
+   "bbox": [
+    90,
+    424,
+    209,
+    440
+   ]
+  },
+  {
+   "text": "tesztmérnök – Horváth Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    450,
+    508,
+    472
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    504,
+    257,
+    529
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    554,
+    209,
+    570
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    580,
+    385,
+    602
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    605,
+    214,
+    627
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    648,
+    209,
+    664
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    674,
+    348,
+    696
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    699,
+    277,
+    721
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    754,
+    227,
+    779
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    803,
+    200,
+    824
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    854,
+    214,
+    879
+   ]
+  },
+  {
+   "text": "Git, B kategóriás jogosítvány, Docker, Java, ügyfélkezelés, SAP",
+   "bbox": [
+    90,
+    903,
+    686,
+    925
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

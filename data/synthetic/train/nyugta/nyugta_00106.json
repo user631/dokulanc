@@ -1,0 +1,405 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "OROSZ ÉLELMISZER KFT.",
+  "uzlet_cim": "H-9592 Kecskemét, Felsőhídi utca 10.",
+  "adoszam": "35517755-5-38",
+  "datum": "2025.08.17.",
+  "ido": "08:50",
+  "nyugtaszam": "5944/27403",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 874 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3162"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "512"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1186"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1083"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "513"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2278"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "534"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "566"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "606"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "434"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OROSZ ÉLELMISZER KFT.",
+   "bbox": [
+    147,
+    30,
+    462,
+    50
+   ]
+  },
+  {
+   "text": "H-9592 Kecskemét, Felsőhídi utca 10.",
+   "bbox": [
+    71,
+    65,
+    539,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 35517755-5-38",
+   "bbox": [
+    162,
+    92,
+    448,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    257,
+    138,
+    354,
+    155
+   ]
+  },
+  {
+   "text": "3 DB x 1054",
+   "bbox": [
+    24,
+    180,
+    156,
+    194
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    205,
+    192,
+    222
+   ]
+  },
+  {
+   "text": "3162 C00",
+   "bbox": [
+    475,
+    205,
+    587,
+    222
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    236,
+    150,
+    253
+   ]
+  },
+  {
+   "text": "512 C00",
+   "bbox": [
+    489,
+    236,
+    587,
+    253
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    267,
+    164,
+    284
+   ]
+  },
+  {
+   "text": "1186 C00",
+   "bbox": [
+    475,
+    267,
+    587,
+    284
+   ]
+  },
+  {
+   "text": "3 DB x 361",
+   "bbox": [
+    24,
+    298,
+    144,
+    312
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    326,
+    220,
+    340
+   ]
+  },
+  {
+   "text": "1083 B00",
+   "bbox": [
+    475,
+    323,
+    587,
+    340
+   ]
+  },
+  {
+   "text": "3 DB x 171",
+   "bbox": [
+    24,
+    354,
+    144,
+    368
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    379,
+    220,
+    400
+   ]
+  },
+  {
+   "text": "513 A00",
+   "bbox": [
+    489,
+    379,
+    587,
+    396
+   ]
+  },
+  {
+   "text": "2 DB x 1139",
+   "bbox": [
+    24,
+    410,
+    156,
+    424
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    438,
+    206,
+    452
+   ]
+  },
+  {
+   "text": "2278 B00",
+   "bbox": [
+    475,
+    435,
+    587,
+    452
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    466,
+    136,
+    483
+   ]
+  },
+  {
+   "text": "534 C00",
+   "bbox": [
+    489,
+    466,
+    587,
+    483
+   ]
+  },
+  {
+   "text": "2 DB x 283",
+   "bbox": [
+    24,
+    497,
+    144,
+    511
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    525,
+    206,
+    539
+   ]
+  },
+  {
+   "text": "566 B00",
+   "bbox": [
+    489,
+    522,
+    587,
+    539
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    553,
+    150,
+    570
+   ]
+  },
+  {
+   "text": "606 A00",
+   "bbox": [
+    489,
+    553,
+    587,
+    570
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    584,
+    178,
+    605
+   ]
+  },
+  {
+   "text": "434 C00",
+   "bbox": [
+    489,
+    584,
+    587,
+    601
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    626,
+    168,
+    647
+   ]
+  },
+  {
+   "text": "10 874 Ft",
+   "bbox": [
+    443,
+    627,
+    587,
+    647
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    667,
+    164,
+    685
+   ]
+  },
+  {
+   "text": "10 874 Ft",
+   "bbox": [
+    461,
+    668,
+    587,
+    685
+   ]
+  },
+  {
+   "text": "2025.08.17.",
+   "bbox": [
+    24,
+    713,
+    167,
+    728
+   ]
+  },
+  {
+   "text": "08:50",
+   "bbox": [
+    522,
+    713,
+    587,
+    728
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5944/27403",
+   "bbox": [
+    24,
+    742,
+    310,
+    762
+   ]
+  },
+  {
+   "text": "AP A88074655",
+   "bbox": [
+    24,
+    775,
+    180,
+    790
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    207,
+    817,
+    402,
+    834
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  611,
+  879
+ ]
+}

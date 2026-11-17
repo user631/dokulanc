@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Molnár Mária",
+  "anyja_neve": "Kiss Sára",
+  "szuletesi_hely": "Békéscsaba",
+  "szuletesi_datum": "2003.04.14.",
+  "lakcim": "H-2686 Sopron, Szolnoki utca 71.",
+  "telefon": "06 1 581 3034",
+  "email": "molnar.maria@example.hu",
+  "adoazonosito_jel": "8497761308",
+  "taj_szam": "616 009 491",
+  "kelt": "Salgótarján, 2026.03.12."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    301,
+    108,
+    938,
+    140
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    479,
+    161,
+    759,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    213,
+    321,
+    234
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    266,
+    157,
+    280
+   ]
+  },
+  {
+   "text": "Molnár Mária",
+   "bbox": [
+    409,
+    264,
+    588,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    318,
+    213,
+    335
+   ]
+  },
+  {
+   "text": "Kiss Sára",
+   "bbox": [
+    409,
+    310,
+    527,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    368,
+    232,
+    386
+   ]
+  },
+  {
+   "text": "Békéscsaba",
+   "bbox": [
+    409,
+    366,
+    548,
+    386
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    419,
+    224,
+    433
+   ]
+  },
+  {
+   "text": "2003.04.14.",
+   "bbox": [
+    409,
+    419,
+    563,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    470,
+    184,
+    484
+   ]
+  },
+  {
+   "text": "H-2686 Sopron, Szolnoki utca 71.",
+   "bbox": [
+    409,
+    463,
+    841,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    119,
+    521,
+    227,
+    535
+   ]
+  },
+  {
+   "text": "06 1 581 3034",
+   "bbox": [
+    409,
+    521,
+    606,
+    538
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    572,
+    212,
+    586
+   ]
+  },
+  {
+   "text": "molnar.maria@example.hu",
+   "bbox": [
+    409,
+    567,
+    749,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    623,
+    257,
+    641
+   ]
+  },
+  {
+   "text": "8497761308",
+   "bbox": [
+    409,
+    620,
+    579,
+    637
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    119,
+    674,
+    202,
+    688
+   ]
+  },
+  {
+   "text": "616 009 491",
+   "bbox": [
+    409,
+    675,
+    580,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    751,
+    282,
+    772
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    795,
+    429,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    840,
+    285,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    885,
+    443,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    987,
+    147,
+    1001
+   ]
+  },
+  {
+   "text": "Salgótarján, 2026.03.12.",
+   "bbox": [
+    197,
+    985,
+    474,
+    1007
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1035,
+    965,
+    1047
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

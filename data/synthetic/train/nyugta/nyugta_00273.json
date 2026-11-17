@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "VARGA ABC KFT.",
+  "uzlet_cim": "H-7425 Szolnok, Drávakereszti út 216.",
+  "adoszam": "50388329-2-40",
+  "datum": "2025.11.29.",
+  "ido": "21:05",
+  "nyugtaszam": "6214/20256",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "1 780 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "735"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1045"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA ABC KFT.",
+   "bbox": [
+    178,
+    34,
+    360,
+    48
+   ]
+  },
+  {
+   "text": "H-7425 Szolnok, Drávakereszti út 216.",
+   "bbox": [
+    65,
+    63,
+    472,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 50388329-2-40",
+   "bbox": [
+    148,
+    87,
+    390,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    128,
+    312,
+    143
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    168,
+    120,
+    182
+   ]
+  },
+  {
+   "text": "735 C00",
+   "bbox": [
+    430,
+    168,
+    514,
+    182
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    196,
+    204,
+    210
+   ]
+  },
+  {
+   "text": "1045 B00",
+   "bbox": [
+    418,
+    196,
+    514,
+    210
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    234,
+    164,
+    253
+   ]
+  },
+  {
+   "text": "1 780 Ft",
+   "bbox": [
+    402,
+    236,
+    514,
+    253
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    272,
+    120,
+    288
+   ]
+  },
+  {
+   "text": "1 780 Ft",
+   "bbox": [
+    418,
+    274,
+    514,
+    288
+   ]
+  },
+  {
+   "text": "2025.11.29.",
+   "bbox": [
+    24,
+    316,
+    145,
+    329
+   ]
+  },
+  {
+   "text": "21:05",
+   "bbox": [
+    459,
+    316,
+    514,
+    329
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6214/20256",
+   "bbox": [
+    24,
+    343,
+    266,
+    360
+   ]
+  },
+  {
+   "text": "AP A38379529",
+   "bbox": [
+    24,
+    372,
+    156,
+    385
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    148,
+    410,
+    390,
+    425
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  538,
+  470
+ ]
+}

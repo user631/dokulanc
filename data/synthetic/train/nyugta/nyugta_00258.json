@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HORVÁTH ABC BT.",
+  "uzlet_cim": "H-7078 Szigetszentmiklós, Szolnoki utca 154.",
+  "adoszam": "85987555-5-17",
+  "datum": "2026.02.03.",
+  "ido": "14:38",
+  "nyugtaszam": "1631/78481",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 857 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4790"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "348"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "665"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "802"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "420"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1059"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "892"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "881"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH ABC BT.",
+   "bbox": [
+    180,
+    31,
+    375,
+    48
+   ]
+  },
+  {
+   "text": "H-7078 Szigetszentmiklós, Szolnoki utca 154.",
+   "bbox": [
+    36,
+    63,
+    520,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 85987555-5-17",
+   "bbox": [
+    157,
+    87,
+    399,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    128,
+    321,
+    143
+   ]
+  },
+  {
+   "text": "2 DB x 2395",
+   "bbox": [
+    24,
+    168,
+    134,
+    180
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    190,
+    132,
+    204
+   ]
+  },
+  {
+   "text": "4790 B00",
+   "bbox": [
+    437,
+    190,
+    533,
+    204
+   ]
+  },
+  {
+   "text": "2 DB x 174",
+   "bbox": [
+    24,
+    218,
+    124,
+    230
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    240,
+    192,
+    257
+   ]
+  },
+  {
+   "text": "348 C00",
+   "bbox": [
+    449,
+    240,
+    533,
+    254
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    268,
+    120,
+    282
+   ]
+  },
+  {
+   "text": "665 C00",
+   "bbox": [
+    449,
+    268,
+    533,
+    282
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    296,
+    168,
+    310
+   ]
+  },
+  {
+   "text": "802 C00",
+   "bbox": [
+    449,
+    296,
+    533,
+    310
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    324,
+    192,
+    338
+   ]
+  },
+  {
+   "text": "420 B00",
+   "bbox": [
+    449,
+    324,
+    533,
+    338
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    352,
+    120,
+    366
+   ]
+  },
+  {
+   "text": "1059 C00",
+   "bbox": [
+    437,
+    352,
+    533,
+    366
+   ]
+  },
+  {
+   "text": "2 DB x 446",
+   "bbox": [
+    24,
+    380,
+    124,
+    392
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    402,
+    156,
+    416
+   ]
+  },
+  {
+   "text": "892 A00",
+   "bbox": [
+    449,
+    402,
+    533,
+    416
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    430,
+    216,
+    444
+   ]
+  },
+  {
+   "text": "881 C00",
+   "bbox": [
+    449,
+    430,
+    533,
+    444
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    468,
+    164,
+    487
+   ]
+  },
+  {
+   "text": "9 857 Ft",
+   "bbox": [
+    421,
+    470,
+    533,
+    487
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    506,
+    144,
+    522
+   ]
+  },
+  {
+   "text": "9 857 Ft",
+   "bbox": [
+    437,
+    508,
+    533,
+    522
+   ]
+  },
+  {
+   "text": "2026.02.03.",
+   "bbox": [
+    24,
+    550,
+    145,
+    563
+   ]
+  },
+  {
+   "text": "14:38",
+   "bbox": [
+    478,
+    550,
+    533,
+    563
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1631/78481",
+   "bbox": [
+    24,
+    577,
+    266,
+    594
+   ]
+  },
+  {
+   "text": "AP A33443141",
+   "bbox": [
+    24,
+    606,
+    156,
+    619
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    223,
+    644,
+    333,
+    659
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  557,
+  704
+ ]
+}

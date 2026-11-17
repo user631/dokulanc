@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2025/08841",
+  "kiallitas_datuma": "2025. 05. 24.",
+  "teljesites_datuma": "2025. 05. 20.",
+  "fizetesi_hatarido": "2025. 06. 01.",
+  "elado_nev": "Tóth Consulting Bt.",
+  "elado_cim": "H-5793 Dunakeszi, Kossuth utca 124.",
+  "elado_adoszam": "56912863-2-33",
+  "vevo_nev": "Takács Gusztáv",
+  "vevo_cim": "H-7604 Felsőligetvára, Békéscsabai utca 86.",
+  "vevo_adoszam": null,
+  "bankszamla": "56963285-52864257-29521497",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "144 440 Ft",
+  "afa_osszesen": "38 755 Ft",
+  "brutto_osszesen": "183 195 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "141 730",
+    "netto": "141 730",
+    "afa_kulcs": "27%",
+    "afa": "38 267",
+    "brutto": "179 997"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 710",
+    "netto": "2 710",
+    "afa_kulcs": "18%",
+    "afa": "488",
+    "brutto": "3 198"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    521,
+    71,
+    719,
+    110
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2025/08841",
+   "bbox": [
+    436,
+    134,
+    803,
+    158
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    214,
+    154,
+    233
+   ]
+  },
+  {
+   "text": "Tóth Consulting Bt.",
+   "bbox": [
+    70,
+    251,
+    319,
+    275
+   ]
+  },
+  {
+   "text": "H-5793 Dunakeszi, Kossuth utca 124.",
+   "bbox": [
+    70,
+    287,
+    451,
+    308
+   ]
+  },
+  {
+   "text": "Adószám: 56912863-2-33",
+   "bbox": [
+    69,
+    318,
+    333,
+    339
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    214,
+    702,
+    233
+   ]
+  },
+  {
+   "text": "Takács Gusztáv",
+   "bbox": [
+    630,
+    251,
+    828,
+    270
+   ]
+  },
+  {
+   "text": "H-7604 Felsőligetvára, Békéscsabai utca 86.",
+   "bbox": [
+    630,
+    287,
+    1082,
+    309
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    70,
+    386,
+    240,
+    401
+   ]
+  },
+  {
+   "text": "2025. 05. 24.",
+   "bbox": [
+    70,
+    420,
+    198,
+    436
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    345,
+    386,
+    525,
+    405
+   ]
+  },
+  {
+   "text": "2025. 05. 20.",
+   "bbox": [
+    345,
+    420,
+    475,
+    436
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    386,
+    792,
+    401
+   ]
+  },
+  {
+   "text": "2025. 06. 01.",
+   "bbox": [
+    620,
+    416,
+    747,
+    436
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    895,
+    386,
+    1025,
+    401
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    895,
+    415,
+    973,
+    432
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    466,
+    192,
+    485
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    467,
+    587,
+    485
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    466,
+    753,
+    485
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    466,
+    884,
+    481
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    462,
+    950,
+    481
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    462,
+    1055,
+    481
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1102,
+    466,
+    1170,
+    481
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    510,
+    508,
+    596,
+    523
+   ]
+  },
+  {
+   "text": "141 730",
+   "bbox": [
+    685,
+    512,
+    752,
+    527
+   ]
+  },
+  {
+   "text": "141 730",
+   "bbox": [
+    817,
+    512,
+    884,
+    527
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    509,
+    950,
+    527
+   ]
+  },
+  {
+   "text": "38 267",
+   "bbox": [
+    994,
+    509,
+    1055,
+    527
+   ]
+  },
+  {
+   "text": "179 997",
+   "bbox": [
+    1103,
+    512,
+    1171,
+    527
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    70,
+    508,
+    262,
+    527
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    510,
+    548,
+    591,
+    563
+   ]
+  },
+  {
+   "text": "2 710",
+   "bbox": [
+    705,
+    548,
+    752,
+    563
+   ]
+  },
+  {
+   "text": "2 710",
+   "bbox": [
+    837,
+    548,
+    884,
+    563
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    913,
+    545,
+    950,
+    559
+   ]
+  },
+  {
+   "text": "488",
+   "bbox": [
+    1019,
+    545,
+    1054,
+    563
+   ]
+  },
+  {
+   "text": "3 198",
+   "bbox": [
+    1122,
+    545,
+    1170,
+    563
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    70,
+    544,
+    234,
+    563
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    601,
+    840,
+    619
+   ]
+  },
+  {
+   "text": "144 440 Ft",
+   "bbox": [
+    1055,
+    602,
+    1170,
+    623
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    687,
+    634,
+    840,
+    656
+   ]
+  },
+  {
+   "text": "38 755 Ft",
+   "bbox": [
+    1071,
+    639,
+    1170,
+    660
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    593,
+    675,
+    840,
+    693
+   ]
+  },
+  {
+   "text": "183 195 Ft",
+   "bbox": [
+    1047,
+    676,
+    1170,
+    697
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 56963285-52864257-29521497",
+   "bbox": [
+    70,
+    741,
+    551,
+    762
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    70,
+    771,
+    646,
+    790
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    480,
+    1666,
+    759,
+    1684
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

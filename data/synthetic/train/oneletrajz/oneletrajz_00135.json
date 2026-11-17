@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kovács László",
+  "email": "kovacs.laszlo@freemail.hu",
+  "telefon": "+36 70 669 7830",
+  "lakcim": "H-1316 Mellékvárad, Keresztvégi utca 61.",
+  "szuletesi_datum": "1993. október 31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2013 – 2018"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Szolgáltató Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2023 – jelenleg"
+   },
+   {
+    "ceg": "Pál Tech Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2019 – 2023"
+   },
+   {
+    "ceg": "Hegedűs Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2017 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Java",
+   "Docker",
+   "Linux",
+   "ügyfélkezelés",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    87,
+    192,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    96,
+    147
+   ]
+  },
+  {
+   "text": "kovacs.laszlo@freemail.hu",
+   "bbox": [
+    40,
+    156,
+    265,
+    171
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    189,
+    109,
+    203
+   ]
+  },
+  {
+   "text": "+36 70 669 7830",
+   "bbox": [
+    40,
+    212,
+    178,
+    226
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    245,
+    103,
+    259
+   ]
+  },
+  {
+   "text": "H-1316 Mellékvárad, Keresztvégi utca",
+   "bbox": [
+    40,
+    267,
+    360,
+    286
+   ]
+  },
+  {
+   "text": "61.",
+   "bbox": [
+    40,
+    291,
+    67,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    324,
+    183,
+    338
+   ]
+  },
+  {
+   "text": "1993. október 31.",
+   "bbox": [
+    40,
+    346,
+    192,
+    361
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    407,
+    181,
+    428
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    448,
+    139,
+    468
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    503,
+    160,
+    524
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    546,
+    74,
+    563
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    573,
+    82,
+    587
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    599,
+    102,
+    614
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    627,
+    88,
+    641
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    652,
+    162,
+    672
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    681,
+    135,
+    699
+   ]
+  },
+  {
+   "text": "Kovács László",
+   "bbox": [
+    450,
+    95,
+    737,
+    129
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    165,
+    641,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    680,
+    251
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    450,
+    278,
+    589,
+    297
+   ]
+  },
+  {
+   "text": "rendszergazda – Nagy Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    302,
+    837,
+    324
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    344,
+    558,
+    359
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Pál Tech Bt.",
+   "bbox": [
+    450,
+    368,
+    812,
+    390
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    450,
+    410,
+    558,
+    425
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Hegedűs Tech Kft.",
+   "bbox": [
+    449,
+    434,
+    821,
+    456
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    486,
+    605,
+    510
+   ]
+  },
+  {
+   "text": "2013 – 2018",
+   "bbox": [
+    450,
+    537,
+    558,
+    552
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    561,
+    734,
+    583
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    586,
+    565,
+    606
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    628,
+    558,
+    643
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    652,
+    701,
+    674
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    677,
+    690,
+    697
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

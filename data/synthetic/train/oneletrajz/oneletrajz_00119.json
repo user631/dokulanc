@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Varga Róbert",
+  "email": "varga.robert@citromail.hu",
+  "telefon": "06 1 899 2336",
+  "lakcim": "H-9906 Tótfalva, Györgyvári utca 190.",
+  "szuletesi_datum": "1977.09.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1996 – 1999"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2000 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "B kategóriás jogosítvány",
+   "Git",
+   "SAP",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    103,
+    215,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    151,
+    104,
+    167
+   ]
+  },
+  {
+   "text": "varga.robert@citromail.hu",
+   "bbox": [
+    40,
+    175,
+    273,
+    195
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    115,
+    225
+   ]
+  },
+  {
+   "text": "06 1 899 2336",
+   "bbox": [
+    40,
+    234,
+    168,
+    249
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    111,
+    283
+   ]
+  },
+  {
+   "text": "H-9906 Tótfalva, Györgyvári utca 190.",
+   "bbox": [
+    40,
+    290,
+    380,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    324,
+    202,
+    341
+   ]
+  },
+  {
+   "text": "1977.09.03.",
+   "bbox": [
+    40,
+    350,
+    146,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    202,
+    433
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    453,
+    145,
+    474
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    507,
+    183,
+    531
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    551,
+    235,
+    572
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    579,
+    266,
+    600
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    608,
+    66,
+    624
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    636,
+    77,
+    652
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    663,
+    88,
+    680
+   ]
+  },
+  {
+   "text": "Varga Róbert",
+   "bbox": [
+    449,
+    111,
+    755,
+    158
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    181,
+    667,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    717,
+    272
+   ]
+  },
+  {
+   "text": "2000 – 2002",
+   "bbox": [
+    450,
+    299,
+    572,
+    315
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács Consulting Kft.",
+   "bbox": [
+    450,
+    324,
+    859,
+    347
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    376,
+    629,
+    402
+   ]
+  },
+  {
+   "text": "1996 – 1999",
+   "bbox": [
+    450,
+    429,
+    572,
+    445
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    454,
+    676,
+    477
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    479,
+    603,
+    501
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    450,
+    523,
+    572,
+    539
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    548,
+    784,
+    571
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    574,
+    639,
+    595
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

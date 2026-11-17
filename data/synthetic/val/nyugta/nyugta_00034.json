@@ -1,0 +1,365 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "OLÁH KISBOLT KFT.",
+  "uzlet_cim": "H-1764 Debrecen, Nyékkereszti utca 33.",
+  "adoszam": "71007942-2-42",
+  "datum": "2024.01.18.",
+  "ido": "14:03",
+  "nyugtaszam": "4938/93049",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 195 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2682"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "704"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2580"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "79"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1163"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "201"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1379"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2709"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1698"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OLÁH KISBOLT KFT.",
+   "bbox": [
+    201,
+    31,
+    422,
+    48
+   ]
+  },
+  {
+   "text": "H-1764 Debrecen, Nyékkereszti utca 33.",
+   "bbox": [
+    103,
+    63,
+    521,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71007942-2-42",
+   "bbox": [
+    191,
+    87,
+    433,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    128,
+    355,
+    143
+   ]
+  },
+  {
+   "text": "3 DB x 894",
+   "bbox": [
+    24,
+    168,
+    124,
+    180
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    190,
+    216,
+    204
+   ]
+  },
+  {
+   "text": "2682 B00",
+   "bbox": [
+    504,
+    190,
+    600,
+    204
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    218,
+    204,
+    232
+   ]
+  },
+  {
+   "text": "704 C00",
+   "bbox": [
+    516,
+    218,
+    600,
+    232
+   ]
+  },
+  {
+   "text": "2 DB x 1290",
+   "bbox": [
+    24,
+    246,
+    134,
+    258
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    268,
+    120,
+    282
+   ]
+  },
+  {
+   "text": "2580 B00",
+   "bbox": [
+    504,
+    268,
+    600,
+    282
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    297,
+    96,
+    310
+   ]
+  },
+  {
+   "text": "79 C00",
+   "bbox": [
+    528,
+    296,
+    600,
+    310
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    324,
+    144,
+    338
+   ]
+  },
+  {
+   "text": "1163 A00",
+   "bbox": [
+    504,
+    324,
+    600,
+    338
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    352,
+    192,
+    369
+   ]
+  },
+  {
+   "text": "201 C00",
+   "bbox": [
+    516,
+    352,
+    600,
+    366
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    381,
+    180,
+    394
+   ]
+  },
+  {
+   "text": "1379 B00",
+   "bbox": [
+    504,
+    380,
+    600,
+    394
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    408,
+    252,
+    422
+   ]
+  },
+  {
+   "text": "2709 B00",
+   "bbox": [
+    504,
+    408,
+    600,
+    422
+   ]
+  },
+  {
+   "text": "3 DB x 566",
+   "bbox": [
+    24,
+    436,
+    124,
+    448
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    458,
+    132,
+    472
+   ]
+  },
+  {
+   "text": "1698 C00",
+   "bbox": [
+    504,
+    458,
+    600,
+    472
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    496,
+    164,
+    515
+   ]
+  },
+  {
+   "text": "13 195 Ft",
+   "bbox": [
+    474,
+    498,
+    600,
+    515
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    534,
+    144,
+    550
+   ]
+  },
+  {
+   "text": "13 195 Ft",
+   "bbox": [
+    492,
+    536,
+    600,
+    550
+   ]
+  },
+  {
+   "text": "2024.01.18.",
+   "bbox": [
+    24,
+    578,
+    145,
+    591
+   ]
+  },
+  {
+   "text": "14:03",
+   "bbox": [
+    545,
+    578,
+    600,
+    591
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4938/93049",
+   "bbox": [
+    24,
+    605,
+    266,
+    622
+   ]
+  },
+  {
+   "text": "AP A89860971",
+   "bbox": [
+    24,
+    634,
+    156,
+    647
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    191,
+    672,
+    433,
+    687
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  624,
+  732
+ ]
+}

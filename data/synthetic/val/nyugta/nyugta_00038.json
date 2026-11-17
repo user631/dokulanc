@@ -1,0 +1,277 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS DISZKONT BT.",
+  "uzlet_cim": "H-4750 Devecser, Mellékdevecseri utca 60.",
+  "adoszam": "59843715-5-41",
+  "datum": "2026.01.12.",
+  "ido": "20:09",
+  "nyugtaszam": "3576/80984",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 375 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2804"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2730"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "946"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "66"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "829"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS DISZKONT BT.",
+   "bbox": [
+    131,
+    30,
+    397,
+    50
+   ]
+  },
+  {
+   "text": "H-4750 Devecser, Mellékdevecseri utca 60.",
+   "bbox": [
+    38,
+    66,
+    489,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59843715-5-41",
+   "bbox": [
+    143,
+    89,
+    385,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    218,
+    133,
+    310,
+    148
+   ]
+  },
+  {
+   "text": "2 DB x 1402",
+   "bbox": [
+    24,
+    174,
+    145,
+    185
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    199,
+    193,
+    211
+   ]
+  },
+  {
+   "text": "2804 A00",
+   "bbox": [
+    401,
+    198,
+    505,
+    211
+   ]
+  },
+  {
+   "text": "3 DB x 910",
+   "bbox": [
+    24,
+    226,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    250,
+    219,
+    263
+   ]
+  },
+  {
+   "text": "2730 B00",
+   "bbox": [
+    401,
+    250,
+    505,
+    263
+   ]
+  },
+  {
+   "text": "2 DB x 473",
+   "bbox": [
+    24,
+    278,
+    134,
+    289
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    302,
+    141,
+    315
+   ]
+  },
+  {
+   "text": "946 C00",
+   "bbox": [
+    414,
+    302,
+    505,
+    315
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    332,
+    102,
+    344
+   ]
+  },
+  {
+   "text": "66 B00",
+   "bbox": [
+    427,
+    331,
+    505,
+    344
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    360,
+    232,
+    373
+   ]
+  },
+  {
+   "text": "829 C00",
+   "bbox": [
+    414,
+    360,
+    505,
+    373
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    398,
+    159,
+    417
+   ]
+  },
+  {
+   "text": "7 375 Ft",
+   "bbox": [
+    385,
+    401,
+    505,
+    417
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    437,
+    128,
+    453
+   ]
+  },
+  {
+   "text": "7 375 Ft",
+   "bbox": [
+    401,
+    440,
+    505,
+    453
+   ]
+  },
+  {
+   "text": "2026.01.12.",
+   "bbox": [
+    24,
+    482,
+    145,
+    494
+   ]
+  },
+  {
+   "text": "20:09",
+   "bbox": [
+    450,
+    482,
+    505,
+    494
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3576/80984",
+   "bbox": [
+    24,
+    508,
+    266,
+    525
+   ]
+  },
+  {
+   "text": "AP A85377607",
+   "bbox": [
+    24,
+    540,
+    156,
+    552
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    132,
+    578,
+    396,
+    594
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  529,
+  638
+ ]
+}

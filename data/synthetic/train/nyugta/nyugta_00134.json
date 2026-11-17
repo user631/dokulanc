@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HAJDU MARKET KFT.",
+  "uzlet_cim": "H-9381 Mátramelléknémeti, Szabadság utca 238.",
+  "adoszam": "33746278-4-19",
+  "datum": "2025.10.09.",
+  "ido": "16:48",
+  "nyugtaszam": "0866/80094",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 910 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "896"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1014"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HAJDU MARKET KFT.",
+   "bbox": [
+    153,
+    34,
+    374,
+    48
+   ]
+  },
+  {
+   "text": "H-9381 Mátramelléknémeti, Szabadság utca",
+   "bbox": [
+    44,
+    63,
+    484,
+    80
+   ]
+  },
+  {
+   "text": "238.",
+   "bbox": [
+    242,
+    88,
+    286,
+    101
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 33746278-4-19",
+   "bbox": [
+    143,
+    111,
+    385,
+    125
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    152,
+    307,
+    167
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    192,
+    120,
+    206
+   ]
+  },
+  {
+   "text": "896 B00",
+   "bbox": [
+    420,
+    192,
+    504,
+    206
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    220,
+    120,
+    234
+   ]
+  },
+  {
+   "text": "1014 C00",
+   "bbox": [
+    408,
+    220,
+    504,
+    234
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    258,
+    164,
+    277
+   ]
+  },
+  {
+   "text": "1 910 Ft",
+   "bbox": [
+    392,
+    260,
+    504,
+    277
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    296,
+    144,
+    312
+   ]
+  },
+  {
+   "text": "1 910 Ft",
+   "bbox": [
+    408,
+    298,
+    504,
+    312
+   ]
+  },
+  {
+   "text": "2025.10.09.",
+   "bbox": [
+    24,
+    340,
+    145,
+    353
+   ]
+  },
+  {
+   "text": "16:48",
+   "bbox": [
+    449,
+    340,
+    504,
+    353
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0866/80094",
+   "bbox": [
+    24,
+    367,
+    266,
+    384
+   ]
+  },
+  {
+   "text": "AP A37819237",
+   "bbox": [
+    24,
+    396,
+    156,
+    409
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    143,
+    434,
+    385,
+    449
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  528,
+  494
+ ]
+}

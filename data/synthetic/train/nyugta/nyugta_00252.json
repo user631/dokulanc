@@ -1,0 +1,352 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "ORBÁN ABC KFT.",
+  "uzlet_cim": "H-2158 Kaposvár, Mellékberényi utca 82.",
+  "adoszam": "78964583-2-35",
+  "datum": "2026.09.18.",
+  "ido": "07:43",
+  "nyugtaszam": "3953/34857",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "8 505 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "496"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1023"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1482"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1416"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "284"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "710"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2958"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "136"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ORBÁN ABC KFT.",
+   "bbox": [
+    204,
+    28,
+    400,
+    49
+   ]
+  },
+  {
+   "text": "H-2158 Kaposvár, Mellékberényi utca 82.",
+   "bbox": [
+    68,
+    66,
+    536,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 78964583-2-35",
+   "bbox": [
+    170,
+    91,
+    434,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    257,
+    137,
+    347,
+    154
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    181,
+    141,
+    196
+   ]
+  },
+  {
+   "text": "496 B00",
+   "bbox": [
+    490,
+    181,
+    581,
+    196
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    212,
+    180,
+    227
+   ]
+  },
+  {
+   "text": "1023 A00",
+   "bbox": [
+    477,
+    212,
+    581,
+    227
+   ]
+  },
+  {
+   "text": "2 DB x 741",
+   "bbox": [
+    24,
+    242,
+    134,
+    255
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    268,
+    141,
+    283
+   ]
+  },
+  {
+   "text": "1482 B00",
+   "bbox": [
+    477,
+    268,
+    581,
+    283
+   ]
+  },
+  {
+   "text": "3 DB x 472",
+   "bbox": [
+    24,
+    298,
+    134,
+    311
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    324,
+    167,
+    339
+   ]
+  },
+  {
+   "text": "1416 A00",
+   "bbox": [
+    477,
+    324,
+    581,
+    339
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    355,
+    193,
+    370
+   ]
+  },
+  {
+   "text": "284 B00",
+   "bbox": [
+    490,
+    355,
+    581,
+    370
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    386,
+    232,
+    401
+   ]
+  },
+  {
+   "text": "710 B00",
+   "bbox": [
+    490,
+    386,
+    581,
+    401
+   ]
+  },
+  {
+   "text": "2 DB x 1479",
+   "bbox": [
+    24,
+    416,
+    145,
+    429
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    442,
+    154,
+    457
+   ]
+  },
+  {
+   "text": "2958 A00",
+   "bbox": [
+    477,
+    442,
+    581,
+    457
+   ]
+  },
+  {
+   "text": "2 DB x 68",
+   "bbox": [
+    24,
+    472,
+    123,
+    485
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    498,
+    102,
+    513
+   ]
+  },
+  {
+   "text": "136 C00",
+   "bbox": [
+    490,
+    498,
+    581,
+    513
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    537,
+    159,
+    559
+   ]
+  },
+  {
+   "text": "8 505 Ft",
+   "bbox": [
+    461,
+    542,
+    581,
+    559
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    577,
+    167,
+    597
+   ]
+  },
+  {
+   "text": "8 505 Ft",
+   "bbox": [
+    477,
+    582,
+    581,
+    597
+   ]
+  },
+  {
+   "text": "2026.09.18.",
+   "bbox": [
+    24,
+    627,
+    156,
+    640
+   ]
+  },
+  {
+   "text": "07:43",
+   "bbox": [
+    521,
+    627,
+    581,
+    640
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3953/34857",
+   "bbox": [
+    24,
+    654,
+    288,
+    673
+   ]
+  },
+  {
+   "text": "AP A46010316",
+   "bbox": [
+    24,
+    689,
+    168,
+    702
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    170,
+    727,
+    434,
+    746
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  605,
+  792
+ ]
+}

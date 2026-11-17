@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Kovács Marianna",
+  "anyja_neve": "Takács Tamás",
+  "szuletesi_hely": "Hídnémeti",
+  "szuletesi_datum": "1971.05.28.",
+  "lakcim": "H-6207 Nyíregyháza, Törökfürdői tér 46.",
+  "telefon": "+36 70 907 9343",
+  "email": "kovacs.marianna@example.hu",
+  "adoazonosito_jel": "8381327288",
+  "taj_szam": "575 636 772",
+  "kelt": "Egyházasligetfalu, 2025.10.31."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    529,
+    100,
+    712,
+    129
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    102,
+    206,
+    279,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    114,
+    261,
+    148,
+    273
+   ]
+  },
+  {
+   "text": "Kovács Marianna",
+   "bbox": [
+    422,
+    259,
+    567,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    312,
+    198,
+    327
+   ]
+  },
+  {
+   "text": "Takács Tamás",
+   "bbox": [
+    422,
+    312,
+    539,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    114,
+    363,
+    216,
+    378
+   ]
+  },
+  {
+   "text": "Hídnémeti",
+   "bbox": [
+    422,
+    360,
+    511,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    114,
+    414,
+    209,
+    426
+   ]
+  },
+  {
+   "text": "1971.05.28.",
+   "bbox": [
+    422,
+    411,
+    525,
+    424
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    114,
+    465,
+    170,
+    477
+   ]
+  },
+  {
+   "text": "H-6207 Nyíregyháza, Törökfürdői tér 46.",
+   "bbox": [
+    422,
+    462,
+    766,
+    480
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    114,
+    516,
+    212,
+    528
+   ]
+  },
+  {
+   "text": "+36 70 907 9343",
+   "bbox": [
+    422,
+    518,
+    568,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    114,
+    567,
+    195,
+    579
+   ]
+  },
+  {
+   "text": "kovacs.marianna@example.hu",
+   "bbox": [
+    422,
+    565,
+    683,
+    583
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    618,
+    241,
+    633
+   ]
+  },
+  {
+   "text": "8381327288",
+   "bbox": [
+    422,
+    614,
+    532,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    114,
+    669,
+    185,
+    681
+   ]
+  },
+  {
+   "text": "575 636 772",
+   "bbox": [
+    422,
+    668,
+    531,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    102,
+    744,
+    242,
+    762
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    147,
+    790,
+    401,
+    805
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    147,
+    835,
+    266,
+    847
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    880,
+    415,
+    895
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    102,
+    980,
+    136,
+    993
+   ]
+  },
+  {
+   "text": "Egyházasligetfalu, 2025.10.31.",
+   "bbox": [
+    192,
+    976,
+    451,
+    994
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1030,
+    967,
+    1040
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

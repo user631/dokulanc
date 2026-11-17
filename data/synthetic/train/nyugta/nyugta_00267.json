@@ -1,0 +1,361 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOVÁCS DISZKONT BT.",
+  "uzlet_cim": "H-1801 Némettamásivég, Hódmezővásárhelyi út 225.",
+  "adoszam": "71362887-2-27",
+  "datum": "2025.08.10.",
+  "ido": "14:05",
+  "nyugtaszam": "1929/36792",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 905 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "380"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "683"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "982"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2342"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3402"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4150"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "924"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1042"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS DISZKONT BT.",
+   "bbox": [
+    175,
+    28,
+    403,
+    47
+   ]
+  },
+  {
+   "text": "H-1801 Némettamásivég, Hódmezővásárhelyi út 225.",
+   "bbox": [
+    49,
+    63,
+    529,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71362887-2-27",
+   "bbox": [
+    179,
+    86,
+    399,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    127,
+    329,
+    142
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    168,
+    178,
+    181
+   ]
+  },
+  {
+   "text": "380 C00",
+   "bbox": [
+    478,
+    168,
+    555,
+    181
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    196,
+    200,
+    209
+   ]
+  },
+  {
+   "text": "683 A00",
+   "bbox": [
+    478,
+    196,
+    555,
+    209
+   ]
+  },
+  {
+   "text": "2 DB x 491",
+   "bbox": [
+    24,
+    224,
+    114,
+    235
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    246,
+    123,
+    259
+   ]
+  },
+  {
+   "text": "982 A00",
+   "bbox": [
+    478,
+    246,
+    555,
+    259
+   ]
+  },
+  {
+   "text": "2 DB x 1171",
+   "bbox": [
+    24,
+    274,
+    123,
+    285
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    296,
+    112,
+    309
+   ]
+  },
+  {
+   "text": "2342 B00",
+   "bbox": [
+    467,
+    296,
+    555,
+    309
+   ]
+  },
+  {
+   "text": "3 DB x 1134",
+   "bbox": [
+    24,
+    324,
+    123,
+    335
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    346,
+    189,
+    359
+   ]
+  },
+  {
+   "text": "3402 A00",
+   "bbox": [
+    467,
+    346,
+    555,
+    359
+   ]
+  },
+  {
+   "text": "2 DB x 2075",
+   "bbox": [
+    24,
+    374,
+    123,
+    385
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    396,
+    123,
+    409
+   ]
+  },
+  {
+   "text": "4150 B00",
+   "bbox": [
+    467,
+    396,
+    555,
+    409
+   ]
+  },
+  {
+   "text": "3 DB x 308",
+   "bbox": [
+    24,
+    424,
+    114,
+    435
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    446,
+    167,
+    459
+   ]
+  },
+  {
+   "text": "924 C00",
+   "bbox": [
+    478,
+    446,
+    555,
+    459
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    474,
+    156,
+    487
+   ]
+  },
+  {
+   "text": "1042 B00",
+   "bbox": [
+    467,
+    474,
+    555,
+    487
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    511,
+    141,
+    530
+   ]
+  },
+  {
+   "text": "13 905 Ft",
+   "bbox": [
+    438,
+    514,
+    555,
+    530
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    548,
+    145,
+    565
+   ]
+  },
+  {
+   "text": "13 905 Ft",
+   "bbox": [
+    456,
+    552,
+    555,
+    565
+   ]
+  },
+  {
+   "text": "2025.08.10.",
+   "bbox": [
+    24,
+    595,
+    134,
+    606
+   ]
+  },
+  {
+   "text": "14:05",
+   "bbox": [
+    505,
+    595,
+    555,
+    606
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1929/36792",
+   "bbox": [
+    24,
+    620,
+    244,
+    636
+   ]
+  },
+  {
+   "text": "AP A14575689",
+   "bbox": [
+    24,
+    651,
+    144,
+    662
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    214,
+    687,
+    364,
+    703
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  579,
+  748
+ ]
+}

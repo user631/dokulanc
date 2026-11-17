@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Ilona",
+  "email": "nagy.ilona@outlook.com",
+  "telefon": "+36 30 403 1198",
+  "lakcim": "H-6994 Hetvenvég, Bakonytóti utca 236.",
+  "szuletesi_datum": "1986. augusztus 8.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2005 – 2008"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bogdán és Társa Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "ceg": "Nagy és Társa Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2014"
+   },
+   {
+    "ceg": "Szabó Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "B kategóriás jogosítvány",
+   "Excel",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    230,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    112,
+    172
+   ]
+  },
+  {
+   "text": "nagy.ilona@outlook.com",
+   "bbox": [
+    40,
+    180,
+    285,
+    200
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    214,
+    123,
+    230
+   ]
+  },
+  {
+   "text": "+36 30 403 1198",
+   "bbox": [
+    40,
+    239,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    271,
+    119,
+    288
+   ]
+  },
+  {
+   "text": "H-6994 Hetvenvég, Bakonytóti",
+   "bbox": [
+    40,
+    295,
+    353,
+    316
+   ]
+  },
+  {
+   "text": "utca 236.",
+   "bbox": [
+    40,
+    321,
+    136,
+    336
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    353,
+    219,
+    370
+   ]
+  },
+  {
+   "text": "1986. augusztus 8.",
+   "bbox": [
+    40,
+    379,
+    235,
+    398
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    218,
+    462
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    482,
+    153,
+    503
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    510,
+    152,
+    531
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    564,
+    196,
+    588
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    609,
+    81,
+    625
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    636,
+    300,
+    657
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    664,
+    95,
+    681
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    693,
+    70,
+    709
+   ]
+  },
+  {
+   "text": "Nagy Ilona",
+   "bbox": [
+    450,
+    119,
+    735,
+    163
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    183,
+    583,
+    213
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    252,
+    743,
+    277
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    304,
+    592,
+    320
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Bogdán és Társa Bt.",
+   "bbox": [
+    450,
+    329,
+    1087,
+    352
+   ]
+  },
+  {
+   "text": "2013 – 2014",
+   "bbox": [
+    450,
+    372,
+    592,
+    388
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy és Társa Bt.",
+   "bbox": [
+    450,
+    397,
+    979,
+    420
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    440,
+    592,
+    456
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó Bt.",
+   "bbox": [
+    450,
+    465,
+    763,
+    483
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    517,
+    649,
+    543
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    450,
+    570,
+    592,
+    586
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    595,
+    802,
+    618
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    620,
+    823,
+    642
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    664,
+    592,
+    680
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    689,
+    759,
+    712
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    715,
+    666,
+    736
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2024/03656",
+  "kiallitas_datuma": "2024. 03. 09.",
+  "teljesites_datuma": "2024. 03. 06.",
+  "fizetesi_hatarido": "2024. 03. 17.",
+  "elado_nev": "Szabó Trade Bt.",
+  "elado_cim": "H-6109 Budatótvárad, József attila utca 115.",
+  "elado_adoszam": "52418556-2-13",
+  "vevo_nev": "Németh Nóra",
+  "vevo_cim": "H-7632 Ligetfalu, Béke utca 25.",
+  "vevo_adoszam": null,
+  "bankszamla": "23538324-50382428-48377887",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "192 200 Ft",
+  "afa_osszesen": "51 894 Ft",
+  "brutto_osszesen": "244 094 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "12 db",
+    "egysegar": "7 140",
+    "netto": "85 680",
+    "afa_kulcs": "27%",
+    "afa": "23 134",
+    "brutto": "108 814"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "17 030",
+    "netto": "68 120",
+    "afa_kulcs": "27%",
+    "afa": "18 392",
+    "brutto": "86 512"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "3 200",
+    "netto": "38 400",
+    "afa_kulcs": "27%",
+    "afa": "10 368",
+    "brutto": "48 768"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    132,
+    129,
+    221,
+    151
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    720,
+    113,
+    1143,
+    144
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/03656",
+   "bbox": [
+    904,
+    171,
+    1143,
+    193
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    96,
+    251,
+    161,
+    268
+   ]
+  },
+  {
+   "text": "Németh Nóra",
+   "bbox": [
+    97,
+    285,
+    249,
+    302
+   ]
+  },
+  {
+   "text": "H-7632 Ligetfalu, Béke utca 25.",
+   "bbox": [
+    97,
+    317,
+    377,
+    336
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    251,
+    704,
+    268
+   ]
+  },
+  {
+   "text": "Szabó Trade Bt.",
+   "bbox": [
+    630,
+    285,
+    809,
+    302
+   ]
+  },
+  {
+   "text": "H-6109 Budatótvárad, József attila utca 115.",
+   "bbox": [
+    630,
+    317,
+    1020,
+    336
+   ]
+  },
+  {
+   "text": "Adószám: 52418556-2-13",
+   "bbox": [
+    629,
+    345,
+    854,
+    364
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    97,
+    411,
+    274,
+    426
+   ]
+  },
+  {
+   "text": "2024. 03. 09.",
+   "bbox": [
+    397,
+    415,
+    513,
+    430
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    97,
+    441,
+    284,
+    460
+   ]
+  },
+  {
+   "text": "2024. 03. 06.",
+   "bbox": [
+    397,
+    442,
+    513,
+    460
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    97,
+    471,
+    276,
+    486
+   ]
+  },
+  {
+   "text": "2024. 03. 17.",
+   "bbox": [
+    397,
+    475,
+    509,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    97,
+    501,
+    233,
+    516
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    396,
+    501,
+    497,
+    520
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    542,
+    204,
+    559
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    543,
+    582,
+    559
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    665,
+    542,
+    745,
+    559
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    542,
+    871,
+    555
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    539,
+    933,
+    555
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    539,
+    1034,
+    555
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    542,
+    1143,
+    555
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    515,
+    581,
+    556,
+    594
+   ]
+  },
+  {
+   "text": "7 140",
+   "bbox": [
+    705,
+    585,
+    745,
+    597
+   ]
+  },
+  {
+   "text": "85 680",
+   "bbox": [
+    818,
+    582,
+    871,
+    597
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    582,
+    933,
+    597
+   ]
+  },
+  {
+   "text": "23 134",
+   "bbox": [
+    984,
+    585,
+    1033,
+    597
+   ]
+  },
+  {
+   "text": "108 814",
+   "bbox": [
+    1085,
+    582,
+    1143,
+    597
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    97,
+    581,
+    230,
+    598
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    515,
+    614,
+    590,
+    630
+   ]
+  },
+  {
+   "text": "17 030",
+   "bbox": [
+    696,
+    618,
+    745,
+    630
+   ]
+  },
+  {
+   "text": "68 120",
+   "bbox": [
+    820,
+    615,
+    871,
+    627
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    615,
+    933,
+    630
+   ]
+  },
+  {
+   "text": "18 392",
+   "bbox": [
+    983,
+    615,
+    1033,
+    630
+   ]
+  },
+  {
+   "text": "86 512",
+   "bbox": [
+    1093,
+    615,
+    1143,
+    630
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    97,
+    614,
+    267,
+    631
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    515,
+    647,
+    597,
+    660
+   ]
+  },
+  {
+   "text": "3 200",
+   "bbox": [
+    702,
+    651,
+    745,
+    663
+   ]
+  },
+  {
+   "text": "38 400",
+   "bbox": [
+    818,
+    648,
+    871,
+    663
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    648,
+    933,
+    663
+   ]
+  },
+  {
+   "text": "10 368",
+   "bbox": [
+    983,
+    648,
+    1033,
+    663
+   ]
+  },
+  {
+   "text": "48 768",
+   "bbox": [
+    1090,
+    648,
+    1143,
+    663
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    97,
+    647,
+    190,
+    664
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    671,
+    701,
+    813,
+    717
+   ]
+  },
+  {
+   "text": "192 200 Ft",
+   "bbox": [
+    1042,
+    702,
+    1143,
+    721
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    731,
+    813,
+    751
+   ]
+  },
+  {
+   "text": "51 894 Ft",
+   "bbox": [
+    1056,
+    736,
+    1143,
+    755
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    600,
+    769,
+    813,
+    785
+   ]
+  },
+  {
+   "text": "244 094 Ft",
+   "bbox": [
+    1027,
+    770,
+    1144,
+    789
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 23538324-50382428-48377887",
+   "bbox": [
+    97,
+    833,
+    521,
+    850
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    448,
+    1641,
+    790,
+    1656
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

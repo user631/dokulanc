@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Horváth László",
+  "anyja_neve": "Juhász Sándor",
+  "szuletesi_hely": "Hetvenvára",
+  "szuletesi_datum": "1994. 03. 22.",
+  "lakcim": "H-8817 Töröktamásikőrös, Váci út 168.",
+  "telefon": "+36 70 954 3689",
+  "email": "horvath.laszlo@citromail.hu",
+  "adoazonosito_jel": "8464667108",
+  "taj_szam": "231 690 023",
+  "kelt": "Györgyváros, 2026. 05. 19."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    539,
+    110,
+    701,
+    135
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    206,
+    295,
+    227
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    258,
+    144,
+    271
+   ]
+  },
+  {
+   "text": "Horváth László",
+   "bbox": [
+    399,
+    258,
+    536,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    309,
+    199,
+    326
+   ]
+  },
+  {
+   "text": "Juhász Sándor",
+   "bbox": [
+    399,
+    306,
+    533,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    359,
+    218,
+    377
+   ]
+  },
+  {
+   "text": "Hetvenvára",
+   "bbox": [
+    399,
+    360,
+    504,
+    375
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    410,
+    212,
+    424
+   ]
+  },
+  {
+   "text": "1994. 03. 22.",
+   "bbox": [
+    399,
+    411,
+    514,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    461,
+    167,
+    475
+   ]
+  },
+  {
+   "text": "H-8817 Töröktamásikőrös, Váci út 168.",
+   "bbox": [
+    399,
+    458,
+    754,
+    477
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    512,
+    212,
+    526
+   ]
+  },
+  {
+   "text": "+36 70 954 3689",
+   "bbox": [
+    399,
+    512,
+    552,
+    527
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    563,
+    195,
+    577
+   ]
+  },
+  {
+   "text": "horvath.laszlo@citromail.hu",
+   "bbox": [
+    399,
+    562,
+    656,
+    580
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    614,
+    247,
+    632
+   ]
+  },
+  {
+   "text": "8464667108",
+   "bbox": [
+    399,
+    612,
+    509,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    666,
+    186,
+    679
+   ]
+  },
+  {
+   "text": "231 690 023",
+   "bbox": [
+    399,
+    664,
+    510,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    744,
+    259,
+    765
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    786,
+    414,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    831,
+    266,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    876,
+    435,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    980,
+    133,
+    994
+   ]
+  },
+  {
+   "text": "Györgyváros, 2026. 05. 19.",
+   "bbox": [
+    187,
+    977,
+    427,
+    997
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1029,
+    974,
+    1040
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

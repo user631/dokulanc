@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2026/04689",
+  "kiallitas_datuma": "2026-03-16",
+  "teljesites_datuma": "2026-03-14",
+  "fizetesi_hatarido": "2026-04-15",
+  "elado_nev": "Lukács és Társa Zrt.",
+  "elado_cim": "H-3298 Szolnok, Belsőkereszti út 111.",
+  "elado_adoszam": "19442671-3-39",
+  "vevo_nev": "Lukács Szolgáltató Kft.",
+  "vevo_cim": "H-2872 Nyékfalva, Mindszentnémetii utca 130.",
+  "vevo_adoszam": "37701860-2-26",
+  "bankszamla": "63691425-60799531-93505527",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 423 970 Ft",
+  "afa_osszesen": "370 936 Ft",
+  "brutto_osszesen": "1 794 906 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "10 hó",
+    "egysegar": "135 900",
+    "netto": "1 359 000",
+    "afa_kulcs": "27%",
+    "afa": "366 930",
+    "brutto": "1 725 930"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "2 csomag",
+    "egysegar": "2 910",
+    "netto": "5 820",
+    "afa_kulcs": "18%",
+    "afa": "1 048",
+    "brutto": "6 868"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "11 830",
+    "netto": "59 150",
+    "afa_kulcs": "5%",
+    "afa": "2 958",
+    "brutto": "62 108"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    548,
+    117,
+    691,
+    150
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/04689",
+   "bbox": [
+    423,
+    173,
+    817,
+    193
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    108,
+    254,
+    178,
+    273
+   ]
+  },
+  {
+   "text": "Lukács Szolgáltató Kft.",
+   "bbox": [
+    108,
+    292,
+    385,
+    316
+   ]
+  },
+  {
+   "text": "H-2872 Nyékfalva, Mindszentnémetii utca",
+   "bbox": [
+    108,
+    326,
+    559,
+    350
+   ]
+  },
+  {
+   "text": "130.",
+   "bbox": [
+    108,
+    360,
+    156,
+    377
+   ]
+  },
+  {
+   "text": "Adószám: 37701860-2-26",
+   "bbox": [
+    108,
+    390,
+    379,
+    409
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    254,
+    707,
+    273
+   ]
+  },
+  {
+   "text": "Lukács és Társa Zrt.",
+   "bbox": [
+    630,
+    292,
+    873,
+    311
+   ]
+  },
+  {
+   "text": "H-3298 Szolnok, Belsőkereszti út 111.",
+   "bbox": [
+    630,
+    326,
+    1038,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 19442671-3-39",
+   "bbox": [
+    630,
+    358,
+    901,
+    377
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    108,
+    461,
+    298,
+    479
+   ]
+  },
+  {
+   "text": "2026-03-16",
+   "bbox": [
+    408,
+    462,
+    530,
+    479
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    108,
+    495,
+    319,
+    518
+   ]
+  },
+  {
+   "text": "2026-03-14",
+   "bbox": [
+    408,
+    496,
+    530,
+    513
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    108,
+    529,
+    308,
+    547
+   ]
+  },
+  {
+   "text": "2026-04-15",
+   "bbox": [
+    408,
+    530,
+    530,
+    547
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    108,
+    563,
+    262,
+    581
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    408,
+    562,
+    497,
+    581
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    108,
+    609,
+    226,
+    628
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    609,
+    588,
+    628
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    609,
+    742,
+    628
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    811,
+    609,
+    865,
+    624
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    605,
+    927,
+    624
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    986,
+    605,
+    1025,
+    624
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1070,
+    609,
+    1132,
+    624
+   ]
+  },
+  {
+   "text": "10 hó",
+   "bbox": [
+    517,
+    651,
+    567,
+    667
+   ]
+  },
+  {
+   "text": "135 900",
+   "bbox": [
+    670,
+    652,
+    742,
+    667
+   ]
+  },
+  {
+   "text": "1 359 000",
+   "bbox": [
+    776,
+    652,
+    865,
+    667
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    652,
+    927,
+    667
+   ]
+  },
+  {
+   "text": "366 930",
+   "bbox": [
+    952,
+    652,
+    1024,
+    667
+   ]
+  },
+  {
+   "text": "1 725 930",
+   "bbox": [
+    1043,
+    652,
+    1132,
+    667
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    108,
+    651,
+    375,
+    671
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    517,
+    689,
+    603,
+    708
+   ]
+  },
+  {
+   "text": "2 910",
+   "bbox": [
+    692,
+    689,
+    742,
+    704
+   ]
+  },
+  {
+   "text": "5 820",
+   "bbox": [
+    815,
+    689,
+    865,
+    704
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    892,
+    689,
+    927,
+    704
+   ]
+  },
+  {
+   "text": "1 048",
+   "bbox": [
+    974,
+    689,
+    1024,
+    704
+   ]
+  },
+  {
+   "text": "6 868",
+   "bbox": [
+    1082,
+    689,
+    1132,
+    704
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    108,
+    688,
+    280,
+    708
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    517,
+    726,
+    558,
+    741
+   ]
+  },
+  {
+   "text": "11 830",
+   "bbox": [
+    681,
+    726,
+    742,
+    741
+   ]
+  },
+  {
+   "text": "59 150",
+   "bbox": [
+    804,
+    726,
+    865,
+    741
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    903,
+    726,
+    927,
+    741
+   ]
+  },
+  {
+   "text": "2 958",
+   "bbox": [
+    974,
+    726,
+    1024,
+    741
+   ]
+  },
+  {
+   "text": "62 108",
+   "bbox": [
+    1071,
+    726,
+    1132,
+    741
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    108,
+    725,
+    363,
+    745
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    625,
+    782,
+    802,
+    802
+   ]
+  },
+  {
+   "text": "1 423 970 Ft",
+   "bbox": [
+    994,
+    784,
+    1132,
+    802
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    645,
+    816,
+    802,
+    840
+   ]
+  },
+  {
+   "text": "370 936 Ft",
+   "bbox": [
+    1015,
+    822,
+    1132,
+    840
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    674,
+    859,
+    802,
+    883
+   ]
+  },
+  {
+   "text": "1 794 906 Ft",
+   "bbox": [
+    978,
+    860,
+    1132,
+    878
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 63691425-60799531-93505527",
+   "bbox": [
+    108,
+    926,
+    598,
+    944
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    469,
+    1626,
+    770,
+    1645
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

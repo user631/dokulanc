@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Horváth Péter",
+  "email": "horvath.peter@freemail.hu",
+  "telefon": "+36 70 363 8068",
+  "lakcim": "H-6571 Györgyfa, Székhalasi utca 28.",
+  "szuletesi_datum": "1990.02.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pál Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2012 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Excel",
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Péter",
+   "bbox": [
+    486,
+    112,
+    754,
+    145
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    528,
+    182,
+    712,
+    203
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    234,
+    148,
+    248
+   ]
+  },
+  {
+   "text": "horvath.peter@freemail.hu",
+   "bbox": [
+    330,
+    234,
+    560,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    159,
+    278
+   ]
+  },
+  {
+   "text": "+36 70 363 8068",
+   "bbox": [
+    330,
+    265,
+    465,
+    278
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    153,
+    308
+   ]
+  },
+  {
+   "text": "H-6571 Györgyfa, Székhalasi utca 28.",
+   "bbox": [
+    330,
+    294,
+    633,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    324,
+    229,
+    338
+   ]
+  },
+  {
+   "text": "1990.02.03.",
+   "bbox": [
+    330,
+    325,
+    425,
+    338
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    375,
+    289,
+    395
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    90,
+    425,
+    190,
+    438
+   ]
+  },
+  {
+   "text": "adatelemző – Pál Trade Kft.",
+   "bbox": [
+    90,
+    449,
+    327,
+    463
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    499,
+    227,
+    519
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    549,
+    190,
+    562
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    573,
+    329,
+    591
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    596,
+    194,
+    614
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    637,
+    190,
+    650
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    661,
+    333,
+    679
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    685,
+    163,
+    702
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    735,
+    202,
+    755
+   ]
+  },
+  {
+   "text": "német (B1), angol (B2)",
+   "bbox": [
+    90,
+    784,
+    276,
+    802
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    831,
+    192,
+    851
+   ]
+  },
+  {
+   "text": "C#, Excel, prezentáció, B kategóriás jogosítvány, Python",
+   "bbox": [
+    90,
+    880,
+    552,
+    898
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

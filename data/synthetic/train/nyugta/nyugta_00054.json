@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS CSEMEGE KFT.",
+  "uzlet_cim": "H-7536 Mártonváros, Mindszenthidai utca 50.",
+  "adoszam": "35772387-3-17",
+  "datum": "2026.07.21.",
+  "ido": "14:22",
+  "nyugtaszam": "4157/67525",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 552 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "353"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "897"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2721"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "924"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "167"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "490"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS CSEMEGE KFT.",
+   "bbox": [
+    153,
+    28,
+    419,
+    49
+   ]
+  },
+  {
+   "text": "H-7536 Mártonváros, Mindszenthidai utca 50.",
+   "bbox": [
+    28,
+    66,
+    544,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 35772387-3-17",
+   "bbox": [
+    154,
+    91,
+    418,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    137,
+    331,
+    154
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    180,
+    167,
+    200
+   ]
+  },
+  {
+   "text": "353 B00",
+   "bbox": [
+    457,
+    181,
+    548,
+    196
+   ]
+  },
+  {
+   "text": "3 DB x 299",
+   "bbox": [
+    24,
+    211,
+    134,
+    224
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    237,
+    206,
+    252
+   ]
+  },
+  {
+   "text": "897 B00",
+   "bbox": [
+    457,
+    237,
+    548,
+    252
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    268,
+    271,
+    283
+   ]
+  },
+  {
+   "text": "2721 C00",
+   "bbox": [
+    444,
+    268,
+    548,
+    283
+   ]
+  },
+  {
+   "text": "3 DB x 308",
+   "bbox": [
+    24,
+    298,
+    134,
+    311
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    324,
+    206,
+    339
+   ]
+  },
+  {
+   "text": "924 B00",
+   "bbox": [
+    457,
+    324,
+    548,
+    339
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    355,
+    206,
+    374
+   ]
+  },
+  {
+   "text": "167 B00",
+   "bbox": [
+    457,
+    355,
+    548,
+    370
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    386,
+    141,
+    401
+   ]
+  },
+  {
+   "text": "490 C00",
+   "bbox": [
+    457,
+    386,
+    548,
+    401
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    425,
+    174,
+    447
+   ]
+  },
+  {
+   "text": "5 552 Ft",
+   "bbox": [
+    428,
+    430,
+    548,
+    447
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    465,
+    154,
+    485
+   ]
+  },
+  {
+   "text": "5 552 Ft",
+   "bbox": [
+    444,
+    470,
+    548,
+    485
+   ]
+  },
+  {
+   "text": "2026.07.21.",
+   "bbox": [
+    24,
+    515,
+    156,
+    528
+   ]
+  },
+  {
+   "text": "14:22",
+   "bbox": [
+    488,
+    515,
+    548,
+    528
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4157/67525",
+   "bbox": [
+    24,
+    542,
+    288,
+    561
+   ]
+  },
+  {
+   "text": "AP A30119754",
+   "bbox": [
+    24,
+    577,
+    168,
+    590
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    196,
+    615,
+    376,
+    634
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  572,
+  680
+ ]
+}

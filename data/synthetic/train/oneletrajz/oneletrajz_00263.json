@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Mária",
+  "email": "horvath.maria@example.hu",
+  "telefon": "+36 70 895 9549",
+  "lakcim": "H-8433 Hátkőrös, Lajoshetveni út 178.",
+  "szuletesi_datum": "1989. 08. 19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sipos Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2012 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "C#",
+   "Git",
+   "ügyfélkezelés",
+   "B kategóriás jogosítvány",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Mária",
+   "bbox": [
+    463,
+    91,
+    776,
+    126
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    562,
+    157,
+    677,
+    184
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    214,
+    161,
+    229
+   ]
+  },
+  {
+   "text": "horvath.maria@example.hu",
+   "bbox": [
+    330,
+    214,
+    595,
+    233
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    245,
+    173,
+    260
+   ]
+  },
+  {
+   "text": "+36 70 895 9549",
+   "bbox": [
+    330,
+    245,
+    492,
+    260
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    275,
+    171,
+    291
+   ]
+  },
+  {
+   "text": "H-8433 Hátkőrös, Lajoshetveni út 178.",
+   "bbox": [
+    330,
+    276,
+    698,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    306,
+    260,
+    322
+   ]
+  },
+  {
+   "text": "1989. 08. 19.",
+   "bbox": [
+    330,
+    307,
+    456,
+    322
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    358,
+    328,
+    381
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    409,
+    210,
+    424
+   ]
+  },
+  {
+   "text": "adatelemző – Sipos Trade Kft.",
+   "bbox": [
+    90,
+    432,
+    398,
+    453
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    483,
+    250,
+    508
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    536,
+    210,
+    551
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    559,
+    628,
+    580
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    586,
+    281,
+    605
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    627,
+    210,
+    642
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    650,
+    344,
+    671
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    677,
+    273,
+    696
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    726,
+    223,
+    751
+   ]
+  },
+  {
+   "text": "spanyol (B1), angol (C1)",
+   "bbox": [
+    90,
+    779,
+    323,
+    798
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    824,
+    220,
+    849
+   ]
+  },
+  {
+   "text": "Python, C#, Git, ügyfélkezelés, B kategóriás jogosítvány, Linux",
+   "bbox": [
+    90,
+    877,
+    691,
+    896
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

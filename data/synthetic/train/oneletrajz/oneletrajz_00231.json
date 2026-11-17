@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kiss Tímea",
+  "email": "kiss.timea@freemail.hu",
+  "telefon": "+36 30 629 7798",
+  "lakcim": "H-7621 Pusztatótapáti, Mindszentharasztii utca 190.",
+  "szuletesi_datum": "1993.12.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Trade Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2019 – 2021"
+   },
+   {
+    "ceg": "Székely Szolgáltató Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Linux",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    223,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    99,
+    148
+   ]
+  },
+  {
+   "text": "kiss.timea@freemail.hu",
+   "bbox": [
+    40,
+    158,
+    235,
+    176
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    193,
+    105,
+    206
+   ]
+  },
+  {
+   "text": "+36 30 629 7798",
+   "bbox": [
+    40,
+    217,
+    176,
+    230
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    106,
+    264
+   ]
+  },
+  {
+   "text": "H-7621 Pusztatótapáti,",
+   "bbox": [
+    40,
+    274,
+    226,
+    292
+   ]
+  },
+  {
+   "text": "Mindszentharasztii utca 190.",
+   "bbox": [
+    40,
+    298,
+    275,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    333,
+    177,
+    346
+   ]
+  },
+  {
+   "text": "1993.12.08.",
+   "bbox": [
+    40,
+    357,
+    135,
+    370
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    418,
+    203,
+    438
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    460,
+    128,
+    479
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    488,
+    132,
+    507
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    544,
+    187,
+    564
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    586,
+    151,
+    605
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    614,
+    92,
+    629
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    39,
+    642,
+    137,
+    661
+   ]
+  },
+  {
+   "text": "Kiss Tímea",
+   "bbox": [
+    450,
+    95,
+    672,
+    128
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    166,
+    651,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    231,
+    674,
+    254
+   ]
+  },
+  {
+   "text": "2019 – 2021",
+   "bbox": [
+    450,
+    281,
+    561,
+    296
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Trade Kft.",
+   "bbox": [
+    450,
+    308,
+    799,
+    328
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    349,
+    561,
+    364
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Székely Szolgáltató Bt.",
+   "bbox": [
+    449,
+    376,
+    849,
+    396
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    428,
+    605,
+    452
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    479,
+    561,
+    494
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    506,
+    795,
+    526
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    530,
+    596,
+    546
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    573,
+    561,
+    588
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    600,
+    699,
+    620
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    624,
+    623,
+    645
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

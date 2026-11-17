@@ -1,0 +1,233 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LAKATOS KISBOLT BT.",
+  "uzlet_cim": "H-5393 Újtamásifalu, Székfalui utca 102.",
+  "adoszam": "22588553-2-20",
+  "datum": "2026.01.27.",
+  "ido": "13:22",
+  "nyugtaszam": "8502/74467",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 088 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "128"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2626"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2334"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS KISBOLT BT.",
+   "bbox": [
+    144,
+    36,
+    391,
+    49
+   ]
+  },
+  {
+   "text": "H-5393 Újtamásifalu, Székfalui utca 102.",
+   "bbox": [
+    48,
+    63,
+    488,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 22588553-2-20",
+   "bbox": [
+    147,
+    87,
+    389,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    130,
+    311,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 64",
+   "bbox": [
+    24,
+    170,
+    114,
+    181
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    193,
+    96,
+    205
+   ]
+  },
+  {
+   "text": "128 B00",
+   "bbox": [
+    429,
+    192,
+    513,
+    205
+   ]
+  },
+  {
+   "text": "2 DB x 1313",
+   "bbox": [
+    24,
+    220,
+    134,
+    231
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    242,
+    144,
+    255
+   ]
+  },
+  {
+   "text": "2626 C00",
+   "bbox": [
+    417,
+    242,
+    513,
+    255
+   ]
+  },
+  {
+   "text": "3 DB x 778",
+   "bbox": [
+    24,
+    270,
+    124,
+    281
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    292,
+    132,
+    305
+   ]
+  },
+  {
+   "text": "2334 A00",
+   "bbox": [
+    417,
+    292,
+    513,
+    305
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    330,
+    150,
+    348
+   ]
+  },
+  {
+   "text": "5 088 Ft",
+   "bbox": [
+    401,
+    333,
+    514,
+    348
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    367,
+    156,
+    383
+   ]
+  },
+  {
+   "text": "5 088 Ft",
+   "bbox": [
+    417,
+    370,
+    513,
+    383
+   ]
+  },
+  {
+   "text": "2026.01.27.",
+   "bbox": [
+    24,
+    412,
+    145,
+    423
+   ]
+  },
+  {
+   "text": "13:22",
+   "bbox": [
+    458,
+    412,
+    513,
+    423
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8502/74467",
+   "bbox": [
+    24,
+    437,
+    266,
+    452
+   ]
+  },
+  {
+   "text": "AP A55971335",
+   "bbox": [
+    24,
+    468,
+    156,
+    479
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    213,
+    506,
+    323,
+    520
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  537,
+  564
+ ]
+}

@@ -1,0 +1,411 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TAKÁCS ÉLELMISZER BT.",
+  "uzlet_cim": "H-4058 Györgyvára, Borsodmelléki utca 138.",
+  "adoszam": "31381127-3-11",
+  "datum": "2025.01.09.",
+  "ido": "19:27",
+  "nyugtaszam": "8376/02438",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "19 573 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "686"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "447"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1764"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1136"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "739"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8856"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "218"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "246"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1824"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2368"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "289"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAKÁCS ÉLELMISZER BT.",
+   "bbox": [
+    147,
+    30,
+    441,
+    49
+   ]
+  },
+  {
+   "text": "H-4058 Györgyvára, Borsodmelléki utca 138.",
+   "bbox": [
+    42,
+    64,
+    546,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 31381127-3-11",
+   "bbox": [
+    162,
+    90,
+    426,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    246,
+    135,
+    342,
+    151
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    176,
+    128,
+    192
+   ]
+  },
+  {
+   "text": "686 C00",
+   "bbox": [
+    473,
+    176,
+    564,
+    192
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    206,
+    167,
+    225
+   ]
+  },
+  {
+   "text": "447 B00",
+   "bbox": [
+    473,
+    206,
+    564,
+    222
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    238,
+    154,
+    252
+   ]
+  },
+  {
+   "text": "1764 A00",
+   "bbox": [
+    460,
+    236,
+    564,
+    252
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    266,
+    180,
+    282
+   ]
+  },
+  {
+   "text": "1136 C00",
+   "bbox": [
+    460,
+    266,
+    564,
+    282
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    296,
+    141,
+    312
+   ]
+  },
+  {
+   "text": "739 C00",
+   "bbox": [
+    473,
+    296,
+    564,
+    312
+   ]
+  },
+  {
+   "text": "3 DB x 2952",
+   "bbox": [
+    24,
+    325,
+    145,
+    339
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    350,
+    141,
+    366
+   ]
+  },
+  {
+   "text": "8856 A00",
+   "bbox": [
+    460,
+    350,
+    564,
+    366
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    380,
+    206,
+    399
+   ]
+  },
+  {
+   "text": "218 B00",
+   "bbox": [
+    473,
+    380,
+    564,
+    396
+   ]
+  },
+  {
+   "text": "3 DB x 82",
+   "bbox": [
+    24,
+    409,
+    123,
+    423
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    436,
+    102,
+    450
+   ]
+  },
+  {
+   "text": "246 B00",
+   "bbox": [
+    473,
+    434,
+    564,
+    450
+   ]
+  },
+  {
+   "text": "3 DB x 608",
+   "bbox": [
+    24,
+    463,
+    134,
+    477
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    488,
+    128,
+    504
+   ]
+  },
+  {
+   "text": "1824 C00",
+   "bbox": [
+    460,
+    488,
+    564,
+    504
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    518,
+    271,
+    534
+   ]
+  },
+  {
+   "text": "2368 A00",
+   "bbox": [
+    460,
+    518,
+    564,
+    534
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    550,
+    193,
+    564
+   ]
+  },
+  {
+   "text": "289 B00",
+   "bbox": [
+    473,
+    548,
+    564,
+    564
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    588,
+    184,
+    609
+   ]
+  },
+  {
+   "text": "19 573 Ft",
+   "bbox": [
+    420,
+    590,
+    564,
+    609
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    629,
+    168,
+    646
+   ]
+  },
+  {
+   "text": "19 573 Ft",
+   "bbox": [
+    447,
+    630,
+    564,
+    646
+   ]
+  },
+  {
+   "text": "2025.01.09.",
+   "bbox": [
+    24,
+    674,
+    156,
+    688
+   ]
+  },
+  {
+   "text": "19:27",
+   "bbox": [
+    504,
+    674,
+    564,
+    688
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8376/02438",
+   "bbox": [
+    24,
+    702,
+    288,
+    721
+   ]
+  },
+  {
+   "text": "AP A82800642",
+   "bbox": [
+    24,
+    734,
+    168,
+    748
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    229,
+    774,
+    359,
+    791
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  588,
+  836
+ ]
+}

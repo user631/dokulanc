@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Levente",
+  "email": "nagy.levente@citromail.hu",
+  "telefon": "+36 70 696 9780",
+  "lakcim": "H-2168 Pilisszékfalva, Szentgyörgyi út 208.",
+  "szuletesi_datum": "1986. május 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2005 – 2010"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Simon és Társa Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2012 – 2013"
+   },
+   {
+    "ceg": "Kovács Szolgáltató Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2012"
+   },
+   {
+    "ceg": "Tóth és Társa Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2009 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Docker",
+   "Python",
+   "Git",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Levente",
+   "bbox": [
+    470,
+    104,
+    769,
+    148
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    165,
+    676,
+    192
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    219,
+    157,
+    235
+   ]
+  },
+  {
+   "text": "nagy.levente@citromail.hu",
+   "bbox": [
+    330,
+    219,
+    576,
+    240
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    170,
+    266
+   ]
+  },
+  {
+   "text": "+36 70 696 9780",
+   "bbox": [
+    330,
+    251,
+    483,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    165,
+    297
+   ]
+  },
+  {
+   "text": "H-2168 Pilisszékfalva, Szentgyörgyi út 208.",
+   "bbox": [
+    330,
+    281,
+    722,
+    302
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    312,
+    252,
+    328
+   ]
+  },
+  {
+   "text": "1986. május 11.",
+   "bbox": [
+    330,
+    312,
+    473,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    321,
+    389
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    90,
+    415,
+    201,
+    430
+   ]
+  },
+  {
+   "text": "rendszergazda – Simon és Társa Zrt.",
+   "bbox": [
+    90,
+    439,
+    463,
+    461
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    90,
+    481,
+    201,
+    496
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kovács Szolgáltató Kft.",
+   "bbox": [
+    90,
+    505,
+    631,
+    527
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    90,
+    547,
+    201,
+    562
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Tóth és Társa Kft.",
+   "bbox": [
+    88,
+    571,
+    447,
+    593
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    623,
+    249,
+    648
+   ]
+  },
+  {
+   "text": "2005 – 2010",
+   "bbox": [
+    90,
+    674,
+    201,
+    689
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    698,
+    350,
+    720
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    723,
+    219,
+    744
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    765,
+    201,
+    780
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    789,
+    380,
+    811
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    814,
+    170,
+    835
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    866,
+    222,
+    891
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B1)",
+   "bbox": [
+    90,
+    916,
+    313,
+    937
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    964,
+    212,
+    989
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, Docker, Python, Git, csapatmunka",
+   "bbox": [
+    90,
+    1014,
+    537,
+    1035
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

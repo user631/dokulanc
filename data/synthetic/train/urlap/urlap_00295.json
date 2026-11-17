@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Kelemen Imre",
+  "anyja_neve": "Kovács Zsuzsanna",
+  "szuletesi_hely": "Ligetharaszti",
+  "szuletesi_datum": "1980.03.27.",
+  "lakcim": "H-2802 Mindszentvár, Mosonmindszenti utca 74.",
+  "telefon": "06 1 706 7554",
+  "email": "kelemen.imre@example.hu",
+  "adoazonosito_jel": "8413585716",
+  "taj_szam": "371 430 620",
+  "kelt": "Újtamásivár, 2025.08.09."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    505,
+    103,
+    734,
+    139
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    98,
+    214,
+    329,
+    238
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    110,
+    269,
+    152,
+    284
+   ]
+  },
+  {
+   "text": "Kelemen Imre",
+   "bbox": [
+    402,
+    265,
+    551,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    322,
+    217,
+    343
+   ]
+  },
+  {
+   "text": "Kovács Zsuzsanna",
+   "bbox": [
+    402,
+    315,
+    603,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    110,
+    376,
+    240,
+    397
+   ]
+  },
+  {
+   "text": "Ligetharaszti",
+   "bbox": [
+    402,
+    374,
+    557,
+    402
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    110,
+    430,
+    231,
+    446
+   ]
+  },
+  {
+   "text": "1980.03.27.",
+   "bbox": [
+    401,
+    427,
+    546,
+    449
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    110,
+    484,
+    179,
+    500
+   ]
+  },
+  {
+   "text": "H-2802 Mindszentvár, Mosonmindszenti utca 74.",
+   "bbox": [
+    401,
+    477,
+    954,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    538,
+    232,
+    554
+   ]
+  },
+  {
+   "text": "06 1 706 7554",
+   "bbox": [
+    402,
+    535,
+    572,
+    556
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    110,
+    592,
+    212,
+    608
+   ]
+  },
+  {
+   "text": "kelemen.imre@example.hu",
+   "bbox": [
+    402,
+    588,
+    680,
+    612
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    646,
+    270,
+    667
+   ]
+  },
+  {
+   "text": "8413585716",
+   "bbox": [
+    402,
+    644,
+    555,
+    666
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    701,
+    202,
+    716
+   ]
+  },
+  {
+   "text": "371 430 620",
+   "bbox": [
+    402,
+    696,
+    560,
+    718
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    98,
+    782,
+    285,
+    806
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    143,
+    825,
+    466,
+    846
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    143,
+    870,
+    290,
+    886
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    915,
+    486,
+    936
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    98,
+    1020,
+    140,
+    1037
+   ]
+  },
+  {
+   "text": "Újtamásivár, 2025.08.09.",
+   "bbox": [
+    188,
+    1011,
+    463,
+    1036
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    927,
+    1069,
+    976,
+    1083
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

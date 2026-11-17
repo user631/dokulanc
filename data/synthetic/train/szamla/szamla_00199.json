@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2025/06730",
+  "kiallitas_datuma": "2025. október 19.",
+  "teljesites_datuma": "2025. október 18.",
+  "fizetesi_hatarido": "2025. november 3.",
+  "elado_nev": "Juhász Szolgáltató Kft.",
+  "elado_cim": "H-9443 Szigetszentmiklós, Lajosi utca 111.",
+  "elado_adoszam": "98132975-3-35",
+  "vevo_nev": "Kovács Kálmán",
+  "vevo_cim": "H-9042 Györgyberény, Kossuth utca 233.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU38 3035 7752 6971 6035 4694 9285",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "52 140 Ft",
+  "afa_osszesen": "10 318 Ft",
+  "brutto_osszesen": "62 458 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "2 év",
+    "egysegar": "16 710",
+    "netto": "33 420",
+    "afa_kulcs": "27%",
+    "afa": "9 023",
+    "brutto": "42 443"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 760",
+    "netto": "2 760",
+    "afa_kulcs": "18%",
+    "afa": "497",
+    "brutto": "3 257"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "15 960",
+    "netto": "15 960",
+    "afa_kulcs": "5%",
+    "afa": "798",
+    "brutto": "16 758"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JUHÁSZ",
+   "bbox": [
+    136,
+    136,
+    230,
+    156
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    996,
+    122,
+    1137,
+    155
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/06730",
+   "bbox": [
+    868,
+    179,
+    1137,
+    198
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    103,
+    260,
+    181,
+    278
+   ]
+  },
+  {
+   "text": "Juhász Szolgáltató Kft.",
+   "bbox": [
+    103,
+    299,
+    375,
+    323
+   ]
+  },
+  {
+   "text": "H-9443 Szigetszentmiklós, Lajosi utca 111.",
+   "bbox": [
+    103,
+    334,
+    545,
+    357
+   ]
+  },
+  {
+   "text": "Adószám: 98132975-3-35",
+   "bbox": [
+    103,
+    367,
+    370,
+    385
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    260,
+    699,
+    278
+   ]
+  },
+  {
+   "text": "Kovács Kálmán",
+   "bbox": [
+    630,
+    299,
+    817,
+    317
+   ]
+  },
+  {
+   "text": "H-9042 Györgyberény, Kossuth utca 233.",
+   "bbox": [
+    630,
+    334,
+    1056,
+    357
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    103,
+    438,
+    259,
+    453
+   ]
+  },
+  {
+   "text": "2025. október 19.",
+   "bbox": [
+    103,
+    469,
+    273,
+    486
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    361,
+    438,
+    527,
+    458
+   ]
+  },
+  {
+   "text": "2025. október 18.",
+   "bbox": [
+    361,
+    469,
+    531,
+    486
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    438,
+    776,
+    453
+   ]
+  },
+  {
+   "text": "2025. november 3.",
+   "bbox": [
+    619,
+    469,
+    800,
+    486
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    877,
+    438,
+    995,
+    453
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    876,
+    469,
+    985,
+    491
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    103,
+    522,
+    217,
+    542
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    522,
+    588,
+    542
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    522,
+    744,
+    542
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    522,
+    868,
+    537
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    518,
+    930,
+    537
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    983,
+    518,
+    1028,
+    537
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1075,
+    522,
+    1137,
+    537
+   ]
+  },
+  {
+   "text": "2 év",
+   "bbox": [
+    516,
+    565,
+    554,
+    581
+   ]
+  },
+  {
+   "text": "16 710",
+   "bbox": [
+    683,
+    566,
+    744,
+    581
+   ]
+  },
+  {
+   "text": "33 420",
+   "bbox": [
+    807,
+    566,
+    868,
+    581
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    566,
+    930,
+    581
+   ]
+  },
+  {
+   "text": "9 023",
+   "bbox": [
+    978,
+    566,
+    1028,
+    581
+   ]
+  },
+  {
+   "text": "42 443",
+   "bbox": [
+    1076,
+    566,
+    1137,
+    581
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    103,
+    565,
+    265,
+    586
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    516,
+    604,
+    601,
+    624
+   ]
+  },
+  {
+   "text": "2 760",
+   "bbox": [
+    694,
+    604,
+    744,
+    619
+   ]
+  },
+  {
+   "text": "2 760",
+   "bbox": [
+    818,
+    604,
+    868,
+    619
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    890,
+    604,
+    930,
+    619
+   ]
+  },
+  {
+   "text": "497",
+   "bbox": [
+    995,
+    604,
+    1028,
+    619
+   ]
+  },
+  {
+   "text": "3 257",
+   "bbox": [
+    1087,
+    604,
+    1137,
+    619
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    103,
+    603,
+    267,
+    624
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    516,
+    641,
+    554,
+    657
+   ]
+  },
+  {
+   "text": "15 960",
+   "bbox": [
+    683,
+    642,
+    744,
+    657
+   ]
+  },
+  {
+   "text": "15 960",
+   "bbox": [
+    807,
+    642,
+    868,
+    657
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    901,
+    642,
+    930,
+    657
+   ]
+  },
+  {
+   "text": "798",
+   "bbox": [
+    995,
+    642,
+    1028,
+    657
+   ]
+  },
+  {
+   "text": "16 758",
+   "bbox": [
+    1076,
+    642,
+    1137,
+    657
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    103,
+    641,
+    351,
+    662
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    701,
+    807,
+    719
+   ]
+  },
+  {
+   "text": "52 140 Ft",
+   "bbox": [
+    1037,
+    702,
+    1138,
+    719
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    649,
+    735,
+    807,
+    758
+   ]
+  },
+  {
+   "text": "10 318 Ft",
+   "bbox": [
+    1037,
+    741,
+    1138,
+    758
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    609,
+    779,
+    807,
+    803
+   ]
+  },
+  {
+   "text": "62 458 Ft",
+   "bbox": [
+    1033,
+    780,
+    1137,
+    797
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU38 3035 7752 6971 6035 4694 9285",
+   "bbox": [
+    103,
+    847,
+    667,
+    864
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    103,
+    879,
+    677,
+    898
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    410,
+    1632,
+    830,
+    1650
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

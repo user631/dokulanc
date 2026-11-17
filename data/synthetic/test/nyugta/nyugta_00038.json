@@ -1,0 +1,270 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SOÓS DISZKONT KFT.",
+  "uzlet_cim": "H-5400 Keresztfalva, Hátberényi út 203.",
+  "adoszam": "59550088-2-14",
+  "datum": "2024.05.14.",
+  "ido": "17:39",
+  "nyugtaszam": "7062/97992",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 989 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1116"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "194"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "828"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "285"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1566"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SOÓS DISZKONT KFT.",
+   "bbox": [
+    183,
+    31,
+    417,
+    48
+   ]
+  },
+  {
+   "text": "H-5400 Keresztfalva, Hátberényi út 203.",
+   "bbox": [
+    85,
+    63,
+    514,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59550088-2-14",
+   "bbox": [
+    179,
+    87,
+    421,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    128,
+    343,
+    143
+   ]
+  },
+  {
+   "text": "2 DB x 558",
+   "bbox": [
+    24,
+    168,
+    124,
+    180
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    191,
+    192,
+    204
+   ]
+  },
+  {
+   "text": "1116 B00",
+   "bbox": [
+    481,
+    190,
+    577,
+    204
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    218,
+    192,
+    235
+   ]
+  },
+  {
+   "text": "194 B00",
+   "bbox": [
+    493,
+    218,
+    577,
+    232
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    246,
+    120,
+    260
+   ]
+  },
+  {
+   "text": "828 B00",
+   "bbox": [
+    493,
+    246,
+    577,
+    260
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    275,
+    180,
+    288
+   ]
+  },
+  {
+   "text": "285 A00",
+   "bbox": [
+    493,
+    274,
+    577,
+    288
+   ]
+  },
+  {
+   "text": "2 DB x 783",
+   "bbox": [
+    24,
+    302,
+    124,
+    314
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    324,
+    216,
+    338
+   ]
+  },
+  {
+   "text": "1566 C00",
+   "bbox": [
+    481,
+    324,
+    577,
+    338
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    362,
+    164,
+    381
+   ]
+  },
+  {
+   "text": "4 989 Ft",
+   "bbox": [
+    465,
+    364,
+    577,
+    381
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    400,
+    120,
+    416
+   ]
+  },
+  {
+   "text": "4 989 Ft",
+   "bbox": [
+    481,
+    402,
+    577,
+    416
+   ]
+  },
+  {
+   "text": "2024.05.14.",
+   "bbox": [
+    24,
+    444,
+    145,
+    457
+   ]
+  },
+  {
+   "text": "17:39",
+   "bbox": [
+    522,
+    444,
+    577,
+    457
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7062/97992",
+   "bbox": [
+    24,
+    471,
+    266,
+    488
+   ]
+  },
+  {
+   "text": "AP A97351324",
+   "bbox": [
+    24,
+    500,
+    156,
+    513
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    179,
+    538,
+    421,
+    553
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  601,
+  598
+ ]
+}

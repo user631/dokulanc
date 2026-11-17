@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2026/01252",
+  "kiallitas_datuma": "2026. 11. 07.",
+  "teljesites_datuma": "2026. 11. 02.",
+  "fizetesi_hatarido": "2026. 12. 07.",
+  "elado_nev": "Szabó és Társa Kft.",
+  "elado_cim": "H-2689 Magyarligetkőrös, Györgyapátii utca 161.",
+  "elado_adoszam": "19278429-3-22",
+  "vevo_nev": "Somogyi Szolgáltató Kft.",
+  "vevo_cim": "H-5898 Hátvár, Magyarmártoni utca 116.",
+  "vevo_adoszam": "17079190-2-41",
+  "bankszamla": "HU38 5697 5767 7789 5002 5083 9311",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "193 480 Ft",
+  "afa_osszesen": "52 079 Ft",
+  "brutto_osszesen": "245 559 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "40 810",
+    "netto": "163 240",
+    "afa_kulcs": "27%",
+    "afa": "44 075",
+    "brutto": "207 315"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "13 640",
+    "netto": "13 640",
+    "afa_kulcs": "27%",
+    "afa": "3 683",
+    "brutto": "17 323"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "730",
+    "netto": "730",
+    "afa_kulcs": "5%",
+    "afa": "36",
+    "brutto": "766"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "15 870",
+    "netto": "15 870",
+    "afa_kulcs": "27%",
+    "afa": "4 285",
+    "brutto": "20 155"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    459,
+    73,
+    780,
+    113
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/01252",
+   "bbox": [
+    463,
+    137,
+    777,
+    157
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    76,
+    218,
+    134,
+    234
+   ]
+  },
+  {
+   "text": "Szabó és Társa Kft.",
+   "bbox": [
+    76,
+    253,
+    251,
+    269
+   ]
+  },
+  {
+   "text": "H-2689 Magyarligetkőrös, Györgyapátii utca 161.",
+   "bbox": [
+    76,
+    286,
+    497,
+    304
+   ]
+  },
+  {
+   "text": "Adószám: 19278429-3-22",
+   "bbox": [
+    76,
+    315,
+    297,
+    329
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    218,
+    685,
+    234
+   ]
+  },
+  {
+   "text": "Somogyi Szolgáltató Kft.",
+   "bbox": [
+    630,
+    253,
+    861,
+    273
+   ]
+  },
+  {
+   "text": "H-5898 Hátvár, Magyarmártoni utca 116.",
+   "bbox": [
+    630,
+    286,
+    982,
+    304
+   ]
+  },
+  {
+   "text": "Adószám: 17079190-2-41",
+   "bbox": [
+    630,
+    315,
+    851,
+    329
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    76,
+    382,
+    219,
+    396
+   ]
+  },
+  {
+   "text": "2026. 11. 07.",
+   "bbox": [
+    376,
+    383,
+    489,
+    396
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    76,
+    413,
+    234,
+    431
+   ]
+  },
+  {
+   "text": "2026. 11. 02.",
+   "bbox": [
+    376,
+    414,
+    489,
+    427
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    76,
+    444,
+    224,
+    458
+   ]
+  },
+  {
+   "text": "2026. 12. 07.",
+   "bbox": [
+    376,
+    445,
+    489,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    76,
+    475,
+    191,
+    489
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    376,
+    475,
+    472,
+    493
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    518,
+    170,
+    533
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    519,
+    570,
+    533
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    683,
+    518,
+    751,
+    533
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    838,
+    518,
+    881,
+    530
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    903,
+    515,
+    946,
+    530
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1019,
+    515,
+    1049,
+    530
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1116,
+    518,
+    1164,
+    530
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    511,
+    558,
+    582,
+    570
+   ]
+  },
+  {
+   "text": "40 810",
+   "bbox": [
+    701,
+    559,
+    750,
+    570
+   ]
+  },
+  {
+   "text": "163 240",
+   "bbox": [
+    823,
+    559,
+    881,
+    570
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    915,
+    558,
+    946,
+    570
+   ]
+  },
+  {
+   "text": "44 075",
+   "bbox": [
+    1000,
+    559,
+    1049,
+    570
+   ]
+  },
+  {
+   "text": "207 315",
+   "bbox": [
+    1106,
+    559,
+    1164,
+    570
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    76,
+    558,
+    237,
+    573
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    511,
+    592,
+    541,
+    604
+   ]
+  },
+  {
+   "text": "13 640",
+   "bbox": [
+    701,
+    593,
+    750,
+    604
+   ]
+  },
+  {
+   "text": "13 640",
+   "bbox": [
+    832,
+    593,
+    881,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    915,
+    592,
+    946,
+    604
+   ]
+  },
+  {
+   "text": "3 683",
+   "bbox": [
+    1009,
+    593,
+    1049,
+    604
+   ]
+  },
+  {
+   "text": "17 323",
+   "bbox": [
+    1115,
+    593,
+    1164,
+    604
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    76,
+    592,
+    209,
+    607
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    626,
+    542,
+    638
+   ]
+  },
+  {
+   "text": "730",
+   "bbox": [
+    723,
+    627,
+    750,
+    638
+   ]
+  },
+  {
+   "text": "730",
+   "bbox": [
+    854,
+    627,
+    881,
+    638
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    924,
+    626,
+    946,
+    638
+   ]
+  },
+  {
+   "text": "36",
+   "bbox": [
+    1031,
+    627,
+    1049,
+    638
+   ]
+  },
+  {
+   "text": "766",
+   "bbox": [
+    1137,
+    627,
+    1164,
+    638
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    76,
+    626,
+    159,
+    641
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    511,
+    660,
+    549,
+    672
+   ]
+  },
+  {
+   "text": "15 870",
+   "bbox": [
+    701,
+    661,
+    750,
+    672
+   ]
+  },
+  {
+   "text": "15 870",
+   "bbox": [
+    832,
+    661,
+    881,
+    672
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    915,
+    660,
+    946,
+    672
+   ]
+  },
+  {
+   "text": "4 285",
+   "bbox": [
+    1009,
+    661,
+    1049,
+    672
+   ]
+  },
+  {
+   "text": "20 155",
+   "bbox": [
+    1115,
+    661,
+    1164,
+    672
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    76,
+    660,
+    269,
+    675
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    690,
+    713,
+    834,
+    729
+   ]
+  },
+  {
+   "text": "193 480 Ft",
+   "bbox": [
+    1071,
+    715,
+    1164,
+    729
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    705,
+    746,
+    834,
+    764
+   ]
+  },
+  {
+   "text": "52 079 Ft",
+   "bbox": [
+    1082,
+    750,
+    1164,
+    764
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    672,
+    784,
+    834,
+    803
+   ]
+  },
+  {
+   "text": "245 559 Ft",
+   "bbox": [
+    1070,
+    785,
+    1164,
+    799
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU38 5697 5767 7789 5002 5083 9311",
+   "bbox": [
+    76,
+    848,
+    541,
+    862
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    454,
+    1663,
+    786,
+    1677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

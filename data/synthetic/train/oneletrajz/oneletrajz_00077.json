@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Lakatos Zoltán",
+  "email": "lakatos.zoltan@freemail.hu",
+  "telefon": "+36 70 265 5233",
+  "lakcim": "H-4053 Szigetszentmiklós, Belsőhetveni utca 105.",
+  "szuletesi_datum": "1986. február 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Trade Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2014 – 2016"
+   },
+   {
+    "ceg": "Nagy Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Git",
+   "prezentáció",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    92,
+    213,
+    113
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    139,
+    97,
+    153
+   ]
+  },
+  {
+   "text": "lakatos.zoltan@freemail.hu",
+   "bbox": [
+    40,
+    162,
+    273,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    195,
+    109,
+    209
+   ]
+  },
+  {
+   "text": "+36 70 265 5233",
+   "bbox": [
+    40,
+    218,
+    187,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    250,
+    107,
+    265
+   ]
+  },
+  {
+   "text": "H-4053 Szigetszentmiklós,",
+   "bbox": [
+    40,
+    274,
+    270,
+    292
+   ]
+  },
+  {
+   "text": "Belsőhetveni utca 105.",
+   "bbox": [
+    40,
+    297,
+    237,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    329,
+    187,
+    344
+   ]
+  },
+  {
+   "text": "1986. február 24.",
+   "bbox": [
+    40,
+    353,
+    187,
+    367
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    412,
+    196,
+    433
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    455,
+    152,
+    474
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    508,
+    181,
+    529
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    551,
+    258,
+    570
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    578,
+    66,
+    593
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    605,
+    143,
+    624
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    632,
+    103,
+    647
+   ]
+  },
+  {
+   "text": "Lakatos Zoltán",
+   "bbox": [
+    450,
+    100,
+    766,
+    133
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    166,
+    565,
+    193
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    688,
+    256
+   ]
+  },
+  {
+   "text": "2014 – 2016",
+   "bbox": [
+    450,
+    284,
+    570,
+    299
+   ]
+  },
+  {
+   "text": "irodavezető – Fekete Trade Kft.",
+   "bbox": [
+    450,
+    307,
+    769,
+    324
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    350,
+    570,
+    365
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Nagy Bt.",
+   "bbox": [
+    448,
+    373,
+    714,
+    394
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    424,
+    610,
+    449
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    450,
+    477,
+    570,
+    492
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    500,
+    804,
+    521
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    450,
+    527,
+    609,
+    546
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    568,
+    570,
+    583
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    591,
+    715,
+    608
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    618,
+    533,
+    637
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

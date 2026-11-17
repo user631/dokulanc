@@ -1,0 +1,292 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ CSEMEGE BT.",
+  "uzlet_cim": "H-3414 Felsőszékharaszti, Hajdúi utca 52.",
+  "adoszam": "83025309-2-15",
+  "datum": "2025.06.06.",
+  "ido": "10:37",
+  "nyugtaszam": "2020/84298",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 000 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "566"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "697"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2362"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1292"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "817"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5256"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ CSEMEGE BT.",
+   "bbox": [
+    187,
+    31,
+    408,
+    48
+   ]
+  },
+  {
+   "text": "H-3414 Felsőszékharaszti, Hajdúi utca 52.",
+   "bbox": [
+    72,
+    63,
+    523,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 83025309-2-15",
+   "bbox": [
+    177,
+    87,
+    419,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    128,
+    341,
+    143
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    168,
+    192,
+    182
+   ]
+  },
+  {
+   "text": "566 B00",
+   "bbox": [
+    489,
+    168,
+    573,
+    182
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    196,
+    120,
+    210
+   ]
+  },
+  {
+   "text": "697 B00",
+   "bbox": [
+    489,
+    196,
+    573,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 1181",
+   "bbox": [
+    24,
+    224,
+    134,
+    236
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    246,
+    120,
+    260
+   ]
+  },
+  {
+   "text": "2362 C00",
+   "bbox": [
+    477,
+    246,
+    573,
+    260
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    274,
+    144,
+    288
+   ]
+  },
+  {
+   "text": "1292 B00",
+   "bbox": [
+    477,
+    274,
+    573,
+    288
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    302,
+    204,
+    316
+   ]
+  },
+  {
+   "text": "817 B00",
+   "bbox": [
+    489,
+    302,
+    573,
+    316
+   ]
+  },
+  {
+   "text": "2 DB x 2628",
+   "bbox": [
+    24,
+    330,
+    134,
+    342
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    352,
+    132,
+    366
+   ]
+  },
+  {
+   "text": "5256 A00",
+   "bbox": [
+    477,
+    352,
+    573,
+    366
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    390,
+    164,
+    409
+   ]
+  },
+  {
+   "text": "11 000 Ft",
+   "bbox": [
+    447,
+    392,
+    573,
+    409
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    428,
+    156,
+    444
+   ]
+  },
+  {
+   "text": "11 000 Ft",
+   "bbox": [
+    465,
+    430,
+    573,
+    444
+   ]
+  },
+  {
+   "text": "2025.06.06.",
+   "bbox": [
+    24,
+    472,
+    145,
+    485
+   ]
+  },
+  {
+   "text": "10:37",
+   "bbox": [
+    518,
+    472,
+    573,
+    485
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2020/84298",
+   "bbox": [
+    24,
+    499,
+    266,
+    516
+   ]
+  },
+  {
+   "text": "AP A54466500",
+   "bbox": [
+    24,
+    528,
+    156,
+    541
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    177,
+    566,
+    419,
+    581
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  597,
+  626
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Horváth Zsolt",
+  "anyja_neve": "Boros Péter",
+  "szuletesi_hely": "Fürdővár",
+  "szuletesi_datum": "2004. 11. 12.",
+  "lakcim": "H-1417 Háza, Győri utca 137.",
+  "telefon": "+36 20 924 1469",
+  "email": "horvath.zsolt@gmail.com",
+  "adoazonosito_jel": "8503548283",
+  "taj_szam": "431 566 410",
+  "kelt": "Mártonvárad, 2024. 05. 20."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    397,
+    103,
+    843,
+    140
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    102,
+    214,
+    342,
+    237
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    114,
+    266,
+    155,
+    283
+   ]
+  },
+  {
+   "text": "Horváth Zsolt",
+   "bbox": [
+    440,
+    258,
+    594,
+    282
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    321,
+    220,
+    340
+   ]
+  },
+  {
+   "text": "Boros Péter",
+   "bbox": [
+    440,
+    321,
+    566,
+    340
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    114,
+    372,
+    243,
+    393
+   ]
+  },
+  {
+   "text": "Fürdővár",
+   "bbox": [
+    441,
+    369,
+    548,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    114,
+    425,
+    233,
+    442
+   ]
+  },
+  {
+   "text": "2004. 11. 12.",
+   "bbox": [
+    441,
+    427,
+    586,
+    447
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    114,
+    478,
+    183,
+    495
+   ]
+  },
+  {
+   "text": "H-1417 Háza, Győri utca 137.",
+   "bbox": [
+    440,
+    470,
+    770,
+    496
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    531,
+    234,
+    548
+   ]
+  },
+  {
+   "text": "+36 20 924 1469",
+   "bbox": [
+    441,
+    528,
+    648,
+    549
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    114,
+    584,
+    214,
+    601
+   ]
+  },
+  {
+   "text": "horvath.zsolt@gmail.com",
+   "bbox": [
+    441,
+    579,
+    714,
+    606
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    637,
+    268,
+    658
+   ]
+  },
+  {
+   "text": "8503548283",
+   "bbox": [
+    441,
+    636,
+    603,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    690,
+    205,
+    707
+   ]
+  },
+  {
+   "text": "431 566 410",
+   "bbox": [
+    441,
+    688,
+    588,
+    709
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    102,
+    772,
+    293,
+    795
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    147,
+    814,
+    461,
+    835
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    147,
+    859,
+    294,
+    876
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    904,
+    479,
+    925
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    102,
+    1009,
+    144,
+    1026
+   ]
+  },
+  {
+   "text": "Mártonvárad, 2024. 05. 20.",
+   "bbox": [
+    192,
+    1003,
+    480,
+    1024
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    923,
+    1058,
+    972,
+    1072
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

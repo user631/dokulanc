@@ -1,0 +1,417 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/04689",
+  "kiallitas_datuma": "2024-02-03",
+  "teljesites_datuma": "2024-02-03",
+  "fizetesi_hatarido": "2024-02-11",
+  "elado_nev": "Nemes Consulting Kft.",
+  "elado_cim": "H-9388 Budaligethalas, Keresztberényi utca 126.",
+  "elado_adoszam": "79400868-2-33",
+  "vevo_nev": "Szabó Consulting Bt.",
+  "vevo_cim": "H-7288 Hetvenvég, Arany jános tér 127.",
+  "vevo_adoszam": "62327802-5-42",
+  "bankszamla": "HU40 2495 6125 5549 2269 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "112 460 Ft",
+  "afa_osszesen": "30 364 Ft",
+  "brutto_osszesen": "142 824 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "112 460",
+    "netto": "112 460",
+    "afa_kulcs": "27%",
+    "afa": "30 364",
+    "brutto": "142 824"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NEMES",
+   "bbox": [
+    128,
+    122,
+    202,
+    139
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    782,
+    103,
+    1155,
+    133
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/04689",
+   "bbox": [
+    898,
+    158,
+    1155,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    239,
+    149,
+    256
+   ]
+  },
+  {
+   "text": "Nemes Consulting Kft.",
+   "bbox": [
+    85,
+    273,
+    313,
+    295
+   ]
+  },
+  {
+   "text": "H-9388 Budaligethalas, Keresztberényi utca 126.",
+   "bbox": [
+    85,
+    304,
+    521,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 79400868-2-33",
+   "bbox": [
+    85,
+    332,
+    302,
+    348
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    240,
+    689,
+    256
+   ]
+  },
+  {
+   "text": "Szabó Consulting Bt.",
+   "bbox": [
+    630,
+    273,
+    840,
+    295
+   ]
+  },
+  {
+   "text": "H-7288 Hetvenvég, Arany jános tér 127.",
+   "bbox": [
+    630,
+    304,
+    986,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 62327802-5-42",
+   "bbox": [
+    630,
+    332,
+    847,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    85,
+    398,
+    213,
+    411
+   ]
+  },
+  {
+   "text": "2024-02-03",
+   "bbox": [
+    85,
+    425,
+    179,
+    439
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    398,
+    494,
+    414
+   ]
+  },
+  {
+   "text": "2024-02-03",
+   "bbox": [
+    352,
+    425,
+    446,
+    439
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    398,
+    754,
+    411
+   ]
+  },
+  {
+   "text": "2024-02-11",
+   "bbox": [
+    619,
+    425,
+    713,
+    439
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    398,
+    989,
+    411
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    886,
+    424,
+    963,
+    443
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    473,
+    182,
+    488
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    473,
+    571,
+    488
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    678,
+    473,
+    749,
+    488
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    473,
+    876,
+    485
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    897,
+    470,
+    941,
+    485
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    470,
+    1042,
+    485
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1104,
+    473,
+    1155,
+    485
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    513,
+    511,
+    587,
+    524
+   ]
+  },
+  {
+   "text": "112 460",
+   "bbox": [
+    689,
+    512,
+    748,
+    524
+   ]
+  },
+  {
+   "text": "112 460",
+   "bbox": [
+    817,
+    512,
+    876,
+    524
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    512,
+    941,
+    524
+   ]
+  },
+  {
+   "text": "30 364",
+   "bbox": [
+    992,
+    512,
+    1042,
+    524
+   ]
+  },
+  {
+   "text": "142 824",
+   "bbox": [
+    1096,
+    512,
+    1155,
+    524
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    85,
+    510,
+    245,
+    527
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    679,
+    565,
+    825,
+    581
+   ]
+  },
+  {
+   "text": "112 460 Ft",
+   "bbox": [
+    1058,
+    566,
+    1155,
+    581
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    695,
+    596,
+    825,
+    615
+   ]
+  },
+  {
+   "text": "30 364 Ft",
+   "bbox": [
+    1069,
+    600,
+    1155,
+    615
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    717,
+    634,
+    825,
+    653
+   ]
+  },
+  {
+   "text": "142 824 Ft",
+   "bbox": [
+    1051,
+    634,
+    1155,
+    649
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU40 2495 6125 5549 2269 0000 0000",
+   "bbox": [
+    85,
+    696,
+    561,
+    711
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    85,
+    724,
+    582,
+    740
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    445,
+    1654,
+    794,
+    1668
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

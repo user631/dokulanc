@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2024/00560",
+  "kiallitas_datuma": "2024-08-04",
+  "teljesites_datuma": "2024-08-04",
+  "fizetesi_hatarido": "2024-08-19",
+  "elado_nev": "Nagy Szolgáltató Kft.",
+  "elado_cim": "H-1915 Székesfehérvár, Keresztberényi utca 47.",
+  "elado_adoszam": "81629873-4-25",
+  "vevo_nev": "Lakatos Bt.",
+  "vevo_cim": "H-9520 Ligetfa, Keresztvárai utca 14.",
+  "vevo_adoszam": "94136410-2-38",
+  "bankszamla": "HU76 8757 8328 9136 1250 0611 7938",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "124 640 Ft",
+  "afa_osszesen": "33 653 Ft",
+  "brutto_osszesen": "158 293 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "4 db",
+    "egysegar": "9 900",
+    "netto": "39 600",
+    "afa_kulcs": "27%",
+    "afa": "10 692",
+    "brutto": "50 292"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "85 040",
+    "netto": "85 040",
+    "afa_kulcs": "27%",
+    "afa": "22 961",
+    "brutto": "108 001"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    543,
+    87,
+    696,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/00560",
+   "bbox": [
+    450,
+    152,
+    790,
+    175
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    91,
+    234,
+    152,
+    251
+   ]
+  },
+  {
+   "text": "Lakatos Bt.",
+   "bbox": [
+    91,
+    271,
+    210,
+    289
+   ]
+  },
+  {
+   "text": "H-9520 Ligetfa, Keresztvárai utca 14.",
+   "bbox": [
+    91,
+    306,
+    445,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 94136410-2-38",
+   "bbox": [
+    91,
+    338,
+    337,
+    355
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    233,
+    697,
+    251
+   ]
+  },
+  {
+   "text": "Nagy Szolgáltató Kft.",
+   "bbox": [
+    630,
+    271,
+    852,
+    294
+   ]
+  },
+  {
+   "text": "H-1915 Székesfehérvár, Keresztberényi utca 47.",
+   "bbox": [
+    630,
+    306,
+    1091,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 81629873-4-25",
+   "bbox": [
+    630,
+    338,
+    876,
+    355
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    91,
+    409,
+    228,
+    423
+   ]
+  },
+  {
+   "text": "2024-08-04",
+   "bbox": [
+    91,
+    440,
+    201,
+    455
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    409,
+    507,
+    427
+   ]
+  },
+  {
+   "text": "2024-08-04",
+   "bbox": [
+    355,
+    440,
+    465,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    409,
+    761,
+    423
+   ]
+  },
+  {
+   "text": "2024-08-19",
+   "bbox": [
+    619,
+    440,
+    729,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    883,
+    409,
+    992,
+    423
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    883,
+    438,
+    966,
+    459
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    491,
+    200,
+    509
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    492,
+    581,
+    509
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    491,
+    747,
+    509
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    491,
+    873,
+    505
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    488,
+    937,
+    505
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1001,
+    488,
+    1037,
+    505
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1094,
+    491,
+    1149,
+    505
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    514,
+    534,
+    552,
+    548
+   ]
+  },
+  {
+   "text": "9 900",
+   "bbox": [
+    697,
+    535,
+    746,
+    548
+   ]
+  },
+  {
+   "text": "39 600",
+   "bbox": [
+    813,
+    535,
+    873,
+    548
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    534,
+    937,
+    548
+   ]
+  },
+  {
+   "text": "10 692",
+   "bbox": [
+    977,
+    535,
+    1037,
+    548
+   ]
+  },
+  {
+   "text": "50 292",
+   "bbox": [
+    1089,
+    535,
+    1149,
+    548
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    91,
+    534,
+    234,
+    548
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    571,
+    552,
+    585
+   ]
+  },
+  {
+   "text": "85 040",
+   "bbox": [
+    686,
+    572,
+    746,
+    585
+   ]
+  },
+  {
+   "text": "85 040",
+   "bbox": [
+    813,
+    572,
+    873,
+    585
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    571,
+    937,
+    585
+   ]
+  },
+  {
+   "text": "22 961",
+   "bbox": [
+    977,
+    572,
+    1037,
+    585
+   ]
+  },
+  {
+   "text": "108 001",
+   "bbox": [
+    1078,
+    572,
+    1149,
+    585
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    91,
+    571,
+    196,
+    585
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    659,
+    627,
+    819,
+    645
+   ]
+  },
+  {
+   "text": "124 640 Ft",
+   "bbox": [
+    1040,
+    629,
+    1149,
+    645
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    677,
+    662,
+    819,
+    683
+   ]
+  },
+  {
+   "text": "33 653 Ft",
+   "bbox": [
+    1053,
+    667,
+    1149,
+    683
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    634,
+    703,
+    819,
+    725
+   ]
+  },
+  {
+   "text": "158 293 Ft",
+   "bbox": [
+    1039,
+    705,
+    1149,
+    721
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU76 8757 8328 9136 1250 0611 7938",
+   "bbox": [
+    91,
+    771,
+    629,
+    788
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    91,
+    803,
+    664,
+    821
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

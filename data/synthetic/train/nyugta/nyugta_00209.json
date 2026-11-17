@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH CSEMEGE BT.",
+  "uzlet_cim": "H-2042 Mosonkeresztberény, Alsókereszti út 187.",
+  "adoszam": "42813235-2-39",
+  "datum": "2024.08.15.",
+  "ido": "17:50",
+  "nyugtaszam": "0809/93637",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "3 858 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "543"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "842"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1418"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "481"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "574"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH CSEMEGE BT.",
+   "bbox": [
+    169,
+    31,
+    416,
+    48
+   ]
+  },
+  {
+   "text": "H-2042 Mosonkeresztberény, Alsókereszti út 187.",
+   "bbox": [
+    34,
+    63,
+    551,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 42813235-2-39",
+   "bbox": [
+    172,
+    87,
+    414,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    128,
+    336,
+    143
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    168,
+    156,
+    182
+   ]
+  },
+  {
+   "text": "543 B00",
+   "bbox": [
+    479,
+    168,
+    563,
+    182
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    196,
+    204,
+    210
+   ]
+  },
+  {
+   "text": "842 A00",
+   "bbox": [
+    479,
+    196,
+    563,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 709",
+   "bbox": [
+    24,
+    224,
+    124,
+    236
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    246,
+    120,
+    260
+   ]
+  },
+  {
+   "text": "1418 B00",
+   "bbox": [
+    467,
+    246,
+    563,
+    260
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    274,
+    132,
+    288
+   ]
+  },
+  {
+   "text": "481 B00",
+   "bbox": [
+    479,
+    274,
+    563,
+    288
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    302,
+    192,
+    316
+   ]
+  },
+  {
+   "text": "574 B00",
+   "bbox": [
+    479,
+    302,
+    563,
+    316
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    340,
+    164,
+    359
+   ]
+  },
+  {
+   "text": "3 858 Ft",
+   "bbox": [
+    451,
+    342,
+    563,
+    359
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    378,
+    120,
+    394
+   ]
+  },
+  {
+   "text": "3 858 Ft",
+   "bbox": [
+    467,
+    380,
+    563,
+    394
+   ]
+  },
+  {
+   "text": "2024.08.15.",
+   "bbox": [
+    24,
+    422,
+    145,
+    435
+   ]
+  },
+  {
+   "text": "17:50",
+   "bbox": [
+    508,
+    422,
+    563,
+    435
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0809/93637",
+   "bbox": [
+    24,
+    449,
+    266,
+    466
+   ]
+  },
+  {
+   "text": "AP A60196602",
+   "bbox": [
+    24,
+    478,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    172,
+    516,
+    414,
+    531
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  587,
+  576
+ ]
+}

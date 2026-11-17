@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FARKAS DISZKONT KFT.",
+  "uzlet_cim": "H-6363 Hetvenvég, Tapolcadevecseri utca 153.",
+  "adoszam": "23066214-2-33",
+  "datum": "2026.05.25.",
+  "ido": "09:11",
+  "nyugtaszam": "6298/21304",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 086 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "619"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1467"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS DISZKONT KFT.",
+   "bbox": [
+    142,
+    33,
+    402,
+    48
+   ]
+  },
+  {
+   "text": "H-6363 Hetvenvég, Tapolcadevecseri utca 153.",
+   "bbox": [
+    52,
+    65,
+    492,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23066214-2-33",
+   "bbox": [
+    162,
+    88,
+    382,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    230,
+    130,
+    314,
+    146
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    173,
+    132,
+    186
+   ]
+  },
+  {
+   "text": "619 A00",
+   "bbox": [
+    436,
+    173,
+    520,
+    186
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    202,
+    180,
+    215
+   ]
+  },
+  {
+   "text": "1467 A00",
+   "bbox": [
+    424,
+    202,
+    520,
+    215
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    238,
+    164,
+    259
+   ]
+  },
+  {
+   "text": "2 086 Ft",
+   "bbox": [
+    408,
+    243,
+    520,
+    259
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    278,
+    144,
+    295
+   ]
+  },
+  {
+   "text": "2 086 Ft",
+   "bbox": [
+    424,
+    282,
+    520,
+    295
+   ]
+  },
+  {
+   "text": "2026.05.25.",
+   "bbox": [
+    24,
+    325,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "09:11",
+   "bbox": [
+    470,
+    325,
+    520,
+    337
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6298/21304",
+   "bbox": [
+    24,
+    351,
+    244,
+    368
+   ]
+  },
+  {
+   "text": "AP A47844082",
+   "bbox": [
+    24,
+    383,
+    144,
+    395
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    151,
+    419,
+    393,
+    436
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  544,
+  482
+ ]
+}

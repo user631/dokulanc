@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Ágnes",
+  "email": "toth.agnes@outlook.com",
+  "telefon": "+36 70 486 3517",
+  "lakcim": "H-4012 Pécs, Salgótarjáni utca 227.",
+  "szuletesi_datum": "1989. november 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér Logisztika Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2020 – 2021"
+   },
+   {
+    "ceg": "Varga Tech Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "ceg": "Vörös Szolgáltató Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "projektmenedzsment",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Ágnes",
+   "bbox": [
+    488,
+    89,
+    751,
+    144
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    169,
+    715,
+    188
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    163,
+    238
+   ]
+  },
+  {
+   "text": "toth.agnes@outlook.com",
+   "bbox": [
+    330,
+    222,
+    570,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    254,
+    173,
+    270
+   ]
+  },
+  {
+   "text": "+36 70 486 3517",
+   "bbox": [
+    330,
+    254,
+    493,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    285,
+    172,
+    302
+   ]
+  },
+  {
+   "text": "H-4012 Pécs, Salgótarjáni utca 227.",
+   "bbox": [
+    330,
+    286,
+    678,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    262,
+    334
+   ]
+  },
+  {
+   "text": "1989. november 15.",
+   "bbox": [
+    330,
+    318,
+    522,
+    334
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    371,
+    332,
+    395
+   ]
+  },
+  {
+   "text": "2020 – 2021",
+   "bbox": [
+    90,
+    422,
+    210,
+    438
+   ]
+  },
+  {
+   "text": "rendszergazda – Pintér Logisztika Bt.",
+   "bbox": [
+    90,
+    448,
+    499,
+    470
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    90,
+    490,
+    210,
+    506
+   ]
+  },
+  {
+   "text": "tesztmérnök – Varga Tech Kft.",
+   "bbox": [
+    90,
+    516,
+    421,
+    538
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    558,
+    210,
+    574
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Vörös Szolgáltató Zrt.",
+   "bbox": [
+    88,
+    584,
+    514,
+    606
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    637,
+    257,
+    661
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    688,
+    210,
+    704
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    714,
+    366,
+    736
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    740,
+    153,
+    760
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    782,
+    210,
+    798
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    808,
+    368,
+    825
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    834,
+    273,
+    854
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    887,
+    227,
+    911
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (C1)",
+   "bbox": [
+    90,
+    938,
+    301,
+    958
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    987,
+    223,
+    1011
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, projektmenedzsment, SQL",
+   "bbox": [
+    90,
+    1038,
+    596,
+    1058
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

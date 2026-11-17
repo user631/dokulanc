@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kovács Márton",
+  "email": "kovacs.marton@gmail.com",
+  "telefon": "+36 20 158 2818",
+  "lakcim": "H-2066 Miskolc, Bajai utca 77.",
+  "szuletesi_datum": "1975.04.13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "1993 – 1997"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1989 – 1993"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Székely Tech Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "1999 – 2001"
+   },
+   {
+    "ceg": "Nagy Szolgáltató Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "1997 – 1999"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Linux",
+   "prezentáció",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Márton",
+   "bbox": [
+    422,
+    118,
+    818,
+    158
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    495,
+    187,
+    744,
+    214
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    242,
+    179,
+    259
+   ]
+  },
+  {
+   "text": "kovacs.marton@gmail.com",
+   "bbox": [
+    330,
+    242,
+    626,
+    263
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    274,
+    192,
+    291
+   ]
+  },
+  {
+   "text": "+36 20 158 2818",
+   "bbox": [
+    330,
+    275,
+    526,
+    291
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    305,
+    187,
+    323
+   ]
+  },
+  {
+   "text": "H-2066 Miskolc, Bajai utca 77.",
+   "bbox": [
+    330,
+    306,
+    670,
+    327
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    337,
+    300,
+    355
+   ]
+  },
+  {
+   "text": "1975.04.13.",
+   "bbox": [
+    330,
+    339,
+    466,
+    355
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    391,
+    383,
+    416
+   ]
+  },
+  {
+   "text": "1999 – 2001",
+   "bbox": [
+    90,
+    443,
+    232,
+    459
+   ]
+  },
+  {
+   "text": "rendszergazda – Székely Tech Bt.",
+   "bbox": [
+    90,
+    468,
+    521,
+    491
+   ]
+  },
+  {
+   "text": "1997 – 1999",
+   "bbox": [
+    90,
+    511,
+    232,
+    527
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Szolgáltató Kft.",
+   "bbox": [
+    90,
+    536,
+    609,
+    559
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    588,
+    289,
+    614
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    641,
+    232,
+    657
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    666,
+    442,
+    689
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    691,
+    230,
+    713
+   ]
+  },
+  {
+   "text": "1989 – 1993",
+   "bbox": [
+    90,
+    735,
+    232,
+    751
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    760,
+    480,
+    783
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    785,
+    375,
+    807
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    838,
+    253,
+    864
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    890,
+    221,
+    911
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    938,
+    243,
+    964
+   ]
+  },
+  {
+   "text": "C#, Linux, prezentáció, Docker",
+   "bbox": [
+    90,
+    989,
+    434,
+    1011
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

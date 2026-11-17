@@ -1,0 +1,759 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2025/06864",
+  "kiallitas_datuma": "2025. október 17.",
+  "teljesites_datuma": "2025. október 16.",
+  "fizetesi_hatarido": "2025. október 25.",
+  "elado_nev": "Nagy Kft.",
+  "elado_cim": "H-7902 Vác, Béke utca 14.",
+  "elado_adoszam": "31682916-4-18",
+  "vevo_nev": "Horváth Marianna",
+  "vevo_cim": "H-3786 Dunaújváros, Szigetszentmiklósi utca 222.",
+  "vevo_adoszam": null,
+  "bankszamla": "00917229-41295072-24254386",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "2 853 880 Ft",
+  "afa_osszesen": "764 023 Ft",
+  "brutto_osszesen": "3 617 903 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "2 db",
+    "egysegar": "116 000",
+    "netto": "232 000",
+    "afa_kulcs": "27%",
+    "afa": "62 640",
+    "brutto": "294 640"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "207 410",
+    "netto": "2 488 920",
+    "afa_kulcs": "27%",
+    "afa": "672 008",
+    "brutto": "3 160 928"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "3 210",
+    "netto": "6 420",
+    "afa_kulcs": "27%",
+    "afa": "1 733",
+    "brutto": "8 153"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "5 930",
+    "netto": "29 650",
+    "afa_kulcs": "5%",
+    "afa": "1 482",
+    "brutto": "31 132"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "6 290",
+    "netto": "6 290",
+    "afa_kulcs": "27%",
+    "afa": "1 698",
+    "brutto": "7 988"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "3 év",
+    "egysegar": "30 200",
+    "netto": "90 600",
+    "afa_kulcs": "27%",
+    "afa": "24 462",
+    "brutto": "115 062"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    410,
+    91,
+    830,
+    125
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/06864",
+   "bbox": [
+    412,
+    147,
+    828,
+    168
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    228,
+    160,
+    248
+   ]
+  },
+  {
+   "text": "Nagy Kft.",
+   "bbox": [
+    82,
+    267,
+    198,
+    293
+   ]
+  },
+  {
+   "text": "H-7902 Vác, Béke utca 14.",
+   "bbox": [
+    82,
+    302,
+    379,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 31682916-4-18",
+   "bbox": [
+    82,
+    335,
+    358,
+    355
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    228,
+    702,
+    248
+   ]
+  },
+  {
+   "text": "Horváth Marianna",
+   "bbox": [
+    630,
+    267,
+    852,
+    287
+   ]
+  },
+  {
+   "text": "H-3786 Dunaújváros, Szigetszentmiklósi utca",
+   "bbox": [
+    630,
+    302,
+    1132,
+    327
+   ]
+  },
+  {
+   "text": "222.",
+   "bbox": [
+    630,
+    337,
+    678,
+    355
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    407,
+    276,
+    426
+   ]
+  },
+  {
+   "text": "2025. október 17.",
+   "bbox": [
+    382,
+    406,
+    581,
+    426
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    442,
+    298,
+    466
+   ]
+  },
+  {
+   "text": "2025. október 16.",
+   "bbox": [
+    382,
+    441,
+    581,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    477,
+    288,
+    496
+   ]
+  },
+  {
+   "text": "2025. október 25.",
+   "bbox": [
+    382,
+    476,
+    581,
+    496
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    512,
+    240,
+    531
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    382,
+    511,
+    507,
+    536
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    559,
+    207,
+    580
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    559,
+    587,
+    580
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    559,
+    750,
+    580
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    559,
+    878,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    555,
+    942,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    555,
+    1045,
+    575
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    559,
+    1158,
+    575
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    512,
+    603,
+    555,
+    619
+   ]
+  },
+  {
+   "text": "116 000",
+   "bbox": [
+    670,
+    603,
+    749,
+    619
+   ]
+  },
+  {
+   "text": "232 000",
+   "bbox": [
+    799,
+    603,
+    878,
+    619
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    603,
+    942,
+    619
+   ]
+  },
+  {
+   "text": "62 640",
+   "bbox": [
+    978,
+    603,
+    1045,
+    619
+   ]
+  },
+  {
+   "text": "294 640",
+   "bbox": [
+    1079,
+    603,
+    1158,
+    619
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    82,
+    602,
+    196,
+    619
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    512,
+    641,
+    620,
+    657
+   ]
+  },
+  {
+   "text": "207 410",
+   "bbox": [
+    670,
+    641,
+    749,
+    657
+   ]
+  },
+  {
+   "text": "2 488 920",
+   "bbox": [
+    780,
+    641,
+    878,
+    657
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    641,
+    942,
+    657
+   ]
+  },
+  {
+   "text": "672 008",
+   "bbox": [
+    966,
+    641,
+    1045,
+    657
+   ]
+  },
+  {
+   "text": "3 160 928",
+   "bbox": [
+    1060,
+    641,
+    1158,
+    657
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    82,
+    639,
+    293,
+    662
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    512,
+    679,
+    608,
+    695
+   ]
+  },
+  {
+   "text": "3 210",
+   "bbox": [
+    694,
+    679,
+    749,
+    695
+   ]
+  },
+  {
+   "text": "6 420",
+   "bbox": [
+    823,
+    679,
+    878,
+    695
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    679,
+    942,
+    695
+   ]
+  },
+  {
+   "text": "1 733",
+   "bbox": [
+    990,
+    679,
+    1045,
+    695
+   ]
+  },
+  {
+   "text": "8 153",
+   "bbox": [
+    1103,
+    679,
+    1158,
+    695
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    82,
+    677,
+    202,
+    700
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    717,
+    555,
+    733
+   ]
+  },
+  {
+   "text": "5 930",
+   "bbox": [
+    694,
+    717,
+    749,
+    733
+   ]
+  },
+  {
+   "text": "29 650",
+   "bbox": [
+    811,
+    717,
+    878,
+    733
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    917,
+    717,
+    942,
+    733
+   ]
+  },
+  {
+   "text": "1 482",
+   "bbox": [
+    990,
+    717,
+    1045,
+    733
+   ]
+  },
+  {
+   "text": "31 132",
+   "bbox": [
+    1091,
+    717,
+    1158,
+    733
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    82,
+    715,
+    355,
+    738
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    512,
+    755,
+    579,
+    771
+   ]
+  },
+  {
+   "text": "6 290",
+   "bbox": [
+    694,
+    755,
+    749,
+    771
+   ]
+  },
+  {
+   "text": "6 290",
+   "bbox": [
+    823,
+    755,
+    878,
+    771
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    755,
+    942,
+    771
+   ]
+  },
+  {
+   "text": "1 698",
+   "bbox": [
+    990,
+    755,
+    1045,
+    771
+   ]
+  },
+  {
+   "text": "7 988",
+   "bbox": [
+    1103,
+    755,
+    1158,
+    771
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    82,
+    753,
+    351,
+    776
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    512,
+    791,
+    554,
+    809
+   ]
+  },
+  {
+   "text": "30 200",
+   "bbox": [
+    682,
+    793,
+    749,
+    809
+   ]
+  },
+  {
+   "text": "90 600",
+   "bbox": [
+    811,
+    793,
+    878,
+    809
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    793,
+    942,
+    809
+   ]
+  },
+  {
+   "text": "24 462",
+   "bbox": [
+    978,
+    793,
+    1045,
+    809
+   ]
+  },
+  {
+   "text": "115 062",
+   "bbox": [
+    1079,
+    793,
+    1158,
+    809
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    82,
+    791,
+    263,
+    814
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    851,
+    828,
+    871
+   ]
+  },
+  {
+   "text": "2 853 880 Ft",
+   "bbox": [
+    1012,
+    852,
+    1158,
+    871
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    665,
+    886,
+    828,
+    910
+   ]
+  },
+  {
+   "text": "764 023 Ft",
+   "bbox": [
+    1034,
+    891,
+    1158,
+    910
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    695,
+    930,
+    828,
+    954
+   ]
+  },
+  {
+   "text": "3 617 903 Ft",
+   "bbox": [
+    1004,
+    930,
+    1158,
+    949
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 00917229-41295072-24254386",
+   "bbox": [
+    82,
+    997,
+    608,
+    1016
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    460,
+    1651,
+    779,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET KFT.",
+  "uzlet_cim": "H-6808 Debrecen, Hajdúmártoni utca 114.",
+  "adoszam": "49254231-4-37",
+  "datum": "2024.01.27.",
+  "ido": "10:06",
+  "nyugtaszam": "9577/13714",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "6 020 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1218"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2238"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1323"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "718"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "523"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET KFT.",
+   "bbox": [
+    194,
+    28,
+    432,
+    49
+   ]
+  },
+  {
+   "text": "H-6808 Debrecen, Hajdúmártoni utca 114.",
+   "bbox": [
+    79,
+    66,
+    547,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 49254231-4-37",
+   "bbox": [
+    181,
+    91,
+    445,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    268,
+    137,
+    358,
+    154
+   ]
+  },
+  {
+   "text": "3 DB x 406",
+   "bbox": [
+    24,
+    180,
+    134,
+    193
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    206,
+    206,
+    221
+   ]
+  },
+  {
+   "text": "1218 B00",
+   "bbox": [
+    499,
+    206,
+    603,
+    221
+   ]
+  },
+  {
+   "text": "3 DB x 746",
+   "bbox": [
+    24,
+    236,
+    134,
+    249
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    262,
+    141,
+    277
+   ]
+  },
+  {
+   "text": "2238 A00",
+   "bbox": [
+    499,
+    262,
+    603,
+    277
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    293,
+    154,
+    308
+   ]
+  },
+  {
+   "text": "1323 A00",
+   "bbox": [
+    499,
+    293,
+    603,
+    308
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    324,
+    219,
+    339
+   ]
+  },
+  {
+   "text": "718 C00",
+   "bbox": [
+    512,
+    324,
+    603,
+    339
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    355,
+    206,
+    370
+   ]
+  },
+  {
+   "text": "523 A00",
+   "bbox": [
+    512,
+    355,
+    603,
+    370
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    394,
+    174,
+    416
+   ]
+  },
+  {
+   "text": "6 020 Ft",
+   "bbox": [
+    483,
+    399,
+    603,
+    416
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    434,
+    167,
+    454
+   ]
+  },
+  {
+   "text": "6 020 Ft",
+   "bbox": [
+    499,
+    439,
+    603,
+    454
+   ]
+  },
+  {
+   "text": "2024.01.27.",
+   "bbox": [
+    24,
+    484,
+    156,
+    497
+   ]
+  },
+  {
+   "text": "10:06",
+   "bbox": [
+    543,
+    484,
+    603,
+    497
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9577/13714",
+   "bbox": [
+    24,
+    511,
+    288,
+    530
+   ]
+  },
+  {
+   "text": "AP A91273294",
+   "bbox": [
+    24,
+    546,
+    168,
+    559
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    253,
+    585,
+    373,
+    603
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  627,
+  649
+ ]
+}

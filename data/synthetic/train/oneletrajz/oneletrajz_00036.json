@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fazekas András",
+  "email": "fazekas.andras@example.hu",
+  "telefon": "06 1 912 6605",
+  "lakcim": "H-4173 Mindszentberény, Mezőtóti utca 22.",
+  "szuletesi_datum": "1989.02.18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Budai Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2012 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Docker",
+   "projektmenedzsment",
+   "JavaScript",
+   "Java",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Fazekas András",
+   "bbox": [
+    434,
+    106,
+    806,
+    142
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    172,
+    682,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    166,
+    248
+   ]
+  },
+  {
+   "text": "fazekas.andras@example.hu",
+   "bbox": [
+    330,
+    231,
+    632,
+    253
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    180,
+    281
+   ]
+  },
+  {
+   "text": "06 1 912 6605",
+   "bbox": [
+    330,
+    264,
+    478,
+    281
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    177,
+    314
+   ]
+  },
+  {
+   "text": "H-4173 Mindszentberény, Mezőtóti utca 22.",
+   "bbox": [
+    330,
+    297,
+    778,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    330,
+    273,
+    347
+   ]
+  },
+  {
+   "text": "1989.02.18.",
+   "bbox": [
+    330,
+    330,
+    452,
+    347
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    348,
+    409
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    436,
+    219,
+    453
+   ]
+  },
+  {
+   "text": "irodavezető – Budai Kft.",
+   "bbox": [
+    90,
+    462,
+    364,
+    481
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    517,
+    267,
+    542
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    569,
+    219,
+    586
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    595,
+    687,
+    619
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    623,
+    300,
+    640
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    666,
+    219,
+    683
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    692,
+    443,
+    716
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    720,
+    352,
+    742
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    774,
+    236,
+    799
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    826,
+    204,
+    848
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    876,
+    231,
+    901
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, Docker, projektmenedzsment, JavaScript, Java, C#",
+   "bbox": [
+    90,
+    928,
+    772,
+    950
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

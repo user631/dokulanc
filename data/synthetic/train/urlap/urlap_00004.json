@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kiss Mária",
+  "anyja_neve": "Farkas Szilárd",
+  "szuletesi_hely": "Szombathely",
+  "szuletesi_datum": "1988.09.01.",
+  "lakcim": "H-3711 Újligetnémeti, Hetvenhidai utca 128.",
+  "telefon": "06 1 491 8904",
+  "email": "kiss.maria@outlook.com",
+  "adoazonosito_jel": "8444388173",
+  "taj_szam": "685 527 236",
+  "kelt": "Lajostapolcafa, 2025.10.24."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    433,
+    103,
+    806,
+    138
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    462,
+    157,
+    777,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    102,
+    209,
+    345,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    114,
+    262,
+    157,
+    276
+   ]
+  },
+  {
+   "text": "Kiss Mária",
+   "bbox": [
+    414,
+    263,
+    523,
+    280
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    314,
+    223,
+    331
+   ]
+  },
+  {
+   "text": "Farkas Szilárd",
+   "bbox": [
+    414,
+    313,
+    563,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    114,
+    364,
+    246,
+    382
+   ]
+  },
+  {
+   "text": "Szombathely",
+   "bbox": [
+    414,
+    362,
+    550,
+    383
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    114,
+    415,
+    235,
+    429
+   ]
+  },
+  {
+   "text": "1988.09.01.",
+   "bbox": [
+    414,
+    415,
+    542,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    114,
+    466,
+    186,
+    480
+   ]
+  },
+  {
+   "text": "H-3711 Újligetnémeti, Hetvenhidai utca 128.",
+   "bbox": [
+    414,
+    459,
+    887,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    114,
+    517,
+    235,
+    531
+   ]
+  },
+  {
+   "text": "06 1 491 8904",
+   "bbox": [
+    414,
+    514,
+    565,
+    530
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    114,
+    568,
+    218,
+    582
+   ]
+  },
+  {
+   "text": "kiss.maria@outlook.com",
+   "bbox": [
+    414,
+    566,
+    674,
+    585
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    619,
+    269,
+    637
+   ]
+  },
+  {
+   "text": "8444388173",
+   "bbox": [
+    414,
+    615,
+    544,
+    631
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    114,
+    670,
+    206,
+    684
+   ]
+  },
+  {
+   "text": "685 527 236",
+   "bbox": [
+    414,
+    667,
+    545,
+    683
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    102,
+    747,
+    295,
+    768
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    147,
+    791,
+    466,
+    809
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    147,
+    836,
+    300,
+    850
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    881,
+    485,
+    899
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    102,
+    983,
+    147,
+    998
+   ]
+  },
+  {
+   "text": "Lajostapolcafa, 2025.10.24.",
+   "bbox": [
+    192,
+    979,
+    488,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    923,
+    1032,
+    972,
+    1044
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

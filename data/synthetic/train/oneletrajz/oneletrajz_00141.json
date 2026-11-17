@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Szabó János",
+  "email": "szabo.janos@example.hu",
+  "telefon": "+36 70 674 5206",
+  "lakcim": "H-8523 Tótváros, Tiszamártoni utca 98.",
+  "szuletesi_datum": "1979. november 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "1997 – 2001"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó és Társa Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2005 – 2008"
+   },
+   {
+    "ceg": "Fábián Consulting Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2002 – 2005"
+   },
+   {
+    "ceg": "Fekete Trade Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2001 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "projektmenedzsment",
+   "ügyfélkezelés",
+   "JavaScript",
+   "Linux",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó János",
+   "bbox": [
+    488,
+    119,
+    752,
+    154
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    182,
+    674,
+    208
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    235,
+    155,
+    250
+   ]
+  },
+  {
+   "text": "szabo.janos@example.hu",
+   "bbox": [
+    330,
+    235,
+    549,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    167,
+    280
+   ]
+  },
+  {
+   "text": "+36 70 674 5206",
+   "bbox": [
+    330,
+    266,
+    480,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    161,
+    310
+   ]
+  },
+  {
+   "text": "H-8523 Tótváros, Tiszamártoni utca 98.",
+   "bbox": [
+    330,
+    295,
+    670,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    246,
+    340
+   ]
+  },
+  {
+   "text": "1979. november 11.",
+   "bbox": [
+    330,
+    325,
+    503,
+    340
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    314,
+    400
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    90,
+    426,
+    198,
+    440
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szabó és Társa Zrt.",
+   "bbox": [
+    90,
+    449,
+    497,
+    470
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    90,
+    490,
+    198,
+    504
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Fábián Consulting Zrt.",
+   "bbox": [
+    88,
+    513,
+    479,
+    534
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    90,
+    554,
+    198,
+    568
+   ]
+  },
+  {
+   "text": "értékesítő – Fekete Trade Kft.",
+   "bbox": [
+    90,
+    577,
+    377,
+    593
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    628,
+    246,
+    652
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    678,
+    198,
+    692
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    697,
+    252,
+    722
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    725,
+    322,
+    740
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    766,
+    198,
+    780
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    789,
+    367,
+    810
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    813,
+    312,
+    833
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    864,
+    218,
+    888
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (C1)",
+   "bbox": [
+    90,
+    913,
+    274,
+    933
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    960,
+    208,
+    984
+   ]
+  },
+  {
+   "text": "Git, projektmenedzsment, ügyfélkezelés, JavaScript, Linux, Excel",
+   "bbox": [
+    90,
+    1009,
+    638,
+    1029
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Bodnár András",
+  "anyja_neve": "Török Csaba",
+  "szuletesi_hely": "Szeged",
+  "szuletesi_datum": "1984.06.16.",
+  "lakcim": "H-4010 Hetvenbánya, Németmindszenti út 108.",
+  "telefon": "+36 70 447 8714",
+  "email": "bodnar.andras@example.hu",
+  "adoazonosito_jel": "8429007601",
+  "taj_szam": "522 631 584",
+  "kelt": "Nyíregyháza, 2024.08.28."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    362,
+    85,
+    880,
+    117
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    477,
+    138,
+    763,
+    154
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    190,
+    284,
+    210
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    243,
+    133,
+    257
+   ]
+  },
+  {
+   "text": "Bodnár András",
+   "bbox": [
+    425,
+    239,
+    573,
+    260
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    96,
+    295,
+    193,
+    312
+   ]
+  },
+  {
+   "text": "Török Csaba",
+   "bbox": [
+    426,
+    289,
+    551,
+    306
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    345,
+    214,
+    363
+   ]
+  },
+  {
+   "text": "Szeged",
+   "bbox": [
+    426,
+    342,
+    494,
+    368
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    396,
+    205,
+    410
+   ]
+  },
+  {
+   "text": "1984.06.16.",
+   "bbox": [
+    425,
+    398,
+    548,
+    416
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    447,
+    159,
+    461
+   ]
+  },
+  {
+   "text": "H-4010 Hetvenbánya, Németmindszenti út 108.",
+   "bbox": [
+    425,
+    441,
+    899,
+    464
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    498,
+    205,
+    512
+   ]
+  },
+  {
+   "text": "+36 70 447 8714",
+   "bbox": [
+    426,
+    494,
+    614,
+    512
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    549,
+    188,
+    563
+   ]
+  },
+  {
+   "text": "bodnar.andras@example.hu",
+   "bbox": [
+    426,
+    543,
+    696,
+    565
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    96,
+    600,
+    238,
+    618
+   ]
+  },
+  {
+   "text": "8429007601",
+   "bbox": [
+    426,
+    598,
+    564,
+    616
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    651,
+    178,
+    665
+   ]
+  },
+  {
+   "text": "522 631 584",
+   "bbox": [
+    426,
+    651,
+    568,
+    669
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    728,
+    244,
+    748
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    772,
+    415,
+    790
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    817,
+    266,
+    831
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    129,
+    862,
+    425,
+    880
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    964,
+    126,
+    978
+   ]
+  },
+  {
+   "text": "Nyíregyháza, 2024.08.28.",
+   "bbox": [
+    174,
+    961,
+    419,
+    983
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    944,
+    1014,
+    988,
+    1025
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOG CSEMEGE BT.",
+  "uzlet_cim": "H-1298 Németkeresztkövesd, Pilishetveni utca 150.",
+  "adoszam": "81492617-3-19",
+  "datum": "2024.01.26.",
+  "ido": "10:25",
+  "nyugtaszam": "2905/27060",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 040 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1010"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1392"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "509"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2960"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1568"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "935"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "766"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOG CSEMEGE BT.",
+   "bbox": [
+    162,
+    36,
+    400,
+    50
+   ]
+  },
+  {
+   "text": "H-1298 Németkeresztkövesd, Pilishetveni",
+   "bbox": [
+    47,
+    68,
+    515,
+    84
+   ]
+  },
+  {
+   "text": "utca 150.",
+   "bbox": [
+    227,
+    94,
+    335,
+    107
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81492617-3-19",
+   "bbox": [
+    149,
+    117,
+    413,
+    133
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    232,
+    163,
+    330,
+    178
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    205,
+    180,
+    219
+   ]
+  },
+  {
+   "text": "1010 B00",
+   "bbox": [
+    434,
+    205,
+    538,
+    219
+   ]
+  },
+  {
+   "text": "2 DB x 696",
+   "bbox": [
+    24,
+    234,
+    134,
+    246
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    259,
+    167,
+    273
+   ]
+  },
+  {
+   "text": "1392 C00",
+   "bbox": [
+    434,
+    259,
+    538,
+    273
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    290,
+    206,
+    303
+   ]
+  },
+  {
+   "text": "509 C00",
+   "bbox": [
+    447,
+    289,
+    538,
+    303
+   ]
+  },
+  {
+   "text": "2 DB x 1480",
+   "bbox": [
+    24,
+    318,
+    145,
+    330
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    344,
+    193,
+    357
+   ]
+  },
+  {
+   "text": "2960 A00",
+   "bbox": [
+    434,
+    343,
+    538,
+    357
+   ]
+  },
+  {
+   "text": "2 DB x 784",
+   "bbox": [
+    24,
+    372,
+    134,
+    384
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    397,
+    128,
+    411
+   ]
+  },
+  {
+   "text": "1568 B00",
+   "bbox": [
+    434,
+    397,
+    538,
+    411
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    427,
+    219,
+    441
+   ]
+  },
+  {
+   "text": "935 B00",
+   "bbox": [
+    447,
+    427,
+    538,
+    441
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    457,
+    141,
+    471
+   ]
+  },
+  {
+   "text": "766 B00",
+   "bbox": [
+    447,
+    457,
+    538,
+    471
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    495,
+    184,
+    516
+   ]
+  },
+  {
+   "text": "9 040 Ft",
+   "bbox": [
+    410,
+    500,
+    538,
+    516
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    536,
+    155,
+    553
+   ]
+  },
+  {
+   "text": "9 040 Ft",
+   "bbox": [
+    434,
+    539,
+    538,
+    553
+   ]
+  },
+  {
+   "text": "2024.01.26.",
+   "bbox": [
+    24,
+    582,
+    156,
+    595
+   ]
+  },
+  {
+   "text": "10:25",
+   "bbox": [
+    478,
+    582,
+    538,
+    595
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2905/27060",
+   "bbox": [
+    24,
+    609,
+    288,
+    627
+   ]
+  },
+  {
+   "text": "AP A69944142",
+   "bbox": [
+    24,
+    642,
+    168,
+    655
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    216,
+    683,
+    346,
+    698
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  562,
+  742
+ ]
+}

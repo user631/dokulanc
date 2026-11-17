@@ -1,0 +1,696 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/01315",
+  "kiallitas_datuma": "2026. augusztus 18.",
+  "teljesites_datuma": "2026. augusztus 15.",
+  "fizetesi_hatarido": "2026. szeptember 2.",
+  "elado_nev": "Bakos és Társa Kft.",
+  "elado_cim": "H-3973 Zalaegerszeg, Egyházaskereszti út 29.",
+  "elado_adoszam": "60345503-2-17",
+  "vevo_nev": "Gál Kft.",
+  "vevo_cim": "H-1623 Balatonligetvár, Zalaegerszegi út 106.",
+  "vevo_adoszam": "76998928-2-37",
+  "bankszamla": "79680376-90374492",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "120 850 Ft",
+  "afa_osszesen": "30 666 Ft",
+  "brutto_osszesen": "151 516 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "5 db",
+    "egysegar": "610",
+    "netto": "3 050",
+    "afa_kulcs": "5%",
+    "afa": "152",
+    "brutto": "3 202"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "6 460",
+    "netto": "6 460",
+    "afa_kulcs": "27%",
+    "afa": "1 744",
+    "brutto": "8 204"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "2 év",
+    "egysegar": "37 640",
+    "netto": "75 280",
+    "afa_kulcs": "27%",
+    "afa": "20 326",
+    "brutto": "95 606"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "4 csomag",
+    "egysegar": "3 590",
+    "netto": "14 360",
+    "afa_kulcs": "18%",
+    "afa": "2 585",
+    "brutto": "16 945"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "10 csomag",
+    "egysegar": "2 170",
+    "netto": "21 700",
+    "afa_kulcs": "27%",
+    "afa": "5 859",
+    "brutto": "27 559"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BAKOS",
+   "bbox": [
+    142,
+    136,
+    215,
+    153
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    750,
+    117,
+    1141,
+    149
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/01315",
+   "bbox": [
+    862,
+    173,
+    1141,
+    192
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    99,
+    254,
+    170,
+    272
+   ]
+  },
+  {
+   "text": "Bakos és Társa Kft.",
+   "bbox": [
+    99,
+    290,
+    312,
+    308
+   ]
+  },
+  {
+   "text": "H-3973 Zalaegerszeg, Egyházaskereszti út 29.",
+   "bbox": [
+    99,
+    322,
+    553,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 60345503-2-17",
+   "bbox": [
+    99,
+    352,
+    348,
+    370
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    255,
+    695,
+    272
+   ]
+  },
+  {
+   "text": "Gál Kft.",
+   "bbox": [
+    630,
+    290,
+    716,
+    308
+   ]
+  },
+  {
+   "text": "H-1623 Balatonligetvár, Zalaegerszegi út 106.",
+   "bbox": [
+    630,
+    322,
+    1086,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 76998928-2-37",
+   "bbox": [
+    630,
+    352,
+    879,
+    370
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    99,
+    421,
+    243,
+    435
+   ]
+  },
+  {
+   "text": "2026. augusztus 18.",
+   "bbox": [
+    99,
+    450,
+    284,
+    469
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    421,
+    519,
+    439
+   ]
+  },
+  {
+   "text": "2026. augusztus 15.",
+   "bbox": [
+    359,
+    450,
+    544,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    421,
+    771,
+    435
+   ]
+  },
+  {
+   "text": "2026. szeptember 2.",
+   "bbox": [
+    619,
+    450,
+    811,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    421,
+    994,
+    435
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    879,
+    449,
+    964,
+    469
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    99,
+    499,
+    206,
+    517
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    499,
+    579,
+    517
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    667,
+    499,
+    745,
+    517
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    499,
+    870,
+    513
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    495,
+    932,
+    513
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    996,
+    495,
+    1031,
+    513
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    499,
+    1141,
+    513
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    515,
+    540,
+    553,
+    554
+   ]
+  },
+  {
+   "text": "610",
+   "bbox": [
+    715,
+    540,
+    745,
+    554
+   ]
+  },
+  {
+   "text": "3 050",
+   "bbox": [
+    824,
+    540,
+    870,
+    554
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    911,
+    540,
+    932,
+    554
+   ]
+  },
+  {
+   "text": "152",
+   "bbox": [
+    1001,
+    540,
+    1031,
+    554
+   ]
+  },
+  {
+   "text": "3 202",
+   "bbox": [
+    1095,
+    540,
+    1141,
+    554
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    99,
+    539,
+    198,
+    558
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    515,
+    575,
+    574,
+    589
+   ]
+  },
+  {
+   "text": "6 460",
+   "bbox": [
+    699,
+    575,
+    745,
+    589
+   ]
+  },
+  {
+   "text": "6 460",
+   "bbox": [
+    824,
+    575,
+    870,
+    589
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    575,
+    932,
+    589
+   ]
+  },
+  {
+   "text": "1 744",
+   "bbox": [
+    985,
+    575,
+    1031,
+    589
+   ]
+  },
+  {
+   "text": "8 204",
+   "bbox": [
+    1095,
+    575,
+    1141,
+    589
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    99,
+    574,
+    328,
+    593
+   ]
+  },
+  {
+   "text": "2 év",
+   "bbox": [
+    515,
+    609,
+    551,
+    624
+   ]
+  },
+  {
+   "text": "37 640",
+   "bbox": [
+    689,
+    610,
+    745,
+    624
+   ]
+  },
+  {
+   "text": "75 280",
+   "bbox": [
+    814,
+    610,
+    870,
+    624
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    610,
+    932,
+    624
+   ]
+  },
+  {
+   "text": "20 326",
+   "bbox": [
+    975,
+    610,
+    1031,
+    624
+   ]
+  },
+  {
+   "text": "95 606",
+   "bbox": [
+    1085,
+    610,
+    1141,
+    624
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    99,
+    609,
+    254,
+    628
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    515,
+    645,
+    594,
+    663
+   ]
+  },
+  {
+   "text": "3 590",
+   "bbox": [
+    699,
+    645,
+    745,
+    659
+   ]
+  },
+  {
+   "text": "14 360",
+   "bbox": [
+    814,
+    645,
+    870,
+    659
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    901,
+    645,
+    932,
+    659
+   ]
+  },
+  {
+   "text": "2 585",
+   "bbox": [
+    985,
+    645,
+    1031,
+    659
+   ]
+  },
+  {
+   "text": "16 945",
+   "bbox": [
+    1085,
+    645,
+    1141,
+    659
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    99,
+    644,
+    257,
+    663
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    515,
+    680,
+    604,
+    698
+   ]
+  },
+  {
+   "text": "2 170",
+   "bbox": [
+    699,
+    680,
+    745,
+    694
+   ]
+  },
+  {
+   "text": "21 700",
+   "bbox": [
+    814,
+    680,
+    870,
+    694
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    680,
+    932,
+    694
+   ]
+  },
+  {
+   "text": "5 859",
+   "bbox": [
+    985,
+    680,
+    1031,
+    694
+   ]
+  },
+  {
+   "text": "27 559",
+   "bbox": [
+    1085,
+    680,
+    1141,
+    694
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    99,
+    679,
+    322,
+    698
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    649,
+    735,
+    811,
+    753
+   ]
+  },
+  {
+   "text": "120 850 Ft",
+   "bbox": [
+    1034,
+    737,
+    1141,
+    753
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    667,
+    768,
+    811,
+    789
+   ]
+  },
+  {
+   "text": "30 666 Ft",
+   "bbox": [
+    1046,
+    773,
+    1141,
+    789
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    620,
+    807,
+    811,
+    830
+   ]
+  },
+  {
+   "text": "151 516 Ft",
+   "bbox": [
+    1027,
+    809,
+    1141,
+    825
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 79680376-90374492",
+   "bbox": [
+    99,
+    873,
+    453,
+    889
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    486,
+    1637,
+    753,
+    1654
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

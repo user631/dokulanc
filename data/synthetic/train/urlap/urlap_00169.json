@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Deák Attila",
+  "anyja_neve": "Balogh Ágnes",
+  "szuletesi_hely": "Dunakeszi",
+  "szuletesi_datum": "1979.11.15.",
+  "lakcim": "H-6389 Fürdőkövesd, Budafürdői utca 162.",
+  "telefon": "+36 20 439 6023",
+  "email": "deak.attila@example.hu",
+  "adoazonosito_jel": "8412254902",
+  "taj_szam": "618 910 407",
+  "kelt": "Nyírapáti, 2025.10.12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    385,
+    94,
+    854,
+    127
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    476,
+    148,
+    762,
+    165
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    201,
+    320,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    256,
+    144,
+    270
+   ]
+  },
+  {
+   "text": "Deák Attila",
+   "bbox": [
+    406,
+    251,
+    515,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    308,
+    203,
+    326
+   ]
+  },
+  {
+   "text": "Balogh Ágnes",
+   "bbox": [
+    406,
+    305,
+    538,
+    331
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    359,
+    224,
+    378
+   ]
+  },
+  {
+   "text": "Dunakeszi",
+   "bbox": [
+    406,
+    360,
+    508,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    411,
+    217,
+    426
+   ]
+  },
+  {
+   "text": "1979.11.15.",
+   "bbox": [
+    406,
+    413,
+    507,
+    429
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    464,
+    174,
+    478
+   ]
+  },
+  {
+   "text": "H-6389 Fürdőkövesd, Budafürdői utca 162.",
+   "bbox": [
+    406,
+    460,
+    828,
+    481
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    516,
+    216,
+    530
+   ]
+  },
+  {
+   "text": "+36 20 439 6023",
+   "bbox": [
+    406,
+    516,
+    571,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    568,
+    205,
+    582
+   ]
+  },
+  {
+   "text": "deak.attila@example.hu",
+   "bbox": [
+    406,
+    568,
+    643,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    620,
+    250,
+    638
+   ]
+  },
+  {
+   "text": "8412254902",
+   "bbox": [
+    406,
+    616,
+    526,
+    636
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    672,
+    194,
+    686
+   ]
+  },
+  {
+   "text": "618 910 407",
+   "bbox": [
+    406,
+    671,
+    523,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    749,
+    279,
+    771
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    794,
+    430,
+    812
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    839,
+    276,
+    853
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    884,
+    445,
+    902
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    986,
+    136,
+    1001
+   ]
+  },
+  {
+   "text": "Nyírapáti, 2025.10.12.",
+   "bbox": [
+    183,
+    982,
+    398,
+    1004
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1035,
+    981,
+    1047
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

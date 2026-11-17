@@ -1,0 +1,633 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2025/02307",
+  "kiallitas_datuma": "2025. 08. 28.",
+  "teljesites_datuma": "2025. 08. 26.",
+  "fizetesi_hatarido": "2025. 09. 12.",
+  "elado_nev": "Szilágyi Consulting Bt.",
+  "elado_cim": "H-9608 Egyházasgyörgyháza, Apátii utca 65.",
+  "elado_adoszam": "80383956-2-26",
+  "vevo_nev": "Lakatos Szolgáltató Zrt.",
+  "vevo_cim": "H-3228 Haraszti, Tamásiberényi utca 196.",
+  "vevo_adoszam": "53189590-2-15",
+  "bankszamla": "79060015-40124933-38705236",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "172 340 Ft",
+  "afa_osszesen": "21 914 Ft",
+  "brutto_osszesen": "194 254 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "10 db",
+    "egysegar": "950",
+    "netto": "9 500",
+    "afa_kulcs": "5%",
+    "afa": "475",
+    "brutto": "9 975"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "3 óra",
+    "egysegar": "14 640",
+    "netto": "43 920",
+    "afa_kulcs": "27%",
+    "afa": "11 858",
+    "brutto": "55 778"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "12 karton",
+    "egysegar": "2 330",
+    "netto": "27 960",
+    "afa_kulcs": "18%",
+    "afa": "5 033",
+    "brutto": "32 993"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "12 db",
+    "egysegar": "7 580",
+    "netto": "90 960",
+    "afa_kulcs": "5%",
+    "afa": "4 548",
+    "brutto": "95 508"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZILÁGYI",
+   "bbox": [
+    102,
+    113,
+    218,
+    133
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1029,
+    99,
+    1160,
+    129
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/02307",
+   "bbox": [
+    913,
+    155,
+    1160,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    80,
+    236,
+    148,
+    252
+   ]
+  },
+  {
+   "text": "Szilágyi Consulting Bt.",
+   "bbox": [
+    80,
+    272,
+    314,
+    293
+   ]
+  },
+  {
+   "text": "H-9608 Egyházasgyörgyháza, Apátii utca 65.",
+   "bbox": [
+    80,
+    304,
+    485,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 80383956-2-26",
+   "bbox": [
+    80,
+    334,
+    311,
+    350
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    236,
+    690,
+    252
+   ]
+  },
+  {
+   "text": "Lakatos Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    272,
+    879,
+    293
+   ]
+  },
+  {
+   "text": "H-3228 Haraszti, Tamásiberényi utca 196.",
+   "bbox": [
+    630,
+    304,
+    1008,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 53189590-2-15",
+   "bbox": [
+    630,
+    334,
+    861,
+    350
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    80,
+    402,
+    217,
+    415
+   ]
+  },
+  {
+   "text": "2025. 08. 28.",
+   "bbox": [
+    80,
+    431,
+    193,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    402,
+    492,
+    419
+   ]
+  },
+  {
+   "text": "2025. 08. 26.",
+   "bbox": [
+    350,
+    431,
+    463,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    402,
+    755,
+    415
+   ]
+  },
+  {
+   "text": "2025. 09. 12.",
+   "bbox": [
+    620,
+    431,
+    733,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    402,
+    991,
+    415
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    890,
+    430,
+    954,
+    445
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    80,
+    480,
+    176,
+    497
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    481,
+    575,
+    497
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    673,
+    480,
+    750,
+    497
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    835,
+    480,
+    879,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    477,
+    944,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1006,
+    477,
+    1046,
+    493
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    480,
+    1160,
+    493
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    512,
+    521,
+    557,
+    534
+   ]
+  },
+  {
+   "text": "950",
+   "bbox": [
+    719,
+    522,
+    749,
+    534
+   ]
+  },
+  {
+   "text": "9 500",
+   "bbox": [
+    834,
+    522,
+    879,
+    534
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    918,
+    522,
+    944,
+    534
+   ]
+  },
+  {
+   "text": "475",
+   "bbox": [
+    1016,
+    522,
+    1046,
+    534
+   ]
+  },
+  {
+   "text": "9 975",
+   "bbox": [
+    1115,
+    522,
+    1160,
+    534
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    80,
+    521,
+    176,
+    538
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    512,
+    556,
+    552,
+    569
+   ]
+  },
+  {
+   "text": "14 640",
+   "bbox": [
+    694,
+    557,
+    749,
+    569
+   ]
+  },
+  {
+   "text": "43 920",
+   "bbox": [
+    824,
+    557,
+    879,
+    569
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    557,
+    944,
+    569
+   ]
+  },
+  {
+   "text": "11 858",
+   "bbox": [
+    991,
+    557,
+    1046,
+    569
+   ]
+  },
+  {
+   "text": "55 778",
+   "bbox": [
+    1105,
+    557,
+    1160,
+    569
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    80,
+    556,
+    291,
+    573
+   ]
+  },
+  {
+   "text": "12 karton",
+   "bbox": [
+    512,
+    591,
+    586,
+    604
+   ]
+  },
+  {
+   "text": "2 330",
+   "bbox": [
+    704,
+    592,
+    749,
+    604
+   ]
+  },
+  {
+   "text": "27 960",
+   "bbox": [
+    824,
+    592,
+    879,
+    604
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    908,
+    592,
+    944,
+    604
+   ]
+  },
+  {
+   "text": "5 033",
+   "bbox": [
+    1001,
+    592,
+    1046,
+    604
+   ]
+  },
+  {
+   "text": "32 993",
+   "bbox": [
+    1105,
+    592,
+    1160,
+    604
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    80,
+    588,
+    202,
+    608
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    626,
+    557,
+    639
+   ]
+  },
+  {
+   "text": "7 580",
+   "bbox": [
+    704,
+    627,
+    749,
+    639
+   ]
+  },
+  {
+   "text": "90 960",
+   "bbox": [
+    824,
+    627,
+    879,
+    639
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    918,
+    627,
+    944,
+    639
+   ]
+  },
+  {
+   "text": "4 548",
+   "bbox": [
+    1001,
+    627,
+    1046,
+    639
+   ]
+  },
+  {
+   "text": "95 508",
+   "bbox": [
+    1105,
+    627,
+    1160,
+    639
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    80,
+    626,
+    293,
+    643
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    685,
+    682,
+    830,
+    698
+   ]
+  },
+  {
+   "text": "172 340 Ft",
+   "bbox": [
+    1057,
+    683,
+    1161,
+    698
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    714,
+    830,
+    734
+   ]
+  },
+  {
+   "text": "21 914 Ft",
+   "bbox": [
+    1069,
+    719,
+    1161,
+    734
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    654,
+    755,
+    830,
+    775
+   ]
+  },
+  {
+   "text": "194 254 Ft",
+   "bbox": [
+    1054,
+    755,
+    1160,
+    770
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 79060015-40124933-38705236",
+   "bbox": [
+    80,
+    819,
+    513,
+    834
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    80,
+    849,
+    579,
+    866
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    438,
+    1658,
+    802,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

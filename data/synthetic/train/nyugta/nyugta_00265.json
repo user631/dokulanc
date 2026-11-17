@@ -1,0 +1,383 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VARGA ABC BT.",
+  "uzlet_cim": "H-8084 Piliskeresztváros, Hetvenbányai út 200.",
+  "adoszam": "27748343-2-02",
+  "datum": "2026.12.17.",
+  "ido": "10:58",
+  "nyugtaszam": "2665/99210",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "14 503 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3045"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2187"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "93"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1233"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2273"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1872"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "665"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1519"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1616"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA ABC BT.",
+   "bbox": [
+    196,
+    35,
+    378,
+    49
+   ]
+  },
+  {
+   "text": "H-8084 Piliskeresztváros, Hetvenbányai út 200.",
+   "bbox": [
+    34,
+    63,
+    540,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 27748343-2-02",
+   "bbox": [
+    166,
+    88,
+    408,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    242,
+    131,
+    332,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 1015",
+   "bbox": [
+    24,
+    172,
+    145,
+    185
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    195,
+    154,
+    210
+   ]
+  },
+  {
+   "text": "3045 C00",
+   "bbox": [
+    446,
+    195,
+    550,
+    210
+   ]
+  },
+  {
+   "text": "3 DB x 729",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    247,
+    141,
+    262
+   ]
+  },
+  {
+   "text": "2187 A00",
+   "bbox": [
+    446,
+    247,
+    550,
+    262
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    278,
+    102,
+    291
+   ]
+  },
+  {
+   "text": "93 A00",
+   "bbox": [
+    472,
+    276,
+    550,
+    291
+   ]
+  },
+  {
+   "text": "3 DB x 411",
+   "bbox": [
+    24,
+    305,
+    134,
+    318
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    328,
+    167,
+    346
+   ]
+  },
+  {
+   "text": "1233 A00",
+   "bbox": [
+    446,
+    328,
+    550,
+    343
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    357,
+    271,
+    372
+   ]
+  },
+  {
+   "text": "2273 B00",
+   "bbox": [
+    446,
+    357,
+    550,
+    372
+   ]
+  },
+  {
+   "text": "2 DB x 936",
+   "bbox": [
+    24,
+    386,
+    134,
+    399
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    409,
+    128,
+    424
+   ]
+  },
+  {
+   "text": "1872 A00",
+   "bbox": [
+    446,
+    409,
+    550,
+    424
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    438,
+    167,
+    453
+   ]
+  },
+  {
+   "text": "665 A00",
+   "bbox": [
+    459,
+    438,
+    550,
+    453
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    469,
+    193,
+    482
+   ]
+  },
+  {
+   "text": "1519 C00",
+   "bbox": [
+    446,
+    467,
+    550,
+    482
+   ]
+  },
+  {
+   "text": "2 DB x 808",
+   "bbox": [
+    24,
+    496,
+    134,
+    509
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    519,
+    232,
+    534
+   ]
+  },
+  {
+   "text": "1616 C00",
+   "bbox": [
+    446,
+    519,
+    550,
+    534
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    558,
+    174,
+    578
+   ]
+  },
+  {
+   "text": "14 503 Ft",
+   "bbox": [
+    415,
+    560,
+    550,
+    578
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    597,
+    154,
+    614
+   ]
+  },
+  {
+   "text": "14 503 Ft",
+   "bbox": [
+    433,
+    599,
+    550,
+    614
+   ]
+  },
+  {
+   "text": "2026.12.17.",
+   "bbox": [
+    24,
+    641,
+    145,
+    655
+   ]
+  },
+  {
+   "text": "10:58",
+   "bbox": [
+    495,
+    641,
+    550,
+    655
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2665/99210",
+   "bbox": [
+    24,
+    669,
+    266,
+    687
+   ]
+  },
+  {
+   "text": "AP A70899318",
+   "bbox": [
+    24,
+    699,
+    156,
+    713
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    197,
+    739,
+    377,
+    755
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  574,
+  800
+ ]
+}

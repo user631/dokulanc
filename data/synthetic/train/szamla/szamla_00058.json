@@ -1,0 +1,831 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/04852",
+  "kiallitas_datuma": "2025. 07. 13.",
+  "teljesites_datuma": "2025. 07. 13.",
+  "fizetesi_hatarido": "2025. 08. 12.",
+  "elado_nev": "Fazekas Szolgáltató Kft.",
+  "elado_cim": "H-6414 Nyékváros, Fürdőfalvai utca 129.",
+  "elado_adoszam": "92587236-3-42",
+  "vevo_nev": "Sárközi Szolgáltató Bt.",
+  "vevo_cim": "H-2441 Tamásiapáti, Petőfi utca 214.",
+  "vevo_adoszam": "71596961-2-25",
+  "bankszamla": "54839487-73332857-85191804",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "483 040 Ft",
+  "afa_osszesen": "127 572 Ft",
+  "brutto_osszesen": "610 612 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "4 db",
+    "egysegar": "7 260",
+    "netto": "29 040",
+    "afa_kulcs": "27%",
+    "afa": "7 841",
+    "brutto": "36 881"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "15 940",
+    "netto": "15 940",
+    "afa_kulcs": "27%",
+    "afa": "4 304",
+    "brutto": "20 244"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "6 960",
+    "netto": "6 960",
+    "afa_kulcs": "5%",
+    "afa": "348",
+    "brutto": "7 308"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "12 karton",
+    "egysegar": "1 220",
+    "netto": "14 640",
+    "afa_kulcs": "18%",
+    "afa": "2 635",
+    "brutto": "17 275"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "4 óra",
+    "egysegar": "11 710",
+    "netto": "46 840",
+    "afa_kulcs": "27%",
+    "afa": "12 647",
+    "brutto": "59 487"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "4 900",
+    "netto": "24 500",
+    "afa_kulcs": "27%",
+    "afa": "6 615",
+    "brutto": "31 115"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "28 760",
+    "netto": "345 120",
+    "afa_kulcs": "27%",
+    "afa": "93 182",
+    "brutto": "438 302"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    398,
+    96,
+    841,
+    144
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/04852",
+   "bbox": [
+    429,
+    159,
+    810,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    95,
+    239,
+    179,
+    258
+   ]
+  },
+  {
+   "text": "Fazekas Szolgáltató Kft.",
+   "bbox": [
+    95,
+    276,
+    401,
+    300
+   ]
+  },
+  {
+   "text": "H-6414 Nyékváros, Fürdőfalvai utca 129.",
+   "bbox": [
+    95,
+    312,
+    510,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 92587236-3-42",
+   "bbox": [
+    94,
+    343,
+    360,
+    364
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    239,
+    702,
+    258
+   ]
+  },
+  {
+   "text": "Sárközi Szolgáltató Bt.",
+   "bbox": [
+    630,
+    276,
+    920,
+    300
+   ]
+  },
+  {
+   "text": "H-2441 Tamásiapáti, Petőfi utca 214.",
+   "bbox": [
+    630,
+    312,
+    1008,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 71596961-2-25",
+   "bbox": [
+    629,
+    343,
+    887,
+    364
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    95,
+    411,
+    265,
+    426
+   ]
+  },
+  {
+   "text": "2025. 07. 13.",
+   "bbox": [
+    95,
+    445,
+    219,
+    461
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    411,
+    537,
+    430
+   ]
+  },
+  {
+   "text": "2025. 07. 13.",
+   "bbox": [
+    357,
+    445,
+    481,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    411,
+    791,
+    426
+   ]
+  },
+  {
+   "text": "2025. 08. 12.",
+   "bbox": [
+    619,
+    441,
+    745,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    881,
+    411,
+    1011,
+    426
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    880,
+    440,
+    991,
+    462
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    95,
+    491,
+    217,
+    510
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    492,
+    592,
+    510
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    491,
+    747,
+    510
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    491,
+    872,
+    506
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    487,
+    935,
+    506
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    487,
+    1035,
+    506
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1077,
+    491,
+    1145,
+    506
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    515,
+    533,
+    553,
+    552
+   ]
+  },
+  {
+   "text": "7 260",
+   "bbox": [
+    697,
+    534,
+    746,
+    552
+   ]
+  },
+  {
+   "text": "29 040",
+   "bbox": [
+    810,
+    537,
+    872,
+    552
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    534,
+    935,
+    552
+   ]
+  },
+  {
+   "text": "7 841",
+   "bbox": [
+    987,
+    534,
+    1034,
+    552
+   ]
+  },
+  {
+   "text": "36 881",
+   "bbox": [
+    1085,
+    534,
+    1145,
+    552
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    95,
+    533,
+    275,
+    552
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    569,
+    558,
+    584
+   ]
+  },
+  {
+   "text": "15 940",
+   "bbox": [
+    687,
+    573,
+    746,
+    588
+   ]
+  },
+  {
+   "text": "15 940",
+   "bbox": [
+    813,
+    573,
+    872,
+    588
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    570,
+    935,
+    588
+   ]
+  },
+  {
+   "text": "4 304",
+   "bbox": [
+    984,
+    573,
+    1034,
+    588
+   ]
+  },
+  {
+   "text": "20 244",
+   "bbox": [
+    1084,
+    573,
+    1145,
+    588
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    95,
+    569,
+    366,
+    588
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    605,
+    551,
+    620
+   ]
+  },
+  {
+   "text": "6 960",
+   "bbox": [
+    696,
+    606,
+    746,
+    624
+   ]
+  },
+  {
+   "text": "6 960",
+   "bbox": [
+    822,
+    606,
+    872,
+    624
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    606,
+    935,
+    624
+   ]
+  },
+  {
+   "text": "348",
+   "bbox": [
+    1000,
+    606,
+    1034,
+    624
+   ]
+  },
+  {
+   "text": "7 308",
+   "bbox": [
+    1095,
+    606,
+    1145,
+    624
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    95,
+    605,
+    340,
+    624
+   ]
+  },
+  {
+   "text": "12 karton",
+   "bbox": [
+    515,
+    641,
+    599,
+    656
+   ]
+  },
+  {
+   "text": "1 220",
+   "bbox": [
+    698,
+    645,
+    746,
+    656
+   ]
+  },
+  {
+   "text": "14 640",
+   "bbox": [
+    813,
+    642,
+    872,
+    660
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    898,
+    642,
+    935,
+    656
+   ]
+  },
+  {
+   "text": "2 635",
+   "bbox": [
+    985,
+    642,
+    1034,
+    660
+   ]
+  },
+  {
+   "text": "17 275",
+   "bbox": [
+    1089,
+    645,
+    1145,
+    660
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    94,
+    637,
+    225,
+    660
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    515,
+    677,
+    560,
+    696
+   ]
+  },
+  {
+   "text": "11 710",
+   "bbox": [
+    692,
+    681,
+    746,
+    696
+   ]
+  },
+  {
+   "text": "46 840",
+   "bbox": [
+    810,
+    678,
+    872,
+    696
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    678,
+    935,
+    696
+   ]
+  },
+  {
+   "text": "12 647",
+   "bbox": [
+    977,
+    678,
+    1035,
+    696
+   ]
+  },
+  {
+   "text": "59 487",
+   "bbox": [
+    1085,
+    678,
+    1146,
+    696
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    95,
+    677,
+    342,
+    696
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    515,
+    713,
+    603,
+    732
+   ]
+  },
+  {
+   "text": "4 900",
+   "bbox": [
+    695,
+    717,
+    746,
+    732
+   ]
+  },
+  {
+   "text": "24 500",
+   "bbox": [
+    810,
+    717,
+    872,
+    732
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    714,
+    935,
+    732
+   ]
+  },
+  {
+   "text": "6 615",
+   "bbox": [
+    987,
+    714,
+    1034,
+    732
+   ]
+  },
+  {
+   "text": "31 115",
+   "bbox": [
+    1091,
+    717,
+    1145,
+    732
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    95,
+    713,
+    203,
+    732
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    515,
+    749,
+    612,
+    764
+   ]
+  },
+  {
+   "text": "28 760",
+   "bbox": [
+    685,
+    750,
+    746,
+    768
+   ]
+  },
+  {
+   "text": "345 120",
+   "bbox": [
+    802,
+    753,
+    872,
+    768
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    750,
+    935,
+    768
+   ]
+  },
+  {
+   "text": "93 182",
+   "bbox": [
+    975,
+    750,
+    1034,
+    768
+   ]
+  },
+  {
+   "text": "438 302",
+   "bbox": [
+    1072,
+    750,
+    1145,
+    768
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    95,
+    749,
+    293,
+    768
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    650,
+    806,
+    815,
+    824
+   ]
+  },
+  {
+   "text": "483 040 Ft",
+   "bbox": [
+    1026,
+    807,
+    1145,
+    828
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    839,
+    815,
+    861
+   ]
+  },
+  {
+   "text": "127 572 Ft",
+   "bbox": [
+    1038,
+    844,
+    1145,
+    865
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    597,
+    880,
+    815,
+    903
+   ]
+  },
+  {
+   "text": "610 612 Ft",
+   "bbox": [
+    1019,
+    881,
+    1145,
+    899
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 54839487-73332857-85191804",
+   "bbox": [
+    95,
+    946,
+    576,
+    967
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    95,
+    976,
+    671,
+    995
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

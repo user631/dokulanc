@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Bálint Kristóf",
+  "anyja_neve": "Kovács Dávid",
+  "szuletesi_hely": "Érd",
+  "szuletesi_datum": "1986. 03. 15.",
+  "lakcim": "H-1665 Dunakeszi, Fürdőberényi utca 168.",
+  "telefon": "+36 20 555 9703",
+  "email": "balint.kristof@gmail.com",
+  "adoazonosito_jel": "8435379559",
+  "taj_szam": "124 828 708",
+  "kelt": "Szolnok, 2026. 01. 04."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    486,
+    84,
+    754,
+    121
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    195,
+    347,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    247,
+    143,
+    264
+   ]
+  },
+  {
+   "text": "Bálint Kristóf",
+   "bbox": [
+    396,
+    248,
+    555,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    302,
+    218,
+    321
+   ]
+  },
+  {
+   "text": "Kovács Dávid",
+   "bbox": [
+    396,
+    298,
+    546,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    353,
+    243,
+    374
+   ]
+  },
+  {
+   "text": "Érd",
+   "bbox": [
+    396,
+    342,
+    439,
+    369
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    406,
+    230,
+    423
+   ]
+  },
+  {
+   "text": "1986. 03. 15.",
+   "bbox": [
+    396,
+    403,
+    540,
+    424
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    459,
+    173,
+    476
+   ]
+  },
+  {
+   "text": "H-1665 Dunakeszi, Fürdőberényi utca 168.",
+   "bbox": [
+    396,
+    459,
+    887,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    512,
+    229,
+    529
+   ]
+  },
+  {
+   "text": "+36 20 555 9703",
+   "bbox": [
+    396,
+    513,
+    594,
+    534
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    565,
+    208,
+    582
+   ]
+  },
+  {
+   "text": "balint.kristof@gmail.com",
+   "bbox": [
+    396,
+    562,
+    685,
+    589
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    618,
+    268,
+    639
+   ]
+  },
+  {
+   "text": "8435379559",
+   "bbox": [
+    396,
+    614,
+    546,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    671,
+    198,
+    688
+   ]
+  },
+  {
+   "text": "124 828 708",
+   "bbox": [
+    396,
+    672,
+    541,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    753,
+    292,
+    776
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    795,
+    482,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    840,
+    294,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    885,
+    501,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    990,
+    135,
+    1007
+   ]
+  },
+  {
+   "text": "Szolnok, 2026. 01. 04.",
+   "bbox": [
+    173,
+    989,
+    408,
+    1010
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1039,
+    995,
+    1053
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NÉMETH DISZKONT KFT.",
+  "uzlet_cim": "H-3266 Mezőfürdőfalva, Béke utca 130.",
+  "adoszam": "28965321-2-17",
+  "datum": "2024.11.07.",
+  "ido": "20:12",
+  "nyugtaszam": "3009/03180",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 534 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2607"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "281"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "662"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3064"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "920"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH DISZKONT KFT.",
+   "bbox": [
+    156,
+    31,
+    417,
+    49
+   ]
+  },
+  {
+   "text": "H-3266 Mezőfürdőfalva, Béke utca 130.",
+   "bbox": [
+    83,
+    65,
+    490,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 28965321-2-17",
+   "bbox": [
+    166,
+    87,
+    408,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    244,
+    130,
+    330,
+    144
+   ]
+  },
+  {
+   "text": "3 DB x 869",
+   "bbox": [
+    24,
+    170,
+    124,
+    181
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    192,
+    216,
+    205
+   ]
+  },
+  {
+   "text": "2607 A00",
+   "bbox": [
+    455,
+    192,
+    551,
+    205
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    221,
+    180,
+    233
+   ]
+  },
+  {
+   "text": "281 B00",
+   "bbox": [
+    467,
+    220,
+    551,
+    233
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    248,
+    120,
+    261
+   ]
+  },
+  {
+   "text": "662 C00",
+   "bbox": [
+    467,
+    248,
+    551,
+    261
+   ]
+  },
+  {
+   "text": "2 DB x 1532",
+   "bbox": [
+    24,
+    276,
+    134,
+    287
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    299,
+    144,
+    311
+   ]
+  },
+  {
+   "text": "3064 B00",
+   "bbox": [
+    455,
+    298,
+    551,
+    311
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    326,
+    120,
+    339
+   ]
+  },
+  {
+   "text": "920 B00",
+   "bbox": [
+    467,
+    326,
+    551,
+    339
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    362,
+    164,
+    382
+   ]
+  },
+  {
+   "text": "7 534 Ft",
+   "bbox": [
+    439,
+    367,
+    552,
+    382
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    401,
+    144,
+    417
+   ]
+  },
+  {
+   "text": "7 534 Ft",
+   "bbox": [
+    455,
+    404,
+    551,
+    417
+   ]
+  },
+  {
+   "text": "2024.11.07.",
+   "bbox": [
+    24,
+    446,
+    145,
+    457
+   ]
+  },
+  {
+   "text": "20:12",
+   "bbox": [
+    496,
+    446,
+    551,
+    457
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3009/03180",
+   "bbox": [
+    24,
+    471,
+    266,
+    486
+   ]
+  },
+  {
+   "text": "AP A79810588",
+   "bbox": [
+    24,
+    502,
+    156,
+    513
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    232,
+    540,
+    342,
+    554
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  575,
+  598
+ ]
+}

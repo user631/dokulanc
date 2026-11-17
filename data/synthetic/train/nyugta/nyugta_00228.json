@@ -1,0 +1,387 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS ÉLELMISZER BT.",
+  "uzlet_cim": "H-2213 Baja, Mezőhídi utca 5.",
+  "adoszam": "45543041-2-29",
+  "datum": "2024.07.08.",
+  "ido": "09:56",
+  "nyugtaszam": "1192/96821",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 537 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1702"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1893"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1465"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "325"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "340"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2334"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1155"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1346"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2683"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "294"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS ÉLELMISZER BT.",
+   "bbox": [
+    132,
+    31,
+    436,
+    52
+   ]
+  },
+  {
+   "text": "H-2213 Baja, Mezőhídi utca 5.",
+   "bbox": [
+    95,
+    71,
+    472,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 45543041-2-29",
+   "bbox": [
+    141,
+    96,
+    427,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    232,
+    144,
+    336,
+    160
+   ]
+  },
+  {
+   "text": "2 DB x 851",
+   "bbox": [
+    24,
+    187,
+    154,
+    200
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    213,
+    136,
+    228
+   ]
+  },
+  {
+   "text": "1702 C00",
+   "bbox": [
+    433,
+    213,
+    545,
+    228
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    246,
+    164,
+    260
+   ]
+  },
+  {
+   "text": "1893 A00",
+   "bbox": [
+    433,
+    245,
+    545,
+    260
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    277,
+    164,
+    292
+   ]
+  },
+  {
+   "text": "1465 B00",
+   "bbox": [
+    433,
+    277,
+    545,
+    292
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    309,
+    220,
+    324
+   ]
+  },
+  {
+   "text": "325 B00",
+   "bbox": [
+    447,
+    309,
+    545,
+    324
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    342,
+    220,
+    356
+   ]
+  },
+  {
+   "text": "340 A00",
+   "bbox": [
+    447,
+    341,
+    545,
+    356
+   ]
+  },
+  {
+   "text": "3 DB x 778",
+   "bbox": [
+    24,
+    373,
+    154,
+    386
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    399,
+    150,
+    414
+   ]
+  },
+  {
+   "text": "2334 C00",
+   "bbox": [
+    433,
+    399,
+    545,
+    414
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    432,
+    206,
+    446
+   ]
+  },
+  {
+   "text": "1155 A00",
+   "bbox": [
+    433,
+    431,
+    545,
+    446
+   ]
+  },
+  {
+   "text": "2 DB x 673",
+   "bbox": [
+    24,
+    463,
+    154,
+    476
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    489,
+    248,
+    504
+   ]
+  },
+  {
+   "text": "1346 A00",
+   "bbox": [
+    433,
+    489,
+    545,
+    504
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    521,
+    290,
+    536
+   ]
+  },
+  {
+   "text": "2683 A00",
+   "bbox": [
+    433,
+    521,
+    545,
+    536
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    554,
+    207,
+    568
+   ]
+  },
+  {
+   "text": "294 C00",
+   "bbox": [
+    447,
+    553,
+    545,
+    568
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    594,
+    194,
+    616
+   ]
+  },
+  {
+   "text": "13 537 Ft",
+   "bbox": [
+    392,
+    599,
+    545,
+    616
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    635,
+    165,
+    654
+   ]
+  },
+  {
+   "text": "13 537 Ft",
+   "bbox": [
+    419,
+    639,
+    545,
+    654
+   ]
+  },
+  {
+   "text": "2024.07.08.",
+   "bbox": [
+    24,
+    685,
+    167,
+    699
+   ]
+  },
+  {
+   "text": "09:56",
+   "bbox": [
+    480,
+    685,
+    545,
+    699
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1192/96821",
+   "bbox": [
+    24,
+    714,
+    310,
+    733
+   ]
+  },
+  {
+   "text": "AP A15981638",
+   "bbox": [
+    24,
+    749,
+    180,
+    763
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    214,
+    790,
+    354,
+    808
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  569,
+  852
+ ]
+}

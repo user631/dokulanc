@@ -1,0 +1,380 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS MARKET KFT.",
+  "uzlet_cim": "H-4735 Miskolc, Tatabányai utca 126.",
+  "adoszam": "23970203-3-41",
+  "datum": "2024.06.25.",
+  "ido": "13:21",
+  "nyugtaszam": "0172/15827",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 835 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "600"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "829"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "929"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "951"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2277"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "666"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "700"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "219"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "519"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2145"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS MARKET KFT.",
+   "bbox": [
+    149,
+    31,
+    383,
+    48
+   ]
+  },
+  {
+   "text": "H-4735 Miskolc, Tatabányai utca 126.",
+   "bbox": [
+    68,
+    63,
+    464,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 23970203-3-41",
+   "bbox": [
+    145,
+    87,
+    387,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    128,
+    309,
+    143
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    168,
+    192,
+    182
+   ]
+  },
+  {
+   "text": "600 B00",
+   "bbox": [
+    425,
+    168,
+    509,
+    182
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    196,
+    120,
+    210
+   ]
+  },
+  {
+   "text": "829 A00",
+   "bbox": [
+    425,
+    196,
+    509,
+    210
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    224,
+    120,
+    238
+   ]
+  },
+  {
+   "text": "929 B00",
+   "bbox": [
+    425,
+    224,
+    509,
+    238
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    252,
+    120,
+    266
+   ]
+  },
+  {
+   "text": "951 C00",
+   "bbox": [
+    425,
+    252,
+    509,
+    266
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    280,
+    132,
+    294
+   ]
+  },
+  {
+   "text": "2277 C00",
+   "bbox": [
+    413,
+    280,
+    509,
+    294
+   ]
+  },
+  {
+   "text": "2 DB x 333",
+   "bbox": [
+    24,
+    308,
+    124,
+    320
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    330,
+    156,
+    347
+   ]
+  },
+  {
+   "text": "666 C00",
+   "bbox": [
+    425,
+    330,
+    509,
+    344
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    358,
+    132,
+    372
+   ]
+  },
+  {
+   "text": "700 A00",
+   "bbox": [
+    425,
+    358,
+    509,
+    372
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    387,
+    180,
+    400
+   ]
+  },
+  {
+   "text": "219 C00",
+   "bbox": [
+    425,
+    386,
+    509,
+    400
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    414,
+    156,
+    428
+   ]
+  },
+  {
+   "text": "519 A00",
+   "bbox": [
+    425,
+    414,
+    509,
+    428
+   ]
+  },
+  {
+   "text": "3 DB x 715",
+   "bbox": [
+    24,
+    442,
+    124,
+    454
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    464,
+    120,
+    478
+   ]
+  },
+  {
+   "text": "2145 A00",
+   "bbox": [
+    413,
+    464,
+    509,
+    478
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    502,
+    150,
+    521
+   ]
+  },
+  {
+   "text": "10 835 Ft",
+   "bbox": [
+    383,
+    504,
+    509,
+    521
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    540,
+    144,
+    556
+   ]
+  },
+  {
+   "text": "10 835 Ft",
+   "bbox": [
+    401,
+    542,
+    509,
+    556
+   ]
+  },
+  {
+   "text": "2024.06.25.",
+   "bbox": [
+    24,
+    584,
+    145,
+    597
+   ]
+  },
+  {
+   "text": "13:21",
+   "bbox": [
+    454,
+    584,
+    509,
+    597
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0172/15827",
+   "bbox": [
+    24,
+    611,
+    266,
+    628
+   ]
+  },
+  {
+   "text": "AP A61172307",
+   "bbox": [
+    24,
+    640,
+    156,
+    653
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    211,
+    678,
+    321,
+    693
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  533,
+  738
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Ádám",
+  "email": "kovacs.adam@freemail.hu",
+  "telefon": "+36 30 981 3504",
+  "lakcim": "H-3365 Hetvenfa, Györgyvégi utca 134.",
+  "szuletesi_datum": "1996.08.16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2021 – 2023"
+   },
+   {
+    "ceg": "Molnár Trade Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2018 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "B kategóriás jogosítvány",
+   "Java",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    80,
+    232,
+    103
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    130,
+    102,
+    144
+   ]
+  },
+  {
+   "text": "kovacs.adam@freemail.hu",
+   "bbox": [
+    40,
+    154,
+    264,
+    173
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    108,
+    204
+   ]
+  },
+  {
+   "text": "+36 30 981 3504",
+   "bbox": [
+    40,
+    215,
+    188,
+    229
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    250,
+    110,
+    264
+   ]
+  },
+  {
+   "text": "H-3365 Hetvenfa, Györgyvégi utca",
+   "bbox": [
+    40,
+    274,
+    342,
+    293
+   ]
+  },
+  {
+   "text": "134.",
+   "bbox": [
+    40,
+    300,
+    78,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    335,
+    183,
+    349
+   ]
+  },
+  {
+   "text": "1996.08.16.",
+   "bbox": [
+    40,
+    360,
+    143,
+    374
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    213,
+    443
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    465,
+    135,
+    486
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    520,
+    194,
+    543
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    566,
+    80,
+    581
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    594,
+    261,
+    615
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    624,
+    80,
+    639
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    652,
+    133,
+    673
+   ]
+  },
+  {
+   "text": "Kovács Ádám",
+   "bbox": [
+    450,
+    80,
+    733,
+    123
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    161,
+    644,
+    180
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    686,
+    251
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    450,
+    279,
+    570,
+    294
+   ]
+  },
+  {
+   "text": "irodavezető – Nagy Kft.",
+   "bbox": [
+    450,
+    306,
+    694,
+    327
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    450,
+    349,
+    570,
+    364
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Molnár Trade Zrt.",
+   "bbox": [
+    450,
+    376,
+    875,
+    397
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    430,
+    615,
+    454
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    482,
+    570,
+    497
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    509,
+    804,
+    530
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    535,
+    600,
+    551
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    579,
+    570,
+    594
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    606,
+    708,
+    627
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    632,
+    527,
+    653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

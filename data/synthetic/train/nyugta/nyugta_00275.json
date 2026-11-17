@@ -1,0 +1,248 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "OROSZ MARKET BT.",
+  "uzlet_cim": "H-5746 Ózd, Petőfi sándor utca 100.",
+  "adoszam": "50708796-3-22",
+  "datum": "2026.02.21.",
+  "ido": "10:27",
+  "nyugtaszam": "6876/75919",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "6 097 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1131"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1263"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "359"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2344"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OROSZ MARKET BT.",
+   "bbox": [
+    197,
+    33,
+    405,
+    48
+   ]
+  },
+  {
+   "text": "H-5746 Ózd, Petőfi sándor utca 100.",
+   "bbox": [
+    126,
+    63,
+    476,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 50708796-3-22",
+   "bbox": [
+    191,
+    88,
+    411,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    130,
+    343,
+    146
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    173,
+    144,
+    186
+   ]
+  },
+  {
+   "text": "1131 C00",
+   "bbox": [
+    483,
+    173,
+    579,
+    186
+   ]
+  },
+  {
+   "text": "3 DB x 421",
+   "bbox": [
+    24,
+    202,
+    124,
+    213
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    224,
+    156,
+    242
+   ]
+  },
+  {
+   "text": "1263 A00",
+   "bbox": [
+    483,
+    225,
+    579,
+    238
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    254,
+    192,
+    267
+   ]
+  },
+  {
+   "text": "359 C00",
+   "bbox": [
+    495,
+    254,
+    579,
+    267
+   ]
+  },
+  {
+   "text": "2 DB x 1172",
+   "bbox": [
+    24,
+    283,
+    134,
+    294
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    306,
+    204,
+    319
+   ]
+  },
+  {
+   "text": "2344 A00",
+   "bbox": [
+    483,
+    306,
+    579,
+    319
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    342,
+    164,
+    363
+   ]
+  },
+  {
+   "text": "6 097 Ft",
+   "bbox": [
+    467,
+    347,
+    579,
+    363
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    382,
+    156,
+    399
+   ]
+  },
+  {
+   "text": "6 097 Ft",
+   "bbox": [
+    483,
+    386,
+    579,
+    399
+   ]
+  },
+  {
+   "text": "2026.02.21.",
+   "bbox": [
+    24,
+    429,
+    134,
+    441
+   ]
+  },
+  {
+   "text": "10:27",
+   "bbox": [
+    529,
+    429,
+    579,
+    441
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6876/75919",
+   "bbox": [
+    24,
+    455,
+    244,
+    472
+   ]
+  },
+  {
+   "text": "AP A41947957",
+   "bbox": [
+    24,
+    487,
+    144,
+    499
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    246,
+    523,
+    356,
+    540
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  603,
+  586
+ ]
+}

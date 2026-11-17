@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2026/08652",
+  "kiallitas_datuma": "2026. március 25.",
+  "teljesites_datuma": "2026. március 22.",
+  "fizetesi_hatarido": "2026. április 9.",
+  "elado_nev": "Veres és Társa Kft.",
+  "elado_cim": "H-4094 Eger, Nyíregyházai utca 133.",
+  "elado_adoszam": "42912585-2-04",
+  "vevo_nev": "Gáspár és Társa Kft.",
+  "vevo_cim": "H-5220 Háthida, Kossuth utca 214.",
+  "vevo_adoszam": "68899800-2-40",
+  "bankszamla": "HU30 4931 9976 4145 5562 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "71 530 Ft",
+  "afa_osszesen": "18 170 Ft",
+  "brutto_osszesen": "89 700 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "3 óra",
+    "egysegar": "13 240",
+    "netto": "39 720",
+    "afa_kulcs": "27%",
+    "afa": "10 724",
+    "brutto": "50 444"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "5 karton",
+    "egysegar": "2 540",
+    "netto": "12 700",
+    "afa_kulcs": "18%",
+    "afa": "2 286",
+    "brutto": "14 986"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "3 oldal",
+    "egysegar": "6 370",
+    "netto": "19 110",
+    "afa_kulcs": "27%",
+    "afa": "5 160",
+    "brutto": "24 270"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    545,
+    103,
+    695,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/08652",
+   "bbox": [
+    456,
+    165,
+    785,
+    183
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    101,
+    246,
+    167,
+    263
+   ]
+  },
+  {
+   "text": "Veres és Társa Kft.",
+   "bbox": [
+    101,
+    281,
+    303,
+    298
+   ]
+  },
+  {
+   "text": "H-4094 Eger, Nyíregyházai utca 133.",
+   "bbox": [
+    101,
+    313,
+    439,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 42912585-2-04",
+   "bbox": [
+    101,
+    342,
+    334,
+    358
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    246,
+    690,
+    263
+   ]
+  },
+  {
+   "text": "Gáspár és Társa Kft.",
+   "bbox": [
+    630,
+    281,
+    844,
+    303
+   ]
+  },
+  {
+   "text": "H-5220 Háthida, Kossuth utca 214.",
+   "bbox": [
+    630,
+    313,
+    953,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 68899800-2-40",
+   "bbox": [
+    630,
+    342,
+    863,
+    358
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    101,
+    408,
+    235,
+    422
+   ]
+  },
+  {
+   "text": "2026. március 25.",
+   "bbox": [
+    101,
+    435,
+    258,
+    451
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    408,
+    509,
+    426
+   ]
+  },
+  {
+   "text": "2026. március 22.",
+   "bbox": [
+    360,
+    435,
+    517,
+    451
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    408,
+    761,
+    422
+   ]
+  },
+  {
+   "text": "2026. április 9.",
+   "bbox": [
+    619,
+    435,
+    751,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    408,
+    984,
+    422
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    878,
+    435,
+    979,
+    455
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    101,
+    484,
+    202,
+    502
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    485,
+    578,
+    502
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    484,
+    744,
+    502
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    484,
+    869,
+    498
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    481,
+    931,
+    498
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    481,
+    1031,
+    498
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1085,
+    484,
+    1139,
+    498
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    516,
+    524,
+    556,
+    538
+   ]
+  },
+  {
+   "text": "13 240",
+   "bbox": [
+    694,
+    525,
+    744,
+    538
+   ]
+  },
+  {
+   "text": "39 720",
+   "bbox": [
+    819,
+    525,
+    869,
+    538
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    525,
+    931,
+    538
+   ]
+  },
+  {
+   "text": "10 724",
+   "bbox": [
+    980,
+    525,
+    1031,
+    538
+   ]
+  },
+  {
+   "text": "50 444",
+   "bbox": [
+    1089,
+    525,
+    1140,
+    538
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    101,
+    524,
+    322,
+    542
+   ]
+  },
+  {
+   "text": "5 karton",
+   "bbox": [
+    516,
+    559,
+    582,
+    572
+   ]
+  },
+  {
+   "text": "2 540",
+   "bbox": [
+    703,
+    559,
+    744,
+    572
+   ]
+  },
+  {
+   "text": "12 700",
+   "bbox": [
+    819,
+    559,
+    869,
+    572
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    902,
+    559,
+    931,
+    572
+   ]
+  },
+  {
+   "text": "2 286",
+   "bbox": [
+    989,
+    559,
+    1030,
+    572
+   ]
+  },
+  {
+   "text": "14 986",
+   "bbox": [
+    1089,
+    559,
+    1139,
+    572
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    101,
+    555,
+    219,
+    576
+   ]
+  },
+  {
+   "text": "3 oldal",
+   "bbox": [
+    516,
+    593,
+    569,
+    606
+   ]
+  },
+  {
+   "text": "6 370",
+   "bbox": [
+    703,
+    593,
+    744,
+    606
+   ]
+  },
+  {
+   "text": "19 110",
+   "bbox": [
+    819,
+    593,
+    869,
+    606
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    593,
+    931,
+    606
+   ]
+  },
+  {
+   "text": "5 160",
+   "bbox": [
+    989,
+    593,
+    1030,
+    606
+   ]
+  },
+  {
+   "text": "24 270",
+   "bbox": [
+    1089,
+    593,
+    1139,
+    606
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    101,
+    592,
+    314,
+    610
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    653,
+    646,
+    809,
+    664
+   ]
+  },
+  {
+   "text": "71 530 Ft",
+   "bbox": [
+    1044,
+    648,
+    1139,
+    664
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    678,
+    809,
+    699
+   ]
+  },
+  {
+   "text": "18 170 Ft",
+   "bbox": [
+    1044,
+    683,
+    1139,
+    699
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    627,
+    717,
+    809,
+    739
+   ]
+  },
+  {
+   "text": "89 700 Ft",
+   "bbox": [
+    1038,
+    718,
+    1139,
+    734
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU30 4931 9976 4145 5562 0000 0000",
+   "bbox": [
+    101,
+    781,
+    588,
+    797
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

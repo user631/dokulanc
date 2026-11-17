@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FODOR ABC BT.",
+  "uzlet_cim": "H-5616 Miskolc, Győri utca 206.",
+  "adoszam": "25983720-2-25",
+  "datum": "2025.08.24.",
+  "ido": "17:40",
+  "nyugtaszam": "9886/89431",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 304 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "230"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "345"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1755"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "244"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1422"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "794"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "627"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "878"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "86"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2332"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1591"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FODOR ABC BT.",
+   "bbox": [
+    213,
+    33,
+    395,
+    50
+   ]
+  },
+  {
+   "text": "H-5616 Miskolc, Győri utca 206.",
+   "bbox": [
+    118,
+    67,
+    490,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 25983720-2-25",
+   "bbox": [
+    172,
+    92,
+    436,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    139,
+    350,
+    157
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    185,
+    206,
+    204
+   ]
+  },
+  {
+   "text": "230 B00",
+   "bbox": [
+    494,
+    185,
+    585,
+    200
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    217,
+    206,
+    232
+   ]
+  },
+  {
+   "text": "345 A00",
+   "bbox": [
+    494,
+    217,
+    585,
+    232
+   ]
+  },
+  {
+   "text": "3 DB x 585",
+   "bbox": [
+    24,
+    249,
+    144,
+    262
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    275,
+    167,
+    290
+   ]
+  },
+  {
+   "text": "1755 A00",
+   "bbox": [
+    481,
+    275,
+    585,
+    290
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    307,
+    193,
+    322
+   ]
+  },
+  {
+   "text": "244 A00",
+   "bbox": [
+    494,
+    307,
+    585,
+    322
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    339,
+    154,
+    354
+   ]
+  },
+  {
+   "text": "1422 C00",
+   "bbox": [
+    481,
+    339,
+    585,
+    354
+   ]
+  },
+  {
+   "text": "2 DB x 397",
+   "bbox": [
+    24,
+    371,
+    144,
+    384
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    395,
+    167,
+    416
+   ]
+  },
+  {
+   "text": "794 B00",
+   "bbox": [
+    494,
+    397,
+    585,
+    412
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    429,
+    206,
+    444
+   ]
+  },
+  {
+   "text": "627 C00",
+   "bbox": [
+    494,
+    429,
+    585,
+    444
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    461,
+    128,
+    476
+   ]
+  },
+  {
+   "text": "878 A00",
+   "bbox": [
+    494,
+    461,
+    585,
+    476
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    493,
+    102,
+    508
+   ]
+  },
+  {
+   "text": "86 B00",
+   "bbox": [
+    507,
+    493,
+    585,
+    508
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    525,
+    271,
+    540
+   ]
+  },
+  {
+   "text": "2332 C00",
+   "bbox": [
+    481,
+    525,
+    585,
+    540
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    557,
+    154,
+    572
+   ]
+  },
+  {
+   "text": "1591 B00",
+   "bbox": [
+    481,
+    557,
+    585,
+    572
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    596,
+    174,
+    619
+   ]
+  },
+  {
+   "text": "10 304 Ft",
+   "bbox": [
+    450,
+    601,
+    585,
+    619
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    638,
+    168,
+    658
+   ]
+  },
+  {
+   "text": "10 304 Ft",
+   "bbox": [
+    468,
+    642,
+    585,
+    658
+   ]
+  },
+  {
+   "text": "2025.08.24.",
+   "bbox": [
+    24,
+    689,
+    156,
+    703
+   ]
+  },
+  {
+   "text": "17:40",
+   "bbox": [
+    525,
+    689,
+    585,
+    703
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9886/89431",
+   "bbox": [
+    24,
+    716,
+    288,
+    737
+   ]
+  },
+  {
+   "text": "AP A39065382",
+   "bbox": [
+    24,
+    753,
+    168,
+    767
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    206,
+    792,
+    401,
+    812
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  609,
+  858
+ ]
+}

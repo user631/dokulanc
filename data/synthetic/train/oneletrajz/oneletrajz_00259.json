@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Budai Veronika",
+  "email": "budai.veronika@gmail.com",
+  "telefon": "06 1 968 3944",
+  "lakcim": "H-5906 Hetvenkövesd, Vácmártoni utca 224.",
+  "szuletesi_datum": "1990.03.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2008 – 2013"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Trade Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2012 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Excel",
+   "C#",
+   "Python",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    82,
+    241,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    132,
+    114,
+    149
+   ]
+  },
+  {
+   "text": "budai.veronika@gmail.com",
+   "bbox": [
+    40,
+    157,
+    328,
+    178
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    192,
+    127,
+    209
+   ]
+  },
+  {
+   "text": "06 1 968 3944",
+   "bbox": [
+    40,
+    218,
+    191,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    252,
+    122,
+    269
+   ]
+  },
+  {
+   "text": "H-5906 Hetvenkövesd,",
+   "bbox": [
+    40,
+    277,
+    282,
+    298
+   ]
+  },
+  {
+   "text": "Vácmártoni utca 224.",
+   "bbox": [
+    40,
+    302,
+    266,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    337,
+    230,
+    354
+   ]
+  },
+  {
+   "text": "1990.03.27.",
+   "bbox": [
+    40,
+    363,
+    168,
+    379
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    422,
+    226,
+    448
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    469,
+    181,
+    490
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    498,
+    171,
+    519
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    551,
+    203,
+    577
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    598,
+    186,
+    619
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    627,
+    97,
+    644
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    657,
+    73,
+    673
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    685,
+    116,
+    706
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    715,
+    72,
+    731
+   ]
+  },
+  {
+   "text": "Budai Veronika",
+   "bbox": [
+    450,
+    94,
+    849,
+    131
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    163,
+    707,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    229,
+    754,
+    255
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    450,
+    282,
+    601,
+    299
+   ]
+  },
+  {
+   "text": "értékesítő – Nagy Trade Bt.",
+   "bbox": [
+    450,
+    307,
+    819,
+    332
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    361,
+    654,
+    388
+   ]
+  },
+  {
+   "text": "2008 – 2013",
+   "bbox": [
+    450,
+    415,
+    601,
+    432
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    436,
+    670,
+    465
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    467,
+    755,
+    491
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    512,
+    601,
+    529
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    537,
+    834,
+    562
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    565,
+    676,
+    588
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

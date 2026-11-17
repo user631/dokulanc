@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Halász Ádám",
+  "email": "halasz.adam@freemail.hu",
+  "telefon": "+36 30 446 2784",
+  "lakcim": "H-9862 Várad, Pusztahetveni utca 86.",
+  "szuletesi_datum": "2001. 12. 01.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2020 – 2025"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Trade Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Oláh és Társa Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Farkas Logisztika Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2024 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Linux",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Halász Ádám",
+   "bbox": [
+    470,
+    109,
+    770,
+    154
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    189,
+    728,
+    213
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    242,
+    163,
+    258
+   ]
+  },
+  {
+   "text": "halasz.adam@freemail.hu",
+   "bbox": [
+    330,
+    242,
+    582,
+    262
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    274,
+    173,
+    290
+   ]
+  },
+  {
+   "text": "+36 30 446 2784",
+   "bbox": [
+    330,
+    274,
+    493,
+    290
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    305,
+    172,
+    322
+   ]
+  },
+  {
+   "text": "H-9862 Várad, Pusztahetveni utca 86.",
+   "bbox": [
+    330,
+    306,
+    697,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    337,
+    262,
+    354
+   ]
+  },
+  {
+   "text": "2001. 12. 01.",
+   "bbox": [
+    330,
+    338,
+    456,
+    354
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    391,
+    332,
+    415
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    442,
+    237,
+    462
+   ]
+  },
+  {
+   "text": "irodavezető – Farkas Trade Kft.",
+   "bbox": [
+    90,
+    468,
+    433,
+    485
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    510,
+    237,
+    530
+   ]
+  },
+  {
+   "text": "adatelemző – Oláh és Társa Kft.",
+   "bbox": [
+    90,
+    536,
+    437,
+    553
+   ]
+  },
+  {
+   "text": "2024 – 2025",
+   "bbox": [
+    90,
+    578,
+    210,
+    594
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Farkas Logisztika Bt.",
+   "bbox": [
+    90,
+    604,
+    642,
+    626
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    657,
+    257,
+    681
+   ]
+  },
+  {
+   "text": "2020 – 2025",
+   "bbox": [
+    90,
+    708,
+    210,
+    724
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    734,
+    393,
+    756
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    760,
+    414,
+    780
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    802,
+    210,
+    818
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    828,
+    368,
+    845
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    854,
+    335,
+    874
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    907,
+    227,
+    931
+   ]
+  },
+  {
+   "text": "német (B1), angol (B2)",
+   "bbox": [
+    90,
+    958,
+    309,
+    978
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1007,
+    223,
+    1031
+   ]
+  },
+  {
+   "text": "Python, Linux, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    1058,
+    471,
+    1078
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

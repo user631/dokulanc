@@ -1,0 +1,606 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2024/01961",
+  "kiallitas_datuma": "2024. március 17.",
+  "teljesites_datuma": "2024. március 16.",
+  "fizetesi_hatarido": "2024. április 1.",
+  "elado_nev": "Farkas Tech Kft.",
+  "elado_cim": "H-4192 Budakeresztvára, Kunligeti utca 40.",
+  "elado_adoszam": "85289709-2-13",
+  "vevo_nev": "Jónás Consulting Zrt.",
+  "vevo_cim": "H-9646 Tatabánya, Soproni sétány 183.",
+  "vevo_adoszam": "33131485-2-11",
+  "bankszamla": "HU28 7556 6368 7369 5743 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 385 980 Ft",
+  "afa_osszesen": "373 394 Ft",
+  "brutto_osszesen": "1 759 374 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "10 db",
+    "egysegar": "127 330",
+    "netto": "1 273 300",
+    "afa_kulcs": "27%",
+    "afa": "343 791",
+    "brutto": "1 617 091"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "4 óra",
+    "egysegar": "16 110",
+    "netto": "64 440",
+    "afa_kulcs": "27%",
+    "afa": "17 399",
+    "brutto": "81 839"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "3 csomag",
+    "egysegar": "3 040",
+    "netto": "9 120",
+    "afa_kulcs": "18%",
+    "afa": "1 642",
+    "brutto": "10 762"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "39 120",
+    "netto": "39 120",
+    "afa_kulcs": "27%",
+    "afa": "10 562",
+    "brutto": "49 682"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    537,
+    92,
+    703,
+    129
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/01961",
+   "bbox": [
+    460,
+    156,
+    781,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    92,
+    235,
+    158,
+    252
+   ]
+  },
+  {
+   "text": "Farkas Tech Kft.",
+   "bbox": [
+    92,
+    270,
+    260,
+    286
+   ]
+  },
+  {
+   "text": "H-4192 Budakeresztvára, Kunligeti utca 40.",
+   "bbox": [
+    92,
+    302,
+    478,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 85289709-2-13",
+   "bbox": [
+    91,
+    330,
+    322,
+    345
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    235,
+    689,
+    252
+   ]
+  },
+  {
+   "text": "Jónás Consulting Zrt.",
+   "bbox": [
+    630,
+    269,
+    851,
+    290
+   ]
+  },
+  {
+   "text": "H-9646 Tatabánya, Soproni sétány 183.",
+   "bbox": [
+    630,
+    302,
+    985,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 33131485-2-11",
+   "bbox": [
+    629,
+    330,
+    860,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    92,
+    396,
+    221,
+    408
+   ]
+  },
+  {
+   "text": "2024. március 17.",
+   "bbox": [
+    92,
+    422,
+    246,
+    436
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    356,
+    396,
+    496,
+    411
+   ]
+  },
+  {
+   "text": "2024. március 16.",
+   "bbox": [
+    356,
+    422,
+    510,
+    436
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    396,
+    753,
+    408
+   ]
+  },
+  {
+   "text": "2024. április 1.",
+   "bbox": [
+    620,
+    422,
+    745,
+    440
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    884,
+    396,
+    986,
+    408
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    884,
+    422,
+    952,
+    436
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    92,
+    470,
+    189,
+    485
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    470,
+    571,
+    485
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    470,
+    746,
+    485
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    470,
+    873,
+    482
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    467,
+    936,
+    482
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    467,
+    1038,
+    482
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    470,
+    1148,
+    482
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    514,
+    509,
+    555,
+    521
+   ]
+  },
+  {
+   "text": "127 330",
+   "bbox": [
+    687,
+    509,
+    746,
+    521
+   ]
+  },
+  {
+   "text": "1 273 300",
+   "bbox": [
+    800,
+    509,
+    873,
+    521
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    509,
+    936,
+    521
+   ]
+  },
+  {
+   "text": "343 791",
+   "bbox": [
+    978,
+    509,
+    1037,
+    521
+   ]
+  },
+  {
+   "text": "1 617 091",
+   "bbox": [
+    1075,
+    509,
+    1148,
+    521
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    92,
+    508,
+    177,
+    521
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    514,
+    542,
+    552,
+    554
+   ]
+  },
+  {
+   "text": "16 110",
+   "bbox": [
+    696,
+    542,
+    746,
+    554
+   ]
+  },
+  {
+   "text": "64 440",
+   "bbox": [
+    823,
+    542,
+    873,
+    554
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    542,
+    936,
+    554
+   ]
+  },
+  {
+   "text": "17 399",
+   "bbox": [
+    987,
+    542,
+    1037,
+    554
+   ]
+  },
+  {
+   "text": "81 839",
+   "bbox": [
+    1098,
+    542,
+    1148,
+    554
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    92,
+    542,
+    183,
+    554
+   ]
+  },
+  {
+   "text": "3 csomag",
+   "bbox": [
+    514,
+    575,
+    587,
+    590
+   ]
+  },
+  {
+   "text": "3 040",
+   "bbox": [
+    705,
+    575,
+    746,
+    587
+   ]
+  },
+  {
+   "text": "9 120",
+   "bbox": [
+    832,
+    575,
+    873,
+    587
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    903,
+    575,
+    936,
+    587
+   ]
+  },
+  {
+   "text": "1 642",
+   "bbox": [
+    996,
+    575,
+    1037,
+    587
+   ]
+  },
+  {
+   "text": "10 762",
+   "bbox": [
+    1098,
+    575,
+    1148,
+    587
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    92,
+    574,
+    231,
+    590
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    608,
+    586,
+    620
+   ]
+  },
+  {
+   "text": "39 120",
+   "bbox": [
+    696,
+    608,
+    746,
+    620
+   ]
+  },
+  {
+   "text": "39 120",
+   "bbox": [
+    823,
+    608,
+    873,
+    620
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    608,
+    936,
+    620
+   ]
+  },
+  {
+   "text": "10 562",
+   "bbox": [
+    987,
+    608,
+    1037,
+    620
+   ]
+  },
+  {
+   "text": "49 682",
+   "bbox": [
+    1098,
+    608,
+    1148,
+    620
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    92,
+    607,
+    262,
+    623
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    663,
+    662,
+    818,
+    677
+   ]
+  },
+  {
+   "text": "1 385 980 Ft",
+   "bbox": [
+    1027,
+    662,
+    1148,
+    677
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    672,
+    692,
+    818,
+    711
+   ]
+  },
+  {
+   "text": "373 394 Ft",
+   "bbox": [
+    1045,
+    696,
+    1148,
+    711
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    632,
+    729,
+    818,
+    749
+   ]
+  },
+  {
+   "text": "1 759 374 Ft",
+   "bbox": [
+    1026,
+    730,
+    1148,
+    745
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU28 7556 6368 7369 5743 0000 0000",
+   "bbox": [
+    92,
+    793,
+    600,
+    807
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

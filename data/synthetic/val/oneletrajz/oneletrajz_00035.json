@@ -1,0 +1,297 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Gergő",
+  "email": "nagy.gergo@example.hu",
+  "telefon": "+36 70 561 7045",
+  "lakcim": "H-3571 Mellékfalu, József attila út 28.",
+  "szuletesi_datum": "2000. október 3.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth és Társa Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2022 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "SAP",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    87,
+    227,
+    109
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    109,
+    148
+   ]
+  },
+  {
+   "text": "nagy.gergo@example.hu",
+   "bbox": [
+    40,
+    156,
+    277,
+    175
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    189,
+    121,
+    204
+   ]
+  },
+  {
+   "text": "+36 70 561 7045",
+   "bbox": [
+    40,
+    213,
+    209,
+    227
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    244,
+    116,
+    260
+   ]
+  },
+  {
+   "text": "H-3571 Mellékfalu, József attila út",
+   "bbox": [
+    40,
+    268,
+    365,
+    286
+   ]
+  },
+  {
+   "text": "28.",
+   "bbox": [
+    40,
+    292,
+    71,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    323,
+    215,
+    339
+   ]
+  },
+  {
+   "text": "2000. október 3.",
+   "bbox": [
+    40,
+    347,
+    201,
+    362
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    407,
+    213,
+    429
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    449,
+    146,
+    469
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    503,
+    191,
+    525
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    545,
+    173,
+    565
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    573,
+    80,
+    588
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    600,
+    70,
+    615
+   ]
+  },
+  {
+   "text": "Nagy Gergő",
+   "bbox": [
+    450,
+    94,
+    744,
+    140
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    163,
+    691,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    735,
+    252
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    450,
+    278,
+    581,
+    294
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Tóth és Társa Kft.",
+   "bbox": [
+    450,
+    302,
+    965,
+    324
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    353,
+    640,
+    379
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    450,
+    405,
+    581,
+    421
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    429,
+    791,
+    451
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    454,
+    807,
+    475
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    496,
+    581,
+    512
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    520,
+    750,
+    542
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    545,
+    656,
+    566
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

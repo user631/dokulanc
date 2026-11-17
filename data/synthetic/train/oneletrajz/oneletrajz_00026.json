@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Magdolna",
+  "email": "nagy.magdolna@outlook.com",
+  "telefon": "06 1 868 7170",
+  "lakcim": "H-6857 Kistapolcavég, Soproni utca 114.",
+  "szuletesi_datum": "2001.09.10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Virág Trade Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Python",
+   "prezentáció",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Magdolna",
+   "bbox": [
+    467,
+    88,
+    772,
+    129
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    567,
+    156,
+    672,
+    180
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    149,
+    226
+   ]
+  },
+  {
+   "text": "nagy.magdolna@outlook.com",
+   "bbox": [
+    330,
+    212,
+    588,
+    230
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    162,
+    257
+   ]
+  },
+  {
+   "text": "06 1 868 7170",
+   "bbox": [
+    330,
+    244,
+    455,
+    257
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    274,
+    156,
+    288
+   ]
+  },
+  {
+   "text": "H-6857 Kistapolcavég, Soproni utca 114.",
+   "bbox": [
+    330,
+    274,
+    675,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    305,
+    233,
+    319
+   ]
+  },
+  {
+   "text": "2001.09.10.",
+   "bbox": [
+    330,
+    306,
+    433,
+    319
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    356,
+    294,
+    377
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    407,
+    220,
+    425
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Virág Trade Kft.",
+   "bbox": [
+    90,
+    432,
+    441,
+    451
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    482,
+    228,
+    504
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    535,
+    198,
+    548
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    559,
+    267,
+    578
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    584,
+    317,
+    602
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    626,
+    198,
+    639
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    651,
+    309,
+    669
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    675,
+    164,
+    693
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    725,
+    206,
+    747
+   ]
+  },
+  {
+   "text": "olasz (A2), francia (A2)",
+   "bbox": [
+    90,
+    776,
+    280,
+    795
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    823,
+    197,
+    845
+   ]
+  },
+  {
+   "text": "C#, Python, prezentáció, Excel",
+   "bbox": [
+    90,
+    875,
+    344,
+    893
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

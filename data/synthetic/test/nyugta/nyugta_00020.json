@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TAKÁCS ABC KFT.",
+  "uzlet_cim": "H-7655 Székbánya, Pusztaligeti út 56.",
+  "adoszam": "13082279-2-34",
+  "datum": "2024.09.11.",
+  "ido": "11:44",
+  "nyugtaszam": "7612/37189",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "3 206 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1940"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "744"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "522"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAKÁCS ABC KFT.",
+   "bbox": [
+    180,
+    28,
+    390,
+    49
+   ]
+  },
+  {
+   "text": "H-7655 Székbánya, Pusztaligeti út 56.",
+   "bbox": [
+    63,
+    66,
+    507,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 13082279-2-34",
+   "bbox": [
+    153,
+    91,
+    417,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    240,
+    137,
+    330,
+    154
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    181,
+    271,
+    196
+   ]
+  },
+  {
+   "text": "1940 A00",
+   "bbox": [
+    442,
+    181,
+    546,
+    196
+   ]
+  },
+  {
+   "text": "2 DB x 372",
+   "bbox": [
+    24,
+    211,
+    134,
+    224
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    236,
+    167,
+    256
+   ]
+  },
+  {
+   "text": "744 C00",
+   "bbox": [
+    455,
+    237,
+    546,
+    252
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    268,
+    206,
+    283
+   ]
+  },
+  {
+   "text": "522 B00",
+   "bbox": [
+    455,
+    268,
+    546,
+    283
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    307,
+    174,
+    329
+   ]
+  },
+  {
+   "text": "3 206 Ft",
+   "bbox": [
+    426,
+    312,
+    546,
+    329
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    347,
+    128,
+    367
+   ]
+  },
+  {
+   "text": "3 206 Ft",
+   "bbox": [
+    442,
+    352,
+    546,
+    367
+   ]
+  },
+  {
+   "text": "2024.09.11.",
+   "bbox": [
+    24,
+    397,
+    156,
+    410
+   ]
+  },
+  {
+   "text": "11:44",
+   "bbox": [
+    486,
+    397,
+    546,
+    410
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7612/37189",
+   "bbox": [
+    24,
+    424,
+    288,
+    443
+   ]
+  },
+  {
+   "text": "AP A18509576",
+   "bbox": [
+    24,
+    459,
+    168,
+    472
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    225,
+    498,
+    345,
+    516
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  570,
+  562
+ ]
+}

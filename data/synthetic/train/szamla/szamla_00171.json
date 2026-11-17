@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2026/09110",
+  "kiallitas_datuma": "2026-11-27",
+  "teljesites_datuma": "2026-11-24",
+  "fizetesi_hatarido": "2026-12-12",
+  "elado_nev": "Fehér Zrt.",
+  "elado_cim": "H-2548 Szentmindszentvár, József attila utca 112.",
+  "elado_adoszam": "59150183-2-29",
+  "vevo_nev": "Németh és Társa Kft.",
+  "vevo_cim": "H-6840 Békésligetfa, Dózsa györgy utca 221.",
+  "vevo_adoszam": "39906597-2-09",
+  "bankszamla": "32364338-98393754-15841597",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "147 120 Ft",
+  "afa_osszesen": "39 722 Ft",
+  "brutto_osszesen": "186 842 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "6 380",
+    "netto": "25 520",
+    "afa_kulcs": "27%",
+    "afa": "6 890",
+    "brutto": "32 410"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "10 óra",
+    "egysegar": "12 160",
+    "netto": "121 600",
+    "afa_kulcs": "27%",
+    "afa": "32 832",
+    "brutto": "154 432"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    545,
+    114,
+    694,
+    148
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/09110",
+   "bbox": [
+    426,
+    169,
+    814,
+    192
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    99,
+    249,
+    171,
+    269
+   ]
+  },
+  {
+   "text": "Németh és Társa Kft.",
+   "bbox": [
+    99,
+    288,
+    365,
+    308
+   ]
+  },
+  {
+   "text": "H-6840 Békésligetfa, Dózsa györgy utca 221.",
+   "bbox": [
+    99,
+    323,
+    588,
+    348
+   ]
+  },
+  {
+   "text": "Adószám: 39906597-2-09",
+   "bbox": [
+    99,
+    356,
+    377,
+    375
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    249,
+    708,
+    269
+   ]
+  },
+  {
+   "text": "Fehér Zrt.",
+   "bbox": [
+    630,
+    288,
+    753,
+    308
+   ]
+  },
+  {
+   "text": "H-2548 Szentmindszentvár, József attila utca",
+   "bbox": [
+    630,
+    323,
+    1118,
+    345
+   ]
+  },
+  {
+   "text": "112.",
+   "bbox": [
+    630,
+    357,
+    674,
+    375
+   ]
+  },
+  {
+   "text": "Adószám: 59150183-2-29",
+   "bbox": [
+    630,
+    389,
+    908,
+    408
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    99,
+    459,
+    266,
+    476
+   ]
+  },
+  {
+   "text": "2026-11-27",
+   "bbox": [
+    99,
+    492,
+    223,
+    509
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    459,
+    541,
+    481
+   ]
+  },
+  {
+   "text": "2026-11-24",
+   "bbox": [
+    359,
+    492,
+    483,
+    509
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    459,
+    790,
+    476
+   ]
+  },
+  {
+   "text": "2026-12-12",
+   "bbox": [
+    619,
+    492,
+    743,
+    509
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    459,
+    1009,
+    476
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    879,
+    491,
+    995,
+    515
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    99,
+    543,
+    228,
+    565
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    544,
+    592,
+    565
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    650,
+    543,
+    745,
+    565
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    810,
+    543,
+    870,
+    560
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    539,
+    932,
+    560
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    539,
+    1032,
+    560
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1074,
+    543,
+    1141,
+    560
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    515,
+    587,
+    580,
+    604
+   ]
+  },
+  {
+   "text": "6 380",
+   "bbox": [
+    691,
+    588,
+    745,
+    604
+   ]
+  },
+  {
+   "text": "25 520",
+   "bbox": [
+    804,
+    588,
+    870,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    588,
+    932,
+    604
+   ]
+  },
+  {
+   "text": "6 890",
+   "bbox": [
+    977,
+    588,
+    1031,
+    604
+   ]
+  },
+  {
+   "text": "32 410",
+   "bbox": [
+    1075,
+    588,
+    1141,
+    604
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    99,
+    587,
+    360,
+    609
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    515,
+    625,
+    577,
+    642
+   ]
+  },
+  {
+   "text": "12 160",
+   "bbox": [
+    679,
+    626,
+    745,
+    642
+   ]
+  },
+  {
+   "text": "121 600",
+   "bbox": [
+    792,
+    626,
+    870,
+    642
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    626,
+    932,
+    642
+   ]
+  },
+  {
+   "text": "32 832",
+   "bbox": [
+    965,
+    626,
+    1031,
+    642
+   ]
+  },
+  {
+   "text": "154 432",
+   "bbox": [
+    1063,
+    626,
+    1141,
+    642
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    99,
+    625,
+    389,
+    647
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    629,
+    686,
+    811,
+    705
+   ]
+  },
+  {
+   "text": "147 120 Ft",
+   "bbox": [
+    1021,
+    687,
+    1141,
+    705
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    648,
+    721,
+    811,
+    744
+   ]
+  },
+  {
+   "text": "39 722 Ft",
+   "bbox": [
+    1035,
+    726,
+    1141,
+    744
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    573,
+    764,
+    811,
+    783
+   ]
+  },
+  {
+   "text": "186 842 Ft",
+   "bbox": [
+    1013,
+    765,
+    1141,
+    783
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 32364338-98393754-15841597",
+   "bbox": [
+    99,
+    831,
+    621,
+    849
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

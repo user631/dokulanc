@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Budai Sándor",
+  "email": "budai.sandor@freemail.hu",
+  "telefon": "+36 20 773 1437",
+  "lakcim": "H-5440 Kaposvár, Béke utca 138.",
+  "szuletesi_datum": "1989.04.16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2009 – 2014"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kelemen Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "ceg": "Gál és Társa Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Budai Sándor",
+   "bbox": [
+    459,
+    105,
+    781,
+    145
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    174,
+    728,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    169,
+    246
+   ]
+  },
+  {
+   "text": "budai.sandor@freemail.hu",
+   "bbox": [
+    330,
+    229,
+    586,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    261,
+    180,
+    278
+   ]
+  },
+  {
+   "text": "+36 20 773 1437",
+   "bbox": [
+    330,
+    262,
+    499,
+    278
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    292,
+    177,
+    310
+   ]
+  },
+  {
+   "text": "H-5440 Kaposvár, Béke utca 138.",
+   "bbox": [
+    330,
+    292,
+    658,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    324,
+    275,
+    342
+   ]
+  },
+  {
+   "text": "1989.04.16.",
+   "bbox": [
+    330,
+    326,
+    447,
+    342
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    378,
+    357,
+    403
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    430,
+    212,
+    446
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kelemen Kft.",
+   "bbox": [
+    90,
+    455,
+    586,
+    478
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    498,
+    212,
+    514
+   ]
+  },
+  {
+   "text": "adatelemző – Gál és Társa Kft.",
+   "bbox": [
+    90,
+    523,
+    445,
+    541
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    575,
+    269,
+    601
+   ]
+  },
+  {
+   "text": "2009 – 2014",
+   "bbox": [
+    90,
+    628,
+    212,
+    644
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    649,
+    281,
+    676
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    678,
+    348,
+    696
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    722,
+    212,
+    738
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    747,
+    442,
+    770
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    772,
+    175,
+    794
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    825,
+    236,
+    851
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    877,
+    191,
+    898
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    925,
+    225,
+    951
+   ]
+  },
+  {
+   "text": "SAP, C#, ügyfélkezelés",
+   "bbox": [
+    90,
+    976,
+    315,
+    998
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

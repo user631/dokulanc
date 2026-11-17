@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Csonka Mónika",
+  "anyja_neve": "Szabó Katalin",
+  "szuletesi_hely": "Szeged",
+  "szuletesi_datum": "1987.02.27.",
+  "lakcim": "H-5059 Szombathely, Mindszentkövesdi utca 238.",
+  "telefon": "06 1 505 3899",
+  "email": "csonka.monika@outlook.com",
+  "adoazonosito_jel": "8438863955",
+  "taj_szam": "297 023 454",
+  "kelt": "Mellékberény, 2025.07.30."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    478,
+    101,
+    762,
+    133
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    474,
+    160,
+    766,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    214,
+    306,
+    234
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    272,
+    155,
+    286
+   ]
+  },
+  {
+   "text": "Csonka Mónika",
+   "bbox": [
+    448,
+    268,
+    600,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    326,
+    215,
+    344
+   ]
+  },
+  {
+   "text": "Szabó Katalin",
+   "bbox": [
+    448,
+    326,
+    580,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    380,
+    237,
+    398
+   ]
+  },
+  {
+   "text": "Szeged",
+   "bbox": [
+    448,
+    377,
+    516,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    434,
+    228,
+    448
+   ]
+  },
+  {
+   "text": "1987.02.27.",
+   "bbox": [
+    448,
+    434,
+    562,
+    449
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    488,
+    182,
+    502
+   ]
+  },
+  {
+   "text": "H-5059 Szombathely, Mindszentkövesdi utca 238.",
+   "bbox": [
+    448,
+    487,
+    935,
+    507
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    542,
+    228,
+    556
+   ]
+  },
+  {
+   "text": "06 1 505 3899",
+   "bbox": [
+    448,
+    544,
+    583,
+    559
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    596,
+    211,
+    610
+   ]
+  },
+  {
+   "text": "csonka.monika@outlook.com",
+   "bbox": [
+    448,
+    592,
+    742,
+    611
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    650,
+    263,
+    668
+   ]
+  },
+  {
+   "text": "8438863955",
+   "bbox": [
+    448,
+    651,
+    568,
+    666
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    704,
+    199,
+    718
+   ]
+  },
+  {
+   "text": "297 023 454",
+   "bbox": [
+    448,
+    707,
+    566,
+    722
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    782,
+    266,
+    802
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    829,
+    443,
+    847
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    874,
+    287,
+    888
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    919,
+    461,
+    937
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1021,
+    144,
+    1036
+   ]
+  },
+  {
+   "text": "Mellékberény, 2025.07.30.",
+   "bbox": [
+    194,
+    1016,
+    456,
+    1037
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1071,
+    970,
+    1083
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

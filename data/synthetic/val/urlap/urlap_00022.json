@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Katona Zoltán",
+  "anyja_neve": "Török Ágnes",
+  "szuletesi_hely": "Székbánya",
+  "szuletesi_datum": "1951.07.29.",
+  "lakcim": "H-3302 Dunaújváros, Szenti utca 209.",
+  "telefon": "+36 70 101 6352",
+  "email": "katona.zoltan@freemail.hu",
+  "adoazonosito_jel": "8308894068",
+  "taj_szam": "336 190 806",
+  "kelt": "Mátramártonharaszti, 2024.06.10."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    288,
+    93,
+    952,
+    130
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    452,
+    149,
+    788,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    202,
+    350,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    256,
+    150,
+    271
+   ]
+  },
+  {
+   "text": "Katona Zoltán",
+   "bbox": [
+    436,
+    255,
+    591,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    309,
+    220,
+    327
+   ]
+  },
+  {
+   "text": "Török Ágnes",
+   "bbox": [
+    436,
+    302,
+    573,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    360,
+    244,
+    379
+   ]
+  },
+  {
+   "text": "Székbánya",
+   "bbox": [
+    436,
+    361,
+    556,
+    383
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    412,
+    234,
+    427
+   ]
+  },
+  {
+   "text": "1951.07.29.",
+   "bbox": [
+    436,
+    411,
+    572,
+    427
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    464,
+    180,
+    479
+   ]
+  },
+  {
+   "text": "H-3302 Dunaújváros, Szenti utca 209.",
+   "bbox": [
+    436,
+    460,
+    864,
+    482
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    516,
+    233,
+    531
+   ]
+  },
+  {
+   "text": "+36 70 101 6352",
+   "bbox": [
+    436,
+    515,
+    632,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    568,
+    214,
+    583
+   ]
+  },
+  {
+   "text": "katona.zoltan@freemail.hu",
+   "bbox": [
+    436,
+    564,
+    733,
+    584
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    620,
+    272,
+    639
+   ]
+  },
+  {
+   "text": "8308894068",
+   "bbox": [
+    436,
+    623,
+    576,
+    639
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    672,
+    204,
+    687
+   ]
+  },
+  {
+   "text": "336 190 806",
+   "bbox": [
+    436,
+    672,
+    578,
+    688
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    751,
+    297,
+    772
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    794,
+    470,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    839,
+    292,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    884,
+    491,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    987,
+    141,
+    1003
+   ]
+  },
+  {
+   "text": "Mátramártonharaszti, 2024.06.10.",
+   "bbox": [
+    183,
+    983,
+    564,
+    1005
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1036,
+    983,
+    1049
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "RÁCZ KISBOLT KFT.",
+  "uzlet_cim": "H-8647 Szigetszentmiklós, Budai utca 27.",
+  "adoszam": "74107151-2-41",
+  "datum": "2026.06.25.",
+  "ido": "08:02",
+  "nyugtaszam": "4744/57822",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 638 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1239"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "381"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "349"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "669"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ KISBOLT KFT.",
+   "bbox": [
+    151,
+    30,
+    406,
+    50
+   ]
+  },
+  {
+   "text": "H-8647 Szigetszentmiklós, Budai utca",
+   "bbox": [
+    45,
+    65,
+    513,
+    86
+   ]
+  },
+  {
+   "text": "27.",
+   "bbox": [
+    259,
+    94,
+    298,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 74107151-2-41",
+   "bbox": [
+    136,
+    119,
+    422,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    231,
+    165,
+    328,
+    182
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    207,
+    164,
+    224
+   ]
+  },
+  {
+   "text": "1239 B00",
+   "bbox": [
+    423,
+    207,
+    535,
+    224
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    238,
+    178,
+    259
+   ]
+  },
+  {
+   "text": "381 B00",
+   "bbox": [
+    437,
+    238,
+    535,
+    255
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    272,
+    206,
+    286
+   ]
+  },
+  {
+   "text": "349 A00",
+   "bbox": [
+    437,
+    269,
+    535,
+    286
+   ]
+  },
+  {
+   "text": "3 DB x 223",
+   "bbox": [
+    24,
+    300,
+    144,
+    314
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    325,
+    220,
+    346
+   ]
+  },
+  {
+   "text": "669 C00",
+   "bbox": [
+    437,
+    325,
+    535,
+    342
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    367,
+    184,
+    388
+   ]
+  },
+  {
+   "text": "2 638 Ft",
+   "bbox": [
+    407,
+    368,
+    535,
+    388
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    408,
+    164,
+    426
+   ]
+  },
+  {
+   "text": "2 638 Ft",
+   "bbox": [
+    423,
+    409,
+    535,
+    426
+   ]
+  },
+  {
+   "text": "2026.06.25.",
+   "bbox": [
+    24,
+    454,
+    167,
+    469
+   ]
+  },
+  {
+   "text": "08:02",
+   "bbox": [
+    470,
+    454,
+    535,
+    469
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4744/57822",
+   "bbox": [
+    24,
+    483,
+    310,
+    503
+   ]
+  },
+  {
+   "text": "AP A41542768",
+   "bbox": [
+    24,
+    516,
+    180,
+    531
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    181,
+    558,
+    376,
+    575
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  559,
+  620
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ CSEMEGE KFT.",
+  "uzlet_cim": "H-8519 Tótkövesd, Szolnoki út 40.",
+  "adoszam": "67916634-2-36",
+  "datum": "2024.06.25.",
+  "ido": "15:26",
+  "nyugtaszam": "2049/77654",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 820 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3093"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "700"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1165"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "251"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "812"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2622"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "204"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "963"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ CSEMEGE KFT.",
+   "bbox": [
+    172,
+    31,
+    406,
+    48
+   ]
+  },
+  {
+   "text": "H-8519 Tótkövesd, Szolnoki út 40.",
+   "bbox": [
+    107,
+    63,
+    470,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 67916634-2-36",
+   "bbox": [
+    168,
+    87,
+    410,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    128,
+    332,
+    143
+   ]
+  },
+  {
+   "text": "3 DB x 1031",
+   "bbox": [
+    24,
+    168,
+    134,
+    180
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    190,
+    120,
+    204
+   ]
+  },
+  {
+   "text": "3093 C00",
+   "bbox": [
+    458,
+    190,
+    554,
+    204
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    218,
+    120,
+    232
+   ]
+  },
+  {
+   "text": "700 C00",
+   "bbox": [
+    470,
+    218,
+    554,
+    232
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    246,
+    144,
+    260
+   ]
+  },
+  {
+   "text": "1165 A00",
+   "bbox": [
+    458,
+    246,
+    554,
+    260
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    274,
+    192,
+    291
+   ]
+  },
+  {
+   "text": "251 A00",
+   "bbox": [
+    470,
+    274,
+    554,
+    288
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    302,
+    216,
+    316
+   ]
+  },
+  {
+   "text": "812 A00",
+   "bbox": [
+    470,
+    302,
+    554,
+    316
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    330,
+    252,
+    344
+   ]
+  },
+  {
+   "text": "2622 B00",
+   "bbox": [
+    458,
+    330,
+    554,
+    344
+   ]
+  },
+  {
+   "text": "3 DB x 68",
+   "bbox": [
+    24,
+    358,
+    114,
+    370
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    381,
+    96,
+    394
+   ]
+  },
+  {
+   "text": "204 A00",
+   "bbox": [
+    470,
+    380,
+    554,
+    394
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    408,
+    204,
+    422
+   ]
+  },
+  {
+   "text": "963 B00",
+   "bbox": [
+    470,
+    408,
+    554,
+    422
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    446,
+    150,
+    465
+   ]
+  },
+  {
+   "text": "9 820 Ft",
+   "bbox": [
+    442,
+    448,
+    554,
+    465
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    484,
+    156,
+    500
+   ]
+  },
+  {
+   "text": "9 820 Ft",
+   "bbox": [
+    458,
+    486,
+    554,
+    500
+   ]
+  },
+  {
+   "text": "2024.06.25.",
+   "bbox": [
+    24,
+    528,
+    145,
+    541
+   ]
+  },
+  {
+   "text": "15:26",
+   "bbox": [
+    499,
+    528,
+    554,
+    541
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2049/77654",
+   "bbox": [
+    24,
+    555,
+    266,
+    572
+   ]
+  },
+  {
+   "text": "AP A32186230",
+   "bbox": [
+    24,
+    584,
+    156,
+    597
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    234,
+    622,
+    344,
+    637
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  578,
+  682
+ ]
+}

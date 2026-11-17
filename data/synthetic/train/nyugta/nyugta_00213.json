@@ -1,0 +1,339 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR ÉLELMISZER KFT.",
+  "uzlet_cim": "H-5951 Mezőkövesd, Béke utca 234.",
+  "adoszam": "27598605-2-05",
+  "datum": "2025.01.31.",
+  "ido": "20:58",
+  "nyugtaszam": "4775/69818",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 540 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5520"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2598"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2388"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1057"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "836"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "544"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "597"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR ÉLELMISZER KFT.",
+   "bbox": [
+    121,
+    30,
+    430,
+    50
+   ]
+  },
+  {
+   "text": "H-5951 Mezőkövesd, Béke utca 234.",
+   "bbox": [
+    94,
+    66,
+    457,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 27598605-2-05",
+   "bbox": [
+    155,
+    89,
+    397,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    230,
+    133,
+    322,
+    148
+   ]
+  },
+  {
+   "text": "2 DB x 2760",
+   "bbox": [
+    24,
+    174,
+    145,
+    185
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    198,
+    271,
+    211
+   ]
+  },
+  {
+   "text": "5520 B00",
+   "bbox": [
+    424,
+    198,
+    528,
+    211
+   ]
+  },
+  {
+   "text": "2 DB x 1299",
+   "bbox": [
+    24,
+    226,
+    145,
+    237
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    250,
+    154,
+    263
+   ]
+  },
+  {
+   "text": "2598 B00",
+   "bbox": [
+    424,
+    250,
+    528,
+    263
+   ]
+  },
+  {
+   "text": "3 DB x 796",
+   "bbox": [
+    24,
+    278,
+    134,
+    289
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    302,
+    128,
+    315
+   ]
+  },
+  {
+   "text": "2388 A00",
+   "bbox": [
+    424,
+    302,
+    528,
+    315
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    331,
+    180,
+    344
+   ]
+  },
+  {
+   "text": "1057 A00",
+   "bbox": [
+    424,
+    331,
+    528,
+    344
+   ]
+  },
+  {
+   "text": "2 DB x 418",
+   "bbox": [
+    24,
+    359,
+    134,
+    370
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    383,
+    206,
+    396
+   ]
+  },
+  {
+   "text": "836 A00",
+   "bbox": [
+    437,
+    383,
+    528,
+    396
+   ]
+  },
+  {
+   "text": "2 DB x 272",
+   "bbox": [
+    24,
+    411,
+    134,
+    422
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    436,
+    193,
+    448
+   ]
+  },
+  {
+   "text": "544 B00",
+   "bbox": [
+    437,
+    435,
+    528,
+    448
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    464,
+    141,
+    477
+   ]
+  },
+  {
+   "text": "597 C00",
+   "bbox": [
+    437,
+    464,
+    528,
+    477
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    502,
+    159,
+    521
+   ]
+  },
+  {
+   "text": "13 540 Ft",
+   "bbox": [
+    393,
+    505,
+    528,
+    521
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    541,
+    167,
+    557
+   ]
+  },
+  {
+   "text": "13 540 Ft",
+   "bbox": [
+    411,
+    544,
+    528,
+    557
+   ]
+  },
+  {
+   "text": "2025.01.31.",
+   "bbox": [
+    24,
+    586,
+    145,
+    598
+   ]
+  },
+  {
+   "text": "20:58",
+   "bbox": [
+    473,
+    586,
+    528,
+    598
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4775/69818",
+   "bbox": [
+    24,
+    612,
+    266,
+    629
+   ]
+  },
+  {
+   "text": "AP A95836776",
+   "bbox": [
+    24,
+    644,
+    156,
+    656
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    216,
+    683,
+    336,
+    698
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  552,
+  742
+ ]
+}

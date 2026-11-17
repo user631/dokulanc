@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Norbert",
+  "email": "toth.norbert@gmail.com",
+  "telefon": "+36 20 463 8844",
+  "lakcim": "H-6903 Dunafa, Ady endre utca 138.",
+  "szuletesi_datum": "1999.03.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2018 – 2023"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bakos és Társa Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Szűcs Tech Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2022 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "SAP",
+   "Git",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Norbert",
+   "bbox": [
+    457,
+    101,
+    783,
+    137
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    520,
+    170,
+    720,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    173,
+    241
+   ]
+  },
+  {
+   "text": "toth.norbert@gmail.com",
+   "bbox": [
+    330,
+    224,
+    571,
+    246
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    185,
+    273
+   ]
+  },
+  {
+   "text": "+36 20 463 8844",
+   "bbox": [
+    330,
+    257,
+    495,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    182,
+    305
+   ]
+  },
+  {
+   "text": "H-6903 Dunafa, Ady endre utca 138.",
+   "bbox": [
+    330,
+    288,
+    686,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    320,
+    281,
+    337
+   ]
+  },
+  {
+   "text": "1999.03.31.",
+   "bbox": [
+    330,
+    325,
+    440,
+    341
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    353,
+    398
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    424,
+    239,
+    446
+   ]
+  },
+  {
+   "text": "tesztmérnök – Bakos és Társa Zrt.",
+   "bbox": [
+    90,
+    451,
+    496,
+    468
+   ]
+  },
+  {
+   "text": "2022 – jelenleg",
+   "bbox": [
+    90,
+    492,
+    239,
+    514
+   ]
+  },
+  {
+   "text": "irodavezető – Szűcs Tech Zrt.",
+   "bbox": [
+    90,
+    519,
+    438,
+    536
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    570,
+    277,
+    596
+   ]
+  },
+  {
+   "text": "2018 – 2023",
+   "bbox": [
+    90,
+    623,
+    212,
+    643
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    649,
+    410,
+    671
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    674,
+    424,
+    696
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    717,
+    209,
+    737
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    743,
+    387,
+    765
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    768,
+    280,
+    790
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    820,
+    239,
+    846
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    872,
+    190,
+    894
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    920,
+    229,
+    946
+   ]
+  },
+  {
+   "text": "csapatmunka, SAP, Git, JavaScript",
+   "bbox": [
+    90,
+    972,
+    426,
+    994
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

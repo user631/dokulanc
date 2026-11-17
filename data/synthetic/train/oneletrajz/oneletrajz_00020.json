@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Péter Etelka",
+  "email": "peter.etelka@example.hu",
+  "telefon": "+36 20 688 9381",
+  "lakcim": "H-7359 Kunhetvenháza, Arany jános utca 62.",
+  "szuletesi_datum": "1975. június 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "1993 – 1998"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1989 – 1993"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Soós és Társa Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2004 – 2006"
+   },
+   {
+    "ceg": "Szabó Logisztika Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "ceg": "Horváth Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "prezentáció",
+   "SQL",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Péter Etelka",
+   "bbox": [
+    482,
+    118,
+    758,
+    153
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    183,
+    678,
+    212
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    241,
+    163,
+    257
+   ]
+  },
+  {
+   "text": "peter.etelka@example.hu",
+   "bbox": [
+    330,
+    241,
+    577,
+    261
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    273,
+    173,
+    289
+   ]
+  },
+  {
+   "text": "+36 20 688 9381",
+   "bbox": [
+    330,
+    273,
+    493,
+    289
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    304,
+    172,
+    321
+   ]
+  },
+  {
+   "text": "H-7359 Kunhetvenháza, Arany jános utca 62.",
+   "bbox": [
+    330,
+    305,
+    768,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    336,
+    262,
+    353
+   ]
+  },
+  {
+   "text": "1975. június 29.",
+   "bbox": [
+    330,
+    337,
+    483,
+    357
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    390,
+    332,
+    414
+   ]
+  },
+  {
+   "text": "2004 – 2006",
+   "bbox": [
+    90,
+    441,
+    210,
+    457
+   ]
+  },
+  {
+   "text": "értékesítő – Soós és Társa Zrt.",
+   "bbox": [
+    90,
+    467,
+    424,
+    484
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    509,
+    210,
+    525
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó Logisztika Kft.",
+   "bbox": [
+    90,
+    535,
+    484,
+    557
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    577,
+    210,
+    593
+   ]
+  },
+  {
+   "text": "adatelemző – Horváth Szolgáltató Kft.",
+   "bbox": [
+    90,
+    603,
+    503,
+    625
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    656,
+    257,
+    680
+   ]
+  },
+  {
+   "text": "1993 – 1998",
+   "bbox": [
+    90,
+    707,
+    210,
+    723
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    733,
+    467,
+    755
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    759,
+    411,
+    779
+   ]
+  },
+  {
+   "text": "1989 – 1993",
+   "bbox": [
+    90,
+    801,
+    210,
+    817
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    827,
+    427,
+    849
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    853,
+    335,
+    873
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    906,
+    227,
+    930
+   ]
+  },
+  {
+   "text": "német (B2), angol (B2)",
+   "bbox": [
+    90,
+    957,
+    309,
+    977
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1006,
+    223,
+    1030
+   ]
+  },
+  {
+   "text": "Java, prezentáció, SQL, Git",
+   "bbox": [
+    90,
+    1057,
+    356,
+    1077
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

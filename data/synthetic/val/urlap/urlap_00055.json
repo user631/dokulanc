@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Nagy János",
+  "anyja_neve": "Szabó Attila",
+  "szuletesi_hely": "Dunagyörgyvár",
+  "szuletesi_datum": "1989.08.10.",
+  "lakcim": "H-9915 Falu, Ady endre utca 17.",
+  "telefon": "+36 20 986 7286",
+  "email": "nagy.janos@citromail.hu",
+  "adoazonosito_jel": "8447819490",
+  "taj_szam": "274 437 560",
+  "kelt": "Borsodmártonnémeti, 2024.02.25."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    465,
+    99,
+    774,
+    132
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    203,
+    292,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    255,
+    141,
+    268
+   ]
+  },
+  {
+   "text": "Nagy János",
+   "bbox": [
+    426,
+    251,
+    541,
+    275
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    106,
+    306,
+    196,
+    323
+   ]
+  },
+  {
+   "text": "Szabó Attila",
+   "bbox": [
+    426,
+    299,
+    552,
+    318
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    356,
+    215,
+    374
+   ]
+  },
+  {
+   "text": "Dunagyörgyvár",
+   "bbox": [
+    425,
+    353,
+    576,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    407,
+    209,
+    421
+   ]
+  },
+  {
+   "text": "1989.08.10.",
+   "bbox": [
+    425,
+    407,
+    547,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    458,
+    164,
+    472
+   ]
+  },
+  {
+   "text": "H-9915 Falu, Ady endre utca 17.",
+   "bbox": [
+    425,
+    449,
+    741,
+    472
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    509,
+    209,
+    523
+   ]
+  },
+  {
+   "text": "+36 20 986 7286",
+   "bbox": [
+    426,
+    510,
+    620,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    560,
+    192,
+    574
+   ]
+  },
+  {
+   "text": "nagy.janos@citromail.hu",
+   "bbox": [
+    426,
+    556,
+    664,
+    580
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    106,
+    611,
+    244,
+    629
+   ]
+  },
+  {
+   "text": "8447819490",
+   "bbox": [
+    426,
+    609,
+    570,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    663,
+    183,
+    676
+   ]
+  },
+  {
+   "text": "274 437 560",
+   "bbox": [
+    426,
+    660,
+    569,
+    678
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    741,
+    256,
+    762
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    783,
+    411,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    828,
+    263,
+    842
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    139,
+    873,
+    432,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    977,
+    130,
+    991
+   ]
+  },
+  {
+   "text": "Borsodmártonnémeti, 2024.02.25.",
+   "bbox": [
+    183,
+    971,
+    497,
+    989
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    934,
+    1026,
+    977,
+    1037
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

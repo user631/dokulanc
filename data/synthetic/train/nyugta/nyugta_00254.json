@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH MARKET KFT.",
+  "uzlet_cim": "H-4661 Belsőkeresztbánya, Bajai utca 181.",
+  "adoszam": "30924431-5-37",
+  "datum": "2024.09.12.",
+  "ido": "15:53",
+  "nyugtaszam": "1087/14242",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 767 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1277"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "343"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "779"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1128"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2386"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1854"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH MARKET KFT.",
+   "bbox": [
+    172,
+    30,
+    438,
+    50
+   ]
+  },
+  {
+   "text": "H-4661 Belsőkeresztbánya, Bajai utca 181.",
+   "bbox": [
+    59,
+    68,
+    551,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 30924431-5-37",
+   "bbox": [
+    173,
+    91,
+    437,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    137,
+    354,
+    152
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    179,
+    128,
+    193
+   ]
+  },
+  {
+   "text": "1277 A00",
+   "bbox": [
+    483,
+    179,
+    587,
+    193
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    209,
+    167,
+    226
+   ]
+  },
+  {
+   "text": "343 A00",
+   "bbox": [
+    496,
+    209,
+    587,
+    223
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    239,
+    219,
+    253
+   ]
+  },
+  {
+   "text": "779 B00",
+   "bbox": [
+    496,
+    239,
+    587,
+    253
+   ]
+  },
+  {
+   "text": "2 DB x 564",
+   "bbox": [
+    24,
+    268,
+    134,
+    280
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    294,
+    206,
+    307
+   ]
+  },
+  {
+   "text": "1128 B00",
+   "bbox": [
+    483,
+    293,
+    587,
+    307
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    323,
+    141,
+    337
+   ]
+  },
+  {
+   "text": "2386 C00",
+   "bbox": [
+    483,
+    323,
+    587,
+    337
+   ]
+  },
+  {
+   "text": "3 DB x 618",
+   "bbox": [
+    24,
+    352,
+    134,
+    364
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    377,
+    128,
+    391
+   ]
+  },
+  {
+   "text": "1854 B00",
+   "bbox": [
+    483,
+    377,
+    587,
+    391
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    415,
+    184,
+    436
+   ]
+  },
+  {
+   "text": "7 767 Ft",
+   "bbox": [
+    459,
+    420,
+    587,
+    436
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    456,
+    155,
+    473
+   ]
+  },
+  {
+   "text": "7 767 Ft",
+   "bbox": [
+    483,
+    459,
+    587,
+    473
+   ]
+  },
+  {
+   "text": "2024.09.12.",
+   "bbox": [
+    24,
+    502,
+    156,
+    515
+   ]
+  },
+  {
+   "text": "15:53",
+   "bbox": [
+    527,
+    502,
+    587,
+    515
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1087/14242",
+   "bbox": [
+    24,
+    529,
+    288,
+    547
+   ]
+  },
+  {
+   "text": "AP A26386802",
+   "bbox": [
+    24,
+    562,
+    168,
+    575
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    240,
+    603,
+    370,
+    618
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  611,
+  662
+ ]
+}

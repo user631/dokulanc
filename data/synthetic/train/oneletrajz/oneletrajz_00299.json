@@ -1,0 +1,298 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kis Zoltán",
+  "email": "kis.zoltan@outlook.com",
+  "telefon": "+36 30 144 8426",
+  "lakcim": "H-8362 Eger, Hetvenkövesdi utca 103.",
+  "szuletesi_datum": "2003. március 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "ügyfélkezelés",
+   "Git",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    200,
+    126
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    151,
+    98,
+    166
+   ]
+  },
+  {
+   "text": "kis.zoltan@outlook.com",
+   "bbox": [
+    40,
+    175,
+    256,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    112,
+    224
+   ]
+  },
+  {
+   "text": "+36 30 144 8426",
+   "bbox": [
+    40,
+    234,
+    178,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    106,
+    282
+   ]
+  },
+  {
+   "text": "H-8362 Eger, Hetvenkövesdi utca 103.",
+   "bbox": [
+    40,
+    291,
+    379,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    325,
+    192,
+    340
+   ]
+  },
+  {
+   "text": "2003. március 26.",
+   "bbox": [
+    40,
+    348,
+    197,
+    364
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    411,
+    186,
+    432
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    454,
+    155,
+    473
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    509,
+    166,
+    530
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    552,
+    82,
+    567
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    579,
+    166,
+    599
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    608,
+    68,
+    623
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    636,
+    103,
+    655
+   ]
+  },
+  {
+   "text": "Kis Zoltán",
+   "bbox": [
+    450,
+    113,
+    662,
+    147
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    179,
+    574,
+    207
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    246,
+    691,
+    271
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    297,
+    599,
+    319
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Tóth Szolgáltató Kft.",
+   "bbox": [
+    450,
+    323,
+    917,
+    346
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    377,
+    613,
+    401
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    450,
+    428,
+    568,
+    444
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    453,
+    813,
+    476
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    479,
+    610,
+    496
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    522,
+    568,
+    538
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    548,
+    757,
+    570
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    572,
+    539,
+    595
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

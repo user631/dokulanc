@@ -1,0 +1,321 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BOGNÁR DISZKONT BT.",
+  "uzlet_cim": "H-9856 Békésszékváros, Újfürdői utca 244.",
+  "adoszam": "52663828-2-35",
+  "datum": "2025.02.10.",
+  "ido": "12:33",
+  "nyugtaszam": "7971/92293",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 132 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "671"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "486"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "644"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1514"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "201"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "824"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "792"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOGNÁR DISZKONT BT.",
+   "bbox": [
+    139,
+    30,
+    405,
+    50
+   ]
+  },
+  {
+   "text": "H-9856 Békésszékváros, Újfürdői utca 244.",
+   "bbox": [
+    26,
+    65,
+    518,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 52663828-2-35",
+   "bbox": [
+    140,
+    91,
+    404,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    137,
+    321,
+    152
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    179,
+    167,
+    193
+   ]
+  },
+  {
+   "text": "671 B00",
+   "bbox": [
+    429,
+    179,
+    520,
+    193
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    209,
+    206,
+    223
+   ]
+  },
+  {
+   "text": "486 A00",
+   "bbox": [
+    429,
+    209,
+    520,
+    223
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    239,
+    128,
+    253
+   ]
+  },
+  {
+   "text": "644 A00",
+   "bbox": [
+    429,
+    239,
+    520,
+    253
+   ]
+  },
+  {
+   "text": "2 DB x 757",
+   "bbox": [
+    24,
+    268,
+    134,
+    280
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    293,
+    128,
+    307
+   ]
+  },
+  {
+   "text": "1514 B00",
+   "bbox": [
+    416,
+    293,
+    520,
+    307
+   ]
+  },
+  {
+   "text": "3 DB x 67",
+   "bbox": [
+    24,
+    322,
+    123,
+    334
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    348,
+    102,
+    361
+   ]
+  },
+  {
+   "text": "201 A00",
+   "bbox": [
+    429,
+    347,
+    520,
+    361
+   ]
+  },
+  {
+   "text": "2 DB x 412",
+   "bbox": [
+    24,
+    376,
+    134,
+    388
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    401,
+    141,
+    415
+   ]
+  },
+  {
+   "text": "824 A00",
+   "bbox": [
+    429,
+    401,
+    520,
+    415
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    431,
+    219,
+    445
+   ]
+  },
+  {
+   "text": "792 C00",
+   "bbox": [
+    429,
+    431,
+    520,
+    445
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    469,
+    184,
+    490
+   ]
+  },
+  {
+   "text": "5 132 Ft",
+   "bbox": [
+    392,
+    474,
+    520,
+    490
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    510,
+    155,
+    527
+   ]
+  },
+  {
+   "text": "5 132 Ft",
+   "bbox": [
+    416,
+    513,
+    520,
+    527
+   ]
+  },
+  {
+   "text": "2025.02.10.",
+   "bbox": [
+    24,
+    556,
+    156,
+    569
+   ]
+  },
+  {
+   "text": "12:33",
+   "bbox": [
+    460,
+    556,
+    520,
+    569
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7971/92293",
+   "bbox": [
+    24,
+    583,
+    288,
+    601
+   ]
+  },
+  {
+   "text": "AP A72674042",
+   "bbox": [
+    24,
+    616,
+    168,
+    629
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    207,
+    657,
+    337,
+    672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  544,
+  716
+ ]
+}

@@ -1,0 +1,442 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR DISZKONT KFT.",
+  "uzlet_cim": "H-2257 Pilisszékhida, Veszprémi utca 16.",
+  "adoszam": "14940019-3-38",
+  "datum": "2024.12.16.",
+  "ido": "20:29",
+  "nyugtaszam": "4933/55949",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "21 841 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "391"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2500"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "343"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7605"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1530"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1074"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1362"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1148"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1638"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "439"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "957"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1854"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR DISZKONT KFT.",
+   "bbox": [
+    181,
+    31,
+    441,
+    48
+   ]
+  },
+  {
+   "text": "H-2257 Pilisszékhida, Veszprémi utca 16.",
+   "bbox": [
+    91,
+    63,
+    531,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 14940019-3-38",
+   "bbox": [
+    190,
+    87,
+    432,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    128,
+    354,
+    143
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    168,
+    156,
+    182
+   ]
+  },
+  {
+   "text": "391 B00",
+   "bbox": [
+    515,
+    168,
+    599,
+    182
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    196,
+    252,
+    210
+   ]
+  },
+  {
+   "text": "2500 C00",
+   "bbox": [
+    503,
+    196,
+    599,
+    210
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    225,
+    180,
+    238
+   ]
+  },
+  {
+   "text": "343 C00",
+   "bbox": [
+    515,
+    224,
+    599,
+    238
+   ]
+  },
+  {
+   "text": "3 DB x 2535",
+   "bbox": [
+    24,
+    252,
+    134,
+    264
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    274,
+    132,
+    288
+   ]
+  },
+  {
+   "text": "7605 B00",
+   "bbox": [
+    503,
+    274,
+    599,
+    288
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    302,
+    144,
+    316
+   ]
+  },
+  {
+   "text": "1530 B00",
+   "bbox": [
+    503,
+    302,
+    599,
+    316
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    330,
+    168,
+    344
+   ]
+  },
+  {
+   "text": "1074 C00",
+   "bbox": [
+    503,
+    330,
+    599,
+    344
+   ]
+  },
+  {
+   "text": "2 DB x 681",
+   "bbox": [
+    24,
+    358,
+    124,
+    370
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    380,
+    192,
+    394
+   ]
+  },
+  {
+   "text": "1362 A00",
+   "bbox": [
+    503,
+    380,
+    599,
+    394
+   ]
+  },
+  {
+   "text": "2 DB x 574",
+   "bbox": [
+    24,
+    408,
+    124,
+    420
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    431,
+    192,
+    444
+   ]
+  },
+  {
+   "text": "1148 A00",
+   "bbox": [
+    503,
+    430,
+    599,
+    444
+   ]
+  },
+  {
+   "text": "2 DB x 819",
+   "bbox": [
+    24,
+    458,
+    124,
+    470
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    480,
+    132,
+    494
+   ]
+  },
+  {
+   "text": "1638 B00",
+   "bbox": [
+    503,
+    480,
+    599,
+    494
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    508,
+    156,
+    525
+   ]
+  },
+  {
+   "text": "439 C00",
+   "bbox": [
+    515,
+    508,
+    599,
+    522
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    536,
+    120,
+    550
+   ]
+  },
+  {
+   "text": "957 A00",
+   "bbox": [
+    515,
+    536,
+    599,
+    550
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    565,
+    144,
+    578
+   ]
+  },
+  {
+   "text": "1854 C00",
+   "bbox": [
+    503,
+    564,
+    599,
+    578
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    602,
+    164,
+    621
+   ]
+  },
+  {
+   "text": "21 841 Ft",
+   "bbox": [
+    473,
+    604,
+    599,
+    621
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    640,
+    156,
+    656
+   ]
+  },
+  {
+   "text": "21 841 Ft",
+   "bbox": [
+    491,
+    642,
+    599,
+    656
+   ]
+  },
+  {
+   "text": "2024.12.16.",
+   "bbox": [
+    24,
+    684,
+    145,
+    697
+   ]
+  },
+  {
+   "text": "20:29",
+   "bbox": [
+    544,
+    684,
+    599,
+    697
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4933/55949",
+   "bbox": [
+    24,
+    711,
+    266,
+    728
+   ]
+  },
+  {
+   "text": "AP A31607149",
+   "bbox": [
+    24,
+    740,
+    156,
+    753
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    190,
+    778,
+    432,
+    793
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  623,
+  838
+ ]
+}

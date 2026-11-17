@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2026/01154",
+  "kiallitas_datuma": "2026.05.19.",
+  "teljesites_datuma": "2026.05.14.",
+  "fizetesi_hatarido": "2026.06.18.",
+  "elado_nev": "Balla Tech Kft.",
+  "elado_cim": "H-3677 Alsótapolcaháza, Tiszatamásii utca 41.",
+  "elado_adoszam": "95482848-2-30",
+  "vevo_nev": "Nagy Anett",
+  "vevo_cim": "H-5272 Nyíregyháza, Mátratóti utca 196.",
+  "vevo_adoszam": null,
+  "bankszamla": "75077882-27353807-57340882",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "28 990 Ft",
+  "afa_osszesen": "7 827 Ft",
+  "brutto_osszesen": "36 817 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "2 830",
+    "netto": "8 490",
+    "afa_kulcs": "27%",
+    "afa": "2 292",
+    "brutto": "10 782"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "20 500",
+    "netto": "20 500",
+    "afa_kulcs": "27%",
+    "afa": "5 535",
+    "brutto": "26 035"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALLA",
+   "bbox": [
+    147,
+    135,
+    210,
+    150
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    777,
+    111,
+    1141,
+    142
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/01154",
+   "bbox": [
+    866,
+    170,
+    1141,
+    193
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    99,
+    252,
+    160,
+    269
+   ]
+  },
+  {
+   "text": "Nagy Anett",
+   "bbox": [
+    99,
+    291,
+    220,
+    312
+   ]
+  },
+  {
+   "text": "H-5272 Nyíregyháza, Mátratóti utca 196.",
+   "bbox": [
+    99,
+    324,
+    497,
+    345
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    251,
+    697,
+    269
+   ]
+  },
+  {
+   "text": "Balla Tech Kft.",
+   "bbox": [
+    630,
+    289,
+    784,
+    307
+   ]
+  },
+  {
+   "text": "H-3677 Alsótapolcaháza, Tiszatamásii utca 41.",
+   "bbox": [
+    630,
+    324,
+    1081,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 95482848-2-30",
+   "bbox": [
+    630,
+    356,
+    876,
+    373
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    99,
+    427,
+    236,
+    441
+   ]
+  },
+  {
+   "text": "2026.05.19.",
+   "bbox": [
+    99,
+    458,
+    213,
+    473
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    427,
+    511,
+    445
+   ]
+  },
+  {
+   "text": "2026.05.14.",
+   "bbox": [
+    359,
+    458,
+    473,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    427,
+    761,
+    441
+   ]
+  },
+  {
+   "text": "2026.06.18.",
+   "bbox": [
+    619,
+    458,
+    733,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    427,
+    988,
+    441
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    879,
+    456,
+    954,
+    473
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    99,
+    509,
+    208,
+    527
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    510,
+    582,
+    527
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    669,
+    509,
+    746,
+    527
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    509,
+    870,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    506,
+    932,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    506,
+    1031,
+    523
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    509,
+    1141,
+    523
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    515,
+    552,
+    599,
+    566
+   ]
+  },
+  {
+   "text": "2 830",
+   "bbox": [
+    696,
+    553,
+    745,
+    566
+   ]
+  },
+  {
+   "text": "8 490",
+   "bbox": [
+    821,
+    553,
+    870,
+    566
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    552,
+    932,
+    566
+   ]
+  },
+  {
+   "text": "2 292",
+   "bbox": [
+    982,
+    553,
+    1031,
+    566
+   ]
+  },
+  {
+   "text": "10 782",
+   "bbox": [
+    1081,
+    553,
+    1141,
+    566
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    99,
+    552,
+    198,
+    570
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    589,
+    559,
+    603
+   ]
+  },
+  {
+   "text": "20 500",
+   "bbox": [
+    685,
+    590,
+    745,
+    603
+   ]
+  },
+  {
+   "text": "20 500",
+   "bbox": [
+    810,
+    590,
+    870,
+    603
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    589,
+    932,
+    603
+   ]
+  },
+  {
+   "text": "5 535",
+   "bbox": [
+    982,
+    590,
+    1031,
+    603
+   ]
+  },
+  {
+   "text": "26 035",
+   "bbox": [
+    1081,
+    590,
+    1141,
+    603
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    99,
+    589,
+    196,
+    603
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    651,
+    645,
+    811,
+    663
+   ]
+  },
+  {
+   "text": "28 990 Ft",
+   "bbox": [
+    1045,
+    647,
+    1141,
+    663
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    669,
+    680,
+    811,
+    701
+   ]
+  },
+  {
+   "text": "7 827 Ft",
+   "bbox": [
+    1058,
+    685,
+    1141,
+    701
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    626,
+    721,
+    811,
+    743
+   ]
+  },
+  {
+   "text": "36 817 Ft",
+   "bbox": [
+    1044,
+    723,
+    1141,
+    739
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 75077882-27353807-57340882",
+   "bbox": [
+    99,
+    789,
+    568,
+    806
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    424,
+    1636,
+    816,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

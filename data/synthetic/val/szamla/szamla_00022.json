@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2025/07036",
+  "kiallitas_datuma": "2025. február 10.",
+  "teljesites_datuma": "2025. február 6.",
+  "fizetesi_hatarido": "2025. február 18.",
+  "elado_nev": "Németh Logisztika Kft.",
+  "elado_cim": "H-5949 Hetvendevecser, Dunakeszii utca 100.",
+  "elado_adoszam": "89536209-5-05",
+  "vevo_nev": "Bogdán Tech Kft.",
+  "vevo_cim": "H-7165 Tamásinémeti, Hajdúhetveni utca 233.",
+  "vevo_adoszam": "64408523-5-44",
+  "bankszamla": "95881340-90366598",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "58 300 Ft",
+  "afa_osszesen": "15 742 Ft",
+  "brutto_osszesen": "74 042 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "4 400",
+    "netto": "4 400",
+    "afa_kulcs": "27%",
+    "afa": "1 188",
+    "brutto": "5 588"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "6 050",
+    "netto": "6 050",
+    "afa_kulcs": "27%",
+    "afa": "1 634",
+    "brutto": "7 684"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "47 850",
+    "netto": "47 850",
+    "afa_kulcs": "27%",
+    "afa": "12 920",
+    "brutto": "60 770"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH",
+   "bbox": [
+    128,
+    128,
+    221,
+    149
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    792,
+    106,
+    1145,
+    145
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/07036",
+   "bbox": [
+    889,
+    169,
+    1145,
+    188
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    95,
+    250,
+    166,
+    268
+   ]
+  },
+  {
+   "text": "Németh Logisztika Kft.",
+   "bbox": [
+    95,
+    286,
+    353,
+    309
+   ]
+  },
+  {
+   "text": "H-5949 Hetvendevecser, Dunakeszii utca 100.",
+   "bbox": [
+    95,
+    319,
+    551,
+    340
+   ]
+  },
+  {
+   "text": "Adószám: 89536209-5-05",
+   "bbox": [
+    95,
+    348,
+    344,
+    366
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    251,
+    695,
+    268
+   ]
+  },
+  {
+   "text": "Bogdán Tech Kft.",
+   "bbox": [
+    630,
+    286,
+    823,
+    309
+   ]
+  },
+  {
+   "text": "H-7165 Tamásinémeti, Hajdúhetveni utca 233.",
+   "bbox": [
+    630,
+    318,
+    1095,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 64408523-5-44",
+   "bbox": [
+    630,
+    348,
+    879,
+    366
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    95,
+    417,
+    270,
+    434
+   ]
+  },
+  {
+   "text": "2025. február 10.",
+   "bbox": [
+    395,
+    416,
+    571,
+    434
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    95,
+    449,
+    288,
+    471
+   ]
+  },
+  {
+   "text": "2025. február 6.",
+   "bbox": [
+    395,
+    448,
+    559,
+    466
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    95,
+    481,
+    280,
+    498
+   ]
+  },
+  {
+   "text": "2025. február 18.",
+   "bbox": [
+    395,
+    480,
+    571,
+    498
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    95,
+    513,
+    237,
+    530
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    395,
+    512,
+    506,
+    535
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    95,
+    557,
+    202,
+    575
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    557,
+    579,
+    575
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    668,
+    557,
+    746,
+    575
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    821,
+    557,
+    872,
+    571
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    553,
+    935,
+    571
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    553,
+    1034,
+    571
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1088,
+    557,
+    1145,
+    571
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    515,
+    598,
+    599,
+    612
+   ]
+  },
+  {
+   "text": "4 400",
+   "bbox": [
+    700,
+    598,
+    746,
+    612
+   ]
+  },
+  {
+   "text": "4 400",
+   "bbox": [
+    826,
+    598,
+    872,
+    612
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    598,
+    935,
+    612
+   ]
+  },
+  {
+   "text": "1 188",
+   "bbox": [
+    988,
+    598,
+    1034,
+    612
+   ]
+  },
+  {
+   "text": "5 588",
+   "bbox": [
+    1099,
+    598,
+    1145,
+    612
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    95,
+    597,
+    200,
+    616
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    633,
+    553,
+    647
+   ]
+  },
+  {
+   "text": "6 050",
+   "bbox": [
+    700,
+    633,
+    746,
+    647
+   ]
+  },
+  {
+   "text": "6 050",
+   "bbox": [
+    826,
+    633,
+    872,
+    647
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    633,
+    935,
+    647
+   ]
+  },
+  {
+   "text": "1 634",
+   "bbox": [
+    988,
+    633,
+    1034,
+    647
+   ]
+  },
+  {
+   "text": "7 684",
+   "bbox": [
+    1099,
+    633,
+    1145,
+    647
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    95,
+    633,
+    241,
+    651
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    515,
+    667,
+    551,
+    682
+   ]
+  },
+  {
+   "text": "47 850",
+   "bbox": [
+    690,
+    668,
+    746,
+    682
+   ]
+  },
+  {
+   "text": "47 850",
+   "bbox": [
+    816,
+    668,
+    872,
+    682
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    668,
+    935,
+    682
+   ]
+  },
+  {
+   "text": "12 920",
+   "bbox": [
+    978,
+    668,
+    1034,
+    682
+   ]
+  },
+  {
+   "text": "60 770",
+   "bbox": [
+    1089,
+    668,
+    1145,
+    682
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    95,
+    667,
+    250,
+    686
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    653,
+    723,
+    815,
+    741
+   ]
+  },
+  {
+   "text": "58 300 Ft",
+   "bbox": [
+    1050,
+    725,
+    1145,
+    741
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    756,
+    815,
+    777
+   ]
+  },
+  {
+   "text": "15 742 Ft",
+   "bbox": [
+    1050,
+    761,
+    1145,
+    777
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    698,
+    795,
+    815,
+    818
+   ]
+  },
+  {
+   "text": "74 042 Ft",
+   "bbox": [
+    1044,
+    797,
+    1145,
+    813
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 95881340-90366598",
+   "bbox": [
+    95,
+    861,
+    449,
+    877
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    486,
+    1641,
+    753,
+    1658
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

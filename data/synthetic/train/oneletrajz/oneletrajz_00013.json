@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fülöp Vilmos",
+  "email": "fulop.vilmos@example.hu",
+  "telefon": "06 1 553 3638",
+  "lakcim": "H-3121 Tótfalva, Székfai utca 24.",
+  "szuletesi_datum": "1981. december 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2001 – 2005"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "ceg": "Balogh Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2006 – 2008"
+   },
+   {
+    "ceg": "Székely Szolgáltató Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Java",
+   "SAP",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Fülöp Vilmos",
+   "bbox": [
+    490,
+    102,
+    749,
+    144
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    521,
+    175,
+    718,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    153,
+    244
+   ]
+  },
+  {
+   "text": "fulop.vilmos@example.hu",
+   "bbox": [
+    330,
+    229,
+    571,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    261,
+    165,
+    276
+   ]
+  },
+  {
+   "text": "06 1 553 3638",
+   "bbox": [
+    330,
+    262,
+    455,
+    276
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    159,
+    308
+   ]
+  },
+  {
+   "text": "H-3121 Tótfalva, Székfai utca 24.",
+   "bbox": [
+    330,
+    292,
+    624,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    242,
+    340
+   ]
+  },
+  {
+   "text": "1981. december 22.",
+   "bbox": [
+    330,
+    325,
+    510,
+    340
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    302,
+    400
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    430,
+    199,
+    444
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy és Társa Bt.",
+   "bbox": [
+    90,
+    455,
+    429,
+    475
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    90,
+    498,
+    199,
+    512
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Balogh Logisztika Kft.",
+   "bbox": [
+    89,
+    523,
+    455,
+    543
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    90,
+    566,
+    199,
+    580
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Székely Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    591,
+    585,
+    611
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    643,
+    237,
+    666
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    696,
+    199,
+    710
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    718,
+    248,
+    741
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    746,
+    325,
+    766
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    790,
+    199,
+    804
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    815,
+    370,
+    835
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    841,
+    268,
+    860
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    893,
+    210,
+    916
+   ]
+  },
+  {
+   "text": "angol (B2), angol (C1)",
+   "bbox": [
+    90,
+    945,
+    284,
+    964
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    993,
+    198,
+    1016
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, Java, SAP, C#",
+   "bbox": [
+    90,
+    1044,
+    435,
+    1064
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

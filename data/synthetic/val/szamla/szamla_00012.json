@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2024/09279",
+  "kiallitas_datuma": "2024-04-05",
+  "teljesites_datuma": "2024-04-05",
+  "fizetesi_hatarido": "2024-05-05",
+  "elado_nev": "Oláh és Társa Zrt.",
+  "elado_cim": "H-5922 Kisgyörgyapáti, Egeri utca 183.",
+  "elado_adoszam": "94385827-3-26",
+  "vevo_nev": "Lukács Tech Kft.",
+  "vevo_cim": "H-3578 Kismártonharaszti, Rácligeti tér 186.",
+  "vevo_adoszam": "30612439-5-51",
+  "bankszamla": "47086780-82729166-14947936",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "123 840 Ft",
+  "afa_osszesen": "31 461 Ft",
+  "brutto_osszesen": "155 301 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "4 csomag",
+    "egysegar": "5 490",
+    "netto": "21 960",
+    "afa_kulcs": "18%",
+    "afa": "3 953",
+    "brutto": "25 913"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "10 csomag",
+    "egysegar": "2 740",
+    "netto": "27 400",
+    "afa_kulcs": "27%",
+    "afa": "7 398",
+    "brutto": "34 798"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "37 240",
+    "netto": "74 480",
+    "afa_kulcs": "27%",
+    "afa": "20 110",
+    "brutto": "94 590"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    551,
+    78,
+    689,
+    111
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2024/09279",
+   "bbox": [
+    469,
+    142,
+    771,
+    161
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    81,
+    223,
+    133,
+    238
+   ]
+  },
+  {
+   "text": "Lukács Tech Kft.",
+   "bbox": [
+    81,
+    257,
+    228,
+    272
+   ]
+  },
+  {
+   "text": "H-3578 Kismártonharaszti, Rácligeti tér 186.",
+   "bbox": [
+    81,
+    288,
+    444,
+    306
+   ]
+  },
+  {
+   "text": "Adószám: 30612439-5-51",
+   "bbox": [
+    81,
+    316,
+    289,
+    330
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    223,
+    687,
+    238
+   ]
+  },
+  {
+   "text": "Oláh és Társa Zrt.",
+   "bbox": [
+    630,
+    257,
+    791,
+    272
+   ]
+  },
+  {
+   "text": "H-5922 Kisgyörgyapáti, Egeri utca 183.",
+   "bbox": [
+    630,
+    289,
+    945,
+    306
+   ]
+  },
+  {
+   "text": "Adószám: 94385827-3-26",
+   "bbox": [
+    630,
+    316,
+    838,
+    330
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    81,
+    382,
+    193,
+    394
+   ]
+  },
+  {
+   "text": "2024-04-05",
+   "bbox": [
+    81,
+    410,
+    173,
+    422
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    382,
+    475,
+    397
+   ]
+  },
+  {
+   "text": "2024-04-05",
+   "bbox": [
+    350,
+    410,
+    442,
+    422
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    382,
+    736,
+    394
+   ]
+  },
+  {
+   "text": "2024-05-05",
+   "bbox": [
+    619,
+    410,
+    711,
+    422
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    382,
+    978,
+    394
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    888,
+    409,
+    949,
+    422
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    456,
+    171,
+    471
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    457,
+    567,
+    471
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    687,
+    456,
+    749,
+    471
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    837,
+    456,
+    878,
+    468
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    903,
+    453,
+    943,
+    468
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1017,
+    453,
+    1045,
+    468
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1113,
+    456,
+    1159,
+    468
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    512,
+    496,
+    578,
+    510
+   ]
+  },
+  {
+   "text": "5 490",
+   "bbox": [
+    709,
+    496,
+    749,
+    507
+   ]
+  },
+  {
+   "text": "21 960",
+   "bbox": [
+    829,
+    496,
+    878,
+    507
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    913,
+    496,
+    943,
+    507
+   ]
+  },
+  {
+   "text": "3 953",
+   "bbox": [
+    1005,
+    496,
+    1045,
+    507
+   ]
+  },
+  {
+   "text": "25 913",
+   "bbox": [
+    1110,
+    496,
+    1159,
+    507
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    81,
+    495,
+    208,
+    510
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    512,
+    529,
+    587,
+    543
+   ]
+  },
+  {
+   "text": "2 740",
+   "bbox": [
+    709,
+    529,
+    749,
+    540
+   ]
+  },
+  {
+   "text": "27 400",
+   "bbox": [
+    829,
+    529,
+    878,
+    540
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    529,
+    943,
+    540
+   ]
+  },
+  {
+   "text": "7 398",
+   "bbox": [
+    1005,
+    529,
+    1045,
+    540
+   ]
+  },
+  {
+   "text": "34 798",
+   "bbox": [
+    1110,
+    529,
+    1159,
+    540
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    81,
+    528,
+    267,
+    543
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    512,
+    561,
+    580,
+    573
+   ]
+  },
+  {
+   "text": "37 240",
+   "bbox": [
+    700,
+    562,
+    749,
+    573
+   ]
+  },
+  {
+   "text": "74 480",
+   "bbox": [
+    829,
+    562,
+    878,
+    573
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    913,
+    562,
+    943,
+    573
+   ]
+  },
+  {
+   "text": "20 110",
+   "bbox": [
+    996,
+    562,
+    1045,
+    573
+   ]
+  },
+  {
+   "text": "94 590",
+   "bbox": [
+    1110,
+    562,
+    1159,
+    573
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    81,
+    561,
+    234,
+    576
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    695,
+    615,
+    829,
+    629
+   ]
+  },
+  {
+   "text": "123 840 Ft",
+   "bbox": [
+    1066,
+    616,
+    1159,
+    629
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    710,
+    646,
+    829,
+    663
+   ]
+  },
+  {
+   "text": "31 461 Ft",
+   "bbox": [
+    1077,
+    650,
+    1159,
+    663
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    657,
+    683,
+    829,
+    697
+   ]
+  },
+  {
+   "text": "155 301 Ft",
+   "bbox": [
+    1066,
+    684,
+    1159,
+    697
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 47086780-82729166-14947936",
+   "bbox": [
+    81,
+    747,
+    473,
+    760
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    81,
+    774,
+    526,
+    788
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

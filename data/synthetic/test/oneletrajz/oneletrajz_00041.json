@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Ilona",
+  "email": "horvath.ilona@example.hu",
+  "telefon": "+36 20 347 8239",
+  "lakcim": "H-2707 Ligetberény, Szabadság tér 246.",
+  "szuletesi_datum": "1988. november 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szilágyi és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2016 – 2017"
+   },
+   {
+    "ceg": "Pintér Consulting Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "ügyfélkezelés",
+   "Java",
+   "csapatmunka",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    207,
+    109
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    101,
+    146
+   ]
+  },
+  {
+   "text": "horvath.ilona@example.hu",
+   "bbox": [
+    40,
+    154,
+    271,
+    170
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    185,
+    111,
+    198
+   ]
+  },
+  {
+   "text": "+36 20 347 8239",
+   "bbox": [
+    40,
+    207,
+    193,
+    219
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    236,
+    107,
+    250
+   ]
+  },
+  {
+   "text": "H-2707 Ligetberény, Szabadság tér",
+   "bbox": [
+    40,
+    257,
+    348,
+    274
+   ]
+  },
+  {
+   "text": "246.",
+   "bbox": [
+    40,
+    280,
+    79,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    309,
+    193,
+    323
+   ]
+  },
+  {
+   "text": "1988. november 5.",
+   "bbox": [
+    40,
+    331,
+    205,
+    344
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    388,
+    195,
+    409
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    429,
+    146,
+    447
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    480,
+    177,
+    501
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    522,
+    66,
+    535
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    546,
+    162,
+    564
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    572,
+    81,
+    585
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    596,
+    160,
+    614
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    622,
+    88,
+    635
+   ]
+  },
+  {
+   "text": "Horváth Ilona",
+   "bbox": [
+    450,
+    96,
+    788,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    164,
+    644,
+    182
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    225,
+    707,
+    248
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    450,
+    274,
+    572,
+    288
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szilágyi és Társa Kft.",
+   "bbox": [
+    450,
+    295,
+    852,
+    316
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    336,
+    572,
+    350
+   ]
+  },
+  {
+   "text": "projektmenedzser – Pintér Consulting Kft.",
+   "bbox": [
+    450,
+    357,
+    921,
+    378
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    408,
+    623,
+    431
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    457,
+    572,
+    471
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    478,
+    757,
+    499
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    502,
+    772,
+    521
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    542,
+    572,
+    556
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    563,
+    722,
+    584
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    587,
+    635,
+    606
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

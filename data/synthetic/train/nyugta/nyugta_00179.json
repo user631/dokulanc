@@ -1,0 +1,458 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BARTA CSEMEGE BT.",
+  "uzlet_cim": "H-9087 Mindszentkőrös, Hetvenvárosi utca 60.",
+  "adoszam": "92877513-2-05",
+  "datum": "2025.02.08.",
+  "ido": "18:39",
+  "nyugtaszam": "2585/51886",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "16 283 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2166"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "176"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "665"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2656"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1786"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1047"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "248"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "747"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "2004"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1032"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2985"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "771"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BARTA CSEMEGE BT.",
+   "bbox": [
+    177,
+    35,
+    415,
+    49
+   ]
+  },
+  {
+   "text": "H-9087 Mindszentkőrös, Hetvenvárosi utca 60.",
+   "bbox": [
+    54,
+    63,
+    538,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 92877513-2-05",
+   "bbox": [
+    175,
+    88,
+    417,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    131,
+    341,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 722",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    195,
+    232,
+    210
+   ]
+  },
+  {
+   "text": "2166 A00",
+   "bbox": [
+    465,
+    195,
+    569,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 88",
+   "bbox": [
+    24,
+    224,
+    123,
+    237
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    249,
+    102,
+    262
+   ]
+  },
+  {
+   "text": "176 C00",
+   "bbox": [
+    478,
+    247,
+    569,
+    262
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    276,
+    167,
+    291
+   ]
+  },
+  {
+   "text": "665 C00",
+   "bbox": [
+    478,
+    276,
+    569,
+    291
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    305,
+    141,
+    320
+   ]
+  },
+  {
+   "text": "2656 B00",
+   "bbox": [
+    465,
+    305,
+    569,
+    320
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    336,
+    154,
+    349
+   ]
+  },
+  {
+   "text": "1786 A00",
+   "bbox": [
+    465,
+    334,
+    569,
+    349
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    365,
+    193,
+    378
+   ]
+  },
+  {
+   "text": "1047 B00",
+   "bbox": [
+    465,
+    363,
+    569,
+    378
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    392,
+    206,
+    410
+   ]
+  },
+  {
+   "text": "248 B00",
+   "bbox": [
+    478,
+    392,
+    569,
+    407
+   ]
+  },
+  {
+   "text": "3 DB x 249",
+   "bbox": [
+    24,
+    421,
+    134,
+    434
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    446,
+    193,
+    459
+   ]
+  },
+  {
+   "text": "747 A00",
+   "bbox": [
+    478,
+    444,
+    569,
+    459
+   ]
+  },
+  {
+   "text": "3 DB x 668",
+   "bbox": [
+    24,
+    473,
+    134,
+    486
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    496,
+    206,
+    511
+   ]
+  },
+  {
+   "text": "2004 A00",
+   "bbox": [
+    465,
+    496,
+    569,
+    511
+   ]
+  },
+  {
+   "text": "2 DB x 516",
+   "bbox": [
+    24,
+    525,
+    134,
+    538
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    550,
+    206,
+    563
+   ]
+  },
+  {
+   "text": "1032 C00",
+   "bbox": [
+    465,
+    548,
+    569,
+    563
+   ]
+  },
+  {
+   "text": "3 DB x 995",
+   "bbox": [
+    24,
+    577,
+    134,
+    590
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    600,
+    219,
+    615
+   ]
+  },
+  {
+   "text": "2985 A00",
+   "bbox": [
+    465,
+    600,
+    569,
+    615
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    629,
+    141,
+    644
+   ]
+  },
+  {
+   "text": "771 C00",
+   "bbox": [
+    478,
+    629,
+    569,
+    644
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    668,
+    174,
+    688
+   ]
+  },
+  {
+   "text": "16 283 Ft",
+   "bbox": [
+    434,
+    670,
+    569,
+    688
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    707,
+    154,
+    724
+   ]
+  },
+  {
+   "text": "16 283 Ft",
+   "bbox": [
+    452,
+    709,
+    569,
+    724
+   ]
+  },
+  {
+   "text": "2025.02.08.",
+   "bbox": [
+    24,
+    751,
+    145,
+    765
+   ]
+  },
+  {
+   "text": "18:39",
+   "bbox": [
+    514,
+    751,
+    569,
+    765
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2585/51886",
+   "bbox": [
+    24,
+    779,
+    266,
+    797
+   ]
+  },
+  {
+   "text": "AP A54977199",
+   "bbox": [
+    24,
+    809,
+    156,
+    823
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    164,
+    849,
+    428,
+    865
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  593,
+  910
+ ]
+}

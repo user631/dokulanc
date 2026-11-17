@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Balogh Mária",
+  "anyja_neve": "Molnár György",
+  "szuletesi_hely": "Mezőtapolcaharaszti",
+  "szuletesi_datum": "1978. 06. 18.",
+  "lakcim": "H-1243 Mosonmagyaróvár, Nyírszéki utca 211.",
+  "telefon": "+36 30 568 2084",
+  "email": "balogh.maria@example.hu",
+  "adoazonosito_jel": "8407104671",
+  "taj_szam": "394 099 098",
+  "kelt": "Székváros, 2026. 05. 29."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    546,
+    113,
+    695,
+    138
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    482,
+    159,
+    758,
+    175
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    211,
+    305,
+    231
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    264,
+    154,
+    278
+   ]
+  },
+  {
+   "text": "Balogh Mária",
+   "bbox": [
+    427,
+    263,
+    565,
+    287
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    316,
+    214,
+    333
+   ]
+  },
+  {
+   "text": "Molnár György",
+   "bbox": [
+    427,
+    316,
+    582,
+    341
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    366,
+    235,
+    384
+   ]
+  },
+  {
+   "text": "Mezőtapolcaharaszti",
+   "bbox": [
+    427,
+    365,
+    649,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    417,
+    226,
+    431
+   ]
+  },
+  {
+   "text": "1978. 06. 18.",
+   "bbox": [
+    427,
+    419,
+    563,
+    438
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    468,
+    180,
+    482
+   ]
+  },
+  {
+   "text": "H-1243 Mosonmagyaróvár, Nyírszéki utca 211.",
+   "bbox": [
+    427,
+    464,
+    919,
+    489
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    117,
+    519,
+    226,
+    533
+   ]
+  },
+  {
+   "text": "+36 30 568 2084",
+   "bbox": [
+    427,
+    518,
+    613,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    570,
+    209,
+    584
+   ]
+  },
+  {
+   "text": "balogh.maria@example.hu",
+   "bbox": [
+    427,
+    572,
+    701,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    621,
+    259,
+    639
+   ]
+  },
+  {
+   "text": "8407104671",
+   "bbox": [
+    427,
+    618,
+    559,
+    636
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    117,
+    672,
+    199,
+    686
+   ]
+  },
+  {
+   "text": "394 099 098",
+   "bbox": [
+    427,
+    673,
+    567,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    749,
+    265,
+    769
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    793,
+    436,
+    811
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    838,
+    287,
+    852
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    883,
+    446,
+    901
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    985,
+    147,
+    999
+   ]
+  },
+  {
+   "text": "Székváros, 2026. 05. 29.",
+   "bbox": [
+    195,
+    984,
+    439,
+    1005
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    923,
+    1035,
+    967,
+    1046
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

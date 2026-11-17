@@ -1,0 +1,473 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2024/02371",
+  "kiallitas_datuma": "2024. június 21.",
+  "teljesites_datuma": "2024. június 17.",
+  "fizetesi_hatarido": "2024. július 6.",
+  "elado_nev": "Horváth Trade Zrt.",
+  "elado_cim": "H-7683 Budapest, Mezőgyörgyi utca 218.",
+  "elado_adoszam": "64326694-5-13",
+  "vevo_nev": "Tóth Kft.",
+  "vevo_cim": "H-4558 Ligetvárad, Nyírmindszenti út 146.",
+  "vevo_adoszam": "16904271-2-03",
+  "bankszamla": "65674969-91169665-11875397",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "66 570 Ft",
+  "afa_osszesen": "17 462 Ft",
+  "brutto_osszesen": "84 132 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "60 890",
+    "netto": "60 890",
+    "afa_kulcs": "27%",
+    "afa": "16 440",
+    "brutto": "77 330"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "5 680",
+    "netto": "5 680",
+    "afa_kulcs": "18%",
+    "afa": "1 022",
+    "brutto": "6 702"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    416,
+    90,
+    823,
+    139
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/02371",
+   "bbox": [
+    446,
+    155,
+    794,
+    178
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    89,
+    234,
+    164,
+    254
+   ]
+  },
+  {
+   "text": "Horváth Trade Zrt.",
+   "bbox": [
+    89,
+    270,
+    310,
+    290
+   ]
+  },
+  {
+   "text": "H-7683 Budapest, Mezőgyörgyi utca 218.",
+   "bbox": [
+    89,
+    304,
+    491,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 64326694-5-13",
+   "bbox": [
+    88,
+    334,
+    339,
+    352
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    234,
+    698,
+    254
+   ]
+  },
+  {
+   "text": "Tóth Kft.",
+   "bbox": [
+    630,
+    270,
+    736,
+    290
+   ]
+  },
+  {
+   "text": "H-4558 Ligetvárad, Nyírmindszenti út 146.",
+   "bbox": [
+    630,
+    304,
+    1042,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 16904271-2-03",
+   "bbox": [
+    629,
+    334,
+    880,
+    352
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    89,
+    401,
+    244,
+    417
+   ]
+  },
+  {
+   "text": "2024. június 21.",
+   "bbox": [
+    89,
+    430,
+    237,
+    451
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    354,
+    401,
+    524,
+    421
+   ]
+  },
+  {
+   "text": "2024. június 17.",
+   "bbox": [
+    354,
+    430,
+    502,
+    451
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    401,
+    778,
+    417
+   ]
+  },
+  {
+   "text": "2024. július 6.",
+   "bbox": [
+    619,
+    430,
+    749,
+    451
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    884,
+    401,
+    1005,
+    417
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    884,
+    430,
+    986,
+    451
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    89,
+    479,
+    205,
+    499
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    481,
+    582,
+    499
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    479,
+    748,
+    499
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    479,
+    874,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    877,
+    476,
+    938,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1001,
+    476,
+    1040,
+    495
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1090,
+    479,
+    1151,
+    495
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    521,
+    551,
+    536
+   ]
+  },
+  {
+   "text": "60 890",
+   "bbox": [
+    691,
+    522,
+    747,
+    536
+   ]
+  },
+  {
+   "text": "60 890",
+   "bbox": [
+    818,
+    522,
+    874,
+    536
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    522,
+    938,
+    536
+   ]
+  },
+  {
+   "text": "16 440",
+   "bbox": [
+    983,
+    522,
+    1039,
+    536
+   ]
+  },
+  {
+   "text": "77 330",
+   "bbox": [
+    1095,
+    522,
+    1151,
+    536
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    89,
+    521,
+    186,
+    536
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    513,
+    557,
+    593,
+    575
+   ]
+  },
+  {
+   "text": "5 680",
+   "bbox": [
+    701,
+    557,
+    747,
+    571
+   ]
+  },
+  {
+   "text": "5 680",
+   "bbox": [
+    828,
+    557,
+    874,
+    571
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    899,
+    557,
+    938,
+    571
+   ]
+  },
+  {
+   "text": "1 022",
+   "bbox": [
+    993,
+    557,
+    1039,
+    571
+   ]
+  },
+  {
+   "text": "6 702",
+   "bbox": [
+    1105,
+    557,
+    1151,
+    571
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    88,
+    556,
+    243,
+    575
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    662,
+    611,
+    821,
+    630
+   ]
+  },
+  {
+   "text": "66 570 Ft",
+   "bbox": [
+    1052,
+    613,
+    1151,
+    630
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    643,
+    821,
+    666
+   ]
+  },
+  {
+   "text": "17 462 Ft",
+   "bbox": [
+    1052,
+    649,
+    1151,
+    666
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    690,
+    684,
+    821,
+    707
+   ]
+  },
+  {
+   "text": "84 132 Ft",
+   "bbox": [
+    1039,
+    685,
+    1151,
+    702
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 65674969-91169665-11875397",
+   "bbox": [
+    89,
+    749,
+    538,
+    766
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    429,
+    1647,
+    809,
+    1664
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

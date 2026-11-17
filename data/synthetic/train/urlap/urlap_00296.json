@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Lakatos Ilona",
+  "anyja_neve": "Kocsis Anna",
+  "szuletesi_hely": "Mellékfalu",
+  "szuletesi_datum": "1989.01.12.",
+  "lakcim": "H-5555 Felsőhídberény, Székesfehérvári utca 221.",
+  "telefon": "+36 70 772 8574",
+  "email": "lakatos.ilona@freemail.hu",
+  "adoazonosito_jel": "8445716336",
+  "taj_szam": "342 470 679",
+  "kelt": "Györgyvár, 2025.06.30."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    497,
+    101,
+    743,
+    137
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    458,
+    160,
+    782,
+    178
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    102,
+    213,
+    335,
+    237
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    114,
+    272,
+    158,
+    287
+   ]
+  },
+  {
+   "text": "Lakatos Ilona",
+   "bbox": [
+    398,
+    267,
+    554,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    326,
+    227,
+    345
+   ]
+  },
+  {
+   "text": "Kocsis Anna",
+   "bbox": [
+    398,
+    325,
+    522,
+    347
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    114,
+    380,
+    254,
+    399
+   ]
+  },
+  {
+   "text": "Mellékfalu",
+   "bbox": [
+    398,
+    376,
+    507,
+    399
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    114,
+    434,
+    243,
+    449
+   ]
+  },
+  {
+   "text": "1989.01.12.",
+   "bbox": [
+    397,
+    434,
+    532,
+    455
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    114,
+    488,
+    190,
+    503
+   ]
+  },
+  {
+   "text": "H-5555 Felsőhídberény, Székesfehérvári utca 221.",
+   "bbox": [
+    397,
+    481,
+    961,
+    508
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    114,
+    542,
+    244,
+    557
+   ]
+  },
+  {
+   "text": "+36 70 772 8574",
+   "bbox": [
+    398,
+    538,
+    608,
+    560
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    114,
+    596,
+    222,
+    611
+   ]
+  },
+  {
+   "text": "lakatos.ilona@freemail.hu",
+   "bbox": [
+    398,
+    595,
+    679,
+    618
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    650,
+    280,
+    669
+   ]
+  },
+  {
+   "text": "8445716336",
+   "bbox": [
+    398,
+    648,
+    560,
+    670
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    114,
+    704,
+    216,
+    719
+   ]
+  },
+  {
+   "text": "342 470 679",
+   "bbox": [
+    398,
+    703,
+    561,
+    725
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    102,
+    783,
+    284,
+    805
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    147,
+    829,
+    488,
+    848
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    147,
+    874,
+    303,
+    889
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    919,
+    506,
+    938
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    102,
+    1021,
+    146,
+    1037
+   ]
+  },
+  {
+   "text": "Györgyvár, 2025.06.30.",
+   "bbox": [
+    192,
+    1017,
+    446,
+    1044
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1071,
+    975,
+    1084
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

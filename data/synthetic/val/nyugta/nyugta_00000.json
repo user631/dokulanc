@@ -1,0 +1,195 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET KFT.",
+  "uzlet_cim": "H-1512 Egyházasligetfalva, Hódmezővásárhelyi utca 93.",
+  "adoszam": "35325071-2-10",
+  "datum": "2024.11.08.",
+  "ido": "19:53",
+  "nyugtaszam": "5206/89729",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 470 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "309"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1261"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET KFT.",
+   "bbox": [
+    187,
+    28,
+    425,
+    50
+   ]
+  },
+  {
+   "text": "H-1512 Egyházasligetfalva, Hódmezővásárhelyi",
+   "bbox": [
+    42,
+    67,
+    570,
+    87
+   ]
+  },
+  {
+   "text": "utca 93.",
+   "bbox": [
+    258,
+    97,
+    354,
+    111
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 35325071-2-10",
+   "bbox": [
+    174,
+    120,
+    438,
+    139
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    167,
+    352,
+    185
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    213,
+    206,
+    228
+   ]
+  },
+  {
+   "text": "309 C00",
+   "bbox": [
+    498,
+    213,
+    589,
+    228
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    245,
+    128,
+    260
+   ]
+  },
+  {
+   "text": "1261 A00",
+   "bbox": [
+    485,
+    245,
+    589,
+    260
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    284,
+    174,
+    307
+   ]
+  },
+  {
+   "text": "1 470 Ft",
+   "bbox": [
+    469,
+    289,
+    589,
+    307
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    326,
+    168,
+    346
+   ]
+  },
+  {
+   "text": "1 470 Ft",
+   "bbox": [
+    485,
+    330,
+    589,
+    346
+   ]
+  },
+  {
+   "text": "2024.11.08.",
+   "bbox": [
+    24,
+    377,
+    156,
+    391
+   ]
+  },
+  {
+   "text": "19:53",
+   "bbox": [
+    529,
+    377,
+    589,
+    391
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5206/89729",
+   "bbox": [
+    24,
+    404,
+    288,
+    425
+   ]
+  },
+  {
+   "text": "AP A39316701",
+   "bbox": [
+    24,
+    441,
+    168,
+    455
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    241,
+    481,
+    371,
+    500
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  613,
+  546
+ ]
+}

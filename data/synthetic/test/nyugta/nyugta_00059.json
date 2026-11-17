@@ -1,0 +1,449 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALLA CSEMEGE KFT.",
+  "uzlet_cim": "H-5303 Miskolc, Alsói utca 38.",
+  "adoszam": "97190125-4-34",
+  "datum": "2024.04.24.",
+  "ido": "14:22",
+  "nyugtaszam": "5137/29215",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "17 739 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "215"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1302"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4220"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "760"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3117"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1626"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1008"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "658"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "798"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "241"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "352"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3442"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALLA CSEMEGE KFT.",
+   "bbox": [
+    160,
+    36,
+    430,
+    51
+   ]
+  },
+  {
+   "text": "H-5303 Miskolc, Alsói utca 38.",
+   "bbox": [
+    100,
+    70,
+    490,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 97190125-4-34",
+   "bbox": [
+    152,
+    94,
+    438,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    246,
+    140,
+    344,
+    156
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    185,
+    206,
+    198
+   ]
+  },
+  {
+   "text": "215 C00",
+   "bbox": [
+    469,
+    184,
+    567,
+    198
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    216,
+    206,
+    229
+   ]
+  },
+  {
+   "text": "1302 A00",
+   "bbox": [
+    455,
+    215,
+    567,
+    229
+   ]
+  },
+  {
+   "text": "2 DB x 2110",
+   "bbox": [
+    24,
+    244,
+    156,
+    257
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    271,
+    150,
+    285
+   ]
+  },
+  {
+   "text": "4220 A00",
+   "bbox": [
+    455,
+    271,
+    567,
+    285
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    302,
+    136,
+    316
+   ]
+  },
+  {
+   "text": "760 C00",
+   "bbox": [
+    469,
+    302,
+    567,
+    316
+   ]
+  },
+  {
+   "text": "3 DB x 1039",
+   "bbox": [
+    24,
+    331,
+    156,
+    344
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    358,
+    234,
+    372
+   ]
+  },
+  {
+   "text": "3117 A00",
+   "bbox": [
+    455,
+    358,
+    567,
+    372
+   ]
+  },
+  {
+   "text": "2 DB x 813",
+   "bbox": [
+    24,
+    387,
+    144,
+    400
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    414,
+    136,
+    428
+   ]
+  },
+  {
+   "text": "1626 A00",
+   "bbox": [
+    455,
+    414,
+    567,
+    428
+   ]
+  },
+  {
+   "text": "3 DB x 336",
+   "bbox": [
+    24,
+    443,
+    144,
+    456
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    471,
+    220,
+    484
+   ]
+  },
+  {
+   "text": "1008 A00",
+   "bbox": [
+    455,
+    470,
+    567,
+    484
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    501,
+    220,
+    515
+   ]
+  },
+  {
+   "text": "658 C00",
+   "bbox": [
+    469,
+    501,
+    567,
+    515
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    532,
+    136,
+    546
+   ]
+  },
+  {
+   "text": "798 C00",
+   "bbox": [
+    469,
+    532,
+    567,
+    546
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    563,
+    220,
+    580
+   ]
+  },
+  {
+   "text": "241 B00",
+   "bbox": [
+    469,
+    563,
+    567,
+    577
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    594,
+    178,
+    611
+   ]
+  },
+  {
+   "text": "352 A00",
+   "bbox": [
+    469,
+    594,
+    567,
+    608
+   ]
+  },
+  {
+   "text": "2 DB x 1721",
+   "bbox": [
+    24,
+    623,
+    156,
+    636
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    651,
+    164,
+    664
+   ]
+  },
+  {
+   "text": "3442 C00",
+   "bbox": [
+    455,
+    650,
+    567,
+    664
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    688,
+    184,
+    710
+   ]
+  },
+  {
+   "text": "17 739 Ft",
+   "bbox": [
+    423,
+    693,
+    567,
+    710
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    731,
+    136,
+    748
+   ]
+  },
+  {
+   "text": "17 739 Ft",
+   "bbox": [
+    441,
+    734,
+    567,
+    748
+   ]
+  },
+  {
+   "text": "2024.04.24.",
+   "bbox": [
+    24,
+    778,
+    167,
+    791
+   ]
+  },
+  {
+   "text": "14:22",
+   "bbox": [
+    502,
+    778,
+    567,
+    791
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5137/29215",
+   "bbox": [
+    24,
+    806,
+    310,
+    824
+   ]
+  },
+  {
+   "text": "AP A47317670",
+   "bbox": [
+    24,
+    840,
+    180,
+    853
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    230,
+    881,
+    360,
+    897
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  591,
+  941
+ ]
+}

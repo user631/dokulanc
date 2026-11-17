@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Balla Ilona",
+  "anyja_neve": "Tóth János",
+  "szuletesi_hely": "Ligetkövesd",
+  "szuletesi_datum": "1982.03.22.",
+  "lakcim": "H-1177 Magyarhátharaszti, Dózsa györgy utca 63.",
+  "telefon": "+36 70 862 1249",
+  "email": "balla.ilona@citromail.hu",
+  "adoazonosito_jel": "8420838381",
+  "taj_szam": "371 336 247",
+  "kelt": "Nyíregyháza, 2026.08.19."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    526,
+    104,
+    714,
+    130
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    457,
+    149,
+    783,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    93,
+    202,
+    350,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    105,
+    256,
+    150,
+    271
+   ]
+  },
+  {
+   "text": "Balla Ilona",
+   "bbox": [
+    427,
+    257,
+    543,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    309,
+    220,
+    327
+   ]
+  },
+  {
+   "text": "Tóth János",
+   "bbox": [
+    427,
+    304,
+    546,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    105,
+    360,
+    244,
+    379
+   ]
+  },
+  {
+   "text": "Ligetkövesd",
+   "bbox": [
+    427,
+    361,
+    558,
+    382
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    105,
+    412,
+    234,
+    427
+   ]
+  },
+  {
+   "text": "1982.03.22.",
+   "bbox": [
+    427,
+    409,
+    563,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    105,
+    464,
+    180,
+    479
+   ]
+  },
+  {
+   "text": "H-1177 Magyarhátharaszti, Dózsa györgy utca 63.",
+   "bbox": [
+    427,
+    463,
+    987,
+    485
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    105,
+    516,
+    233,
+    531
+   ]
+  },
+  {
+   "text": "+36 70 862 1249",
+   "bbox": [
+    427,
+    517,
+    623,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    105,
+    568,
+    214,
+    583
+   ]
+  },
+  {
+   "text": "balla.ilona@citromail.hu",
+   "bbox": [
+    427,
+    567,
+    691,
+    587
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    620,
+    272,
+    639
+   ]
+  },
+  {
+   "text": "8420838381",
+   "bbox": [
+    427,
+    620,
+    567,
+    636
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    105,
+    672,
+    204,
+    687
+   ]
+  },
+  {
+   "text": "371 336 247",
+   "bbox": [
+    427,
+    670,
+    569,
+    686
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    93,
+    751,
+    297,
+    772
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    138,
+    794,
+    470,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    138,
+    839,
+    292,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    884,
+    491,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    93,
+    987,
+    141,
+    1003
+   ]
+  },
+  {
+   "text": "Nyíregyháza, 2026.08.19.",
+   "bbox": [
+    183,
+    983,
+    471,
+    1005
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1036,
+    983,
+    1049
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

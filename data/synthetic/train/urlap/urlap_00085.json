@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Bognár Zsuzsanna",
+  "anyja_neve": "Kovács Judit",
+  "szuletesi_hely": "Tótberény",
+  "szuletesi_datum": "1953. 08. 01.",
+  "lakcim": "H-3027 Győr, Zalaegerszegi utca 26.",
+  "telefon": "+36 20 978 6534",
+  "email": "bognar.zsuzsanna@freemail.hu",
+  "adoazonosito_jel": "8316233436",
+  "taj_szam": "133 060 094",
+  "kelt": "Békésligethalas, 2024. 02. 25."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    536,
+    114,
+    705,
+    140
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    468,
+    159,
+    772,
+    177
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    214,
+    316,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    266,
+    151,
+    281
+   ]
+  },
+  {
+   "text": "Bognár Zsuzsanna",
+   "bbox": [
+    416,
+    268,
+    601,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    112,
+    319,
+    211,
+    339
+   ]
+  },
+  {
+   "text": "Kovács Judit",
+   "bbox": [
+    416,
+    317,
+    541,
+    335
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    372,
+    233,
+    392
+   ]
+  },
+  {
+   "text": "Tótberény",
+   "bbox": [
+    416,
+    368,
+    520,
+    391
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    425,
+    226,
+    440
+   ]
+  },
+  {
+   "text": "1953. 08. 01.",
+   "bbox": [
+    416,
+    428,
+    539,
+    444
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    478,
+    176,
+    493
+   ]
+  },
+  {
+   "text": "H-3027 Győr, Zalaegerszegi utca 26.",
+   "bbox": [
+    416,
+    477,
+    780,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    112,
+    531,
+    224,
+    546
+   ]
+  },
+  {
+   "text": "+36 20 978 6534",
+   "bbox": [
+    416,
+    533,
+    582,
+    549
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    584,
+    207,
+    599
+   ]
+  },
+  {
+   "text": "bognar.zsuzsanna@freemail.hu",
+   "bbox": [
+    416,
+    584,
+    734,
+    606
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    112,
+    637,
+    264,
+    657
+   ]
+  },
+  {
+   "text": "8316233436",
+   "bbox": [
+    416,
+    641,
+    536,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    112,
+    690,
+    195,
+    705
+   ]
+  },
+  {
+   "text": "133 060 094",
+   "bbox": [
+    416,
+    693,
+    536,
+    709
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    772,
+    277,
+    794
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    814,
+    446,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    859,
+    284,
+    874
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    145,
+    904,
+    466,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    1009,
+    140,
+    1025
+   ]
+  },
+  {
+   "text": "Békésligethalas, 2024. 02. 25.",
+   "bbox": [
+    190,
+    1005,
+    481,
+    1028
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    926,
+    1058,
+    974,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Papp Veronika",
+  "anyja_neve": "Simon Ilona",
+  "szuletesi_hely": "Hátfalva",
+  "szuletesi_datum": "1952. 07. 30.",
+  "lakcim": "H-4836 Felsőmártonnádasd, Lajoskereszti utca 212.",
+  "telefon": "06 1 695 5772",
+  "email": "papp.veronika@gmail.com",
+  "adoazonosito_jel": "8312564128",
+  "taj_szam": "957 464 382",
+  "kelt": "Mindszentberény, 2025. 02. 02."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    452,
+    104,
+    788,
+    136
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    210,
+    313,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    264,
+    153,
+    277
+   ]
+  },
+  {
+   "text": "Papp Veronika",
+   "bbox": [
+    441,
+    258,
+    585,
+    279
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    315,
+    210,
+    332
+   ]
+  },
+  {
+   "text": "Simon Ilona",
+   "bbox": [
+    442,
+    309,
+    561,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    366,
+    232,
+    383
+   ]
+  },
+  {
+   "text": "Hátfalva",
+   "bbox": [
+    441,
+    359,
+    535,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    417,
+    223,
+    430
+   ]
+  },
+  {
+   "text": "1952. 07. 30.",
+   "bbox": [
+    441,
+    415,
+    578,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    468,
+    179,
+    481
+   ]
+  },
+  {
+   "text": "H-4836 Felsőmártonnádasd, Lajoskereszti utca 212.",
+   "bbox": [
+    441,
+    463,
+    981,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    519,
+    224,
+    532
+   ]
+  },
+  {
+   "text": "06 1 695 5772",
+   "bbox": [
+    442,
+    515,
+    594,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    570,
+    206,
+    583
+   ]
+  },
+  {
+   "text": "papp.veronika@gmail.com",
+   "bbox": [
+    442,
+    565,
+    699,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    621,
+    254,
+    638
+   ]
+  },
+  {
+   "text": "8312564128",
+   "bbox": [
+    442,
+    622,
+    584,
+    640
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    672,
+    201,
+    685
+   ]
+  },
+  {
+   "text": "957 464 382",
+   "bbox": [
+    442,
+    671,
+    589,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    749,
+    266,
+    768
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    793,
+    432,
+    810
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    838,
+    279,
+    851
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    883,
+    447,
+    900
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    984,
+    142,
+    998
+   ]
+  },
+  {
+   "text": "Mindszentberény, 2025. 02. 02.",
+   "bbox": [
+    194,
+    981,
+    479,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    924,
+    1033,
+    968,
+    1044
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

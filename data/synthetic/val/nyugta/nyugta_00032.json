@@ -1,0 +1,336 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FARKAS KISBOLT BT.",
+  "uzlet_cim": "H-7178 Székesfehérvár, Nyírhetveni tér 161.",
+  "adoszam": "88644279-5-38",
+  "datum": "2025.09.02.",
+  "ido": "08:12",
+  "nyugtaszam": "6477/54173",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 231 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "561"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2245"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "512"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1212"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "230"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2806"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "411"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2254"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS KISBOLT BT.",
+   "bbox": [
+    189,
+    33,
+    441,
+    50
+   ]
+  },
+  {
+   "text": "H-7178 Székesfehérvár, Nyírhetveni tér 161.",
+   "bbox": [
+    57,
+    67,
+    573,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 88644279-5-38",
+   "bbox": [
+    183,
+    92,
+    447,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    139,
+    361,
+    157
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    185,
+    141,
+    200
+   ]
+  },
+  {
+   "text": "561 C00",
+   "bbox": [
+    516,
+    185,
+    607,
+    200
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    217,
+    271,
+    232
+   ]
+  },
+  {
+   "text": "2245 B00",
+   "bbox": [
+    503,
+    217,
+    607,
+    232
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    249,
+    167,
+    264
+   ]
+  },
+  {
+   "text": "512 C00",
+   "bbox": [
+    516,
+    249,
+    607,
+    264
+   ]
+  },
+  {
+   "text": "3 DB x 404",
+   "bbox": [
+    24,
+    281,
+    144,
+    294
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    305,
+    167,
+    326
+   ]
+  },
+  {
+   "text": "1212 C00",
+   "bbox": [
+    503,
+    307,
+    607,
+    322
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    339,
+    206,
+    358
+   ]
+  },
+  {
+   "text": "230 C00",
+   "bbox": [
+    516,
+    339,
+    607,
+    354
+   ]
+  },
+  {
+   "text": "2 DB x 1403",
+   "bbox": [
+    24,
+    371,
+    156,
+    384
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    397,
+    154,
+    412
+   ]
+  },
+  {
+   "text": "2806 B00",
+   "bbox": [
+    503,
+    397,
+    607,
+    412
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    429,
+    206,
+    444
+   ]
+  },
+  {
+   "text": "411 C00",
+   "bbox": [
+    516,
+    429,
+    607,
+    444
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    461,
+    141,
+    476
+   ]
+  },
+  {
+   "text": "2254 B00",
+   "bbox": [
+    503,
+    461,
+    607,
+    476
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    500,
+    174,
+    523
+   ]
+  },
+  {
+   "text": "11 231 Ft",
+   "bbox": [
+    472,
+    505,
+    607,
+    523
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    542,
+    155,
+    562
+   ]
+  },
+  {
+   "text": "11 231 Ft",
+   "bbox": [
+    490,
+    546,
+    607,
+    562
+   ]
+  },
+  {
+   "text": "2025.09.02.",
+   "bbox": [
+    24,
+    593,
+    156,
+    607
+   ]
+  },
+  {
+   "text": "08:12",
+   "bbox": [
+    547,
+    593,
+    607,
+    607
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6477/54173",
+   "bbox": [
+    24,
+    620,
+    288,
+    641
+   ]
+  },
+  {
+   "text": "AP A72118256",
+   "bbox": [
+    24,
+    657,
+    168,
+    671
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    217,
+    696,
+    412,
+    716
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  631,
+  762
+ ]
+}

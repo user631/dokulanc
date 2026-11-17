@@ -1,0 +1,473 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2024/02900",
+  "kiallitas_datuma": "2024-02-01",
+  "teljesites_datuma": "2024-01-31",
+  "fizetesi_hatarido": "2024-02-16",
+  "elado_nev": "Orsós Consulting Zrt.",
+  "elado_cim": "H-6034 Alsóberény, Tótapátii utca 223.",
+  "elado_adoszam": "31313912-2-13",
+  "vevo_nev": "Varga Brigitta",
+  "vevo_cim": "H-7564 Nagykanizsa, Hetvenvárosi út 66.",
+  "vevo_adoszam": null,
+  "bankszamla": "75390279-01635057-32178284",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "227 400 Ft",
+  "afa_osszesen": "61 398 Ft",
+  "brutto_osszesen": "288 798 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "2 óra",
+    "egysegar": "13 620",
+    "netto": "27 240",
+    "afa_kulcs": "27%",
+    "afa": "7 355",
+    "brutto": "34 595"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "16 680",
+    "netto": "200 160",
+    "afa_kulcs": "27%",
+    "afa": "54 043",
+    "brutto": "254 203"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ORSÓS",
+   "bbox": [
+    110,
+    108,
+    201,
+    130
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    692,
+    94,
+    1164,
+    128
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/02900",
+   "bbox": [
+    830,
+    150,
+    1164,
+    177
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    76,
+    230,
+    165,
+    251
+   ]
+  },
+  {
+   "text": "Orsós Consulting Zrt.",
+   "bbox": [
+    76,
+    269,
+    376,
+    296
+   ]
+  },
+  {
+   "text": "H-6034 Alsóberény, Tótapátii utca 223.",
+   "bbox": [
+    76,
+    306,
+    512,
+    330
+   ]
+  },
+  {
+   "text": "Adószám: 31313912-2-13",
+   "bbox": [
+    75,
+    339,
+    351,
+    363
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    231,
+    708,
+    251
+   ]
+  },
+  {
+   "text": "Varga Brigitta",
+   "bbox": [
+    629,
+    270,
+    828,
+    296
+   ]
+  },
+  {
+   "text": "H-7564 Nagykanizsa, Hetvenvárosi út 66.",
+   "bbox": [
+    630,
+    306,
+    1088,
+    330
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    76,
+    410,
+    265,
+    427
+   ]
+  },
+  {
+   "text": "2024-02-01",
+   "bbox": [
+    76,
+    447,
+    202,
+    464
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    410,
+    550,
+    432
+   ]
+  },
+  {
+   "text": "2024-01-31",
+   "bbox": [
+    348,
+    447,
+    469,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    410,
+    813,
+    427
+   ]
+  },
+  {
+   "text": "2024-02-16",
+   "bbox": [
+    620,
+    443,
+    745,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    410,
+    1038,
+    427
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    892,
+    442,
+    989,
+    465
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    494,
+    214,
+    516
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    495,
+    596,
+    516
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    648,
+    494,
+    751,
+    516
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    494,
+    881,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    877,
+    490,
+    946,
+    511
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    490,
+    1050,
+    511
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    494,
+    1164,
+    511
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    511,
+    538,
+    560,
+    555
+   ]
+  },
+  {
+   "text": "13 620",
+   "bbox": [
+    686,
+    539,
+    750,
+    559
+   ]
+  },
+  {
+   "text": "27 240",
+   "bbox": [
+    815,
+    543,
+    881,
+    559
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    539,
+    946,
+    559
+   ]
+  },
+  {
+   "text": "7 355",
+   "bbox": [
+    997,
+    543,
+    1049,
+    559
+   ]
+  },
+  {
+   "text": "34 595",
+   "bbox": [
+    1099,
+    543,
+    1164,
+    559
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    76,
+    538,
+    344,
+    560
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    511,
+    576,
+    560,
+    593
+   ]
+  },
+  {
+   "text": "16 680",
+   "bbox": [
+    685,
+    577,
+    750,
+    593
+   ]
+  },
+  {
+   "text": "200 160",
+   "bbox": [
+    801,
+    577,
+    881,
+    593
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    577,
+    946,
+    597
+   ]
+  },
+  {
+   "text": "54 043",
+   "bbox": [
+    982,
+    581,
+    1049,
+    597
+   ]
+  },
+  {
+   "text": "254 203",
+   "bbox": [
+    1085,
+    581,
+    1164,
+    597
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    75,
+    576,
+    253,
+    598
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    655,
+    634,
+    834,
+    654
+   ]
+  },
+  {
+   "text": "227 400 Ft",
+   "bbox": [
+    1037,
+    636,
+    1164,
+    659
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    669,
+    669,
+    834,
+    693
+   ]
+  },
+  {
+   "text": "61 398 Ft",
+   "bbox": [
+    1056,
+    675,
+    1164,
+    698
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    567,
+    712,
+    834,
+    732
+   ]
+  },
+  {
+   "text": "288 798 Ft",
+   "bbox": [
+    1022,
+    714,
+    1165,
+    737
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 75390279-01635057-32178284",
+   "bbox": [
+    76,
+    782,
+    604,
+    804
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    391,
+    1658,
+    848,
+    1677
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

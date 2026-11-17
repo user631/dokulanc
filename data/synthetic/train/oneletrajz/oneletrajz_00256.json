@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Juhász Ilona",
+  "email": "juhasz.ilona@gmail.com",
+  "telefon": "+36 20 354 9156",
+  "lakcim": "H-7537 Felsőmártonapáti, Mártonváradi utca 122.",
+  "szuletesi_datum": "1988. 12. 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2007 – 2011"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Deák Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2017 – 2018"
+   },
+   {
+    "ceg": "Vass Trade Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2015 – 2017"
+   },
+   {
+    "ceg": "Veres Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "JavaScript",
+   "C#",
+   "Java",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    99,
+    186,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    144,
+    92,
+    157
+   ]
+  },
+  {
+   "text": "juhasz.ilona@gmail.com",
+   "bbox": [
+    40,
+    166,
+    236,
+    183
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    198,
+    104,
+    211
+   ]
+  },
+  {
+   "text": "+36 20 354 9156",
+   "bbox": [
+    40,
+    220,
+    163,
+    233
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    99,
+    265
+   ]
+  },
+  {
+   "text": "H-7537 Felsőmártonapáti, Mártonváradi",
+   "bbox": [
+    40,
+    273,
+    356,
+    291
+   ]
+  },
+  {
+   "text": "utca 122.",
+   "bbox": [
+    40,
+    296,
+    114,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    327,
+    173,
+    341
+   ]
+  },
+  {
+   "text": "1988. 12. 21.",
+   "bbox": [
+    40,
+    350,
+    143,
+    363
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    175,
+    429
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    449,
+    135,
+    468
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    476,
+    127,
+    494
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    529,
+    156,
+    549
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    570,
+    85,
+    584
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    596,
+    127,
+    614
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    622,
+    62,
+    636
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    648,
+    78,
+    662
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    674,
+    152,
+    692
+   ]
+  },
+  {
+   "text": "Juhász Ilona",
+   "bbox": [
+    450,
+    107,
+    702,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    171,
+    564,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    675,
+    260
+   ]
+  },
+  {
+   "text": "2017 – 2018",
+   "bbox": [
+    450,
+    287,
+    549,
+    301
+   ]
+  },
+  {
+   "text": "értékesítő – Deák Consulting Kft.",
+   "bbox": [
+    450,
+    310,
+    769,
+    330
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    450,
+    351,
+    550,
+    365
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Vass Trade Zrt.",
+   "bbox": [
+    450,
+    374,
+    818,
+    394
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    415,
+    549,
+    429
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Veres Tech Kft.",
+   "bbox": [
+    450,
+    438,
+    881,
+    458
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    489,
+    602,
+    512
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    539,
+    549,
+    553
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    562,
+    779,
+    582
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    585,
+    752,
+    605
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    627,
+    550,
+    641
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    650,
+    739,
+    670
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    674,
+    631,
+    693
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

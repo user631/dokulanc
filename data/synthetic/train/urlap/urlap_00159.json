@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Juhász László",
+  "anyja_neve": "Szabó Dániel",
+  "szuletesi_hely": "Tatabánya",
+  "szuletesi_datum": "1998. 08. 22.",
+  "lakcim": "H-9352 Nagykeresztvég, Ceglédi utca 121.",
+  "telefon": "+36 20 134 2381",
+  "email": "juhasz.laszlo@example.hu",
+  "adoazonosito_jel": "8480805366",
+  "taj_szam": "210 674 406",
+  "kelt": "Szigetszentmiklós, 2026. 06. 12."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    537,
+    108,
+    701,
+    133
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    483,
+    152,
+    756,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    204,
+    312,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    257,
+    145,
+    271
+   ]
+  },
+  {
+   "text": "Juhász László",
+   "bbox": [
+    432,
+    256,
+    556,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    309,
+    202,
+    326
+   ]
+  },
+  {
+   "text": "Szabó Dániel",
+   "bbox": [
+    432,
+    309,
+    552,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    359,
+    221,
+    377
+   ]
+  },
+  {
+   "text": "Tatabánya",
+   "bbox": [
+    431,
+    355,
+    529,
+    376
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    410,
+    213,
+    424
+   ]
+  },
+  {
+   "text": "1998. 08. 22.",
+   "bbox": [
+    432,
+    410,
+    552,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    461,
+    169,
+    475
+   ]
+  },
+  {
+   "text": "H-9352 Nagykeresztvég, Ceglédi utca 121.",
+   "bbox": [
+    432,
+    457,
+    825,
+    478
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    512,
+    214,
+    526
+   ]
+  },
+  {
+   "text": "+36 20 134 2381",
+   "bbox": [
+    432,
+    514,
+    589,
+    530
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    563,
+    197,
+    577
+   ]
+  },
+  {
+   "text": "juhasz.laszlo@example.hu",
+   "bbox": [
+    431,
+    558,
+    674,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    614,
+    245,
+    632
+   ]
+  },
+  {
+   "text": "8480805366",
+   "bbox": [
+    432,
+    610,
+    542,
+    626
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    665,
+    191,
+    679
+   ]
+  },
+  {
+   "text": "210 674 406",
+   "bbox": [
+    432,
+    667,
+    545,
+    683
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    742,
+    270,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    786,
+    413,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    831,
+    267,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    876,
+    433,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    978,
+    135,
+    993
+   ]
+  },
+  {
+   "text": "Szigetszentmiklós, 2026. 06. 12.",
+   "bbox": [
+    187,
+    974,
+    482,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1026,
+    974,
+    1038
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

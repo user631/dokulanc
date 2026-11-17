@@ -1,0 +1,427 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NÉMETH MARKET KFT.",
+  "uzlet_cim": "H-8663 Tamásiapáti, Dunaszéki út 153.",
+  "adoszam": "87380318-2-35",
+  "datum": "2025.05.20.",
+  "ido": "17:58",
+  "nyugtaszam": "5809/29588",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "15 776 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5739"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1192"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "837"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1320"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "412"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "901"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "554"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2364"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "389"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "900"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1168"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH MARKET KFT.",
+   "bbox": [
+    133,
+    30,
+    403,
+    50
+   ]
+  },
+  {
+   "text": "H-8663 Tamásiapáti, Dunaszéki út 153.",
+   "bbox": [
+    27,
+    65,
+    508,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 87380318-2-35",
+   "bbox": [
+    125,
+    92,
+    411,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    220,
+    138,
+    317,
+    155
+   ]
+  },
+  {
+   "text": "3 DB x 1913",
+   "bbox": [
+    24,
+    180,
+    156,
+    194
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    205,
+    150,
+    222
+   ]
+  },
+  {
+   "text": "5739 A00",
+   "bbox": [
+    401,
+    205,
+    513,
+    222
+   ]
+  },
+  {
+   "text": "2 DB x 596",
+   "bbox": [
+    24,
+    236,
+    144,
+    250
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    261,
+    136,
+    278
+   ]
+  },
+  {
+   "text": "1192 C00",
+   "bbox": [
+    401,
+    261,
+    513,
+    278
+   ]
+  },
+  {
+   "text": "3 DB x 279",
+   "bbox": [
+    24,
+    292,
+    144,
+    306
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    320,
+    206,
+    334
+   ]
+  },
+  {
+   "text": "837 B00",
+   "bbox": [
+    415,
+    317,
+    513,
+    334
+   ]
+  },
+  {
+   "text": "3 DB x 440",
+   "bbox": [
+    24,
+    348,
+    144,
+    362
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    373,
+    220,
+    390
+   ]
+  },
+  {
+   "text": "1320 C00",
+   "bbox": [
+    401,
+    373,
+    513,
+    390
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    404,
+    178,
+    425
+   ]
+  },
+  {
+   "text": "412 A00",
+   "bbox": [
+    415,
+    404,
+    513,
+    421
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    435,
+    136,
+    452
+   ]
+  },
+  {
+   "text": "901 A00",
+   "bbox": [
+    415,
+    435,
+    513,
+    452
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    466,
+    248,
+    483
+   ]
+  },
+  {
+   "text": "554 A00",
+   "bbox": [
+    415,
+    466,
+    513,
+    483
+   ]
+  },
+  {
+   "text": "3 DB x 788",
+   "bbox": [
+    24,
+    497,
+    144,
+    511
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    522,
+    136,
+    539
+   ]
+  },
+  {
+   "text": "2364 A00",
+   "bbox": [
+    401,
+    522,
+    513,
+    539
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    556,
+    220,
+    570
+   ]
+  },
+  {
+   "text": "389 B00",
+   "bbox": [
+    415,
+    553,
+    513,
+    570
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    584,
+    192,
+    601
+   ]
+  },
+  {
+   "text": "900 C00",
+   "bbox": [
+    415,
+    584,
+    513,
+    601
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    618,
+    164,
+    632
+   ]
+  },
+  {
+   "text": "1168 A00",
+   "bbox": [
+    401,
+    615,
+    513,
+    632
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    657,
+    184,
+    678
+   ]
+  },
+  {
+   "text": "15 776 Ft",
+   "bbox": [
+    369,
+    658,
+    513,
+    678
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    698,
+    164,
+    716
+   ]
+  },
+  {
+   "text": "15 776 Ft",
+   "bbox": [
+    387,
+    699,
+    513,
+    716
+   ]
+  },
+  {
+   "text": "2025.05.20.",
+   "bbox": [
+    24,
+    744,
+    167,
+    759
+   ]
+  },
+  {
+   "text": "17:58",
+   "bbox": [
+    448,
+    744,
+    513,
+    759
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5809/29588",
+   "bbox": [
+    24,
+    773,
+    310,
+    793
+   ]
+  },
+  {
+   "text": "AP A14859335",
+   "bbox": [
+    24,
+    806,
+    180,
+    821
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    170,
+    848,
+    365,
+    865
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  537,
+  910
+ ]
+}

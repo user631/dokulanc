@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kerekes Gyöngyi",
+  "email": "kerekes.gyongyi@outlook.com",
+  "telefon": "06 1 313 3422",
+  "lakcim": "H-3007 Hetvenbánya, Hídházai utca 241.",
+  "szuletesi_datum": "1992. 12. 19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Logisztika Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2019 – 2021"
+   },
+   {
+    "ceg": "Fazekas Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Excel",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    227,
+    123
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    109,
+    162
+   ]
+  },
+  {
+   "text": "kerekes.gyongyi@outlook.com",
+   "bbox": [
+    40,
+    170,
+    332,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    203,
+    121,
+    218
+   ]
+  },
+  {
+   "text": "06 1 313 3422",
+   "bbox": [
+    40,
+    227,
+    181,
+    241
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    258,
+    116,
+    274
+   ]
+  },
+  {
+   "text": "H-3007 Hetvenbánya, Hídházai",
+   "bbox": [
+    40,
+    282,
+    335,
+    301
+   ]
+  },
+  {
+   "text": "utca 241.",
+   "bbox": [
+    40,
+    306,
+    130,
+    320
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    337,
+    215,
+    353
+   ]
+  },
+  {
+   "text": "1992. 12. 19.",
+   "bbox": [
+    40,
+    362,
+    171,
+    376
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    421,
+    213,
+    443
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    463,
+    168,
+    483
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    490,
+    146,
+    510
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    544,
+    191,
+    566
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    586,
+    253,
+    606
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    613,
+    92,
+    629
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    641,
+    80,
+    656
+   ]
+  },
+  {
+   "text": "Kerekes Gyöngyi",
+   "bbox": [
+    450,
+    111,
+    873,
+    154
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    178,
+    661,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    241,
+    735,
+    266
+   ]
+  },
+  {
+   "text": "2019 – 2021",
+   "bbox": [
+    450,
+    292,
+    581,
+    308
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Horváth Logisztika Zrt.",
+   "bbox": [
+    450,
+    316,
+    1029,
+    338
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    358,
+    581,
+    374
+   ]
+  },
+  {
+   "text": "adatelemző – Fazekas Szolgáltató Kft.",
+   "bbox": [
+    450,
+    382,
+    926,
+    404
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    433,
+    640,
+    459
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    450,
+    485,
+    581,
+    501
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    509,
+    870,
+    531
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    534,
+    622,
+    551
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    576,
+    581,
+    592
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    600,
+    754,
+    622
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    625,
+    656,
+    646
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

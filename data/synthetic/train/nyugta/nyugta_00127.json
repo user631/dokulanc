@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FEKETE ABC BT.",
+  "uzlet_cim": "H-1255 Miskolc, Egyházasszéki út 170.",
+  "adoszam": "83691324-4-19",
+  "datum": "2026.09.19.",
+  "ido": "10:05",
+  "nyugtaszam": "6059/23013",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 577 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1908"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "168"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "422"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "644"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3435"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEKETE ABC BT.",
+   "bbox": [
+    194,
+    35,
+    390,
+    49
+   ]
+  },
+  {
+   "text": "H-1255 Miskolc, Egyházasszéki út 170.",
+   "bbox": [
+    88,
+    63,
+    495,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 83691324-4-19",
+   "bbox": [
+    171,
+    88,
+    413,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    131,
+    337,
+    147
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    172,
+    271,
+    187
+   ]
+  },
+  {
+   "text": "1908 A00",
+   "bbox": [
+    456,
+    172,
+    560,
+    187
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    201,
+    206,
+    219
+   ]
+  },
+  {
+   "text": "168 C00",
+   "bbox": [
+    469,
+    201,
+    560,
+    216
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    230,
+    206,
+    245
+   ]
+  },
+  {
+   "text": "422 C00",
+   "bbox": [
+    469,
+    230,
+    560,
+    245
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    259,
+    128,
+    274
+   ]
+  },
+  {
+   "text": "644 C00",
+   "bbox": [
+    469,
+    259,
+    560,
+    274
+   ]
+  },
+  {
+   "text": "3 DB x 1145",
+   "bbox": [
+    24,
+    288,
+    145,
+    301
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    313,
+    193,
+    326
+   ]
+  },
+  {
+   "text": "3435 C00",
+   "bbox": [
+    456,
+    311,
+    560,
+    326
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    350,
+    159,
+    370
+   ]
+  },
+  {
+   "text": "6 577 Ft",
+   "bbox": [
+    440,
+    352,
+    560,
+    370
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    389,
+    154,
+    406
+   ]
+  },
+  {
+   "text": "6 577 Ft",
+   "bbox": [
+    456,
+    391,
+    560,
+    406
+   ]
+  },
+  {
+   "text": "2026.09.19.",
+   "bbox": [
+    24,
+    433,
+    145,
+    447
+   ]
+  },
+  {
+   "text": "10:05",
+   "bbox": [
+    505,
+    433,
+    560,
+    447
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6059/23013",
+   "bbox": [
+    24,
+    461,
+    266,
+    479
+   ]
+  },
+  {
+   "text": "AP A78101844",
+   "bbox": [
+    24,
+    491,
+    156,
+    505
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    232,
+    531,
+    352,
+    547
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  584,
+  592
+ ]
+}

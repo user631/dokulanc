@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Bogdán Zsuzsanna",
+  "email": "bogdan.zsuzsanna@outlook.com",
+  "telefon": "06 1 355 7097",
+  "lakcim": "H-5683 Rácligetnádasd, Nagyi utca 198.",
+  "szuletesi_datum": "1985. 12. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Budai Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2015 – 2016"
+   },
+   {
+    "ceg": "Kovács Tech Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "ceg": "Nagy Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "projektmenedzsment",
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bogdán Zsuzsanna",
+   "bbox": [
+    409,
+    114,
+    830,
+    161
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    180,
+    679,
+    207
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    161,
+    250
+   ]
+  },
+  {
+   "text": "bogdan.zsuzsanna@outlook.com",
+   "bbox": [
+    330,
+    233,
+    648,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    173,
+    282
+   ]
+  },
+  {
+   "text": "06 1 355 7097",
+   "bbox": [
+    330,
+    266,
+    468,
+    282
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    168,
+    314
+   ]
+  },
+  {
+   "text": "H-5683 Rácligetnádasd, Nagyi utca 198.",
+   "bbox": [
+    330,
+    297,
+    714,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    329,
+    261,
+    346
+   ]
+  },
+  {
+   "text": "1985. 12. 18.",
+   "bbox": [
+    330,
+    330,
+    453,
+    346
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    330,
+    409
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    434,
+    209,
+    450
+   ]
+  },
+  {
+   "text": "irodavezető – Budai Kft.",
+   "bbox": [
+    90,
+    460,
+    347,
+    477
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    502,
+    209,
+    518
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Tech Kft.",
+   "bbox": [
+    90,
+    528,
+    413,
+    545
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    570,
+    209,
+    586
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy Tech Kft.",
+   "bbox": [
+    90,
+    596,
+    491,
+    618
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    650,
+    257,
+    675
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    700,
+    209,
+    716
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    722,
+    266,
+    748
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    751,
+    341,
+    773
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    794,
+    209,
+    810
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    820,
+    366,
+    837
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    845,
+    332,
+    867
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    900,
+    227,
+    925
+   ]
+  },
+  {
+   "text": "német (B2), angol (C1)",
+   "bbox": [
+    90,
+    949,
+    308,
+    971
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1000,
+    214,
+    1025
+   ]
+  },
+  {
+   "text": "Docker, projektmenedzsment, JavaScript, B kategóriás jogosítvány, prezentáció",
+   "bbox": [
+    90,
+    1049,
+    853,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

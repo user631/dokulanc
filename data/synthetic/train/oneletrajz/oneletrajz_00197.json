@@ -1,0 +1,383 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Gabriella",
+  "email": "kovacs.gabriella@example.hu",
+  "telefon": "+36 30 412 8080",
+  "lakcim": "H-8533 Fürdődevecser, József attila utca 45.",
+  "szuletesi_datum": "2002.07.04.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Barna és Társa Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2031 – jelenleg"
+   },
+   {
+    "ceg": "Papp Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Kovács és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Docker",
+   "Git",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    188,
+    118
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    142,
+    93,
+    156
+   ]
+  },
+  {
+   "text": "kovacs.gabriella@example.hu",
+   "bbox": [
+    40,
+    164,
+    272,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    105,
+    210
+   ]
+  },
+  {
+   "text": "+36 30 412 8080",
+   "bbox": [
+    40,
+    219,
+    177,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    250,
+    99,
+    264
+   ]
+  },
+  {
+   "text": "H-8533 Fürdődevecser, József attila utca",
+   "bbox": [
+    40,
+    272,
+    359,
+    288
+   ]
+  },
+  {
+   "text": "45.",
+   "bbox": [
+    40,
+    295,
+    64,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    326,
+    175,
+    340
+   ]
+  },
+  {
+   "text": "2002.07.04.",
+   "bbox": [
+    40,
+    349,
+    132,
+    362
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    407,
+    180,
+    428
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    449,
+    143,
+    467
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    475,
+    122,
+    492
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    527,
+    158,
+    548
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    570,
+    76,
+    583
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    595,
+    99,
+    609
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    621,
+    64,
+    635
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    647,
+    153,
+    665
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    673,
+    217,
+    691
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    700,
+    73,
+    715
+   ]
+  },
+  {
+   "text": "Kovács Gabriella",
+   "bbox": [
+    450,
+    109,
+    793,
+    142
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    174,
+    628,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    236,
+    674,
+    260
+   ]
+  },
+  {
+   "text": "2031 – jelenleg",
+   "bbox": [
+    450,
+    285,
+    582,
+    305
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Barna és Társa Bt.",
+   "bbox": [
+    450,
+    309,
+    805,
+    330
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    349,
+    582,
+    369
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Papp Logisztika Kft.",
+   "bbox": [
+    448,
+    373,
+    817,
+    394
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    413,
+    582,
+    433
+   ]
+  },
+  {
+   "text": "irodavezető – Kovács és Társa Kft.",
+   "bbox": [
+    450,
+    437,
+    781,
+    453
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    488,
+    606,
+    512
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    450,
+    538,
+    558,
+    552
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    557,
+    612,
+    582
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    585,
+    662,
+    600
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    626,
+    558,
+    640
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    649,
+    689,
+    670
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    673,
+    622,
+    693
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

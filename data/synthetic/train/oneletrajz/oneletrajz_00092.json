@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Veres Zsófia",
+  "email": "veres.zsofia@freemail.hu",
+  "telefon": "+36 30 207 2970",
+  "lakcim": "H-9270 Tótfa, Tamásifalui utca 145.",
+  "szuletesi_datum": "1980. 09. 02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1999 – 2004"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lakatos és Társa Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "ceg": "Nemes Szolgáltató Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2005 – 2007"
+   },
+   {
+    "ceg": "Jónás Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2003 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Java",
+   "JavaScript",
+   "csapatmunka",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Veres Zsófia",
+   "bbox": [
+    487,
+    105,
+    753,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    169,
+    680,
+    197
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    225,
+    159,
+    241
+   ]
+  },
+  {
+   "text": "veres.zsofia@freemail.hu",
+   "bbox": [
+    330,
+    226,
+    566,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    173,
+    272
+   ]
+  },
+  {
+   "text": "+36 30 207 2970",
+   "bbox": [
+    330,
+    257,
+    480,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    168,
+    303
+   ]
+  },
+  {
+   "text": "H-9270 Tótfa, Tamásifalui utca 145.",
+   "bbox": [
+    330,
+    287,
+    667,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    252,
+    334
+   ]
+  },
+  {
+   "text": "1980. 09. 02.",
+   "bbox": [
+    330,
+    319,
+    454,
+    334
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    320,
+    394
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    90,
+    421,
+    198,
+    436
+   ]
+  },
+  {
+   "text": "értékesítő – Lakatos és Társa Bt.",
+   "bbox": [
+    90,
+    445,
+    424,
+    462
+   ]
+  },
+  {
+   "text": "2005 – 2007",
+   "bbox": [
+    90,
+    487,
+    198,
+    502
+   ]
+  },
+  {
+   "text": "adatelemző – Nemes Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    511,
+    466,
+    533
+   ]
+  },
+  {
+   "text": "2003 – 2005",
+   "bbox": [
+    90,
+    553,
+    198,
+    568
+   ]
+  },
+  {
+   "text": "projektmenedzser – Jónás Tech Kft.",
+   "bbox": [
+    90,
+    577,
+    463,
+    599
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    629,
+    245,
+    653
+   ]
+  },
+  {
+   "text": "1999 – 2004",
+   "bbox": [
+    90,
+    680,
+    198,
+    695
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    704,
+    347,
+    726
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    730,
+    221,
+    749
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    771,
+    198,
+    786
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    795,
+    341,
+    817
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    820,
+    330,
+    840
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    872,
+    218,
+    896
+   ]
+  },
+  {
+   "text": "angol (C1), francia (A2)",
+   "bbox": [
+    90,
+    923,
+    310,
+    942
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    970,
+    209,
+    994
+   ]
+  },
+  {
+   "text": "projektmenedzsment, Java, JavaScript, csapatmunka, SQL",
+   "bbox": [
+    90,
+    1021,
+    638,
+    1040
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

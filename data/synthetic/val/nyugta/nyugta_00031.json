@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ABC BT.",
+  "uzlet_cim": "H-8886 Debrecen, Mosonmindszenti utca 17.",
+  "adoszam": "12658277-2-09",
+  "datum": "2025.04.10.",
+  "ido": "14:45",
+  "nyugtaszam": "6684/92252",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 493 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "686"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3039"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "618"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "359"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "158"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "723"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "910"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ABC BT.",
+   "bbox": [
+    166,
+    31,
+    390,
+    52
+   ]
+  },
+  {
+   "text": "H-8886 Debrecen, Mosonmindszenti utca",
+   "bbox": [
+    37,
+    71,
+    518,
+    88
+   ]
+  },
+  {
+   "text": "17.",
+   "bbox": [
+    258,
+    99,
+    297,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 12658277-2-09",
+   "bbox": [
+    135,
+    124,
+    421,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    172,
+    330,
+    188
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    215,
+    136,
+    230
+   ]
+  },
+  {
+   "text": "686 C00",
+   "bbox": [
+    435,
+    215,
+    533,
+    230
+   ]
+  },
+  {
+   "text": "3 DB x 1013",
+   "bbox": [
+    24,
+    247,
+    167,
+    260
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    273,
+    192,
+    288
+   ]
+  },
+  {
+   "text": "3039 B00",
+   "bbox": [
+    421,
+    273,
+    533,
+    288
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    305,
+    178,
+    320
+   ]
+  },
+  {
+   "text": "618 B00",
+   "bbox": [
+    435,
+    305,
+    533,
+    320
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    338,
+    220,
+    352
+   ]
+  },
+  {
+   "text": "359 A00",
+   "bbox": [
+    435,
+    337,
+    533,
+    352
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    369,
+    220,
+    388
+   ]
+  },
+  {
+   "text": "158 C00",
+   "bbox": [
+    435,
+    369,
+    533,
+    384
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    401,
+    136,
+    416
+   ]
+  },
+  {
+   "text": "723 A00",
+   "bbox": [
+    435,
+    401,
+    533,
+    416
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    433,
+    234,
+    448
+   ]
+  },
+  {
+   "text": "910 C00",
+   "bbox": [
+    435,
+    433,
+    533,
+    448
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    475,
+    177,
+    496
+   ]
+  },
+  {
+   "text": "6 493 Ft",
+   "bbox": [
+    397,
+    479,
+    533,
+    496
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    515,
+    165,
+    534
+   ]
+  },
+  {
+   "text": "6 493 Ft",
+   "bbox": [
+    421,
+    519,
+    533,
+    534
+   ]
+  },
+  {
+   "text": "2025.04.10.",
+   "bbox": [
+    24,
+    565,
+    167,
+    579
+   ]
+  },
+  {
+   "text": "14:45",
+   "bbox": [
+    468,
+    565,
+    533,
+    579
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6684/92252",
+   "bbox": [
+    24,
+    594,
+    310,
+    613
+   ]
+  },
+  {
+   "text": "AP A38628566",
+   "bbox": [
+    24,
+    629,
+    180,
+    643
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    172,
+    668,
+    383,
+    688
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  557,
+  732
+ ]
+}

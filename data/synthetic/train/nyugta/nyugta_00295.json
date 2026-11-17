@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "DEÁK CSEMEGE BT.",
+  "uzlet_cim": "H-2174 Felsőligetberény, Borsodtóti utca 240.",
+  "adoszam": "51947671-2-12",
+  "datum": "2026.04.21.",
+  "ido": "14:22",
+  "nyugtaszam": "4730/69678",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "8 001 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1923"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1135"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "653"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1014"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "783"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "323"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1031"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1139"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "DEÁK CSEMEGE BT.",
+   "bbox": [
+    151,
+    30,
+    375,
+    50
+   ]
+  },
+  {
+   "text": "H-2174 Felsőligetberény, Borsodtóti utca",
+   "bbox": [
+    43,
+    66,
+    483,
+    83
+   ]
+  },
+  {
+   "text": "240.",
+   "bbox": [
+    241,
+    92,
+    285,
+    104
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 51947671-2-12",
+   "bbox": [
+    142,
+    114,
+    384,
+    129
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    217,
+    158,
+    309,
+    173
+   ]
+  },
+  {
+   "text": "3 DB x 641",
+   "bbox": [
+    24,
+    199,
+    134,
+    210
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    223,
+    128,
+    236
+   ]
+  },
+  {
+   "text": "1923 B00",
+   "bbox": [
+    399,
+    223,
+    503,
+    236
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    253,
+    154,
+    265
+   ]
+  },
+  {
+   "text": "1135 B00",
+   "bbox": [
+    399,
+    252,
+    503,
+    265
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    281,
+    167,
+    294
+   ]
+  },
+  {
+   "text": "653 C00",
+   "bbox": [
+    412,
+    281,
+    503,
+    294
+   ]
+  },
+  {
+   "text": "2 DB x 507",
+   "bbox": [
+    24,
+    309,
+    134,
+    320
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    333,
+    206,
+    346
+   ]
+  },
+  {
+   "text": "1014 B00",
+   "bbox": [
+    399,
+    333,
+    503,
+    346
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    362,
+    232,
+    375
+   ]
+  },
+  {
+   "text": "783 C00",
+   "bbox": [
+    412,
+    362,
+    503,
+    375
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    392,
+    193,
+    404
+   ]
+  },
+  {
+   "text": "323 B00",
+   "bbox": [
+    412,
+    391,
+    503,
+    404
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    420,
+    154,
+    433
+   ]
+  },
+  {
+   "text": "1031 A00",
+   "bbox": [
+    399,
+    420,
+    503,
+    433
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    449,
+    219,
+    462
+   ]
+  },
+  {
+   "text": "1139 A00",
+   "bbox": [
+    399,
+    449,
+    503,
+    462
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    485,
+    174,
+    506
+   ]
+  },
+  {
+   "text": "8 001 Ft",
+   "bbox": [
+    383,
+    490,
+    503,
+    506
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    526,
+    167,
+    542
+   ]
+  },
+  {
+   "text": "8 001 Ft",
+   "bbox": [
+    399,
+    529,
+    503,
+    542
+   ]
+  },
+  {
+   "text": "2026.04.21.",
+   "bbox": [
+    24,
+    571,
+    145,
+    583
+   ]
+  },
+  {
+   "text": "14:22",
+   "bbox": [
+    448,
+    571,
+    503,
+    583
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4730/69678",
+   "bbox": [
+    24,
+    597,
+    266,
+    614
+   ]
+  },
+  {
+   "text": "AP A96310819",
+   "bbox": [
+    24,
+    629,
+    156,
+    641
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    131,
+    667,
+    395,
+    683
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  527,
+  727
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Gál Emese",
+  "email": "gal.emese@outlook.com",
+  "telefon": "+36 70 931 9609",
+  "lakcim": "H-1671 Hátdevecser, Budahetveni utca 78.",
+  "szuletesi_datum": "1975. szeptember 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "1994 – 1998"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Csonka Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "1998 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "csapatmunka",
+   "projektmenedzsment",
+   "SAP",
+   "Docker",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    86,
+    213,
+    107
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    97,
+    147
+   ]
+  },
+  {
+   "text": "gal.emese@outlook.com",
+   "bbox": [
+    40,
+    156,
+    254,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    189,
+    109,
+    203
+   ]
+  },
+  {
+   "text": "+36 70 931 9609",
+   "bbox": [
+    40,
+    212,
+    187,
+    226
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    244,
+    107,
+    259
+   ]
+  },
+  {
+   "text": "H-1671 Hátdevecser, Budahetveni utca",
+   "bbox": [
+    40,
+    268,
+    380,
+    285
+   ]
+  },
+  {
+   "text": "78.",
+   "bbox": [
+    40,
+    291,
+    67,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    323,
+    187,
+    338
+   ]
+  },
+  {
+   "text": "1975. szeptember 23.",
+   "bbox": [
+    40,
+    347,
+    228,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    406,
+    196,
+    427
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    449,
+    133,
+    468
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    502,
+    181,
+    523
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    545,
+    65,
+    560
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    572,
+    159,
+    591
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    599,
+    226,
+    618
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    626,
+    79,
+    641
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    653,
+    103,
+    668
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    680,
+    82,
+    695
+   ]
+  },
+  {
+   "text": "Gál Emese",
+   "bbox": [
+    450,
+    94,
+    681,
+    127
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    160,
+    565,
+    187
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    688,
+    250
+   ]
+  },
+  {
+   "text": "1998 – 2001",
+   "bbox": [
+    450,
+    278,
+    570,
+    293
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Csonka Tech Kft.",
+   "bbox": [
+    450,
+    301,
+    927,
+    322
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    352,
+    610,
+    377
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    405,
+    570,
+    420
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    428,
+    804,
+    449
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    455,
+    607,
+    470
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    450,
+    496,
+    570,
+    511
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    519,
+    707,
+    540
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    546,
+    633,
+    565
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

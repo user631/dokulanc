@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "LENGYEL MARKET BT.",
+  "uzlet_cim": "H-4318 Borsodhetvenkövesd, Hátnémetii utca 160.",
+  "adoszam": "72304376-2-28",
+  "datum": "2026.01.11.",
+  "ido": "14:44",
+  "nyugtaszam": "5013/05664",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "1 787 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "383"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1404"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LENGYEL MARKET BT.",
+   "bbox": [
+    149,
+    36,
+    401,
+    50
+   ]
+  },
+  {
+   "text": "H-4318 Borsodhetvenkövesd, Hátnémetii utca",
+   "bbox": [
+    44,
+    66,
+    506,
+    82
+   ]
+  },
+  {
+   "text": "160.",
+   "bbox": [
+    253,
+    92,
+    297,
+    104
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 72304376-2-28",
+   "bbox": [
+    154,
+    114,
+    396,
+    129
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    229,
+    158,
+    321,
+    173
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    200,
+    167,
+    216
+   ]
+  },
+  {
+   "text": "383 B00",
+   "bbox": [
+    435,
+    200,
+    526,
+    213
+   ]
+  },
+  {
+   "text": "2 DB x 702",
+   "bbox": [
+    24,
+    228,
+    134,
+    239
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    252,
+    141,
+    265
+   ]
+  },
+  {
+   "text": "1404 A00",
+   "bbox": [
+    422,
+    252,
+    526,
+    265
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    290,
+    159,
+    309
+   ]
+  },
+  {
+   "text": "1 787 Ft",
+   "bbox": [
+    406,
+    293,
+    526,
+    309
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    329,
+    128,
+    345
+   ]
+  },
+  {
+   "text": "1 787 Ft",
+   "bbox": [
+    422,
+    332,
+    526,
+    345
+   ]
+  },
+  {
+   "text": "2026.01.11.",
+   "bbox": [
+    24,
+    374,
+    145,
+    386
+   ]
+  },
+  {
+   "text": "14:44",
+   "bbox": [
+    471,
+    374,
+    526,
+    386
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5013/05664",
+   "bbox": [
+    24,
+    400,
+    266,
+    417
+   ]
+  },
+  {
+   "text": "AP A96028683",
+   "bbox": [
+    24,
+    432,
+    156,
+    444
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    215,
+    471,
+    335,
+    486
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  550,
+  530
+ ]
+}

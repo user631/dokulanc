@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Vörös Tamás",
+  "anyja_neve": "Horváth Tamás",
+  "szuletesi_hely": "Keresztapáti",
+  "szuletesi_datum": "1960. 04. 04.",
+  "lakcim": "H-6843 Debrecen, Tamásihidai út 190.",
+  "telefon": "+36 20 546 2298",
+  "email": "voros.tamas@gmail.com",
+  "adoazonosito_jel": "8340615734",
+  "taj_szam": "869 420 007",
+  "kelt": "Belsőfürdőhalas, 2024. 10. 28."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    375,
+    79,
+    866,
+    108
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    495,
+    133,
+    745,
+    147
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    185,
+    258,
+    203
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    240,
+    127,
+    252
+   ]
+  },
+  {
+   "text": "Vörös Tamás",
+   "bbox": [
+    412,
+    237,
+    549,
+    256
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    291,
+    177,
+    306
+   ]
+  },
+  {
+   "text": "Horváth Tamás",
+   "bbox": [
+    412,
+    292,
+    576,
+    311
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    342,
+    195,
+    357
+   ]
+  },
+  {
+   "text": "Keresztapáti",
+   "bbox": [
+    412,
+    340,
+    550,
+    365
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    393,
+    188,
+    405
+   ]
+  },
+  {
+   "text": "1960. 04. 04.",
+   "bbox": [
+    412,
+    395,
+    552,
+    414
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    444,
+    149,
+    456
+   ]
+  },
+  {
+   "text": "H-6843 Debrecen, Tamásihidai út 190.",
+   "bbox": [
+    412,
+    444,
+    828,
+    465
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    495,
+    191,
+    507
+   ]
+  },
+  {
+   "text": "+36 20 546 2298",
+   "bbox": [
+    412,
+    491,
+    598,
+    510
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    546,
+    174,
+    558
+   ]
+  },
+  {
+   "text": "voros.tamas@gmail.com",
+   "bbox": [
+    412,
+    547,
+    662,
+    571
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    597,
+    220,
+    612
+   ]
+  },
+  {
+   "text": "8340615734",
+   "bbox": [
+    412,
+    596,
+    548,
+    614
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    648,
+    164,
+    660
+   ]
+  },
+  {
+   "text": "869 420 007",
+   "bbox": [
+    412,
+    648,
+    552,
+    667
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    723,
+    221,
+    741
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    769,
+    380,
+    784
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    814,
+    245,
+    826
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    859,
+    394,
+    874
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    959,
+    115,
+    972
+   ]
+  },
+  {
+   "text": "Belsőfürdőhalas, 2024. 10. 28.",
+   "bbox": [
+    171,
+    960,
+    467,
+    981
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    949,
+    1009,
+    988,
+    1019
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

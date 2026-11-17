@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2026/03908",
+  "kiallitas_datuma": "2026. 11. 03.",
+  "teljesites_datuma": "2026. 11. 01.",
+  "fizetesi_hatarido": "2026. 11. 11.",
+  "elado_nev": "Horváth és Társa Kft.",
+  "elado_cim": "H-6983 Némethetvennádasd, Szombathelyi utca 61.",
+  "elado_adoszam": "29673966-5-04",
+  "vevo_nev": "Németh Tamás",
+  "vevo_cim": "H-5817 Nyíregyháza, Tótházai út 65.",
+  "vevo_adoszam": null,
+  "bankszamla": "27268195-56789687",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "536 370 Ft",
+  "afa_osszesen": "144 820 Ft",
+  "brutto_osszesen": "681 190 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "6 210",
+    "netto": "6 210",
+    "afa_kulcs": "27%",
+    "afa": "1 677",
+    "brutto": "7 887"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "44 180",
+    "netto": "530 160",
+    "afa_kulcs": "27%",
+    "afa": "143 143",
+    "brutto": "673 303"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH",
+   "bbox": [
+    115,
+    130,
+    239,
+    150
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1015,
+    115,
+    1143,
+    144
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2026/03908",
+   "bbox": [
+    902,
+    172,
+    1143,
+    188
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    97,
+    253,
+    163,
+    268
+   ]
+  },
+  {
+   "text": "Horváth és Társa Kft.",
+   "bbox": [
+    97,
+    288,
+    317,
+    303
+   ]
+  },
+  {
+   "text": "H-6983 Némethetvennádasd, Szombathelyi utca 61.",
+   "bbox": [
+    97,
+    319,
+    538,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 29673966-5-04",
+   "bbox": [
+    97,
+    348,
+    322,
+    363
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    253,
+    689,
+    268
+   ]
+  },
+  {
+   "text": "Németh Tamás",
+   "bbox": [
+    630,
+    288,
+    780,
+    303
+   ]
+  },
+  {
+   "text": "H-5817 Nyíregyháza, Tótházai út 65.",
+   "bbox": [
+    630,
+    319,
+    947,
+    338
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    97,
+    415,
+    226,
+    428
+   ]
+  },
+  {
+   "text": "2026. 11. 03.",
+   "bbox": [
+    97,
+    443,
+    202,
+    456
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    415,
+    494,
+    432
+   ]
+  },
+  {
+   "text": "2026. 11. 01.",
+   "bbox": [
+    358,
+    443,
+    463,
+    456
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    415,
+    748,
+    428
+   ]
+  },
+  {
+   "text": "2026. 11. 11.",
+   "bbox": [
+    619,
+    443,
+    724,
+    456
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    415,
+    977,
+    428
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    880,
+    442,
+    943,
+    456
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    491,
+    189,
+    508
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    492,
+    574,
+    508
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    491,
+    745,
+    508
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    491,
+    871,
+    504
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    488,
+    933,
+    504
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    996,
+    488,
+    1033,
+    504
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1092,
+    491,
+    1143,
+    504
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    515,
+    531,
+    565,
+    544
+   ]
+  },
+  {
+   "text": "6 210",
+   "bbox": [
+    704,
+    532,
+    745,
+    544
+   ]
+  },
+  {
+   "text": "6 210",
+   "bbox": [
+    830,
+    532,
+    871,
+    544
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    532,
+    933,
+    544
+   ]
+  },
+  {
+   "text": "1 677",
+   "bbox": [
+    992,
+    532,
+    1033,
+    544
+   ]
+  },
+  {
+   "text": "7 887",
+   "bbox": [
+    1102,
+    532,
+    1143,
+    544
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    97,
+    531,
+    294,
+    548
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    515,
+    565,
+    596,
+    578
+   ]
+  },
+  {
+   "text": "44 180",
+   "bbox": [
+    695,
+    566,
+    745,
+    578
+   ]
+  },
+  {
+   "text": "530 160",
+   "bbox": [
+    812,
+    566,
+    871,
+    578
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    566,
+    933,
+    578
+   ]
+  },
+  {
+   "text": "143 143",
+   "bbox": [
+    974,
+    566,
+    1033,
+    578
+   ]
+  },
+  {
+   "text": "673 303",
+   "bbox": [
+    1084,
+    566,
+    1143,
+    578
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    97,
+    565,
+    258,
+    582
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    672,
+    619,
+    813,
+    635
+   ]
+  },
+  {
+   "text": "536 370 Ft",
+   "bbox": [
+    1047,
+    620,
+    1144,
+    635
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    678,
+    650,
+    813,
+    670
+   ]
+  },
+  {
+   "text": "144 820 Ft",
+   "bbox": [
+    1047,
+    655,
+    1144,
+    670
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    646,
+    690,
+    813,
+    710
+   ]
+  },
+  {
+   "text": "681 190 Ft",
+   "bbox": [
+    1045,
+    690,
+    1144,
+    705
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 27268195-56789687",
+   "bbox": [
+    97,
+    754,
+    416,
+    768
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    97,
+    783,
+    582,
+    799
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

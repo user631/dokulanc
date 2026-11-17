@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Nagy Ibolya",
+  "email": "nagy.ibolya@outlook.com",
+  "telefon": "+36 70 484 8541",
+  "lakcim": "H-4590 Miskolc, Mártonnémetii utca 216.",
+  "szuletesi_datum": "1981. szeptember 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "1999 – 2004"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Tech Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "ceg": "Balogh Tech Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2004 – 2005"
+   },
+   {
+    "ceg": "Fekete Consulting Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2003 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "B kategóriás jogosítvány",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    232,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    102,
+    160
+   ]
+  },
+  {
+   "text": "nagy.ibolya@outlook.com",
+   "bbox": [
+    40,
+    170,
+    269,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    108,
+    220
+   ]
+  },
+  {
+   "text": "+36 70 484 8541",
+   "bbox": [
+    40,
+    231,
+    188,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    110,
+    280
+   ]
+  },
+  {
+   "text": "H-4590 Miskolc, Mártonnémetii utca",
+   "bbox": [
+    40,
+    290,
+    358,
+    308
+   ]
+  },
+  {
+   "text": "216.",
+   "bbox": [
+    40,
+    316,
+    78,
+    330
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    183,
+    365
+   ]
+  },
+  {
+   "text": "1981. szeptember 10.",
+   "bbox": [
+    40,
+    375,
+    221,
+    394
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    436,
+    213,
+    459
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    481,
+    140,
+    501
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    536,
+    194,
+    559
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    581,
+    69,
+    597
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    610,
+    261,
+    631
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    639,
+    102,
+    660
+   ]
+  },
+  {
+   "text": "Nagy Ibolya",
+   "bbox": [
+    450,
+    107,
+    697,
+    148
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    173,
+    565,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    686,
+    267
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    295,
+    570,
+    310
+   ]
+  },
+  {
+   "text": "irodavezető – Farkas Tech Bt.",
+   "bbox": [
+    450,
+    322,
+    759,
+    338
+   ]
+  },
+  {
+   "text": "2004 – 2005",
+   "bbox": [
+    450,
+    365,
+    570,
+    380
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Balogh Tech Bt.",
+   "bbox": [
+    450,
+    392,
+    806,
+    413
+   ]
+  },
+  {
+   "text": "2003 – 2004",
+   "bbox": [
+    450,
+    435,
+    570,
+    450
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Fekete Consulting Kft.",
+   "bbox": [
+    450,
+    462,
+    984,
+    483
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    516,
+    615,
+    540
+   ]
+  },
+  {
+   "text": "1999 – 2004",
+   "bbox": [
+    450,
+    568,
+    570,
+    583
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    595,
+    640,
+    616
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    449,
+    621,
+    579,
+    642
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    665,
+    570,
+    680
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    692,
+    719,
+    708
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    718,
+    684,
+    739
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

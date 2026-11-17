@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szilágyi Anikó",
+  "email": "szilagyi.aniko@citromail.hu",
+  "telefon": "+36 70 703 9956",
+  "lakcim": "H-2744 Németmindszenthalas, Pécsi utca 62.",
+  "szuletesi_datum": "1987. április 3.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Papp Tech Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "ceg": "Simon Szolgáltató Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2011 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Python",
+   "B kategóriás jogosítvány",
+   "C#",
+   "Excel",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szilágyi Anikó",
+   "bbox": [
+    460,
+    107,
+    780,
+    154
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    513,
+    175,
+    726,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    226,
+    161,
+    243
+   ]
+  },
+  {
+   "text": "szilagyi.aniko@citromail.hu",
+   "bbox": [
+    330,
+    226,
+    589,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    173,
+    275
+   ]
+  },
+  {
+   "text": "+36 70 703 9956",
+   "bbox": [
+    330,
+    259,
+    495,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    290,
+    168,
+    307
+   ]
+  },
+  {
+   "text": "H-2744 Németmindszenthalas, Pécsi utca 62.",
+   "bbox": [
+    330,
+    290,
+    762,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    322,
+    261,
+    339
+   ]
+  },
+  {
+   "text": "1987. április 3.",
+   "bbox": [
+    330,
+    322,
+    468,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    330,
+    402
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    427,
+    209,
+    443
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Papp Tech Bt.",
+   "bbox": [
+    90,
+    453,
+    437,
+    475
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    90,
+    495,
+    209,
+    511
+   ]
+  },
+  {
+   "text": "értékesítő – Simon Szolgáltató Kft.",
+   "bbox": [
+    90,
+    521,
+    463,
+    543
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    575,
+    257,
+    600
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    90,
+    625,
+    209,
+    641
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    647,
+    266,
+    673
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    676,
+    348,
+    693
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    719,
+    209,
+    735
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    745,
+    391,
+    767
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    770,
+    332,
+    792
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    825,
+    227,
+    850
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    874,
+    197,
+    895
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    925,
+    214,
+    950
+   ]
+  },
+  {
+   "text": "SQL, Python, B kategóriás jogosítvány, C#, Excel, Linux",
+   "bbox": [
+    90,
+    974,
+    610,
+    996
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

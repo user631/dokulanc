@@ -1,0 +1,433 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VINCZE ABC BT.",
+  "uzlet_cim": "H-7153 Keresztvár, Győri utca 18.",
+  "adoszam": "86016544-4-30",
+  "datum": "2024.11.17.",
+  "ido": "12:02",
+  "nyugtaszam": "9436/90991",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 506 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "994"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "766"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1253"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1299"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "747"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2272"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1889"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "320"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "154"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1254"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "550"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1008"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VINCZE ABC BT.",
+   "bbox": [
+    188,
+    33,
+    356,
+    47
+   ]
+  },
+  {
+   "text": "H-7153 Keresztvár, Győri utca 18.",
+   "bbox": [
+    107,
+    63,
+    437,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 86016544-4-30",
+   "bbox": [
+    162,
+    86,
+    382,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    233,
+    127,
+    312,
+    142
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    168,
+    112,
+    181
+   ]
+  },
+  {
+   "text": "994 C00",
+   "bbox": [
+    444,
+    168,
+    521,
+    181
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    196,
+    123,
+    209
+   ]
+  },
+  {
+   "text": "766 C00",
+   "bbox": [
+    444,
+    196,
+    521,
+    209
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    224,
+    156,
+    237
+   ]
+  },
+  {
+   "text": "1253 A00",
+   "bbox": [
+    433,
+    224,
+    521,
+    237
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    252,
+    134,
+    265
+   ]
+  },
+  {
+   "text": "1299 C00",
+   "bbox": [
+    433,
+    252,
+    521,
+    265
+   ]
+  },
+  {
+   "text": "3 DB x 249",
+   "bbox": [
+    24,
+    280,
+    114,
+    291
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    302,
+    167,
+    315
+   ]
+  },
+  {
+   "text": "747 A00",
+   "bbox": [
+    444,
+    302,
+    521,
+    315
+   ]
+  },
+  {
+   "text": "2 DB x 1136",
+   "bbox": [
+    24,
+    330,
+    123,
+    341
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    352,
+    112,
+    365
+   ]
+  },
+  {
+   "text": "2272 B00",
+   "bbox": [
+    433,
+    352,
+    521,
+    365
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    380,
+    134,
+    393
+   ]
+  },
+  {
+   "text": "1889 C00",
+   "bbox": [
+    433,
+    380,
+    521,
+    393
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    408,
+    178,
+    421
+   ]
+  },
+  {
+   "text": "320 C00",
+   "bbox": [
+    444,
+    408,
+    521,
+    421
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    436,
+    178,
+    452
+   ]
+  },
+  {
+   "text": "154 A00",
+   "bbox": [
+    444,
+    436,
+    521,
+    449
+   ]
+  },
+  {
+   "text": "3 DB x 418",
+   "bbox": [
+    24,
+    464,
+    114,
+    475
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    486,
+    145,
+    499
+   ]
+  },
+  {
+   "text": "1254 B00",
+   "bbox": [
+    433,
+    486,
+    521,
+    499
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    514,
+    200,
+    527
+   ]
+  },
+  {
+   "text": "550 C00",
+   "bbox": [
+    444,
+    514,
+    521,
+    527
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    542,
+    189,
+    555
+   ]
+  },
+  {
+   "text": "1008 B00",
+   "bbox": [
+    433,
+    542,
+    521,
+    555
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    578,
+    154,
+    598
+   ]
+  },
+  {
+   "text": "13 506 Ft",
+   "bbox": [
+    404,
+    582,
+    521,
+    598
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    616,
+    134,
+    633
+   ]
+  },
+  {
+   "text": "13 506 Ft",
+   "bbox": [
+    422,
+    620,
+    521,
+    633
+   ]
+  },
+  {
+   "text": "2024.11.17.",
+   "bbox": [
+    24,
+    663,
+    134,
+    674
+   ]
+  },
+  {
+   "text": "12:02",
+   "bbox": [
+    471,
+    663,
+    521,
+    674
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9436/90991",
+   "bbox": [
+    24,
+    688,
+    244,
+    704
+   ]
+  },
+  {
+   "text": "AP A66455045",
+   "bbox": [
+    24,
+    719,
+    144,
+    730
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    162,
+    755,
+    382,
+    771
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  545,
+  816
+ ]
+}

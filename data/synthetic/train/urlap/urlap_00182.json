@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "László Rozália",
+  "anyja_neve": "Rácz Márta",
+  "szuletesi_hely": "Érd",
+  "szuletesi_datum": "1953.03.25.",
+  "lakcim": "H-1452 Kistapolcanádasd, Petőfi utca 204.",
+  "telefon": "+36 20 709 4279",
+  "email": "laszlo.rozalia@outlook.com",
+  "adoazonosito_jel": "8314944270",
+  "taj_szam": "068 077 793",
+  "kelt": "Tapolcanádasd, 2025.05.30."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    393,
+    99,
+    847,
+    132
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    471,
+    156,
+    770,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    98,
+    212,
+    304,
+    233
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    267,
+    151,
+    282
+   ]
+  },
+  {
+   "text": "László Rozália",
+   "bbox": [
+    397,
+    269,
+    543,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    321,
+    213,
+    340
+   ]
+  },
+  {
+   "text": "Rácz Márta",
+   "bbox": [
+    397,
+    320,
+    510,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    110,
+    375,
+    234,
+    394
+   ]
+  },
+  {
+   "text": "Érd",
+   "bbox": [
+    397,
+    372,
+    433,
+    393
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    110,
+    429,
+    225,
+    444
+   ]
+  },
+  {
+   "text": "1953.03.25.",
+   "bbox": [
+    397,
+    427,
+    511,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    110,
+    483,
+    180,
+    498
+   ]
+  },
+  {
+   "text": "H-1452 Kistapolcanádasd, Petőfi utca 204.",
+   "bbox": [
+    397,
+    483,
+    812,
+    505
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    537,
+    224,
+    552
+   ]
+  },
+  {
+   "text": "+36 20 709 4279",
+   "bbox": [
+    397,
+    537,
+    561,
+    553
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    110,
+    591,
+    209,
+    606
+   ]
+  },
+  {
+   "text": "laszlo.rozalia@outlook.com",
+   "bbox": [
+    397,
+    587,
+    671,
+    609
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    645,
+    261,
+    664
+   ]
+  },
+  {
+   "text": "8314944270",
+   "bbox": [
+    397,
+    647,
+    517,
+    663
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    699,
+    199,
+    714
+   ]
+  },
+  {
+   "text": "068 077 793",
+   "bbox": [
+    397,
+    700,
+    517,
+    716
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    98,
+    780,
+    267,
+    801
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    143,
+    824,
+    437,
+    843
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    143,
+    869,
+    284,
+    884
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    914,
+    458,
+    933
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    98,
+    1017,
+    142,
+    1033
+   ]
+  },
+  {
+   "text": "Tapolcanádasd, 2025.05.30.",
+   "bbox": [
+    188,
+    1014,
+    460,
+    1036
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1067,
+    975,
+    1080
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

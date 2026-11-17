@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fehér Roland",
+  "email": "feher.roland@example.hu",
+  "telefon": "06 1 369 6056",
+  "lakcim": "H-9865 Németmártonhalas, Németi tér 211.",
+  "szuletesi_datum": "2002. 10. 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2020 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szalai Consulting Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Juhász Trade Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Kocsis Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "JavaScript",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    90,
+    200,
+    111
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    136,
+    98,
+    151
+   ]
+  },
+  {
+   "text": "feher.roland@example.hu",
+   "bbox": [
+    40,
+    160,
+    274,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    194,
+    112,
+    209
+   ]
+  },
+  {
+   "text": "06 1 369 6056",
+   "bbox": [
+    40,
+    219,
+    158,
+    233
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    252,
+    106,
+    267
+   ]
+  },
+  {
+   "text": "H-9865 Németmártonhalas, Németi",
+   "bbox": [
+    40,
+    275,
+    358,
+    295
+   ]
+  },
+  {
+   "text": "tér 211.",
+   "bbox": [
+    40,
+    299,
+    110,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    334,
+    192,
+    349
+   ]
+  },
+  {
+   "text": "2002. 10. 30.",
+   "bbox": [
+    40,
+    359,
+    153,
+    373
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    186,
+    441
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    463,
+    136,
+    482
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    518,
+    166,
+    539
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    561,
+    74,
+    576
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    589,
+    136,
+    608
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    617,
+    68,
+    632
+   ]
+  },
+  {
+   "text": "Fehér Roland",
+   "bbox": [
+    450,
+    98,
+    737,
+    132
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    164,
+    574,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    231,
+    691,
+    256
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    450,
+    282,
+    599,
+    304
+   ]
+  },
+  {
+   "text": "irodavezető – Szalai Consulting Zrt.",
+   "bbox": [
+    450,
+    309,
+    829,
+    331
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    350,
+    599,
+    372
+   ]
+  },
+  {
+   "text": "tesztmérnök – Juhász Trade Kft.",
+   "bbox": [
+    450,
+    376,
+    798,
+    394
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    418,
+    599,
+    440
+   ]
+  },
+  {
+   "text": "értékesítő – Kocsis Consulting Kft.",
+   "bbox": [
+    450,
+    445,
+    816,
+    467
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    498,
+    613,
+    522
+   ]
+  },
+  {
+   "text": "2020 – 2025",
+   "bbox": [
+    450,
+    549,
+    568,
+    565
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    571,
+    624,
+    597
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    599,
+    689,
+    617
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    643,
+    568,
+    659
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    669,
+    709,
+    691
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    693,
+    709,
+    716
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

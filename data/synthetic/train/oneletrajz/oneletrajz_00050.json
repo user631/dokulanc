@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Hegedűs Dávid",
+  "email": "hegedus.david@citromail.hu",
+  "telefon": "+36 20 585 3695",
+  "lakcim": "H-3437 Győr, Kőrösi utca 169.",
+  "szuletesi_datum": "1977.10.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1997 – 2001"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pataki és Társa Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2001 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "ügyfélkezelés",
+   "SAP",
+   "csapatmunka",
+   "Java",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Hegedűs Dávid",
+   "bbox": [
+    456,
+    123,
+    783,
+    169
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    188,
+    719,
+    212
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    239,
+    155,
+    254
+   ]
+  },
+  {
+   "text": "hegedus.david@citromail.hu",
+   "bbox": [
+    330,
+    239,
+    579,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    269,
+    167,
+    284
+   ]
+  },
+  {
+   "text": "+36 20 585 3695",
+   "bbox": [
+    330,
+    270,
+    480,
+    284
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    299,
+    161,
+    314
+   ]
+  },
+  {
+   "text": "H-3437 Győr, Kőrösi utca 169.",
+   "bbox": [
+    330,
+    299,
+    593,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    329,
+    246,
+    344
+   ]
+  },
+  {
+   "text": "1977.10.03.",
+   "bbox": [
+    330,
+    330,
+    430,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    380,
+    314,
+    404
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    90,
+    430,
+    198,
+    444
+   ]
+  },
+  {
+   "text": "projektmenedzser – Pataki és Társa Kft.",
+   "bbox": [
+    90,
+    453,
+    475,
+    474
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    504,
+    246,
+    528
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    554,
+    198,
+    568
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    577,
+    334,
+    598
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    601,
+    211,
+    621
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    642,
+    198,
+    656
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    665,
+    327,
+    686
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    689,
+    262,
+    709
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    740,
+    218,
+    764
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    789,
+    184,
+    807
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    836,
+    208,
+    860
+   ]
+  },
+  {
+   "text": "Git, ügyfélkezelés, SAP, csapatmunka, Java, JavaScript",
+   "bbox": [
+    90,
+    885,
+    552,
+    905
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

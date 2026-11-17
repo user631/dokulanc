@@ -1,0 +1,563 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2026/02495",
+  "kiallitas_datuma": "2026. november 15.",
+  "teljesites_datuma": "2026. november 14.",
+  "fizetesi_hatarido": "2026. november 23.",
+  "elado_nev": "Szekeres és Társa Kft.",
+  "elado_cim": "H-4238 Pécs, Szolnoki utca 161.",
+  "elado_adoszam": "73708072-2-40",
+  "vevo_nev": "Fekete Trade Zrt.",
+  "vevo_cim": "H-8284 Veszprém, Györgyhalasi út 222.",
+  "vevo_adoszam": "46454061-3-10",
+  "bankszamla": "HU06 6909 2800 8065 0397 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "73 250 Ft",
+  "afa_osszesen": "19 589 Ft",
+  "brutto_osszesen": "92 939 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "4 db",
+    "egysegar": "4 890",
+    "netto": "19 560",
+    "afa_kulcs": "27%",
+    "afa": "5 281",
+    "brutto": "24 841"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 090",
+    "netto": "2 090",
+    "afa_kulcs": "18%",
+    "afa": "376",
+    "brutto": "2 466"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "5 óra",
+    "egysegar": "10 320",
+    "netto": "51 600",
+    "afa_kulcs": "27%",
+    "afa": "13 932",
+    "brutto": "65 532"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZEKERES",
+   "bbox": [
+    101,
+    120,
+    225,
+    138
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1013,
+    101,
+    1157,
+    134
+   ]
+  },
+  {
+   "text": "Sorszám: E-2026/02495",
+   "bbox": [
+    924,
+    158,
+    1157,
+    179
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    83,
+    238,
+    153,
+    256
+   ]
+  },
+  {
+   "text": "Szekeres és Társa Kft.",
+   "bbox": [
+    83,
+    272,
+    323,
+    290
+   ]
+  },
+  {
+   "text": "H-4238 Pécs, Szolnoki utca 161.",
+   "bbox": [
+    83,
+    303,
+    368,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 73708072-2-40",
+   "bbox": [
+    82,
+    331,
+    311,
+    348
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    238,
+    693,
+    256
+   ]
+  },
+  {
+   "text": "Fekete Trade Zrt.",
+   "bbox": [
+    630,
+    273,
+    819,
+    290
+   ]
+  },
+  {
+   "text": "H-8284 Veszprém, Györgyhalasi út 222.",
+   "bbox": [
+    630,
+    303,
+    983,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 46454061-3-10",
+   "bbox": [
+    629,
+    331,
+    858,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    83,
+    397,
+    253,
+    414
+   ]
+  },
+  {
+   "text": "2026. november 15.",
+   "bbox": [
+    383,
+    398,
+    562,
+    414
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    83,
+    427,
+    268,
+    448
+   ]
+  },
+  {
+   "text": "2026. november 14.",
+   "bbox": [
+    383,
+    428,
+    562,
+    444
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    83,
+    457,
+    258,
+    474
+   ]
+  },
+  {
+   "text": "2026. november 23.",
+   "bbox": [
+    383,
+    458,
+    562,
+    474
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    83,
+    487,
+    217,
+    504
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    383,
+    487,
+    464,
+    508
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    83,
+    529,
+    188,
+    546
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    531,
+    574,
+    546
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    529,
+    749,
+    546
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    529,
+    877,
+    543
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    526,
+    942,
+    543
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1009,
+    526,
+    1044,
+    543
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1102,
+    529,
+    1157,
+    543
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    569,
+    544,
+    582
+   ]
+  },
+  {
+   "text": "4 890",
+   "bbox": [
+    707,
+    570,
+    748,
+    582
+   ]
+  },
+  {
+   "text": "19 560",
+   "bbox": [
+    827,
+    570,
+    877,
+    582
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    570,
+    942,
+    582
+   ]
+  },
+  {
+   "text": "5 281",
+   "bbox": [
+    1003,
+    570,
+    1044,
+    582
+   ]
+  },
+  {
+   "text": "24 841",
+   "bbox": [
+    1107,
+    570,
+    1157,
+    582
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    83,
+    569,
+    215,
+    585
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    512,
+    602,
+    573,
+    615
+   ]
+  },
+  {
+   "text": "2 090",
+   "bbox": [
+    707,
+    603,
+    748,
+    615
+   ]
+  },
+  {
+   "text": "2 090",
+   "bbox": [
+    836,
+    603,
+    877,
+    615
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    603,
+    942,
+    615
+   ]
+  },
+  {
+   "text": "376",
+   "bbox": [
+    1017,
+    603,
+    1044,
+    615
+   ]
+  },
+  {
+   "text": "2 466",
+   "bbox": [
+    1116,
+    603,
+    1157,
+    615
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    82,
+    598,
+    192,
+    618
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    512,
+    634,
+    550,
+    648
+   ]
+  },
+  {
+   "text": "10 320",
+   "bbox": [
+    698,
+    636,
+    748,
+    648
+   ]
+  },
+  {
+   "text": "51 600",
+   "bbox": [
+    827,
+    636,
+    877,
+    648
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    636,
+    942,
+    648
+   ]
+  },
+  {
+   "text": "13 932",
+   "bbox": [
+    994,
+    636,
+    1044,
+    648
+   ]
+  },
+  {
+   "text": "65 532",
+   "bbox": [
+    1107,
+    636,
+    1157,
+    648
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    83,
+    634,
+    283,
+    651
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    682,
+    688,
+    827,
+    705
+   ]
+  },
+  {
+   "text": "73 250 Ft",
+   "bbox": [
+    1070,
+    689,
+    1157,
+    705
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    694,
+    718,
+    827,
+    739
+   ]
+  },
+  {
+   "text": "19 589 Ft",
+   "bbox": [
+    1070,
+    723,
+    1157,
+    739
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    708,
+    756,
+    827,
+    777
+   ]
+  },
+  {
+   "text": "92 939 Ft",
+   "bbox": [
+    1059,
+    757,
+    1157,
+    773
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU06 6909 2800 8065 0397 0000 0000",
+   "bbox": [
+    83,
+    820,
+    556,
+    835
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    83,
+    847,
+    563,
+    863
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    505,
+    1655,
+    734,
+    1670
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

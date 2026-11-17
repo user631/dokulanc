@@ -1,0 +1,298 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Barta Erzsébet",
+  "email": "barta.erzsebet@gmail.com",
+  "telefon": "06 1 828 3090",
+  "lakcim": "H-8946 Budapest, Petőfi tér 187.",
+  "szuletesi_datum": "1990. december 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Papp Tech Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2014 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "JavaScript",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    214,
+    115
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    142,
+    96,
+    154
+   ]
+  },
+  {
+   "text": "barta.erzsebet@gmail.com",
+   "bbox": [
+    39,
+    164,
+    241,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    198,
+    101,
+    210
+   ]
+  },
+  {
+   "text": "06 1 828 3090",
+   "bbox": [
+    40,
+    221,
+    155,
+    233
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    253,
+    103,
+    266
+   ]
+  },
+  {
+   "text": "H-8946 Budapest, Petőfi tér 187.",
+   "bbox": [
+    40,
+    276,
+    295,
+    293
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    309,
+    168,
+    322
+   ]
+  },
+  {
+   "text": "1990. december 29.",
+   "bbox": [
+    40,
+    332,
+    193,
+    345
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    393,
+    200,
+    412
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    434,
+    132,
+    452
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    461,
+    145,
+    479
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    516,
+    181,
+    535
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    557,
+    146,
+    575
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    584,
+    125,
+    602
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    611,
+    97,
+    629
+   ]
+  },
+  {
+   "text": "Barta Erzsébet",
+   "bbox": [
+    450,
+    104,
+    740,
+    136
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    168,
+    554,
+    195
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    236,
+    668,
+    258
+   ]
+  },
+  {
+   "text": "2014 – 2016",
+   "bbox": [
+    450,
+    286,
+    559,
+    300
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Papp Tech Bt.",
+   "bbox": [
+    450,
+    311,
+    861,
+    331
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    362,
+    604,
+    385
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    413,
+    559,
+    427
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    434,
+    608,
+    458
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    462,
+    664,
+    477
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    504,
+    559,
+    518
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    529,
+    686,
+    549
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    553,
+    615,
+    572
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

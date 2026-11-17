@@ -1,0 +1,352 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "PÁL ÉLELMISZER BT.",
+  "uzlet_cim": "H-9629 Keresztfalu, Budamindszenti utca 138.",
+  "adoszam": "22299071-3-23",
+  "datum": "2024.05.09.",
+  "ido": "15:58",
+  "nyugtaszam": "6842/74058",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 208 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "480"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "642"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "88"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "308"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1141"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "794"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3606"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÁL ÉLELMISZER BT.",
+   "bbox": [
+    149,
+    30,
+    401,
+    50
+   ]
+  },
+  {
+   "text": "H-9629 Keresztfalu, Budamindszenti utca",
+   "bbox": [
+    41,
+    68,
+    509,
+    84
+   ]
+  },
+  {
+   "text": "138.",
+   "bbox": [
+    251,
+    94,
+    299,
+    107
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 22299071-3-23",
+   "bbox": [
+    143,
+    117,
+    407,
+    133
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    163,
+    324,
+    178
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    205,
+    206,
+    219
+   ]
+  },
+  {
+   "text": "480 C00",
+   "bbox": [
+    435,
+    205,
+    526,
+    219
+   ]
+  },
+  {
+   "text": "3 DB x 214",
+   "bbox": [
+    24,
+    234,
+    134,
+    246
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    259,
+    206,
+    276
+   ]
+  },
+  {
+   "text": "642 B00",
+   "bbox": [
+    435,
+    259,
+    526,
+    273
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    290,
+    102,
+    303
+   ]
+  },
+  {
+   "text": "88 A00",
+   "bbox": [
+    448,
+    289,
+    526,
+    303
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    320,
+    194,
+    333
+   ]
+  },
+  {
+   "text": "308 C00",
+   "bbox": [
+    435,
+    319,
+    526,
+    333
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    350,
+    193,
+    363
+   ]
+  },
+  {
+   "text": "1141 A00",
+   "bbox": [
+    422,
+    349,
+    526,
+    363
+   ]
+  },
+  {
+   "text": "3 DB x 383",
+   "bbox": [
+    24,
+    378,
+    134,
+    390
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    403,
+    206,
+    417
+   ]
+  },
+  {
+   "text": "1149 B00",
+   "bbox": [
+    422,
+    403,
+    526,
+    417
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    433,
+    128,
+    447
+   ]
+  },
+  {
+   "text": "794 A00",
+   "bbox": [
+    435,
+    433,
+    526,
+    447
+   ]
+  },
+  {
+   "text": "3 DB x 1202",
+   "bbox": [
+    24,
+    462,
+    145,
+    474
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    487,
+    154,
+    501
+   ]
+  },
+  {
+   "text": "3606 A00",
+   "bbox": [
+    422,
+    487,
+    526,
+    501
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    526,
+    168,
+    546
+   ]
+  },
+  {
+   "text": "8 208 Ft",
+   "bbox": [
+    398,
+    530,
+    526,
+    546
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    566,
+    155,
+    583
+   ]
+  },
+  {
+   "text": "8 208 Ft",
+   "bbox": [
+    422,
+    569,
+    526,
+    583
+   ]
+  },
+  {
+   "text": "2024.05.09.",
+   "bbox": [
+    24,
+    612,
+    156,
+    625
+   ]
+  },
+  {
+   "text": "15:58",
+   "bbox": [
+    466,
+    612,
+    526,
+    625
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6842/74058",
+   "bbox": [
+    24,
+    639,
+    288,
+    657
+   ]
+  },
+  {
+   "text": "AP A79089479",
+   "bbox": [
+    24,
+    672,
+    168,
+    685
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    176,
+    712,
+    372,
+    728
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  550,
+  772
+ ]
+}

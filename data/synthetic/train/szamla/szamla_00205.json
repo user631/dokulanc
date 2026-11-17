@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/02089",
+  "kiallitas_datuma": "2026. november 5.",
+  "teljesites_datuma": "2026. november 2.",
+  "fizetesi_hatarido": "2026. december 5.",
+  "elado_nev": "Balogh Bt.",
+  "elado_cim": "H-9812 Dunaújváros, Ceglédi utca 166.",
+  "elado_adoszam": "33671682-3-14",
+  "vevo_nev": "Molnár Erzsébet",
+  "vevo_cim": "H-5973 Bakonyszékdevecser, Szigetszentmiklósi utca 117.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU92 9041 2376 2869 0731 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "2 406 890 Ft",
+  "afa_osszesen": "649 860 Ft",
+  "brutto_osszesen": "3 056 750 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "39 010",
+    "netto": "117 030",
+    "afa_kulcs": "27%",
+    "afa": "31 598",
+    "brutto": "148 628"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "207 420",
+    "netto": "2 074 200",
+    "afa_kulcs": "27%",
+    "afa": "560 034",
+    "brutto": "2 634 234"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "3 év",
+    "egysegar": "33 520",
+    "netto": "100 560",
+    "afa_kulcs": "27%",
+    "afa": "27 151",
+    "brutto": "127 711"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "115 100",
+    "netto": "115 100",
+    "afa_kulcs": "27%",
+    "afa": "31 077",
+    "brutto": "146 177"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH",
+   "bbox": [
+    114,
+    112,
+    198,
+    127
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    819,
+    82,
+    1164,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/02089",
+   "bbox": [
+    913,
+    147,
+    1164,
+    170
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    76,
+    228,
+    143,
+    246
+   ]
+  },
+  {
+   "text": "Balogh Bt.",
+   "bbox": [
+    76,
+    266,
+    187,
+    289
+   ]
+  },
+  {
+   "text": "H-9812 Dunaújváros, Ceglédi utca 166.",
+   "bbox": [
+    76,
+    301,
+    455,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 33671682-3-14",
+   "bbox": [
+    76,
+    333,
+    322,
+    350
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    229,
+    691,
+    246
+   ]
+  },
+  {
+   "text": "Molnár Erzsébet",
+   "bbox": [
+    630,
+    266,
+    806,
+    284
+   ]
+  },
+  {
+   "text": "H-5973 Bakonyszékdevecser, Szigetszentmiklósi utca",
+   "bbox": [
+    630,
+    301,
+    1143,
+    322
+   ]
+  },
+  {
+   "text": "117.",
+   "bbox": [
+    630,
+    335,
+    672,
+    350
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    76,
+    404,
+    213,
+    418
+   ]
+  },
+  {
+   "text": "2026. november 5.",
+   "bbox": [
+    76,
+    434,
+    252,
+    450
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    404,
+    500,
+    422
+   ]
+  },
+  {
+   "text": "2026. november 2.",
+   "bbox": [
+    348,
+    434,
+    524,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    404,
+    762,
+    418
+   ]
+  },
+  {
+   "text": "2026. december 5.",
+   "bbox": [
+    620,
+    434,
+    795,
+    450
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    404,
+    1001,
+    418
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    892,
+    433,
+    967,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    486,
+    185,
+    504
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    487,
+    578,
+    504
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    486,
+    751,
+    504
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    486,
+    881,
+    500
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    895,
+    483,
+    946,
+    500
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    483,
+    1049,
+    500
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1109,
+    486,
+    1164,
+    500
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    511,
+    529,
+    595,
+    543
+   ]
+  },
+  {
+   "text": "39 010",
+   "bbox": [
+    690,
+    530,
+    750,
+    543
+   ]
+  },
+  {
+   "text": "117 030",
+   "bbox": [
+    810,
+    530,
+    881,
+    543
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    529,
+    946,
+    543
+   ]
+  },
+  {
+   "text": "31 598",
+   "bbox": [
+    989,
+    530,
+    1049,
+    543
+   ]
+  },
+  {
+   "text": "148 628",
+   "bbox": [
+    1093,
+    530,
+    1164,
+    543
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    76,
+    529,
+    262,
+    547
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    511,
+    566,
+    606,
+    580
+   ]
+  },
+  {
+   "text": "207 420",
+   "bbox": [
+    679,
+    567,
+    750,
+    580
+   ]
+  },
+  {
+   "text": "2 074 200",
+   "bbox": [
+    794,
+    567,
+    881,
+    580
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    566,
+    946,
+    580
+   ]
+  },
+  {
+   "text": "560 034",
+   "bbox": [
+    978,
+    567,
+    1049,
+    580
+   ]
+  },
+  {
+   "text": "2 634 234",
+   "bbox": [
+    1077,
+    567,
+    1164,
+    580
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    76,
+    566,
+    255,
+    584
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    511,
+    603,
+    547,
+    617
+   ]
+  },
+  {
+   "text": "33 520",
+   "bbox": [
+    690,
+    604,
+    750,
+    617
+   ]
+  },
+  {
+   "text": "100 560",
+   "bbox": [
+    810,
+    604,
+    881,
+    617
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    603,
+    946,
+    617
+   ]
+  },
+  {
+   "text": "27 151",
+   "bbox": [
+    989,
+    604,
+    1049,
+    617
+   ]
+  },
+  {
+   "text": "127 711",
+   "bbox": [
+    1093,
+    604,
+    1164,
+    617
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    76,
+    603,
+    232,
+    621
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    640,
+    549,
+    654
+   ]
+  },
+  {
+   "text": "115 100",
+   "bbox": [
+    679,
+    641,
+    750,
+    654
+   ]
+  },
+  {
+   "text": "115 100",
+   "bbox": [
+    810,
+    641,
+    881,
+    654
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    640,
+    946,
+    654
+   ]
+  },
+  {
+   "text": "31 077",
+   "bbox": [
+    989,
+    641,
+    1049,
+    654
+   ]
+  },
+  {
+   "text": "146 177",
+   "bbox": [
+    1093,
+    641,
+    1164,
+    654
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    76,
+    640,
+    181,
+    654
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    674,
+    696,
+    834,
+    714
+   ]
+  },
+  {
+   "text": "2 406 890 Ft",
+   "bbox": [
+    1036,
+    698,
+    1164,
+    714
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    692,
+    731,
+    834,
+    752
+   ]
+  },
+  {
+   "text": "649 860 Ft",
+   "bbox": [
+    1055,
+    736,
+    1164,
+    752
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    649,
+    772,
+    834,
+    794
+   ]
+  },
+  {
+   "text": "3 056 750 Ft",
+   "bbox": [
+    1035,
+    774,
+    1164,
+    790
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU92 9041 2376 2869 0731 0000 0000",
+   "bbox": [
+    76,
+    840,
+    614,
+    857
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

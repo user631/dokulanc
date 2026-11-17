@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/04570",
+  "kiallitas_datuma": "2025-01-30",
+  "teljesites_datuma": "2025-01-28",
+  "fizetesi_hatarido": "2025-02-07",
+  "elado_nev": "Nagy Tech Zrt.",
+  "elado_cim": "H-5927 Oroszapáti, Németmelléki utca 46.",
+  "elado_adoszam": "41604089-2-08",
+  "vevo_nev": "Biró Bt.",
+  "vevo_cim": "H-6981 Székesfehérvár, Somogyhídi utca 144.",
+  "vevo_adoszam": "78723616-5-43",
+  "bankszamla": "HU15 4015 7223 3399 1777 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "88 210 Ft",
+  "afa_osszesen": "12 157 Ft",
+  "brutto_osszesen": "100 367 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "2 940",
+    "netto": "2 940",
+    "afa_kulcs": "27%",
+    "afa": "794",
+    "brutto": "3 734"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "1 720",
+    "netto": "3 440",
+    "afa_kulcs": "27%",
+    "afa": "929",
+    "brutto": "4 369"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "10 600",
+    "netto": "53 000",
+    "afa_kulcs": "5%",
+    "afa": "2 650",
+    "brutto": "55 650"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "3 óra",
+    "egysegar": "9 610",
+    "netto": "28 830",
+    "afa_kulcs": "27%",
+    "afa": "7 784",
+    "brutto": "36 614"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    142,
+    134,
+    212,
+    152
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    754,
+    108,
+    1143,
+    154
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/04570",
+   "bbox": [
+    909,
+    172,
+    1143,
+    193
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    97,
+    252,
+    167,
+    270
+   ]
+  },
+  {
+   "text": "Nagy Tech Zrt.",
+   "bbox": [
+    97,
+    287,
+    258,
+    308
+   ]
+  },
+  {
+   "text": "H-5927 Oroszapáti, Németmelléki utca 46.",
+   "bbox": [
+    97,
+    317,
+    476,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 41604089-2-08",
+   "bbox": [
+    96,
+    345,
+    325,
+    362
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    252,
+    693,
+    270
+   ]
+  },
+  {
+   "text": "Biró Bt.",
+   "bbox": [
+    630,
+    286,
+    713,
+    304
+   ]
+  },
+  {
+   "text": "H-6981 Székesfehérvár, Somogyhídi utca 144.",
+   "bbox": [
+    630,
+    317,
+    1040,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 78723616-5-43",
+   "bbox": [
+    629,
+    345,
+    858,
+    362
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    97,
+    411,
+    235,
+    425
+   ]
+  },
+  {
+   "text": "2025-01-30",
+   "bbox": [
+    97,
+    439,
+    191,
+    453
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    411,
+    509,
+    428
+   ]
+  },
+  {
+   "text": "2025-01-28",
+   "bbox": [
+    358,
+    439,
+    452,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    411,
+    761,
+    425
+   ]
+  },
+  {
+   "text": "2025-02-07",
+   "bbox": [
+    619,
+    439,
+    713,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    411,
+    988,
+    425
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    880,
+    438,
+    972,
+    457
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    485,
+    202,
+    502
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    487,
+    577,
+    502
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    667,
+    485,
+    746,
+    502
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    485,
+    871,
+    499
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    482,
+    933,
+    499
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    482,
+    1033,
+    499
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1088,
+    485,
+    1143,
+    499
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    525,
+    547,
+    538
+   ]
+  },
+  {
+   "text": "2 940",
+   "bbox": [
+    704,
+    526,
+    745,
+    538
+   ]
+  },
+  {
+   "text": "2 940",
+   "bbox": [
+    830,
+    526,
+    871,
+    538
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    526,
+    933,
+    538
+   ]
+  },
+  {
+   "text": "794",
+   "bbox": [
+    1006,
+    526,
+    1033,
+    538
+   ]
+  },
+  {
+   "text": "3 734",
+   "bbox": [
+    1102,
+    526,
+    1143,
+    538
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    97,
+    525,
+    229,
+    541
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    515,
+    558,
+    586,
+    571
+   ]
+  },
+  {
+   "text": "1 720",
+   "bbox": [
+    704,
+    559,
+    745,
+    571
+   ]
+  },
+  {
+   "text": "3 440",
+   "bbox": [
+    830,
+    559,
+    871,
+    571
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    559,
+    933,
+    571
+   ]
+  },
+  {
+   "text": "929",
+   "bbox": [
+    1006,
+    559,
+    1033,
+    571
+   ]
+  },
+  {
+   "text": "4 369",
+   "bbox": [
+    1102,
+    559,
+    1143,
+    571
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    97,
+    557,
+    185,
+    574
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    515,
+    591,
+    547,
+    604
+   ]
+  },
+  {
+   "text": "10 600",
+   "bbox": [
+    695,
+    592,
+    745,
+    604
+   ]
+  },
+  {
+   "text": "53 000",
+   "bbox": [
+    821,
+    592,
+    871,
+    604
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    907,
+    592,
+    933,
+    604
+   ]
+  },
+  {
+   "text": "2 650",
+   "bbox": [
+    992,
+    592,
+    1033,
+    604
+   ]
+  },
+  {
+   "text": "55 650",
+   "bbox": [
+    1093,
+    592,
+    1143,
+    604
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    97,
+    590,
+    298,
+    607
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    515,
+    623,
+    553,
+    637
+   ]
+  },
+  {
+   "text": "9 610",
+   "bbox": [
+    704,
+    625,
+    745,
+    637
+   ]
+  },
+  {
+   "text": "28 830",
+   "bbox": [
+    821,
+    625,
+    871,
+    637
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    625,
+    933,
+    637
+   ]
+  },
+  {
+   "text": "7 784",
+   "bbox": [
+    992,
+    625,
+    1033,
+    637
+   ]
+  },
+  {
+   "text": "36 614",
+   "bbox": [
+    1093,
+    625,
+    1143,
+    637
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    97,
+    623,
+    326,
+    640
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    668,
+    677,
+    813,
+    694
+   ]
+  },
+  {
+   "text": "88 210 Ft",
+   "bbox": [
+    1056,
+    678,
+    1143,
+    694
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    680,
+    707,
+    813,
+    728
+   ]
+  },
+  {
+   "text": "12 157 Ft",
+   "bbox": [
+    1056,
+    712,
+    1143,
+    728
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    694,
+    745,
+    813,
+    766
+   ]
+  },
+  {
+   "text": "100 367 Ft",
+   "bbox": [
+    1032,
+    746,
+    1143,
+    762
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU15 4015 7223 3399 1777 0000 0000",
+   "bbox": [
+    97,
+    809,
+    570,
+    824
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    449,
+    1641,
+    789,
+    1656
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

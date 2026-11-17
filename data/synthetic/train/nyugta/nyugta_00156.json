@@ -1,0 +1,356 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR MARKET KFT.",
+  "uzlet_cim": "H-6350 Mártonhalas, Salgótarjáni utca 119.",
+  "adoszam": "58134038-5-39",
+  "datum": "2026.04.03.",
+  "ido": "12:18",
+  "nyugtaszam": "8789/72026",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 756 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5724"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1365"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "352"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "317"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "224"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "587"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1876"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "809"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "502"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR MARKET KFT.",
+   "bbox": [
+    158,
+    31,
+    393,
+    49
+   ]
+  },
+  {
+   "text": "H-6350 Mártonhalas, Salgótarjáni utca 119.",
+   "bbox": [
+    45,
+    65,
+    507,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 58134038-5-39",
+   "bbox": [
+    155,
+    87,
+    397,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    233,
+    130,
+    319,
+    144
+   ]
+  },
+  {
+   "text": "3 DB x 1908",
+   "bbox": [
+    24,
+    170,
+    134,
+    181
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    192,
+    252,
+    205
+   ]
+  },
+  {
+   "text": "5724 B00",
+   "bbox": [
+    432,
+    192,
+    528,
+    205
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    220,
+    144,
+    233
+   ]
+  },
+  {
+   "text": "1365 B00",
+   "bbox": [
+    432,
+    220,
+    528,
+    233
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    249,
+    192,
+    261
+   ]
+  },
+  {
+   "text": "352 A00",
+   "bbox": [
+    444,
+    248,
+    528,
+    261
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    276,
+    192,
+    289
+   ]
+  },
+  {
+   "text": "317 B00",
+   "bbox": [
+    444,
+    276,
+    528,
+    289
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    304,
+    192,
+    320
+   ]
+  },
+  {
+   "text": "224 C00",
+   "bbox": [
+    444,
+    304,
+    528,
+    317
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    332,
+    132,
+    345
+   ]
+  },
+  {
+   "text": "587 A00",
+   "bbox": [
+    444,
+    332,
+    528,
+    345
+   ]
+  },
+  {
+   "text": "2 DB x 938",
+   "bbox": [
+    24,
+    360,
+    124,
+    371
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    382,
+    168,
+    395
+   ]
+  },
+  {
+   "text": "1876 C00",
+   "bbox": [
+    432,
+    382,
+    528,
+    395
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    410,
+    216,
+    423
+   ]
+  },
+  {
+   "text": "809 B00",
+   "bbox": [
+    444,
+    410,
+    528,
+    423
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    438,
+    156,
+    451
+   ]
+  },
+  {
+   "text": "502 C00",
+   "bbox": [
+    444,
+    438,
+    528,
+    451
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    474,
+    164,
+    494
+   ]
+  },
+  {
+   "text": "11 756 Ft",
+   "bbox": [
+    402,
+    479,
+    529,
+    494
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    513,
+    144,
+    529
+   ]
+  },
+  {
+   "text": "11 756 Ft",
+   "bbox": [
+    420,
+    516,
+    528,
+    529
+   ]
+  },
+  {
+   "text": "2026.04.03.",
+   "bbox": [
+    24,
+    558,
+    145,
+    569
+   ]
+  },
+  {
+   "text": "12:18",
+   "bbox": [
+    473,
+    558,
+    528,
+    569
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8789/72026",
+   "bbox": [
+    24,
+    583,
+    266,
+    598
+   ]
+  },
+  {
+   "text": "AP A16152193",
+   "bbox": [
+    24,
+    614,
+    156,
+    625
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    192,
+    651,
+    358,
+    666
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  552,
+  710
+ ]
+}

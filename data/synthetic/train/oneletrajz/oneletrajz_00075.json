@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Orosz József",
+  "email": "orosz.jozsef@outlook.com",
+  "telefon": "+36 30 248 4461",
+  "lakcim": "H-3839 Tapolcafa, Tótkövesdi utca 184.",
+  "szuletesi_datum": "2000. 09. 27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2018 – 2023"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vass Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Hegedűs Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2024 – 2025"
+   },
+   {
+    "ceg": "Fehér Trade Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2022 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Git",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    95,
+    200,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    98,
+    156
+   ]
+  },
+  {
+   "text": "orosz.jozsef@outlook.com",
+   "bbox": [
+    40,
+    165,
+    277,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    112,
+    214
+   ]
+  },
+  {
+   "text": "+36 30 248 4461",
+   "bbox": [
+    40,
+    224,
+    178,
+    238
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    106,
+    272
+   ]
+  },
+  {
+   "text": "H-3839 Tapolcafa, Tótkövesdi utca",
+   "bbox": [
+    40,
+    280,
+    353,
+    300
+   ]
+  },
+  {
+   "text": "184.",
+   "bbox": [
+    40,
+    306,
+    77,
+    320
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    339,
+    192,
+    354
+   ]
+  },
+  {
+   "text": "2000. 09. 27.",
+   "bbox": [
+    40,
+    364,
+    153,
+    378
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    425,
+    186,
+    446
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    467,
+    143,
+    487
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    496,
+    155,
+    515
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    551,
+    166,
+    572
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    593,
+    149,
+    613
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    622,
+    68,
+    637
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    650,
+    90,
+    665
+   ]
+  },
+  {
+   "text": "Orosz József",
+   "bbox": [
+    450,
+    103,
+    726,
+    137
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    172,
+    673,
+    197
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    236,
+    691,
+    261
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    287,
+    599,
+    309
+   ]
+  },
+  {
+   "text": "irodavezető – Vass Consulting Kft.",
+   "bbox": [
+    450,
+    314,
+    813,
+    336
+   ]
+  },
+  {
+   "text": "2024 – 2025",
+   "bbox": [
+    450,
+    356,
+    568,
+    372
+   ]
+  },
+  {
+   "text": "értékesítő – Hegedűs Logisztika Bt.",
+   "bbox": [
+    450,
+    382,
+    826,
+    404
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    424,
+    568,
+    440
+   ]
+  },
+  {
+   "text": "rendszergazda – Fehér Trade Zrt.",
+   "bbox": [
+    450,
+    450,
+    807,
+    472
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    503,
+    613,
+    527
+   ]
+  },
+  {
+   "text": "2018 – 2023",
+   "bbox": [
+    450,
+    554,
+    568,
+    570
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    580,
+    643,
+    602
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    604,
+    575,
+    627
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    648,
+    568,
+    664
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    674,
+    709,
+    696
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    698,
+    539,
+    721
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

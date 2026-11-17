@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Horváth Kristóf",
+  "anyja_neve": "Lukács Tamás",
+  "szuletesi_hely": "Szombathely",
+  "szuletesi_datum": "1953. 04. 29.",
+  "lakcim": "H-7665 Tatabánya, Tiszatapolcai út 190.",
+  "telefon": "+36 20 636 2374",
+  "email": "horvath.kristof@freemail.hu",
+  "adoazonosito_jel": "8315299405",
+  "taj_szam": "254 660 687",
+  "kelt": "Pusztatamásikövesd, 2024. 10. 06."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    434,
+    102,
+    806,
+    135
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    471,
+    159,
+    770,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    215,
+    307,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    270,
+    154,
+    285
+   ]
+  },
+  {
+   "text": "Horváth Kristóf",
+   "bbox": [
+    423,
+    268,
+    579,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    324,
+    216,
+    343
+   ]
+  },
+  {
+   "text": "Lukács Tamás",
+   "bbox": [
+    423,
+    320,
+    564,
+    337
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    378,
+    237,
+    397
+   ]
+  },
+  {
+   "text": "Szombathely",
+   "bbox": [
+    423,
+    378,
+    550,
+    400
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    432,
+    228,
+    447
+   ]
+  },
+  {
+   "text": "1953. 04. 29.",
+   "bbox": [
+    423,
+    434,
+    549,
+    450
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    486,
+    183,
+    501
+   ]
+  },
+  {
+   "text": "H-7665 Tatabánya, Tiszatapolcai út 190.",
+   "bbox": [
+    423,
+    486,
+    820,
+    508
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    540,
+    227,
+    555
+   ]
+  },
+  {
+   "text": "+36 20 636 2374",
+   "bbox": [
+    423,
+    539,
+    587,
+    555
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    594,
+    212,
+    609
+   ]
+  },
+  {
+   "text": "horvath.kristof@freemail.hu",
+   "bbox": [
+    423,
+    596,
+    700,
+    618
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    648,
+    264,
+    667
+   ]
+  },
+  {
+   "text": "8315299405",
+   "bbox": [
+    423,
+    647,
+    543,
+    663
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    702,
+    202,
+    717
+   ]
+  },
+  {
+   "text": "254 660 687",
+   "bbox": [
+    423,
+    704,
+    543,
+    720
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    783,
+    270,
+    804
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    827,
+    440,
+    846
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    872,
+    287,
+    887
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    917,
+    461,
+    936
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    1020,
+    145,
+    1036
+   ]
+  },
+  {
+   "text": "Pusztatamásikövesd, 2024. 10. 06.",
+   "bbox": [
+    191,
+    1017,
+    524,
+    1038
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1070,
+    972,
+    1083
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Károly",
+  "email": "kovacs.karoly@outlook.com",
+  "telefon": "06 1 911 5601",
+  "lakcim": "H-8773 Mártonháza, Érdi utca 166.",
+  "szuletesi_datum": "1984.04.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2002 – 2007"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Dudás Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2013 – 2015"
+   },
+   {
+    "ceg": "Varga és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "ceg": "Orsós Logisztika Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "C#",
+   "JavaScript",
+   "Docker",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    81,
+    215,
+    105
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    104,
+    145
+   ]
+  },
+  {
+   "text": "kovacs.karoly@outlook.com",
+   "bbox": [
+    40,
+    153,
+    287,
+    173
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    187,
+    115,
+    203
+   ]
+  },
+  {
+   "text": "06 1 911 5601",
+   "bbox": [
+    40,
+    212,
+    168,
+    227
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    244,
+    111,
+    261
+   ]
+  },
+  {
+   "text": "H-8773 Mártonháza, Érdi utca 166.",
+   "bbox": [
+    40,
+    264,
+    350,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    302,
+    202,
+    319
+   ]
+  },
+  {
+   "text": "1984.04.08.",
+   "bbox": [
+    40,
+    328,
+    146,
+    343
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    387,
+    202,
+    411
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    431,
+    151,
+    452
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    459,
+    145,
+    480
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    513,
+    183,
+    537
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    557,
+    104,
+    578
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    586,
+    68,
+    602
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    614,
+    135,
+    634
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    641,
+    104,
+    658
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    670,
+    78,
+    690
+   ]
+  },
+  {
+   "text": "Kovács Károly",
+   "bbox": [
+    450,
+    89,
+    775,
+    136
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    159,
+    667,
+    186
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    225,
+    717,
+    250
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    450,
+    277,
+    572,
+    293
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Dudás Bt.",
+   "bbox": [
+    449,
+    302,
+    767,
+    325
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    345,
+    572,
+    361
+   ]
+  },
+  {
+   "text": "tesztmérnök – Varga és Társa Kft.",
+   "bbox": [
+    450,
+    370,
+    847,
+    393
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    413,
+    572,
+    429
+   ]
+  },
+  {
+   "text": "tesztmérnök – Orsós Logisztika Bt.",
+   "bbox": [
+    450,
+    438,
+    856,
+    461
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    490,
+    629,
+    516
+   ]
+  },
+  {
+   "text": "2002 – 2007",
+   "bbox": [
+    450,
+    543,
+    572,
+    559
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    568,
+    1051,
+    591
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    593,
+    637,
+    615
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    637,
+    572,
+    653
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    662,
+    733,
+    685
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    687,
+    535,
+    709
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Mészáros Krisztina",
+  "email": "meszaros.krisztina@citromail.hu",
+  "telefon": "+36 70 287 8758",
+  "lakcim": "H-6370 Hódmezővásárhely, Mártonvégi utca 153.",
+  "szuletesi_datum": "1989.06.19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lakatos Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "ügyfélkezelés",
+   "B kategóriás jogosítvány",
+   "Python",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    95,
+    217,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    104,
+    155
+   ]
+  },
+  {
+   "text": "meszaros.krisztina@citromail.hu",
+   "bbox": [
+    40,
+    163,
+    335,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    195,
+    115,
+    209
+   ]
+  },
+  {
+   "text": "+36 70 287 8758",
+   "bbox": [
+    40,
+    218,
+    194,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    111,
+    263
+   ]
+  },
+  {
+   "text": "H-6370 Hódmezővásárhely,",
+   "bbox": [
+    40,
+    271,
+    292,
+    289
+   ]
+  },
+  {
+   "text": "Mártonvégi utca 153.",
+   "bbox": [
+    40,
+    293,
+    231,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    325,
+    203,
+    339
+   ]
+  },
+  {
+   "text": "1989.06.19.",
+   "bbox": [
+    40,
+    348,
+    149,
+    361
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    405,
+    205,
+    427
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    447,
+    149,
+    466
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    473,
+    142,
+    492
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    525,
+    184,
+    547
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    567,
+    165,
+    586
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    593,
+    167,
+    612
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    619,
+    275,
+    638
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    645,
+    105,
+    664
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    672,
+    69,
+    686
+   ]
+  },
+  {
+   "text": "Mészáros Krisztina",
+   "bbox": [
+    450,
+    103,
+    913,
+    140
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    172,
+    650,
+    191
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    234,
+    720,
+    258
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    284,
+    581,
+    299
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Lakatos Tech Kft.",
+   "bbox": [
+    450,
+    307,
+    931,
+    328
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    357,
+    630,
+    382
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    408,
+    581,
+    423
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    431,
+    678,
+    452
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    454,
+    716,
+    475
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    496,
+    581,
+    511
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    519,
+    735,
+    540
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    542,
+    710,
+    563
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

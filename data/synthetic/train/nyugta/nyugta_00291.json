@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SIMON DISZKONT KFT.",
+  "uzlet_cim": "H-7830 Szerbhátberény, Hódmezővásárhelyi utca 17.",
+  "adoszam": "75204426-5-32",
+  "datum": "2025.06.30.",
+  "ido": "13:26",
+  "nyugtaszam": "3472/28774",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 108 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "349"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "972"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "787"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON DISZKONT KFT.",
+   "bbox": [
+    142,
+    36,
+    427,
+    51
+   ]
+  },
+  {
+   "text": "H-7830 Szerbhátberény, Hódmezővásárhelyi",
+   "bbox": [
+    25,
+    70,
+    545,
+    87
+   ]
+  },
+  {
+   "text": "utca 17.",
+   "bbox": [
+    233,
+    97,
+    337,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 75204426-5-32",
+   "bbox": [
+    142,
+    121,
+    428,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    167,
+    334,
+    183
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    212,
+    206,
+    225
+   ]
+  },
+  {
+   "text": "349 B00",
+   "bbox": [
+    449,
+    211,
+    547,
+    225
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    242,
+    136,
+    256
+   ]
+  },
+  {
+   "text": "972 C00",
+   "bbox": [
+    449,
+    242,
+    547,
+    256
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    273,
+    234,
+    287
+   ]
+  },
+  {
+   "text": "787 B00",
+   "bbox": [
+    449,
+    273,
+    547,
+    287
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    311,
+    184,
+    333
+   ]
+  },
+  {
+   "text": "2 108 Ft",
+   "bbox": [
+    419,
+    316,
+    547,
+    333
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    354,
+    164,
+    371
+   ]
+  },
+  {
+   "text": "2 108 Ft",
+   "bbox": [
+    435,
+    357,
+    547,
+    371
+   ]
+  },
+  {
+   "text": "2025.06.30.",
+   "bbox": [
+    24,
+    401,
+    167,
+    414
+   ]
+  },
+  {
+   "text": "13:26",
+   "bbox": [
+    482,
+    401,
+    547,
+    414
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3472/28774",
+   "bbox": [
+    24,
+    429,
+    310,
+    447
+   ]
+  },
+  {
+   "text": "AP A20073084",
+   "bbox": [
+    24,
+    463,
+    180,
+    476
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    142,
+    502,
+    428,
+    520
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  571,
+  564
+ ]
+}

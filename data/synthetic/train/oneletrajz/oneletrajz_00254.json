@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Erzsébet",
+  "email": "nagy.erzsebet@citromail.hu",
+  "telefon": "+36 30 783 7303",
+  "lakcim": "H-7697 Mártonfalu, Győri utca 10.",
+  "szuletesi_datum": "1986. 02. 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Consulting Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "projektmenedzsment",
+   "JavaScript",
+   "ügyfélkezelés",
+   "prezentáció",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    206,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    157,
+    101,
+    173
+   ]
+  },
+  {
+   "text": "nagy.erzsebet@citromail.hu",
+   "bbox": [
+    40,
+    182,
+    297,
+    203
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    217,
+    114,
+    233
+   ]
+  },
+  {
+   "text": "+36 30 783 7303",
+   "bbox": [
+    40,
+    243,
+    193,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    277,
+    109,
+    293
+   ]
+  },
+  {
+   "text": "H-7697 Mártonfalu, Győri utca 10.",
+   "bbox": [
+    40,
+    302,
+    354,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    337,
+    196,
+    353
+   ]
+  },
+  {
+   "text": "1986. 02. 11.",
+   "bbox": [
+    40,
+    363,
+    155,
+    378
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    423,
+    201,
+    447
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    468,
+    159,
+    490
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    523,
+    173,
+    547
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    569,
+    67,
+    585
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    597,
+    246,
+    619
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    627,
+    136,
+    648
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    655,
+    171,
+    677
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    684,
+    153,
+    706
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    714,
+    81,
+    730
+   ]
+  },
+  {
+   "text": "Nagy Erzsébet",
+   "bbox": [
+    450,
+    121,
+    764,
+    167
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    190,
+    647,
+    210
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    255,
+    706,
+    281
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    307,
+    570,
+    323
+   ]
+  },
+  {
+   "text": "irodavezető – Tóth Consulting Zrt.",
+   "bbox": [
+    450,
+    333,
+    842,
+    357
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    388,
+    625,
+    414
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    440,
+    570,
+    456
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    466,
+    671,
+    490
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    492,
+    725,
+    515
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    537,
+    570,
+    553
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    563,
+    770,
+    587
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    590,
+    649,
+    612
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

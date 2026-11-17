@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Balázs Ágnes",
+  "anyja_neve": "Pásztor Béla",
+  "szuletesi_hely": "Pusztatapolcakövesd",
+  "szuletesi_datum": "1959.01.05.",
+  "lakcim": "H-8294 Bakonygyörgyvár, Szigetszentmiklósi út 112.",
+  "telefon": "06 1 385 3126",
+  "email": "balazs.agnes@example.hu",
+  "adoazonosito_jel": "8336069178",
+  "taj_szam": "169 951 818",
+  "kelt": "Baja, 2024.01.05."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    303,
+    102,
+    939,
+    135
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    476,
+    159,
+    764,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    215,
+    307,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    270,
+    154,
+    285
+   ]
+  },
+  {
+   "text": "Balázs Ágnes",
+   "bbox": [
+    400,
+    264,
+    532,
+    290
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    324,
+    216,
+    343
+   ]
+  },
+  {
+   "text": "Pásztor Béla",
+   "bbox": [
+    400,
+    321,
+    522,
+    338
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    378,
+    237,
+    397
+   ]
+  },
+  {
+   "text": "Pusztatapolcakövesd",
+   "bbox": [
+    400,
+    375,
+    603,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    432,
+    228,
+    447
+   ]
+  },
+  {
+   "text": "1959.01.05.",
+   "bbox": [
+    400,
+    434,
+    514,
+    450
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    486,
+    183,
+    501
+   ]
+  },
+  {
+   "text": "H-8294 Bakonygyörgyvár, Szigetszentmiklósi út 112.",
+   "bbox": [
+    400,
+    483,
+    922,
+    505
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    540,
+    227,
+    555
+   ]
+  },
+  {
+   "text": "06 1 385 3126",
+   "bbox": [
+    400,
+    539,
+    538,
+    555
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    594,
+    212,
+    609
+   ]
+  },
+  {
+   "text": "balazs.agnes@example.hu",
+   "bbox": [
+    399,
+    591,
+    657,
+    613
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    648,
+    264,
+    667
+   ]
+  },
+  {
+   "text": "8336069178",
+   "bbox": [
+    400,
+    651,
+    520,
+    667
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    702,
+    202,
+    717
+   ]
+  },
+  {
+   "text": "169 951 818",
+   "bbox": [
+    400,
+    705,
+    520,
+    721
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    783,
+    270,
+    804
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    827,
+    440,
+    846
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    872,
+    287,
+    887
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    917,
+    461,
+    936
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    1020,
+    145,
+    1036
+   ]
+  },
+  {
+   "text": "Baja, 2024.01.05.",
+   "bbox": [
+    191,
+    1017,
+    362,
+    1039
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1070,
+    972,
+    1083
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

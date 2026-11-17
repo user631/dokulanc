@@ -1,0 +1,391 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NAGY CSEMEGE KFT.",
+  "uzlet_cim": "H-9664 Újtamásivárad, Petőfi út 103.",
+  "adoszam": "54204256-2-40",
+  "datum": "2026.06.20.",
+  "ido": "09:32",
+  "nyugtaszam": "3238/64548",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 877 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1556"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1088"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "634"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "399"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "607"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1092"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "423"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "244"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1160"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "93"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "581"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY CSEMEGE KFT.",
+   "bbox": [
+    174,
+    33,
+    395,
+    48
+   ]
+  },
+  {
+   "text": "H-9664 Újtamásivárad, Petőfi út 103.",
+   "bbox": [
+    87,
+    62,
+    483,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 54204256-2-40",
+   "bbox": [
+    164,
+    88,
+    406,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    243,
+    133,
+    328,
+    150
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    177,
+    180,
+    191
+   ]
+  },
+  {
+   "text": "1556 C00",
+   "bbox": [
+    451,
+    177,
+    547,
+    191
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    207,
+    168,
+    221
+   ]
+  },
+  {
+   "text": "1088 B00",
+   "bbox": [
+    451,
+    207,
+    547,
+    221
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    237,
+    120,
+    251
+   ]
+  },
+  {
+   "text": "634 B00",
+   "bbox": [
+    463,
+    237,
+    547,
+    251
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    267,
+    156,
+    281
+   ]
+  },
+  {
+   "text": "399 A00",
+   "bbox": [
+    463,
+    267,
+    547,
+    281
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    297,
+    132,
+    311
+   ]
+  },
+  {
+   "text": "607 B00",
+   "bbox": [
+    463,
+    297,
+    547,
+    311
+   ]
+  },
+  {
+   "text": "3 DB x 364",
+   "bbox": [
+    24,
+    327,
+    124,
+    339
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    350,
+    156,
+    369
+   ]
+  },
+  {
+   "text": "1092 A00",
+   "bbox": [
+    451,
+    351,
+    547,
+    365
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    381,
+    192,
+    395
+   ]
+  },
+  {
+   "text": "423 A00",
+   "bbox": [
+    463,
+    381,
+    547,
+    395
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    411,
+    180,
+    425
+   ]
+  },
+  {
+   "text": "244 B00",
+   "bbox": [
+    463,
+    411,
+    547,
+    425
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    441,
+    120,
+    455
+   ]
+  },
+  {
+   "text": "1160 B00",
+   "bbox": [
+    451,
+    441,
+    547,
+    455
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    471,
+    96,
+    485
+   ]
+  },
+  {
+   "text": "93 B00",
+   "bbox": [
+    475,
+    471,
+    547,
+    485
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    501,
+    132,
+    515
+   ]
+  },
+  {
+   "text": "581 C00",
+   "bbox": [
+    463,
+    501,
+    547,
+    515
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    538,
+    164,
+    560
+   ]
+  },
+  {
+   "text": "7 877 Ft",
+   "bbox": [
+    435,
+    543,
+    547,
+    560
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    578,
+    120,
+    597
+   ]
+  },
+  {
+   "text": "7 877 Ft",
+   "bbox": [
+    451,
+    583,
+    547,
+    597
+   ]
+  },
+  {
+   "text": "2026.06.20.",
+   "bbox": [
+    24,
+    626,
+    145,
+    639
+   ]
+  },
+  {
+   "text": "09:32",
+   "bbox": [
+    492,
+    626,
+    547,
+    639
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3238/64548",
+   "bbox": [
+    24,
+    652,
+    266,
+    671
+   ]
+  },
+  {
+   "text": "AP A36986558",
+   "bbox": [
+    24,
+    686,
+    156,
+    699
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    195,
+    725,
+    375,
+    742
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  571,
+  788
+ ]
+}

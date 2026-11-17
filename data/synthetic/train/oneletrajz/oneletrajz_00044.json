@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Tünde",
+  "email": "toth.tunde@citromail.hu",
+  "telefon": "+36 20 115 6597",
+  "lakcim": "H-7491 Ligetkövesd, Györgyvári utca 50.",
+  "szuletesi_datum": "1995. szeptember 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szűcs Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "SQL",
+   "Linux",
+   "Git",
+   "Python",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Tünde",
+   "bbox": [
+    510,
+    90,
+    730,
+    123
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    537,
+    161,
+    703,
+    177
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    148,
+    226
+   ]
+  },
+  {
+   "text": "toth.tunde@citromail.hu",
+   "bbox": [
+    330,
+    212,
+    540,
+    228
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    242,
+    159,
+    256
+   ]
+  },
+  {
+   "text": "+36 20 115 6597",
+   "bbox": [
+    330,
+    243,
+    465,
+    256
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    272,
+    153,
+    286
+   ]
+  },
+  {
+   "text": "H-7491 Ligetkövesd, Györgyvári utca 50.",
+   "bbox": [
+    330,
+    272,
+    660,
+    290
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    302,
+    229,
+    316
+   ]
+  },
+  {
+   "text": "1995. szeptember 12.",
+   "bbox": [
+    330,
+    302,
+    508,
+    320
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    353,
+    289,
+    373
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    403,
+    190,
+    416
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szűcs Bt.",
+   "bbox": [
+    90,
+    427,
+    415,
+    445
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    477,
+    227,
+    497
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    90,
+    527,
+    190,
+    540
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    551,
+    307,
+    569
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    574,
+    205,
+    592
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    615,
+    190,
+    628
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    639,
+    297,
+    657
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    662,
+    307,
+    680
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    713,
+    202,
+    733
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    762,
+    182,
+    780
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    809,
+    192,
+    829
+   ]
+  },
+  {
+   "text": "projektmenedzsment, SQL, Linux, Git, Python, JavaScript",
+   "bbox": [
+    90,
+    858,
+    558,
+    876
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

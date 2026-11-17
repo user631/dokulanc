@@ -1,0 +1,467 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KATONA KISBOLT KFT.",
+  "uzlet_cim": "H-5564 Kishídhida, Zalaegerszegi utca 7.",
+  "adoszam": "46423489-2-39",
+  "datum": "2026.05.27.",
+  "ido": "11:13",
+  "nyugtaszam": "1030/45834",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "16 715 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "328"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "969"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "512"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "886"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "734"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3669"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1455"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "92"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1008"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "550"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1154"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5358"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KATONA KISBOLT KFT.",
+   "bbox": [
+    165,
+    35,
+    431,
+    49
+   ]
+  },
+  {
+   "text": "H-5564 Kishídhida, Zalaegerszegi utca 7.",
+   "bbox": [
+    78,
+    63,
+    518,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46423489-2-39",
+   "bbox": [
+    177,
+    88,
+    419,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    131,
+    343,
+    147
+   ]
+  },
+  {
+   "text": "2 DB x 164",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    195,
+    206,
+    213
+   ]
+  },
+  {
+   "text": "328 B00",
+   "bbox": [
+    482,
+    195,
+    573,
+    210
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    224,
+    219,
+    239
+   ]
+  },
+  {
+   "text": "969 B00",
+   "bbox": [
+    482,
+    224,
+    573,
+    239
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    253,
+    141,
+    268
+   ]
+  },
+  {
+   "text": "512 B00",
+   "bbox": [
+    482,
+    253,
+    573,
+    268
+   ]
+  },
+  {
+   "text": "2 DB x 443",
+   "bbox": [
+    24,
+    282,
+    134,
+    295
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    305,
+    167,
+    323
+   ]
+  },
+  {
+   "text": "886 A00",
+   "bbox": [
+    482,
+    305,
+    573,
+    320
+   ]
+  },
+  {
+   "text": "2 DB x 367",
+   "bbox": [
+    24,
+    334,
+    134,
+    347
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    357,
+    206,
+    372
+   ]
+  },
+  {
+   "text": "734 A00",
+   "bbox": [
+    482,
+    357,
+    573,
+    372
+   ]
+  },
+  {
+   "text": "3 DB x 1223",
+   "bbox": [
+    24,
+    386,
+    145,
+    399
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    411,
+    193,
+    424
+   ]
+  },
+  {
+   "text": "3669 C00",
+   "bbox": [
+    469,
+    409,
+    573,
+    424
+   ]
+  },
+  {
+   "text": "3 DB x 485",
+   "bbox": [
+    24,
+    438,
+    134,
+    451
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    463,
+    206,
+    476
+   ]
+  },
+  {
+   "text": "1455 A00",
+   "bbox": [
+    469,
+    461,
+    573,
+    476
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    492,
+    102,
+    505
+   ]
+  },
+  {
+   "text": "92 C00",
+   "bbox": [
+    495,
+    490,
+    573,
+    505
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    521,
+    154,
+    534
+   ]
+  },
+  {
+   "text": "1008 A00",
+   "bbox": [
+    469,
+    519,
+    573,
+    534
+   ]
+  },
+  {
+   "text": "2 DB x 275",
+   "bbox": [
+    24,
+    548,
+    134,
+    561
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    573,
+    193,
+    586
+   ]
+  },
+  {
+   "text": "550 A00",
+   "bbox": [
+    482,
+    571,
+    573,
+    586
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    600,
+    180,
+    615
+   ]
+  },
+  {
+   "text": "1154 B00",
+   "bbox": [
+    469,
+    600,
+    573,
+    615
+   ]
+  },
+  {
+   "text": "2 DB x 2679",
+   "bbox": [
+    24,
+    629,
+    145,
+    642
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    652,
+    271,
+    667
+   ]
+  },
+  {
+   "text": "5358 A00",
+   "bbox": [
+    469,
+    652,
+    573,
+    667
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    691,
+    159,
+    711
+   ]
+  },
+  {
+   "text": "16 715 Ft",
+   "bbox": [
+    438,
+    693,
+    573,
+    711
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    730,
+    154,
+    747
+   ]
+  },
+  {
+   "text": "16 715 Ft",
+   "bbox": [
+    456,
+    732,
+    573,
+    747
+   ]
+  },
+  {
+   "text": "2026.05.27.",
+   "bbox": [
+    24,
+    774,
+    145,
+    788
+   ]
+  },
+  {
+   "text": "11:13",
+   "bbox": [
+    518,
+    774,
+    573,
+    788
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1030/45834",
+   "bbox": [
+    24,
+    802,
+    266,
+    820
+   ]
+  },
+  {
+   "text": "AP A53601645",
+   "bbox": [
+    24,
+    832,
+    156,
+    846
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    238,
+    872,
+    358,
+    888
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  597,
+  933
+ ]
+}

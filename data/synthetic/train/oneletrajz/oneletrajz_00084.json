@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fodor Zoltán",
+  "email": "fodor.zoltan@example.hu",
+  "telefon": "+36 70 975 2834",
+  "lakcim": "H-1369 Szentszékapáti, Petőfi sándor tér 84.",
+  "szuletesi_datum": "2002.03.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orsós Szolgáltató Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "JavaScript",
+   "SQL",
+   "projektmenedzsment",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    86,
+    205,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    101,
+    151
+   ]
+  },
+  {
+   "text": "fodor.zoltan@example.hu",
+   "bbox": [
+    40,
+    161,
+    280,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    195,
+    115,
+    211
+   ]
+  },
+  {
+   "text": "+36 70 975 2834",
+   "bbox": [
+    40,
+    221,
+    190,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    255,
+    110,
+    271
+   ]
+  },
+  {
+   "text": "H-1369 Szentszékapáti, Petőfi",
+   "bbox": [
+    40,
+    280,
+    321,
+    300
+   ]
+  },
+  {
+   "text": "sándor tér 84.",
+   "bbox": [
+    40,
+    305,
+    171,
+    321
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    340,
+    194,
+    356
+   ]
+  },
+  {
+   "text": "2002.03.31.",
+   "bbox": [
+    40,
+    366,
+    152,
+    381
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    426,
+    193,
+    450
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    471,
+    158,
+    493
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    526,
+    170,
+    550
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    572,
+    170,
+    593
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    600,
+    143,
+    622
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    630,
+    77,
+    649
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    658,
+    249,
+    680
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    688,
+    65,
+    704
+   ]
+  },
+  {
+   "text": "Fodor Zoltán",
+   "bbox": [
+    450,
+    96,
+    731,
+    131
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    167,
+    656,
+    187
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    232,
+    699,
+    258
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    284,
+    606,
+    306
+   ]
+  },
+  {
+   "text": "rendszergazda – Orsós Szolgáltató Kft.",
+   "bbox": [
+    450,
+    311,
+    880,
+    334
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    365,
+    618,
+    391
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    418,
+    568,
+    434
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    444,
+    759,
+    467
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    470,
+    577,
+    493
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    515,
+    568,
+    531
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    541,
+    768,
+    564
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    567,
+    544,
+    590
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

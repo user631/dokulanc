@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth Adrienn",
+  "email": "toth.adrienn@gmail.com",
+  "telefon": "06 1 761 3607",
+  "lakcim": "H-6933 Eger, Békéscsabai utca 151.",
+  "szuletesi_datum": "1976. 01. 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "1995 – 1999"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2005 – 2008"
+   },
+   {
+    "ceg": "Kerekes Tech Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2001 – 2005"
+   },
+   {
+    "ceg": "Kovács Logisztika Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "1999 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Docker",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "csapatmunka",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    91,
+    200,
+    113
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    138,
+    100,
+    153
+   ]
+  },
+  {
+   "text": "toth.adrienn@gmail.com",
+   "bbox": [
+    40,
+    162,
+    257,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    112,
+    211
+   ]
+  },
+  {
+   "text": "06 1 761 3607",
+   "bbox": [
+    40,
+    221,
+    165,
+    235
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    254,
+    106,
+    269
+   ]
+  },
+  {
+   "text": "H-6933 Eger, Békéscsabai utca 151.",
+   "bbox": [
+    40,
+    278,
+    346,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    312,
+    191,
+    327
+   ]
+  },
+  {
+   "text": "1976. 01. 10.",
+   "bbox": [
+    40,
+    337,
+    150,
+    351
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    397,
+    194,
+    419
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    440,
+    133,
+    461
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    495,
+    169,
+    517
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    539,
+    80,
+    554
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    566,
+    106,
+    582
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    594,
+    164,
+    615
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    622,
+    235,
+    643
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    650,
+    163,
+    671
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    678,
+    87,
+    694
+   ]
+  },
+  {
+   "text": "Tóth Adrienn",
+   "bbox": [
+    450,
+    102,
+    736,
+    137
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    169,
+    568,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    690,
+    260
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    450,
+    285,
+    569,
+    301
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth és Társa Kft.",
+   "bbox": [
+    450,
+    311,
+    988,
+    333
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    353,
+    569,
+    369
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kerekes Tech Kft.",
+   "bbox": [
+    450,
+    379,
+    792,
+    396
+   ]
+  },
+  {
+   "text": "1999 – 2001",
+   "bbox": [
+    450,
+    421,
+    569,
+    437
+   ]
+  },
+  {
+   "text": "rendszergazda – Kovács Logisztika Zrt.",
+   "bbox": [
+    450,
+    447,
+    861,
+    469
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    501,
+    617,
+    526
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    551,
+    569,
+    567
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    577,
+    716,
+    599
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    447,
+    602,
+    511,
+    624
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    450,
+    645,
+    569,
+    661
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    671,
+    773,
+    693
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    696,
+    692,
+    718
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

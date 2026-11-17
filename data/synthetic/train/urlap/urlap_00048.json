@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Tóth Hanna",
+  "anyja_neve": "Molnár Katalin",
+  "szuletesi_hely": "Veszprém",
+  "szuletesi_datum": "1959.07.28.",
+  "lakcim": "H-7068 Pusztahetvenváros, Némettapolcai utca 173.",
+  "telefon": "06 1 538 7375",
+  "email": "toth.hanna@citromail.hu",
+  "adoazonosito_jel": "8338106399",
+  "taj_szam": "963 239 004",
+  "kelt": "Tiszafürdődevecser, 2024.12.25."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    512,
+    94,
+    728,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    200,
+    300,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    253,
+    138,
+    267
+   ]
+  },
+  {
+   "text": "Tóth Hanna",
+   "bbox": [
+    433,
+    254,
+    545,
+    271
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    101,
+    305,
+    197,
+    323
+   ]
+  },
+  {
+   "text": "Molnár Katalin",
+   "bbox": [
+    433,
+    302,
+    572,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    357,
+    219,
+    375
+   ]
+  },
+  {
+   "text": "Veszprém",
+   "bbox": [
+    433,
+    353,
+    530,
+    375
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    409,
+    211,
+    423
+   ]
+  },
+  {
+   "text": "1959.07.28.",
+   "bbox": [
+    433,
+    407,
+    544,
+    423
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    461,
+    163,
+    475
+   ]
+  },
+  {
+   "text": "H-7068 Pusztahetvenváros, Némettapolcai utca 173.",
+   "bbox": [
+    433,
+    456,
+    936,
+    478
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    101,
+    513,
+    211,
+    527
+   ]
+  },
+  {
+   "text": "06 1 538 7375",
+   "bbox": [
+    433,
+    509,
+    571,
+    525
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    565,
+    194,
+    579
+   ]
+  },
+  {
+   "text": "toth.hanna@citromail.hu",
+   "bbox": [
+    433,
+    566,
+    668,
+    585
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    101,
+    617,
+    246,
+    635
+   ]
+  },
+  {
+   "text": "8338106399",
+   "bbox": [
+    433,
+    617,
+    553,
+    633
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    101,
+    669,
+    182,
+    683
+   ]
+  },
+  {
+   "text": "963 239 004",
+   "bbox": [
+    433,
+    665,
+    553,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    748,
+    259,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    791,
+    427,
+    809
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    836,
+    268,
+    850
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    134,
+    881,
+    443,
+    899
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    985,
+    127,
+    1000
+   ]
+  },
+  {
+   "text": "Tiszafürdődevecser, 2024.12.25.",
+   "bbox": [
+    179,
+    981,
+    488,
+    1001
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1034,
+    983,
+    1046
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

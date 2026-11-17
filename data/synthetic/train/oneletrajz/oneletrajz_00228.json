@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Balogh Szilvia",
+  "email": "balogh.szilvia@citromail.hu",
+  "telefon": "+36 70 390 3858",
+  "lakcim": "H-8631 Pécs, Kőrösi utca 84.",
+  "szuletesi_datum": "1992. június 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pásztor Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2016 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "ügyfélkezelés",
+   "Git",
+   "csapatmunka",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    186,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    92,
+    167
+   ]
+  },
+  {
+   "text": "balogh.szilvia@citromail.hu",
+   "bbox": [
+    40,
+    176,
+    262,
+    193
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    208,
+    104,
+    221
+   ]
+  },
+  {
+   "text": "+36 70 390 3858",
+   "bbox": [
+    40,
+    230,
+    163,
+    243
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    261,
+    99,
+    275
+   ]
+  },
+  {
+   "text": "H-8631 Pécs, Kőrösi utca 84.",
+   "bbox": [
+    40,
+    283,
+    267,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    315,
+    173,
+    329
+   ]
+  },
+  {
+   "text": "1992. június 23.",
+   "bbox": [
+    40,
+    337,
+    167,
+    355
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    397,
+    175,
+    417
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    437,
+    135,
+    456
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    463,
+    135,
+    482
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    517,
+    156,
+    537
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    557,
+    139,
+    576
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    583,
+    155,
+    602
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    610,
+    66,
+    624
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    636,
+    152,
+    654
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    662,
+    127,
+    680
+   ]
+  },
+  {
+   "text": "Balogh Szilvia",
+   "bbox": [
+    450,
+    117,
+    729,
+    159
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    181,
+    564,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    675,
+    270
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    450,
+    297,
+    550,
+    311
+   ]
+  },
+  {
+   "text": "projektmenedzser – Pásztor Tech Kft.",
+   "bbox": [
+    450,
+    320,
+    819,
+    340
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    371,
+    602,
+    394
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    421,
+    549,
+    435
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    441,
+    608,
+    464
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    450,
+    467,
+    692,
+    483
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    509,
+    549,
+    523
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    532,
+    725,
+    552
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    555,
+    531,
+    575
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

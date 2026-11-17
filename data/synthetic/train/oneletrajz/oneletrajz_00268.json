@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Varga Veronika",
+  "email": "varga.veronika@citromail.hu",
+  "telefon": "+36 20 385 5965",
+  "lakcim": "H-9072 Mellékdevecser, Békéscsabai utca 3.",
+  "szuletesi_datum": "1986. 05. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "ceg": "Farkas Trade Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2010 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "ügyfélkezelés",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Varga Veronika",
+   "bbox": [
+    423,
+    107,
+    814,
+    153
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    172,
+    680,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    230,
+    173,
+    247
+   ]
+  },
+  {
+   "text": "varga.veronika@citromail.hu",
+   "bbox": [
+    329,
+    230,
+    613,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    262,
+    185,
+    279
+   ]
+  },
+  {
+   "text": "+36 20 385 5965",
+   "bbox": [
+    330,
+    263,
+    494,
+    283
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    182,
+    311
+   ]
+  },
+  {
+   "text": "H-9072 Mellékdevecser, Békéscsabai utca 3.",
+   "bbox": [
+    330,
+    294,
+    761,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    281,
+    343
+   ]
+  },
+  {
+   "text": "1986. 05. 08.",
+   "bbox": [
+    330,
+    327,
+    457,
+    347
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    378,
+    353,
+    404
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    435,
+    205,
+    451
+   ]
+  },
+  {
+   "text": "adatelemző – Kiss Szolgáltató Kft.",
+   "bbox": [
+    90,
+    457,
+    494,
+    479
+   ]
+  },
+  {
+   "text": "2010 – 2011",
+   "bbox": [
+    90,
+    503,
+    207,
+    515
+   ]
+  },
+  {
+   "text": "projektmenedzser – Farkas Trade Bt.",
+   "bbox": [
+    90,
+    525,
+    532,
+    547
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    576,
+    277,
+    602
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    629,
+    215,
+    645
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    655,
+    318,
+    677
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    680,
+    351,
+    702
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    723,
+    218,
+    739
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    749,
+    429,
+    771
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    774,
+    175,
+    796
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    826,
+    239,
+    852
+   ]
+  },
+  {
+   "text": "francia (A2), olasz (A2)",
+   "bbox": [
+    90,
+    878,
+    313,
+    899
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    926,
+    229,
+    952
+   ]
+  },
+  {
+   "text": "Linux, prezentáció, B kategóriás jogosítvány, ügyfélkezelés, SQL",
+   "bbox": [
+    90,
+    978,
+    712,
+    1000
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

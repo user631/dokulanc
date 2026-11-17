@@ -1,0 +1,554 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2026/09666",
+  "kiallitas_datuma": "2026. 06. 08.",
+  "teljesites_datuma": "2026. 06. 04.",
+  "fizetesi_hatarido": "2026. 06. 16.",
+  "elado_nev": "Varga Trade Bt.",
+  "elado_cim": "H-4390 Szolnok, Egyházasfürdői utca 77.",
+  "elado_adoszam": "96715465-3-23",
+  "vevo_nev": "Szabó Logisztika Kft.",
+  "vevo_cim": "H-3981 Zalaegerszeg, Debreceni utca 79.",
+  "vevo_adoszam": "95288905-2-39",
+  "bankszamla": "59229649-86217194-17224257",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "167 930 Ft",
+  "afa_osszesen": "44 910 Ft",
+  "brutto_osszesen": "212 840 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "2 db",
+    "egysegar": "77 920",
+    "netto": "155 840",
+    "afa_kulcs": "27%",
+    "afa": "42 077",
+    "brutto": "197 917"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "4 790",
+    "netto": "4 790",
+    "afa_kulcs": "18%",
+    "afa": "862",
+    "brutto": "5 652"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "7 300",
+    "netto": "7 300",
+    "afa_kulcs": "27%",
+    "afa": "1 971",
+    "brutto": "9 271"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    549,
+    112,
+    690,
+    142
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/09666",
+   "bbox": [
+    437,
+    168,
+    803,
+    185
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    103,
+    248,
+    167,
+    265
+   ]
+  },
+  {
+   "text": "Szabó Logisztika Kft.",
+   "bbox": [
+    104,
+    283,
+    336,
+    305
+   ]
+  },
+  {
+   "text": "H-3981 Zalaegerszeg, Debreceni utca 79.",
+   "bbox": [
+    104,
+    317,
+    504,
+    336
+   ]
+  },
+  {
+   "text": "Adószám: 95288905-2-39",
+   "bbox": [
+    103,
+    346,
+    352,
+    361
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    248,
+    700,
+    265
+   ]
+  },
+  {
+   "text": "Varga Trade Bt.",
+   "bbox": [
+    629,
+    283,
+    800,
+    305
+   ]
+  },
+  {
+   "text": "H-4390 Szolnok, Egyházasfürdői utca 77.",
+   "bbox": [
+    630,
+    317,
+    1027,
+    336
+   ]
+  },
+  {
+   "text": "Adószám: 96715465-3-23",
+   "bbox": [
+    629,
+    346,
+    878,
+    361
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    104,
+    411,
+    242,
+    425
+   ]
+  },
+  {
+   "text": "2026. 06. 08.",
+   "bbox": [
+    104,
+    439,
+    222,
+    454
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    362,
+    411,
+    513,
+    429
+   ]
+  },
+  {
+   "text": "2026. 06. 04.",
+   "bbox": [
+    362,
+    439,
+    480,
+    454
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    411,
+    762,
+    425
+   ]
+  },
+  {
+   "text": "2026. 06. 16.",
+   "bbox": [
+    620,
+    439,
+    738,
+    454
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    411,
+    987,
+    425
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    878,
+    439,
+    948,
+    454
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    104,
+    487,
+    210,
+    505
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    488,
+    578,
+    505
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    662,
+    487,
+    744,
+    505
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    821,
+    487,
+    867,
+    501
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    876,
+    484,
+    929,
+    502
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    484,
+    1027,
+    501
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1082,
+    487,
+    1136,
+    501
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    516,
+    528,
+    551,
+    541
+   ]
+  },
+  {
+   "text": "77 920",
+   "bbox": [
+    688,
+    528,
+    743,
+    541
+   ]
+  },
+  {
+   "text": "155 840",
+   "bbox": [
+    802,
+    528,
+    867,
+    541
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    528,
+    929,
+    541
+   ]
+  },
+  {
+   "text": "42 077",
+   "bbox": [
+    972,
+    528,
+    1027,
+    541
+   ]
+  },
+  {
+   "text": "197 917",
+   "bbox": [
+    1071,
+    528,
+    1136,
+    541
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    104,
+    528,
+    195,
+    541
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    516,
+    562,
+    594,
+    579
+   ]
+  },
+  {
+   "text": "4 790",
+   "bbox": [
+    698,
+    562,
+    743,
+    575
+   ]
+  },
+  {
+   "text": "4 790",
+   "bbox": [
+    822,
+    562,
+    867,
+    575
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    893,
+    562,
+    929,
+    575
+   ]
+  },
+  {
+   "text": "862",
+   "bbox": [
+    997,
+    562,
+    1027,
+    575
+   ]
+  },
+  {
+   "text": "5 652",
+   "bbox": [
+    1091,
+    562,
+    1136,
+    575
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    104,
+    562,
+    252,
+    579
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    516,
+    596,
+    551,
+    609
+   ]
+  },
+  {
+   "text": "7 300",
+   "bbox": [
+    698,
+    596,
+    743,
+    609
+   ]
+  },
+  {
+   "text": "7 300",
+   "bbox": [
+    822,
+    596,
+    867,
+    609
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    596,
+    929,
+    609
+   ]
+  },
+  {
+   "text": "1 971",
+   "bbox": [
+    982,
+    596,
+    1027,
+    609
+   ]
+  },
+  {
+   "text": "9 271",
+   "bbox": [
+    1091,
+    596,
+    1136,
+    609
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    104,
+    596,
+    263,
+    613
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    650,
+    650,
+    806,
+    666
+   ]
+  },
+  {
+   "text": "167 930 Ft",
+   "bbox": [
+    1033,
+    650,
+    1136,
+    666
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    658,
+    681,
+    806,
+    701
+   ]
+  },
+  {
+   "text": "44 910 Ft",
+   "bbox": [
+    1045,
+    685,
+    1136,
+    701
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    618,
+    719,
+    806,
+    740
+   ]
+  },
+  {
+   "text": "212 840 Ft",
+   "bbox": [
+    1032,
+    720,
+    1137,
+    736
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 59229649-86217194-17224257",
+   "bbox": [
+    104,
+    785,
+    550,
+    800
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    104,
+    813,
+    626,
+    829
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    438,
+    1634,
+    802,
+    1649
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

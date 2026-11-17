@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/05864",
+  "kiallitas_datuma": "2024. július 2.",
+  "teljesites_datuma": "2024. július 1.",
+  "fizetesi_hatarido": "2024. július 10.",
+  "elado_nev": "Boros Kft.",
+  "elado_cim": "H-5249 Györgybánya, Ady endre utca 24.",
+  "elado_adoszam": "58850103-2-51",
+  "vevo_nev": "Molnár Ádám",
+  "vevo_cim": "H-1713 Győr, Béke utca 225.",
+  "vevo_adoszam": null,
+  "bankszamla": "51498029-07910096",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "53 690 Ft",
+  "afa_osszesen": "9 070 Ft",
+  "brutto_osszesen": "62 760 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "3 db",
+    "egysegar": "910",
+    "netto": "2 730",
+    "afa_kulcs": "5%",
+    "afa": "136",
+    "brutto": "2 866"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "4 db",
+    "egysegar": "6 950",
+    "netto": "27 800",
+    "afa_kulcs": "27%",
+    "afa": "7 506",
+    "brutto": "35 306"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "4 db",
+    "egysegar": "5 270",
+    "netto": "21 080",
+    "afa_kulcs": "5%",
+    "afa": "1 054",
+    "brutto": "22 134"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 080",
+    "netto": "2 080",
+    "afa_kulcs": "18%",
+    "afa": "374",
+    "brutto": "2 454"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    524,
+    83,
+    717,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/05864",
+   "bbox": [
+    427,
+    147,
+    813,
+    170
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    227,
+    161,
+    245
+   ]
+  },
+  {
+   "text": "Boros Kft.",
+   "bbox": [
+    82,
+    263,
+    207,
+    281
+   ]
+  },
+  {
+   "text": "H-5249 Györgybánya, Ady endre utca 24.",
+   "bbox": [
+    82,
+    296,
+    483,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 58850103-2-51",
+   "bbox": [
+    81,
+    326,
+    332,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    227,
+    700,
+    245
+   ]
+  },
+  {
+   "text": "Molnár Ádám",
+   "bbox": [
+    630,
+    259,
+    799,
+    281
+   ]
+  },
+  {
+   "text": "H-1713 Győr, Béke utca 225.",
+   "bbox": [
+    630,
+    296,
+    903,
+    318
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    82,
+    394,
+    247,
+    408
+   ]
+  },
+  {
+   "text": "2024. július 2.",
+   "bbox": [
+    82,
+    422,
+    216,
+    443
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    351,
+    394,
+    527,
+    412
+   ]
+  },
+  {
+   "text": "2024. július 1.",
+   "bbox": [
+    351,
+    422,
+    482,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    394,
+    787,
+    408
+   ]
+  },
+  {
+   "text": "2024. július 10.",
+   "bbox": [
+    620,
+    422,
+    764,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    394,
+    1015,
+    408
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    422,
+    963,
+    438
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    472,
+    200,
+    490
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    473,
+    585,
+    490
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    472,
+    749,
+    490
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    472,
+    878,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    467,
+    942,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    467,
+    1046,
+    486
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1093,
+    472,
+    1158,
+    486
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    512,
+    513,
+    549,
+    530
+   ]
+  },
+  {
+   "text": "910",
+   "bbox": [
+    718,
+    517,
+    749,
+    530
+   ]
+  },
+  {
+   "text": "2 730",
+   "bbox": [
+    830,
+    517,
+    878,
+    530
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    514,
+    942,
+    530
+   ]
+  },
+  {
+   "text": "136",
+   "bbox": [
+    1016,
+    514,
+    1045,
+    530
+   ]
+  },
+  {
+   "text": "2 866",
+   "bbox": [
+    1109,
+    514,
+    1158,
+    527
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    82,
+    513,
+    179,
+    531
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    548,
+    550,
+    565
+   ]
+  },
+  {
+   "text": "6 950",
+   "bbox": [
+    700,
+    549,
+    749,
+    565
+   ]
+  },
+  {
+   "text": "27 800",
+   "bbox": [
+    817,
+    549,
+    878,
+    565
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    549,
+    942,
+    565
+   ]
+  },
+  {
+   "text": "7 506",
+   "bbox": [
+    997,
+    549,
+    1045,
+    565
+   ]
+  },
+  {
+   "text": "35 306",
+   "bbox": [
+    1100,
+    549,
+    1158,
+    565
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    82,
+    548,
+    192,
+    566
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    583,
+    550,
+    600
+   ]
+  },
+  {
+   "text": "5 270",
+   "bbox": [
+    701,
+    587,
+    749,
+    600
+   ]
+  },
+  {
+   "text": "21 080",
+   "bbox": [
+    819,
+    584,
+    878,
+    597
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    584,
+    942,
+    600
+   ]
+  },
+  {
+   "text": "1 054",
+   "bbox": [
+    999,
+    587,
+    1045,
+    600
+   ]
+  },
+  {
+   "text": "22 134",
+   "bbox": [
+    1102,
+    587,
+    1158,
+    600
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    82,
+    582,
+    315,
+    601
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    512,
+    618,
+    581,
+    632
+   ]
+  },
+  {
+   "text": "2 080",
+   "bbox": [
+    698,
+    619,
+    749,
+    632
+   ]
+  },
+  {
+   "text": "2 080",
+   "bbox": [
+    827,
+    619,
+    878,
+    632
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    619,
+    942,
+    632
+   ]
+  },
+  {
+   "text": "374",
+   "bbox": [
+    1014,
+    622,
+    1045,
+    635
+   ]
+  },
+  {
+   "text": "2 454",
+   "bbox": [
+    1110,
+    622,
+    1158,
+    635
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    81,
+    615,
+    203,
+    636
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    670,
+    674,
+    828,
+    691
+   ]
+  },
+  {
+   "text": "53 690 Ft",
+   "bbox": [
+    1059,
+    675,
+    1158,
+    695
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    682,
+    706,
+    828,
+    727
+   ]
+  },
+  {
+   "text": "9 070 Ft",
+   "bbox": [
+    1071,
+    711,
+    1158,
+    731
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    698,
+    746,
+    828,
+    768
+   ]
+  },
+  {
+   "text": "62 760 Ft",
+   "bbox": [
+    1049,
+    747,
+    1158,
+    767
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 51498029-07910096",
+   "bbox": [
+    82,
+    811,
+    452,
+    831
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    840,
+    625,
+    858
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    425,
+    1655,
+    814,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

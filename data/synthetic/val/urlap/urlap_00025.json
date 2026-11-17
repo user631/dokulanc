@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Jakab Andrea",
+  "anyja_neve": "Szabó Fanni",
+  "szuletesi_hely": "Győr",
+  "szuletesi_datum": "2003. 12. 04.",
+  "lakcim": "H-2156 Nyíregyháza, Egeri tér 1.",
+  "telefon": "+36 70 509 4647",
+  "email": "jakab.andrea@freemail.hu",
+  "adoazonosito_jel": "8500102519",
+  "taj_szam": "648 064 790",
+  "kelt": "Dunakeszi, 2025. 09. 03."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    465,
+    93,
+    775,
+    127
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    199,
+    299,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    252,
+    137,
+    266
+   ]
+  },
+  {
+   "text": "Jakab Andrea",
+   "bbox": [
+    410,
+    250,
+    540,
+    267
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    304,
+    196,
+    322
+   ]
+  },
+  {
+   "text": "Szabó Fanni",
+   "bbox": [
+    410,
+    305,
+    526,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    356,
+    218,
+    374
+   ]
+  },
+  {
+   "text": "Győr",
+   "bbox": [
+    410,
+    356,
+    457,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    408,
+    210,
+    422
+   ]
+  },
+  {
+   "text": "2003. 12. 04.",
+   "bbox": [
+    410,
+    409,
+    533,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    460,
+    162,
+    474
+   ]
+  },
+  {
+   "text": "H-2156 Nyíregyháza, Egeri tér 1.",
+   "bbox": [
+    410,
+    460,
+    725,
+    482
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    512,
+    210,
+    526
+   ]
+  },
+  {
+   "text": "+36 70 509 4647",
+   "bbox": [
+    410,
+    510,
+    575,
+    526
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    564,
+    193,
+    578
+   ]
+  },
+  {
+   "text": "jakab.andrea@freemail.hu",
+   "bbox": [
+    407,
+    561,
+    662,
+    583
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    616,
+    245,
+    634
+   ]
+  },
+  {
+   "text": "8500102519",
+   "bbox": [
+    410,
+    612,
+    530,
+    628
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    668,
+    181,
+    682
+   ]
+  },
+  {
+   "text": "648 064 790",
+   "bbox": [
+    410,
+    668,
+    530,
+    684
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    747,
+    258,
+    769
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    790,
+    426,
+    808
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    835,
+    267,
+    849
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    880,
+    442,
+    898
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    984,
+    126,
+    999
+   ]
+  },
+  {
+   "text": "Dunakeszi, 2025. 09. 03.",
+   "bbox": [
+    178,
+    980,
+    409,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1033,
+    984,
+    1045
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

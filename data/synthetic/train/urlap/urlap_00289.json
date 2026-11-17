@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Illés Ildikó",
+  "anyja_neve": "Rácz Etelka",
+  "szuletesi_hely": "Györgyfa",
+  "szuletesi_datum": "1977.04.22.",
+  "lakcim": "H-8222 Ráchídfalva, Ady endre tér 229.",
+  "telefon": "+36 70 245 2973",
+  "email": "illes.ildiko@outlook.com",
+  "adoazonosito_jel": "8402883370",
+  "taj_szam": "176 351 065",
+  "kelt": "Tatabánya, 2024.12.10."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    539,
+    105,
+    702,
+    131
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    474,
+    150,
+    765,
+    167
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    203,
+    303,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    256,
+    141,
+    270
+   ]
+  },
+  {
+   "text": "Illés Ildikó",
+   "bbox": [
+    421,
+    251,
+    517,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    308,
+    200,
+    326
+   ]
+  },
+  {
+   "text": "Rácz Etelka",
+   "bbox": [
+    421,
+    306,
+    528,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    360,
+    222,
+    378
+   ]
+  },
+  {
+   "text": "Györgyfa",
+   "bbox": [
+    421,
+    359,
+    510,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    412,
+    214,
+    426
+   ]
+  },
+  {
+   "text": "1977.04.22.",
+   "bbox": [
+    421,
+    408,
+    532,
+    424
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    464,
+    166,
+    478
+   ]
+  },
+  {
+   "text": "H-8222 Ráchídfalva, Ady endre tér 229.",
+   "bbox": [
+    421,
+    464,
+    801,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    516,
+    214,
+    530
+   ]
+  },
+  {
+   "text": "+36 70 245 2973",
+   "bbox": [
+    421,
+    516,
+    586,
+    532
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    568,
+    197,
+    582
+   ]
+  },
+  {
+   "text": "illes.ildiko@outlook.com",
+   "bbox": [
+    421,
+    563,
+    656,
+    582
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    620,
+    249,
+    638
+   ]
+  },
+  {
+   "text": "8402883370",
+   "bbox": [
+    421,
+    622,
+    541,
+    638
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    672,
+    185,
+    686
+   ]
+  },
+  {
+   "text": "176 351 065",
+   "bbox": [
+    421,
+    669,
+    541,
+    685
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    751,
+    262,
+    773
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    794,
+    430,
+    812
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    839,
+    271,
+    853
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    884,
+    446,
+    902
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    988,
+    130,
+    1003
+   ]
+  },
+  {
+   "text": "Tatabánya, 2024.12.10.",
+   "bbox": [
+    182,
+    984,
+    403,
+    1006
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1037,
+    980,
+    1049
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

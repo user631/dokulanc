@@ -1,0 +1,344 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szabó Erzsébet",
+  "email": "szabo.erzsebet@freemail.hu",
+  "telefon": "+36 30 629 2280",
+  "lakcim": "H-3086 Cegléd, Ligetdevecseri utca 178.",
+  "szuletesi_datum": "1993. 03. 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fülöp Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2018 – 2019"
+   },
+   {
+    "ceg": "Varga Tech Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2016 – 2018"
+   },
+   {
+    "ceg": "Bálint Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2015 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Excel",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    208,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    101,
+    149
+   ]
+  },
+  {
+   "text": "szabo.erzsebet@freemail.hu",
+   "bbox": [
+    40,
+    157,
+    275,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    111,
+    205
+   ]
+  },
+  {
+   "text": "+36 30 629 2280",
+   "bbox": [
+    40,
+    214,
+    182,
+    228
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    245,
+    107,
+    261
+   ]
+  },
+  {
+   "text": "H-3086 Cegléd, Ligetdevecseri utca 178.",
+   "bbox": [
+    40,
+    269,
+    377,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    301,
+    193,
+    317
+   ]
+  },
+  {
+   "text": "1993. 03. 26.",
+   "bbox": [
+    40,
+    326,
+    150,
+    340
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    385,
+    195,
+    407
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    427,
+    153,
+    447
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    454,
+    134,
+    474
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    508,
+    176,
+    530
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    551,
+    80,
+    566
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    577,
+    86,
+    593
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    605,
+    67,
+    620
+   ]
+  },
+  {
+   "text": "Szabó Erzsébet",
+   "bbox": [
+    450,
+    95,
+    795,
+    133
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    164,
+    656,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    228,
+    704,
+    253
+   ]
+  },
+  {
+   "text": "2018 – 2019",
+   "bbox": [
+    450,
+    279,
+    563,
+    295
+   ]
+  },
+  {
+   "text": "adatelemző – Fülöp Consulting Kft.",
+   "bbox": [
+    450,
+    303,
+    837,
+    325
+   ]
+  },
+  {
+   "text": "2016 – 2018",
+   "bbox": [
+    450,
+    345,
+    563,
+    361
+   ]
+  },
+  {
+   "text": "projektmenedzser – Varga Tech Bt.",
+   "bbox": [
+    450,
+    370,
+    838,
+    391
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    450,
+    411,
+    563,
+    427
+   ]
+  },
+  {
+   "text": "rendszergazda – Bálint Tech Kft.",
+   "bbox": [
+    450,
+    435,
+    807,
+    457
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    486,
+    620,
+    512
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    538,
+    563,
+    554
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    563,
+    651,
+    584
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    587,
+    768,
+    608
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    629,
+    563,
+    645
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    653,
+    715,
+    675
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    678,
+    630,
+    699
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

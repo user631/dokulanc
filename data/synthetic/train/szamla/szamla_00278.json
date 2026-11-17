@@ -1,0 +1,705 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2024/01641",
+  "kiallitas_datuma": "2024.06.21.",
+  "teljesites_datuma": "2024.06.20.",
+  "fizetesi_hatarido": "2024.06.29.",
+  "elado_nev": "Varga Consulting Kft.",
+  "elado_cim": "H-4359 Hetvennémeti, Györgyházai tér 71.",
+  "elado_adoszam": "88874919-2-33",
+  "vevo_nev": "Nagy Bt.",
+  "vevo_cim": "H-8668 Belsőmártonfa, Tapolcadevecseri utca 232.",
+  "vevo_adoszam": "44802705-2-03",
+  "bankszamla": "HU34 0601 0337 1785 7000 1690 8615",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "780 550 Ft",
+  "afa_osszesen": "196 396 Ft",
+  "brutto_osszesen": "976 946 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "16 040",
+    "netto": "80 200",
+    "afa_kulcs": "27%",
+    "afa": "21 654",
+    "brutto": "101 854"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "2 400",
+    "netto": "9 600",
+    "afa_kulcs": "27%",
+    "afa": "2 592",
+    "brutto": "12 192"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "16 310",
+    "netto": "65 240",
+    "afa_kulcs": "5%",
+    "afa": "3 262",
+    "brutto": "68 502"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "206 380",
+    "netto": "619 140",
+    "afa_kulcs": "27%",
+    "afa": "167 168",
+    "brutto": "786 308"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "6 370",
+    "netto": "6 370",
+    "afa_kulcs": "27%",
+    "afa": "1 720",
+    "brutto": "8 090"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    535,
+    89,
+    704,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/01641",
+   "bbox": [
+    419,
+    146,
+    821,
+    169
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    80,
+    225,
+    163,
+    245
+   ]
+  },
+  {
+   "text": "Varga Consulting Kft.",
+   "bbox": [
+    80,
+    262,
+    366,
+    286
+   ]
+  },
+  {
+   "text": "H-4359 Hetvennémeti, Györgyházai tér 71.",
+   "bbox": [
+    80,
+    295,
+    562,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 88874919-2-33",
+   "bbox": [
+    80,
+    325,
+    371,
+    343
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    225,
+    706,
+    245
+   ]
+  },
+  {
+   "text": "Nagy Bt.",
+   "bbox": [
+    630,
+    263,
+    745,
+    286
+   ]
+  },
+  {
+   "text": "H-8668 Belsőmártonfa, Tapolcadevecseri utca",
+   "bbox": [
+    630,
+    295,
+    1137,
+    317
+   ]
+  },
+  {
+   "text": "232.",
+   "bbox": [
+    630,
+    327,
+    680,
+    343
+   ]
+  },
+  {
+   "text": "Adószám: 44802705-2-03",
+   "bbox": [
+    630,
+    355,
+    921,
+    373
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    80,
+    422,
+    258,
+    438
+   ]
+  },
+  {
+   "text": "2024.06.21.",
+   "bbox": [
+    80,
+    452,
+    208,
+    468
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    422,
+    544,
+    442
+   ]
+  },
+  {
+   "text": "2024.06.20.",
+   "bbox": [
+    350,
+    452,
+    478,
+    468
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    422,
+    801,
+    438
+   ]
+  },
+  {
+   "text": "2024.06.29.",
+   "bbox": [
+    620,
+    452,
+    748,
+    468
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    890,
+    422,
+    1026,
+    438
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    890,
+    451,
+    987,
+    472
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    80,
+    500,
+    211,
+    520
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    502,
+    590,
+    520
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    652,
+    500,
+    750,
+    520
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    500,
+    879,
+    516
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    497,
+    944,
+    516
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    497,
+    1046,
+    516
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1092,
+    500,
+    1160,
+    516
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    512,
+    542,
+    604,
+    557
+   ]
+  },
+  {
+   "text": "16 040",
+   "bbox": [
+    682,
+    543,
+    749,
+    557
+   ]
+  },
+  {
+   "text": "80 200",
+   "bbox": [
+    812,
+    543,
+    879,
+    557
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    543,
+    944,
+    557
+   ]
+  },
+  {
+   "text": "21 654",
+   "bbox": [
+    979,
+    543,
+    1046,
+    557
+   ]
+  },
+  {
+   "text": "101 854",
+   "bbox": [
+    1081,
+    543,
+    1160,
+    557
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    80,
+    542,
+    289,
+    561
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    512,
+    577,
+    604,
+    592
+   ]
+  },
+  {
+   "text": "2 400",
+   "bbox": [
+    694,
+    578,
+    749,
+    592
+   ]
+  },
+  {
+   "text": "9 600",
+   "bbox": [
+    824,
+    578,
+    879,
+    592
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    578,
+    944,
+    592
+   ]
+  },
+  {
+   "text": "2 592",
+   "bbox": [
+    991,
+    578,
+    1046,
+    592
+   ]
+  },
+  {
+   "text": "12 192",
+   "bbox": [
+    1093,
+    578,
+    1160,
+    592
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    80,
+    577,
+    193,
+    596
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    512,
+    612,
+    553,
+    627
+   ]
+  },
+  {
+   "text": "16 310",
+   "bbox": [
+    682,
+    613,
+    749,
+    627
+   ]
+  },
+  {
+   "text": "65 240",
+   "bbox": [
+    812,
+    613,
+    879,
+    627
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    912,
+    613,
+    944,
+    627
+   ]
+  },
+  {
+   "text": "3 262",
+   "bbox": [
+    991,
+    613,
+    1046,
+    627
+   ]
+  },
+  {
+   "text": "68 502",
+   "bbox": [
+    1093,
+    613,
+    1160,
+    627
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    80,
+    612,
+    340,
+    631
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    512,
+    647,
+    604,
+    662
+   ]
+  },
+  {
+   "text": "206 380",
+   "bbox": [
+    670,
+    648,
+    749,
+    662
+   ]
+  },
+  {
+   "text": "619 140",
+   "bbox": [
+    800,
+    648,
+    879,
+    662
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    648,
+    944,
+    662
+   ]
+  },
+  {
+   "text": "167 168",
+   "bbox": [
+    967,
+    648,
+    1046,
+    662
+   ]
+  },
+  {
+   "text": "786 308",
+   "bbox": [
+    1081,
+    648,
+    1160,
+    662
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    80,
+    647,
+    286,
+    666
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    682,
+    555,
+    697
+   ]
+  },
+  {
+   "text": "6 370",
+   "bbox": [
+    694,
+    683,
+    749,
+    697
+   ]
+  },
+  {
+   "text": "6 370",
+   "bbox": [
+    824,
+    683,
+    879,
+    697
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    683,
+    944,
+    697
+   ]
+  },
+  {
+   "text": "1 720",
+   "bbox": [
+    991,
+    683,
+    1046,
+    697
+   ]
+  },
+  {
+   "text": "8 090",
+   "bbox": [
+    1105,
+    683,
+    1160,
+    697
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    80,
+    682,
+    269,
+    701
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    737,
+    830,
+    756
+   ]
+  },
+  {
+   "text": "780 550 Ft",
+   "bbox": [
+    1032,
+    739,
+    1160,
+    756
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    769,
+    830,
+    792
+   ]
+  },
+  {
+   "text": "196 396 Ft",
+   "bbox": [
+    1032,
+    775,
+    1160,
+    792
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    683,
+    810,
+    830,
+    833
+   ]
+  },
+  {
+   "text": "976 946 Ft",
+   "bbox": [
+    1023,
+    811,
+    1160,
+    828
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU34 0601 0337 1785 7000 1690 8615",
+   "bbox": [
+    80,
+    875,
+    689,
+    892
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    80,
+    905,
+    710,
+    923
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    467,
+    1656,
+    772,
+    1673
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

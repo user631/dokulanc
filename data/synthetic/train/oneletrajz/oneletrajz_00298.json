@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Krisztina",
+  "email": "kovacs.krisztina@freemail.hu",
+  "telefon": "+36 30 304 3953",
+  "lakcim": "H-7634 Cegléd, Petőfi sándor utca 174.",
+  "szuletesi_datum": "1987.08.29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Excel",
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "SQL",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Krisztina",
+   "bbox": [
+    406,
+    102,
+    833,
+    141
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    520,
+    171,
+    720,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    170,
+    238
+   ]
+  },
+  {
+   "text": "kovacs.krisztina@freemail.hu",
+   "bbox": [
+    330,
+    222,
+    624,
+    240
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    181,
+    268
+   ]
+  },
+  {
+   "text": "+36 30 304 3953",
+   "bbox": [
+    330,
+    253,
+    510,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    177,
+    298
+   ]
+  },
+  {
+   "text": "H-7634 Cegléd, Petőfi sándor utca 174.",
+   "bbox": [
+    330,
+    281,
+    728,
+    302
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    277,
+    328
+   ]
+  },
+  {
+   "text": "1987.08.29.",
+   "bbox": [
+    330,
+    313,
+    455,
+    328
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    363,
+    360,
+    387
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    413,
+    221,
+    428
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Kft.",
+   "bbox": [
+    90,
+    436,
+    388,
+    453
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    486,
+    270,
+    511
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    537,
+    221,
+    552
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    560,
+    700,
+    581
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    583,
+    292,
+    600
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    625,
+    221,
+    640
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    648,
+    375,
+    669
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    671,
+    178,
+    692
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    722,
+    241,
+    747
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B2)",
+   "bbox": [
+    90,
+    771,
+    348,
+    792
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    818,
+    232,
+    843
+   ]
+  },
+  {
+   "text": "Git, Excel, prezentáció, B kategóriás jogosítvány, SQL, JavaScript",
+   "bbox": [
+    90,
+    867,
+    748,
+    888
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

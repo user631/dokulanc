@@ -1,0 +1,361 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-6805 Egyházaskeresztapáti, Ady endre út 151.",
+  "adoszam": "90981610-2-38",
+  "datum": "2026.03.22.",
+  "ido": "11:03",
+  "nyugtaszam": "3514/56900",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 157 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2471"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2826"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1172"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "426"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3147"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "615"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "520"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1980"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    176,
+    36,
+    387,
+    50
+   ]
+  },
+  {
+   "text": "H-6805 Egyházaskeresztapáti, Ady endre út 151.",
+   "bbox": [
+    29,
+    66,
+    535,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90981610-2-38",
+   "bbox": [
+    161,
+    89,
+    403,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    133,
+    328,
+    148
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    175,
+    141,
+    188
+   ]
+  },
+  {
+   "text": "2471 C00",
+   "bbox": [
+    436,
+    175,
+    540,
+    188
+   ]
+  },
+  {
+   "text": "2 DB x 1413",
+   "bbox": [
+    24,
+    203,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    228,
+    154,
+    240
+   ]
+  },
+  {
+   "text": "2826 A00",
+   "bbox": [
+    436,
+    227,
+    540,
+    240
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    256,
+    180,
+    269
+   ]
+  },
+  {
+   "text": "1172 B00",
+   "bbox": [
+    436,
+    256,
+    540,
+    269
+   ]
+  },
+  {
+   "text": "2 DB x 213",
+   "bbox": [
+    24,
+    284,
+    134,
+    295
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    308,
+    206,
+    324
+   ]
+  },
+  {
+   "text": "426 C00",
+   "bbox": [
+    449,
+    308,
+    540,
+    321
+   ]
+  },
+  {
+   "text": "3 DB x 1049",
+   "bbox": [
+    24,
+    336,
+    145,
+    347
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    360,
+    128,
+    373
+   ]
+  },
+  {
+   "text": "3147 B00",
+   "bbox": [
+    436,
+    360,
+    540,
+    373
+   ]
+  },
+  {
+   "text": "3 DB x 205",
+   "bbox": [
+    24,
+    388,
+    134,
+    399
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    413,
+    193,
+    425
+   ]
+  },
+  {
+   "text": "615 B00",
+   "bbox": [
+    449,
+    412,
+    540,
+    425
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    441,
+    206,
+    454
+   ]
+  },
+  {
+   "text": "520 C00",
+   "bbox": [
+    449,
+    441,
+    540,
+    454
+   ]
+  },
+  {
+   "text": "2 DB x 990",
+   "bbox": [
+    24,
+    469,
+    134,
+    480
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    493,
+    128,
+    506
+   ]
+  },
+  {
+   "text": "1980 C00",
+   "bbox": [
+    436,
+    493,
+    540,
+    506
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    529,
+    174,
+    550
+   ]
+  },
+  {
+   "text": "13 157 Ft",
+   "bbox": [
+    405,
+    534,
+    540,
+    550
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    570,
+    154,
+    586
+   ]
+  },
+  {
+   "text": "13 157 Ft",
+   "bbox": [
+    423,
+    573,
+    540,
+    586
+   ]
+  },
+  {
+   "text": "2026.03.22.",
+   "bbox": [
+    24,
+    615,
+    145,
+    627
+   ]
+  },
+  {
+   "text": "11:03",
+   "bbox": [
+    485,
+    615,
+    540,
+    627
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3514/56900",
+   "bbox": [
+    24,
+    641,
+    266,
+    658
+   ]
+  },
+  {
+   "text": "AP A53998181",
+   "bbox": [
+    24,
+    673,
+    156,
+    685
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    191,
+    711,
+    372,
+    727
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  564,
+  771
+ ]
+}

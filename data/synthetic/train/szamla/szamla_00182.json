@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2024/05023",
+  "kiallitas_datuma": "2024-07-06",
+  "teljesites_datuma": "2024-07-03",
+  "fizetesi_hatarido": "2024-07-21",
+  "elado_nev": "Somogyi és Társa Kft.",
+  "elado_cim": "H-8523 Hátváros, Szabadság utca 31.",
+  "elado_adoszam": "37912390-5-42",
+  "vevo_nev": "Bogdán Kevin",
+  "vevo_cim": "H-6795 Újmártonharaszti, Miskolci utca 166.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU63 8818 0513 3373 0651 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "192 880 Ft",
+  "afa_osszesen": "51 826 Ft",
+  "brutto_osszesen": "244 706 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "15 840",
+    "netto": "190 080",
+    "afa_kulcs": "27%",
+    "afa": "51 322",
+    "brutto": "241 402"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "2 karton",
+    "egysegar": "1 400",
+    "netto": "2 800",
+    "afa_kulcs": "18%",
+    "afa": "504",
+    "brutto": "3 304"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SOMOGYI",
+   "bbox": [
+    122,
+    127,
+    219,
+    142
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    821,
+    98,
+    1149,
+    139
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2024/05023",
+   "bbox": [
+    897,
+    162,
+    1149,
+    182
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    91,
+    243,
+    154,
+    259
+   ]
+  },
+  {
+   "text": "Somogyi és Társa Kft.",
+   "bbox": [
+    91,
+    279,
+    303,
+    299
+   ]
+  },
+  {
+   "text": "H-8523 Hátváros, Szabadság utca 31.",
+   "bbox": [
+    91,
+    312,
+    425,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 37912390-5-42",
+   "bbox": [
+    91,
+    342,
+    321,
+    358
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    243,
+    687,
+    259
+   ]
+  },
+  {
+   "text": "Bogdán Kevin",
+   "bbox": [
+    630,
+    279,
+    765,
+    299
+   ]
+  },
+  {
+   "text": "H-6795 Újmártonharaszti, Miskolci utca 166.",
+   "bbox": [
+    630,
+    310,
+    1031,
+    332
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    91,
+    411,
+    245,
+    426
+   ]
+  },
+  {
+   "text": "2024-07-06",
+   "bbox": [
+    391,
+    412,
+    493,
+    426
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    91,
+    443,
+    260,
+    462
+   ]
+  },
+  {
+   "text": "2024-07-03",
+   "bbox": [
+    391,
+    444,
+    493,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    91,
+    475,
+    249,
+    490
+   ]
+  },
+  {
+   "text": "2024-07-21",
+   "bbox": [
+    391,
+    476,
+    493,
+    490
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    91,
+    507,
+    212,
+    522
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    391,
+    506,
+    464,
+    522
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    551,
+    192,
+    567
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    552,
+    575,
+    567
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    676,
+    551,
+    746,
+    567
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    551,
+    873,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    890,
+    548,
+    937,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    548,
+    1037,
+    564
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    551,
+    1149,
+    564
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    514,
+    592,
+    598,
+    605
+   ]
+  },
+  {
+   "text": "15 840",
+   "bbox": [
+    692,
+    593,
+    746,
+    605
+   ]
+  },
+  {
+   "text": "190 080",
+   "bbox": [
+    809,
+    593,
+    873,
+    605
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    593,
+    937,
+    605
+   ]
+  },
+  {
+   "text": "51 322",
+   "bbox": [
+    983,
+    593,
+    1037,
+    605
+   ]
+  },
+  {
+   "text": "241 402",
+   "bbox": [
+    1085,
+    593,
+    1149,
+    605
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    91,
+    592,
+    259,
+    608
+   ]
+  },
+  {
+   "text": "2 karton",
+   "bbox": [
+    514,
+    627,
+    579,
+    640
+   ]
+  },
+  {
+   "text": "1 400",
+   "bbox": [
+    702,
+    628,
+    746,
+    640
+   ]
+  },
+  {
+   "text": "2 800",
+   "bbox": [
+    829,
+    628,
+    873,
+    640
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    903,
+    628,
+    937,
+    640
+   ]
+  },
+  {
+   "text": "504",
+   "bbox": [
+    1007,
+    628,
+    1037,
+    640
+   ]
+  },
+  {
+   "text": "3 304",
+   "bbox": [
+    1105,
+    628,
+    1149,
+    640
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    91,
+    624,
+    205,
+    643
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    672,
+    681,
+    819,
+    698
+   ]
+  },
+  {
+   "text": "192 880 Ft",
+   "bbox": [
+    1048,
+    683,
+    1149,
+    698
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    689,
+    715,
+    819,
+    734
+   ]
+  },
+  {
+   "text": "51 826 Ft",
+   "bbox": [
+    1060,
+    719,
+    1149,
+    734
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    630,
+    754,
+    819,
+    770
+   ]
+  },
+  {
+   "text": "244 706 Ft",
+   "bbox": [
+    1048,
+    755,
+    1149,
+    770
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU63 8818 0513 3373 0651 0000 0000",
+   "bbox": [
+    91,
+    820,
+    587,
+    834
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    497,
+    1646,
+    742,
+    1661
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

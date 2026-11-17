@@ -1,0 +1,378 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FARAGÓ ABC KFT.",
+  "uzlet_cim": "H-5039 Hátvár, Mellékkőrösi utca 175.",
+  "adoszam": "61460063-3-17",
+  "datum": "2026.06.19.",
+  "ido": "21:41",
+  "nyugtaszam": "5828/58114",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 450 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "188"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "511"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "470"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "680"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1514"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "618"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "3760"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1457"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1239"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1013"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARAGÓ ABC KFT.",
+   "bbox": [
+    198,
+    31,
+    408,
+    49
+   ]
+  },
+  {
+   "text": "H-5039 Hátvár, Mellékkőrösi utca 175.",
+   "bbox": [
+    99,
+    63,
+    506,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 61460063-3-17",
+   "bbox": [
+    182,
+    88,
+    424,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    131,
+    348,
+    147
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    172,
+    206,
+    190
+   ]
+  },
+  {
+   "text": "188 A00",
+   "bbox": [
+    492,
+    172,
+    583,
+    187
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    201,
+    167,
+    216
+   ]
+  },
+  {
+   "text": "511 C00",
+   "bbox": [
+    492,
+    201,
+    583,
+    216
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    232,
+    206,
+    245
+   ]
+  },
+  {
+   "text": "470 C00",
+   "bbox": [
+    492,
+    230,
+    583,
+    245
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    259,
+    232,
+    274
+   ]
+  },
+  {
+   "text": "680 C00",
+   "bbox": [
+    492,
+    259,
+    583,
+    274
+   ]
+  },
+  {
+   "text": "2 DB x 757",
+   "bbox": [
+    24,
+    288,
+    134,
+    301
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    311,
+    206,
+    326
+   ]
+  },
+  {
+   "text": "1514 B00",
+   "bbox": [
+    479,
+    311,
+    583,
+    326
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    340,
+    128,
+    355
+   ]
+  },
+  {
+   "text": "618 B00",
+   "bbox": [
+    492,
+    340,
+    583,
+    355
+   ]
+  },
+  {
+   "text": "2 DB x 1880",
+   "bbox": [
+    24,
+    369,
+    145,
+    382
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    392,
+    141,
+    407
+   ]
+  },
+  {
+   "text": "3760 B00",
+   "bbox": [
+    479,
+    392,
+    583,
+    407
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    421,
+    154,
+    436
+   ]
+  },
+  {
+   "text": "1457 B00",
+   "bbox": [
+    479,
+    421,
+    583,
+    436
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    452,
+    193,
+    465
+   ]
+  },
+  {
+   "text": "1239 B00",
+   "bbox": [
+    479,
+    450,
+    583,
+    465
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    479,
+    180,
+    494
+   ]
+  },
+  {
+   "text": "1013 B00",
+   "bbox": [
+    479,
+    479,
+    583,
+    494
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    518,
+    159,
+    538
+   ]
+  },
+  {
+   "text": "11 450 Ft",
+   "bbox": [
+    448,
+    520,
+    583,
+    538
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    557,
+    167,
+    574
+   ]
+  },
+  {
+   "text": "11 450 Ft",
+   "bbox": [
+    466,
+    559,
+    583,
+    574
+   ]
+  },
+  {
+   "text": "2026.06.19.",
+   "bbox": [
+    24,
+    601,
+    145,
+    615
+   ]
+  },
+  {
+   "text": "21:41",
+   "bbox": [
+    528,
+    601,
+    583,
+    615
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5828/58114",
+   "bbox": [
+    24,
+    629,
+    266,
+    647
+   ]
+  },
+  {
+   "text": "AP A95336139",
+   "bbox": [
+    24,
+    659,
+    156,
+    673
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    243,
+    699,
+    363,
+    715
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  607,
+  760
+ ]
+}

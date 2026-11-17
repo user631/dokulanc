@@ -1,0 +1,458 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NAGY KISBOLT BT.",
+  "uzlet_cim": "H-8922 Eger, Hátapátii út 104.",
+  "adoszam": "16060199-2-51",
+  "datum": "2024.02.29.",
+  "ido": "17:53",
+  "nyugtaszam": "6505/86123",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "19 172 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "473"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1476"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2302"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "454"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "1044"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "794"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7539"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1326"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "681"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1059"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1670"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "354"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY KISBOLT BT.",
+   "bbox": [
+    184,
+    36,
+    425,
+    51
+   ]
+  },
+  {
+   "text": "H-8922 Eger, Hátapátii út 104.",
+   "bbox": [
+    110,
+    70,
+    500,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 16060199-2-51",
+   "bbox": [
+    162,
+    94,
+    448,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    140,
+    354,
+    156
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    184,
+    178,
+    198
+   ]
+  },
+  {
+   "text": "473 A00",
+   "bbox": [
+    488,
+    184,
+    586,
+    198
+   ]
+  },
+  {
+   "text": "2 DB x 738",
+   "bbox": [
+    24,
+    213,
+    144,
+    226
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    240,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "1476 A00",
+   "bbox": [
+    474,
+    240,
+    586,
+    254
+   ]
+  },
+  {
+   "text": "2 DB x 1151",
+   "bbox": [
+    24,
+    269,
+    156,
+    282
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    296,
+    234,
+    310
+   ]
+  },
+  {
+   "text": "2302 C00",
+   "bbox": [
+    474,
+    296,
+    586,
+    310
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    327,
+    150,
+    341
+   ]
+  },
+  {
+   "text": "454 A00",
+   "bbox": [
+    488,
+    327,
+    586,
+    341
+   ]
+  },
+  {
+   "text": "3 DB x 348",
+   "bbox": [
+    24,
+    356,
+    144,
+    369
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    384,
+    206,
+    397
+   ]
+  },
+  {
+   "text": "1044 B00",
+   "bbox": [
+    474,
+    383,
+    586,
+    397
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    414,
+    136,
+    428
+   ]
+  },
+  {
+   "text": "794 A00",
+   "bbox": [
+    488,
+    414,
+    586,
+    428
+   ]
+  },
+  {
+   "text": "3 DB x 2513",
+   "bbox": [
+    24,
+    443,
+    156,
+    456
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    470,
+    290,
+    484
+   ]
+  },
+  {
+   "text": "7539 A00",
+   "bbox": [
+    474,
+    470,
+    586,
+    484
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    501,
+    164,
+    515
+   ]
+  },
+  {
+   "text": "1326 B00",
+   "bbox": [
+    474,
+    501,
+    586,
+    515
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    532,
+    150,
+    546
+   ]
+  },
+  {
+   "text": "681 C00",
+   "bbox": [
+    488,
+    532,
+    586,
+    546
+   ]
+  },
+  {
+   "text": "3 DB x 353",
+   "bbox": [
+    24,
+    561,
+    144,
+    574
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    588,
+    220,
+    602
+   ]
+  },
+  {
+   "text": "1059 B00",
+   "bbox": [
+    474,
+    588,
+    586,
+    602
+   ]
+  },
+  {
+   "text": "2 DB x 835",
+   "bbox": [
+    24,
+    617,
+    144,
+    630
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    644,
+    136,
+    658
+   ]
+  },
+  {
+   "text": "1670 C00",
+   "bbox": [
+    474,
+    644,
+    586,
+    658
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    675,
+    178,
+    692
+   ]
+  },
+  {
+   "text": "354 C00",
+   "bbox": [
+    488,
+    675,
+    586,
+    689
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    713,
+    184,
+    735
+   ]
+  },
+  {
+   "text": "19 172 Ft",
+   "bbox": [
+    442,
+    718,
+    586,
+    735
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    756,
+    178,
+    773
+   ]
+  },
+  {
+   "text": "19 172 Ft",
+   "bbox": [
+    460,
+    759,
+    586,
+    773
+   ]
+  },
+  {
+   "text": "2024.02.29.",
+   "bbox": [
+    24,
+    803,
+    167,
+    816
+   ]
+  },
+  {
+   "text": "17:53",
+   "bbox": [
+    521,
+    803,
+    586,
+    816
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6505/86123",
+   "bbox": [
+    24,
+    831,
+    310,
+    849
+   ]
+  },
+  {
+   "text": "AP A42846439",
+   "bbox": [
+    24,
+    865,
+    180,
+    878
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    240,
+    906,
+    370,
+    922
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  610,
+  966
+ ]
+}

@@ -1,0 +1,351 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Farkas József",
+  "email": "farkas.jozsef@gmail.com",
+  "telefon": "+36 70 457 7346",
+  "lakcim": "H-6850 Berény, Váctapolcai utca 199.",
+  "szuletesi_datum": "1986. 05. 07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Oláh és Társa Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "ceg": "Tóth Logisztika Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2009 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Linux",
+   "SQL",
+   "ügyfélkezelés",
+   "JavaScript",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    103,
+    181,
+    123
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    92,
+    164
+   ]
+  },
+  {
+   "text": "farkas.jozsef@gmail.com",
+   "bbox": [
+    40,
+    174,
+    246,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    208,
+    103,
+    222
+   ]
+  },
+  {
+   "text": "+36 70 457 7346",
+   "bbox": [
+    40,
+    233,
+    175,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    97,
+    280
+   ]
+  },
+  {
+   "text": "H-6850 Berény, Váctapolcai utca 199.",
+   "bbox": [
+    40,
+    290,
+    348,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    324,
+    173,
+    338
+   ]
+  },
+  {
+   "text": "1986. 05. 07.",
+   "bbox": [
+    40,
+    349,
+    145,
+    362
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    173,
+    429
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    452,
+    122,
+    471
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    480,
+    145,
+    499
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    535,
+    150,
+    555
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    580,
+    73,
+    593
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    607,
+    85,
+    621
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    636,
+    73,
+    651
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    663,
+    153,
+    681
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    691,
+    125,
+    709
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    719,
+    246,
+    737
+   ]
+  },
+  {
+   "text": "Farkas József",
+   "bbox": [
+    450,
+    108,
+    697,
+    141
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    181,
+    629,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    662,
+    268
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    298,
+    559,
+    312
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Oláh és Társa Kft.",
+   "bbox": [
+    450,
+    323,
+    890,
+    343
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    450,
+    366,
+    559,
+    380
+   ]
+  },
+  {
+   "text": "tesztmérnök – Tóth Logisztika Zrt.",
+   "bbox": [
+    450,
+    391,
+    770,
+    411
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    443,
+    597,
+    466
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    496,
+    559,
+    510
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    521,
+    689,
+    541
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    547,
+    574,
+    566
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    590,
+    559,
+    604
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    615,
+    717,
+    635
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    640,
+    529,
+    660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

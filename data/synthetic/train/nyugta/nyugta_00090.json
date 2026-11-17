@@ -1,0 +1,301 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ DISZKONT BT.",
+  "uzlet_cim": "H-4839 Dunaújváros, Nyírszéki tér 69.",
+  "adoszam": "36325610-5-42",
+  "datum": "2025.09.14.",
+  "ido": "18:54",
+  "nyugtaszam": "2384/96388",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "20 031 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1510"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5784"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "580"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6123"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "819"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "5205"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ DISZKONT BT.",
+   "bbox": [
+    187,
+    28,
+    403,
+    47
+   ]
+  },
+  {
+   "text": "H-4839 Dunaújváros, Nyírszéki tér 69.",
+   "bbox": [
+    110,
+    63,
+    480,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 36325610-5-42",
+   "bbox": [
+    185,
+    86,
+    405,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    127,
+    335,
+    142
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    168,
+    167,
+    181
+   ]
+  },
+  {
+   "text": "1510 C00",
+   "bbox": [
+    479,
+    168,
+    567,
+    181
+   ]
+  },
+  {
+   "text": "3 DB x 1928",
+   "bbox": [
+    24,
+    196,
+    123,
+    207
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    218,
+    123,
+    231
+   ]
+  },
+  {
+   "text": "5784 C00",
+   "bbox": [
+    479,
+    218,
+    567,
+    231
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    246,
+    145,
+    259
+   ]
+  },
+  {
+   "text": "580 A00",
+   "bbox": [
+    490,
+    246,
+    567,
+    259
+   ]
+  },
+  {
+   "text": "3 DB x 2041",
+   "bbox": [
+    24,
+    274,
+    123,
+    285
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    296,
+    233,
+    309
+   ]
+  },
+  {
+   "text": "6123 B00",
+   "bbox": [
+    479,
+    296,
+    567,
+    309
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    324,
+    123,
+    337
+   ]
+  },
+  {
+   "text": "819 B00",
+   "bbox": [
+    490,
+    324,
+    567,
+    337
+   ]
+  },
+  {
+   "text": "3 DB x 1735",
+   "bbox": [
+    24,
+    352,
+    123,
+    363
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    374,
+    134,
+    387
+   ]
+  },
+  {
+   "text": "5205 C00",
+   "bbox": [
+    479,
+    374,
+    567,
+    387
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    410,
+    154,
+    430
+   ]
+  },
+  {
+   "text": "20 031 Ft",
+   "bbox": [
+    450,
+    414,
+    567,
+    430
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    448,
+    134,
+    465
+   ]
+  },
+  {
+   "text": "20 031 Ft",
+   "bbox": [
+    468,
+    452,
+    567,
+    465
+   ]
+  },
+  {
+   "text": "2025.09.14.",
+   "bbox": [
+    24,
+    495,
+    134,
+    506
+   ]
+  },
+  {
+   "text": "18:54",
+   "bbox": [
+    517,
+    495,
+    567,
+    506
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2384/96388",
+   "bbox": [
+    24,
+    520,
+    244,
+    536
+   ]
+  },
+  {
+   "text": "AP A53871352",
+   "bbox": [
+    24,
+    551,
+    144,
+    562
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    220,
+    587,
+    370,
+    603
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  591,
+  648
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2024/03347",
+  "kiallitas_datuma": "2024. 04. 25.",
+  "teljesites_datuma": "2024. 04. 21.",
+  "fizetesi_hatarido": "2024. 05. 10.",
+  "elado_nev": "Tóth Szolgáltató Bt.",
+  "elado_cim": "H-3018 Debrecen, Ligethalasi utca 55.",
+  "elado_adoszam": "18999228-4-27",
+  "vevo_nev": "Barna Logisztika Zrt.",
+  "vevo_cim": "H-6481 Nyírvárad, Zalaegerszegi utca 122.",
+  "vevo_adoszam": "91140153-5-36",
+  "bankszamla": "54050875-76177851",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "146 940 Ft",
+  "afa_osszesen": "39 674 Ft",
+  "brutto_osszesen": "186 614 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "12 óra",
+    "egysegar": "10 940",
+    "netto": "131 280",
+    "afa_kulcs": "27%",
+    "afa": "35 446",
+    "brutto": "166 726"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "15 660",
+    "netto": "15 660",
+    "afa_kulcs": "27%",
+    "afa": "4 228",
+    "brutto": "19 888"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    532,
+    79,
+    708,
+    116
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2024/03347",
+   "bbox": [
+    460,
+    144,
+    780,
+    160
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    79,
+    225,
+    138,
+    240
+   ]
+  },
+  {
+   "text": "Barna Logisztika Zrt.",
+   "bbox": [
+    79,
+    260,
+    295,
+    280
+   ]
+  },
+  {
+   "text": "H-6481 Nyírvárad, Zalaegerszegi utca 122.",
+   "bbox": [
+    79,
+    291,
+    445,
+    310
+   ]
+  },
+  {
+   "text": "Adószám: 91140153-5-36",
+   "bbox": [
+    79,
+    320,
+    304,
+    335
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    225,
+    696,
+    240
+   ]
+  },
+  {
+   "text": "Tóth Szolgáltató Bt.",
+   "bbox": [
+    630,
+    260,
+    830,
+    280
+   ]
+  },
+  {
+   "text": "H-3018 Debrecen, Ligethalasi utca 55.",
+   "bbox": [
+    630,
+    291,
+    957,
+    310
+   ]
+  },
+  {
+   "text": "Adószám: 18999228-4-27",
+   "bbox": [
+    630,
+    320,
+    855,
+    335
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    79,
+    388,
+    239,
+    402
+   ]
+  },
+  {
+   "text": "2024. 04. 25.",
+   "bbox": [
+    379,
+    388,
+    492,
+    402
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    79,
+    419,
+    245,
+    437
+   ]
+  },
+  {
+   "text": "2024. 04. 21.",
+   "bbox": [
+    379,
+    419,
+    492,
+    433
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    79,
+    450,
+    237,
+    464
+   ]
+  },
+  {
+   "text": "2024. 05. 10.",
+   "bbox": [
+    379,
+    450,
+    492,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    79,
+    481,
+    199,
+    495
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    379,
+    480,
+    443,
+    495
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    79,
+    523,
+    171,
+    540
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    524,
+    570,
+    540
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    678,
+    523,
+    749,
+    540
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    837,
+    523,
+    879,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    520,
+    944,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    520,
+    1047,
+    536
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1110,
+    523,
+    1161,
+    536
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    511,
+    564,
+    557,
+    576
+   ]
+  },
+  {
+   "text": "10 940",
+   "bbox": [
+    699,
+    564,
+    749,
+    576
+   ]
+  },
+  {
+   "text": "131 280",
+   "bbox": [
+    820,
+    564,
+    879,
+    576
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    564,
+    944,
+    576
+   ]
+  },
+  {
+   "text": "35 446",
+   "bbox": [
+    997,
+    564,
+    1047,
+    576
+   ]
+  },
+  {
+   "text": "166 726",
+   "bbox": [
+    1102,
+    564,
+    1161,
+    576
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    79,
+    563,
+    280,
+    580
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    511,
+    598,
+    542,
+    610
+   ]
+  },
+  {
+   "text": "15 660",
+   "bbox": [
+    699,
+    598,
+    749,
+    610
+   ]
+  },
+  {
+   "text": "15 660",
+   "bbox": [
+    829,
+    598,
+    879,
+    610
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    598,
+    944,
+    610
+   ]
+  },
+  {
+   "text": "4 228",
+   "bbox": [
+    1006,
+    598,
+    1047,
+    610
+   ]
+  },
+  {
+   "text": "19 888",
+   "bbox": [
+    1111,
+    598,
+    1161,
+    610
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    79,
+    597,
+    211,
+    614
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    690,
+    651,
+    831,
+    667
+   ]
+  },
+  {
+   "text": "146 940 Ft",
+   "bbox": [
+    1065,
+    652,
+    1162,
+    667
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    696,
+    682,
+    831,
+    702
+   ]
+  },
+  {
+   "text": "39 674 Ft",
+   "bbox": [
+    1076,
+    687,
+    1162,
+    702
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    664,
+    722,
+    831,
+    742
+   ]
+  },
+  {
+   "text": "186 614 Ft",
+   "bbox": [
+    1063,
+    722,
+    1162,
+    737
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 54050875-76177851",
+   "bbox": [
+    79,
+    786,
+    398,
+    800
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1660,
+    732,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

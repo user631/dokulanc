@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Szabó Rita",
+  "anyja_neve": "Fülöp Péter",
+  "szuletesi_hely": "Mezőkeresztdevecser",
+  "szuletesi_datum": "2002.04.06.",
+  "lakcim": "H-5672 Tatabánya, Arany jános utca 117.",
+  "telefon": "+36 30 358 3958",
+  "email": "szabo.rita@citromail.hu",
+  "adoazonosito_jel": "8494031147",
+  "taj_szam": "084 393 021",
+  "kelt": "Hetvenfa, 2026.10.12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    420,
+    105,
+    819,
+    140
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    451,
+    161,
+    789,
+    180
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    217,
+    337,
+    240
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    273,
+    158,
+    289
+   ]
+  },
+  {
+   "text": "Szabó Rita",
+   "bbox": [
+    414,
+    268,
+    527,
+    287
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    328,
+    225,
+    347
+   ]
+  },
+  {
+   "text": "Fülöp Péter",
+   "bbox": [
+    414,
+    326,
+    539,
+    350
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    381,
+    250,
+    401
+   ]
+  },
+  {
+   "text": "Mezőkeresztdevecser",
+   "bbox": [
+    414,
+    378,
+    642,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    435,
+    241,
+    451
+   ]
+  },
+  {
+   "text": "2002.04.06.",
+   "bbox": [
+    414,
+    436,
+    545,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    489,
+    190,
+    505
+   ]
+  },
+  {
+   "text": "H-5672 Tatabánya, Arany jános utca 117.",
+   "bbox": [
+    414,
+    487,
+    864,
+    511
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    543,
+    241,
+    559
+   ]
+  },
+  {
+   "text": "+36 30 358 3958",
+   "bbox": [
+    414,
+    540,
+    591,
+    557
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    597,
+    222,
+    613
+   ]
+  },
+  {
+   "text": "szabo.rita@citromail.hu",
+   "bbox": [
+    414,
+    593,
+    674,
+    613
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    651,
+    278,
+    671
+   ]
+  },
+  {
+   "text": "8494031147",
+   "bbox": [
+    414,
+    653,
+    544,
+    670
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    705,
+    211,
+    721
+   ]
+  },
+  {
+   "text": "084 393 021",
+   "bbox": [
+    414,
+    708,
+    545,
+    725
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    785,
+    291,
+    808
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    830,
+    479,
+    850
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    875,
+    306,
+    891
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    920,
+    494,
+    940
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1024,
+    152,
+    1040
+   ]
+  },
+  {
+   "text": "Hetvenfa, 2026.10.12.",
+   "bbox": [
+    194,
+    1020,
+    440,
+    1042
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    920,
+    1072,
+    971,
+    1086
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

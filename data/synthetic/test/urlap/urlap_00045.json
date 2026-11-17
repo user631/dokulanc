@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Tamás Ildikó",
+  "anyja_neve": "Szabó József",
+  "szuletesi_hely": "Tóthida",
+  "szuletesi_datum": "2005.09.12.",
+  "lakcim": "H-7199 Tapolcafa, Szenthídi utca 213.",
+  "telefon": "06 1 374 7160",
+  "email": "tamas.ildiko@citromail.hu",
+  "adoazonosito_jel": "8506589281",
+  "taj_szam": "128 891 441",
+  "kelt": "Mellékharaszti, 2025.03.01."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    526,
+    103,
+    715,
+    133
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    486,
+    159,
+    753,
+    174
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    212,
+    292,
+    231
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    268,
+    153,
+    281
+   ]
+  },
+  {
+   "text": "Tamás Ildikó",
+   "bbox": [
+    446,
+    266,
+    586,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    320,
+    208,
+    336
+   ]
+  },
+  {
+   "text": "Szabó József",
+   "bbox": [
+    447,
+    314,
+    588,
+    335
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    372,
+    226,
+    388
+   ]
+  },
+  {
+   "text": "Tóthida",
+   "bbox": [
+    446,
+    369,
+    530,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    424,
+    218,
+    437
+   ]
+  },
+  {
+   "text": "2005.09.12.",
+   "bbox": [
+    447,
+    421,
+    574,
+    441
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    476,
+    176,
+    489
+   ]
+  },
+  {
+   "text": "H-7199 Tapolcafa, Szenthídi utca 213.",
+   "bbox": [
+    446,
+    470,
+    855,
+    496
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    528,
+    220,
+    541
+   ]
+  },
+  {
+   "text": "06 1 374 7160",
+   "bbox": [
+    447,
+    529,
+    608,
+    550
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    580,
+    201,
+    593
+   ]
+  },
+  {
+   "text": "tamas.ildiko@citromail.hu",
+   "bbox": [
+    446,
+    579,
+    712,
+    600
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    632,
+    251,
+    648
+   ]
+  },
+  {
+   "text": "8506589281",
+   "bbox": [
+    447,
+    632,
+    595,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    684,
+    193,
+    697
+   ]
+  },
+  {
+   "text": "128 891 441",
+   "bbox": [
+    447,
+    680,
+    594,
+    700
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    760,
+    255,
+    779
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    806,
+    419,
+    822
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    851,
+    276,
+    864
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    896,
+    432,
+    912
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    996,
+    143,
+    1010
+   ]
+  },
+  {
+   "text": "Mellékharaszti, 2025.03.01.",
+   "bbox": [
+    196,
+    995,
+    468,
+    1015
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1046,
+    966,
+    1057
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

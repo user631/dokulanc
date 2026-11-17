@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2024/02867",
+  "kiallitas_datuma": "2024. 10. 29.",
+  "teljesites_datuma": "2024. 10. 24.",
+  "fizetesi_hatarido": "2024. 11. 28.",
+  "elado_nev": "Németh Zrt.",
+  "elado_cim": "H-6742 Tótfalva, Békéskereszti utca 98.",
+  "elado_adoszam": "35856225-3-23",
+  "vevo_nev": "Szücs és Társa Kft.",
+  "vevo_cim": "H-8785 Hajdúmindszentnádasd, Váci utca 170.",
+  "vevo_adoszam": "16004838-2-29",
+  "bankszamla": "HU63 1637 6913 8954 9225 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "980 Ft",
+  "afa_osszesen": "49 Ft",
+  "brutto_osszesen": "1 029 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "980",
+    "netto": "980",
+    "afa_kulcs": "5%",
+    "afa": "49",
+    "brutto": "1 029"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    535,
+    94,
+    704,
+    129
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2024/02867",
+   "bbox": [
+    411,
+    151,
+    829,
+    174
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    85,
+    230,
+    161,
+    250
+   ]
+  },
+  {
+   "text": "Szücs és Társa Kft.",
+   "bbox": [
+    85,
+    266,
+    338,
+    286
+   ]
+  },
+  {
+   "text": "H-8785 Hajdúmindszentnádasd, Váci utca",
+   "bbox": [
+    85,
+    300,
+    551,
+    322
+   ]
+  },
+  {
+   "text": "170.",
+   "bbox": [
+    85,
+    332,
+    135,
+    348
+   ]
+  },
+  {
+   "text": "Adószám: 16004838-2-29",
+   "bbox": [
+    85,
+    360,
+    376,
+    378
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    230,
+    713,
+    250
+   ]
+  },
+  {
+   "text": "Németh Zrt.",
+   "bbox": [
+    630,
+    266,
+    792,
+    286
+   ]
+  },
+  {
+   "text": "H-6742 Tótfalva, Békéskereszti utca 98.",
+   "bbox": [
+    630,
+    300,
+    1076,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 35856225-3-23",
+   "bbox": [
+    630,
+    330,
+    921,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    85,
+    427,
+    263,
+    443
+   ]
+  },
+  {
+   "text": "2024. 10. 29.",
+   "bbox": [
+    85,
+    457,
+    227,
+    473
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    427,
+    546,
+    447
+   ]
+  },
+  {
+   "text": "2024. 10. 24.",
+   "bbox": [
+    352,
+    457,
+    494,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    427,
+    800,
+    443
+   ]
+  },
+  {
+   "text": "2024. 11. 28.",
+   "bbox": [
+    619,
+    457,
+    761,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    427,
+    1022,
+    443
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    886,
+    456,
+    971,
+    473
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    505,
+    216,
+    525
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    507,
+    591,
+    525
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    505,
+    749,
+    525
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    505,
+    876,
+    521
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    502,
+    941,
+    521
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    502,
+    1042,
+    521
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1087,
+    505,
+    1155,
+    521
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    547,
+    556,
+    562
+   ]
+  },
+  {
+   "text": "980",
+   "bbox": [
+    712,
+    548,
+    748,
+    562
+   ]
+  },
+  {
+   "text": "980",
+   "bbox": [
+    840,
+    548,
+    876,
+    562
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    909,
+    548,
+    941,
+    562
+   ]
+  },
+  {
+   "text": "49",
+   "bbox": [
+    1018,
+    548,
+    1042,
+    562
+   ]
+  },
+  {
+   "text": "1 029",
+   "bbox": [
+    1100,
+    548,
+    1155,
+    562
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    85,
+    547,
+    200,
+    566
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    639,
+    602,
+    825,
+    621
+   ]
+  },
+  {
+   "text": "980 Ft",
+   "bbox": [
+    1080,
+    604,
+    1155,
+    621
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    657,
+    634,
+    825,
+    657
+   ]
+  },
+  {
+   "text": "49 Ft",
+   "bbox": [
+    1095,
+    640,
+    1155,
+    657
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    592,
+    675,
+    825,
+    698
+   ]
+  },
+  {
+   "text": "1 029 Ft",
+   "bbox": [
+    1050,
+    676,
+    1155,
+    693
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU63 1637 6913 8954 9225 0000 0000",
+   "bbox": [
+    85,
+    740,
+    694,
+    757
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    85,
+    770,
+    715,
+    788
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

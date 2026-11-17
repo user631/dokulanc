@@ -1,0 +1,321 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Nikoletta",
+  "email": "horvath.nikoletta@citromail.hu",
+  "telefon": "+36 30 418 1617",
+  "lakcim": "H-5860 Sopron, Ózdi utca 166.",
+  "szuletesi_datum": "1978.03.19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1996 – 2001"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "ceg": "Horváth Tech Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Excel",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    103,
+    169,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    87,
+    160
+   ]
+  },
+  {
+   "text": "horvath.nikoletta@citromail.hu",
+   "bbox": [
+    40,
+    170,
+    271,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    202,
+    97,
+    214
+   ]
+  },
+  {
+   "text": "+36 30 418 1617",
+   "bbox": [
+    40,
+    225,
+    160,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    93,
+    268
+   ]
+  },
+  {
+   "text": "H-5860 Sopron, Ózdi utca 166.",
+   "bbox": [
+    40,
+    275,
+    261,
+    293
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    310,
+    159,
+    322
+   ]
+  },
+  {
+   "text": "1978.03.19.",
+   "bbox": [
+    40,
+    333,
+    127,
+    344
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    391,
+    160,
+    409
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    432,
+    118,
+    448
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    458,
+    136,
+    474
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    511,
+    142,
+    529
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    552,
+    227,
+    568
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    578,
+    78,
+    591
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    604,
+    205,
+    620
+   ]
+  },
+  {
+   "text": "Horváth Nikoletta",
+   "bbox": [
+    450,
+    106,
+    780,
+    137
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    178,
+    616,
+    194
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    240,
+    649,
+    260
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    290,
+    550,
+    303
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Trade Kft.",
+   "bbox": [
+    450,
+    314,
+    700,
+    328
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    354,
+    550,
+    367
+   ]
+  },
+  {
+   "text": "adatelemző – Horváth Tech Zrt.",
+   "bbox": [
+    450,
+    378,
+    721,
+    392
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    428,
+    587,
+    448
+   ]
+  },
+  {
+   "text": "1996 – 2001",
+   "bbox": [
+    450,
+    478,
+    550,
+    491
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    502,
+    620,
+    520
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    525,
+    575,
+    543
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    450,
+    566,
+    550,
+    579
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    590,
+    655,
+    608
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    613,
+    614,
+    631
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

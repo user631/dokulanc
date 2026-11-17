@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Novák Jolán",
+  "anyja_neve": "Deák Lilla",
+  "szuletesi_hely": "Eger",
+  "szuletesi_datum": "1980. 01. 07.",
+  "lakcim": "H-1321 Mártondevecser, Somogytapolcai tér 75.",
+  "telefon": "06 1 662 3196",
+  "email": "novak.jolan@example.hu",
+  "adoazonosito_jel": "8412783301",
+  "taj_szam": "609 510 072",
+  "kelt": "Tapolcakövesd, 2025. 07. 20."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    340,
+    84,
+    902,
+    119
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    451,
+    140,
+    789,
+    159
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    196,
+    316,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    252,
+    137,
+    268
+   ]
+  },
+  {
+   "text": "Novák Jolán",
+   "bbox": [
+    410,
+    251,
+    591,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    307,
+    204,
+    326
+   ]
+  },
+  {
+   "text": "Deák Lilla",
+   "bbox": [
+    410,
+    300,
+    567,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    360,
+    229,
+    380
+   ]
+  },
+  {
+   "text": "Eger",
+   "bbox": [
+    410,
+    356,
+    472,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    414,
+    220,
+    430
+   ]
+  },
+  {
+   "text": "1980. 01. 07.",
+   "bbox": [
+    410,
+    415,
+    603,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    468,
+    169,
+    484
+   ]
+  },
+  {
+   "text": "H-1321 Mártondevecser, Somogytapolcai tér 75.",
+   "bbox": [
+    410,
+    462,
+    1084,
+    489
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    522,
+    220,
+    538
+   ]
+  },
+  {
+   "text": "06 1 662 3196",
+   "bbox": [
+    410,
+    520,
+    630,
+    539
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    576,
+    201,
+    592
+   ]
+  },
+  {
+   "text": "novak.jolan@example.hu",
+   "bbox": [
+    410,
+    575,
+    766,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    630,
+    257,
+    650
+   ]
+  },
+  {
+   "text": "8412783301",
+   "bbox": [
+    410,
+    631,
+    600,
+    651
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    684,
+    190,
+    700
+   ]
+  },
+  {
+   "text": "609 510 072",
+   "bbox": [
+    410,
+    684,
+    601,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    764,
+    270,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    809,
+    458,
+    829
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    854,
+    285,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    899,
+    473,
+    919
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    1003,
+    131,
+    1019
+   ]
+  },
+  {
+   "text": "Tapolcakövesd, 2025. 07. 20.",
+   "bbox": [
+    173,
+    1003,
+    560,
+    1027
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    941,
+    1051,
+    992,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

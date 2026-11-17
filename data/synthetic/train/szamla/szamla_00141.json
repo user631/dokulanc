@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2026/08828",
+  "kiallitas_datuma": "2026-10-22",
+  "teljesites_datuma": "2026-10-19",
+  "fizetesi_hatarido": "2026-11-06",
+  "elado_nev": "Molnár és Társa Kft.",
+  "elado_cim": "H-3089 Baja, Pusztaszéki utca 41.",
+  "elado_adoszam": "67796182-2-17",
+  "vevo_nev": "Budai Trade Kft.",
+  "vevo_cim": "H-7087 Drávatapolcaváros, Tamásivégi út 160.",
+  "vevo_adoszam": "92425776-2-11",
+  "bankszamla": "64208141-14579598",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "64 500 Ft",
+  "afa_osszesen": "17 415 Ft",
+  "brutto_osszesen": "81 915 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "12 660",
+    "netto": "50 640",
+    "afa_kulcs": "27%",
+    "afa": "13 673",
+    "brutto": "64 313"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "13 860",
+    "netto": "13 860",
+    "afa_kulcs": "27%",
+    "afa": "3 742",
+    "brutto": "17 602"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    439,
+    86,
+    800,
+    127
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/08828",
+   "bbox": [
+    451,
+    146,
+    788,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    79,
+    226,
+    142,
+    243
+   ]
+  },
+  {
+   "text": "Molnár és Társa Kft.",
+   "bbox": [
+    79,
+    260,
+    286,
+    277
+   ]
+  },
+  {
+   "text": "H-3089 Baja, Pusztaszéki utca 41.",
+   "bbox": [
+    79,
+    292,
+    366,
+    312
+   ]
+  },
+  {
+   "text": "Adószám: 67796182-2-17",
+   "bbox": [
+    79,
+    320,
+    306,
+    335
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    227,
+    688,
+    243
+   ]
+  },
+  {
+   "text": "Budai Trade Kft.",
+   "bbox": [
+    630,
+    260,
+    798,
+    277
+   ]
+  },
+  {
+   "text": "H-7087 Drávatapolcaváros, Tamásivégi út 160.",
+   "bbox": [
+    630,
+    292,
+    1035,
+    312
+   ]
+  },
+  {
+   "text": "Adószám: 92425776-2-11",
+   "bbox": [
+    630,
+    320,
+    857,
+    335
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    79,
+    385,
+    209,
+    398
+   ]
+  },
+  {
+   "text": "2026-10-22",
+   "bbox": [
+    79,
+    413,
+    175,
+    426
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    349,
+    385,
+    489,
+    402
+   ]
+  },
+  {
+   "text": "2026-10-19",
+   "bbox": [
+    349,
+    413,
+    445,
+    426
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    385,
+    751,
+    398
+   ]
+  },
+  {
+   "text": "2026-11-06",
+   "bbox": [
+    619,
+    413,
+    715,
+    426
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    385,
+    990,
+    398
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    889,
+    412,
+    981,
+    430
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    79,
+    459,
+    177,
+    476
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    460,
+    570,
+    476
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    677,
+    459,
+    749,
+    476
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    833,
+    459,
+    879,
+    472
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    896,
+    456,
+    944,
+    472
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    456,
+    1047,
+    472
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1109,
+    459,
+    1161,
+    472
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    511,
+    498,
+    550,
+    511
+   ]
+  },
+  {
+   "text": "12 660",
+   "bbox": [
+    699,
+    499,
+    749,
+    511
+   ]
+  },
+  {
+   "text": "50 640",
+   "bbox": [
+    829,
+    499,
+    879,
+    511
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    499,
+    944,
+    511
+   ]
+  },
+  {
+   "text": "13 673",
+   "bbox": [
+    997,
+    499,
+    1047,
+    511
+   ]
+  },
+  {
+   "text": "64 313",
+   "bbox": [
+    1111,
+    499,
+    1161,
+    511
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    79,
+    498,
+    306,
+    515
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    531,
+    545,
+    544
+   ]
+  },
+  {
+   "text": "13 860",
+   "bbox": [
+    699,
+    532,
+    749,
+    544
+   ]
+  },
+  {
+   "text": "13 860",
+   "bbox": [
+    829,
+    532,
+    879,
+    544
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    532,
+    944,
+    544
+   ]
+  },
+  {
+   "text": "3 742",
+   "bbox": [
+    1006,
+    532,
+    1047,
+    544
+   ]
+  },
+  {
+   "text": "17 602",
+   "bbox": [
+    1111,
+    532,
+    1161,
+    544
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    79,
+    531,
+    176,
+    548
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    684,
+    586,
+    831,
+    601
+   ]
+  },
+  {
+   "text": "64 500 Ft",
+   "bbox": [
+    1077,
+    586,
+    1161,
+    601
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    699,
+    616,
+    831,
+    635
+   ]
+  },
+  {
+   "text": "17 415 Ft",
+   "bbox": [
+    1077,
+    620,
+    1161,
+    635
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    638,
+    653,
+    831,
+    669
+   ]
+  },
+  {
+   "text": "81 915 Ft",
+   "bbox": [
+    1070,
+    654,
+    1161,
+    669
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 64208141-14579598",
+   "bbox": [
+    79,
+    717,
+    398,
+    731
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    452,
+    1660,
+    787,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

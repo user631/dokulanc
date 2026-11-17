@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Fazekas Judit",
+  "anyja_neve": "Nagy Gizella",
+  "szuletesi_hely": "Szombathely",
+  "szuletesi_datum": "1964. 12. 02.",
+  "lakcim": "H-6198 Tatabánya, Keresztvári utca 110.",
+  "telefon": "+36 20 890 9982",
+  "email": "fazekas.judit@example.hu",
+  "adoazonosito_jel": "8357642446",
+  "taj_szam": "702 021 639",
+  "kelt": "Keresztvára, 2025. 10. 03."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    395,
+    105,
+    844,
+    137
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    483,
+    161,
+    757,
+    178
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    216,
+    303,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    271,
+    155,
+    284
+   ]
+  },
+  {
+   "text": "Fazekas Judit",
+   "bbox": [
+    414,
+    270,
+    579,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    323,
+    214,
+    341
+   ]
+  },
+  {
+   "text": "Nagy Gizella",
+   "bbox": [
+    414,
+    321,
+    558,
+    348
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    376,
+    236,
+    394
+   ]
+  },
+  {
+   "text": "Szombathely",
+   "bbox": [
+    414,
+    373,
+    564,
+    400
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    429,
+    227,
+    443
+   ]
+  },
+  {
+   "text": "1964. 12. 02.",
+   "bbox": [
+    414,
+    426,
+    558,
+    446
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    482,
+    184,
+    496
+   ]
+  },
+  {
+   "text": "H-6198 Tatabánya, Keresztvári utca 110.",
+   "bbox": [
+    414,
+    478,
+    886,
+    505
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    535,
+    227,
+    549
+   ]
+  },
+  {
+   "text": "+36 20 890 9982",
+   "bbox": [
+    414,
+    532,
+    612,
+    553
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    588,
+    214,
+    602
+   ]
+  },
+  {
+   "text": "fazekas.judit@example.hu",
+   "bbox": [
+    414,
+    582,
+    720,
+    609
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    641,
+    260,
+    659
+   ]
+  },
+  {
+   "text": "8357642446",
+   "bbox": [
+    414,
+    635,
+    564,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    695,
+    203,
+    708
+   ]
+  },
+  {
+   "text": "702 021 639",
+   "bbox": [
+    414,
+    693,
+    559,
+    714
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    774,
+    269,
+    794
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    818,
+    435,
+    836
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    863,
+    286,
+    877
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    908,
+    452,
+    926
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1010,
+    146,
+    1025
+   ]
+  },
+  {
+   "text": "Keresztvára, 2025. 10. 03.",
+   "bbox": [
+    194,
+    1010,
+    478,
+    1031
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1060,
+    969,
+    1072
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

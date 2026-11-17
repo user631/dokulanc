@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "RÁCZ MARKET BT.",
+  "uzlet_cim": "H-1359 Balatonmellékváros, Fürdőnémetii utca 23.",
+  "adoszam": "76529894-2-18",
+  "datum": "2025.03.03.",
+  "ido": "17:34",
+  "nyugtaszam": "0605/71027",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "15 837 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "520"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "374"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2281"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1112"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1773"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "734"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2943"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "78"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "394"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "2367"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "598"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2663"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ MARKET BT.",
+   "bbox": [
+    214,
+    28,
+    394,
+    47
+   ]
+  },
+  {
+   "text": "H-1359 Balatonmellékváros, Fürdőnémetii utca 23.",
+   "bbox": [
+    64,
+    63,
+    544,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 76529894-2-18",
+   "bbox": [
+    194,
+    86,
+    414,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    127,
+    344,
+    142
+   ]
+  },
+  {
+   "text": "2 DB x 260",
+   "bbox": [
+    24,
+    168,
+    114,
+    179
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    190,
+    167,
+    203
+   ]
+  },
+  {
+   "text": "520 B00",
+   "bbox": [
+    507,
+    190,
+    584,
+    203
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    218,
+    178,
+    231
+   ]
+  },
+  {
+   "text": "374 B00",
+   "bbox": [
+    507,
+    218,
+    584,
+    231
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    246,
+    233,
+    259
+   ]
+  },
+  {
+   "text": "2281 A00",
+   "bbox": [
+    496,
+    246,
+    584,
+    259
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    274,
+    112,
+    287
+   ]
+  },
+  {
+   "text": "1112 B00",
+   "bbox": [
+    496,
+    274,
+    584,
+    287
+   ]
+  },
+  {
+   "text": "3 DB x 591",
+   "bbox": [
+    24,
+    302,
+    114,
+    313
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    324,
+    178,
+    337
+   ]
+  },
+  {
+   "text": "1773 B00",
+   "bbox": [
+    496,
+    324,
+    584,
+    337
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    352,
+    189,
+    365
+   ]
+  },
+  {
+   "text": "734 B00",
+   "bbox": [
+    507,
+    352,
+    584,
+    365
+   ]
+  },
+  {
+   "text": "3 DB x 981",
+   "bbox": [
+    24,
+    380,
+    114,
+    391
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    402,
+    167,
+    415
+   ]
+  },
+  {
+   "text": "2943 B00",
+   "bbox": [
+    496,
+    402,
+    584,
+    415
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    430,
+    90,
+    443
+   ]
+  },
+  {
+   "text": "78 B00",
+   "bbox": [
+    518,
+    430,
+    584,
+    443
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    457,
+    145,
+    474
+   ]
+  },
+  {
+   "text": "394 A00",
+   "bbox": [
+    507,
+    458,
+    584,
+    471
+   ]
+  },
+  {
+   "text": "3 DB x 789",
+   "bbox": [
+    24,
+    486,
+    114,
+    497
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    508,
+    112,
+    521
+   ]
+  },
+  {
+   "text": "2367 B00",
+   "bbox": [
+    496,
+    508,
+    584,
+    521
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    536,
+    112,
+    549
+   ]
+  },
+  {
+   "text": "598 A00",
+   "bbox": [
+    507,
+    536,
+    584,
+    549
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    564,
+    123,
+    577
+   ]
+  },
+  {
+   "text": "2663 C00",
+   "bbox": [
+    496,
+    564,
+    584,
+    577
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    601,
+    141,
+    620
+   ]
+  },
+  {
+   "text": "15 837 Ft",
+   "bbox": [
+    467,
+    604,
+    584,
+    620
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    638,
+    134,
+    655
+   ]
+  },
+  {
+   "text": "15 837 Ft",
+   "bbox": [
+    485,
+    642,
+    584,
+    655
+   ]
+  },
+  {
+   "text": "2025.03.03.",
+   "bbox": [
+    24,
+    685,
+    134,
+    696
+   ]
+  },
+  {
+   "text": "17:34",
+   "bbox": [
+    534,
+    685,
+    584,
+    696
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0605/71027",
+   "bbox": [
+    24,
+    710,
+    244,
+    726
+   ]
+  },
+  {
+   "text": "AP A96593171",
+   "bbox": [
+    24,
+    741,
+    144,
+    752
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    194,
+    777,
+    414,
+    793
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  608,
+  838
+ ]
+}

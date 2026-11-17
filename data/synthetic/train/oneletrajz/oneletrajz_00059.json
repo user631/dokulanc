@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Ildikó",
+  "email": "kovacs.ildiko@citromail.hu",
+  "telefon": "+36 70 409 2607",
+  "lakcim": "H-2471 Érd, Fürdőhidai utca 128.",
+  "szuletesi_datum": "1991. március 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Szolgáltató Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "ceg": "Kovács Szolgáltató Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Excel",
+   "Python",
+   "ügyfélkezelés",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Ildikó",
+   "bbox": [
+    490,
+    105,
+    751,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    177,
+    674,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    153,
+    248
+   ]
+  },
+  {
+   "text": "kovacs.ildiko@citromail.hu",
+   "bbox": [
+    330,
+    233,
+    576,
+    251
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    165,
+    280
+   ]
+  },
+  {
+   "text": "+36 70 409 2607",
+   "bbox": [
+    330,
+    266,
+    477,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    159,
+    312
+   ]
+  },
+  {
+   "text": "H-2471 Érd, Fürdőhidai utca 128.",
+   "bbox": [
+    330,
+    294,
+    628,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    329,
+    242,
+    344
+   ]
+  },
+  {
+   "text": "1991. március 22.",
+   "bbox": [
+    330,
+    328,
+    490,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    381,
+    302,
+    404
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    90,
+    434,
+    199,
+    448
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth Szolgáltató Bt.",
+   "bbox": [
+    90,
+    459,
+    584,
+    479
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    90,
+    502,
+    199,
+    516
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Szolgáltató Bt.",
+   "bbox": [
+    90,
+    527,
+    431,
+    547
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    579,
+    237,
+    602
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    90,
+    632,
+    199,
+    646
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    658,
+    261,
+    677
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    682,
+    209,
+    702
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    726,
+    199,
+    740
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    751,
+    332,
+    767
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    776,
+    324,
+    796
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    829,
+    210,
+    852
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    881,
+    196,
+    900
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    929,
+    198,
+    952
+   ]
+  },
+  {
+   "text": "prezentáció, Excel, Python, ügyfélkezelés, C#",
+   "bbox": [
+    90,
+    980,
+    491,
+    1000
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

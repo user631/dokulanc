@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Varga Borbála",
+  "email": "varga.borbala@example.hu",
+  "telefon": "+36 70 496 9021",
+  "lakcim": "H-2855 Magyarhídfalu, Vácháti utca 138.",
+  "szuletesi_datum": "1993.02.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szalai Consulting Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "prezentáció",
+   "SAP",
+   "B kategóriás jogosítvány",
+   "Linux",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    188,
+    105
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    93,
+    143
+   ]
+  },
+  {
+   "text": "varga.borbala@example.hu",
+   "bbox": [
+    40,
+    151,
+    256,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    105,
+    197
+   ]
+  },
+  {
+   "text": "+36 70 496 9021",
+   "bbox": [
+    40,
+    206,
+    177,
+    219
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    237,
+    99,
+    251
+   ]
+  },
+  {
+   "text": "H-2855 Magyarhídfalu, Vácháti utca 138.",
+   "bbox": [
+    40,
+    259,
+    362,
+    277
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    291,
+    175,
+    305
+   ]
+  },
+  {
+   "text": "1993.02.27.",
+   "bbox": [
+    40,
+    314,
+    132,
+    327
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    372,
+    180,
+    393
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    414,
+    131,
+    431
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    466,
+    158,
+    487
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    508,
+    83,
+    522
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    534,
+    139,
+    552
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    561,
+    73,
+    574
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    586,
+    245,
+    604
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    612,
+    85,
+    626
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    638,
+    124,
+    656
+   ]
+  },
+  {
+   "text": "Varga Borbála",
+   "bbox": [
+    450,
+    96,
+    745,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    159,
+    559,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    223,
+    674,
+    247
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    450,
+    273,
+    558,
+    287
+   ]
+  },
+  {
+   "text": "adatelemző – Szalai Consulting Bt.",
+   "bbox": [
+    450,
+    296,
+    788,
+    317
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    347,
+    606,
+    371
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    397,
+    558,
+    411
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    420,
+    626,
+    441
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    444,
+    746,
+    464
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    485,
+    558,
+    499
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    508,
+    689,
+    529
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    532,
+    526,
+    552
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

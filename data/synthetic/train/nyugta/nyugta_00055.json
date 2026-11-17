@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOVÁCS DISZKONT KFT.",
+  "uzlet_cim": "H-4815 Tiszamellékfalu, Tapolcaváradi utca 104.",
+  "adoszam": "56395914-5-25",
+  "datum": "2026.12.30.",
+  "ido": "19:14",
+  "nyugtaszam": "2459/84702",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 003 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1296"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "289"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "418"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS DISZKONT KFT.",
+   "bbox": [
+    110,
+    30,
+    430,
+    51
+   ]
+  },
+  {
+   "text": "H-4815 Tiszamellékfalu, Tapolcaváradi",
+   "bbox": [
+    29,
+    67,
+    510,
+    88
+   ]
+  },
+  {
+   "text": "utca 104.",
+   "bbox": [
+    211,
+    96,
+    328,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56395914-5-25",
+   "bbox": [
+    127,
+    123,
+    413,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    219,
+    169,
+    321,
+    187
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    212,
+    164,
+    229
+   ]
+  },
+  {
+   "text": "1296 A00",
+   "bbox": [
+    404,
+    212,
+    516,
+    229
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    246,
+    207,
+    261
+   ]
+  },
+  {
+   "text": "289 B00",
+   "bbox": [
+    418,
+    244,
+    516,
+    261
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    276,
+    220,
+    293
+   ]
+  },
+  {
+   "text": "418 C00",
+   "bbox": [
+    418,
+    276,
+    516,
+    293
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    319,
+    177,
+    341
+   ]
+  },
+  {
+   "text": "2 003 Ft",
+   "bbox": [
+    380,
+    321,
+    516,
+    341
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    360,
+    179,
+    379
+   ]
+  },
+  {
+   "text": "2 003 Ft",
+   "bbox": [
+    404,
+    362,
+    516,
+    379
+   ]
+  },
+  {
+   "text": "2026.12.30.",
+   "bbox": [
+    24,
+    408,
+    167,
+    424
+   ]
+  },
+  {
+   "text": "19:14",
+   "bbox": [
+    451,
+    408,
+    516,
+    424
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2459/84702",
+   "bbox": [
+    24,
+    439,
+    310,
+    459
+   ]
+  },
+  {
+   "text": "AP A19058975",
+   "bbox": [
+    24,
+    472,
+    180,
+    488
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    116,
+    515,
+    424,
+    533
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  540,
+  578
+ ]
+}

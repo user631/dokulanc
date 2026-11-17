@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Mészáros Ildikó",
+  "email": "meszaros.ildiko@example.hu",
+  "telefon": "+36 30 195 5903",
+  "lakcim": "H-2128 Szolnok, Nyékmártoni utca 124.",
+  "szuletesi_datum": "2004. március 13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2023 – 2028"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SQL",
+   "C#",
+   "B kategóriás jogosítvány",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    229,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    159,
+    104,
+    174
+   ]
+  },
+  {
+   "text": "meszaros.ildiko@example.hu",
+   "bbox": [
+    40,
+    184,
+    323,
+    203
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    219,
+    116,
+    234
+   ]
+  },
+  {
+   "text": "+36 30 195 5903",
+   "bbox": [
+    40,
+    244,
+    202,
+    259
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    278,
+    114,
+    294
+   ]
+  },
+  {
+   "text": "H-2128 Szolnok, Nyékmártoni utca",
+   "bbox": [
+    40,
+    304,
+    373,
+    323
+   ]
+  },
+  {
+   "text": "124.",
+   "bbox": [
+    40,
+    329,
+    82,
+    344
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    363,
+    203,
+    379
+   ]
+  },
+  {
+   "text": "2004. március 13.",
+   "bbox": [
+    40,
+    389,
+    212,
+    404
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    448,
+    210,
+    472
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    494,
+    162,
+    514
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    523,
+    147,
+    543
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    577,
+    195,
+    601
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    623,
+    108,
+    643
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    652,
+    84,
+    669
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    681,
+    68,
+    697
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    710,
+    277,
+    730
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    739,
+    94,
+    755
+   ]
+  },
+  {
+   "text": "Mészáros Ildikó",
+   "bbox": [
+    450,
+    117,
+    800,
+    152
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    189,
+    651,
+    209
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    254,
+    708,
+    279
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    306,
+    607,
+    328
+   ]
+  },
+  {
+   "text": "projektmenedzser – Varga Tech Kft.",
+   "bbox": [
+    450,
+    334,
+    857,
+    356
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    387,
+    627,
+    412
+   ]
+  },
+  {
+   "text": "2023 – 2028",
+   "bbox": [
+    450,
+    439,
+    579,
+    456
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    465,
+    844,
+    489
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    493,
+    617,
+    510
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    536,
+    579,
+    553
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    562,
+    744,
+    581
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    590,
+    539,
+    612
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

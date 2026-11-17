@@ -1,0 +1,337 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Halász Bálint",
+  "email": "halasz.balint@freemail.hu",
+  "telefon": "+36 30 302 1170",
+  "lakcim": "H-4424 Bácstótfalva, Debreceni út 90.",
+  "szuletesi_datum": "1994. szeptember 2.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2013 – 2018"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Márton Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "SAP",
+   "projektmenedzsment",
+   "Docker",
+   "Git",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    241,
+    123
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    114,
+    164
+   ]
+  },
+  {
+   "text": "halasz.balint@freemail.hu",
+   "bbox": [
+    40,
+    172,
+    316,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    127,
+    224
+   ]
+  },
+  {
+   "text": "+36 30 302 1170",
+   "bbox": [
+    40,
+    233,
+    221,
+    249
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    122,
+    284
+   ]
+  },
+  {
+   "text": "H-4424 Bácstótfalva, Debreceni",
+   "bbox": [
+    40,
+    292,
+    376,
+    313
+   ]
+  },
+  {
+   "text": "út 90.",
+   "bbox": [
+    40,
+    317,
+    102,
+    334
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    352,
+    230,
+    369
+   ]
+  },
+  {
+   "text": "1994. szeptember 2.",
+   "bbox": [
+    40,
+    377,
+    259,
+    398
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    437,
+    226,
+    463
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    483,
+    167,
+    505
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    512,
+    167,
+    534
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    566,
+    203,
+    592
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    613,
+    186,
+    634
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    643,
+    83,
+    659
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    671,
+    274,
+    692
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    700,
+    117,
+    717
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    730,
+    72,
+    746
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    757,
+    312,
+    779
+   ]
+  },
+  {
+   "text": "Halász Bálint",
+   "bbox": [
+    450,
+    107,
+    792,
+    146
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    175,
+    589,
+    205
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    754,
+    270
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    297,
+    601,
+    314
+   ]
+  },
+  {
+   "text": "tesztmérnök – Márton Zrt.",
+   "bbox": [
+    450,
+    322,
+    803,
+    342
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    376,
+    654,
+    403
+   ]
+  },
+  {
+   "text": "2013 – 2018",
+   "bbox": [
+    450,
+    430,
+    601,
+    447
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    455,
+    820,
+    480
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    482,
+    597,
+    506
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    527,
+    601,
+    544
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    552,
+    855,
+    577
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    580,
+    676,
+    603
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

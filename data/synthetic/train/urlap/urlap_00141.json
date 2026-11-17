@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy János",
+  "anyja_neve": "Lakatos Henrik",
+  "szuletesi_hely": "Város",
+  "szuletesi_datum": "1990.10.27.",
+  "lakcim": "H-1958 Veszprém, Zalaegerszegi utca 171.",
+  "telefon": "+36 20 147 5788",
+  "email": "nagy.janos@example.hu",
+  "adoazonosito_jel": "8452240635",
+  "taj_szam": "544 667 586",
+  "kelt": "Ligetbánya, 2026.03.15."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    409,
+    99,
+    830,
+    134
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    490,
+    153,
+    750,
+    169
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    98,
+    205,
+    313,
+    226
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    110,
+    258,
+    146,
+    272
+   ]
+  },
+  {
+   "text": "Nagy János",
+   "bbox": [
+    441,
+    252,
+    595,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    310,
+    203,
+    327
+   ]
+  },
+  {
+   "text": "Lakatos Henrik",
+   "bbox": [
+    441,
+    302,
+    645,
+    324
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    110,
+    360,
+    222,
+    378
+   ]
+  },
+  {
+   "text": "Város",
+   "bbox": [
+    441,
+    354,
+    517,
+    375
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    110,
+    411,
+    214,
+    425
+   ]
+  },
+  {
+   "text": "1990.10.27.",
+   "bbox": [
+    441,
+    410,
+    593,
+    428
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    110,
+    462,
+    170,
+    476
+   ]
+  },
+  {
+   "text": "H-1958 Veszprém, Zalaegerszegi utca 171.",
+   "bbox": [
+    441,
+    458,
+    984,
+    485
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    513,
+    215,
+    527
+   ]
+  },
+  {
+   "text": "+36 20 147 5788",
+   "bbox": [
+    441,
+    508,
+    657,
+    527
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    110,
+    564,
+    198,
+    578
+   ]
+  },
+  {
+   "text": "nagy.janos@example.hu",
+   "bbox": [
+    441,
+    558,
+    762,
+    586
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    615,
+    246,
+    633
+   ]
+  },
+  {
+   "text": "8452240635",
+   "bbox": [
+    441,
+    614,
+    601,
+    632
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    666,
+    192,
+    680
+   ]
+  },
+  {
+   "text": "544 667 586",
+   "bbox": [
+    441,
+    660,
+    601,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    98,
+    743,
+    271,
+    764
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    143,
+    787,
+    414,
+    805
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    143,
+    832,
+    268,
+    846
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    877,
+    434,
+    895
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    98,
+    979,
+    136,
+    994
+   ]
+  },
+  {
+   "text": "Ligetbánya, 2026.03.15.",
+   "bbox": [
+    188,
+    973,
+    470,
+    999
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1027,
+    973,
+    1039
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

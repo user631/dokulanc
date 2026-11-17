@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Tamás",
+  "email": "nagy.tamas@citromail.hu",
+  "telefon": "+36 30 282 5069",
+  "lakcim": "H-3229 Tatabánya, Kuntapolcai utca 42.",
+  "szuletesi_datum": "1984. április 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Balla Consulting Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2010 – 2014"
+   },
+   {
+    "ceg": "Kozma és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2008 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "C#",
+   "Linux",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Tamás",
+   "bbox": [
+    491,
+    94,
+    749,
+    139
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    163,
+    715,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    214,
+    159,
+    230
+   ]
+  },
+  {
+   "text": "nagy.tamas@citromail.hu",
+   "bbox": [
+    330,
+    215,
+    566,
+    234
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    245,
+    173,
+    261
+   ]
+  },
+  {
+   "text": "+36 30 282 5069",
+   "bbox": [
+    330,
+    246,
+    480,
+    261
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    276,
+    168,
+    292
+   ]
+  },
+  {
+   "text": "H-3229 Tatabánya, Kuntapolcai utca 42.",
+   "bbox": [
+    330,
+    276,
+    704,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    307,
+    252,
+    323
+   ]
+  },
+  {
+   "text": "1984. április 10.",
+   "bbox": [
+    330,
+    307,
+    482,
+    327
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    359,
+    320,
+    383
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    410,
+    198,
+    425
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Balla Consulting Bt.",
+   "bbox": [
+    90,
+    434,
+    526,
+    456
+   ]
+  },
+  {
+   "text": "2008 – 2010",
+   "bbox": [
+    90,
+    476,
+    198,
+    491
+   ]
+  },
+  {
+   "text": "értékesítő – Kozma és Társa Kft.",
+   "bbox": [
+    90,
+    500,
+    424,
+    517
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    552,
+    245,
+    576
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    90,
+    603,
+    198,
+    618
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    627,
+    619,
+    649
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    652,
+    314,
+    668
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    694,
+    198,
+    709
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    718,
+    384,
+    740
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    744,
+    274,
+    763
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    795,
+    218,
+    819
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    846,
+    205,
+    865
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    893,
+    209,
+    917
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, C#, Linux, csapatmunka",
+   "bbox": [
+    90,
+    943,
+    454,
+    963
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

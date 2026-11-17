@@ -1,0 +1,387 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "PÁSZTOR ÉLELMISZER BT.",
+  "uzlet_cim": "H-7913 Egyházastótvár, Váci utca 53.",
+  "adoszam": "97364528-4-06",
+  "datum": "2025.03.26.",
+  "ido": "11:49",
+  "nyugtaszam": "2293/98984",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 575 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "999"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "966"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "257"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "735"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1504"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "75"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "826"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1188"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "642"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "383"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÁSZTOR ÉLELMISZER BT.",
+   "bbox": [
+    103,
+    30,
+    455,
+    51
+   ]
+  },
+  {
+   "text": "H-7913 Egyházastótvár, Váci utca 53.",
+   "bbox": [
+    45,
+    67,
+    513,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 97364528-4-06",
+   "bbox": [
+    136,
+    95,
+    422,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    228,
+    141,
+    330,
+    159
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    184,
+    136,
+    201
+   ]
+  },
+  {
+   "text": "999 B00",
+   "bbox": [
+    436,
+    184,
+    534,
+    201
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    216,
+    192,
+    233
+   ]
+  },
+  {
+   "text": "966 A00",
+   "bbox": [
+    436,
+    216,
+    534,
+    233
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    248,
+    220,
+    269
+   ]
+  },
+  {
+   "text": "257 B00",
+   "bbox": [
+    436,
+    248,
+    534,
+    265
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    280,
+    220,
+    297
+   ]
+  },
+  {
+   "text": "735 C00",
+   "bbox": [
+    436,
+    280,
+    534,
+    297
+   ]
+  },
+  {
+   "text": "2 DB x 752",
+   "bbox": [
+    24,
+    312,
+    154,
+    327
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    338,
+    136,
+    355
+   ]
+  },
+  {
+   "text": "1504 B00",
+   "bbox": [
+    422,
+    338,
+    534,
+    355
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    372,
+    108,
+    387
+   ]
+  },
+  {
+   "text": "75 A00",
+   "bbox": [
+    450,
+    370,
+    534,
+    387
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    402,
+    136,
+    419
+   ]
+  },
+  {
+   "text": "826 A00",
+   "bbox": [
+    436,
+    402,
+    534,
+    419
+   ]
+  },
+  {
+   "text": "2 DB x 594",
+   "bbox": [
+    24,
+    434,
+    154,
+    449
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    460,
+    150,
+    477
+   ]
+  },
+  {
+   "text": "1188 A00",
+   "bbox": [
+    422,
+    460,
+    534,
+    477
+   ]
+  },
+  {
+   "text": "2 DB x 321",
+   "bbox": [
+    24,
+    492,
+    154,
+    507
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    520,
+    207,
+    535
+   ]
+  },
+  {
+   "text": "642 B00",
+   "bbox": [
+    436,
+    518,
+    534,
+    535
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    550,
+    220,
+    567
+   ]
+  },
+  {
+   "text": "383 A00",
+   "bbox": [
+    436,
+    550,
+    534,
+    567
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    593,
+    177,
+    615
+   ]
+  },
+  {
+   "text": "7 575 Ft",
+   "bbox": [
+    398,
+    595,
+    534,
+    615
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    634,
+    136,
+    653
+   ]
+  },
+  {
+   "text": "7 575 Ft",
+   "bbox": [
+    422,
+    636,
+    534,
+    653
+   ]
+  },
+  {
+   "text": "2025.03.26.",
+   "bbox": [
+    24,
+    682,
+    167,
+    698
+   ]
+  },
+  {
+   "text": "11:49",
+   "bbox": [
+    469,
+    682,
+    534,
+    698
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2293/98984",
+   "bbox": [
+    24,
+    713,
+    310,
+    733
+   ]
+  },
+  {
+   "text": "AP A44571186",
+   "bbox": [
+    24,
+    746,
+    180,
+    762
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    125,
+    789,
+    433,
+    807
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  558,
+  852
+ ]
+}

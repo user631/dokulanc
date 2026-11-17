@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2024/02904",
+  "kiallitas_datuma": "2024.06.08.",
+  "teljesites_datuma": "2024.06.03.",
+  "fizetesi_hatarido": "2024.06.16.",
+  "elado_nev": "Kovács és Társa Bt.",
+  "elado_cim": "H-3128 Magyarmindszentnémeti, Györgyházai út 157.",
+  "elado_adoszam": "51097020-2-16",
+  "vevo_nev": "Nagy Krisztián",
+  "vevo_cim": "H-8025 Dunakeresztfalva, Váci utca 84.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU50 3309 3556 2220 0174 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "11 320 Ft",
+  "afa_osszesen": "3 056 Ft",
+  "brutto_osszesen": "14 376 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "4 csomag",
+    "egysegar": "2 830",
+    "netto": "11 320",
+    "afa_kulcs": "27%",
+    "afa": "3 056",
+    "brutto": "14 376"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    108,
+    109,
+    210,
+    132
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    758,
+    97,
+    1161,
+    128
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/02904",
+   "bbox": [
+    905,
+    154,
+    1161,
+    171
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    79,
+    232,
+    153,
+    251
+   ]
+  },
+  {
+   "text": "Kovács és Társa Bt.",
+   "bbox": [
+    79,
+    268,
+    305,
+    287
+   ]
+  },
+  {
+   "text": "H-3128 Magyarmindszentnémeti, Györgyházai út 157.",
+   "bbox": [
+    79,
+    303,
+    598,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 51097020-2-16",
+   "bbox": [
+    78,
+    333,
+    328,
+    349
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    232,
+    695,
+    251
+   ]
+  },
+  {
+   "text": "Nagy Krisztián",
+   "bbox": [
+    630,
+    268,
+    796,
+    292
+   ]
+  },
+  {
+   "text": "H-8025 Dunakeresztfalva, Váci utca 84.",
+   "bbox": [
+    630,
+    303,
+    1013,
+    322
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    79,
+    400,
+    226,
+    415
+   ]
+  },
+  {
+   "text": "2024.06.08.",
+   "bbox": [
+    79,
+    430,
+    193,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    349,
+    400,
+    511,
+    419
+   ]
+  },
+  {
+   "text": "2024.06.03.",
+   "bbox": [
+    349,
+    430,
+    463,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    400,
+    771,
+    415
+   ]
+  },
+  {
+   "text": "2024.06.16.",
+   "bbox": [
+    619,
+    430,
+    733,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    400,
+    1006,
+    415
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    430,
+    965,
+    445
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    79,
+    478,
+    195,
+    497
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    479,
+    578,
+    497
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    661,
+    478,
+    750,
+    497
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    478,
+    879,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    475,
+    944,
+    494
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    475,
+    1047,
+    493
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1104,
+    478,
+    1161,
+    493
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    511,
+    520,
+    596,
+    538
+   ]
+  },
+  {
+   "text": "2 830",
+   "bbox": [
+    700,
+    520,
+    749,
+    534
+   ]
+  },
+  {
+   "text": "11 320",
+   "bbox": [
+    819,
+    520,
+    879,
+    534
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    520,
+    944,
+    534
+   ]
+  },
+  {
+   "text": "3 056",
+   "bbox": [
+    998,
+    520,
+    1047,
+    534
+   ]
+  },
+  {
+   "text": "14 376",
+   "bbox": [
+    1101,
+    520,
+    1161,
+    534
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    79,
+    520,
+    304,
+    538
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    664,
+    575,
+    831,
+    592
+   ]
+  },
+  {
+   "text": "11 320 Ft",
+   "bbox": [
+    1064,
+    575,
+    1162,
+    592
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    674,
+    607,
+    831,
+    628
+   ]
+  },
+  {
+   "text": "3 056 Ft",
+   "bbox": [
+    1077,
+    611,
+    1162,
+    628
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    628,
+    647,
+    831,
+    669
+   ]
+  },
+  {
+   "text": "14 376 Ft",
+   "bbox": [
+    1062,
+    647,
+    1161,
+    664
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU50 3309 3556 2220 0174 0000 0000",
+   "bbox": [
+    79,
+    714,
+    639,
+    729
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    79,
+    743,
+    631,
+    760
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    427,
+    1658,
+    812,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

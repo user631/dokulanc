@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Pintér Petra",
+  "anyja_neve": "Juhász Gábor",
+  "szuletesi_hely": "Dunamindszentbánya",
+  "szuletesi_datum": "1977.08.09.",
+  "lakcim": "H-5298 Keresztvár, Ady endre utca 6.",
+  "telefon": "+36 30 507 1178",
+  "email": "pinter.petra@freemail.hu",
+  "adoazonosito_jel": "8403978448",
+  "taj_szam": "022 236 957",
+  "kelt": "Ózd, 2025.06.20."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    467,
+    97,
+    772,
+    129
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    482,
+    150,
+    758,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    96,
+    202,
+    296,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    255,
+    145,
+    269
+   ]
+  },
+  {
+   "text": "Pintér Petra",
+   "bbox": [
+    424,
+    254,
+    582,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    307,
+    205,
+    324
+   ]
+  },
+  {
+   "text": "Juhász Gábor",
+   "bbox": [
+    424,
+    301,
+    597,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    108,
+    357,
+    226,
+    375
+   ]
+  },
+  {
+   "text": "Dunamindszentbánya",
+   "bbox": [
+    424,
+    356,
+    704,
+    380
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    108,
+    408,
+    217,
+    422
+   ]
+  },
+  {
+   "text": "1977.08.09.",
+   "bbox": [
+    424,
+    405,
+    578,
+    421
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    108,
+    459,
+    171,
+    473
+   ]
+  },
+  {
+   "text": "H-5298 Keresztvár, Ady endre utca 6.",
+   "bbox": [
+    424,
+    455,
+    901,
+    479
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    510,
+    217,
+    524
+   ]
+  },
+  {
+   "text": "+36 30 507 1178",
+   "bbox": [
+    424,
+    507,
+    651,
+    523
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    108,
+    561,
+    200,
+    575
+   ]
+  },
+  {
+   "text": "pinter.petra@freemail.hu",
+   "bbox": [
+    424,
+    555,
+    738,
+    578
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    612,
+    250,
+    630
+   ]
+  },
+  {
+   "text": "8403978448",
+   "bbox": [
+    424,
+    607,
+    594,
+    624
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    663,
+    190,
+    677
+   ]
+  },
+  {
+   "text": "022 236 957",
+   "bbox": [
+    424,
+    659,
+    595,
+    675
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    96,
+    740,
+    256,
+    760
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    141,
+    784,
+    427,
+    802
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    141,
+    829,
+    278,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    874,
+    437,
+    892
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    96,
+    976,
+    138,
+    990
+   ]
+  },
+  {
+   "text": "Ózd, 2025.06.20.",
+   "bbox": [
+    186,
+    970,
+    381,
+    994
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1026,
+    976,
+    1037
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

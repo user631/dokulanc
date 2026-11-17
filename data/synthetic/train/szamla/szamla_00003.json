@@ -1,0 +1,426 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2025/06801",
+  "kiallitas_datuma": "2025.02.04.",
+  "teljesites_datuma": "2025.02.02.",
+  "fizetesi_hatarido": "2025.03.06.",
+  "elado_nev": "Pintér Tech Bt.",
+  "elado_cim": "H-3897 Oroszmindszentapáti, Petőfi sándor utca 135.",
+  "elado_adoszam": "14102480-2-17",
+  "vevo_nev": "Farkas Kft.",
+  "vevo_cim": "H-7237 Hátkövesd, Bajai utca 174.",
+  "vevo_adoszam": "40479468-5-33",
+  "bankszamla": "54596607-60300540",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "5 000 Ft",
+  "afa_osszesen": "1 350 Ft",
+  "brutto_osszesen": "6 350 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 000",
+    "netto": "5 000",
+    "afa_kulcs": "27%",
+    "afa": "1 350",
+    "brutto": "6 350"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PINTÉR",
+   "bbox": [
+    133,
+    121,
+    206,
+    141
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1021,
+    102,
+    1150,
+    133
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/06801",
+   "bbox": [
+    875,
+    161,
+    1150,
+    184
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    242,
+    157,
+    260
+   ]
+  },
+  {
+   "text": "Pintér Tech Bt.",
+   "bbox": [
+    90,
+    280,
+    249,
+    298
+   ]
+  },
+  {
+   "text": "H-3897 Oroszmindszentapáti, Petőfi sándor utca",
+   "bbox": [
+    90,
+    315,
+    563,
+    336
+   ]
+  },
+  {
+   "text": "135.",
+   "bbox": [
+    90,
+    349,
+    132,
+    364
+   ]
+  },
+  {
+   "text": "Adószám: 14102480-2-17",
+   "bbox": [
+    90,
+    379,
+    336,
+    396
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    243,
+    691,
+    260
+   ]
+  },
+  {
+   "text": "Farkas Kft.",
+   "bbox": [
+    630,
+    280,
+    743,
+    298
+   ]
+  },
+  {
+   "text": "H-7237 Hátkövesd, Bajai utca 174.",
+   "bbox": [
+    630,
+    315,
+    964,
+    336
+   ]
+  },
+  {
+   "text": "Adószám: 40479468-5-33",
+   "bbox": [
+    630,
+    347,
+    876,
+    364
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    90,
+    450,
+    259,
+    466
+   ]
+  },
+  {
+   "text": "2025.02.04.",
+   "bbox": [
+    390,
+    451,
+    504,
+    466
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    90,
+    484,
+    274,
+    504
+   ]
+  },
+  {
+   "text": "2025.02.02.",
+   "bbox": [
+    390,
+    485,
+    504,
+    500
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    90,
+    518,
+    263,
+    534
+   ]
+  },
+  {
+   "text": "2025.03.06.",
+   "bbox": [
+    390,
+    519,
+    504,
+    534
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    90,
+    552,
+    223,
+    568
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    390,
+    551,
+    470,
+    568
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    598,
+    199,
+    616
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    599,
+    581,
+    616
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    598,
+    748,
+    616
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    598,
+    874,
+    612
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    595,
+    938,
+    612
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    595,
+    1038,
+    612
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1095,
+    598,
+    1150,
+    612
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    514,
+    641,
+    572,
+    655
+   ]
+  },
+  {
+   "text": "5 000",
+   "bbox": [
+    698,
+    642,
+    747,
+    655
+   ]
+  },
+  {
+   "text": "5 000",
+   "bbox": [
+    825,
+    642,
+    874,
+    655
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    901,
+    641,
+    938,
+    655
+   ]
+  },
+  {
+   "text": "1 350",
+   "bbox": [
+    989,
+    642,
+    1038,
+    655
+   ]
+  },
+  {
+   "text": "6 350",
+   "bbox": [
+    1101,
+    642,
+    1150,
+    655
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    90,
+    641,
+    320,
+    659
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    660,
+    697,
+    820,
+    715
+   ]
+  },
+  {
+   "text": "5 000 Ft",
+   "bbox": [
+    1067,
+    699,
+    1150,
+    715
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    678,
+    732,
+    820,
+    753
+   ]
+  },
+  {
+   "text": "1 350 Ft",
+   "bbox": [
+    1067,
+    737,
+    1150,
+    753
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    614,
+    774,
+    820,
+    791
+   ]
+  },
+  {
+   "text": "6 350 Ft",
+   "bbox": [
+    1066,
+    775,
+    1150,
+    791
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 54596607-60300540",
+   "bbox": [
+    90,
+    841,
+    456,
+    858
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    90,
+    873,
+    663,
+    891
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    485,
+    1646,
+    754,
+    1662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

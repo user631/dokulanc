@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Szabó László",
+  "anyja_neve": "Balog Vivien",
+  "szuletesi_hely": "Németmellékvára",
+  "szuletesi_datum": "1998. 06. 24.",
+  "lakcim": "H-8518 Némettótfa, Berényi utca 188.",
+  "telefon": "+36 30 900 5125",
+  "email": "szabo.laszlo@freemail.hu",
+  "adoazonosito_jel": "8480218339",
+  "taj_szam": "027 332 289",
+  "kelt": "Magyarfürdőbánya, 2024. 10. 13."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    435,
+    87,
+    804,
+    119
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    86,
+    198,
+    285,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    97,
+    253,
+    137,
+    266
+   ]
+  },
+  {
+   "text": "Szabó László",
+   "bbox": [
+    398,
+    252,
+    522,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    305,
+    196,
+    323
+   ]
+  },
+  {
+   "text": "Balog Vivien",
+   "bbox": [
+    398,
+    306,
+    522,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    98,
+    358,
+    218,
+    376
+   ]
+  },
+  {
+   "text": "Németmellékvára",
+   "bbox": [
+    397,
+    355,
+    562,
+    371
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    98,
+    411,
+    209,
+    425
+   ]
+  },
+  {
+   "text": "1998. 06. 24.",
+   "bbox": [
+    398,
+    408,
+    524,
+    423
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    98,
+    464,
+    166,
+    478
+   ]
+  },
+  {
+   "text": "H-8518 Némettótfa, Berényi utca 188.",
+   "bbox": [
+    398,
+    466,
+    757,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    517,
+    209,
+    531
+   ]
+  },
+  {
+   "text": "+36 30 900 5125",
+   "bbox": [
+    398,
+    518,
+    561,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    98,
+    570,
+    196,
+    584
+   ]
+  },
+  {
+   "text": "szabo.laszlo@freemail.hu",
+   "bbox": [
+    398,
+    569,
+    637,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    623,
+    242,
+    641
+   ]
+  },
+  {
+   "text": "8480218339",
+   "bbox": [
+    398,
+    624,
+    518,
+    639
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    677,
+    185,
+    690
+   ]
+  },
+  {
+   "text": "027 332 289",
+   "bbox": [
+    398,
+    675,
+    518,
+    690
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    86,
+    756,
+    251,
+    776
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    131,
+    800,
+    417,
+    818
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    131,
+    845,
+    268,
+    859
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    890,
+    434,
+    908
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    86,
+    992,
+    128,
+    1007
+   ]
+  },
+  {
+   "text": "Magyarfürdőbánya, 2024. 10. 13.",
+   "bbox": [
+    176,
+    989,
+    494,
+    1010
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1042,
+    987,
+    1054
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

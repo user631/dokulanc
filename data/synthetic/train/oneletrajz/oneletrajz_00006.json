@@ -1,0 +1,374 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Erzsébet",
+  "email": "szabo.erzsebet@freemail.hu",
+  "telefon": "+36 30 738 3958",
+  "lakcim": "H-3495 Ózd, József attila utca 7.",
+  "szuletesi_datum": "2000. december 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Szolgáltató Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Németh és Társa Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2024 – jelenleg"
+   },
+   {
+    "ceg": "Török Szolgáltató Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2022 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "Git",
+   "SQL",
+   "SAP",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    222,
+    128
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    101,
+    169
+   ]
+  },
+  {
+   "text": "szabo.erzsebet@freemail.hu",
+   "bbox": [
+    40,
+    178,
+    295,
+    197
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    212,
+    111,
+    227
+   ]
+  },
+  {
+   "text": "+36 30 738 3958",
+   "bbox": [
+    40,
+    236,
+    191,
+    251
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    270,
+    109,
+    285
+   ]
+  },
+  {
+   "text": "H-3495 Ózd, József attila utca 7.",
+   "bbox": [
+    40,
+    290,
+    333,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    328,
+    193,
+    343
+   ]
+  },
+  {
+   "text": "2000. december 29.",
+   "bbox": [
+    40,
+    352,
+    219,
+    367
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    411,
+    202,
+    434
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    457,
+    140,
+    476
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    485,
+    146,
+    504
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    537,
+    189,
+    560
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    583,
+    276,
+    602
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    611,
+    169,
+    630
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    639,
+    67,
+    654
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    667,
+    82,
+    683
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    695,
+    82,
+    710
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    723,
+    109,
+    738
+   ]
+  },
+  {
+   "text": "Szabó Erzsébet",
+   "bbox": [
+    450,
+    114,
+    792,
+    149
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    185,
+    667,
+    209
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    249,
+    692,
+    273
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    300,
+    597,
+    320
+   ]
+  },
+  {
+   "text": "tesztmérnök – Varga Szolgáltató Bt.",
+   "bbox": [
+    450,
+    326,
+    842,
+    348
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    368,
+    597,
+    388
+   ]
+  },
+  {
+   "text": "tesztmérnök – Németh és Társa Zrt.",
+   "bbox": [
+    450,
+    394,
+    840,
+    411
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    436,
+    570,
+    452
+   ]
+  },
+  {
+   "text": "projektmenedzser – Török Szolgáltató Kft.",
+   "bbox": [
+    450,
+    462,
+    911,
+    484
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    515,
+    617,
+    539
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    450,
+    566,
+    570,
+    582
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    588,
+    631,
+    614
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    618,
+    686,
+    634
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    660,
+    570,
+    676
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    686,
+    787,
+    708
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    712,
+    533,
+    732
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

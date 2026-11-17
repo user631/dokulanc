@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BODNÁR ÉLELMISZER BT.",
+  "uzlet_cim": "H-9357 Ózd, Somogykereszti utca 149.",
+  "adoszam": "27709166-3-12",
+  "datum": "2025.02.16.",
+  "ido": "20:11",
+  "nyugtaszam": "9623/72005",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 211 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "662"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "549"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BODNÁR ÉLELMISZER BT.",
+   "bbox": [
+    159,
+    28,
+    432,
+    48
+   ]
+  },
+  {
+   "text": "H-9357 Ózd, Somogykereszti utca 149.",
+   "bbox": [
+    116,
+    63,
+    476,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 27709166-3-12",
+   "bbox": [
+    186,
+    88,
+    406,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    254,
+    130,
+    338,
+    146
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    173,
+    120,
+    186
+   ]
+  },
+  {
+   "text": "662 A00",
+   "bbox": [
+    485,
+    173,
+    569,
+    186
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    202,
+    120,
+    215
+   ]
+  },
+  {
+   "text": "549 A00",
+   "bbox": [
+    485,
+    202,
+    569,
+    215
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    238,
+    164,
+    259
+   ]
+  },
+  {
+   "text": "1 211 Ft",
+   "bbox": [
+    457,
+    243,
+    569,
+    259
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    278,
+    144,
+    295
+   ]
+  },
+  {
+   "text": "1 211 Ft",
+   "bbox": [
+    473,
+    282,
+    569,
+    295
+   ]
+  },
+  {
+   "text": "2025.02.16.",
+   "bbox": [
+    24,
+    325,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "20:11",
+   "bbox": [
+    519,
+    325,
+    569,
+    337
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9623/72005",
+   "bbox": [
+    24,
+    351,
+    244,
+    368
+   ]
+  },
+  {
+   "text": "AP A81338963",
+   "bbox": [
+    24,
+    383,
+    144,
+    395
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    175,
+    419,
+    417,
+    436
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  593,
+  482
+ ]
+}

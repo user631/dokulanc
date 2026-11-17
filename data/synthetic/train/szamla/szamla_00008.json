@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2024/09987",
+  "kiallitas_datuma": "2024. 12. 29.",
+  "teljesites_datuma": "2024. 12. 29.",
+  "fizetesi_hatarido": "2025. 01. 06.",
+  "elado_nev": "Boros Trade Kft.",
+  "elado_cim": "H-8683 Mellékváros, Arany jános utca 225.",
+  "elado_adoszam": "33195452-2-15",
+  "vevo_nev": "Papp Kft.",
+  "vevo_cim": "H-3484 Budaszéknémeti, Mosonhetveni út 121.",
+  "vevo_adoszam": "21687893-4-11",
+  "bankszamla": "90872062-49489244",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "1 512 020 Ft",
+  "afa_osszesen": "402 207 Ft",
+  "brutto_osszesen": "1 914 227 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "3 500",
+    "netto": "3 500",
+    "afa_kulcs": "27%",
+    "afa": "945",
+    "brutto": "4 445"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "201 880",
+    "netto": "1 009 400",
+    "afa_kulcs": "27%",
+    "afa": "272 538",
+    "brutto": "1 281 938"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "12 csomag",
+    "egysegar": "5 590",
+    "netto": "67 080",
+    "afa_kulcs": "18%",
+    "afa": "12 074",
+    "brutto": "79 154"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "16 590",
+    "netto": "16 590",
+    "afa_kulcs": "27%",
+    "afa": "4 479",
+    "brutto": "21 069"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "39 990",
+    "netto": "399 900",
+    "afa_kulcs": "27%",
+    "afa": "107 973",
+    "brutto": "507 873"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "5 csomag",
+    "egysegar": "3 110",
+    "netto": "15 550",
+    "afa_kulcs": "27%",
+    "afa": "4 198",
+    "brutto": "19 748"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOROS",
+   "bbox": [
+    134,
+    129,
+    209,
+    146
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    757,
+    110,
+    1148,
+    142
+   ]
+  },
+  {
+   "text": "Sorszám: A-2024/09987",
+   "bbox": [
+    891,
+    166,
+    1148,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    92,
+    247,
+    163,
+    265
+   ]
+  },
+  {
+   "text": "Boros Trade Kft.",
+   "bbox": [
+    92,
+    283,
+    277,
+    301
+   ]
+  },
+  {
+   "text": "H-8683 Mellékváros, Arany jános utca 225.",
+   "bbox": [
+    92,
+    315,
+    519,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 33195452-2-15",
+   "bbox": [
+    92,
+    345,
+    341,
+    363
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    248,
+    695,
+    265
+   ]
+  },
+  {
+   "text": "Papp Kft.",
+   "bbox": [
+    630,
+    283,
+    735,
+    306
+   ]
+  },
+  {
+   "text": "H-3484 Budaszéknémeti, Mosonhetveni út 121.",
+   "bbox": [
+    630,
+    315,
+    1095,
+    337
+   ]
+  },
+  {
+   "text": "Adószám: 21687893-4-11",
+   "bbox": [
+    630,
+    345,
+    879,
+    363
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    92,
+    414,
+    236,
+    428
+   ]
+  },
+  {
+   "text": "2024. 12. 29.",
+   "bbox": [
+    92,
+    443,
+    216,
+    458
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    356,
+    414,
+    516,
+    432
+   ]
+  },
+  {
+   "text": "2024. 12. 29.",
+   "bbox": [
+    356,
+    443,
+    480,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    414,
+    772,
+    428
+   ]
+  },
+  {
+   "text": "2025. 01. 06.",
+   "bbox": [
+    620,
+    443,
+    744,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    884,
+    414,
+    999,
+    428
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    884,
+    442,
+    969,
+    462
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    92,
+    492,
+    199,
+    510
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    492,
+    578,
+    510
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    668,
+    492,
+    746,
+    510
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    492,
+    873,
+    506
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    488,
+    936,
+    506
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    488,
+    1037,
+    506
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1091,
+    492,
+    1148,
+    506
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    533,
+    598,
+    547
+   ]
+  },
+  {
+   "text": "3 500",
+   "bbox": [
+    700,
+    533,
+    746,
+    547
+   ]
+  },
+  {
+   "text": "3 500",
+   "bbox": [
+    827,
+    533,
+    873,
+    547
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    533,
+    936,
+    547
+   ]
+  },
+  {
+   "text": "945",
+   "bbox": [
+    1007,
+    533,
+    1037,
+    547
+   ]
+  },
+  {
+   "text": "4 445",
+   "bbox": [
+    1102,
+    533,
+    1148,
+    547
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    92,
+    532,
+    197,
+    551
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    514,
+    568,
+    598,
+    582
+   ]
+  },
+  {
+   "text": "201 880",
+   "bbox": [
+    680,
+    568,
+    746,
+    582
+   ]
+  },
+  {
+   "text": "1 009 400",
+   "bbox": [
+    791,
+    568,
+    873,
+    582
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    568,
+    936,
+    582
+   ]
+  },
+  {
+   "text": "272 538",
+   "bbox": [
+    971,
+    568,
+    1037,
+    582
+   ]
+  },
+  {
+   "text": "1 281 938",
+   "bbox": [
+    1066,
+    568,
+    1148,
+    582
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    92,
+    567,
+    271,
+    586
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    514,
+    603,
+    603,
+    621
+   ]
+  },
+  {
+   "text": "5 590",
+   "bbox": [
+    700,
+    603,
+    746,
+    617
+   ]
+  },
+  {
+   "text": "67 080",
+   "bbox": [
+    817,
+    603,
+    873,
+    617
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    905,
+    603,
+    936,
+    617
+   ]
+  },
+  {
+   "text": "12 074",
+   "bbox": [
+    981,
+    603,
+    1037,
+    617
+   ]
+  },
+  {
+   "text": "79 154",
+   "bbox": [
+    1092,
+    603,
+    1148,
+    617
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    92,
+    602,
+    250,
+    621
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    514,
+    637,
+    557,
+    652
+   ]
+  },
+  {
+   "text": "16 590",
+   "bbox": [
+    690,
+    638,
+    746,
+    652
+   ]
+  },
+  {
+   "text": "16 590",
+   "bbox": [
+    817,
+    638,
+    873,
+    652
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    638,
+    936,
+    652
+   ]
+  },
+  {
+   "text": "4 479",
+   "bbox": [
+    991,
+    638,
+    1037,
+    652
+   ]
+  },
+  {
+   "text": "21 069",
+   "bbox": [
+    1092,
+    638,
+    1148,
+    652
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    92,
+    637,
+    358,
+    656
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    514,
+    673,
+    608,
+    687
+   ]
+  },
+  {
+   "text": "39 990",
+   "bbox": [
+    690,
+    673,
+    746,
+    687
+   ]
+  },
+  {
+   "text": "399 900",
+   "bbox": [
+    807,
+    673,
+    873,
+    687
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    673,
+    936,
+    687
+   ]
+  },
+  {
+   "text": "107 973",
+   "bbox": [
+    971,
+    673,
+    1037,
+    687
+   ]
+  },
+  {
+   "text": "507 873",
+   "bbox": [
+    1082,
+    673,
+    1148,
+    687
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    92,
+    672,
+    285,
+    691
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    514,
+    708,
+    593,
+    726
+   ]
+  },
+  {
+   "text": "3 110",
+   "bbox": [
+    700,
+    708,
+    746,
+    722
+   ]
+  },
+  {
+   "text": "15 550",
+   "bbox": [
+    817,
+    708,
+    873,
+    722
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    708,
+    936,
+    722
+   ]
+  },
+  {
+   "text": "4 198",
+   "bbox": [
+    991,
+    708,
+    1037,
+    722
+   ]
+  },
+  {
+   "text": "19 748",
+   "bbox": [
+    1092,
+    708,
+    1148,
+    722
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    92,
+    707,
+    315,
+    726
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    656,
+    763,
+    818,
+    781
+   ]
+  },
+  {
+   "text": "1 512 020 Ft",
+   "bbox": [
+    1022,
+    765,
+    1148,
+    781
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    674,
+    796,
+    818,
+    817
+   ]
+  },
+  {
+   "text": "402 207 Ft",
+   "bbox": [
+    1041,
+    801,
+    1148,
+    817
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    701,
+    835,
+    818,
+    858
+   ]
+  },
+  {
+   "text": "1 914 227 Ft",
+   "bbox": [
+    1014,
+    837,
+    1148,
+    853
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 90872062-49489244",
+   "bbox": [
+    92,
+    901,
+    446,
+    917
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    92,
+    930,
+    647,
+    948
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

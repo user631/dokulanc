@@ -1,0 +1,545 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/06267",
+  "kiallitas_datuma": "2025.11.15.",
+  "teljesites_datuma": "2025.11.11.",
+  "fizetesi_hatarido": "2025.11.30.",
+  "elado_nev": "Horváth Logisztika Bt.",
+  "elado_cim": "H-4970 Hetvennádasd, Veszprémi utca 108.",
+  "elado_adoszam": "52434811-5-31",
+  "vevo_nev": "Kovács és Társa Kft.",
+  "vevo_cim": "H-6378 Pusztamártonkövesd, Németmelléki tér 231.",
+  "vevo_adoszam": "97429074-2-16",
+  "bankszamla": "HU12 4818 7774 6371 6010 7130 3567",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "108 050 Ft",
+  "afa_osszesen": "29 174 Ft",
+  "brutto_osszesen": "147 224 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "12 db",
+    "egysegar": "5 140",
+    "netto": "61 680",
+    "afa_kulcs": "27%",
+    "afa": "16 654",
+    "brutto": "78 334"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "40 460",
+    "netto": "40 460",
+    "afa_kulcs": "27%",
+    "afa": "10 924",
+    "brutto": "51 384"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 910",
+    "netto": "5 910",
+    "afa_kulcs": "27%",
+    "afa": "1 596",
+    "brutto": "7 506"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    398,
+    76,
+    841,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/06267",
+   "bbox": [
+    430,
+    139,
+    810,
+    163
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    219,
+    159,
+    238
+   ]
+  },
+  {
+   "text": "Horváth Logisztika Bt.",
+   "bbox": [
+    75,
+    256,
+    364,
+    280
+   ]
+  },
+  {
+   "text": "H-4970 Hetvennádasd, Veszprémi utca 108.",
+   "bbox": [
+    75,
+    292,
+    526,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 52434811-5-31",
+   "bbox": [
+    74,
+    323,
+    331,
+    344
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    219,
+    702,
+    238
+   ]
+  },
+  {
+   "text": "Kovács és Társa Kft.",
+   "bbox": [
+    630,
+    256,
+    887,
+    275
+   ]
+  },
+  {
+   "text": "H-6378 Pusztamártonkövesd, Németmelléki tér",
+   "bbox": [
+    630,
+    292,
+    1117,
+    313
+   ]
+  },
+  {
+   "text": "231.",
+   "bbox": [
+    630,
+    328,
+    672,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 97429074-2-16",
+   "bbox": [
+    629,
+    354,
+    892,
+    375
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    75,
+    423,
+    280,
+    440
+   ]
+  },
+  {
+   "text": "2025.11.15.",
+   "bbox": [
+    375,
+    428,
+    487,
+    444
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    75,
+    456,
+    292,
+    478
+   ]
+  },
+  {
+   "text": "2025.11.11.",
+   "bbox": [
+    375,
+    461,
+    485,
+    477
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    75,
+    489,
+    282,
+    506
+   ]
+  },
+  {
+   "text": "2025.11.30.",
+   "bbox": [
+    375,
+    494,
+    492,
+    510
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    75,
+    522,
+    232,
+    539
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    375,
+    522,
+    457,
+    539
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    566,
+    197,
+    585
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    567,
+    588,
+    585
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    566,
+    751,
+    585
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    566,
+    881,
+    581
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    562,
+    947,
+    581
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1006,
+    562,
+    1051,
+    581
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    566,
+    1165,
+    581
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    511,
+    608,
+    558,
+    623
+   ]
+  },
+  {
+   "text": "5 140",
+   "bbox": [
+    702,
+    612,
+    750,
+    627
+   ]
+  },
+  {
+   "text": "61 680",
+   "bbox": [
+    821,
+    609,
+    881,
+    623
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    609,
+    947,
+    627
+   ]
+  },
+  {
+   "text": "16 654",
+   "bbox": [
+    992,
+    609,
+    1050,
+    627
+   ]
+  },
+  {
+   "text": "78 334",
+   "bbox": [
+    1105,
+    609,
+    1165,
+    627
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    75,
+    608,
+    231,
+    627
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    644,
+    597,
+    659
+   ]
+  },
+  {
+   "text": "40 460",
+   "bbox": [
+    688,
+    645,
+    750,
+    663
+   ]
+  },
+  {
+   "text": "40 460",
+   "bbox": [
+    819,
+    645,
+    881,
+    663
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    645,
+    947,
+    663
+   ]
+  },
+  {
+   "text": "10 924",
+   "bbox": [
+    991,
+    648,
+    1050,
+    663
+   ]
+  },
+  {
+   "text": "51 384",
+   "bbox": [
+    1106,
+    645,
+    1165,
+    663
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    75,
+    644,
+    273,
+    663
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    511,
+    680,
+    569,
+    695
+   ]
+  },
+  {
+   "text": "5 910",
+   "bbox": [
+    702,
+    684,
+    750,
+    699
+   ]
+  },
+  {
+   "text": "5 910",
+   "bbox": [
+    833,
+    684,
+    881,
+    699
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    681,
+    947,
+    699
+   ]
+  },
+  {
+   "text": "1 596",
+   "bbox": [
+    1003,
+    681,
+    1050,
+    699
+   ]
+  },
+  {
+   "text": "7 506",
+   "bbox": [
+    1116,
+    681,
+    1165,
+    699
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    75,
+    680,
+    317,
+    699
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    670,
+    737,
+    835,
+    755
+   ]
+  },
+  {
+   "text": "108 050 Ft",
+   "bbox": [
+    1049,
+    738,
+    1165,
+    759
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    682,
+    770,
+    835,
+    792
+   ]
+  },
+  {
+   "text": "29 174 Ft",
+   "bbox": [
+    1068,
+    775,
+    1165,
+    796
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    699,
+    811,
+    835,
+    834
+   ]
+  },
+  {
+   "text": "147 224 Ft",
+   "bbox": [
+    1040,
+    812,
+    1165,
+    833
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU12 4818 7774 6371 6010 7130 3567",
+   "bbox": [
+    75,
+    877,
+    619,
+    898
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

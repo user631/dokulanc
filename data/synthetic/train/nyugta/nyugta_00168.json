@@ -1,0 +1,330 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BIRÓ KISBOLT BT.",
+  "uzlet_cim": "H-9000 Cegléd, Székesfehérvári utca 106.",
+  "adoszam": "31977872-5-04",
+  "datum": "2026.10.07.",
+  "ido": "19:20",
+  "nyugtaszam": "6950/17984",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 636 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "200"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "71"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1548"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2468"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1348"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1929"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1072"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BIRÓ KISBOLT BT.",
+   "bbox": [
+    155,
+    28,
+    379,
+    49
+   ]
+  },
+  {
+   "text": "H-9000 Cegléd, Székesfehérvári utca 106.",
+   "bbox": [
+    27,
+    66,
+    507,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 31977872-5-04",
+   "bbox": [
+    135,
+    91,
+    399,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    137,
+    312,
+    154
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    181,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "200 B00",
+   "bbox": [
+    420,
+    181,
+    511,
+    196
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    212,
+    102,
+    227
+   ]
+  },
+  {
+   "text": "71 B00",
+   "bbox": [
+    433,
+    212,
+    511,
+    227
+   ]
+  },
+  {
+   "text": "3 DB x 516",
+   "bbox": [
+    24,
+    242,
+    134,
+    255
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    268,
+    167,
+    283
+   ]
+  },
+  {
+   "text": "1548 C00",
+   "bbox": [
+    407,
+    268,
+    511,
+    283
+   ]
+  },
+  {
+   "text": "2 DB x 1234",
+   "bbox": [
+    24,
+    298,
+    145,
+    311
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    324,
+    154,
+    339
+   ]
+  },
+  {
+   "text": "2468 C00",
+   "bbox": [
+    407,
+    324,
+    511,
+    339
+   ]
+  },
+  {
+   "text": "2 DB x 674",
+   "bbox": [
+    24,
+    354,
+    134,
+    367
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    380,
+    128,
+    395
+   ]
+  },
+  {
+   "text": "1348 B00",
+   "bbox": [
+    407,
+    380,
+    511,
+    395
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    411,
+    271,
+    426
+   ]
+  },
+  {
+   "text": "1929 B00",
+   "bbox": [
+    407,
+    411,
+    511,
+    426
+   ]
+  },
+  {
+   "text": "2 DB x 536",
+   "bbox": [
+    24,
+    441,
+    134,
+    454
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    467,
+    141,
+    482
+   ]
+  },
+  {
+   "text": "1072 A00",
+   "bbox": [
+    407,
+    467,
+    511,
+    482
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    506,
+    174,
+    528
+   ]
+  },
+  {
+   "text": "8 636 Ft",
+   "bbox": [
+    391,
+    511,
+    511,
+    528
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    546,
+    154,
+    566
+   ]
+  },
+  {
+   "text": "8 636 Ft",
+   "bbox": [
+    407,
+    551,
+    511,
+    566
+   ]
+  },
+  {
+   "text": "2026.10.07.",
+   "bbox": [
+    24,
+    596,
+    156,
+    609
+   ]
+  },
+  {
+   "text": "19:20",
+   "bbox": [
+    451,
+    596,
+    511,
+    609
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6950/17984",
+   "bbox": [
+    24,
+    623,
+    288,
+    642
+   ]
+  },
+  {
+   "text": "AP A19202631",
+   "bbox": [
+    24,
+    658,
+    168,
+    671
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    177,
+    696,
+    357,
+    715
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  535,
+  761
+ ]
+}

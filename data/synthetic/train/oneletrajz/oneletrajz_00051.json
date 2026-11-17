@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Gáspár Anna",
+  "email": "gaspar.anna@citromail.hu",
+  "telefon": "+36 70 556 3419",
+  "lakcim": "H-5794 Tiszagyörgyháza, Arany jános utca 74.",
+  "szuletesi_datum": "2002.01.22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2021 – 2024"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vass Tech Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "projektmenedzsment",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Gáspár Anna",
+   "bbox": [
+    459,
+    103,
+    780,
+    149
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    168,
+    680,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    167,
+    236
+   ]
+  },
+  {
+   "text": "gaspar.anna@citromail.hu",
+   "bbox": [
+    330,
+    221,
+    578,
+    240
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    179,
+    265
+   ]
+  },
+  {
+   "text": "+36 70 556 3419",
+   "bbox": [
+    330,
+    251,
+    499,
+    265
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    174,
+    294
+   ]
+  },
+  {
+   "text": "H-5794 Tiszagyörgyháza, Arany jános utca 74.",
+   "bbox": [
+    330,
+    279,
+    779,
+    298
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    307,
+    273,
+    323
+   ]
+  },
+  {
+   "text": "2002.01.22.",
+   "bbox": [
+    330,
+    309,
+    447,
+    323
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    358,
+    347,
+    381
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    406,
+    238,
+    425
+   ]
+  },
+  {
+   "text": "projektmenedzser – Vass Tech Zrt.",
+   "bbox": [
+    90,
+    429,
+    480,
+    449
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    479,
+    263,
+    502
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    528,
+    212,
+    542
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    549,
+    397,
+    570
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    573,
+    213,
+    592
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    613,
+    212,
+    627
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    634,
+    374,
+    651
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    658,
+    172,
+    677
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    708,
+    233,
+    731
+   ]
+  },
+  {
+   "text": "angol (C1), olasz (A2)",
+   "bbox": [
+    90,
+    756,
+    304,
+    775
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    802,
+    227,
+    825
+   ]
+  },
+  {
+   "text": "JavaScript, projektmenedzsment, SAP",
+   "bbox": [
+    90,
+    850,
+    452,
+    869
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

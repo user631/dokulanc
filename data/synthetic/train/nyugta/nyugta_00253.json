@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH ÉLELMISZER KFT.",
+  "uzlet_cim": "H-3038 Györgyvárad, Nyíregyházai utca 196.",
+  "adoszam": "56788301-4-15",
+  "datum": "2025.10.28.",
+  "ido": "09:28",
+  "nyugtaszam": "0734/66547",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 319 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2582"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "480"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1308"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "307"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "152"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "757"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1373"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1294"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1489"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "735"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "842"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ÉLELMISZER KFT.",
+   "bbox": [
+    111,
+    30,
+    411,
+    51
+   ]
+  },
+  {
+   "text": "H-3038 Györgyvárad, Nyíregyházai",
+   "bbox": [
+    53,
+    70,
+    469,
+    87
+   ]
+  },
+  {
+   "text": "utca 196.",
+   "bbox": [
+    202,
+    97,
+    319,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56788301-4-15",
+   "bbox": [
+    118,
+    121,
+    404,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    212,
+    167,
+    310,
+    183
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    211,
+    290,
+    225
+   ]
+  },
+  {
+   "text": "2582 C00",
+   "bbox": [
+    386,
+    211,
+    498,
+    225
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    242,
+    220,
+    256
+   ]
+  },
+  {
+   "text": "480 B00",
+   "bbox": [
+    400,
+    242,
+    498,
+    256
+   ]
+  },
+  {
+   "text": "2 DB x 654",
+   "bbox": [
+    24,
+    271,
+    144,
+    284
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    298,
+    136,
+    312
+   ]
+  },
+  {
+   "text": "1308 C00",
+   "bbox": [
+    386,
+    298,
+    498,
+    312
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    330,
+    206,
+    343
+   ]
+  },
+  {
+   "text": "307 A00",
+   "bbox": [
+    400,
+    329,
+    498,
+    343
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    360,
+    220,
+    377
+   ]
+  },
+  {
+   "text": "152 C00",
+   "bbox": [
+    400,
+    360,
+    498,
+    374
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    391,
+    136,
+    405
+   ]
+  },
+  {
+   "text": "757 B00",
+   "bbox": [
+    400,
+    391,
+    498,
+    405
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    422,
+    164,
+    436
+   ]
+  },
+  {
+   "text": "1373 B00",
+   "bbox": [
+    386,
+    422,
+    498,
+    436
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    453,
+    192,
+    467
+   ]
+  },
+  {
+   "text": "1294 B00",
+   "bbox": [
+    386,
+    453,
+    498,
+    467
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    485,
+    164,
+    498
+   ]
+  },
+  {
+   "text": "1489 A00",
+   "bbox": [
+    386,
+    484,
+    498,
+    498
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    515,
+    234,
+    529
+   ]
+  },
+  {
+   "text": "735 A00",
+   "bbox": [
+    400,
+    515,
+    498,
+    529
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    546,
+    248,
+    560
+   ]
+  },
+  {
+   "text": "842 A00",
+   "bbox": [
+    400,
+    546,
+    498,
+    560
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    584,
+    184,
+    606
+   ]
+  },
+  {
+   "text": "11 319 Ft",
+   "bbox": [
+    354,
+    589,
+    498,
+    606
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    627,
+    164,
+    644
+   ]
+  },
+  {
+   "text": "11 319 Ft",
+   "bbox": [
+    372,
+    630,
+    498,
+    644
+   ]
+  },
+  {
+   "text": "2025.10.28.",
+   "bbox": [
+    24,
+    674,
+    167,
+    687
+   ]
+  },
+  {
+   "text": "09:28",
+   "bbox": [
+    433,
+    674,
+    498,
+    687
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0734/66547",
+   "bbox": [
+    24,
+    702,
+    310,
+    720
+   ]
+  },
+  {
+   "text": "AP A83409190",
+   "bbox": [
+    24,
+    736,
+    180,
+    749
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    196,
+    777,
+    326,
+    793
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  522,
+  837
+ ]
+}

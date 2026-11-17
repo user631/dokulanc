@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tóth András",
+  "email": "toth.andras@gmail.com",
+  "telefon": "+36 30 419 1756",
+  "lakcim": "H-3514 Tapolcanémeti, Petőfi sándor tér 215.",
+  "szuletesi_datum": "1983.09.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2003 – 2008"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Király és Társa Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2007 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "projektmenedzsment",
+   "Excel",
+   "Git",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    81,
+    212,
+    101
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    125,
+    97,
+    138
+   ]
+  },
+  {
+   "text": "toth.andras@gmail.com",
+   "bbox": [
+    40,
+    146,
+    224,
+    163
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    177,
+    108,
+    190
+   ]
+  },
+  {
+   "text": "+36 30 419 1756",
+   "bbox": [
+    40,
+    199,
+    163,
+    214
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    229,
+    105,
+    242
+   ]
+  },
+  {
+   "text": "H-3514 Tapolcanémeti, Petőfi sándor tér",
+   "bbox": [
+    40,
+    250,
+    346,
+    267
+   ]
+  },
+  {
+   "text": "215.",
+   "bbox": [
+    40,
+    275,
+    71,
+    287
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    302,
+    181,
+    315
+   ]
+  },
+  {
+   "text": "1983.09.27.",
+   "bbox": [
+    40,
+    324,
+    130,
+    339
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    381,
+    198,
+    401
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    421,
+    140,
+    439
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    446,
+    122,
+    464
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    498,
+    179,
+    518
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    539,
+    73,
+    552
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    563,
+    210,
+    581
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    588,
+    83,
+    602
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    614,
+    64,
+    627
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    638,
+    132,
+    656
+   ]
+  },
+  {
+   "text": "Tóth András",
+   "bbox": [
+    450,
+    88,
+    725,
+    121
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    153,
+    556,
+    179
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    218,
+    687,
+    240
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    450,
+    270,
+    563,
+    283
+   ]
+  },
+  {
+   "text": "projektmenedzser – Király és Társa Kft.",
+   "bbox": [
+    450,
+    289,
+    856,
+    308
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    339,
+    617,
+    361
+   ]
+  },
+  {
+   "text": "2003 – 2008",
+   "bbox": [
+    450,
+    388,
+    563,
+    404
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    410,
+    800,
+    429
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    433,
+    590,
+    447
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    450,
+    476,
+    558,
+    489
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    495,
+    745,
+    514
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    518,
+    618,
+    536
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

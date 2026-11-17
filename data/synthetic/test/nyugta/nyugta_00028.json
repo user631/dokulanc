@@ -1,0 +1,347 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOVÁCS ÉLELMISZER BT.",
+  "uzlet_cim": "H-7814 Szentmindszentváros, Dózsa györgy utca 136.",
+  "adoszam": "61041288-5-14",
+  "datum": "2026.07.25.",
+  "ido": "13:46",
+  "nyugtaszam": "2088/48826",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "10 052 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1013"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "756"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "234"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "549"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "407"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2777"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1242"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "710"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2364"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS ÉLELMISZER BT.",
+   "bbox": [
+    175,
+    31,
+    448,
+    48
+   ]
+  },
+  {
+   "text": "H-7814 Szentmindszentváros, Dózsa györgy utca 136.",
+   "bbox": [
+    37,
+    63,
+    587,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 61041288-5-14",
+   "bbox": [
+    191,
+    87,
+    433,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    128,
+    355,
+    143
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    168,
+    120,
+    182
+   ]
+  },
+  {
+   "text": "1013 A00",
+   "bbox": [
+    504,
+    168,
+    600,
+    182
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    196,
+    120,
+    210
+   ]
+  },
+  {
+   "text": "756 C00",
+   "bbox": [
+    516,
+    196,
+    600,
+    210
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    225,
+    180,
+    238
+   ]
+  },
+  {
+   "text": "234 B00",
+   "bbox": [
+    516,
+    224,
+    600,
+    238
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    252,
+    132,
+    266
+   ]
+  },
+  {
+   "text": "549 A00",
+   "bbox": [
+    516,
+    252,
+    600,
+    266
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    280,
+    156,
+    297
+   ]
+  },
+  {
+   "text": "407 C00",
+   "bbox": [
+    516,
+    280,
+    600,
+    294
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    308,
+    132,
+    322
+   ]
+  },
+  {
+   "text": "2777 C00",
+   "bbox": [
+    504,
+    308,
+    600,
+    322
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    337,
+    180,
+    350
+   ]
+  },
+  {
+   "text": "1242 C00",
+   "bbox": [
+    504,
+    336,
+    600,
+    350
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    364,
+    132,
+    378
+   ]
+  },
+  {
+   "text": "710 B00",
+   "bbox": [
+    516,
+    364,
+    600,
+    378
+   ]
+  },
+  {
+   "text": "2 DB x 1182",
+   "bbox": [
+    24,
+    392,
+    134,
+    404
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    414,
+    168,
+    428
+   ]
+  },
+  {
+   "text": "2364 B00",
+   "bbox": [
+    504,
+    414,
+    600,
+    428
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    452,
+    164,
+    471
+   ]
+  },
+  {
+   "text": "10 052 Ft",
+   "bbox": [
+    474,
+    454,
+    600,
+    471
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    490,
+    156,
+    506
+   ]
+  },
+  {
+   "text": "10 052 Ft",
+   "bbox": [
+    492,
+    492,
+    600,
+    506
+   ]
+  },
+  {
+   "text": "2026.07.25.",
+   "bbox": [
+    24,
+    534,
+    145,
+    547
+   ]
+  },
+  {
+   "text": "13:46",
+   "bbox": [
+    545,
+    534,
+    600,
+    547
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2088/48826",
+   "bbox": [
+    24,
+    561,
+    266,
+    578
+   ]
+  },
+  {
+   "text": "AP A97459677",
+   "bbox": [
+    24,
+    590,
+    156,
+    603
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    229,
+    628,
+    394,
+    643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  624,
+  688
+ ]
+}

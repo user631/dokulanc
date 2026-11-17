@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Sándor Csilla",
+  "email": "sandor.csilla@freemail.hu",
+  "telefon": "+36 30 473 6177",
+  "lakcim": "H-3900 Mindszentharaszti, Ady endre utca 150.",
+  "szuletesi_datum": "1977. 12. 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "1995 – 1998"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "1999 – 2000"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "C#",
+   "Linux",
+   "Python",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Sándor Csilla",
+   "bbox": [
+    470,
+    93,
+    770,
+    129
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    562,
+    159,
+    677,
+    186
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    216,
+    161,
+    231
+   ]
+  },
+  {
+   "text": "sandor.csilla@freemail.hu",
+   "bbox": [
+    330,
+    216,
+    579,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    173,
+    262
+   ]
+  },
+  {
+   "text": "+36 30 473 6177",
+   "bbox": [
+    330,
+    247,
+    492,
+    262
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    277,
+    171,
+    293
+   ]
+  },
+  {
+   "text": "H-3900 Mindszentharaszti, Ady endre utca 150.",
+   "bbox": [
+    330,
+    278,
+    786,
+    297
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    308,
+    260,
+    324
+   ]
+  },
+  {
+   "text": "1977. 12. 21.",
+   "bbox": [
+    330,
+    309,
+    456,
+    324
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    360,
+    328,
+    383
+   ]
+  },
+  {
+   "text": "1999 – 2000",
+   "bbox": [
+    90,
+    411,
+    210,
+    426
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szabó Logisztika Kft.",
+   "bbox": [
+    90,
+    434,
+    517,
+    455
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    485,
+    250,
+    510
+   ]
+  },
+  {
+   "text": "1995 – 1998",
+   "bbox": [
+    90,
+    538,
+    210,
+    553
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    561,
+    350,
+    582
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    89,
+    588,
+    153,
+    607
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    90,
+    629,
+    210,
+    644
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    652,
+    384,
+    673
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    679,
+    335,
+    698
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    728,
+    223,
+    753
+   ]
+  },
+  {
+   "text": "francia (A2), német (B2)",
+   "bbox": [
+    90,
+    781,
+    319,
+    800
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    826,
+    220,
+    851
+   ]
+  },
+  {
+   "text": "Java, C#, Linux, Python, Excel",
+   "bbox": [
+    90,
+    879,
+    383,
+    898
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

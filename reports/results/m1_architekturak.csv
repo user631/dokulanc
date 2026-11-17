@@ -1,0 +1,4 @@
+arch,val_f1,train_time_s,params_m,path
+mobilenet_v3_large,0.936045338234479,190.5,4.21,C:\Users\Benedek\Documents\SzGyProjekt\models\classifier_mobilenet_v3_large.pt
+efficientnet_b0,0.9315065005437224,193.5,4.01,C:\Users\Benedek\Documents\SzGyProjekt\models\classifier_efficientnet_b0.pt
+resnet18,0.9426108429051473,142.0,11.18,C:\Users\Benedek\Documents\SzGyProjekt\models\classifier_resnet18.pt

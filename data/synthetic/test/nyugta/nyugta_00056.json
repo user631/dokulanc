@@ -1,0 +1,352 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MOLNÁR ÉLELMISZER KFT.",
+  "uzlet_cim": "H-9997 Keresztdevecser, Oroszkereszti utca 207.",
+  "adoszam": "81226676-5-19",
+  "datum": "2025.04.22.",
+  "ido": "17:02",
+  "nyugtaszam": "3591/93262",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 115 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "4179"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2180"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1874"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "719"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "539"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2778"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "660"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "186"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR ÉLELMISZER KFT.",
+   "bbox": [
+    123,
+    31,
+    410,
+    49
+   ]
+  },
+  {
+   "text": "H-9997 Keresztdevecser, Oroszkereszti utca",
+   "bbox": [
+    36,
+    65,
+    498,
+    80
+   ]
+  },
+  {
+   "text": "207.",
+   "bbox": [
+    245,
+    90,
+    289,
+    101
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81226676-5-19",
+   "bbox": [
+    146,
+    111,
+    388,
+    125
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    154,
+    310,
+    168
+   ]
+  },
+  {
+   "text": "3 DB x 1393",
+   "bbox": [
+    24,
+    194,
+    134,
+    205
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    216,
+    144,
+    229
+   ]
+  },
+  {
+   "text": "4179 A00",
+   "bbox": [
+    415,
+    216,
+    511,
+    229
+   ]
+  },
+  {
+   "text": "2 DB x 1090",
+   "bbox": [
+    24,
+    244,
+    134,
+    255
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    266,
+    204,
+    279
+   ]
+  },
+  {
+   "text": "2180 A00",
+   "bbox": [
+    415,
+    266,
+    511,
+    279
+   ]
+  },
+  {
+   "text": "2 DB x 937",
+   "bbox": [
+    24,
+    294,
+    124,
+    305
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    317,
+    180,
+    329
+   ]
+  },
+  {
+   "text": "1874 A00",
+   "bbox": [
+    415,
+    316,
+    511,
+    329
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    344,
+    120,
+    357
+   ]
+  },
+  {
+   "text": "719 A00",
+   "bbox": [
+    427,
+    344,
+    511,
+    357
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    373,
+    192,
+    385
+   ]
+  },
+  {
+   "text": "539 A00",
+   "bbox": [
+    427,
+    372,
+    511,
+    385
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    400,
+    132,
+    413
+   ]
+  },
+  {
+   "text": "2778 A00",
+   "bbox": [
+    415,
+    400,
+    511,
+    413
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    428,
+    132,
+    441
+   ]
+  },
+  {
+   "text": "660 C00",
+   "bbox": [
+    427,
+    428,
+    511,
+    441
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    456,
+    192,
+    472
+   ]
+  },
+  {
+   "text": "186 C00",
+   "bbox": [
+    427,
+    456,
+    511,
+    469
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    492,
+    164,
+    512
+   ]
+  },
+  {
+   "text": "13 115 Ft",
+   "bbox": [
+    385,
+    497,
+    512,
+    512
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    531,
+    156,
+    547
+   ]
+  },
+  {
+   "text": "13 115 Ft",
+   "bbox": [
+    403,
+    534,
+    511,
+    547
+   ]
+  },
+  {
+   "text": "2025.04.22.",
+   "bbox": [
+    24,
+    576,
+    145,
+    587
+   ]
+  },
+  {
+   "text": "17:02",
+   "bbox": [
+    456,
+    576,
+    511,
+    587
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3591/93262",
+   "bbox": [
+    24,
+    601,
+    266,
+    616
+   ]
+  },
+  {
+   "text": "AP A51665023",
+   "bbox": [
+    24,
+    632,
+    156,
+    643
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    146,
+    669,
+    388,
+    684
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  535,
+  728
+ ]
+}

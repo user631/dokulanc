@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Katona Antal",
+  "anyja_neve": "Szabó Erika",
+  "szuletesi_hely": "Pécs",
+  "szuletesi_datum": "1981. 09. 15.",
+  "lakcim": "H-5297 Szerbfürdőhalas, Dózsa györgy utca 221.",
+  "telefon": "06 1 100 9294",
+  "email": "katona.antal@outlook.com",
+  "adoazonosito_jel": "8418952849",
+  "taj_szam": "318 173 494",
+  "kelt": "Nyékhátnádasd, 2026. 09. 06."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    415,
+    93,
+    825,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    202,
+    304,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    254,
+    139,
+    269
+   ]
+  },
+  {
+   "text": "Katona Antal",
+   "bbox": [
+    428,
+    252,
+    559,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    307,
+    199,
+    327
+   ]
+  },
+  {
+   "text": "Szabó Erika",
+   "bbox": [
+    428,
+    303,
+    544,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    360,
+    221,
+    380
+   ]
+  },
+  {
+   "text": "Pécs",
+   "bbox": [
+    428,
+    356,
+    474,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    413,
+    214,
+    428
+   ]
+  },
+  {
+   "text": "1981. 09. 15.",
+   "bbox": [
+    428,
+    414,
+    551,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    466,
+    164,
+    481
+   ]
+  },
+  {
+   "text": "H-5297 Szerbfürdőhalas, Dózsa györgy utca 221.",
+   "bbox": [
+    428,
+    468,
+    917,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    519,
+    212,
+    534
+   ]
+  },
+  {
+   "text": "06 1 100 9294",
+   "bbox": [
+    428,
+    521,
+    566,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    572,
+    195,
+    587
+   ]
+  },
+  {
+   "text": "katona.antal@outlook.com",
+   "bbox": [
+    428,
+    572,
+    701,
+    591
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    625,
+    252,
+    645
+   ]
+  },
+  {
+   "text": "8418952849",
+   "bbox": [
+    428,
+    629,
+    548,
+    645
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    678,
+    183,
+    693
+   ]
+  },
+  {
+   "text": "318 173 494",
+   "bbox": [
+    428,
+    681,
+    548,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    760,
+    265,
+    782
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    802,
+    434,
+    822
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    847,
+    272,
+    862
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    892,
+    454,
+    912
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    997,
+    128,
+    1013
+   ]
+  },
+  {
+   "text": "Nyékhátnádasd, 2026. 09. 06.",
+   "bbox": [
+    178,
+    993,
+    471,
+    1016
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1046,
+    986,
+    1059
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

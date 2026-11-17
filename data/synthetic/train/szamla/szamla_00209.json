@@ -1,0 +1,705 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2025/07018",
+  "kiallitas_datuma": "2025. május 11.",
+  "teljesites_datuma": "2025. május 9.",
+  "fizetesi_hatarido": "2025. május 26.",
+  "elado_nev": "Tóth Tech Kft.",
+  "elado_cim": "H-8448 Drávamelléknádasd, József attila utca 47.",
+  "elado_adoszam": "34160738-5-27",
+  "vevo_nev": "Gál László",
+  "vevo_cim": "H-8341 Drávamellékháza, Györgyvárai utca 229.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU32 3451 8423 6908 5119 2544 1333",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "102 300 Ft",
+  "afa_osszesen": "24 826 Ft",
+  "brutto_osszesen": "127 126 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "25 930",
+    "netto": "25 930",
+    "afa_kulcs": "27%",
+    "afa": "7 001",
+    "brutto": "32 931"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "9 120",
+    "netto": "9 120",
+    "afa_kulcs": "27%",
+    "afa": "2 462",
+    "brutto": "11 582"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "5 csomag",
+    "egysegar": "5 810",
+    "netto": "29 050",
+    "afa_kulcs": "18%",
+    "afa": "5 229",
+    "brutto": "34 279"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 000",
+    "netto": "2 000",
+    "afa_kulcs": "18%",
+    "afa": "360",
+    "brutto": "2 360"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "3 620",
+    "netto": "36 200",
+    "afa_kulcs": "27%",
+    "afa": "9 774",
+    "brutto": "45 974"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    406,
+    106,
+    834,
+    148
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/07018",
+   "bbox": [
+    422,
+    172,
+    818,
+    191
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    106,
+    253,
+    175,
+    271
+   ]
+  },
+  {
+   "text": "Gál László",
+   "bbox": [
+    106,
+    292,
+    233,
+    310
+   ]
+  },
+  {
+   "text": "H-8341 Drávamellékháza, Györgyvárai utca",
+   "bbox": [
+    106,
+    327,
+    554,
+    350
+   ]
+  },
+  {
+   "text": "229.",
+   "bbox": [
+    106,
+    361,
+    151,
+    378
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    253,
+    708,
+    271
+   ]
+  },
+  {
+   "text": "Tóth Tech Kft.",
+   "bbox": [
+    630,
+    292,
+    803,
+    310
+   ]
+  },
+  {
+   "text": "H-8448 Drávamelléknádasd, József attila utca",
+   "bbox": [
+    630,
+    327,
+    1094,
+    349
+   ]
+  },
+  {
+   "text": "47.",
+   "bbox": [
+    630,
+    361,
+    662,
+    378
+   ]
+  },
+  {
+   "text": "Adószám: 34160738-5-27",
+   "bbox": [
+    630,
+    393,
+    897,
+    411
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    106,
+    464,
+    262,
+    479
+   ]
+  },
+  {
+   "text": "2025. május 11.",
+   "bbox": [
+    106,
+    495,
+    260,
+    517
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    363,
+    464,
+    529,
+    484
+   ]
+  },
+  {
+   "text": "2025. május 9.",
+   "bbox": [
+    363,
+    495,
+    505,
+    517
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    464,
+    777,
+    479
+   ]
+  },
+  {
+   "text": "2025. május 26.",
+   "bbox": [
+    620,
+    495,
+    774,
+    517
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    877,
+    464,
+    995,
+    479
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    876,
+    495,
+    985,
+    517
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    106,
+    548,
+    220,
+    568
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    548,
+    589,
+    568
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    548,
+    743,
+    568
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    548,
+    866,
+    563
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    861,
+    544,
+    928,
+    563
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    981,
+    544,
+    1026,
+    563
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1072,
+    548,
+    1134,
+    563
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    517,
+    591,
+    606,
+    607
+   ]
+  },
+  {
+   "text": "25 930",
+   "bbox": [
+    682,
+    592,
+    743,
+    607
+   ]
+  },
+  {
+   "text": "25 930",
+   "bbox": [
+    805,
+    592,
+    866,
+    607
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    592,
+    928,
+    607
+   ]
+  },
+  {
+   "text": "7 001",
+   "bbox": [
+    976,
+    592,
+    1026,
+    607
+   ]
+  },
+  {
+   "text": "32 931",
+   "bbox": [
+    1073,
+    592,
+    1134,
+    607
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    106,
+    591,
+    304,
+    612
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    517,
+    629,
+    556,
+    645
+   ]
+  },
+  {
+   "text": "9 120",
+   "bbox": [
+    693,
+    630,
+    743,
+    645
+   ]
+  },
+  {
+   "text": "9 120",
+   "bbox": [
+    816,
+    630,
+    866,
+    645
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    630,
+    928,
+    645
+   ]
+  },
+  {
+   "text": "2 462",
+   "bbox": [
+    976,
+    630,
+    1026,
+    645
+   ]
+  },
+  {
+   "text": "11 582",
+   "bbox": [
+    1073,
+    630,
+    1134,
+    645
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    106,
+    629,
+    266,
+    645
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    517,
+    668,
+    602,
+    688
+   ]
+  },
+  {
+   "text": "5 810",
+   "bbox": [
+    693,
+    668,
+    743,
+    683
+   ]
+  },
+  {
+   "text": "29 050",
+   "bbox": [
+    805,
+    668,
+    866,
+    683
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    888,
+    668,
+    928,
+    683
+   ]
+  },
+  {
+   "text": "5 229",
+   "bbox": [
+    976,
+    668,
+    1026,
+    683
+   ]
+  },
+  {
+   "text": "34 279",
+   "bbox": [
+    1073,
+    668,
+    1134,
+    683
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    106,
+    667,
+    270,
+    688
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    517,
+    705,
+    590,
+    721
+   ]
+  },
+  {
+   "text": "2 000",
+   "bbox": [
+    693,
+    706,
+    743,
+    721
+   ]
+  },
+  {
+   "text": "2 000",
+   "bbox": [
+    816,
+    706,
+    866,
+    721
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    888,
+    706,
+    928,
+    721
+   ]
+  },
+  {
+   "text": "360",
+   "bbox": [
+    993,
+    706,
+    1026,
+    721
+   ]
+  },
+  {
+   "text": "2 360",
+   "bbox": [
+    1084,
+    706,
+    1134,
+    721
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    106,
+    701,
+    247,
+    726
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    517,
+    743,
+    589,
+    759
+   ]
+  },
+  {
+   "text": "3 620",
+   "bbox": [
+    693,
+    744,
+    743,
+    759
+   ]
+  },
+  {
+   "text": "36 200",
+   "bbox": [
+    805,
+    744,
+    866,
+    759
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    744,
+    928,
+    759
+   ]
+  },
+  {
+   "text": "9 774",
+   "bbox": [
+    976,
+    744,
+    1026,
+    759
+   ]
+  },
+  {
+   "text": "45 974",
+   "bbox": [
+    1073,
+    744,
+    1134,
+    759
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    106,
+    743,
+    346,
+    764
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    639,
+    803,
+    804,
+    821
+   ]
+  },
+  {
+   "text": "102 300 Ft",
+   "bbox": [
+    1021,
+    804,
+    1135,
+    821
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    646,
+    837,
+    804,
+    860
+   ]
+  },
+  {
+   "text": "24 826 Ft",
+   "bbox": [
+    1034,
+    843,
+    1135,
+    860
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    681,
+    881,
+    804,
+    905
+   ]
+  },
+  {
+   "text": "127 126 Ft",
+   "bbox": [
+    1017,
+    882,
+    1134,
+    899
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU32 3451 8423 6908 5119 2544 1333",
+   "bbox": [
+    106,
+    949,
+    670,
+    966
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    106,
+    981,
+    680,
+    1000
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    475,
+    1629,
+    765,
+    1647
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

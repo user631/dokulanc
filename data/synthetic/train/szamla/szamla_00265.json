@@ -1,0 +1,462 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2024/07728",
+  "kiallitas_datuma": "2024. 02. 11.",
+  "teljesites_datuma": "2024. 02. 09.",
+  "fizetesi_hatarido": "2024. 03. 12.",
+  "elado_nev": "Szabó Szolgáltató Bt.",
+  "elado_cim": "H-2958 Mosonmagyaróvár, Fürdőhidai utca 183.",
+  "elado_adoszam": "33109558-4-12",
+  "vevo_nev": "Varga Mihály",
+  "vevo_cim": "H-6746 Dunamártonvárad, Petőfi sándor utca 38.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU47 6742 3264 5452 2765 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "36 930 Ft",
+  "afa_osszesen": "8 442 Ft",
+  "brutto_osszesen": "45 372 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "3 db",
+    "egysegar": "6 650",
+    "netto": "19 950",
+    "afa_kulcs": "27%",
+    "afa": "5 386",
+    "brutto": "25 336"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "3 csomag",
+    "egysegar": "5 660",
+    "netto": "16 980",
+    "afa_kulcs": "18%",
+    "afa": "3 056",
+    "brutto": "20 036"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    455,
+    109,
+    785,
+    136
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/07728",
+   "bbox": [
+    463,
+    167,
+    777,
+    186
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    106,
+    248,
+    163,
+    263
+   ]
+  },
+  {
+   "text": "Szabó Szolgáltató Bt.",
+   "bbox": [
+    106,
+    282,
+    297,
+    301
+   ]
+  },
+  {
+   "text": "H-2958 Mosonmagyaróvár, Fürdőhidai utca 183.",
+   "bbox": [
+    106,
+    313,
+    507,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 33109558-4-12",
+   "bbox": [
+    106,
+    341,
+    314,
+    355
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    248,
+    682,
+    263
+   ]
+  },
+  {
+   "text": "Varga Mihály",
+   "bbox": [
+    630,
+    282,
+    751,
+    301
+   ]
+  },
+  {
+   "text": "H-6746 Dunamártonvárad, Petőfi sándor utca 38.",
+   "bbox": [
+    630,
+    313,
+    1039,
+    330
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    106,
+    407,
+    248,
+    421
+   ]
+  },
+  {
+   "text": "2024. 02. 11.",
+   "bbox": [
+    406,
+    408,
+    511,
+    421
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    106,
+    437,
+    260,
+    455
+   ]
+  },
+  {
+   "text": "2024. 02. 09.",
+   "bbox": [
+    406,
+    438,
+    511,
+    451
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    106,
+    467,
+    251,
+    481
+   ]
+  },
+  {
+   "text": "2024. 03. 12.",
+   "bbox": [
+    406,
+    468,
+    511,
+    481
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    106,
+    497,
+    217,
+    511
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    406,
+    497,
+    499,
+    515
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    106,
+    539,
+    196,
+    554
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    540,
+    572,
+    554
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    681,
+    539,
+    743,
+    554
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    825,
+    539,
+    866,
+    551
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    536,
+    928,
+    551
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    536,
+    1026,
+    551
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1088,
+    539,
+    1134,
+    551
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    517,
+    578,
+    548,
+    590
+   ]
+  },
+  {
+   "text": "6 650",
+   "bbox": [
+    703,
+    579,
+    743,
+    590
+   ]
+  },
+  {
+   "text": "19 950",
+   "bbox": [
+    817,
+    579,
+    866,
+    590
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    579,
+    928,
+    590
+   ]
+  },
+  {
+   "text": "5 386",
+   "bbox": [
+    986,
+    579,
+    1026,
+    590
+   ]
+  },
+  {
+   "text": "25 336",
+   "bbox": [
+    1085,
+    579,
+    1134,
+    590
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    106,
+    578,
+    244,
+    593
+   ]
+  },
+  {
+   "text": "3 csomag",
+   "bbox": [
+    517,
+    612,
+    583,
+    626
+   ]
+  },
+  {
+   "text": "5 660",
+   "bbox": [
+    703,
+    612,
+    743,
+    623
+   ]
+  },
+  {
+   "text": "16 980",
+   "bbox": [
+    817,
+    612,
+    866,
+    623
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    898,
+    612,
+    928,
+    623
+   ]
+  },
+  {
+   "text": "3 056",
+   "bbox": [
+    986,
+    612,
+    1026,
+    623
+   ]
+  },
+  {
+   "text": "20 036",
+   "bbox": [
+    1085,
+    612,
+    1134,
+    623
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    106,
+    611,
+    233,
+    626
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    670,
+    665,
+    804,
+    679
+   ]
+  },
+  {
+   "text": "36 930 Ft",
+   "bbox": [
+    1052,
+    666,
+    1134,
+    679
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    685,
+    696,
+    804,
+    713
+   ]
+  },
+  {
+   "text": "8 442 Ft",
+   "bbox": [
+    1063,
+    700,
+    1134,
+    713
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    632,
+    733,
+    804,
+    747
+   ]
+  },
+  {
+   "text": "45 372 Ft",
+   "bbox": [
+    1052,
+    734,
+    1134,
+    747
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU47 6742 3264 5452 2765 0000 0000",
+   "bbox": [
+    106,
+    797,
+    554,
+    810
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    465,
+    1633,
+    774,
+    1647
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

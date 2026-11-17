@@ -1,0 +1,323 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FARKAS KISBOLT KFT.",
+  "uzlet_cim": "H-9718 Vác, Mindszentvári utca 22.",
+  "adoszam": "84603885-2-26",
+  "datum": "2024.04.07.",
+  "ido": "11:52",
+  "nyugtaszam": "5052/04895",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 301 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1975"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3162"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1608"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "386"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "607"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "773"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2290"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS KISBOLT KFT.",
+   "bbox": [
+    175,
+    34,
+    460,
+    50
+   ]
+  },
+  {
+   "text": "H-9718 Vác, Mindszentvári utca 22.",
+   "bbox": [
+    97,
+    65,
+    539,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 84603885-2-26",
+   "bbox": [
+    175,
+    92,
+    461,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    138,
+    367,
+    155
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    180,
+    150,
+    197
+   ]
+  },
+  {
+   "text": "1975 A00",
+   "bbox": [
+    500,
+    180,
+    612,
+    197
+   ]
+  },
+  {
+   "text": "2 DB x 1581",
+   "bbox": [
+    24,
+    211,
+    156,
+    225
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    239,
+    164,
+    253
+   ]
+  },
+  {
+   "text": "3162 A00",
+   "bbox": [
+    500,
+    236,
+    612,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 536",
+   "bbox": [
+    24,
+    267,
+    144,
+    281
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    292,
+    136,
+    309
+   ]
+  },
+  {
+   "text": "1608 B00",
+   "bbox": [
+    500,
+    292,
+    612,
+    309
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    323,
+    178,
+    344
+   ]
+  },
+  {
+   "text": "386 B00",
+   "bbox": [
+    514,
+    323,
+    612,
+    340
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    354,
+    220,
+    371
+   ]
+  },
+  {
+   "text": "607 B00",
+   "bbox": [
+    514,
+    354,
+    612,
+    371
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    385,
+    248,
+    402
+   ]
+  },
+  {
+   "text": "773 A00",
+   "bbox": [
+    514,
+    385,
+    612,
+    402
+   ]
+  },
+  {
+   "text": "2 DB x 1145",
+   "bbox": [
+    24,
+    416,
+    156,
+    430
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    441,
+    192,
+    458
+   ]
+  },
+  {
+   "text": "2290 B00",
+   "bbox": [
+    500,
+    441,
+    612,
+    458
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    483,
+    168,
+    504
+   ]
+  },
+  {
+   "text": "11 301 Ft",
+   "bbox": [
+    468,
+    484,
+    612,
+    504
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    524,
+    178,
+    542
+   ]
+  },
+  {
+   "text": "11 301 Ft",
+   "bbox": [
+    486,
+    525,
+    612,
+    542
+   ]
+  },
+  {
+   "text": "2024.04.07.",
+   "bbox": [
+    24,
+    570,
+    167,
+    585
+   ]
+  },
+  {
+   "text": "11:52",
+   "bbox": [
+    547,
+    570,
+    612,
+    585
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5052/04895",
+   "bbox": [
+    24,
+    599,
+    310,
+    619
+   ]
+  },
+  {
+   "text": "AP A40142684",
+   "bbox": [
+    24,
+    632,
+    180,
+    647
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    253,
+    674,
+    383,
+    691
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  636,
+  736
+ ]
+}

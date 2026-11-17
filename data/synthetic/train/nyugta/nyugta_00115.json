@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ CSEMEGE BT.",
+  "uzlet_cim": "H-5409 Kecskemét, Kecskeméti utca 52.",
+  "adoszam": "15889364-3-08",
+  "datum": "2024.02.16.",
+  "ido": "17:31",
+  "nyugtaszam": "0895/39374",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 468 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "306"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "78"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1060"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1544"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "480"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ CSEMEGE BT.",
+   "bbox": [
+    168,
+    30,
+    406,
+    50
+   ]
+  },
+  {
+   "text": "H-5409 Kecskemét, Kecskeméti utca 52.",
+   "bbox": [
+    65,
+    68,
+    509,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 15889364-3-08",
+   "bbox": [
+    155,
+    91,
+    419,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    137,
+    336,
+    152
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    179,
+    206,
+    193
+   ]
+  },
+  {
+   "text": "306 C00",
+   "bbox": [
+    460,
+    179,
+    551,
+    193
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    210,
+    102,
+    223
+   ]
+  },
+  {
+   "text": "78 C00",
+   "bbox": [
+    473,
+    209,
+    551,
+    223
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    239,
+    128,
+    253
+   ]
+  },
+  {
+   "text": "1060 B00",
+   "bbox": [
+    447,
+    239,
+    551,
+    253
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    270,
+    193,
+    283
+   ]
+  },
+  {
+   "text": "1544 C00",
+   "bbox": [
+    447,
+    269,
+    551,
+    283
+   ]
+  },
+  {
+   "text": "2 DB x 240",
+   "bbox": [
+    24,
+    298,
+    134,
+    310
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    323,
+    206,
+    340
+   ]
+  },
+  {
+   "text": "480 A00",
+   "bbox": [
+    460,
+    323,
+    551,
+    337
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    361,
+    184,
+    382
+   ]
+  },
+  {
+   "text": "3 468 Ft",
+   "bbox": [
+    423,
+    366,
+    551,
+    382
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    402,
+    155,
+    419
+   ]
+  },
+  {
+   "text": "3 468 Ft",
+   "bbox": [
+    447,
+    405,
+    551,
+    419
+   ]
+  },
+  {
+   "text": "2024.02.16.",
+   "bbox": [
+    24,
+    448,
+    156,
+    461
+   ]
+  },
+  {
+   "text": "17:31",
+   "bbox": [
+    491,
+    448,
+    551,
+    461
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0895/39374",
+   "bbox": [
+    24,
+    475,
+    288,
+    493
+   ]
+  },
+  {
+   "text": "AP A90734059",
+   "bbox": [
+    24,
+    508,
+    168,
+    521
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    188,
+    548,
+    384,
+    564
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  575,
+  608
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Magyar Éva",
+  "email": "magyar.eva@gmail.com",
+  "telefon": "06 1 973 9211",
+  "lakcim": "H-4737 Szolnok, Petőfi utca 31.",
+  "szuletesi_datum": "1976.06.04.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1996 – 1999"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Tech Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2001 – 2002"
+   },
+   {
+    "ceg": "Kovács Szolgáltató Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2000 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Excel",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Magyar Éva",
+   "bbox": [
+    509,
+    99,
+    732,
+    146
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    528,
+    175,
+    712,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    148,
+    241
+   ]
+  },
+  {
+   "text": "magyar.eva@gmail.com",
+   "bbox": [
+    330,
+    227,
+    528,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    257,
+    159,
+    271
+   ]
+  },
+  {
+   "text": "06 1 973 9211",
+   "bbox": [
+    330,
+    258,
+    445,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    153,
+    301
+   ]
+  },
+  {
+   "text": "H-4737 Szolnok, Petőfi utca 31.",
+   "bbox": [
+    330,
+    287,
+    587,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    229,
+    331
+   ]
+  },
+  {
+   "text": "1976.06.04.",
+   "bbox": [
+    330,
+    318,
+    425,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    368,
+    289,
+    388
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    90,
+    418,
+    190,
+    431
+   ]
+  },
+  {
+   "text": "irodavezető – Kiss Tech Zrt.",
+   "bbox": [
+    90,
+    442,
+    325,
+    456
+   ]
+  },
+  {
+   "text": "2000 – 2001",
+   "bbox": [
+    90,
+    482,
+    190,
+    495
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kovács Szolgáltató Bt.",
+   "bbox": [
+    89,
+    506,
+    426,
+    524
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    556,
+    227,
+    576
+   ]
+  },
+  {
+   "text": "1996 – 1999",
+   "bbox": [
+    90,
+    606,
+    190,
+    619
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    630,
+    307,
+    648
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    653,
+    205,
+    671
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    90,
+    694,
+    190,
+    707
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    718,
+    309,
+    732
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    741,
+    254,
+    759
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    792,
+    202,
+    812
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    841,
+    174,
+    859
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    888,
+    192,
+    908
+   ]
+  },
+  {
+   "text": "Git, Excel, SAP",
+   "bbox": [
+    90,
+    937,
+    208,
+    954
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

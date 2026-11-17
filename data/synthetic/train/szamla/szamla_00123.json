@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2026/09693",
+  "kiallitas_datuma": "2026.07.17.",
+  "teljesites_datuma": "2026.07.15.",
+  "fizetesi_hatarido": "2026.08.01.",
+  "elado_nev": "Varga Consulting Bt.",
+  "elado_cim": "H-5154 Bácshetvenhida, Rácháti utca 206.",
+  "elado_adoszam": "58449198-3-11",
+  "vevo_nev": "Pap Szolgáltató Bt.",
+  "vevo_cim": "H-2981 Békéstapolcakövesd, Ady endre utca 112.",
+  "vevo_adoszam": "43982550-2-27",
+  "bankszamla": "29789140-66124624-59782381",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "254 470 Ft",
+  "afa_osszesen": "68 379 Ft",
+  "brutto_osszesen": "322 849 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "3 640",
+    "netto": "3 640",
+    "afa_kulcs": "18%",
+    "afa": "655",
+    "brutto": "4 295"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "3 év",
+    "egysegar": "40 920",
+    "netto": "122 760",
+    "afa_kulcs": "27%",
+    "afa": "33 145",
+    "brutto": "155 905"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 070",
+    "netto": "5 070",
+    "afa_kulcs": "27%",
+    "afa": "1 369",
+    "brutto": "6 439"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "5 óra",
+    "egysegar": "24 600",
+    "netto": "123 000",
+    "afa_kulcs": "27%",
+    "afa": "33 210",
+    "brutto": "156 210"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    386,
+    96,
+    853,
+    146
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/09693",
+   "bbox": [
+    394,
+    160,
+    846,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    95,
+    240,
+    182,
+    261
+   ]
+  },
+  {
+   "text": "Varga Consulting Bt.",
+   "bbox": [
+    95,
+    278,
+    384,
+    303
+   ]
+  },
+  {
+   "text": "H-5154 Bácshetvenhida, Rácháti utca 206.",
+   "bbox": [
+    95,
+    312,
+    595,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 58449198-3-11",
+   "bbox": [
+    95,
+    343,
+    402,
+    362
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    240,
+    709,
+    261
+   ]
+  },
+  {
+   "text": "Pap Szolgáltató Bt.",
+   "bbox": [
+    630,
+    277,
+    897,
+    303
+   ]
+  },
+  {
+   "text": "H-2981 Békéstapolcakövesd, Ady endre",
+   "bbox": [
+    630,
+    312,
+    1095,
+    336
+   ]
+  },
+  {
+   "text": "utca 112.",
+   "bbox": [
+    630,
+    345,
+    741,
+    362
+   ]
+  },
+  {
+   "text": "Adószám: 43982550-2-27",
+   "bbox": [
+    630,
+    374,
+    937,
+    393
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    95,
+    444,
+    312,
+    462
+   ]
+  },
+  {
+   "text": "2026.07.17.",
+   "bbox": [
+    395,
+    445,
+    539,
+    462
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    95,
+    477,
+    332,
+    500
+   ]
+  },
+  {
+   "text": "2026.07.15.",
+   "bbox": [
+    395,
+    478,
+    539,
+    495
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    95,
+    510,
+    318,
+    528
+   ]
+  },
+  {
+   "text": "2026.08.01.",
+   "bbox": [
+    395,
+    511,
+    539,
+    528
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    95,
+    543,
+    267,
+    561
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    395,
+    542,
+    502,
+    566
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    95,
+    586,
+    231,
+    607
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    588,
+    595,
+    607
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    643,
+    586,
+    746,
+    607
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    810,
+    586,
+    872,
+    603
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    865,
+    582,
+    935,
+    603
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    582,
+    1034,
+    603
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1074,
+    586,
+    1145,
+    603
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    630,
+    610,
+    649
+   ]
+  },
+  {
+   "text": "3 640",
+   "bbox": [
+    687,
+    630,
+    746,
+    645
+   ]
+  },
+  {
+   "text": "3 640",
+   "bbox": [
+    813,
+    630,
+    872,
+    645
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    887,
+    630,
+    935,
+    645
+   ]
+  },
+  {
+   "text": "655",
+   "bbox": [
+    995,
+    630,
+    1034,
+    645
+   ]
+  },
+  {
+   "text": "4 295",
+   "bbox": [
+    1086,
+    630,
+    1145,
+    645
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    95,
+    628,
+    280,
+    649
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    515,
+    664,
+    559,
+    681
+   ]
+  },
+  {
+   "text": "40 920",
+   "bbox": [
+    674,
+    666,
+    746,
+    681
+   ]
+  },
+  {
+   "text": "122 760",
+   "bbox": [
+    787,
+    666,
+    872,
+    681
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    666,
+    935,
+    681
+   ]
+  },
+  {
+   "text": "33 145",
+   "bbox": [
+    962,
+    666,
+    1034,
+    681
+   ]
+  },
+  {
+   "text": "155 905",
+   "bbox": [
+    1060,
+    666,
+    1145,
+    681
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    95,
+    664,
+    277,
+    685
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    515,
+    701,
+    581,
+    717
+   ]
+  },
+  {
+   "text": "5 070",
+   "bbox": [
+    687,
+    702,
+    746,
+    717
+   ]
+  },
+  {
+   "text": "5 070",
+   "bbox": [
+    813,
+    702,
+    872,
+    717
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    702,
+    935,
+    717
+   ]
+  },
+  {
+   "text": "1 369",
+   "bbox": [
+    975,
+    702,
+    1034,
+    717
+   ]
+  },
+  {
+   "text": "6 439",
+   "bbox": [
+    1086,
+    702,
+    1145,
+    717
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    95,
+    700,
+    366,
+    721
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    515,
+    736,
+    568,
+    753
+   ]
+  },
+  {
+   "text": "24 600",
+   "bbox": [
+    674,
+    738,
+    746,
+    753
+   ]
+  },
+  {
+   "text": "123 000",
+   "bbox": [
+    787,
+    738,
+    872,
+    753
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    738,
+    935,
+    753
+   ]
+  },
+  {
+   "text": "33 210",
+   "bbox": [
+    962,
+    738,
+    1034,
+    753
+   ]
+  },
+  {
+   "text": "156 210",
+   "bbox": [
+    1060,
+    738,
+    1145,
+    753
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    95,
+    736,
+    210,
+    753
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    621,
+    794,
+    815,
+    813
+   ]
+  },
+  {
+   "text": "254 470 Ft",
+   "bbox": [
+    1016,
+    795,
+    1145,
+    813
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    640,
+    827,
+    815,
+    850
+   ]
+  },
+  {
+   "text": "68 379 Ft",
+   "bbox": [
+    1031,
+    832,
+    1145,
+    850
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    572,
+    867,
+    815,
+    892
+   ]
+  },
+  {
+   "text": "322 849 Ft",
+   "bbox": [
+    1000,
+    869,
+    1145,
+    887
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 29789140-66124624-59782381",
+   "bbox": [
+    95,
+    934,
+    657,
+    952
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    461,
+    1641,
+    779,
+    1659
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

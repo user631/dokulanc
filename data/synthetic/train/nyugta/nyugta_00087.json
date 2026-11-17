@@ -1,0 +1,325 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY CSEMEGE KFT.",
+  "uzlet_cim": "H-8288 Hídfalva, Ady endre tér 11.",
+  "adoszam": "15390187-4-35",
+  "datum": "2025.03.19.",
+  "ido": "20:53",
+  "nyugtaszam": "8598/14680",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 382 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "208"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1756"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "801"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "59"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "326"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "697"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "701"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "834"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY CSEMEGE KFT.",
+   "bbox": [
+    167,
+    35,
+    405,
+    49
+   ]
+  },
+  {
+   "text": "H-8288 Hídfalva, Ady endre tér 11.",
+   "bbox": [
+    99,
+    63,
+    473,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 15390187-4-35",
+   "bbox": [
+    165,
+    88,
+    407,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    131,
+    331,
+    147
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    174,
+    193,
+    187
+   ]
+  },
+  {
+   "text": "208 C00",
+   "bbox": [
+    457,
+    172,
+    548,
+    187
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    203,
+    154,
+    216
+   ]
+  },
+  {
+   "text": "1756 C00",
+   "bbox": [
+    444,
+    201,
+    548,
+    216
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    230,
+    180,
+    245
+   ]
+  },
+  {
+   "text": "801 A00",
+   "bbox": [
+    457,
+    230,
+    548,
+    245
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    261,
+    102,
+    274
+   ]
+  },
+  {
+   "text": "59 A00",
+   "bbox": [
+    470,
+    259,
+    548,
+    274
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    290,
+    206,
+    303
+   ]
+  },
+  {
+   "text": "326 C00",
+   "bbox": [
+    457,
+    288,
+    548,
+    303
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    317,
+    128,
+    332
+   ]
+  },
+  {
+   "text": "697 C00",
+   "bbox": [
+    457,
+    317,
+    548,
+    332
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    346,
+    128,
+    361
+   ]
+  },
+  {
+   "text": "701 B00",
+   "bbox": [
+    457,
+    346,
+    548,
+    361
+   ]
+  },
+  {
+   "text": "2 DB x 417",
+   "bbox": [
+    24,
+    375,
+    134,
+    388
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    398,
+    167,
+    413
+   ]
+  },
+  {
+   "text": "834 B00",
+   "bbox": [
+    457,
+    398,
+    548,
+    413
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    437,
+    174,
+    457
+   ]
+  },
+  {
+   "text": "5 382 Ft",
+   "bbox": [
+    428,
+    439,
+    548,
+    457
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    476,
+    167,
+    493
+   ]
+  },
+  {
+   "text": "5 382 Ft",
+   "bbox": [
+    444,
+    478,
+    548,
+    493
+   ]
+  },
+  {
+   "text": "2025.03.19.",
+   "bbox": [
+    24,
+    520,
+    145,
+    534
+   ]
+  },
+  {
+   "text": "20:53",
+   "bbox": [
+    493,
+    520,
+    548,
+    534
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8598/14680",
+   "bbox": [
+    24,
+    548,
+    266,
+    566
+   ]
+  },
+  {
+   "text": "AP A11244120",
+   "bbox": [
+    24,
+    578,
+    156,
+    592
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    196,
+    618,
+    376,
+    634
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  572,
+  679
+ ]
+}

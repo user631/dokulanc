@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALÁZS ABC BT.",
+  "uzlet_cim": "H-6828 Györgyfa, Pilisszéki utca 126.",
+  "adoszam": "25500734-2-35",
+  "datum": "2025.03.29.",
+  "ido": "17:09",
+  "nyugtaszam": "3149/16324",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 764 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1894"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "357"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "513"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALÁZS ABC BT.",
+   "bbox": [
+    199,
+    30,
+    395,
+    50
+   ]
+  },
+  {
+   "text": "H-6828 Györgyfa, Pilisszéki utca 126.",
+   "bbox": [
+    93,
+    66,
+    500,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 25500734-2-35",
+   "bbox": [
+    176,
+    89,
+    418,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    133,
+    343,
+    148
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    176,
+    154,
+    188
+   ]
+  },
+  {
+   "text": "1894 C00",
+   "bbox": [
+    467,
+    175,
+    571,
+    188
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    204,
+    167,
+    220
+   ]
+  },
+  {
+   "text": "357 C00",
+   "bbox": [
+    480,
+    204,
+    571,
+    217
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    233,
+    206,
+    246
+   ]
+  },
+  {
+   "text": "513 A00",
+   "bbox": [
+    480,
+    233,
+    571,
+    246
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    269,
+    174,
+    290
+   ]
+  },
+  {
+   "text": "2 764 Ft",
+   "bbox": [
+    451,
+    274,
+    571,
+    290
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    310,
+    154,
+    326
+   ]
+  },
+  {
+   "text": "2 764 Ft",
+   "bbox": [
+    467,
+    313,
+    571,
+    326
+   ]
+  },
+  {
+   "text": "2025.03.29.",
+   "bbox": [
+    24,
+    355,
+    145,
+    367
+   ]
+  },
+  {
+   "text": "17:09",
+   "bbox": [
+    516,
+    355,
+    571,
+    367
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3149/16324",
+   "bbox": [
+    24,
+    381,
+    266,
+    398
+   ]
+  },
+  {
+   "text": "AP A73862224",
+   "bbox": [
+    24,
+    413,
+    156,
+    425
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    165,
+    451,
+    429,
+    467
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  595,
+  511
+ ]
+}

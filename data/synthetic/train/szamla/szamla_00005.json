@@ -1,0 +1,777 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2026/03803",
+  "kiallitas_datuma": "2026. 02. 02.",
+  "teljesites_datuma": "2026. 01. 31.",
+  "fizetesi_hatarido": "2026. 02. 10.",
+  "elado_nev": "Tamás Szolgáltató Kft.",
+  "elado_cim": "H-2516 Pécs, Bajai utca 229.",
+  "elado_adoszam": "22113344-5-02",
+  "vevo_nev": "Kovács és Társa Zrt.",
+  "vevo_cim": "H-2458 Veszprém, Ceglédi utca 33.",
+  "vevo_adoszam": "52087316-2-32",
+  "bankszamla": "67093104-61668536-34140049",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "988 520 Ft",
+  "afa_osszesen": "264 698 Ft",
+  "brutto_osszesen": "1 253 218 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "11 240",
+    "netto": "11 240",
+    "afa_kulcs": "27%",
+    "afa": "3 035",
+    "brutto": "14 275"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "5 oldal",
+    "egysegar": "5 190",
+    "netto": "25 950",
+    "afa_kulcs": "27%",
+    "afa": "7 006",
+    "brutto": "32 956"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "10 db",
+    "egysegar": "61 720",
+    "netto": "617 200",
+    "afa_kulcs": "27%",
+    "afa": "166 644",
+    "brutto": "783 844"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "10 010",
+    "netto": "10 010",
+    "afa_kulcs": "5%",
+    "afa": "500",
+    "brutto": "10 510"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "4 csomag",
+    "egysegar": "2 010",
+    "netto": "8 040",
+    "afa_kulcs": "27%",
+    "afa": "2 171",
+    "brutto": "10 211"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "105 360",
+    "netto": "316 080",
+    "afa_kulcs": "27%",
+    "afa": "85 342",
+    "brutto": "401 422"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAMÁS",
+   "bbox": [
+    128,
+    116,
+    202,
+    136
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    810,
+    91,
+    1155,
+    135
+   ]
+  },
+  {
+   "text": "Sorszám: E-2026/03803",
+   "bbox": [
+    906,
+    156,
+    1155,
+    179
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    237,
+    152,
+    255
+   ]
+  },
+  {
+   "text": "Tamás Szolgáltató Kft.",
+   "bbox": [
+    85,
+    275,
+    323,
+    298
+   ]
+  },
+  {
+   "text": "H-2516 Pécs, Bajai utca 229.",
+   "bbox": [
+    85,
+    310,
+    358,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 22113344-5-02",
+   "bbox": [
+    85,
+    342,
+    331,
+    359
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    238,
+    691,
+    255
+   ]
+  },
+  {
+   "text": "Kovács és Társa Zrt.",
+   "bbox": [
+    630,
+    275,
+    840,
+    293
+   ]
+  },
+  {
+   "text": "H-2458 Veszprém, Ceglédi utca 33.",
+   "bbox": [
+    630,
+    310,
+    968,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 52087316-2-32",
+   "bbox": [
+    630,
+    342,
+    876,
+    359
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    85,
+    413,
+    254,
+    429
+   ]
+  },
+  {
+   "text": "2026. 02. 02.",
+   "bbox": [
+    385,
+    414,
+    509,
+    429
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    85,
+    447,
+    269,
+    467
+   ]
+  },
+  {
+   "text": "2026. 01. 31.",
+   "bbox": [
+    385,
+    448,
+    509,
+    463
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    85,
+    481,
+    258,
+    497
+   ]
+  },
+  {
+   "text": "2026. 02. 10.",
+   "bbox": [
+    385,
+    482,
+    509,
+    497
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    85,
+    515,
+    218,
+    531
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    385,
+    514,
+    496,
+    535
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    561,
+    194,
+    579
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    562,
+    580,
+    579
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    561,
+    749,
+    579
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    561,
+    876,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    890,
+    558,
+    941,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1006,
+    558,
+    1042,
+    575
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    561,
+    1155,
+    575
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    513,
+    604,
+    557,
+    618
+   ]
+  },
+  {
+   "text": "11 240",
+   "bbox": [
+    688,
+    605,
+    748,
+    618
+   ]
+  },
+  {
+   "text": "11 240",
+   "bbox": [
+    816,
+    605,
+    876,
+    618
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    604,
+    941,
+    618
+   ]
+  },
+  {
+   "text": "3 035",
+   "bbox": [
+    993,
+    605,
+    1042,
+    618
+   ]
+  },
+  {
+   "text": "14 275",
+   "bbox": [
+    1095,
+    605,
+    1155,
+    618
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    85,
+    604,
+    339,
+    622
+   ]
+  },
+  {
+   "text": "5 oldal",
+   "bbox": [
+    513,
+    641,
+    571,
+    655
+   ]
+  },
+  {
+   "text": "5 190",
+   "bbox": [
+    699,
+    642,
+    748,
+    655
+   ]
+  },
+  {
+   "text": "25 950",
+   "bbox": [
+    816,
+    642,
+    876,
+    655
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    641,
+    941,
+    655
+   ]
+  },
+  {
+   "text": "7 006",
+   "bbox": [
+    993,
+    642,
+    1042,
+    655
+   ]
+  },
+  {
+   "text": "32 956",
+   "bbox": [
+    1095,
+    642,
+    1155,
+    655
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    85,
+    641,
+    315,
+    659
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    513,
+    678,
+    562,
+    692
+   ]
+  },
+  {
+   "text": "61 720",
+   "bbox": [
+    688,
+    679,
+    748,
+    692
+   ]
+  },
+  {
+   "text": "617 200",
+   "bbox": [
+    805,
+    679,
+    876,
+    692
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    678,
+    941,
+    692
+   ]
+  },
+  {
+   "text": "166 644",
+   "bbox": [
+    971,
+    679,
+    1042,
+    692
+   ]
+  },
+  {
+   "text": "783 844",
+   "bbox": [
+    1084,
+    679,
+    1155,
+    692
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    85,
+    678,
+    190,
+    692
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    513,
+    715,
+    549,
+    729
+   ]
+  },
+  {
+   "text": "10 010",
+   "bbox": [
+    688,
+    716,
+    748,
+    729
+   ]
+  },
+  {
+   "text": "10 010",
+   "bbox": [
+    816,
+    716,
+    876,
+    729
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    915,
+    715,
+    941,
+    729
+   ]
+  },
+  {
+   "text": "500",
+   "bbox": [
+    1009,
+    716,
+    1042,
+    729
+   ]
+  },
+  {
+   "text": "10 510",
+   "bbox": [
+    1095,
+    716,
+    1155,
+    729
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    85,
+    715,
+    317,
+    733
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    513,
+    753,
+    594,
+    770
+   ]
+  },
+  {
+   "text": "2 010",
+   "bbox": [
+    699,
+    753,
+    748,
+    766
+   ]
+  },
+  {
+   "text": "8 040",
+   "bbox": [
+    827,
+    753,
+    876,
+    766
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    752,
+    941,
+    766
+   ]
+  },
+  {
+   "text": "2 171",
+   "bbox": [
+    993,
+    753,
+    1042,
+    766
+   ]
+  },
+  {
+   "text": "10 211",
+   "bbox": [
+    1095,
+    753,
+    1155,
+    766
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    85,
+    752,
+    313,
+    770
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    513,
+    789,
+    597,
+    803
+   ]
+  },
+  {
+   "text": "105 360",
+   "bbox": [
+    677,
+    790,
+    748,
+    803
+   ]
+  },
+  {
+   "text": "316 080",
+   "bbox": [
+    805,
+    790,
+    876,
+    803
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    789,
+    941,
+    803
+   ]
+  },
+  {
+   "text": "85 342",
+   "bbox": [
+    982,
+    790,
+    1042,
+    803
+   ]
+  },
+  {
+   "text": "401 422",
+   "bbox": [
+    1084,
+    790,
+    1155,
+    803
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    85,
+    789,
+    264,
+    807
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    665,
+    845,
+    825,
+    863
+   ]
+  },
+  {
+   "text": "988 520 Ft",
+   "bbox": [
+    1046,
+    847,
+    1155,
+    863
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    683,
+    880,
+    825,
+    901
+   ]
+  },
+  {
+   "text": "264 698 Ft",
+   "bbox": [
+    1046,
+    885,
+    1155,
+    901
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    619,
+    922,
+    825,
+    939
+   ]
+  },
+  {
+   "text": "1 253 218 Ft",
+   "bbox": [
+    1026,
+    923,
+    1155,
+    939
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 67093104-61668536-34140049",
+   "bbox": [
+    85,
+    989,
+    554,
+    1006
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    85,
+    1021,
+    658,
+    1039
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    424,
+    1650,
+    816,
+    1667
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

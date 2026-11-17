@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BOGDÁN DISZKONT BT.",
+  "uzlet_cim": "H-5966 Újtamásifalva, Arany jános utca 109.",
+  "adoszam": "11765985-2-39",
+  "datum": "2024.03.03.",
+  "ido": "10:12",
+  "nyugtaszam": "3615/79332",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 328 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2152"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "780"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "550"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1846"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOGDÁN DISZKONT BT.",
+   "bbox": [
+    187,
+    28,
+    434,
+    48
+   ]
+  },
+  {
+   "text": "H-5966 Újtamásifalva, Arany jános utca 109.",
+   "bbox": [
+    96,
+    63,
+    526,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 11765985-2-39",
+   "bbox": [
+    201,
+    88,
+    421,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    130,
+    353,
+    146
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    173,
+    252,
+    186
+   ]
+  },
+  {
+   "text": "2152 A00",
+   "bbox": [
+    502,
+    173,
+    598,
+    186
+   ]
+  },
+  {
+   "text": "3 DB x 260",
+   "bbox": [
+    24,
+    202,
+    124,
+    213
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    225,
+    180,
+    238
+   ]
+  },
+  {
+   "text": "780 A00",
+   "bbox": [
+    514,
+    225,
+    598,
+    238
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    254,
+    156,
+    267
+   ]
+  },
+  {
+   "text": "550 C00",
+   "bbox": [
+    514,
+    254,
+    598,
+    267
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    283,
+    132,
+    296
+   ]
+  },
+  {
+   "text": "1846 A00",
+   "bbox": [
+    502,
+    283,
+    598,
+    296
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    320,
+    150,
+    340
+   ]
+  },
+  {
+   "text": "5 328 Ft",
+   "bbox": [
+    486,
+    324,
+    598,
+    340
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    359,
+    144,
+    376
+   ]
+  },
+  {
+   "text": "5 328 Ft",
+   "bbox": [
+    502,
+    363,
+    598,
+    376
+   ]
+  },
+  {
+   "text": "2024.03.03.",
+   "bbox": [
+    24,
+    406,
+    134,
+    418
+   ]
+  },
+  {
+   "text": "10:12",
+   "bbox": [
+    548,
+    406,
+    598,
+    418
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3615/79332",
+   "bbox": [
+    24,
+    432,
+    244,
+    449
+   ]
+  },
+  {
+   "text": "AP A75143754",
+   "bbox": [
+    24,
+    464,
+    144,
+    476
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    256,
+    500,
+    366,
+    517
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  622,
+  563
+ ]
+}

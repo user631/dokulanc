@@ -1,0 +1,360 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZÉKELY CSEMEGE BT.",
+  "uzlet_cim": "H-3320 Kaposvár, Somogyi utca 74.",
+  "adoszam": "20630214-2-37",
+  "datum": "2026.03.24.",
+  "ido": "08:31",
+  "nyugtaszam": "4254/80685",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 934 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "653"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "680"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "388"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "794"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "733"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1291"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2655"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "177"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "763"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1800"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÉKELY CSEMEGE BT.",
+   "bbox": [
+    177,
+    30,
+    443,
+    49
+   ]
+  },
+  {
+   "text": "H-3320 Kaposvár, Somogyi utca 74.",
+   "bbox": [
+    112,
+    64,
+    508,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 20630214-2-37",
+   "bbox": [
+    178,
+    90,
+    442,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    135,
+    358,
+    151
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    176,
+    232,
+    192
+   ]
+  },
+  {
+   "text": "653 B00",
+   "bbox": [
+    506,
+    176,
+    597,
+    192
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    206,
+    167,
+    222
+   ]
+  },
+  {
+   "text": "680 B00",
+   "bbox": [
+    506,
+    206,
+    597,
+    222
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    236,
+    206,
+    252
+   ]
+  },
+  {
+   "text": "388 C00",
+   "bbox": [
+    506,
+    236,
+    597,
+    252
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    266,
+    128,
+    282
+   ]
+  },
+  {
+   "text": "794 A00",
+   "bbox": [
+    506,
+    266,
+    597,
+    282
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    296,
+    141,
+    312
+   ]
+  },
+  {
+   "text": "733 B00",
+   "bbox": [
+    506,
+    296,
+    597,
+    312
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    328,
+    154,
+    342
+   ]
+  },
+  {
+   "text": "1291 A00",
+   "bbox": [
+    493,
+    326,
+    597,
+    342
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    356,
+    271,
+    372
+   ]
+  },
+  {
+   "text": "2655 A00",
+   "bbox": [
+    493,
+    356,
+    597,
+    372
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    386,
+    206,
+    405
+   ]
+  },
+  {
+   "text": "177 C00",
+   "bbox": [
+    506,
+    386,
+    597,
+    402
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    416,
+    206,
+    432
+   ]
+  },
+  {
+   "text": "763 A00",
+   "bbox": [
+    506,
+    416,
+    597,
+    432
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    446,
+    141,
+    462
+   ]
+  },
+  {
+   "text": "1800 A00",
+   "bbox": [
+    493,
+    446,
+    597,
+    462
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    486,
+    168,
+    507
+   ]
+  },
+  {
+   "text": "9 934 Ft",
+   "bbox": [
+    469,
+    488,
+    597,
+    507
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    527,
+    155,
+    544
+   ]
+  },
+  {
+   "text": "9 934 Ft",
+   "bbox": [
+    493,
+    528,
+    597,
+    544
+   ]
+  },
+  {
+   "text": "2026.03.24.",
+   "bbox": [
+    24,
+    572,
+    156,
+    586
+   ]
+  },
+  {
+   "text": "08:31",
+   "bbox": [
+    537,
+    572,
+    597,
+    586
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4254/80685",
+   "bbox": [
+    24,
+    600,
+    288,
+    619
+   ]
+  },
+  {
+   "text": "AP A83711218",
+   "bbox": [
+    24,
+    632,
+    168,
+    646
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    167,
+    672,
+    453,
+    689
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  621,
+  734
+ ]
+}

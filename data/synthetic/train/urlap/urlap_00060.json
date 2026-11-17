@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kis Anikó",
+  "anyja_neve": "Horváth Viktória",
+  "szuletesi_hely": "Tótberény",
+  "szuletesi_datum": "1999.07.07.",
+  "lakcim": "H-8113 Mellékapáti, Béke utca 43.",
+  "telefon": "06 1 173 2059",
+  "email": "kis.aniko@example.hu",
+  "adoazonosito_jel": "8483994976",
+  "taj_szam": "570 582 935",
+  "kelt": "Tiszaszékhalas, 2026.11.02."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    301,
+    105,
+    938,
+    137
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    479,
+    158,
+    759,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    210,
+    318,
+    231
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    263,
+    154,
+    277
+   ]
+  },
+  {
+   "text": "Kis Anikó",
+   "bbox": [
+    407,
+    257,
+    536,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    315,
+    210,
+    332
+   ]
+  },
+  {
+   "text": "Horváth Viktória",
+   "bbox": [
+    407,
+    312,
+    623,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    365,
+    229,
+    383
+   ]
+  },
+  {
+   "text": "Tótberény",
+   "bbox": [
+    407,
+    364,
+    528,
+    388
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    416,
+    221,
+    430
+   ]
+  },
+  {
+   "text": "1999.07.07.",
+   "bbox": [
+    407,
+    418,
+    561,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    467,
+    181,
+    481
+   ]
+  },
+  {
+   "text": "H-8113 Mellékapáti, Béke utca 43.",
+   "bbox": [
+    407,
+    465,
+    852,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    518,
+    224,
+    532
+   ]
+  },
+  {
+   "text": "06 1 173 2059",
+   "bbox": [
+    407,
+    520,
+    604,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    569,
+    209,
+    583
+   ]
+  },
+  {
+   "text": "kis.aniko@example.hu",
+   "bbox": [
+    407,
+    568,
+    690,
+    591
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    620,
+    254,
+    638
+   ]
+  },
+  {
+   "text": "8483994976",
+   "bbox": [
+    407,
+    620,
+    577,
+    637
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    671,
+    199,
+    685
+   ]
+  },
+  {
+   "text": "570 582 935",
+   "bbox": [
+    407,
+    671,
+    579,
+    688
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    748,
+    279,
+    769
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    792,
+    426,
+    810
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    837,
+    282,
+    851
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    882,
+    440,
+    900
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    984,
+    144,
+    998
+   ]
+  },
+  {
+   "text": "Tiszaszékhalas, 2026.11.02.",
+   "bbox": [
+    194,
+    982,
+    515,
+    1002
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    924,
+    1032,
+    968,
+    1044
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SOMOGYI KISBOLT KFT.",
+  "uzlet_cim": "H-9631 Tapolcaapáti, Miskolci utca 130.",
+  "adoszam": "40602228-2-03",
+  "datum": "2024.06.05.",
+  "ido": "12:13",
+  "nyugtaszam": "5772/70413",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 355 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "155"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "296"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "249"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2199"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1608"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2558"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "835"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2487"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1434"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1211"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "323"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SOMOGYI KISBOLT KFT.",
+   "bbox": [
+    134,
+    36,
+    434,
+    51
+   ]
+  },
+  {
+   "text": "H-9631 Tapolcaapáti, Miskolci utca 130.",
+   "bbox": [
+    30,
+    70,
+    537,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 40602228-2-03",
+   "bbox": [
+    141,
+    94,
+    427,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    235,
+    140,
+    333,
+    156
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    184,
+    220,
+    201
+   ]
+  },
+  {
+   "text": "155 C00",
+   "bbox": [
+    446,
+    184,
+    544,
+    198
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    216,
+    206,
+    229
+   ]
+  },
+  {
+   "text": "296 C00",
+   "bbox": [
+    446,
+    215,
+    544,
+    229
+   ]
+  },
+  {
+   "text": "3 DB x 83",
+   "bbox": [
+    24,
+    244,
+    132,
+    257
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    272,
+    108,
+    285
+   ]
+  },
+  {
+   "text": "249 C00",
+   "bbox": [
+    446,
+    271,
+    544,
+    285
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    302,
+    150,
+    316
+   ]
+  },
+  {
+   "text": "2199 A00",
+   "bbox": [
+    432,
+    302,
+    544,
+    316
+   ]
+  },
+  {
+   "text": "3 DB x 536",
+   "bbox": [
+    24,
+    331,
+    144,
+    344
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    358,
+    150,
+    372
+   ]
+  },
+  {
+   "text": "1608 C00",
+   "bbox": [
+    432,
+    358,
+    544,
+    372
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    389,
+    290,
+    403
+   ]
+  },
+  {
+   "text": "2558 B00",
+   "bbox": [
+    432,
+    389,
+    544,
+    403
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    420,
+    136,
+    434
+   ]
+  },
+  {
+   "text": "835 B00",
+   "bbox": [
+    446,
+    420,
+    544,
+    434
+   ]
+  },
+  {
+   "text": "3 DB x 829",
+   "bbox": [
+    24,
+    449,
+    144,
+    462
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    476,
+    248,
+    490
+   ]
+  },
+  {
+   "text": "2487 C00",
+   "bbox": [
+    432,
+    476,
+    544,
+    490
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    508,
+    164,
+    521
+   ]
+  },
+  {
+   "text": "1434 B00",
+   "bbox": [
+    432,
+    507,
+    544,
+    521
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    538,
+    164,
+    552
+   ]
+  },
+  {
+   "text": "1211 C00",
+   "bbox": [
+    432,
+    538,
+    544,
+    552
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    569,
+    220,
+    583
+   ]
+  },
+  {
+   "text": "323 A00",
+   "bbox": [
+    446,
+    569,
+    544,
+    583
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    608,
+    168,
+    629
+   ]
+  },
+  {
+   "text": "13 355 Ft",
+   "bbox": [
+    400,
+    612,
+    544,
+    629
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    650,
+    164,
+    667
+   ]
+  },
+  {
+   "text": "13 355 Ft",
+   "bbox": [
+    418,
+    653,
+    544,
+    667
+   ]
+  },
+  {
+   "text": "2024.06.05.",
+   "bbox": [
+    24,
+    697,
+    167,
+    710
+   ]
+  },
+  {
+   "text": "12:13",
+   "bbox": [
+    479,
+    697,
+    544,
+    710
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5772/70413",
+   "bbox": [
+    24,
+    725,
+    310,
+    743
+   ]
+  },
+  {
+   "text": "AP A42540885",
+   "bbox": [
+    24,
+    759,
+    180,
+    772
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    141,
+    798,
+    427,
+    816
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  568,
+  860
+ ]
+}

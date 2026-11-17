@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Jakab Nikolett",
+  "anyja_neve": "Szabó Béla",
+  "szuletesi_hely": "Oroszligetnádasd",
+  "szuletesi_datum": "1954. 01. 01.",
+  "lakcim": "H-3293 Zalaegerszeg, Keresztváradi utca 170.",
+  "telefon": "+36 70 503 1431",
+  "email": "jakab.nikolett@example.hu",
+  "adoazonosito_jel": "8317763927",
+  "taj_szam": "001 259 641",
+  "kelt": "Györgybánya, 2026. 01. 12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    387,
+    87,
+    853,
+    122
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    462,
+    141,
+    777,
+    157
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    86,
+    193,
+    329,
+    214
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    98,
+    246,
+    141,
+    260
+   ]
+  },
+  {
+   "text": "Jakab Nikolett",
+   "bbox": [
+    391,
+    243,
+    541,
+    260
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    298,
+    207,
+    315
+   ]
+  },
+  {
+   "text": "Szabó Béla",
+   "bbox": [
+    391,
+    294,
+    508,
+    311
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    98,
+    348,
+    230,
+    366
+   ]
+  },
+  {
+   "text": "Oroszligetnádasd",
+   "bbox": [
+    391,
+    347,
+    574,
+    368
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    98,
+    399,
+    219,
+    413
+   ]
+  },
+  {
+   "text": "1954. 01. 01.",
+   "bbox": [
+    391,
+    398,
+    533,
+    414
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    98,
+    450,
+    170,
+    464
+   ]
+  },
+  {
+   "text": "H-3293 Zalaegerszeg, Keresztváradi utca 170.",
+   "bbox": [
+    391,
+    447,
+    885,
+    468
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    501,
+    219,
+    515
+   ]
+  },
+  {
+   "text": "+36 70 503 1431",
+   "bbox": [
+    391,
+    498,
+    572,
+    514
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    98,
+    552,
+    202,
+    566
+   ]
+  },
+  {
+   "text": "jakab.nikolett@example.hu",
+   "bbox": [
+    390,
+    549,
+    681,
+    570
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    603,
+    253,
+    621
+   ]
+  },
+  {
+   "text": "8317763927",
+   "bbox": [
+    391,
+    599,
+    521,
+    615
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    654,
+    190,
+    668
+   ]
+  },
+  {
+   "text": "001 259 641",
+   "bbox": [
+    391,
+    652,
+    522,
+    668
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    86,
+    731,
+    279,
+    752
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    131,
+    775,
+    450,
+    793
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    131,
+    820,
+    284,
+    834
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    865,
+    469,
+    883
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    86,
+    967,
+    131,
+    982
+   ]
+  },
+  {
+   "text": "Györgybánya, 2026. 01. 12.",
+   "bbox": [
+    176,
+    963,
+    472,
+    984
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1016,
+    988,
+    1028
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

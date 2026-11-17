@@ -1,0 +1,250 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "JAKAB KISBOLT KFT.",
+  "uzlet_cim": "H-2797 Haraszti, Tótvárai út 205.",
+  "adoszam": "14693542-3-13",
+  "datum": "2024.06.17.",
+  "ido": "17:16",
+  "nyugtaszam": "4975/71297",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 618 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "589"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "626"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "900"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "76"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "427"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JAKAB KISBOLT KFT.",
+   "bbox": [
+    174,
+    33,
+    390,
+    47
+   ]
+  },
+  {
+   "text": "H-2797 Haraszti, Tótvárai út 205.",
+   "bbox": [
+    117,
+    63,
+    447,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 14693542-3-13",
+   "bbox": [
+    172,
+    86,
+    392,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    243,
+    127,
+    322,
+    142
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    168,
+    145,
+    181
+   ]
+  },
+  {
+   "text": "589 C00",
+   "bbox": [
+    464,
+    168,
+    541,
+    181
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    196,
+    178,
+    209
+   ]
+  },
+  {
+   "text": "626 A00",
+   "bbox": [
+    464,
+    196,
+    541,
+    209
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    224,
+    112,
+    237
+   ]
+  },
+  {
+   "text": "900 C00",
+   "bbox": [
+    464,
+    224,
+    541,
+    237
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    252,
+    90,
+    265
+   ]
+  },
+  {
+   "text": "76 C00",
+   "bbox": [
+    475,
+    252,
+    541,
+    265
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    280,
+    178,
+    293
+   ]
+  },
+  {
+   "text": "427 A00",
+   "bbox": [
+    464,
+    280,
+    541,
+    293
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    316,
+    154,
+    336
+   ]
+  },
+  {
+   "text": "2 618 Ft",
+   "bbox": [
+    437,
+    320,
+    541,
+    336
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    354,
+    134,
+    371
+   ]
+  },
+  {
+   "text": "2 618 Ft",
+   "bbox": [
+    453,
+    358,
+    541,
+    371
+   ]
+  },
+  {
+   "text": "2024.06.17.",
+   "bbox": [
+    24,
+    401,
+    134,
+    412
+   ]
+  },
+  {
+   "text": "17:16",
+   "bbox": [
+    491,
+    401,
+    541,
+    412
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4975/71297",
+   "bbox": [
+    24,
+    426,
+    244,
+    442
+   ]
+  },
+  {
+   "text": "AP A80557748",
+   "bbox": [
+    24,
+    457,
+    144,
+    468
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    207,
+    493,
+    357,
+    509
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  565,
+  554
+ ]
+}

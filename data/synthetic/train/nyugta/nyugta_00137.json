@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NÉMETH KISBOLT KFT.",
+  "uzlet_cim": "H-1496 Tiszaligetfa, Hídkövesdi utca 116.",
+  "adoszam": "60259231-4-06",
+  "datum": "2025.04.28.",
+  "ido": "19:18",
+  "nyugtaszam": "8649/91930",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 754 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "776"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "989"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "292"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "434"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "871"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1170"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "831"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1815"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3207"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2548"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2821"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH KISBOLT KFT.",
+   "bbox": [
+    192,
+    31,
+    439,
+    48
+   ]
+  },
+  {
+   "text": "H-1496 Tiszaligetfa, Hídkövesdi utca 116.",
+   "bbox": [
+    90,
+    63,
+    541,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 60259231-4-06",
+   "bbox": [
+    195,
+    87,
+    437,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    274,
+    128,
+    359,
+    143
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    168,
+    192,
+    182
+   ]
+  },
+  {
+   "text": "776 C00",
+   "bbox": [
+    525,
+    168,
+    609,
+    182
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    196,
+    204,
+    210
+   ]
+  },
+  {
+   "text": "989 C00",
+   "bbox": [
+    525,
+    196,
+    609,
+    210
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    225,
+    180,
+    238
+   ]
+  },
+  {
+   "text": "292 A00",
+   "bbox": [
+    525,
+    224,
+    609,
+    238
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    252,
+    156,
+    269
+   ]
+  },
+  {
+   "text": "434 A00",
+   "bbox": [
+    525,
+    252,
+    609,
+    266
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    280,
+    168,
+    294
+   ]
+  },
+  {
+   "text": "871 A00",
+   "bbox": [
+    525,
+    280,
+    609,
+    294
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    309,
+    180,
+    322
+   ]
+  },
+  {
+   "text": "1170 C00",
+   "bbox": [
+    513,
+    308,
+    609,
+    322
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    336,
+    132,
+    350
+   ]
+  },
+  {
+   "text": "831 A00",
+   "bbox": [
+    525,
+    336,
+    609,
+    350
+   ]
+  },
+  {
+   "text": "3 DB x 605",
+   "bbox": [
+    24,
+    364,
+    124,
+    376
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    386,
+    120,
+    400
+   ]
+  },
+  {
+   "text": "1815 A00",
+   "bbox": [
+    513,
+    386,
+    609,
+    400
+   ]
+  },
+  {
+   "text": "3 DB x 1069",
+   "bbox": [
+    24,
+    414,
+    134,
+    426
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    436,
+    120,
+    450
+   ]
+  },
+  {
+   "text": "3207 B00",
+   "bbox": [
+    513,
+    436,
+    609,
+    450
+   ]
+  },
+  {
+   "text": "2 DB x 1274",
+   "bbox": [
+    24,
+    464,
+    134,
+    476
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    486,
+    144,
+    500
+   ]
+  },
+  {
+   "text": "2548 A00",
+   "bbox": [
+    513,
+    486,
+    609,
+    500
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    514,
+    132,
+    528
+   ]
+  },
+  {
+   "text": "2821 A00",
+   "bbox": [
+    513,
+    514,
+    609,
+    528
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    552,
+    164,
+    571
+   ]
+  },
+  {
+   "text": "15 754 Ft",
+   "bbox": [
+    483,
+    554,
+    609,
+    571
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    590,
+    120,
+    606
+   ]
+  },
+  {
+   "text": "15 754 Ft",
+   "bbox": [
+    501,
+    592,
+    609,
+    606
+   ]
+  },
+  {
+   "text": "2025.04.28.",
+   "bbox": [
+    24,
+    634,
+    145,
+    647
+   ]
+  },
+  {
+   "text": "19:18",
+   "bbox": [
+    554,
+    634,
+    609,
+    647
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8649/91930",
+   "bbox": [
+    24,
+    661,
+    266,
+    678
+   ]
+  },
+  {
+   "text": "AP A42318111",
+   "bbox": [
+    24,
+    690,
+    156,
+    703
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    195,
+    728,
+    437,
+    743
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  633,
+  788
+ ]
+}

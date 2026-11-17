@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Németh Zoltán",
+  "email": "nemeth.zoltan@example.hu",
+  "telefon": "+36 70 119 7520",
+  "lakcim": "H-5373 Törökszékkőrös, Szabadság utca 56.",
+  "szuletesi_datum": "2001.01.22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2021 – 2026"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orsós Consulting Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Java",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Németh Zoltán",
+   "bbox": [
+    477,
+    111,
+    763,
+    144
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    528,
+    181,
+    712,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    148,
+    247
+   ]
+  },
+  {
+   "text": "nemeth.zoltan@example.hu",
+   "bbox": [
+    330,
+    233,
+    568,
+    251
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    159,
+    277
+   ]
+  },
+  {
+   "text": "+36 70 119 7520",
+   "bbox": [
+    330,
+    264,
+    465,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    153,
+    307
+   ]
+  },
+  {
+   "text": "H-5373 Törökszékkőrös, Szabadság utca 56.",
+   "bbox": [
+    330,
+    293,
+    689,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    229,
+    337
+   ]
+  },
+  {
+   "text": "2001.01.22.",
+   "bbox": [
+    330,
+    324,
+    425,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    374,
+    289,
+    394
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    423,
+    215,
+    441
+   ]
+  },
+  {
+   "text": "adatelemző – Orsós Consulting Bt.",
+   "bbox": [
+    90,
+    448,
+    384,
+    466
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    498,
+    227,
+    518
+   ]
+  },
+  {
+   "text": "2021 – 2026",
+   "bbox": [
+    90,
+    548,
+    190,
+    561
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    572,
+    245,
+    590
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    595,
+    371,
+    613
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    636,
+    190,
+    649
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    660,
+    297,
+    678
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    683,
+    307,
+    701
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    734,
+    202,
+    754
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    783,
+    193,
+    801
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    830,
+    192,
+    850
+   ]
+  },
+  {
+   "text": "C#, Java, Docker",
+   "bbox": [
+    90,
+    879,
+    223,
+    896
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

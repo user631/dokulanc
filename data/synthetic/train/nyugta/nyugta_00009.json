@@ -1,0 +1,431 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS CSEMEGE KFT.",
+  "uzlet_cim": "H-1225 Györgyváros, Petőfi utca 22.",
+  "adoszam": "88413961-4-02",
+  "datum": "2025.10.15.",
+  "ido": "08:38",
+  "nyugtaszam": "7463/60662",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "15 451 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "436"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1506"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2565"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "389"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "339"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "683"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "837"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1380"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2922"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2427"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "711"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1256"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS CSEMEGE KFT.",
+   "bbox": [
+    167,
+    30,
+    452,
+    51
+   ]
+  },
+  {
+   "text": "H-1225 Györgyváros, Petőfi utca 22.",
+   "bbox": [
+    82,
+    70,
+    537,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 88413961-4-02",
+   "bbox": [
+    167,
+    94,
+    453,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    140,
+    359,
+    156
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    184,
+    150,
+    198
+   ]
+  },
+  {
+   "text": "436 A00",
+   "bbox": [
+    498,
+    184,
+    596,
+    198
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    216,
+    164,
+    229
+   ]
+  },
+  {
+   "text": "1506 A00",
+   "bbox": [
+    484,
+    215,
+    596,
+    229
+   ]
+  },
+  {
+   "text": "3 DB x 855",
+   "bbox": [
+    24,
+    244,
+    144,
+    257
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    271,
+    248,
+    285
+   ]
+  },
+  {
+   "text": "2565 A00",
+   "bbox": [
+    484,
+    271,
+    596,
+    285
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    302,
+    178,
+    319
+   ]
+  },
+  {
+   "text": "389 C00",
+   "bbox": [
+    498,
+    302,
+    596,
+    316
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    333,
+    220,
+    347
+   ]
+  },
+  {
+   "text": "339 B00",
+   "bbox": [
+    498,
+    333,
+    596,
+    347
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    364,
+    220,
+    378
+   ]
+  },
+  {
+   "text": "683 B00",
+   "bbox": [
+    498,
+    364,
+    596,
+    378
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    395,
+    136,
+    409
+   ]
+  },
+  {
+   "text": "837 A00",
+   "bbox": [
+    498,
+    395,
+    596,
+    409
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    426,
+    164,
+    440
+   ]
+  },
+  {
+   "text": "1380 C00",
+   "bbox": [
+    484,
+    426,
+    596,
+    440
+   ]
+  },
+  {
+   "text": "3 DB x 974",
+   "bbox": [
+    24,
+    455,
+    144,
+    468
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    482,
+    192,
+    496
+   ]
+  },
+  {
+   "text": "2922 A00",
+   "bbox": [
+    484,
+    482,
+    596,
+    496
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    513,
+    150,
+    527
+   ]
+  },
+  {
+   "text": "2427 C00",
+   "bbox": [
+    484,
+    513,
+    596,
+    527
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    544,
+    136,
+    558
+   ]
+  },
+  {
+   "text": "711 A00",
+   "bbox": [
+    498,
+    544,
+    596,
+    558
+   ]
+  },
+  {
+   "text": "2 DB x 628",
+   "bbox": [
+    24,
+    573,
+    144,
+    586
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    600,
+    150,
+    614
+   ]
+  },
+  {
+   "text": "1256 B00",
+   "bbox": [
+    484,
+    600,
+    596,
+    614
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    638,
+    184,
+    660
+   ]
+  },
+  {
+   "text": "15 451 Ft",
+   "bbox": [
+    452,
+    643,
+    596,
+    660
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    681,
+    164,
+    698
+   ]
+  },
+  {
+   "text": "15 451 Ft",
+   "bbox": [
+    470,
+    684,
+    596,
+    698
+   ]
+  },
+  {
+   "text": "2025.10.15.",
+   "bbox": [
+    24,
+    728,
+    167,
+    741
+   ]
+  },
+  {
+   "text": "08:38",
+   "bbox": [
+    531,
+    728,
+    596,
+    741
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7463/60662",
+   "bbox": [
+    24,
+    756,
+    310,
+    774
+   ]
+  },
+  {
+   "text": "AP A30352632",
+   "bbox": [
+    24,
+    790,
+    180,
+    803
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    167,
+    829,
+    453,
+    847
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  620,
+  891
+ ]
+}

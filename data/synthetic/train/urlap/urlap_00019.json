@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kovács Emese",
+  "anyja_neve": "Király Renáta",
+  "szuletesi_hely": "Tamásiberény",
+  "szuletesi_datum": "1972. 11. 06.",
+  "lakcim": "H-6672 Székesfehérvár, Zalaegerszegi utca 70.",
+  "telefon": "06 1 145 2684",
+  "email": "kovacs.emese@gmail.com",
+  "adoazonosito_jel": "8386605634",
+  "taj_szam": "181 746 184",
+  "kelt": "Hajdúszékvég, 2025. 02. 20."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    420,
+    109,
+    819,
+    144
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    451,
+    165,
+    789,
+    184
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    221,
+    341,
+    244
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    277,
+    162,
+    293
+   ]
+  },
+  {
+   "text": "Kovács Emese",
+   "bbox": [
+    448,
+    273,
+    639,
+    296
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    332,
+    229,
+    351
+   ]
+  },
+  {
+   "text": "Király Renáta",
+   "bbox": [
+    448,
+    326,
+    653,
+    352
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    385,
+    254,
+    405
+   ]
+  },
+  {
+   "text": "Tamásiberény",
+   "bbox": [
+    448,
+    382,
+    644,
+    409
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    439,
+    245,
+    455
+   ]
+  },
+  {
+   "text": "1972. 11. 06.",
+   "bbox": [
+    448,
+    438,
+    641,
+    457
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    493,
+    194,
+    509
+   ]
+  },
+  {
+   "text": "H-6672 Székesfehérvár, Zalaegerszegi utca 70.",
+   "bbox": [
+    448,
+    488,
+    1111,
+    515
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    547,
+    245,
+    563
+   ]
+  },
+  {
+   "text": "06 1 145 2684",
+   "bbox": [
+    448,
+    544,
+    668,
+    564
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    601,
+    226,
+    617
+   ]
+  },
+  {
+   "text": "kovacs.emese@gmail.com",
+   "bbox": [
+    448,
+    597,
+    792,
+    623
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    655,
+    282,
+    675
+   ]
+  },
+  {
+   "text": "8386605634",
+   "bbox": [
+    448,
+    655,
+    638,
+    674
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    709,
+    215,
+    725
+   ]
+  },
+  {
+   "text": "181 746 184",
+   "bbox": [
+    448,
+    710,
+    639,
+    729
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    789,
+    295,
+    812
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    834,
+    483,
+    854
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    879,
+    310,
+    895
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    924,
+    498,
+    944
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1028,
+    156,
+    1044
+   ]
+  },
+  {
+   "text": "Hajdúszékvég, 2025. 02. 20.",
+   "bbox": [
+    198,
+    1027,
+    568,
+    1052
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    916,
+    1076,
+    967,
+    1090
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

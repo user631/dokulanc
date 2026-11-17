@@ -1,0 +1,270 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS KISBOLT KFT.",
+  "uzlet_cim": "H-2389 Mosontótharaszti, József attila utca 178.",
+  "adoszam": "26721383-2-11",
+  "datum": "2026.09.18.",
+  "ido": "07:25",
+  "nyugtaszam": "1404/72126",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "2 694 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "828"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "621"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "132"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "397"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "216"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS KISBOLT KFT.",
+   "bbox": [
+    185,
+    30,
+    451,
+    50
+   ]
+  },
+  {
+   "text": "H-2389 Mosontótharaszti, József attila utca 178.",
+   "bbox": [
+    54,
+    66,
+    582,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 26721383-2-11",
+   "bbox": [
+    197,
+    89,
+    439,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    272,
+    133,
+    364,
+    148
+   ]
+  },
+  {
+   "text": "2 DB x 414",
+   "bbox": [
+    24,
+    174,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    198,
+    206,
+    211
+   ]
+  },
+  {
+   "text": "828 A00",
+   "bbox": [
+    522,
+    198,
+    613,
+    211
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    227,
+    232,
+    240
+   ]
+  },
+  {
+   "text": "621 B00",
+   "bbox": [
+    522,
+    227,
+    613,
+    240
+   ]
+  },
+  {
+   "text": "2 DB x 66",
+   "bbox": [
+    24,
+    255,
+    123,
+    266
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    280,
+    102,
+    292
+   ]
+  },
+  {
+   "text": "132 C00",
+   "bbox": [
+    522,
+    279,
+    613,
+    292
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    308,
+    167,
+    321
+   ]
+  },
+  {
+   "text": "397 B00",
+   "bbox": [
+    522,
+    308,
+    613,
+    321
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    337,
+    206,
+    353
+   ]
+  },
+  {
+   "text": "216 A00",
+   "bbox": [
+    522,
+    337,
+    613,
+    350
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    373,
+    174,
+    394
+   ]
+  },
+  {
+   "text": "2 694 Ft",
+   "bbox": [
+    493,
+    378,
+    613,
+    394
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    414,
+    128,
+    430
+   ]
+  },
+  {
+   "text": "2 694 Ft",
+   "bbox": [
+    509,
+    417,
+    613,
+    430
+   ]
+  },
+  {
+   "text": "2026.09.18.",
+   "bbox": [
+    24,
+    459,
+    145,
+    471
+   ]
+  },
+  {
+   "text": "07:25",
+   "bbox": [
+    558,
+    459,
+    613,
+    471
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1404/72126",
+   "bbox": [
+    24,
+    485,
+    266,
+    502
+   ]
+  },
+  {
+   "text": "AP A79489053",
+   "bbox": [
+    24,
+    517,
+    156,
+    529
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    227,
+    555,
+    408,
+    571
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  637,
+  615
+ ]
+}

@@ -1,0 +1,606 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/01318",
+  "kiallitas_datuma": "2026. január 30.",
+  "teljesites_datuma": "2026. január 25.",
+  "fizetesi_hatarido": "2026. február 7.",
+  "elado_nev": "Barta Szolgáltató Bt.",
+  "elado_cim": "H-8069 Ráchíddevecser, Kecskeméti utca 240.",
+  "elado_adoszam": "84844635-2-06",
+  "vevo_nev": "Kovács Trade Kft.",
+  "vevo_cim": "H-5241 Cegléd, Hidai utca 43.",
+  "vevo_adoszam": "83741450-5-14",
+  "bankszamla": "68298656-01915816-83883759",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "284 160 Ft",
+  "afa_osszesen": "76 723 Ft",
+  "brutto_osszesen": "360 883 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "12 db",
+    "egysegar": "15 230",
+    "netto": "182 760",
+    "afa_kulcs": "27%",
+    "afa": "49 345",
+    "brutto": "232 105"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "3 590",
+    "netto": "35 900",
+    "afa_kulcs": "27%",
+    "afa": "9 693",
+    "brutto": "45 593"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "3 db",
+    "egysegar": "3 120",
+    "netto": "9 360",
+    "afa_kulcs": "27%",
+    "afa": "2 527",
+    "brutto": "11 887"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "56 140",
+    "netto": "56 140",
+    "afa_kulcs": "27%",
+    "afa": "15 158",
+    "brutto": "71 298"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    437,
+    83,
+    804,
+    123
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/01318",
+   "bbox": [
+    417,
+    146,
+    823,
+    166
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    81,
+    227,
+    151,
+    246
+   ]
+  },
+  {
+   "text": "Kovács Trade Kft.",
+   "bbox": [
+    81,
+    265,
+    297,
+    284
+   ]
+  },
+  {
+   "text": "H-5241 Cegléd, Hidai utca 43.",
+   "bbox": [
+    81,
+    299,
+    406,
+    323
+   ]
+  },
+  {
+   "text": "Adószám: 83741450-5-14",
+   "bbox": [
+    81,
+    331,
+    352,
+    350
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    227,
+    707,
+    246
+   ]
+  },
+  {
+   "text": "Barta Szolgáltató Bt.",
+   "bbox": [
+    630,
+    265,
+    879,
+    289
+   ]
+  },
+  {
+   "text": "H-8069 Ráchíddevecser, Kecskeméti utca 240.",
+   "bbox": [
+    630,
+    299,
+    1131,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 84844635-2-06",
+   "bbox": [
+    630,
+    331,
+    901,
+    350
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    81,
+    402,
+    271,
+    420
+   ]
+  },
+  {
+   "text": "2026. január 30.",
+   "bbox": [
+    381,
+    401,
+    561,
+    425
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    81,
+    436,
+    292,
+    459
+   ]
+  },
+  {
+   "text": "2026. január 25.",
+   "bbox": [
+    381,
+    435,
+    561,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    81,
+    470,
+    281,
+    488
+   ]
+  },
+  {
+   "text": "2026. február 7.",
+   "bbox": [
+    381,
+    469,
+    557,
+    488
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    81,
+    504,
+    235,
+    522
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    381,
+    503,
+    470,
+    522
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    550,
+    199,
+    569
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    550,
+    583,
+    569
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    550,
+    749,
+    569
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    550,
+    878,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    546,
+    943,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    546,
+    1046,
+    565
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    550,
+    1159,
+    565
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    593,
+    564,
+    608
+   ]
+  },
+  {
+   "text": "15 230",
+   "bbox": [
+    688,
+    593,
+    749,
+    608
+   ]
+  },
+  {
+   "text": "182 760",
+   "bbox": [
+    806,
+    593,
+    878,
+    608
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    593,
+    943,
+    608
+   ]
+  },
+  {
+   "text": "49 345",
+   "bbox": [
+    984,
+    593,
+    1045,
+    608
+   ]
+  },
+  {
+   "text": "232 105",
+   "bbox": [
+    1087,
+    593,
+    1159,
+    608
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    81,
+    592,
+    234,
+    608
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    512,
+    630,
+    586,
+    645
+   ]
+  },
+  {
+   "text": "3 590",
+   "bbox": [
+    699,
+    630,
+    749,
+    645
+   ]
+  },
+  {
+   "text": "35 900",
+   "bbox": [
+    817,
+    630,
+    878,
+    645
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    630,
+    943,
+    645
+   ]
+  },
+  {
+   "text": "9 693",
+   "bbox": [
+    995,
+    630,
+    1045,
+    645
+   ]
+  },
+  {
+   "text": "45 593",
+   "bbox": [
+    1098,
+    630,
+    1159,
+    645
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    81,
+    629,
+    331,
+    649
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    512,
+    667,
+    553,
+    682
+   ]
+  },
+  {
+   "text": "3 120",
+   "bbox": [
+    699,
+    667,
+    749,
+    682
+   ]
+  },
+  {
+   "text": "9 360",
+   "bbox": [
+    828,
+    667,
+    878,
+    682
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    667,
+    943,
+    682
+   ]
+  },
+  {
+   "text": "2 527",
+   "bbox": [
+    995,
+    667,
+    1045,
+    682
+   ]
+  },
+  {
+   "text": "11 887",
+   "bbox": [
+    1098,
+    667,
+    1159,
+    682
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    81,
+    667,
+    242,
+    686
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    512,
+    703,
+    551,
+    719
+   ]
+  },
+  {
+   "text": "56 140",
+   "bbox": [
+    688,
+    704,
+    749,
+    719
+   ]
+  },
+  {
+   "text": "56 140",
+   "bbox": [
+    817,
+    704,
+    878,
+    719
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    704,
+    943,
+    719
+   ]
+  },
+  {
+   "text": "15 158",
+   "bbox": [
+    984,
+    704,
+    1045,
+    719
+   ]
+  },
+  {
+   "text": "71 298",
+   "bbox": [
+    1098,
+    704,
+    1159,
+    719
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    81,
+    703,
+    250,
+    723
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    652,
+    760,
+    829,
+    780
+   ]
+  },
+  {
+   "text": "284 160 Ft",
+   "bbox": [
+    1042,
+    762,
+    1159,
+    780
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    672,
+    794,
+    829,
+    818
+   ]
+  },
+  {
+   "text": "76 723 Ft",
+   "bbox": [
+    1055,
+    800,
+    1159,
+    818
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    621,
+    837,
+    829,
+    861
+   ]
+  },
+  {
+   "text": "360 883 Ft",
+   "bbox": [
+    1028,
+    838,
+    1159,
+    856
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 68298656-01915816-83883759",
+   "bbox": [
+    81,
+    904,
+    571,
+    922
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

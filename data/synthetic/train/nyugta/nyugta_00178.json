@@ -1,0 +1,449 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET BT.",
+  "uzlet_cim": "H-4042 Mosonmagyaróvár, Ady endre utca 146.",
+  "adoszam": "42617156-2-40",
+  "datum": "2026.05.11.",
+  "ido": "17:17",
+  "nyugtaszam": "8900/08692",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 232 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1864"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "1035"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "894"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "468"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1278"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "70"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1054"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "973"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "508"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "960"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "710"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "418"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET BT.",
+   "bbox": [
+    172,
+    30,
+    396,
+    50
+   ]
+  },
+  {
+   "text": "H-4042 Mosonmagyaróvár, Ady endre utca 146.",
+   "bbox": [
+    47,
+    66,
+    520,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 42617156-2-40",
+   "bbox": [
+    163,
+    89,
+    405,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    133,
+    330,
+    148
+   ]
+  },
+  {
+   "text": "2 DB x 932",
+   "bbox": [
+    24,
+    174,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    198,
+    219,
+    211
+   ]
+  },
+  {
+   "text": "1864 B00",
+   "bbox": [
+    440,
+    198,
+    544,
+    211
+   ]
+  },
+  {
+   "text": "3 DB x 345",
+   "bbox": [
+    24,
+    226,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    251,
+    193,
+    263
+   ]
+  },
+  {
+   "text": "1035 B00",
+   "bbox": [
+    440,
+    250,
+    544,
+    263
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    279,
+    128,
+    292
+   ]
+  },
+  {
+   "text": "894 C00",
+   "bbox": [
+    453,
+    279,
+    544,
+    292
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    308,
+    141,
+    321
+   ]
+  },
+  {
+   "text": "468 B00",
+   "bbox": [
+    453,
+    308,
+    544,
+    321
+   ]
+  },
+  {
+   "text": "2 DB x 639",
+   "bbox": [
+    24,
+    336,
+    134,
+    347
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    360,
+    206,
+    373
+   ]
+  },
+  {
+   "text": "1278 A00",
+   "bbox": [
+    440,
+    360,
+    544,
+    373
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    390,
+    102,
+    402
+   ]
+  },
+  {
+   "text": "70 C00",
+   "bbox": [
+    466,
+    389,
+    544,
+    402
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    419,
+    154,
+    431
+   ]
+  },
+  {
+   "text": "1054 A00",
+   "bbox": [
+    440,
+    418,
+    544,
+    431
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    447,
+    128,
+    460
+   ]
+  },
+  {
+   "text": "973 B00",
+   "bbox": [
+    453,
+    447,
+    544,
+    460
+   ]
+  },
+  {
+   "text": "2 DB x 254",
+   "bbox": [
+    24,
+    475,
+    134,
+    486
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    499,
+    206,
+    515
+   ]
+  },
+  {
+   "text": "508 B00",
+   "bbox": [
+    453,
+    499,
+    544,
+    512
+   ]
+  },
+  {
+   "text": "3 DB x 320",
+   "bbox": [
+    24,
+    527,
+    134,
+    538
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    551,
+    206,
+    564
+   ]
+  },
+  {
+   "text": "960 B00",
+   "bbox": [
+    453,
+    551,
+    544,
+    564
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    580,
+    141,
+    593
+   ]
+  },
+  {
+   "text": "710 C00",
+   "bbox": [
+    453,
+    580,
+    544,
+    593
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    609,
+    167,
+    625
+   ]
+  },
+  {
+   "text": "418 A00",
+   "bbox": [
+    453,
+    609,
+    544,
+    622
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    645,
+    174,
+    666
+   ]
+  },
+  {
+   "text": "10 232 Ft",
+   "bbox": [
+    409,
+    650,
+    544,
+    666
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    686,
+    128,
+    702
+   ]
+  },
+  {
+   "text": "10 232 Ft",
+   "bbox": [
+    427,
+    689,
+    544,
+    702
+   ]
+  },
+  {
+   "text": "2026.05.11.",
+   "bbox": [
+    24,
+    731,
+    145,
+    743
+   ]
+  },
+  {
+   "text": "17:17",
+   "bbox": [
+    489,
+    731,
+    544,
+    743
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8900/08692",
+   "bbox": [
+    24,
+    757,
+    266,
+    774
+   ]
+  },
+  {
+   "text": "AP A76351083",
+   "bbox": [
+    24,
+    789,
+    156,
+    801
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    224,
+    828,
+    344,
+    843
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  568,
+  887
+ ]
+}

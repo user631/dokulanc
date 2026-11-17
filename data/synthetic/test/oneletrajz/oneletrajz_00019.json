@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Németh Pál",
+  "email": "nemeth.pal@gmail.com",
+  "telefon": "+36 20 743 7920",
+  "lakcim": "H-6490 Hátkövesd, József attila tér 101.",
+  "szuletesi_datum": "1997. január 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2016 – 2019"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Logisztika Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2023 – 2024"
+   },
+   {
+    "ceg": "Szabó Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2020 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "projektmenedzsment",
+   "ügyfélkezelés",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Németh Pál",
+   "bbox": [
+    474,
+    109,
+    766,
+    147
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    176,
+    731,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    167,
+    242
+   ]
+  },
+  {
+   "text": "nemeth.pal@gmail.com",
+   "bbox": [
+    330,
+    227,
+    553,
+    246
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    179,
+    271
+   ]
+  },
+  {
+   "text": "+36 20 743 7920",
+   "bbox": [
+    330,
+    257,
+    499,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    174,
+    300
+   ]
+  },
+  {
+   "text": "H-6490 Hátkövesd, József attila tér 101.",
+   "bbox": [
+    330,
+    285,
+    716,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    273,
+    329
+   ]
+  },
+  {
+   "text": "1997. január 9.",
+   "bbox": [
+    330,
+    314,
+    479,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    364,
+    347,
+    387
+   ]
+  },
+  {
+   "text": "2023 – 2024",
+   "bbox": [
+    90,
+    413,
+    212,
+    427
+   ]
+  },
+  {
+   "text": "rendszergazda – Kovács Logisztika Bt.",
+   "bbox": [
+    90,
+    434,
+    520,
+    455
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    475,
+    212,
+    489
+   ]
+  },
+  {
+   "text": "irodavezető – Szabó Kft.",
+   "bbox": [
+    90,
+    496,
+    363,
+    513
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    547,
+    263,
+    570
+   ]
+  },
+  {
+   "text": "2016 – 2019",
+   "bbox": [
+    90,
+    596,
+    212,
+    610
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    613,
+    273,
+    638
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    641,
+    340,
+    660
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    681,
+    212,
+    695
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    702,
+    410,
+    723
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    726,
+    333,
+    745
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    776,
+    233,
+    799
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    824,
+    192,
+    843
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    870,
+    227,
+    893
+   ]
+  },
+  {
+   "text": "JavaScript, projektmenedzsment, ügyfélkezelés, prezentáció",
+   "bbox": [
+    90,
+    918,
+    665,
+    937
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Rácz Annamária",
+  "email": "racz.annamaria@citromail.hu",
+  "telefon": "06 1 745 8236",
+  "lakcim": "H-1001 Egyházasszékfalva, Ady endre utca 230.",
+  "szuletesi_datum": "1992. 05. 05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2010 – 2015"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Trade Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2014 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Linux",
+   "projektmenedzsment",
+   "Git",
+   "Python",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Rácz Annamária",
+   "bbox": [
+    410,
+    116,
+    830,
+    155
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    183,
+    681,
+    209
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    236,
+    170,
+    252
+   ]
+  },
+  {
+   "text": "racz.annamaria@citromail.hu",
+   "bbox": [
+    330,
+    236,
+    624,
+    254
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    266,
+    181,
+    282
+   ]
+  },
+  {
+   "text": "06 1 745 8236",
+   "bbox": [
+    330,
+    267,
+    481,
+    282
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    177,
+    312
+   ]
+  },
+  {
+   "text": "H-1001 Egyházasszékfalva, Ady endre utca 230.",
+   "bbox": [
+    330,
+    295,
+    821,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    277,
+    342
+   ]
+  },
+  {
+   "text": "1992. 05. 05.",
+   "bbox": [
+    330,
+    327,
+    469,
+    342
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    360,
+    401
+   ]
+  },
+  {
+   "text": "2014 – 2015",
+   "bbox": [
+    90,
+    427,
+    221,
+    442
+   ]
+  },
+  {
+   "text": "adatelemző – Molnár Trade Bt.",
+   "bbox": [
+    90,
+    450,
+    451,
+    467
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    500,
+    270,
+    525
+   ]
+  },
+  {
+   "text": "2010 – 2015",
+   "bbox": [
+    90,
+    551,
+    221,
+    566
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    574,
+    489,
+    595
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    598,
+    254,
+    614
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    639,
+    221,
+    654
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    662,
+    427,
+    683
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    685,
+    178,
+    706
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    736,
+    241,
+    761
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    786,
+    218,
+    806
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    832,
+    232,
+    857
+   ]
+  },
+  {
+   "text": "csapatmunka, Linux, projektmenedzsment, Git, Python, C#",
+   "bbox": [
+    90,
+    882,
+    689,
+    902
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

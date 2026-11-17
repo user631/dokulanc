@@ -1,0 +1,228 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY CSEMEGE KFT.",
+  "uzlet_cim": "H-9518 Szigetszentmiklós, Váci utca 74.",
+  "adoszam": "40019404-2-26",
+  "datum": "2025.07.15.",
+  "ido": "07:18",
+  "nyugtaszam": "6985/79648",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 060 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "406"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "216"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "69"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "369"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY CSEMEGE KFT.",
+   "bbox": [
+    194,
+    33,
+    415,
+    48
+   ]
+  },
+  {
+   "text": "H-9518 Szigetszentmiklós, Váci utca 74.",
+   "bbox": [
+    110,
+    65,
+    500,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 40019404-2-26",
+   "bbox": [
+    195,
+    88,
+    415,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    130,
+    347,
+    146
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    173,
+    192,
+    186
+   ]
+  },
+  {
+   "text": "406 C00",
+   "bbox": [
+    502,
+    173,
+    586,
+    186
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    202,
+    192,
+    219
+   ]
+  },
+  {
+   "text": "216 A00",
+   "bbox": [
+    502,
+    202,
+    586,
+    215
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    231,
+    96,
+    244
+   ]
+  },
+  {
+   "text": "69 B00",
+   "bbox": [
+    514,
+    231,
+    586,
+    244
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    260,
+    192,
+    273
+   ]
+  },
+  {
+   "text": "369 C00",
+   "bbox": [
+    502,
+    260,
+    586,
+    273
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    296,
+    164,
+    317
+   ]
+  },
+  {
+   "text": "1 060 Ft",
+   "bbox": [
+    474,
+    301,
+    586,
+    317
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    336,
+    144,
+    353
+   ]
+  },
+  {
+   "text": "1 060 Ft",
+   "bbox": [
+    490,
+    340,
+    586,
+    353
+   ]
+  },
+  {
+   "text": "2025.07.15.",
+   "bbox": [
+    24,
+    383,
+    134,
+    395
+   ]
+  },
+  {
+   "text": "07:18",
+   "bbox": [
+    536,
+    383,
+    586,
+    395
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6985/79648",
+   "bbox": [
+    24,
+    409,
+    244,
+    426
+   ]
+  },
+  {
+   "text": "AP A39298823",
+   "bbox": [
+    24,
+    441,
+    144,
+    453
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    184,
+    477,
+    426,
+    494
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  610,
+  540
+ ]
+}

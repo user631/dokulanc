@@ -1,0 +1,321 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Major Krisztina",
+  "email": "major.krisztina@example.hu",
+  "telefon": "06 1 846 6742",
+  "lakcim": "H-8017 Tamásihida, Ady endre út 67.",
+  "szuletesi_datum": "1978. november 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "1997 – 2000"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szekeres Tech Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "ceg": "Gulyás Consulting Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    107,
+    200,
+    128
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    98,
+    168
+   ]
+  },
+  {
+   "text": "major.krisztina@example.hu",
+   "bbox": [
+    40,
+    177,
+    300,
+    196
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    211,
+    112,
+    226
+   ]
+  },
+  {
+   "text": "06 1 846 6742",
+   "bbox": [
+    40,
+    236,
+    158,
+    250
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    269,
+    106,
+    284
+   ]
+  },
+  {
+   "text": "H-8017 Tamásihida, Ady endre út 67.",
+   "bbox": [
+    40,
+    292,
+    372,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    327,
+    192,
+    342
+   ]
+  },
+  {
+   "text": "1978. november 23.",
+   "bbox": [
+    40,
+    351,
+    216,
+    366
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    413,
+    186,
+    434
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    456,
+    150,
+    475
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    484,
+    135,
+    503
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    539,
+    166,
+    560
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    581,
+    268,
+    601
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    610,
+    162,
+    629
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    638,
+    65,
+    653
+   ]
+  },
+  {
+   "text": "Major Krisztina",
+   "bbox": [
+    450,
+    115,
+    776,
+    158
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    181,
+    574,
+    209
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    248,
+    691,
+    273
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    300,
+    568,
+    316
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szekeres Tech Zrt.",
+   "bbox": [
+    450,
+    325,
+    964,
+    348
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    368,
+    568,
+    384
+   ]
+  },
+  {
+   "text": "adatelemző – Gulyás Consulting Zrt.",
+   "bbox": [
+    450,
+    394,
+    834,
+    416
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    447,
+    613,
+    471
+   ]
+  },
+  {
+   "text": "1997 – 2000",
+   "bbox": [
+    450,
+    498,
+    568,
+    514
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    524,
+    995,
+    546
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    548,
+    635,
+    571
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    592,
+    568,
+    608
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    618,
+    724,
+    635
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    643,
+    647,
+    665
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

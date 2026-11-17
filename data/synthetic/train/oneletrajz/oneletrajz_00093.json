@@ -1,0 +1,344 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy István",
+  "email": "nagy.istvan@outlook.com",
+  "telefon": "06 1 598 1621",
+  "lakcim": "H-7938 Szeged, Belsőligeti utca 77.",
+  "szuletesi_datum": "1980. július 6.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Gál Logisztika Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "ceg": "Kovács Trade Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "ceg": "Szabó Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2002 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Docker",
+   "Java",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    200,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    98,
+    169
+   ]
+  },
+  {
+   "text": "nagy.istvan@outlook.com",
+   "bbox": [
+    40,
+    178,
+    271,
+    197
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    212,
+    112,
+    227
+   ]
+  },
+  {
+   "text": "06 1 598 1621",
+   "bbox": [
+    40,
+    237,
+    158,
+    251
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    270,
+    106,
+    285
+   ]
+  },
+  {
+   "text": "H-7938 Szeged, Belsőligeti utca 77.",
+   "bbox": [
+    40,
+    293,
+    355,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    328,
+    192,
+    343
+   ]
+  },
+  {
+   "text": "1980. július 6.",
+   "bbox": [
+    40,
+    351,
+    165,
+    371
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    414,
+    186,
+    435
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    456,
+    143,
+    476
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    512,
+    166,
+    533
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    555,
+    162,
+    574
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    583,
+    105,
+    598
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    611,
+    82,
+    626
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    639,
+    136,
+    658
+   ]
+  },
+  {
+   "text": "Nagy István",
+   "bbox": [
+    450,
+    116,
+    695,
+    159
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    185,
+    673,
+    210
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    249,
+    691,
+    274
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    301,
+    568,
+    317
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Gál Logisztika Bt.",
+   "bbox": [
+    449,
+    327,
+    826,
+    349
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    369,
+    568,
+    385
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kovács Trade Bt.",
+   "bbox": [
+    450,
+    394,
+    788,
+    412
+   ]
+  },
+  {
+   "text": "2002 – 2004",
+   "bbox": [
+    450,
+    437,
+    568,
+    453
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Kft.",
+   "bbox": [
+    449,
+    463,
+    748,
+    485
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    516,
+    613,
+    540
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    450,
+    567,
+    568,
+    583
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    589,
+    624,
+    615
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    617,
+    704,
+    640
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    661,
+    568,
+    677
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    687,
+    771,
+    709
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    711,
+    709,
+    734
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

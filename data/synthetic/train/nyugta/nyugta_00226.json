@@ -1,0 +1,321 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BARNA KISBOLT KFT.",
+  "uzlet_cim": "H-4387 Salgótarján, Hídkőrösi utca 217.",
+  "adoszam": "49123449-4-26",
+  "datum": "2025.11.14.",
+  "ido": "17:07",
+  "nyugtaszam": "4729/43023",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "14 433 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "506"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1725"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "903"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "547"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "822"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8418"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1512"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BARNA KISBOLT KFT.",
+   "bbox": [
+    187,
+    34,
+    439,
+    49
+   ]
+  },
+  {
+   "text": "H-4387 Salgótarján, Hídkőrösi utca 217.",
+   "bbox": [
+    79,
+    64,
+    547,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 49123449-4-26",
+   "bbox": [
+    181,
+    90,
+    445,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    265,
+    135,
+    361,
+    151
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    176,
+    128,
+    192
+   ]
+  },
+  {
+   "text": "506 C00",
+   "bbox": [
+    512,
+    176,
+    603,
+    192
+   ]
+  },
+  {
+   "text": "3 DB x 575",
+   "bbox": [
+    24,
+    205,
+    134,
+    219
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    230,
+    141,
+    246
+   ]
+  },
+  {
+   "text": "1725 C00",
+   "bbox": [
+    499,
+    230,
+    603,
+    246
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    260,
+    219,
+    276
+   ]
+  },
+  {
+   "text": "903 A00",
+   "bbox": [
+    512,
+    260,
+    603,
+    276
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    290,
+    128,
+    306
+   ]
+  },
+  {
+   "text": "547 A00",
+   "bbox": [
+    512,
+    290,
+    603,
+    306
+   ]
+  },
+  {
+   "text": "2 DB x 411",
+   "bbox": [
+    24,
+    319,
+    134,
+    333
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    344,
+    206,
+    360
+   ]
+  },
+  {
+   "text": "822 B00",
+   "bbox": [
+    512,
+    344,
+    603,
+    360
+   ]
+  },
+  {
+   "text": "3 DB x 2806",
+   "bbox": [
+    24,
+    373,
+    145,
+    387
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    398,
+    141,
+    414
+   ]
+  },
+  {
+   "text": "8418 C00",
+   "bbox": [
+    499,
+    398,
+    603,
+    414
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    430,
+    154,
+    444
+   ]
+  },
+  {
+   "text": "1512 C00",
+   "bbox": [
+    499,
+    428,
+    603,
+    444
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    468,
+    168,
+    489
+   ]
+  },
+  {
+   "text": "14 433 Ft",
+   "bbox": [
+    459,
+    470,
+    603,
+    489
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    509,
+    155,
+    526
+   ]
+  },
+  {
+   "text": "14 433 Ft",
+   "bbox": [
+    486,
+    510,
+    603,
+    526
+   ]
+  },
+  {
+   "text": "2025.11.14.",
+   "bbox": [
+    24,
+    554,
+    156,
+    568
+   ]
+  },
+  {
+   "text": "17:07",
+   "bbox": [
+    543,
+    554,
+    603,
+    568
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4729/43023",
+   "bbox": [
+    24,
+    582,
+    288,
+    601
+   ]
+  },
+  {
+   "text": "AP A20735901",
+   "bbox": [
+    24,
+    614,
+    168,
+    628
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    215,
+    654,
+    410,
+    671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  627,
+  716
+ ]
+}

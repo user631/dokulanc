@@ -1,0 +1,419 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/05020",
+  "kiallitas_datuma": "2025.03.27.",
+  "teljesites_datuma": "2025.03.27.",
+  "fizetesi_hatarido": "2025.03.20.",
+  "elado_nev": "Vincze Consulting Bt.",
+  "elado_cim": "H-2132 Fürdővárad, Petőfi utca 50.",
+  "elado_adoszam": "42214825-2-25",
+  "vevo_nev": "Pásztor és Társa Zrt.",
+  "vevo_cim": "H-4699 Hetvenháza, Székváradi tér 15.",
+  "vevo_adoszam": "15309893-2-44",
+  "bankszamla": "52296961-59596114",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "7 170 Ft",
+  "afa_osszesen": "1 936 Ft",
+  "brutto_osszesen": "9 106 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "7 170",
+    "netto": "7 170",
+    "afa_kulcs": "27%",
+    "afa": "1 936",
+    "brutto": "9 106"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VINCZE",
+   "bbox": [
+    110,
+    111,
+    199,
+    128
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    773,
+    84,
+    1165,
+    124
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/05020",
+   "bbox": [
+    863,
+    150,
+    1165,
+    168
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    74,
+    228,
+    143,
+    248
+   ]
+  },
+  {
+   "text": "Pásztor és Társa Zrt.",
+   "bbox": [
+    75,
+    265,
+    322,
+    285
+   ]
+  },
+  {
+   "text": "H-4699 Hetvenháza, Székváradi tér 15.",
+   "bbox": [
+    75,
+    301,
+    482,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 15309893-2-44",
+   "bbox": [
+    74,
+    332,
+    343,
+    349
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    228,
+    706,
+    248
+   ]
+  },
+  {
+   "text": "Vincze Consulting Bt.",
+   "bbox": [
+    629,
+    267,
+    886,
+    290
+   ]
+  },
+  {
+   "text": "H-2132 Fürdővárad, Petőfi utca 50.",
+   "bbox": [
+    630,
+    301,
+    991,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 42214825-2-25",
+   "bbox": [
+    629,
+    332,
+    898,
+    349
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    401,
+    230,
+    416
+   ]
+  },
+  {
+   "text": "2025.03.27.",
+   "bbox": [
+    75,
+    430,
+    189,
+    446
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    401,
+    516,
+    420
+   ]
+  },
+  {
+   "text": "2025.03.27.",
+   "bbox": [
+    347,
+    430,
+    461,
+    446
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    401,
+    778,
+    416
+   ]
+  },
+  {
+   "text": "2025.03.20.",
+   "bbox": [
+    619,
+    430,
+    733,
+    446
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    401,
+    1013,
+    416
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    891,
+    430,
+    983,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    481,
+    192,
+    500
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    481,
+    580,
+    500
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    661,
+    481,
+    751,
+    500
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    481,
+    881,
+    496
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    477,
+    947,
+    497
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    477,
+    1051,
+    496
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    481,
+    1165,
+    496
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    523,
+    550,
+    538
+   ]
+  },
+  {
+   "text": "7 170",
+   "bbox": [
+    700,
+    523,
+    750,
+    538
+   ]
+  },
+  {
+   "text": "7 170",
+   "bbox": [
+    831,
+    523,
+    881,
+    538
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    523,
+    947,
+    538
+   ]
+  },
+  {
+   "text": "1 936",
+   "bbox": [
+    1000,
+    523,
+    1050,
+    538
+   ]
+  },
+  {
+   "text": "9 106",
+   "bbox": [
+    1115,
+    523,
+    1165,
+    538
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    75,
+    523,
+    227,
+    538
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    664,
+    580,
+    835,
+    597
+   ]
+  },
+  {
+   "text": "7 170 Ft",
+   "bbox": [
+    1077,
+    580,
+    1165,
+    597
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    673,
+    613,
+    835,
+    634
+   ]
+  },
+  {
+   "text": "1 936 Ft",
+   "bbox": [
+    1077,
+    617,
+    1165,
+    634
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    600,
+    652,
+    835,
+    671
+   ]
+  },
+  {
+   "text": "9 106 Ft",
+   "bbox": [
+    1076,
+    654,
+    1165,
+    671
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 52296961-59596114",
+   "bbox": [
+    75,
+    720,
+    457,
+    736
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    751,
+    670,
+    769
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    482,
+    1662,
+    758,
+    1679
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

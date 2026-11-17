@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Nagy Attila",
+  "anyja_neve": "Tóth József",
+  "szuletesi_hely": "Fürdőháza",
+  "szuletesi_datum": "1958. 12. 26.",
+  "lakcim": "H-2383 Tatabánya, Nyíregyházai utca 133.",
+  "telefon": "06 1 246 2965",
+  "email": "nagy.attila@example.hu",
+  "adoazonosito_jel": "8335968357",
+  "taj_szam": "423 678 334",
+  "kelt": "Budamellékkövesd, 2026. 08. 22."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    496,
+    101,
+    743,
+    139
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    461,
+    159,
+    777,
+    178
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    213,
+    346,
+    238
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    269,
+    154,
+    286
+   ]
+  },
+  {
+   "text": "Nagy Attila",
+   "bbox": [
+    396,
+    268,
+    546,
+    298
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    324,
+    222,
+    344
+   ]
+  },
+  {
+   "text": "Tóth József",
+   "bbox": [
+    396,
+    319,
+    546,
+    342
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    377,
+    245,
+    398
+   ]
+  },
+  {
+   "text": "Fürdőháza",
+   "bbox": [
+    396,
+    371,
+    531,
+    394
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    431,
+    235,
+    448
+   ]
+  },
+  {
+   "text": "1958. 12. 26.",
+   "bbox": [
+    396,
+    432,
+    589,
+    451
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    485,
+    183,
+    502
+   ]
+  },
+  {
+   "text": "H-2383 Tatabánya, Nyíregyházai utca 133.",
+   "bbox": [
+    396,
+    483,
+    983,
+    514
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    539,
+    235,
+    556
+   ]
+  },
+  {
+   "text": "06 1 246 2965",
+   "bbox": [
+    396,
+    541,
+    618,
+    561
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    593,
+    218,
+    610
+   ]
+  },
+  {
+   "text": "nagy.attila@example.hu",
+   "bbox": [
+    396,
+    590,
+    702,
+    621
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    647,
+    270,
+    668
+   ]
+  },
+  {
+   "text": "8335968357",
+   "bbox": [
+    396,
+    645,
+    586,
+    662
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    701,
+    207,
+    718
+   ]
+  },
+  {
+   "text": "423 678 334",
+   "bbox": [
+    396,
+    702,
+    587,
+    722
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    782,
+    297,
+    806
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    826,
+    466,
+    847
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    871,
+    295,
+    888
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    916,
+    489,
+    937
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    1021,
+    145,
+    1038
+   ]
+  },
+  {
+   "text": "Budamellékkövesd, 2026. 08. 22.",
+   "bbox": [
+    190,
+    1021,
+    609,
+    1044
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1070,
+    974,
+    1084
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

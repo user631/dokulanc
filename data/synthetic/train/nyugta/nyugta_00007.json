@@ -1,0 +1,356 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET BT.",
+  "uzlet_cim": "H-4281 Tiszamellékhida, Petőfi utca 146.",
+  "adoszam": "50662539-5-33",
+  "datum": "2025.07.11.",
+  "ido": "09:44",
+  "nyugtaszam": "1438/02803",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 687 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "490"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1057"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "868"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "789"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "538"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "724"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1586"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "996"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "639"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET BT.",
+   "bbox": [
+    176,
+    28,
+    368,
+    47
+   ]
+  },
+  {
+   "text": "H-4281 Tiszamellékhida, Petőfi utca 146.",
+   "bbox": [
+    72,
+    63,
+    472,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 50662539-5-33",
+   "bbox": [
+    162,
+    86,
+    382,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    233,
+    127,
+    312,
+    142
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "490 C00",
+   "bbox": [
+    443,
+    168,
+    520,
+    181
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    196,
+    167,
+    209
+   ]
+  },
+  {
+   "text": "1057 C00",
+   "bbox": [
+    432,
+    196,
+    520,
+    209
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    224,
+    156,
+    237
+   ]
+  },
+  {
+   "text": "868 A00",
+   "bbox": [
+    443,
+    224,
+    520,
+    237
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    252,
+    112,
+    265
+   ]
+  },
+  {
+   "text": "789 C00",
+   "bbox": [
+    443,
+    252,
+    520,
+    265
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    280,
+    145,
+    293
+   ]
+  },
+  {
+   "text": "538 A00",
+   "bbox": [
+    443,
+    280,
+    520,
+    293
+   ]
+  },
+  {
+   "text": "2 DB x 362",
+   "bbox": [
+    24,
+    308,
+    114,
+    319
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    329,
+    145,
+    346
+   ]
+  },
+  {
+   "text": "724 A00",
+   "bbox": [
+    443,
+    330,
+    520,
+    343
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    358,
+    134,
+    371
+   ]
+  },
+  {
+   "text": "1586 B00",
+   "bbox": [
+    432,
+    358,
+    520,
+    371
+   ]
+  },
+  {
+   "text": "3 DB x 332",
+   "bbox": [
+    24,
+    386,
+    114,
+    397
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    408,
+    167,
+    421
+   ]
+  },
+  {
+   "text": "996 A00",
+   "bbox": [
+    443,
+    408,
+    520,
+    421
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    436,
+    178,
+    449
+   ]
+  },
+  {
+   "text": "639 B00",
+   "bbox": [
+    443,
+    436,
+    520,
+    449
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    472,
+    154,
+    492
+   ]
+  },
+  {
+   "text": "7 687 Ft",
+   "bbox": [
+    416,
+    476,
+    520,
+    492
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    510,
+    112,
+    527
+   ]
+  },
+  {
+   "text": "7 687 Ft",
+   "bbox": [
+    432,
+    514,
+    520,
+    527
+   ]
+  },
+  {
+   "text": "2025.07.11.",
+   "bbox": [
+    24,
+    557,
+    134,
+    568
+   ]
+  },
+  {
+   "text": "09:44",
+   "bbox": [
+    470,
+    557,
+    520,
+    568
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1438/02803",
+   "bbox": [
+    24,
+    582,
+    244,
+    598
+   ]
+  },
+  {
+   "text": "AP A33500192",
+   "bbox": [
+    24,
+    613,
+    144,
+    624
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    222,
+    649,
+    322,
+    665
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  544,
+  710
+ ]
+}

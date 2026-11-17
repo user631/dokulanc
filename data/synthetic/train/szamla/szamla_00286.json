@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2025/01494",
+  "kiallitas_datuma": "2025.09.16.",
+  "teljesites_datuma": "2025.09.16.",
+  "fizetesi_hatarido": "2025.09.24.",
+  "elado_nev": "Horváth és Társa Bt.",
+  "elado_cim": "H-3427 Mellékfalu, Béke utca 122.",
+  "elado_adoszam": "13141152-4-09",
+  "vevo_nev": "Székely Tech Kft.",
+  "vevo_cim": "H-9501 Keresztháza, Szombathelyi utca 199.",
+  "vevo_adoszam": "38366369-3-19",
+  "bankszamla": "74091214-47904181",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "89 400 Ft",
+  "afa_osszesen": "11 434 Ft",
+  "brutto_osszesen": "100 834 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "9 800",
+    "netto": "9 800",
+    "afa_kulcs": "27%",
+    "afa": "2 646",
+    "brutto": "12 446"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "11 550",
+    "netto": "57 750",
+    "afa_kulcs": "5%",
+    "afa": "2 888",
+    "brutto": "60 638"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "4 370",
+    "netto": "21 850",
+    "afa_kulcs": "27%",
+    "afa": "5 900",
+    "brutto": "27 750"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH",
+   "bbox": [
+    128,
+    143,
+    252,
+    163
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    989,
+    129,
+    1130,
+    162
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/01494",
+   "bbox": [
+    846,
+    186,
+    1130,
+    205
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    110,
+    267,
+    188,
+    285
+   ]
+  },
+  {
+   "text": "Horváth és Társa Bt.",
+   "bbox": [
+    110,
+    306,
+    356,
+    324
+   ]
+  },
+  {
+   "text": "H-3427 Mellékfalu, Béke utca 122.",
+   "bbox": [
+    110,
+    341,
+    467,
+    363
+   ]
+  },
+  {
+   "text": "Adószám: 13141152-4-09",
+   "bbox": [
+    110,
+    374,
+    377,
+    392
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    267,
+    699,
+    285
+   ]
+  },
+  {
+   "text": "Székely Tech Kft.",
+   "bbox": [
+    630,
+    306,
+    835,
+    330
+   ]
+  },
+  {
+   "text": "H-9501 Keresztháza, Szombathelyi utca 199.",
+   "bbox": [
+    630,
+    341,
+    1086,
+    364
+   ]
+  },
+  {
+   "text": "Adószám: 38366369-3-19",
+   "bbox": [
+    630,
+    374,
+    897,
+    392
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    110,
+    445,
+    266,
+    460
+   ]
+  },
+  {
+   "text": "2025.09.16.",
+   "bbox": [
+    110,
+    477,
+    224,
+    493
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    365,
+    445,
+    531,
+    465
+   ]
+  },
+  {
+   "text": "2025.09.16.",
+   "bbox": [
+    365,
+    477,
+    479,
+    493
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    445,
+    777,
+    460
+   ]
+  },
+  {
+   "text": "2025.09.24.",
+   "bbox": [
+    620,
+    477,
+    734,
+    493
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    875,
+    445,
+    993,
+    460
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    874,
+    476,
+    983,
+    498
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    110,
+    529,
+    224,
+    549
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    518,
+    529,
+    590,
+    549
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    529,
+    742,
+    549
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    813,
+    529,
+    864,
+    544
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    859,
+    525,
+    926,
+    544
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    977,
+    525,
+    1022,
+    544
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1068,
+    529,
+    1130,
+    544
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    518,
+    572,
+    563,
+    588
+   ]
+  },
+  {
+   "text": "9 800",
+   "bbox": [
+    692,
+    573,
+    742,
+    588
+   ]
+  },
+  {
+   "text": "9 800",
+   "bbox": [
+    814,
+    573,
+    864,
+    588
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    886,
+    573,
+    926,
+    588
+   ]
+  },
+  {
+   "text": "2 646",
+   "bbox": [
+    972,
+    573,
+    1022,
+    588
+   ]
+  },
+  {
+   "text": "12 446",
+   "bbox": [
+    1069,
+    573,
+    1130,
+    588
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    110,
+    572,
+    383,
+    593
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    518,
+    610,
+    557,
+    626
+   ]
+  },
+  {
+   "text": "11 550",
+   "bbox": [
+    681,
+    611,
+    742,
+    626
+   ]
+  },
+  {
+   "text": "57 750",
+   "bbox": [
+    803,
+    611,
+    864,
+    626
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    897,
+    611,
+    926,
+    626
+   ]
+  },
+  {
+   "text": "2 888",
+   "bbox": [
+    972,
+    611,
+    1022,
+    626
+   ]
+  },
+  {
+   "text": "60 638",
+   "bbox": [
+    1069,
+    611,
+    1130,
+    626
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    110,
+    610,
+    359,
+    631
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    518,
+    648,
+    607,
+    664
+   ]
+  },
+  {
+   "text": "4 370",
+   "bbox": [
+    692,
+    649,
+    742,
+    664
+   ]
+  },
+  {
+   "text": "21 850",
+   "bbox": [
+    803,
+    649,
+    864,
+    664
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    886,
+    649,
+    926,
+    664
+   ]
+  },
+  {
+   "text": "5 900",
+   "bbox": [
+    972,
+    649,
+    1022,
+    664
+   ]
+  },
+  {
+   "text": "27 750",
+   "bbox": [
+    1069,
+    649,
+    1130,
+    664
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    110,
+    648,
+    220,
+    669
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    635,
+    708,
+    800,
+    726
+   ]
+  },
+  {
+   "text": "89 400 Ft",
+   "bbox": [
+    1030,
+    709,
+    1131,
+    726
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    642,
+    742,
+    800,
+    765
+   ]
+  },
+  {
+   "text": "11 434 Ft",
+   "bbox": [
+    1030,
+    748,
+    1131,
+    765
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    582,
+    786,
+    800,
+    804
+   ]
+  },
+  {
+   "text": "100 834 Ft",
+   "bbox": [
+    1013,
+    787,
+    1130,
+    804
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 74091214-47904181",
+   "bbox": [
+    110,
+    854,
+    492,
+    871
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    110,
+    886,
+    684,
+    905
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    475,
+    1625,
+    765,
+    1643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

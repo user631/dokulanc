@@ -1,0 +1,330 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KIRÁLY MARKET BT.",
+  "uzlet_cim": "H-7204 Egyházasmártonvár, Egeri utca 145.",
+  "adoszam": "92185731-2-27",
+  "datum": "2026.06.03.",
+  "ido": "09:52",
+  "nyugtaszam": "0933/01380",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "16 850 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "412"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2754"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2862"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1512"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7527"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1456"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "327"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KIRÁLY MARKET BT.",
+   "bbox": [
+    175,
+    31,
+    396,
+    49
+   ]
+  },
+  {
+   "text": "H-7204 Egyházasmártonvár, Egeri utca 145.",
+   "bbox": [
+    60,
+    65,
+    511,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 92185731-2-27",
+   "bbox": [
+    165,
+    87,
+    407,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    243,
+    130,
+    329,
+    144
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    170,
+    156,
+    186
+   ]
+  },
+  {
+   "text": "412 B00",
+   "bbox": [
+    465,
+    170,
+    549,
+    183
+   ]
+  },
+  {
+   "text": "2 DB x 1377",
+   "bbox": [
+    24,
+    198,
+    134,
+    209
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    220,
+    144,
+    233
+   ]
+  },
+  {
+   "text": "2754 C00",
+   "bbox": [
+    453,
+    220,
+    549,
+    233
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    248,
+    132,
+    261
+   ]
+  },
+  {
+   "text": "2862 A00",
+   "bbox": [
+    453,
+    248,
+    549,
+    261
+   ]
+  },
+  {
+   "text": "2 DB x 756",
+   "bbox": [
+    24,
+    276,
+    124,
+    287
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    298,
+    132,
+    311
+   ]
+  },
+  {
+   "text": "1512 C00",
+   "bbox": [
+    453,
+    298,
+    549,
+    311
+   ]
+  },
+  {
+   "text": "3 DB x 2509",
+   "bbox": [
+    24,
+    326,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    348,
+    252,
+    361
+   ]
+  },
+  {
+   "text": "7527 B00",
+   "bbox": [
+    453,
+    348,
+    549,
+    361
+   ]
+  },
+  {
+   "text": "2 DB x 728",
+   "bbox": [
+    24,
+    376,
+    124,
+    387
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    398,
+    120,
+    411
+   ]
+  },
+  {
+   "text": "1456 C00",
+   "bbox": [
+    453,
+    398,
+    549,
+    411
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    427,
+    180,
+    439
+   ]
+  },
+  {
+   "text": "327 A00",
+   "bbox": [
+    465,
+    426,
+    549,
+    439
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    462,
+    164,
+    482
+   ]
+  },
+  {
+   "text": "16 850 Ft",
+   "bbox": [
+    423,
+    467,
+    550,
+    482
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    501,
+    120,
+    517
+   ]
+  },
+  {
+   "text": "16 850 Ft",
+   "bbox": [
+    441,
+    504,
+    549,
+    517
+   ]
+  },
+  {
+   "text": "2026.06.03.",
+   "bbox": [
+    24,
+    546,
+    145,
+    557
+   ]
+  },
+  {
+   "text": "09:52",
+   "bbox": [
+    494,
+    546,
+    549,
+    557
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0933/01380",
+   "bbox": [
+    24,
+    571,
+    266,
+    586
+   ]
+  },
+  {
+   "text": "AP A34960686",
+   "bbox": [
+    24,
+    602,
+    156,
+    613
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    202,
+    639,
+    368,
+    654
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  573,
+  698
+ ]
+}

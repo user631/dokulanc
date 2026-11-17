@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kis Péter",
+  "anyja_neve": "Antal Anikó",
+  "szuletesi_hely": "Baja",
+  "szuletesi_datum": "1992.11.08.",
+  "lakcim": "H-5514 Hátnádasd, Újmindszenti utca 217.",
+  "telefon": "06 1 462 7554",
+  "email": "kis.peter@outlook.com",
+  "adoazonosito_jel": "8459670554",
+  "taj_szam": "534 532 185",
+  "kelt": "Mátravár, 2026.08.12."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    362,
+    90,
+    880,
+    122
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    195,
+    289,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    248,
+    138,
+    262
+   ]
+  },
+  {
+   "text": "Kis Péter",
+   "bbox": [
+    426,
+    246,
+    510,
+    262
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    101,
+    300,
+    198,
+    317
+   ]
+  },
+  {
+   "text": "Antal Anikó",
+   "bbox": [
+    426,
+    295,
+    531,
+    311
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    350,
+    219,
+    368
+   ]
+  },
+  {
+   "text": "Baja",
+   "bbox": [
+    426,
+    348,
+    468,
+    367
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    401,
+    210,
+    415
+   ]
+  },
+  {
+   "text": "1992.11.08.",
+   "bbox": [
+    426,
+    403,
+    538,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    452,
+    164,
+    466
+   ]
+  },
+  {
+   "text": "H-5514 Hátnádasd, Újmindszenti utca 217.",
+   "bbox": [
+    426,
+    450,
+    827,
+    473
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    101,
+    503,
+    210,
+    517
+   ]
+  },
+  {
+   "text": "06 1 462 7554",
+   "bbox": [
+    426,
+    504,
+    554,
+    519
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    554,
+    193,
+    568
+   ]
+  },
+  {
+   "text": "kis.peter@outlook.com",
+   "bbox": [
+    426,
+    557,
+    641,
+    576
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    101,
+    605,
+    243,
+    623
+   ]
+  },
+  {
+   "text": "8459670554",
+   "bbox": [
+    426,
+    606,
+    536,
+    621
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    101,
+    656,
+    183,
+    670
+   ]
+  },
+  {
+   "text": "534 532 185",
+   "bbox": [
+    426,
+    656,
+    537,
+    671
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    733,
+    249,
+    753
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    777,
+    420,
+    795
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    822,
+    271,
+    836
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    134,
+    867,
+    430,
+    885
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    969,
+    131,
+    983
+   ]
+  },
+  {
+   "text": "Mátravár, 2026.08.12.",
+   "bbox": [
+    179,
+    965,
+    387,
+    985
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1019,
+    983,
+    1030
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SIMON DISZKONT KFT.",
+  "uzlet_cim": "H-5624 Szeged, Pécsi utca 233.",
+  "adoszam": "24740810-5-16",
+  "datum": "2025.10.12.",
+  "ido": "20:53",
+  "nyugtaszam": "1554/12546",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "5 717 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2216"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1472"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "591"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1195"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "243"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON DISZKONT KFT.",
+   "bbox": [
+    149,
+    33,
+    377,
+    47
+   ]
+  },
+  {
+   "text": "H-5624 Szeged, Pécsi utca 233.",
+   "bbox": [
+    113,
+    63,
+    413,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 24740810-5-16",
+   "bbox": [
+    153,
+    86,
+    373,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    127,
+    303,
+    142
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    168,
+    123,
+    181
+   ]
+  },
+  {
+   "text": "2216 A00",
+   "bbox": [
+    415,
+    168,
+    503,
+    181
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    196,
+    134,
+    209
+   ]
+  },
+  {
+   "text": "1472 B00",
+   "bbox": [
+    415,
+    196,
+    503,
+    209
+   ]
+  },
+  {
+   "text": "3 DB x 197",
+   "bbox": [
+    24,
+    224,
+    114,
+    235
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    246,
+    178,
+    262
+   ]
+  },
+  {
+   "text": "591 A00",
+   "bbox": [
+    426,
+    246,
+    503,
+    259
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    274,
+    134,
+    287
+   ]
+  },
+  {
+   "text": "1195 A00",
+   "bbox": [
+    415,
+    274,
+    503,
+    287
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    302,
+    167,
+    315
+   ]
+  },
+  {
+   "text": "243 B00",
+   "bbox": [
+    426,
+    302,
+    503,
+    315
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    338,
+    154,
+    358
+   ]
+  },
+  {
+   "text": "5 717 Ft",
+   "bbox": [
+    399,
+    342,
+    503,
+    358
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    376,
+    112,
+    393
+   ]
+  },
+  {
+   "text": "5 717 Ft",
+   "bbox": [
+    415,
+    380,
+    503,
+    393
+   ]
+  },
+  {
+   "text": "2025.10.12.",
+   "bbox": [
+    24,
+    423,
+    134,
+    434
+   ]
+  },
+  {
+   "text": "20:53",
+   "bbox": [
+    453,
+    423,
+    503,
+    434
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1554/12546",
+   "bbox": [
+    24,
+    448,
+    244,
+    464
+   ]
+  },
+  {
+   "text": "AP A36900104",
+   "bbox": [
+    24,
+    479,
+    144,
+    490
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    188,
+    515,
+    338,
+    531
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  527,
+  576
+ ]
+}

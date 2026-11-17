@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Budai Márta",
+  "anyja_neve": "Fehér Lilla",
+  "szuletesi_hely": "Magyarmellékvár",
+  "szuletesi_datum": "1954. 06. 04.",
+  "lakcim": "H-4100 Váchídháza, Felsőhetveni utca 182.",
+  "telefon": "+36 20 886 4578",
+  "email": "budai.marta@gmail.com",
+  "adoazonosito_jel": "8319302005",
+  "taj_szam": "671 649 519",
+  "kelt": "Györgyhalas, 2026. 09. 30."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    512,
+    87,
+    728,
+    121
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    82,
+    193,
+    293,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    94,
+    246,
+    131,
+    260
+   ]
+  },
+  {
+   "text": "Budai Márta",
+   "bbox": [
+    402,
+    242,
+    573,
+    263
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    298,
+    190,
+    316
+   ]
+  },
+  {
+   "text": "Fehér Lilla",
+   "bbox": [
+    402,
+    292,
+    552,
+    313
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    94,
+    350,
+    212,
+    368
+   ]
+  },
+  {
+   "text": "Magyarmellékvár",
+   "bbox": [
+    402,
+    347,
+    629,
+    372
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    94,
+    402,
+    204,
+    416
+   ]
+  },
+  {
+   "text": "1954. 06. 04.",
+   "bbox": [
+    402,
+    397,
+    584,
+    414
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    94,
+    454,
+    156,
+    468
+   ]
+  },
+  {
+   "text": "H-4100 Váchídháza, Felsőhetveni utca 182.",
+   "bbox": [
+    402,
+    446,
+    991,
+    469
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    94,
+    506,
+    204,
+    520
+   ]
+  },
+  {
+   "text": "+36 20 886 4578",
+   "bbox": [
+    402,
+    501,
+    644,
+    519
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    94,
+    558,
+    187,
+    572
+   ]
+  },
+  {
+   "text": "budai.marta@gmail.com",
+   "bbox": [
+    402,
+    554,
+    719,
+    579
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    610,
+    239,
+    628
+   ]
+  },
+  {
+   "text": "8319302005",
+   "bbox": [
+    402,
+    610,
+    583,
+    627
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    94,
+    662,
+    175,
+    676
+   ]
+  },
+  {
+   "text": "671 649 519",
+   "bbox": [
+    402,
+    662,
+    584,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    82,
+    741,
+    252,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    127,
+    784,
+    420,
+    802
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    127,
+    829,
+    261,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    874,
+    436,
+    892
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    82,
+    978,
+    120,
+    993
+   ]
+  },
+  {
+   "text": "Györgyhalas, 2026. 09. 30.",
+   "bbox": [
+    172,
+    975,
+    499,
+    996
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1027,
+    990,
+    1039
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

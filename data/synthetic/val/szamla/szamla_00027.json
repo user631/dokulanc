@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2025/00768",
+  "kiallitas_datuma": "2025. május 19.",
+  "teljesites_datuma": "2025. május 18.",
+  "fizetesi_hatarido": "2025. június 3.",
+  "elado_nev": "Balogh Kft.",
+  "elado_cim": "H-1671 Keresztkövesd, Győri utca 131.",
+  "elado_adoszam": "32518647-2-15",
+  "vevo_nev": "Tóth Trade Kft.",
+  "vevo_cim": "H-2687 Kismártonfalu, Törökszéki utca 99.",
+  "vevo_adoszam": "85967313-4-08",
+  "bankszamla": "13038483-70081367-86448600",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "16 170 Ft",
+  "afa_osszesen": "2 072 Ft",
+  "brutto_osszesen": "18 242 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "6 450",
+    "netto": "6 450",
+    "afa_kulcs": "5%",
+    "afa": "322",
+    "brutto": "6 772"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "4 karton",
+    "egysegar": "2 430",
+    "netto": "9 720",
+    "afa_kulcs": "18%",
+    "afa": "1 750",
+    "brutto": "11 470"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    416,
+    77,
+    823,
+    126
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/00768",
+   "bbox": [
+    432,
+    142,
+    808,
+    165
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    75,
+    221,
+    144,
+    241
+   ]
+  },
+  {
+   "text": "Tóth Trade Kft.",
+   "bbox": [
+    76,
+    257,
+    257,
+    277
+   ]
+  },
+  {
+   "text": "H-2687 Kismártonfalu, Törökszéki utca 99.",
+   "bbox": [
+    76,
+    291,
+    491,
+    313
+   ]
+  },
+  {
+   "text": "Adószám: 85967313-4-08",
+   "bbox": [
+    75,
+    321,
+    326,
+    339
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    221,
+    705,
+    241
+   ]
+  },
+  {
+   "text": "Balogh Kft.",
+   "bbox": [
+    630,
+    258,
+    763,
+    282
+   ]
+  },
+  {
+   "text": "H-1671 Keresztkövesd, Győri utca 131.",
+   "bbox": [
+    630,
+    291,
+    1011,
+    313
+   ]
+  },
+  {
+   "text": "Adószám: 32518647-2-15",
+   "bbox": [
+    629,
+    321,
+    880,
+    339
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    76,
+    388,
+    231,
+    404
+   ]
+  },
+  {
+   "text": "2025. május 19.",
+   "bbox": [
+    76,
+    417,
+    224,
+    438
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    388,
+    518,
+    408
+   ]
+  },
+  {
+   "text": "2025. május 18.",
+   "bbox": [
+    348,
+    417,
+    496,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    388,
+    779,
+    404
+   ]
+  },
+  {
+   "text": "2025. június 3.",
+   "bbox": [
+    620,
+    417,
+    757,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    388,
+    1013,
+    404
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    892,
+    417,
+    965,
+    434
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    466,
+    192,
+    486
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    468,
+    580,
+    486
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    466,
+    751,
+    486
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    466,
+    881,
+    482
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    463,
+    946,
+    482
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    463,
+    1050,
+    482
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1103,
+    466,
+    1164,
+    482
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    508,
+    549,
+    523
+   ]
+  },
+  {
+   "text": "6 450",
+   "bbox": [
+    704,
+    509,
+    750,
+    523
+   ]
+  },
+  {
+   "text": "6 450",
+   "bbox": [
+    835,
+    509,
+    881,
+    523
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    917,
+    509,
+    946,
+    523
+   ]
+  },
+  {
+   "text": "322",
+   "bbox": [
+    1019,
+    509,
+    1049,
+    523
+   ]
+  },
+  {
+   "text": "6 772",
+   "bbox": [
+    1118,
+    509,
+    1164,
+    523
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    76,
+    508,
+    303,
+    527
+   ]
+  },
+  {
+   "text": "4 karton",
+   "bbox": [
+    511,
+    543,
+    580,
+    558
+   ]
+  },
+  {
+   "text": "2 430",
+   "bbox": [
+    704,
+    544,
+    750,
+    558
+   ]
+  },
+  {
+   "text": "9 720",
+   "bbox": [
+    835,
+    544,
+    881,
+    558
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    544,
+    946,
+    558
+   ]
+  },
+  {
+   "text": "1 750",
+   "bbox": [
+    1003,
+    544,
+    1049,
+    558
+   ]
+  },
+  {
+   "text": "11 470",
+   "bbox": [
+    1108,
+    544,
+    1164,
+    558
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    75,
+    540,
+    197,
+    562
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    598,
+    834,
+    617
+   ]
+  },
+  {
+   "text": "16 170 Ft",
+   "bbox": [
+    1065,
+    600,
+    1164,
+    617
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    689,
+    630,
+    834,
+    653
+   ]
+  },
+  {
+   "text": "2 072 Ft",
+   "bbox": [
+    1078,
+    636,
+    1164,
+    653
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    601,
+    671,
+    834,
+    689
+   ]
+  },
+  {
+   "text": "18 242 Ft",
+   "bbox": [
+    1052,
+    672,
+    1164,
+    689
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 13038483-70081367-86448600",
+   "bbox": [
+    76,
+    736,
+    525,
+    753
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    76,
+    766,
+    617,
+    784
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    490,
+    1660,
+    749,
+    1677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

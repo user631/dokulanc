@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2024/06547",
+  "kiallitas_datuma": "2024-02-13",
+  "teljesites_datuma": "2024-02-13",
+  "fizetesi_hatarido": "2024-02-21",
+  "elado_nev": "Kiss Tech Kft.",
+  "elado_cim": "H-5518 Mindszenthida, Györgyfai tér 155.",
+  "elado_adoszam": "96968947-3-39",
+  "vevo_nev": "Horváth és Társa Zrt.",
+  "vevo_cim": "H-3544 Borsodkeresztdevecser, Tamásiházai tér 174.",
+  "vevo_adoszam": "21347762-2-51",
+  "bankszamla": "HU11 6119 3062 5043 7255 3049 1862",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "691 820 Ft",
+  "afa_osszesen": "181 566 Ft",
+  "brutto_osszesen": "873 386 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "23 160",
+    "netto": "277 920",
+    "afa_kulcs": "27%",
+    "afa": "75 038",
+    "brutto": "352 958"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 030",
+    "netto": "2 030",
+    "afa_kulcs": "18%",
+    "afa": "365",
+    "brutto": "2 395"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "9 870",
+    "netto": "39 480",
+    "afa_kulcs": "27%",
+    "afa": "10 660",
+    "brutto": "50 140"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "3 hó",
+    "egysegar": "115 570",
+    "netto": "346 710",
+    "afa_kulcs": "27%",
+    "afa": "93 612",
+    "brutto": "440 322"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 760",
+    "netto": "2 760",
+    "afa_kulcs": "27%",
+    "afa": "745",
+    "brutto": "3 505"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "22 920",
+    "netto": "22 920",
+    "afa_kulcs": "5%",
+    "afa": "1 146",
+    "brutto": "24 066"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    410,
+    103,
+    829,
+    135
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/06547",
+   "bbox": [
+    431,
+    160,
+    809,
+    179
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    95,
+    240,
+    174,
+    259
+   ]
+  },
+  {
+   "text": "Kiss Tech Kft.",
+   "bbox": [
+    95,
+    278,
+    267,
+    297
+   ]
+  },
+  {
+   "text": "H-5518 Mindszenthida, Györgyfai tér 155.",
+   "bbox": [
+    95,
+    314,
+    535,
+    336
+   ]
+  },
+  {
+   "text": "Adószám: 96968947-3-39",
+   "bbox": [
+    94,
+    346,
+    367,
+    363
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    240,
+    700,
+    259
+   ]
+  },
+  {
+   "text": "Horváth és Társa Zrt.",
+   "bbox": [
+    630,
+    278,
+    887,
+    297
+   ]
+  },
+  {
+   "text": "H-3544 Borsodkeresztdevecser, Tamásiházai",
+   "bbox": [
+    630,
+    314,
+    1110,
+    334
+   ]
+  },
+  {
+   "text": "tér 174.",
+   "bbox": [
+    630,
+    346,
+    711,
+    363
+   ]
+  },
+  {
+   "text": "Adószám: 21347762-2-51",
+   "bbox": [
+    629,
+    378,
+    902,
+    395
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    95,
+    447,
+    259,
+    463
+   ]
+  },
+  {
+   "text": "2024-02-13",
+   "bbox": [
+    95,
+    477,
+    215,
+    494
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    357,
+    447,
+    537,
+    467
+   ]
+  },
+  {
+   "text": "2024-02-13",
+   "bbox": [
+    357,
+    477,
+    477,
+    494
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    447,
+    788,
+    463
+   ]
+  },
+  {
+   "text": "2024-02-21",
+   "bbox": [
+    619,
+    477,
+    739,
+    494
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    881,
+    447,
+    1011,
+    463
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    881,
+    477,
+    962,
+    494
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    95,
+    529,
+    222,
+    549
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    530,
+    589,
+    549
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    650,
+    529,
+    747,
+    549
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    529,
+    872,
+    545
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    526,
+    935,
+    546
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    991,
+    526,
+    1035,
+    545
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1082,
+    529,
+    1145,
+    545
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    515,
+    573,
+    620,
+    588
+   ]
+  },
+  {
+   "text": "23 160",
+   "bbox": [
+    680,
+    573,
+    746,
+    588
+   ]
+  },
+  {
+   "text": "277 920",
+   "bbox": [
+    794,
+    573,
+    872,
+    588
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    573,
+    935,
+    588
+   ]
+  },
+  {
+   "text": "75 038",
+   "bbox": [
+    968,
+    573,
+    1034,
+    588
+   ]
+  },
+  {
+   "text": "352 958",
+   "bbox": [
+    1067,
+    573,
+    1145,
+    588
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    95,
+    573,
+    311,
+    592
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    515,
+    610,
+    593,
+    625
+   ]
+  },
+  {
+   "text": "2 030",
+   "bbox": [
+    692,
+    610,
+    746,
+    625
+   ]
+  },
+  {
+   "text": "2 030",
+   "bbox": [
+    818,
+    610,
+    872,
+    625
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    892,
+    610,
+    935,
+    625
+   ]
+  },
+  {
+   "text": "365",
+   "bbox": [
+    998,
+    610,
+    1034,
+    625
+   ]
+  },
+  {
+   "text": "2 395",
+   "bbox": [
+    1091,
+    610,
+    1145,
+    625
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    94,
+    606,
+    241,
+    629
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    515,
+    647,
+    564,
+    662
+   ]
+  },
+  {
+   "text": "9 870",
+   "bbox": [
+    692,
+    647,
+    746,
+    662
+   ]
+  },
+  {
+   "text": "39 480",
+   "bbox": [
+    806,
+    647,
+    872,
+    662
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    647,
+    935,
+    662
+   ]
+  },
+  {
+   "text": "10 660",
+   "bbox": [
+    968,
+    647,
+    1034,
+    662
+   ]
+  },
+  {
+   "text": "50 140",
+   "bbox": [
+    1079,
+    647,
+    1145,
+    662
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    95,
+    647,
+    391,
+    666
+   ]
+  },
+  {
+   "text": "3 hó",
+   "bbox": [
+    515,
+    684,
+    557,
+    699
+   ]
+  },
+  {
+   "text": "115 570",
+   "bbox": [
+    668,
+    684,
+    746,
+    699
+   ]
+  },
+  {
+   "text": "346 710",
+   "bbox": [
+    794,
+    684,
+    872,
+    699
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    684,
+    935,
+    699
+   ]
+  },
+  {
+   "text": "93 612",
+   "bbox": [
+    968,
+    684,
+    1034,
+    699
+   ]
+  },
+  {
+   "text": "440 322",
+   "bbox": [
+    1067,
+    684,
+    1145,
+    699
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    95,
+    684,
+    373,
+    703
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    721,
+    609,
+    740
+   ]
+  },
+  {
+   "text": "2 760",
+   "bbox": [
+    692,
+    721,
+    746,
+    736
+   ]
+  },
+  {
+   "text": "2 760",
+   "bbox": [
+    818,
+    721,
+    872,
+    736
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    721,
+    935,
+    736
+   ]
+  },
+  {
+   "text": "745",
+   "bbox": [
+    998,
+    721,
+    1034,
+    736
+   ]
+  },
+  {
+   "text": "3 505",
+   "bbox": [
+    1091,
+    721,
+    1145,
+    736
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    95,
+    721,
+    345,
+    740
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    515,
+    758,
+    556,
+    773
+   ]
+  },
+  {
+   "text": "22 920",
+   "bbox": [
+    680,
+    758,
+    746,
+    773
+   ]
+  },
+  {
+   "text": "22 920",
+   "bbox": [
+    806,
+    758,
+    872,
+    773
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    758,
+    935,
+    773
+   ]
+  },
+  {
+   "text": "1 146",
+   "bbox": [
+    980,
+    758,
+    1034,
+    773
+   ]
+  },
+  {
+   "text": "24 066",
+   "bbox": [
+    1079,
+    758,
+    1145,
+    773
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    95,
+    758,
+    358,
+    777
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    633,
+    815,
+    815,
+    833
+   ]
+  },
+  {
+   "text": "691 820 Ft",
+   "bbox": [
+    1025,
+    815,
+    1145,
+    833
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    643,
+    848,
+    815,
+    871
+   ]
+  },
+  {
+   "text": "181 566 Ft",
+   "bbox": [
+    1025,
+    853,
+    1145,
+    871
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    571,
+    889,
+    815,
+    909
+   ]
+  },
+  {
+   "text": "873 386 Ft",
+   "bbox": [
+    1024,
+    891,
+    1146,
+    909
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU11 6119 3062 5043 7255 3049 1862",
+   "bbox": [
+    95,
+    958,
+    698,
+    975
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    95,
+    990,
+    712,
+    1009
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

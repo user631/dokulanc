@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács László",
+  "email": "kovacs.laszlo@example.hu",
+  "telefon": "+36 70 934 2157",
+  "lakcim": "H-3485 Szolnok, Szabadság utca 215.",
+  "szuletesi_datum": "2002. október 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bakos Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Nagy és Társa Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Java",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács László",
+   "bbox": [
+    467,
+    100,
+    774,
+    136
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    561,
+    166,
+    679,
+    193
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    219,
+    161,
+    236
+   ]
+  },
+  {
+   "text": "kovacs.laszlo@example.hu",
+   "bbox": [
+    330,
+    219,
+    585,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    251,
+    173,
+    268
+   ]
+  },
+  {
+   "text": "+36 70 934 2157",
+   "bbox": [
+    330,
+    252,
+    495,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    168,
+    300
+   ]
+  },
+  {
+   "text": "H-3485 Szolnok, Szabadság utca 215.",
+   "bbox": [
+    330,
+    283,
+    692,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    261,
+    332
+   ]
+  },
+  {
+   "text": "2002. október 18.",
+   "bbox": [
+    330,
+    315,
+    501,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    330,
+    395
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    419,
+    237,
+    441
+   ]
+  },
+  {
+   "text": "rendszergazda – Bakos Tech Kft.",
+   "bbox": [
+    90,
+    446,
+    433,
+    468
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    487,
+    237,
+    509
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy és Társa Kft.",
+   "bbox": [
+    90,
+    514,
+    482,
+    536
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    568,
+    257,
+    593
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    618,
+    209,
+    634
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    644,
+    385,
+    666
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    669,
+    214,
+    691
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    712,
+    209,
+    728
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    738,
+    348,
+    760
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    763,
+    277,
+    785
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    818,
+    227,
+    843
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    867,
+    197,
+    888
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    918,
+    214,
+    943
+   ]
+  },
+  {
+   "text": "SQL, Java, Excel",
+   "bbox": [
+    90,
+    967,
+    240,
+    987
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

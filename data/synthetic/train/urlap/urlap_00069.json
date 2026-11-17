@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Éva",
+  "anyja_neve": "Varga Zoltán",
+  "szuletesi_hely": "Baja",
+  "szuletesi_datum": "1991.05.24.",
+  "lakcim": "H-6651 Ligetkőrös, Petőfi sándor utca 217.",
+  "telefon": "06 1 556 2386",
+  "email": "nagy.eva@citromail.hu",
+  "adoazonosito_jel": "8454334394",
+  "taj_szam": "256 214 509",
+  "kelt": "Mezőhídkövesd, 2025.05.08."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    397,
+    108,
+    843,
+    145
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    466,
+    165,
+    772,
+    183
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    219,
+    347,
+    242
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    271,
+    160,
+    288
+   ]
+  },
+  {
+   "text": "Nagy Éva",
+   "bbox": [
+    416,
+    263,
+    523,
+    297
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    326,
+    225,
+    345
+   ]
+  },
+  {
+   "text": "Varga Zoltán",
+   "bbox": [
+    416,
+    322,
+    565,
+    349
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    377,
+    248,
+    398
+   ]
+  },
+  {
+   "text": "Baja",
+   "bbox": [
+    416,
+    379,
+    468,
+    405
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    430,
+    238,
+    447
+   ]
+  },
+  {
+   "text": "1991.05.24.",
+   "bbox": [
+    416,
+    426,
+    546,
+    447
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    483,
+    188,
+    500
+   ]
+  },
+  {
+   "text": "H-6651 Ligetkőrös, Petőfi sándor utca 217.",
+   "bbox": [
+    416,
+    482,
+    915,
+    509
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    536,
+    239,
+    553
+   ]
+  },
+  {
+   "text": "06 1 556 2386",
+   "bbox": [
+    416,
+    536,
+    583,
+    556
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    589,
+    219,
+    606
+   ]
+  },
+  {
+   "text": "nagy.eva@citromail.hu",
+   "bbox": [
+    416,
+    587,
+    672,
+    614
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    642,
+    273,
+    663
+   ]
+  },
+  {
+   "text": "8454334394",
+   "bbox": [
+    416,
+    643,
+    566,
+    664
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    695,
+    210,
+    712
+   ]
+  },
+  {
+   "text": "256 214 509",
+   "bbox": [
+    416,
+    693,
+    561,
+    714
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    777,
+    298,
+    800
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    819,
+    466,
+    840
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    864,
+    299,
+    881
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    909,
+    484,
+    930
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    1014,
+    149,
+    1031
+   ]
+  },
+  {
+   "text": "Mezőhídkövesd, 2025.05.08.",
+   "bbox": [
+    197,
+    1013,
+    503,
+    1034
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    918,
+    1063,
+    967,
+    1077
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

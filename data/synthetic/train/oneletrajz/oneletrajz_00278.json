@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Papp István",
+  "email": "papp.istvan@citromail.hu",
+  "telefon": "+36 30 122 2169",
+  "lakcim": "H-3535 Dunamellékberény, Mindszentnémetii út 121.",
+  "szuletesi_datum": "1991. január 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vass Logisztika Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2020 – 2022"
+   },
+   {
+    "ceg": "Farkas Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2019 – 2020"
+   },
+   {
+    "ceg": "Nagy Tech Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Java",
+   "C#",
+   "Docker",
+   "SQL",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    104,
+    188,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    149,
+    93,
+    163
+   ]
+  },
+  {
+   "text": "papp.istvan@citromail.hu",
+   "bbox": [
+    40,
+    171,
+    241,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    203,
+    105,
+    217
+   ]
+  },
+  {
+   "text": "+36 30 122 2169",
+   "bbox": [
+    40,
+    226,
+    177,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    99,
+    271
+   ]
+  },
+  {
+   "text": "H-3535 Dunamellékberény,",
+   "bbox": [
+    40,
+    279,
+    256,
+    297
+   ]
+  },
+  {
+   "text": "Mindszentnémetii út 121.",
+   "bbox": [
+    40,
+    301,
+    240,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    333,
+    175,
+    347
+   ]
+  },
+  {
+   "text": "1991. január 11.",
+   "bbox": [
+    40,
+    356,
+    166,
+    373
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    414,
+    180,
+    435
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    456,
+    127,
+    474
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    508,
+    158,
+    529
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    550,
+    99,
+    568
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    577,
+    76,
+    590
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    603,
+    63,
+    616
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    628,
+    99,
+    642
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    655,
+    73,
+    670
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    680,
+    139,
+    698
+   ]
+  },
+  {
+   "text": "Papp István",
+   "bbox": [
+    450,
+    116,
+    692,
+    159
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    181,
+    649,
+    205
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    674,
+    267
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    450,
+    293,
+    558,
+    307
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Vass Logisztika Zrt.",
+   "bbox": [
+    450,
+    316,
+    863,
+    337
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    450,
+    357,
+    558,
+    371
+   ]
+  },
+  {
+   "text": "projektmenedzser – Farkas Tech Kft.",
+   "bbox": [
+    450,
+    380,
+    805,
+    401
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    421,
+    558,
+    435
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Tech Bt.",
+   "bbox": [
+    450,
+    444,
+    770,
+    465
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    495,
+    606,
+    519
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    545,
+    558,
+    559
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    568,
+    694,
+    589
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    592,
+    571,
+    612
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    450,
+    633,
+    558,
+    647
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    656,
+    687,
+    677
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    680,
+    622,
+    700
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

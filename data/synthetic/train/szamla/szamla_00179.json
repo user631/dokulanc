@@ -1,0 +1,633 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2025/06637",
+  "kiallitas_datuma": "2025. 06. 26.",
+  "teljesites_datuma": "2025. 06. 24.",
+  "fizetesi_hatarido": "2025. 07. 26.",
+  "elado_nev": "Bakos Szolgáltató Kft.",
+  "elado_cim": "H-6500 Mártonberény, Hódmezővásárhelyi utca 3.",
+  "elado_adoszam": "55026695-2-13",
+  "vevo_nev": "Tóth Trade Bt.",
+  "vevo_cim": "H-5157 Dunaújváros, Székapátii utca 227.",
+  "vevo_adoszam": "42881755-2-24",
+  "bankszamla": "HU93 7930 4597 0746 7608 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 817 900 Ft",
+  "afa_osszesen": "490 832 Ft",
+  "brutto_osszesen": "2 308 732 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "5 óra",
+    "egysegar": "10 520",
+    "netto": "52 600",
+    "afa_kulcs": "27%",
+    "afa": "14 202",
+    "brutto": "66 802"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "12 hó",
+    "egysegar": "103 900",
+    "netto": "1 246 800",
+    "afa_kulcs": "27%",
+    "afa": "336 636",
+    "brutto": "1 583 436"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "98 590",
+    "netto": "492 950",
+    "afa_kulcs": "27%",
+    "afa": "133 096",
+    "brutto": "626 046"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "5 oldal",
+    "egysegar": "5 110",
+    "netto": "25 550",
+    "afa_kulcs": "27%",
+    "afa": "6 898",
+    "brutto": "32 448"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BAKOS",
+   "bbox": [
+    146,
+    144,
+    230,
+    161
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    748,
+    127,
+    1132,
+    159
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/06637",
+   "bbox": [
+    865,
+    184,
+    1132,
+    202
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    108,
+    264,
+    181,
+    282
+   ]
+  },
+  {
+   "text": "Bakos Szolgáltató Kft.",
+   "bbox": [
+    108,
+    302,
+    357,
+    326
+   ]
+  },
+  {
+   "text": "H-6500 Mártonberény, Hódmezővásárhelyi utca",
+   "bbox": [
+    108,
+    337,
+    577,
+    359
+   ]
+  },
+  {
+   "text": "3.",
+   "bbox": [
+    108,
+    370,
+    126,
+    386
+   ]
+  },
+  {
+   "text": "Adószám: 55026695-2-13",
+   "bbox": [
+    108,
+    401,
+    360,
+    418
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    264,
+    696,
+    282
+   ]
+  },
+  {
+   "text": "Tóth Trade Bt.",
+   "bbox": [
+    630,
+    302,
+    798,
+    320
+   ]
+  },
+  {
+   "text": "H-5157 Dunaújváros, Székapátii utca 227.",
+   "bbox": [
+    630,
+    337,
+    1041,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 42881755-2-24",
+   "bbox": [
+    630,
+    369,
+    882,
+    386
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    108,
+    472,
+    288,
+    488
+   ]
+  },
+  {
+   "text": "2025. 06. 26.",
+   "bbox": [
+    408,
+    472,
+    534,
+    488
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    108,
+    506,
+    297,
+    527
+   ]
+  },
+  {
+   "text": "2025. 06. 24.",
+   "bbox": [
+    408,
+    506,
+    534,
+    522
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    108,
+    540,
+    289,
+    556
+   ]
+  },
+  {
+   "text": "2025. 07. 26.",
+   "bbox": [
+    408,
+    540,
+    534,
+    556
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    108,
+    574,
+    246,
+    590
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    407,
+    573,
+    516,
+    595
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    108,
+    619,
+    215,
+    637
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    619,
+    586,
+    637
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    619,
+    742,
+    637
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    619,
+    865,
+    633
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    615,
+    927,
+    633
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    981,
+    615,
+    1024,
+    633
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1072,
+    619,
+    1132,
+    633
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    517,
+    661,
+    561,
+    676
+   ]
+  },
+  {
+   "text": "10 520",
+   "bbox": [
+    682,
+    662,
+    742,
+    676
+   ]
+  },
+  {
+   "text": "52 600",
+   "bbox": [
+    805,
+    662,
+    865,
+    676
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    662,
+    927,
+    676
+   ]
+  },
+  {
+   "text": "14 202",
+   "bbox": [
+    964,
+    662,
+    1024,
+    676
+   ]
+  },
+  {
+   "text": "66 802",
+   "bbox": [
+    1072,
+    662,
+    1132,
+    676
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    108,
+    661,
+    342,
+    680
+   ]
+  },
+  {
+   "text": "12 hó",
+   "bbox": [
+    517,
+    698,
+    566,
+    713
+   ]
+  },
+  {
+   "text": "103 900",
+   "bbox": [
+    671,
+    699,
+    742,
+    713
+   ]
+  },
+  {
+   "text": "1 246 800",
+   "bbox": [
+    778,
+    699,
+    865,
+    713
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    699,
+    927,
+    713
+   ]
+  },
+  {
+   "text": "336 636",
+   "bbox": [
+    953,
+    699,
+    1024,
+    713
+   ]
+  },
+  {
+   "text": "1 583 436",
+   "bbox": [
+    1045,
+    699,
+    1132,
+    713
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    108,
+    698,
+    349,
+    717
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    517,
+    735,
+    602,
+    750
+   ]
+  },
+  {
+   "text": "98 590",
+   "bbox": [
+    682,
+    736,
+    742,
+    750
+   ]
+  },
+  {
+   "text": "492 950",
+   "bbox": [
+    794,
+    736,
+    865,
+    750
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    736,
+    927,
+    750
+   ]
+  },
+  {
+   "text": "133 096",
+   "bbox": [
+    953,
+    736,
+    1024,
+    750
+   ]
+  },
+  {
+   "text": "626 046",
+   "bbox": [
+    1061,
+    736,
+    1132,
+    750
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    108,
+    735,
+    292,
+    754
+   ]
+  },
+  {
+   "text": "5 oldal",
+   "bbox": [
+    517,
+    772,
+    576,
+    787
+   ]
+  },
+  {
+   "text": "5 110",
+   "bbox": [
+    693,
+    773,
+    742,
+    787
+   ]
+  },
+  {
+   "text": "25 550",
+   "bbox": [
+    805,
+    773,
+    865,
+    787
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    773,
+    927,
+    787
+   ]
+  },
+  {
+   "text": "6 898",
+   "bbox": [
+    975,
+    773,
+    1024,
+    787
+   ]
+  },
+  {
+   "text": "32 448",
+   "bbox": [
+    1072,
+    773,
+    1132,
+    787
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    108,
+    772,
+    340,
+    791
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    643,
+    830,
+    802,
+    848
+   ]
+  },
+  {
+   "text": "1 817 900 Ft",
+   "bbox": [
+    1002,
+    831,
+    1132,
+    848
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    650,
+    863,
+    802,
+    886
+   ]
+  },
+  {
+   "text": "490 832 Ft",
+   "bbox": [
+    1021,
+    869,
+    1132,
+    886
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    612,
+    906,
+    802,
+    929
+   ]
+  },
+  {
+   "text": "2 308 732 Ft",
+   "bbox": [
+    1000,
+    907,
+    1133,
+    924
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU93 7930 4597 0746 7608 0000 0000",
+   "bbox": [
+    108,
+    974,
+    661,
+    990
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    483,
+    1628,
+    757,
+    1645
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

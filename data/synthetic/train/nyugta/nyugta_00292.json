@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH DISZKONT KFT.",
+  "uzlet_cim": "H-5682 Fürdővég, Tapolcanémetii utca 219.",
+  "adoszam": "76272918-2-51",
+  "datum": "2026.10.31.",
+  "ido": "20:50",
+  "nyugtaszam": "7031/45412",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "6 831 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "346"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1212"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2200"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "161"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "447"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "996"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1469"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH DISZKONT KFT.",
+   "bbox": [
+    140,
+    30,
+    434,
+    50
+   ]
+  },
+  {
+   "text": "H-5682 Fürdővég, Tapolcanémetii utca 219.",
+   "bbox": [
+    41,
+    68,
+    533,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 76272918-2-51",
+   "bbox": [
+    155,
+    91,
+    419,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    238,
+    137,
+    336,
+    152
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    180,
+    194,
+    193
+   ]
+  },
+  {
+   "text": "346 A00",
+   "bbox": [
+    460,
+    179,
+    551,
+    193
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    209,
+    154,
+    223
+   ]
+  },
+  {
+   "text": "1212 B00",
+   "bbox": [
+    447,
+    209,
+    551,
+    223
+   ]
+  },
+  {
+   "text": "2 DB x 1100",
+   "bbox": [
+    24,
+    238,
+    145,
+    250
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    263,
+    180,
+    277
+   ]
+  },
+  {
+   "text": "2200 B00",
+   "bbox": [
+    447,
+    263,
+    551,
+    277
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    293,
+    206,
+    310
+   ]
+  },
+  {
+   "text": "161 C00",
+   "bbox": [
+    460,
+    293,
+    551,
+    307
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    323,
+    167,
+    340
+   ]
+  },
+  {
+   "text": "447 A00",
+   "bbox": [
+    460,
+    323,
+    551,
+    337
+   ]
+  },
+  {
+   "text": "3 DB x 332",
+   "bbox": [
+    24,
+    352,
+    134,
+    364
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    377,
+    206,
+    391
+   ]
+  },
+  {
+   "text": "996 A00",
+   "bbox": [
+    460,
+    377,
+    551,
+    391
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    408,
+    154,
+    421
+   ]
+  },
+  {
+   "text": "1469 A00",
+   "bbox": [
+    447,
+    407,
+    551,
+    421
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    445,
+    184,
+    466
+   ]
+  },
+  {
+   "text": "6 831 Ft",
+   "bbox": [
+    423,
+    450,
+    551,
+    466
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    486,
+    128,
+    503
+   ]
+  },
+  {
+   "text": "6 831 Ft",
+   "bbox": [
+    447,
+    489,
+    551,
+    503
+   ]
+  },
+  {
+   "text": "2026.10.31.",
+   "bbox": [
+    24,
+    532,
+    156,
+    545
+   ]
+  },
+  {
+   "text": "20:50",
+   "bbox": [
+    491,
+    532,
+    551,
+    545
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7031/45412",
+   "bbox": [
+    24,
+    559,
+    288,
+    577
+   ]
+  },
+  {
+   "text": "AP A21658331",
+   "bbox": [
+    24,
+    592,
+    168,
+    605
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    222,
+    633,
+    352,
+    648
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  575,
+  692
+ ]
+}

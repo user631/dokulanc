@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kelemen Emese",
+  "anyja_neve": "Varga Gergely",
+  "szuletesi_hely": "Vác",
+  "szuletesi_datum": "1967.01.15.",
+  "lakcim": "H-8158 Bakonyvárad, Hajdúszéki tér 139.",
+  "telefon": "06 1 339 3490",
+  "email": "kelemen.emese@example.hu",
+  "adoazonosito_jel": "8365386513",
+  "taj_szam": "378 675 969",
+  "kelt": "Tamásivár, 2026.03.20."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    391,
+    88,
+    849,
+    120
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    193,
+    301,
+    214
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    246,
+    137,
+    260
+   ]
+  },
+  {
+   "text": "Kelemen Emese",
+   "bbox": [
+    405,
+    246,
+    554,
+    262
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    298,
+    193,
+    315
+   ]
+  },
+  {
+   "text": "Varga Gergely",
+   "bbox": [
+    404,
+    297,
+    538,
+    318
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    348,
+    212,
+    366
+   ]
+  },
+  {
+   "text": "Vác",
+   "bbox": [
+    404,
+    351,
+    440,
+    366
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    399,
+    204,
+    413
+   ]
+  },
+  {
+   "text": "1967.01.15.",
+   "bbox": [
+    405,
+    398,
+    509,
+    417
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    450,
+    164,
+    464
+   ]
+  },
+  {
+   "text": "H-8158 Bakonyvárad, Hajdúszéki tér 139.",
+   "bbox": [
+    405,
+    446,
+    792,
+    467
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    501,
+    207,
+    515
+   ]
+  },
+  {
+   "text": "06 1 339 3490",
+   "bbox": [
+    405,
+    499,
+    539,
+    518
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    552,
+    192,
+    566
+   ]
+  },
+  {
+   "text": "kelemen.emese@example.hu",
+   "bbox": [
+    405,
+    550,
+    676,
+    571
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    603,
+    237,
+    621
+   ]
+  },
+  {
+   "text": "8365386513",
+   "bbox": [
+    405,
+    606,
+    522,
+    625
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    654,
+    182,
+    668
+   ]
+  },
+  {
+   "text": "378 675 969",
+   "bbox": [
+    405,
+    656,
+    521,
+    675
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    731,
+    262,
+    752
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    775,
+    409,
+    793
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    820,
+    265,
+    834
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    865,
+    423,
+    883
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    967,
+    127,
+    981
+   ]
+  },
+  {
+   "text": "Tamásivár, 2026.03.20.",
+   "bbox": [
+    177,
+    963,
+    404,
+    983
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    941,
+    1015,
+    985,
+    1027
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

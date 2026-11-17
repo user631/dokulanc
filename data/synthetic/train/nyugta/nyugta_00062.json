@@ -1,0 +1,330 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MAGYAR ÉLELMISZER KFT.",
+  "uzlet_cim": "H-5032 Drávaszékvára, Mosonmagyaróvári utca 115.",
+  "adoszam": "27854606-2-03",
+  "datum": "2024.11.10.",
+  "ido": "09:47",
+  "nyugtaszam": "0722/75688",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 188 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "916"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1818"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "4422"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "418"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1827"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1193"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "594"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MAGYAR ÉLELMISZER KFT.",
+   "bbox": [
+    152,
+    28,
+    438,
+    48
+   ]
+  },
+  {
+   "text": "H-5032 Drávaszékvára, Mosonmagyaróvári utca 115.",
+   "bbox": [
+    31,
+    64,
+    559,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 27854606-2-03",
+   "bbox": [
+    174,
+    88,
+    416,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    133,
+    338,
+    150
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    177,
+    168,
+    191
+   ]
+  },
+  {
+   "text": "916 C00",
+   "bbox": [
+    483,
+    177,
+    567,
+    191
+   ]
+  },
+  {
+   "text": "3 DB x 606",
+   "bbox": [
+    24,
+    207,
+    124,
+    219
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    231,
+    216,
+    245
+   ]
+  },
+  {
+   "text": "1818 C00",
+   "bbox": [
+    471,
+    231,
+    567,
+    245
+   ]
+  },
+  {
+   "text": "3 DB x 1474",
+   "bbox": [
+    24,
+    261,
+    134,
+    273
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    285,
+    180,
+    299
+   ]
+  },
+  {
+   "text": "4422 B00",
+   "bbox": [
+    471,
+    285,
+    567,
+    299
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    315,
+    192,
+    329
+   ]
+  },
+  {
+   "text": "418 A00",
+   "bbox": [
+    483,
+    315,
+    567,
+    329
+   ]
+  },
+  {
+   "text": "3 DB x 609",
+   "bbox": [
+    24,
+    345,
+    124,
+    357
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    369,
+    132,
+    383
+   ]
+  },
+  {
+   "text": "1827 A00",
+   "bbox": [
+    471,
+    369,
+    567,
+    383
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    399,
+    144,
+    413
+   ]
+  },
+  {
+   "text": "1193 C00",
+   "bbox": [
+    471,
+    399,
+    567,
+    413
+   ]
+  },
+  {
+   "text": "3 DB x 198",
+   "bbox": [
+    24,
+    429,
+    124,
+    441
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    453,
+    192,
+    471
+   ]
+  },
+  {
+   "text": "594 C00",
+   "bbox": [
+    483,
+    453,
+    567,
+    467
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    491,
+    150,
+    512
+   ]
+  },
+  {
+   "text": "11 188 Ft",
+   "bbox": [
+    441,
+    495,
+    567,
+    512
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    530,
+    156,
+    549
+   ]
+  },
+  {
+   "text": "11 188 Ft",
+   "bbox": [
+    459,
+    535,
+    567,
+    549
+   ]
+  },
+  {
+   "text": "2024.11.10.",
+   "bbox": [
+    24,
+    578,
+    145,
+    591
+   ]
+  },
+  {
+   "text": "09:47",
+   "bbox": [
+    512,
+    578,
+    567,
+    591
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0722/75688",
+   "bbox": [
+    24,
+    604,
+    266,
+    623
+   ]
+  },
+  {
+   "text": "AP A92776345",
+   "bbox": [
+    24,
+    638,
+    156,
+    651
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    235,
+    677,
+    355,
+    694
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  591,
+  740
+ ]
+}

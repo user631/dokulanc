@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ DISZKONT KFT.",
+  "uzlet_cim": "H-5584 Békéscsaba, Dózsa györgy utca 215.",
+  "adoszam": "17808776-2-42",
+  "datum": "2026.01.13.",
+  "ido": "18:57",
+  "nyugtaszam": "0813/28487",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 169 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "676"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "172"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "761"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2560"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ DISZKONT KFT.",
+   "bbox": [
+    194,
+    31,
+    441,
+    49
+   ]
+  },
+  {
+   "text": "H-5584 Békéscsaba, Dózsa györgy utca 215.",
+   "bbox": [
+    92,
+    65,
+    543,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 17808776-2-42",
+   "bbox": [
+    197,
+    87,
+    439,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    275,
+    130,
+    361,
+    144
+   ]
+  },
+  {
+   "text": "2 DB x 338",
+   "bbox": [
+    24,
+    170,
+    124,
+    181
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    193,
+    180,
+    205
+   ]
+  },
+  {
+   "text": "676 C00",
+   "bbox": [
+    529,
+    192,
+    613,
+    205
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    220,
+    192,
+    236
+   ]
+  },
+  {
+   "text": "172 B00",
+   "bbox": [
+    529,
+    220,
+    613,
+    233
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    248,
+    216,
+    261
+   ]
+  },
+  {
+   "text": "761 A00",
+   "bbox": [
+    529,
+    248,
+    613,
+    261
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    276,
+    132,
+    289
+   ]
+  },
+  {
+   "text": "2560 C00",
+   "bbox": [
+    517,
+    276,
+    613,
+    289
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    312,
+    164,
+    332
+   ]
+  },
+  {
+   "text": "4 169 Ft",
+   "bbox": [
+    501,
+    317,
+    614,
+    332
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    351,
+    120,
+    367
+   ]
+  },
+  {
+   "text": "4 169 Ft",
+   "bbox": [
+    517,
+    354,
+    613,
+    367
+   ]
+  },
+  {
+   "text": "2026.01.13.",
+   "bbox": [
+    24,
+    396,
+    145,
+    407
+   ]
+  },
+  {
+   "text": "18:57",
+   "bbox": [
+    558,
+    396,
+    613,
+    407
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0813/28487",
+   "bbox": [
+    24,
+    421,
+    266,
+    436
+   ]
+  },
+  {
+   "text": "AP A95821778",
+   "bbox": [
+    24,
+    452,
+    156,
+    463
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    234,
+    489,
+    400,
+    504
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  637,
+  548
+ ]
+}

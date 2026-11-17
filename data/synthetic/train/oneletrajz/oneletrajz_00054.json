@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Hegedűs Zsolt",
+  "email": "hegedus.zsolt@citromail.hu",
+  "telefon": "+36 70 456 1732",
+  "lakcim": "H-7537 Hajdúháthida, Dózsa györgy utca 164.",
+  "szuletesi_datum": "1975. július 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1993 – 1997"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1989 – 1993"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szücs és Társa Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "ceg": "Oláh Szolgáltató Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "ceg": "Németh Consulting Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "1997 – 1999"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Java",
+   "Linux",
+   "JavaScript",
+   "Git",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Hegedűs Zsolt",
+   "bbox": [
+    424,
+    91,
+    816,
+    141
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    491,
+    162,
+    748,
+    189
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    181,
+    235
+   ]
+  },
+  {
+   "text": "hegedus.zsolt@citromail.hu",
+   "bbox": [
+    330,
+    217,
+    649,
+    240
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    195,
+    268
+   ]
+  },
+  {
+   "text": "+36 70 456 1732",
+   "bbox": [
+    330,
+    251,
+    538,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    190,
+    301
+   ]
+  },
+  {
+   "text": "H-7537 Hajdúháthida, Dózsa györgy utca 164.",
+   "bbox": [
+    330,
+    282,
+    873,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    316,
+    304,
+    334
+   ]
+  },
+  {
+   "text": "1975. július 14.",
+   "bbox": [
+    330,
+    315,
+    514,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    394,
+    396
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    423,
+    241,
+    440
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szücs és Társa Zrt.",
+   "bbox": [
+    90,
+    448,
+    544,
+    468
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    90,
+    493,
+    241,
+    510
+   ]
+  },
+  {
+   "text": "projektmenedzser – Oláh Szolgáltató Kft.",
+   "bbox": [
+    90,
+    518,
+    644,
+    543
+   ]
+  },
+  {
+   "text": "1997 – 1999",
+   "bbox": [
+    90,
+    563,
+    241,
+    580
+   ]
+  },
+  {
+   "text": "rendszergazda – Németh Consulting Zrt.",
+   "bbox": [
+    90,
+    588,
+    633,
+    613
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    642,
+    294,
+    669
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    696,
+    241,
+    713
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    722,
+    351,
+    746
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    748,
+    274,
+    772
+   ]
+  },
+  {
+   "text": "1989 – 1993",
+   "bbox": [
+    90,
+    793,
+    241,
+    810
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    818,
+    411,
+    843
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    846,
+    316,
+    869
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    899,
+    260,
+    926
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    952,
+    238,
+    975
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1001,
+    250,
+    1028
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, Java, Linux, JavaScript, Git, projektmenedzsment",
+   "bbox": [
+    90,
+    1053,
+    970,
+    1077
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

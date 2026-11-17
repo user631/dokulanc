@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HORVÁTH MARKET BT.",
+  "uzlet_cim": "H-1715 Békésgyörgynémeti, Mezőháti utca 63.",
+  "adoszam": "46978783-2-42",
+  "datum": "2024.01.13.",
+  "ido": "18:40",
+  "nyugtaszam": "1558/46677",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "1 150 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "892"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "258"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH MARKET BT.",
+   "bbox": [
+    164,
+    31,
+    452,
+    52
+   ]
+  },
+  {
+   "text": "H-1715 Békésgyörgynémeti, Mezőháti utca 63.",
+   "bbox": [
+    28,
+    71,
+    587,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46978783-2-42",
+   "bbox": [
+    165,
+    96,
+    451,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    144,
+    360,
+    160
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    187,
+    248,
+    202
+   ]
+  },
+  {
+   "text": "892 B00",
+   "bbox": [
+    494,
+    187,
+    592,
+    202
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    220,
+    207,
+    234
+   ]
+  },
+  {
+   "text": "258 C00",
+   "bbox": [
+    494,
+    219,
+    592,
+    234
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    260,
+    194,
+    282
+   ]
+  },
+  {
+   "text": "1 150 Ft",
+   "bbox": [
+    456,
+    265,
+    592,
+    282
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    301,
+    179,
+    320
+   ]
+  },
+  {
+   "text": "1 150 Ft",
+   "bbox": [
+    480,
+    305,
+    592,
+    320
+   ]
+  },
+  {
+   "text": "2024.01.13.",
+   "bbox": [
+    24,
+    351,
+    167,
+    365
+   ]
+  },
+  {
+   "text": "18:40",
+   "bbox": [
+    527,
+    351,
+    592,
+    365
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1558/46677",
+   "bbox": [
+    24,
+    380,
+    310,
+    399
+   ]
+  },
+  {
+   "text": "AP A46375324",
+   "bbox": [
+    24,
+    415,
+    180,
+    429
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    238,
+    456,
+    378,
+    474
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  616,
+  518
+ ]
+}

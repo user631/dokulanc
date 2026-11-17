@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fehér Erzsébet",
+  "email": "feher.erzsebet@freemail.hu",
+  "telefon": "06 1 548 3113",
+  "lakcim": "H-4252 Bácshátfalu, Szegedi utca 6.",
+  "szuletesi_datum": "1975.11.13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1994 – 1998"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2004 – 2005"
+   },
+   {
+    "ceg": "Molnár Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "ceg": "Pál Logisztika Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "1998 – 2001"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "SQL",
+   "C#",
+   "prezentáció",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Fehér Erzsébet",
+   "bbox": [
+    458,
+    103,
+    781,
+    136
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    522,
+    170,
+    718,
+    192
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    153,
+    235
+   ]
+  },
+  {
+   "text": "feher.erzsebet@freemail.hu",
+   "bbox": [
+    330,
+    221,
+    568,
+    239
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    165,
+    264
+   ]
+  },
+  {
+   "text": "06 1 548 3113",
+   "bbox": [
+    330,
+    250,
+    455,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    163,
+    293
+   ]
+  },
+  {
+   "text": "H-4252 Bácshátfalu, Szegedi utca 6.",
+   "bbox": [
+    330,
+    279,
+    645,
+    297
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    307,
+    243,
+    322
+   ]
+  },
+  {
+   "text": "1975.11.13.",
+   "bbox": [
+    330,
+    308,
+    433,
+    322
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    357,
+    309,
+    379
+   ]
+  },
+  {
+   "text": "2004 – 2005",
+   "bbox": [
+    90,
+    406,
+    199,
+    420
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó Szolgáltató Kft.",
+   "bbox": [
+    90,
+    429,
+    442,
+    448
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    468,
+    199,
+    482
+   ]
+  },
+  {
+   "text": "rendszergazda – Molnár Bt.",
+   "bbox": [
+    90,
+    491,
+    351,
+    510
+   ]
+  },
+  {
+   "text": "1998 – 2001",
+   "bbox": [
+    90,
+    530,
+    199,
+    544
+   ]
+  },
+  {
+   "text": "projektmenedzser – Pál Logisztika Kft.",
+   "bbox": [
+    90,
+    553,
+    458,
+    572
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    602,
+    238,
+    624
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    90,
+    651,
+    199,
+    665
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    674,
+    588,
+    693
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    697,
+    300,
+    711
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    90,
+    736,
+    199,
+    750
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    759,
+    335,
+    774
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    782,
+    164,
+    800
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    831,
+    214,
+    853
+   ]
+  },
+  {
+   "text": "francia (A2), angol (B2)",
+   "bbox": [
+    90,
+    880,
+    288,
+    898
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    925,
+    211,
+    947
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, SQL, C#, prezentáció, Python",
+   "bbox": [
+    90,
+    974,
+    475,
+    992
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Fazekas Tamás",
+  "anyja_neve": "Gál Margit",
+  "szuletesi_hely": "Györgybánya",
+  "szuletesi_datum": "1960. 01. 03.",
+  "lakcim": "H-4636 Kaposvár, Pilisfürdői utca 139.",
+  "telefon": "+36 70 569 9255",
+  "email": "fazekas.tamas@example.hu",
+  "adoazonosito_jel": "8339692976",
+  "taj_szam": "635 711 759",
+  "kelt": "Mosonmagyaróvár, 2026. 02. 19."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    364,
+    79,
+    877,
+    109
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    479,
+    136,
+    761,
+    151
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    189,
+    275,
+    209
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    246,
+    130,
+    259
+   ]
+  },
+  {
+   "text": "Fazekas Tamás",
+   "bbox": [
+    393,
+    246,
+    584,
+    268
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    299,
+    190,
+    316
+   ]
+  },
+  {
+   "text": "Gál Margit",
+   "bbox": [
+    393,
+    296,
+    530,
+    325
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    351,
+    211,
+    369
+   ]
+  },
+  {
+   "text": "Györgybánya",
+   "bbox": [
+    393,
+    352,
+    560,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    404,
+    203,
+    418
+   ]
+  },
+  {
+   "text": "1960. 01. 03.",
+   "bbox": [
+    393,
+    405,
+    575,
+    421
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    457,
+    154,
+    471
+   ]
+  },
+  {
+   "text": "H-4636 Kaposvár, Pilisfürdői utca 139.",
+   "bbox": [
+    393,
+    453,
+    907,
+    482
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    510,
+    203,
+    524
+   ]
+  },
+  {
+   "text": "+36 70 569 9255",
+   "bbox": [
+    393,
+    511,
+    637,
+    530
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    563,
+    184,
+    577
+   ]
+  },
+  {
+   "text": "fazekas.tamas@example.hu",
+   "bbox": [
+    393,
+    559,
+    730,
+    588
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    616,
+    239,
+    634
+   ]
+  },
+  {
+   "text": "8339692976",
+   "bbox": [
+    393,
+    620,
+    573,
+    639
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    670,
+    173,
+    683
+   ]
+  },
+  {
+   "text": "635 711 759",
+   "bbox": [
+    393,
+    669,
+    575,
+    686
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    747,
+    235,
+    767
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    793,
+    416,
+    811
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    838,
+    261,
+    852
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    883,
+    432,
+    901
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    985,
+    120,
+    999
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár, 2026. 02. 19.",
+   "bbox": [
+    171,
+    989,
+    576,
+    1015
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    946,
+    1034,
+    991,
+    1046
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

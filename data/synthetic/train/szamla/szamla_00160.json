@@ -1,0 +1,707 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/00256",
+  "kiallitas_datuma": "2024-07-25",
+  "teljesites_datuma": "2024-07-23",
+  "fizetesi_hatarido": "2024-08-02",
+  "elado_nev": "Balla Logisztika Kft.",
+  "elado_cim": "H-6980 Szerbmellékváros, Balatontamásii utca 134.",
+  "elado_adoszam": "99389042-2-25",
+  "vevo_nev": "Váradi Logisztika Bt.",
+  "vevo_cim": "H-8101 Pusztakereszthalas, Ceglédi út 231.",
+  "vevo_adoszam": "84429476-2-16",
+  "bankszamla": "04625272-96537837-46068871",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "114 990 Ft",
+  "afa_osszesen": "31 048 Ft",
+  "brutto_osszesen": "146 038 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "12 750",
+    "netto": "25 500",
+    "afa_kulcs": "27%",
+    "afa": "6 885",
+    "brutto": "32 385"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "31 030",
+    "netto": "31 030",
+    "afa_kulcs": "27%",
+    "afa": "8 378",
+    "brutto": "39 408"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "5 db",
+    "egysegar": "3 280",
+    "netto": "16 400",
+    "afa_kulcs": "27%",
+    "afa": "4 428",
+    "brutto": "20 828"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "4 370",
+    "netto": "21 850",
+    "afa_kulcs": "27%",
+    "afa": "5 900",
+    "brutto": "27 750"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "20 210",
+    "netto": "20 210",
+    "afa_kulcs": "27%",
+    "afa": "5 457",
+    "brutto": "25 667"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    532,
+    95,
+    708,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/00256",
+   "bbox": [
+    409,
+    151,
+    830,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    86,
+    231,
+    173,
+    252
+   ]
+  },
+  {
+   "text": "Balla Logisztika Kft.",
+   "bbox": [
+    86,
+    269,
+    368,
+    294
+   ]
+  },
+  {
+   "text": "H-6980 Szerbmellékváros, Balatontamásii",
+   "bbox": [
+    86,
+    303,
+    574,
+    326
+   ]
+  },
+  {
+   "text": "utca 134.",
+   "bbox": [
+    86,
+    336,
+    197,
+    353
+   ]
+  },
+  {
+   "text": "Adószám: 99389042-2-25",
+   "bbox": [
+    86,
+    365,
+    393,
+    384
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    231,
+    709,
+    252
+   ]
+  },
+  {
+   "text": "Váradi Logisztika Bt.",
+   "bbox": [
+    630,
+    268,
+    921,
+    294
+   ]
+  },
+  {
+   "text": "H-8101 Pusztakereszthalas, Ceglédi út 231.",
+   "bbox": [
+    630,
+    303,
+    1140,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 84429476-2-16",
+   "bbox": [
+    630,
+    334,
+    937,
+    353
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    86,
+    435,
+    303,
+    453
+   ]
+  },
+  {
+   "text": "2024-07-25",
+   "bbox": [
+    386,
+    436,
+    526,
+    453
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    86,
+    468,
+    323,
+    491
+   ]
+  },
+  {
+   "text": "2024-07-23",
+   "bbox": [
+    386,
+    469,
+    526,
+    486
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    86,
+    501,
+    309,
+    519
+   ]
+  },
+  {
+   "text": "2024-08-02",
+   "bbox": [
+    386,
+    502,
+    526,
+    519
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    86,
+    534,
+    258,
+    552
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    386,
+    533,
+    493,
+    557
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    577,
+    222,
+    598
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    579,
+    593,
+    598
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    645,
+    577,
+    748,
+    598
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    814,
+    577,
+    876,
+    594
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    870,
+    573,
+    940,
+    594
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    996,
+    573,
+    1041,
+    594
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1083,
+    577,
+    1154,
+    594
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    513,
+    620,
+    557,
+    636
+   ]
+  },
+  {
+   "text": "12 750",
+   "bbox": [
+    676,
+    621,
+    748,
+    636
+   ]
+  },
+  {
+   "text": "25 500",
+   "bbox": [
+    804,
+    621,
+    876,
+    636
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    621,
+    940,
+    636
+   ]
+  },
+  {
+   "text": "6 885",
+   "bbox": [
+    982,
+    621,
+    1041,
+    636
+   ]
+  },
+  {
+   "text": "32 385",
+   "bbox": [
+    1082,
+    621,
+    1154,
+    636
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    86,
+    619,
+    214,
+    640
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    513,
+    656,
+    610,
+    672
+   ]
+  },
+  {
+   "text": "31 030",
+   "bbox": [
+    676,
+    657,
+    748,
+    672
+   ]
+  },
+  {
+   "text": "31 030",
+   "bbox": [
+    804,
+    657,
+    876,
+    672
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    657,
+    940,
+    672
+   ]
+  },
+  {
+   "text": "8 378",
+   "bbox": [
+    982,
+    657,
+    1041,
+    672
+   ]
+  },
+  {
+   "text": "39 408",
+   "bbox": [
+    1082,
+    657,
+    1154,
+    672
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    86,
+    655,
+    307,
+    676
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    513,
+    692,
+    557,
+    708
+   ]
+  },
+  {
+   "text": "3 280",
+   "bbox": [
+    689,
+    693,
+    748,
+    708
+   ]
+  },
+  {
+   "text": "16 400",
+   "bbox": [
+    804,
+    693,
+    876,
+    708
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    693,
+    940,
+    708
+   ]
+  },
+  {
+   "text": "4 428",
+   "bbox": [
+    982,
+    693,
+    1041,
+    708
+   ]
+  },
+  {
+   "text": "20 828",
+   "bbox": [
+    1082,
+    693,
+    1154,
+    708
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    86,
+    691,
+    284,
+    712
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    513,
+    728,
+    610,
+    744
+   ]
+  },
+  {
+   "text": "4 370",
+   "bbox": [
+    689,
+    729,
+    748,
+    744
+   ]
+  },
+  {
+   "text": "21 850",
+   "bbox": [
+    804,
+    729,
+    876,
+    744
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    729,
+    940,
+    744
+   ]
+  },
+  {
+   "text": "5 900",
+   "bbox": [
+    982,
+    729,
+    1041,
+    744
+   ]
+  },
+  {
+   "text": "27 750",
+   "bbox": [
+    1082,
+    729,
+    1154,
+    744
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    86,
+    727,
+    204,
+    748
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    513,
+    763,
+    557,
+    780
+   ]
+  },
+  {
+   "text": "20 210",
+   "bbox": [
+    676,
+    765,
+    748,
+    780
+   ]
+  },
+  {
+   "text": "20 210",
+   "bbox": [
+    804,
+    765,
+    876,
+    780
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    765,
+    940,
+    780
+   ]
+  },
+  {
+   "text": "5 457",
+   "bbox": [
+    982,
+    765,
+    1041,
+    780
+   ]
+  },
+  {
+   "text": "25 667",
+   "bbox": [
+    1082,
+    765,
+    1154,
+    780
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    86,
+    763,
+    268,
+    784
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    630,
+    821,
+    824,
+    840
+   ]
+  },
+  {
+   "text": "114 990 Ft",
+   "bbox": [
+    1025,
+    822,
+    1154,
+    840
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    649,
+    854,
+    824,
+    877
+   ]
+  },
+  {
+   "text": "31 048 Ft",
+   "bbox": [
+    1040,
+    859,
+    1154,
+    877
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    672,
+    894,
+    824,
+    919
+   ]
+  },
+  {
+   "text": "146 038 Ft",
+   "bbox": [
+    1009,
+    896,
+    1154,
+    914
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 04625272-96537837-46068871",
+   "bbox": [
+    86,
+    961,
+    648,
+    979
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    86,
+    992,
+    746,
+    1011
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    389,
+    1650,
+    851,
+    1668
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Balázs",
+  "email": "nagy.balazs@freemail.hu",
+  "telefon": "+36 70 442 3558",
+  "lakcim": "H-5047 Mindszentfalu, Mindszentváradi utca 48.",
+  "szuletesi_datum": "1983. július 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2002 – 2005"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Balogh Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2012 – 2014"
+   },
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2010 – 2012"
+   },
+   {
+    "ceg": "Varga Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "SAP",
+   "Python",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    175,
+    118
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    89,
+    158
+   ]
+  },
+  {
+   "text": "nagy.balazs@freemail.hu",
+   "bbox": [
+    40,
+    168,
+    235,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    100,
+    214
+   ]
+  },
+  {
+   "text": "+36 70 442 3558",
+   "bbox": [
+    40,
+    225,
+    171,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    94,
+    270
+   ]
+  },
+  {
+   "text": "H-5047 Mindszentfalu, Mindszentváradi",
+   "bbox": [
+    40,
+    280,
+    350,
+    296
+   ]
+  },
+  {
+   "text": "utca 48.",
+   "bbox": [
+    40,
+    304,
+    102,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    336,
+    167,
+    349
+   ]
+  },
+  {
+   "text": "1983. július 30.",
+   "bbox": [
+    40,
+    359,
+    159,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    419,
+    168,
+    438
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    460,
+    136,
+    478
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    515,
+    147,
+    534
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    556,
+    151,
+    574
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    584,
+    71,
+    597
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    610,
+    99,
+    628
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    637,
+    242,
+    655
+   ]
+  },
+  {
+   "text": "Nagy Balázs",
+   "bbox": [
+    450,
+    103,
+    670,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    174,
+    639,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    654,
+    259
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    450,
+    290,
+    558,
+    303
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Balogh Logisztika Kft.",
+   "bbox": [
+    450,
+    314,
+    910,
+    333
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    450,
+    356,
+    558,
+    369
+   ]
+  },
+  {
+   "text": "rendszergazda – Horváth és Társa Kft.",
+   "bbox": [
+    450,
+    380,
+    797,
+    399
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    422,
+    558,
+    435
+   ]
+  },
+  {
+   "text": "projektmenedzser – Varga Trade Kft.",
+   "bbox": [
+    450,
+    446,
+    789,
+    465
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    496,
+    588,
+    518
+   ]
+  },
+  {
+   "text": "2002 – 2005",
+   "bbox": [
+    450,
+    549,
+    558,
+    562
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    573,
+    700,
+    592
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    598,
+    740,
+    616
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    640,
+    558,
+    653
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    664,
+    684,
+    679
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    689,
+    524,
+    707
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

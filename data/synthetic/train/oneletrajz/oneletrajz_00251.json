@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Antal Tamás",
+  "email": "antal.tamas@gmail.com",
+  "telefon": "+36 70 803 5118",
+  "lakcim": "H-1709 Váckövesd, Budapesti út 81.",
+  "szuletesi_datum": "1984. április 7.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Consulting Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2006 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "Java",
+   "B kategóriás jogosítvány",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    230,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    112,
+    172
+   ]
+  },
+  {
+   "text": "antal.tamas@gmail.com",
+   "bbox": [
+    40,
+    180,
+    279,
+    200
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    214,
+    123,
+    230
+   ]
+  },
+  {
+   "text": "+36 70 803 5118",
+   "bbox": [
+    40,
+    239,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    271,
+    119,
+    288
+   ]
+  },
+  {
+   "text": "H-1709 Váckövesd, Budapesti út",
+   "bbox": [
+    40,
+    295,
+    369,
+    316
+   ]
+  },
+  {
+   "text": "81.",
+   "bbox": [
+    40,
+    321,
+    73,
+    336
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    353,
+    219,
+    370
+   ]
+  },
+  {
+   "text": "1984. április 7.",
+   "bbox": [
+    40,
+    377,
+    191,
+    398
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    218,
+    462
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    482,
+    161,
+    503
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    510,
+    152,
+    531
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    564,
+    196,
+    588
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    608,
+    95,
+    625
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    637,
+    88,
+    653
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    664,
+    300,
+    685
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    692,
+    112,
+    713
+   ]
+  },
+  {
+   "text": "Antal Tamás",
+   "bbox": [
+    450,
+    116,
+    772,
+    155
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    188,
+    666,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    252,
+    743,
+    277
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    450,
+    304,
+    592,
+    320
+   ]
+  },
+  {
+   "text": "rendszergazda – Kovács Consulting Kft.",
+   "bbox": [
+    450,
+    329,
+    961,
+    352
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    381,
+    649,
+    407
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    434,
+    592,
+    450
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    459,
+    802,
+    482
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    484,
+    590,
+    506
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    528,
+    592,
+    544
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    553,
+    840,
+    576
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    578,
+    735,
+    600
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

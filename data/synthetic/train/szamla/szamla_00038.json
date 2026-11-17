@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2026/02985",
+  "kiallitas_datuma": "2026.06.15.",
+  "teljesites_datuma": "2026.06.12.",
+  "fizetesi_hatarido": "2026.07.15.",
+  "elado_nev": "Orbán Consulting Zrt.",
+  "elado_cim": "H-5176 Drávatótháza, Bácsszéki utca 120.",
+  "elado_adoszam": "11085427-2-23",
+  "vevo_nev": "Szabó Consulting Kft.",
+  "vevo_cim": "H-9666 Szombathely, Dunahídi út 138.",
+  "vevo_adoszam": "81179969-2-04",
+  "bankszamla": "HU32 3798 7714 7782 0734 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "645 600 Ft",
+  "afa_osszesen": "135 669 Ft",
+  "brutto_osszesen": "781 269 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "3 év",
+    "egysegar": "36 870",
+    "netto": "110 610",
+    "afa_kulcs": "27%",
+    "afa": "29 865",
+    "brutto": "140 475"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "10 év",
+    "egysegar": "17 040",
+    "netto": "170 400",
+    "afa_kulcs": "5%",
+    "afa": "8 520",
+    "brutto": "178 920"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "16 700",
+    "netto": "16 700",
+    "afa_kulcs": "27%",
+    "afa": "4 509",
+    "brutto": "21 209"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "5 db",
+    "egysegar": "1 050",
+    "netto": "5 250",
+    "afa_kulcs": "5%",
+    "afa": "262",
+    "brutto": "5 512"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "3 óra",
+    "egysegar": "17 280",
+    "netto": "51 840",
+    "afa_kulcs": "27%",
+    "afa": "13 997",
+    "brutto": "65 837"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "29 080",
+    "netto": "290 800",
+    "afa_kulcs": "27%",
+    "afa": "78 516",
+    "brutto": "369 316"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    404,
+    89,
+    836,
+    120
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/02985",
+   "bbox": [
+    443,
+    147,
+    797,
+    169
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    81,
+    227,
+    149,
+    244
+   ]
+  },
+  {
+   "text": "Szabó Consulting Kft.",
+   "bbox": [
+    82,
+    262,
+    339,
+    284
+   ]
+  },
+  {
+   "text": "H-9666 Szombathely, Dunahídi út 138.",
+   "bbox": [
+    82,
+    294,
+    446,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 81179969-2-04",
+   "bbox": [
+    81,
+    323,
+    322,
+    343
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    227,
+    707,
+    244
+   ]
+  },
+  {
+   "text": "Orbán Consulting Zrt.",
+   "bbox": [
+    630,
+    262,
+    892,
+    284
+   ]
+  },
+  {
+   "text": "H-5176 Drávatótháza, Bácsszéki utca 120.",
+   "bbox": [
+    630,
+    294,
+    1018,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 11085427-2-23",
+   "bbox": [
+    629,
+    323,
+    869,
+    343
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    390,
+    268,
+    406
+   ]
+  },
+  {
+   "text": "2026.06.15.",
+   "bbox": [
+    382,
+    391,
+    494,
+    410
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    421,
+    279,
+    442
+   ]
+  },
+  {
+   "text": "2026.06.12.",
+   "bbox": [
+    382,
+    422,
+    495,
+    437
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    452,
+    270,
+    468
+   ]
+  },
+  {
+   "text": "2026.07.15.",
+   "bbox": [
+    382,
+    453,
+    493,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    483,
+    225,
+    499
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    382,
+    483,
+    456,
+    499
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    525,
+    190,
+    543
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    526,
+    580,
+    543
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    667,
+    525,
+    750,
+    543
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    828,
+    525,
+    878,
+    539
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    522,
+    942,
+    539
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    522,
+    1046,
+    539
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1098,
+    525,
+    1158,
+    539
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    512,
+    565,
+    545,
+    582
+   ]
+  },
+  {
+   "text": "36 870",
+   "bbox": [
+    694,
+    566,
+    749,
+    582
+   ]
+  },
+  {
+   "text": "110 610",
+   "bbox": [
+    818,
+    566,
+    878,
+    579
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    566,
+    942,
+    582
+   ]
+  },
+  {
+   "text": "29 865",
+   "bbox": [
+    990,
+    566,
+    1045,
+    582
+   ]
+  },
+  {
+   "text": "140 475",
+   "bbox": [
+    1096,
+    569,
+    1158,
+    582
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    81,
+    565,
+    226,
+    583
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    512,
+    599,
+    554,
+    613
+   ]
+  },
+  {
+   "text": "17 040",
+   "bbox": [
+    696,
+    603,
+    749,
+    616
+   ]
+  },
+  {
+   "text": "170 400",
+   "bbox": [
+    814,
+    603,
+    878,
+    616
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    917,
+    600,
+    942,
+    616
+   ]
+  },
+  {
+   "text": "8 520",
+   "bbox": [
+    999,
+    600,
+    1045,
+    616
+   ]
+  },
+  {
+   "text": "178 920",
+   "bbox": [
+    1095,
+    600,
+    1158,
+    616
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    82,
+    599,
+    299,
+    617
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    633,
+    544,
+    647
+   ]
+  },
+  {
+   "text": "16 700",
+   "bbox": [
+    696,
+    634,
+    749,
+    650
+   ]
+  },
+  {
+   "text": "16 700",
+   "bbox": [
+    825,
+    634,
+    878,
+    650
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    634,
+    942,
+    650
+   ]
+  },
+  {
+   "text": "4 509",
+   "bbox": [
+    1000,
+    637,
+    1045,
+    650
+   ]
+  },
+  {
+   "text": "21 209",
+   "bbox": [
+    1105,
+    637,
+    1158,
+    650
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    82,
+    633,
+    184,
+    651
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    667,
+    546,
+    684
+   ]
+  },
+  {
+   "text": "1 050",
+   "bbox": [
+    705,
+    671,
+    749,
+    684
+   ]
+  },
+  {
+   "text": "5 250",
+   "bbox": [
+    833,
+    671,
+    878,
+    684
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    917,
+    668,
+    942,
+    684
+   ]
+  },
+  {
+   "text": "262",
+   "bbox": [
+    1015,
+    668,
+    1045,
+    681
+   ]
+  },
+  {
+   "text": "5 512",
+   "bbox": [
+    1116,
+    671,
+    1158,
+    684
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    82,
+    667,
+    175,
+    685
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    512,
+    701,
+    552,
+    718
+   ]
+  },
+  {
+   "text": "17 280",
+   "bbox": [
+    696,
+    702,
+    749,
+    718
+   ]
+  },
+  {
+   "text": "51 840",
+   "bbox": [
+    824,
+    702,
+    878,
+    718
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    702,
+    942,
+    718
+   ]
+  },
+  {
+   "text": "13 997",
+   "bbox": [
+    994,
+    705,
+    1046,
+    718
+   ]
+  },
+  {
+   "text": "65 837",
+   "bbox": [
+    1104,
+    702,
+    1159,
+    718
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    82,
+    701,
+    321,
+    719
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    512,
+    735,
+    599,
+    749
+   ]
+  },
+  {
+   "text": "29 080",
+   "bbox": [
+    692,
+    736,
+    749,
+    752
+   ]
+  },
+  {
+   "text": "290 800",
+   "bbox": [
+    810,
+    736,
+    878,
+    752
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    736,
+    942,
+    752
+   ]
+  },
+  {
+   "text": "78 516",
+   "bbox": [
+    993,
+    736,
+    1045,
+    752
+   ]
+  },
+  {
+   "text": "369 316",
+   "bbox": [
+    1096,
+    736,
+    1158,
+    752
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    82,
+    735,
+    257,
+    753
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    673,
+    790,
+    828,
+    807
+   ]
+  },
+  {
+   "text": "645 600 Ft",
+   "bbox": [
+    1051,
+    791,
+    1158,
+    811
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    685,
+    821,
+    828,
+    842
+   ]
+  },
+  {
+   "text": "135 669 Ft",
+   "bbox": [
+    1058,
+    826,
+    1158,
+    846
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    600,
+    860,
+    828,
+    877
+   ]
+  },
+  {
+   "text": "781 269 Ft",
+   "bbox": [
+    1042,
+    861,
+    1158,
+    881
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU32 3798 7714 7782 0734 0000 0000",
+   "bbox": [
+    82,
+    925,
+    597,
+    944
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    953,
+    598,
+    970
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    435,
+    1656,
+    803,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

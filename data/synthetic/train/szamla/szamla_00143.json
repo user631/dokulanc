@@ -1,0 +1,689 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2025/07212",
+  "kiallitas_datuma": "2025. június 18.",
+  "teljesites_datuma": "2025. június 18.",
+  "fizetesi_hatarido": "2025. június 9.",
+  "elado_nev": "Tóth Szolgáltató Kft.",
+  "elado_cim": "H-6319 Újhídvárad, Békéscsabai utca 238.",
+  "elado_adoszam": "97475604-5-08",
+  "vevo_nev": "Nagy Márton",
+  "vevo_cim": "H-3619 Hátnémeti, Mellékkőrösi utca 248.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU92 3364 9229 3344 3131 9202 7600",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "791 650 Ft",
+  "afa_osszesen": "213 745 Ft",
+  "brutto_osszesen": "1 005 395 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "101 270",
+    "netto": "101 270",
+    "afa_kulcs": "27%",
+    "afa": "27 343",
+    "brutto": "128 613"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "5 950",
+    "netto": "71 400",
+    "afa_kulcs": "27%",
+    "afa": "19 278",
+    "brutto": "90 678"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "5 db",
+    "egysegar": "5 750",
+    "netto": "28 750",
+    "afa_kulcs": "27%",
+    "afa": "7 762",
+    "brutto": "36 512"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "4 alkalom",
+    "egysegar": "115 210",
+    "netto": "460 840",
+    "afa_kulcs": "27%",
+    "afa": "124 427",
+    "brutto": "585 267"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "129 390",
+    "netto": "129 390",
+    "afa_kulcs": "27%",
+    "afa": "34 935",
+    "brutto": "164 325"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH",
+   "bbox": [
+    147,
+    131,
+    213,
+    155
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    965,
+    111,
+    1141,
+    155
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/07212",
+   "bbox": [
+    870,
+    175,
+    1140,
+    200
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    99,
+    255,
+    170,
+    276
+   ]
+  },
+  {
+   "text": "Nagy Márton",
+   "bbox": [
+    100,
+    292,
+    260,
+    318
+   ]
+  },
+  {
+   "text": "H-3619 Hátnémeti, Mellékkőrösi utca 248.",
+   "bbox": [
+    100,
+    327,
+    527,
+    350
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    255,
+    708,
+    276
+   ]
+  },
+  {
+   "text": "Tóth Szolgáltató Kft.",
+   "bbox": [
+    630,
+    292,
+    886,
+    318
+   ]
+  },
+  {
+   "text": "H-6319 Újhídvárad, Békéscsabai utca 238.",
+   "bbox": [
+    630,
+    323,
+    1061,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 97475604-5-08",
+   "bbox": [
+    629,
+    358,
+    894,
+    377
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    100,
+    426,
+    263,
+    443
+   ]
+  },
+  {
+   "text": "2025. június 18.",
+   "bbox": [
+    100,
+    456,
+    257,
+    478
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    360,
+    426,
+    538,
+    447
+   ]
+  },
+  {
+   "text": "2025. június 18.",
+   "bbox": [
+    360,
+    456,
+    517,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    426,
+    788,
+    443
+   ]
+  },
+  {
+   "text": "2025. június 9.",
+   "bbox": [
+    620,
+    456,
+    765,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    426,
+    1007,
+    443
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    880,
+    456,
+    957,
+    474
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    506,
+    225,
+    527
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    508,
+    590,
+    527
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    506,
+    744,
+    527
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    814,
+    506,
+    869,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    867,
+    502,
+    932,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    502,
+    1030,
+    523
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1076,
+    506,
+    1140,
+    523
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    516,
+    548,
+    555,
+    565
+   ]
+  },
+  {
+   "text": "101 270",
+   "bbox": [
+    672,
+    550,
+    744,
+    565
+   ]
+  },
+  {
+   "text": "101 270",
+   "bbox": [
+    797,
+    550,
+    869,
+    565
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    550,
+    932,
+    565
+   ]
+  },
+  {
+   "text": "27 343",
+   "bbox": [
+    969,
+    550,
+    1030,
+    565
+   ]
+  },
+  {
+   "text": "128 613",
+   "bbox": [
+    1068,
+    550,
+    1140,
+    565
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    100,
+    548,
+    355,
+    569
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    516,
+    585,
+    587,
+    601
+   ]
+  },
+  {
+   "text": "5 950",
+   "bbox": [
+    694,
+    586,
+    744,
+    601
+   ]
+  },
+  {
+   "text": "71 400",
+   "bbox": [
+    808,
+    586,
+    869,
+    601
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    586,
+    932,
+    601
+   ]
+  },
+  {
+   "text": "19 278",
+   "bbox": [
+    969,
+    586,
+    1030,
+    601
+   ]
+  },
+  {
+   "text": "90 678",
+   "bbox": [
+    1079,
+    586,
+    1140,
+    601
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    100,
+    584,
+    340,
+    605
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    516,
+    621,
+    555,
+    637
+   ]
+  },
+  {
+   "text": "5 750",
+   "bbox": [
+    694,
+    622,
+    744,
+    637
+   ]
+  },
+  {
+   "text": "28 750",
+   "bbox": [
+    808,
+    622,
+    869,
+    637
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    622,
+    932,
+    637
+   ]
+  },
+  {
+   "text": "7 762",
+   "bbox": [
+    980,
+    622,
+    1030,
+    637
+   ]
+  },
+  {
+   "text": "36 512",
+   "bbox": [
+    1079,
+    622,
+    1140,
+    637
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    100,
+    620,
+    277,
+    641
+   ]
+  },
+  {
+   "text": "4 alkalom",
+   "bbox": [
+    516,
+    657,
+    603,
+    673
+   ]
+  },
+  {
+   "text": "115 210",
+   "bbox": [
+    672,
+    658,
+    744,
+    673
+   ]
+  },
+  {
+   "text": "460 840",
+   "bbox": [
+    797,
+    658,
+    869,
+    673
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    658,
+    932,
+    673
+   ]
+  },
+  {
+   "text": "124 427",
+   "bbox": [
+    958,
+    658,
+    1030,
+    673
+   ]
+  },
+  {
+   "text": "585 267",
+   "bbox": [
+    1068,
+    658,
+    1140,
+    673
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    100,
+    656,
+    293,
+    677
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    516,
+    693,
+    555,
+    709
+   ]
+  },
+  {
+   "text": "129 390",
+   "bbox": [
+    672,
+    694,
+    744,
+    709
+   ]
+  },
+  {
+   "text": "129 390",
+   "bbox": [
+    797,
+    694,
+    869,
+    709
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    694,
+    932,
+    709
+   ]
+  },
+  {
+   "text": "34 935",
+   "bbox": [
+    969,
+    694,
+    1030,
+    709
+   ]
+  },
+  {
+   "text": "164 325",
+   "bbox": [
+    1068,
+    694,
+    1140,
+    709
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    100,
+    693,
+    203,
+    709
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    640,
+    750,
+    810,
+    769
+   ]
+  },
+  {
+   "text": "791 650 Ft",
+   "bbox": [
+    1025,
+    751,
+    1140,
+    769
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    783,
+    810,
+    806
+   ]
+  },
+  {
+   "text": "213 745 Ft",
+   "bbox": [
+    1025,
+    788,
+    1140,
+    806
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    570,
+    823,
+    810,
+    843
+   ]
+  },
+  {
+   "text": "1 005 395 Ft",
+   "bbox": [
+    990,
+    825,
+    1140,
+    843
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU92 3364 9229 3344 3131 9202 7600",
+   "bbox": [
+    100,
+    890,
+    663,
+    908
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    481,
+    1636,
+    758,
+    1654
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

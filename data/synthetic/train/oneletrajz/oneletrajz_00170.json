@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szücs Tamás",
+  "email": "szucs.tamas@citromail.hu",
+  "telefon": "+36 30 953 3535",
+  "lakcim": "H-9214 Tamásivára, Arany jános tér 176.",
+  "szuletesi_datum": "2003.03.17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orosz Trade Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "C#",
+   "Git",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    206,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    157,
+    101,
+    173
+   ]
+  },
+  {
+   "text": "szucs.tamas@citromail.hu",
+   "bbox": [
+    40,
+    182,
+    280,
+    200
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    217,
+    114,
+    233
+   ]
+  },
+  {
+   "text": "+36 30 953 3535",
+   "bbox": [
+    40,
+    243,
+    193,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    277,
+    109,
+    293
+   ]
+  },
+  {
+   "text": "H-9214 Tamásivára, Arany jános tér",
+   "bbox": [
+    40,
+    302,
+    369,
+    323
+   ]
+  },
+  {
+   "text": "176.",
+   "bbox": [
+    40,
+    328,
+    78,
+    343
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    362,
+    196,
+    378
+   ]
+  },
+  {
+   "text": "2003.03.17.",
+   "bbox": [
+    40,
+    388,
+    143,
+    403
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    448,
+    201,
+    472
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    493,
+    159,
+    515
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    522,
+    147,
+    543
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    577,
+    173,
+    601
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    623,
+    78,
+    639
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    652,
+    67,
+    668
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    681,
+    67,
+    697
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    709,
+    166,
+    731
+   ]
+  },
+  {
+   "text": "Szücs Tamás",
+   "bbox": [
+    450,
+    121,
+    726,
+    156
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    190,
+    647,
+    210
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    255,
+    706,
+    281
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    306,
+    603,
+    328
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Orosz Trade Bt.",
+   "bbox": [
+    448,
+    333,
+    824,
+    357
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    388,
+    625,
+    414
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    440,
+    570,
+    456
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    462,
+    638,
+    490
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    450,
+    492,
+    720,
+    510
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    537,
+    570,
+    553
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    563,
+    727,
+    587
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    590,
+    649,
+    612
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

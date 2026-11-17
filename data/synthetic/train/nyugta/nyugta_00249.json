@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS KISBOLT BT.",
+  "uzlet_cim": "H-5919 Tamásikőrös, Nyírhídi utca 94.",
+  "adoszam": "48548021-5-43",
+  "datum": "2024.09.12.",
+  "ido": "15:29",
+  "nyugtaszam": "2888/62797",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 122 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "733"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "392"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "4791"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "206"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS KISBOLT BT.",
+   "bbox": [
+    148,
+    34,
+    372,
+    49
+   ]
+  },
+  {
+   "text": "H-5919 Tamásikőrös, Nyírhídi utca 94.",
+   "bbox": [
+    38,
+    64,
+    482,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 48548021-5-43",
+   "bbox": [
+    128,
+    90,
+    392,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    212,
+    135,
+    308,
+    151
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    176,
+    128,
+    192
+   ]
+  },
+  {
+   "text": "733 A00",
+   "bbox": [
+    405,
+    176,
+    496,
+    192
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    206,
+    167,
+    225
+   ]
+  },
+  {
+   "text": "392 B00",
+   "bbox": [
+    405,
+    206,
+    496,
+    222
+   ]
+  },
+  {
+   "text": "3 DB x 1597",
+   "bbox": [
+    24,
+    235,
+    145,
+    249
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    262,
+    193,
+    276
+   ]
+  },
+  {
+   "text": "4791 C00",
+   "bbox": [
+    392,
+    260,
+    496,
+    276
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    290,
+    206,
+    309
+   ]
+  },
+  {
+   "text": "206 C00",
+   "bbox": [
+    405,
+    290,
+    496,
+    306
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    330,
+    184,
+    351
+   ]
+  },
+  {
+   "text": "6 122 Ft",
+   "bbox": [
+    368,
+    332,
+    496,
+    351
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    371,
+    155,
+    388
+   ]
+  },
+  {
+   "text": "6 122 Ft",
+   "bbox": [
+    392,
+    372,
+    496,
+    388
+   ]
+  },
+  {
+   "text": "2024.09.12.",
+   "bbox": [
+    24,
+    416,
+    156,
+    430
+   ]
+  },
+  {
+   "text": "15:29",
+   "bbox": [
+    436,
+    416,
+    496,
+    430
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2888/62797",
+   "bbox": [
+    24,
+    444,
+    288,
+    463
+   ]
+  },
+  {
+   "text": "AP A40197841",
+   "bbox": [
+    24,
+    476,
+    168,
+    490
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    117,
+    516,
+    403,
+    533
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  520,
+  578
+ ]
+}

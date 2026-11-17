@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Tóth Zoltán",
+  "anyja_neve": "Kis Margit",
+  "szuletesi_hely": "Eger",
+  "szuletesi_datum": "1955.09.15.",
+  "lakcim": "H-9769 Hídhalas, Szabadság utca 216.",
+  "telefon": "+36 20 861 1864",
+  "email": "toth.zoltan@example.hu",
+  "adoazonosito_jel": "8323983755",
+  "taj_szam": "159 962 402",
+  "kelt": "Ligetváros, 2025.02.15."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    331,
+    90,
+    910,
+    124
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    474,
+    143,
+    765,
+    160
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    85,
+    196,
+    296,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    97,
+    249,
+    134,
+    263
+   ]
+  },
+  {
+   "text": "Tóth Zoltán",
+   "bbox": [
+    396,
+    246,
+    542,
+    267
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    97,
+    301,
+    193,
+    319
+   ]
+  },
+  {
+   "text": "Kis Margit",
+   "bbox": [
+    396,
+    297,
+    523,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    97,
+    353,
+    215,
+    371
+   ]
+  },
+  {
+   "text": "Eger",
+   "bbox": [
+    396,
+    349,
+    452,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    97,
+    405,
+    207,
+    419
+   ]
+  },
+  {
+   "text": "1955.09.15.",
+   "bbox": [
+    396,
+    406,
+    558,
+    422
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    97,
+    457,
+    159,
+    471
+   ]
+  },
+  {
+   "text": "H-9769 Hídhalas, Szabadság utca 216.",
+   "bbox": [
+    396,
+    452,
+    887,
+    480
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    97,
+    509,
+    207,
+    523
+   ]
+  },
+  {
+   "text": "+36 20 861 1864",
+   "bbox": [
+    396,
+    506,
+    638,
+    524
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    97,
+    561,
+    190,
+    575
+   ]
+  },
+  {
+   "text": "toth.zoltan@example.hu",
+   "bbox": [
+    396,
+    558,
+    682,
+    586
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    97,
+    613,
+    242,
+    631
+   ]
+  },
+  {
+   "text": "8323983755",
+   "bbox": [
+    396,
+    614,
+    577,
+    631
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    97,
+    665,
+    178,
+    679
+   ]
+  },
+  {
+   "text": "159 962 402",
+   "bbox": [
+    396,
+    662,
+    578,
+    680
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    85,
+    744,
+    255,
+    766
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    130,
+    787,
+    423,
+    805
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    130,
+    832,
+    264,
+    846
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    130,
+    877,
+    439,
+    895
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    85,
+    981,
+    123,
+    996
+   ]
+  },
+  {
+   "text": "Ligetváros, 2025.02.15.",
+   "bbox": [
+    175,
+    979,
+    449,
+    1006
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1030,
+    987,
+    1042
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

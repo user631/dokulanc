@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOVÁCS DISZKONT KFT.",
+  "uzlet_cim": "H-1952 Mártonkőrös, Mellékfai utca 184.",
+  "adoszam": "86288158-2-26",
+  "datum": "2024.05.23.",
+  "ido": "08:30",
+  "nyugtaszam": "9370/00970",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 041 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "1002"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "726"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "313"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS DISZKONT KFT.",
+   "bbox": [
+    142,
+    28,
+    422,
+    50
+   ]
+  },
+  {
+   "text": "H-1952 Mártonkőrös, Mellékfai utca 184.",
+   "bbox": [
+    48,
+    67,
+    516,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 86288158-2-26",
+   "bbox": [
+    150,
+    92,
+    414,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    237,
+    139,
+    328,
+    157
+   ]
+  },
+  {
+   "text": "3 DB x 334",
+   "bbox": [
+    24,
+    185,
+    144,
+    198
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    211,
+    193,
+    226
+   ]
+  },
+  {
+   "text": "1002 C00",
+   "bbox": [
+    437,
+    211,
+    541,
+    226
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    243,
+    232,
+    258
+   ]
+  },
+  {
+   "text": "726 B00",
+   "bbox": [
+    450,
+    243,
+    541,
+    258
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    275,
+    206,
+    290
+   ]
+  },
+  {
+   "text": "313 C00",
+   "bbox": [
+    450,
+    275,
+    541,
+    290
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    314,
+    174,
+    337
+   ]
+  },
+  {
+   "text": "2 041 Ft",
+   "bbox": [
+    421,
+    319,
+    541,
+    337
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    356,
+    155,
+    376
+   ]
+  },
+  {
+   "text": "2 041 Ft",
+   "bbox": [
+    437,
+    360,
+    541,
+    376
+   ]
+  },
+  {
+   "text": "2024.05.23.",
+   "bbox": [
+    24,
+    407,
+    156,
+    421
+   ]
+  },
+  {
+   "text": "08:30",
+   "bbox": [
+    481,
+    407,
+    541,
+    421
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9370/00970",
+   "bbox": [
+    24,
+    434,
+    288,
+    455
+   ]
+  },
+  {
+   "text": "AP A56876020",
+   "bbox": [
+    24,
+    471,
+    168,
+    485
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    184,
+    510,
+    379,
+    530
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  565,
+  576
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/02883",
+  "kiallitas_datuma": "2025-09-23",
+  "teljesites_datuma": "2025-09-23",
+  "fizetesi_hatarido": "2025-10-23",
+  "elado_nev": "Nagy Tech Zrt.",
+  "elado_cim": "H-5446 Ózd, Békéscsabai utca 7.",
+  "elado_adoszam": "52757129-5-27",
+  "vevo_nev": "Fülöp Ferenc",
+  "vevo_cim": "H-9767 Nyírfürdővárad, Mosonhetveni utca 27.",
+  "vevo_adoszam": null,
+  "bankszamla": "42278971-11157667-24561897",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "29 800 Ft",
+  "afa_osszesen": "8 046 Ft",
+  "brutto_osszesen": "37 946 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "29 800",
+    "netto": "29 800",
+    "afa_kulcs": "27%",
+    "afa": "8 046",
+    "brutto": "37 846"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    397,
+    75,
+    842,
+    122
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/02883",
+   "bbox": [
+    417,
+    139,
+    824,
+    161
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    74,
+    220,
+    147,
+    238
+   ]
+  },
+  {
+   "text": "Fülöp Ferenc",
+   "bbox": [
+    74,
+    255,
+    239,
+    278
+   ]
+  },
+  {
+   "text": "H-9767 Nyírfürdővárad, Mosonhetveni utca 27.",
+   "bbox": [
+    74,
+    287,
+    571,
+    308
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    220,
+    710,
+    238
+   ]
+  },
+  {
+   "text": "Nagy Tech Zrt.",
+   "bbox": [
+    630,
+    255,
+    817,
+    278
+   ]
+  },
+  {
+   "text": "H-5446 Ózd, Békéscsabai utca 7.",
+   "bbox": [
+    630,
+    283,
+    981,
+    308
+   ]
+  },
+  {
+   "text": "Adószám: 52757129-5-27",
+   "bbox": [
+    630,
+    316,
+    905,
+    333
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    74,
+    383,
+    273,
+    400
+   ]
+  },
+  {
+   "text": "2025-09-23",
+   "bbox": [
+    374,
+    384,
+    498,
+    400
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    74,
+    414,
+    291,
+    435
+   ]
+  },
+  {
+   "text": "2025-09-23",
+   "bbox": [
+    374,
+    415,
+    498,
+    431
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    74,
+    445,
+    279,
+    462
+   ]
+  },
+  {
+   "text": "2025-10-23",
+   "bbox": [
+    374,
+    446,
+    498,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    74,
+    476,
+    231,
+    493
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    374,
+    476,
+    471,
+    497
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    74,
+    519,
+    199,
+    537
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    520,
+    584,
+    537
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    657,
+    519,
+    751,
+    537
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    519,
+    882,
+    533
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    516,
+    947,
+    533
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    516,
+    1051,
+    533
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1102,
+    519,
+    1166,
+    533
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    510,
+    559,
+    549,
+    573
+   ]
+  },
+  {
+   "text": "29 800",
+   "bbox": [
+    690,
+    560,
+    751,
+    573
+   ]
+  },
+  {
+   "text": "29 800",
+   "bbox": [
+    821,
+    560,
+    882,
+    573
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    906,
+    560,
+    947,
+    573
+   ]
+  },
+  {
+   "text": "8 046",
+   "bbox": [
+    1001,
+    560,
+    1051,
+    573
+   ]
+  },
+  {
+   "text": "37 846",
+   "bbox": [
+    1105,
+    560,
+    1166,
+    573
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    74,
+    559,
+    239,
+    577
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    660,
+    613,
+    836,
+    631
+   ]
+  },
+  {
+   "text": "29 800 Ft",
+   "bbox": [
+    1058,
+    615,
+    1166,
+    631
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    677,
+    644,
+    836,
+    666
+   ]
+  },
+  {
+   "text": "8 046 Ft",
+   "bbox": [
+    1072,
+    650,
+    1166,
+    666
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    696,
+    683,
+    836,
+    705
+   ]
+  },
+  {
+   "text": "37 946 Ft",
+   "bbox": [
+    1046,
+    685,
+    1166,
+    701
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 42278971-11157667-24561897",
+   "bbox": [
+    74,
+    747,
+    592,
+    764
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

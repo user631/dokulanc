@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Németh Gabriella",
+  "anyja_neve": "Szilágyi Gabriella",
+  "szuletesi_hely": "Szentkeresztvárad",
+  "szuletesi_datum": "1993.02.11.",
+  "lakcim": "H-2759 Drávatapolcafa, Nagykanizsai tér 178.",
+  "telefon": "+36 30 505 2173",
+  "email": "nemeth.gabriella@gmail.com",
+  "adoazonosito_jel": "8460625702",
+  "taj_szam": "967 917 627",
+  "kelt": "Szombathely, 2026.11.01."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    415,
+    86,
+    825,
+    121
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    468,
+    140,
+    772,
+    158
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    195,
+    297,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    247,
+    132,
+    262
+   ]
+  },
+  {
+   "text": "Németh Gabriella",
+   "bbox": [
+    399,
+    245,
+    620,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    300,
+    192,
+    320
+   ]
+  },
+  {
+   "text": "Szilágyi Gabriella",
+   "bbox": [
+    399,
+    297,
+    614,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    353,
+    214,
+    373
+   ]
+  },
+  {
+   "text": "Szentkeresztvárad",
+   "bbox": [
+    399,
+    351,
+    634,
+    373
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    406,
+    207,
+    421
+   ]
+  },
+  {
+   "text": "1993.02.11.",
+   "bbox": [
+    399,
+    409,
+    561,
+    427
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    459,
+    157,
+    474
+   ]
+  },
+  {
+   "text": "H-2759 Drávatapolcafa, Nagykanizsai tér 178.",
+   "bbox": [
+    399,
+    457,
+    1011,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    512,
+    205,
+    527
+   ]
+  },
+  {
+   "text": "+36 30 505 2173",
+   "bbox": [
+    399,
+    515,
+    641,
+    534
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    565,
+    188,
+    580
+   ]
+  },
+  {
+   "text": "nemeth.gabriella@gmail.com",
+   "bbox": [
+    399,
+    559,
+    757,
+    588
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    618,
+    245,
+    638
+   ]
+  },
+  {
+   "text": "8460625702",
+   "bbox": [
+    399,
+    615,
+    579,
+    634
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    671,
+    176,
+    686
+   ]
+  },
+  {
+   "text": "967 917 627",
+   "bbox": [
+    399,
+    672,
+    581,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    753,
+    258,
+    775
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    795,
+    427,
+    815
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    840,
+    265,
+    855
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    885,
+    447,
+    905
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    990,
+    121,
+    1006
+   ]
+  },
+  {
+   "text": "Szombathely, 2026.11.01.",
+   "bbox": [
+    171,
+    989,
+    491,
+    1015
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1039,
+    993,
+    1052
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

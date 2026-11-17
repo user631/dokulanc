@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BUDAI CSEMEGE KFT.",
+  "uzlet_cim": "H-3320 Ráctótfalva, Ceglédi utca 163.",
+  "adoszam": "68227353-2-20",
+  "datum": "2025.01.29.",
+  "ido": "20:18",
+  "nyugtaszam": "8632/76998",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 181 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "193"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "988"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BUDAI CSEMEGE KFT.",
+   "bbox": [
+    146,
+    35,
+    434,
+    51
+   ]
+  },
+  {
+   "text": "H-3320 Ráctótfalva, Ceglédi utca 163.",
+   "bbox": [
+    49,
+    67,
+    530,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 68227353-2-20",
+   "bbox": [
+    147,
+    95,
+    433,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    239,
+    141,
+    341,
+    159
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    184,
+    220,
+    205
+   ]
+  },
+  {
+   "text": "193 B00",
+   "bbox": [
+    458,
+    184,
+    556,
+    201
+   ]
+  },
+  {
+   "text": "2 DB x 494",
+   "bbox": [
+    24,
+    216,
+    154,
+    231
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    244,
+    220,
+    259
+   ]
+  },
+  {
+   "text": "988 B00",
+   "bbox": [
+    458,
+    242,
+    556,
+    259
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    285,
+    194,
+    307
+   ]
+  },
+  {
+   "text": "1 181 Ft",
+   "bbox": [
+    420,
+    287,
+    556,
+    307
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    326,
+    165,
+    345
+   ]
+  },
+  {
+   "text": "1 181 Ft",
+   "bbox": [
+    444,
+    328,
+    556,
+    345
+   ]
+  },
+  {
+   "text": "2025.01.29.",
+   "bbox": [
+    24,
+    374,
+    167,
+    390
+   ]
+  },
+  {
+   "text": "20:18",
+   "bbox": [
+    491,
+    374,
+    556,
+    390
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8632/76998",
+   "bbox": [
+    24,
+    405,
+    310,
+    425
+   ]
+  },
+  {
+   "text": "AP A95549792",
+   "bbox": [
+    24,
+    438,
+    180,
+    454
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    185,
+    481,
+    395,
+    499
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  580,
+  544
+ ]
+}

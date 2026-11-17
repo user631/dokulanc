@@ -1,0 +1,633 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/08188",
+  "kiallitas_datuma": "2026.11.29.",
+  "teljesites_datuma": "2026.11.28.",
+  "fizetesi_hatarido": "2026.12.29.",
+  "elado_nev": "Sipos Tech Kft.",
+  "elado_cim": "H-6968 Törökligetnádasd, Dózsa györgy tér 53.",
+  "elado_adoszam": "81581401-2-41",
+  "vevo_nev": "Bakos Consulting Bt.",
+  "vevo_cim": "H-8158 Kunhídháza, Mindszentdevecseri út 77.",
+  "vevo_adoszam": "85212479-2-29",
+  "bankszamla": "19239338-53741323",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 305 440 Ft",
+  "afa_osszesen": "352 337 Ft",
+  "brutto_osszesen": "1 657 777 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "11 390",
+    "netto": "11 390",
+    "afa_kulcs": "27%",
+    "afa": "3 075",
+    "brutto": "14 465"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "600",
+    "netto": "600",
+    "afa_kulcs": "5%",
+    "afa": "30",
+    "brutto": "630"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "10 db",
+    "egysegar": "4 280",
+    "netto": "42 800",
+    "afa_kulcs": "27%",
+    "afa": "11 556",
+    "brutto": "54 356"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "250 130",
+    "netto": "1 250 650",
+    "afa_kulcs": "27%",
+    "afa": "337 676",
+    "brutto": "1 588 326"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    416,
+    106,
+    824,
+    139
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/08188",
+   "bbox": [
+    429,
+    162,
+    811,
+    182
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    97,
+    243,
+    174,
+    262
+   ]
+  },
+  {
+   "text": "Sipos Tech Kft.",
+   "bbox": [
+    97,
+    280,
+    280,
+    305
+   ]
+  },
+  {
+   "text": "H-6968 Törökligetnádasd, Dózsa györgy tér",
+   "bbox": [
+    97,
+    315,
+    561,
+    339
+   ]
+  },
+  {
+   "text": "53.",
+   "bbox": [
+    97,
+    349,
+    132,
+    366
+   ]
+  },
+  {
+   "text": "Adószám: 81581401-2-41",
+   "bbox": [
+    97,
+    379,
+    368,
+    398
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    243,
+    700,
+    262
+   ]
+  },
+  {
+   "text": "Bakos Consulting Bt.",
+   "bbox": [
+    630,
+    280,
+    876,
+    305
+   ]
+  },
+  {
+   "text": "H-8158 Kunhídháza, Mindszentdevecseri út",
+   "bbox": [
+    630,
+    315,
+    1092,
+    338
+   ]
+  },
+  {
+   "text": "77.",
+   "bbox": [
+    630,
+    349,
+    665,
+    366
+   ]
+  },
+  {
+   "text": "Adószám: 85212479-2-29",
+   "bbox": [
+    630,
+    379,
+    901,
+    398
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    97,
+    450,
+    287,
+    468
+   ]
+  },
+  {
+   "text": "2026.11.29.",
+   "bbox": [
+    397,
+    451,
+    528,
+    468
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    97,
+    484,
+    308,
+    507
+   ]
+  },
+  {
+   "text": "2026.11.28.",
+   "bbox": [
+    397,
+    485,
+    528,
+    502
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    97,
+    518,
+    297,
+    536
+   ]
+  },
+  {
+   "text": "2026.12.29.",
+   "bbox": [
+    397,
+    519,
+    528,
+    536
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    97,
+    552,
+    251,
+    570
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    397,
+    551,
+    517,
+    575
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    598,
+    215,
+    617
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    598,
+    586,
+    617
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    598,
+    745,
+    617
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    598,
+    871,
+    613
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    594,
+    933,
+    613
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    594,
+    1034,
+    613
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1081,
+    598,
+    1143,
+    613
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    640,
+    562,
+    656
+   ]
+  },
+  {
+   "text": "11 390",
+   "bbox": [
+    684,
+    641,
+    745,
+    656
+   ]
+  },
+  {
+   "text": "11 390",
+   "bbox": [
+    810,
+    641,
+    871,
+    656
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    641,
+    933,
+    656
+   ]
+  },
+  {
+   "text": "3 075",
+   "bbox": [
+    983,
+    641,
+    1033,
+    656
+   ]
+  },
+  {
+   "text": "14 465",
+   "bbox": [
+    1082,
+    641,
+    1143,
+    656
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    97,
+    640,
+    352,
+    660
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    678,
+    556,
+    693
+   ]
+  },
+  {
+   "text": "600",
+   "bbox": [
+    712,
+    678,
+    745,
+    693
+   ]
+  },
+  {
+   "text": "600",
+   "bbox": [
+    838,
+    678,
+    871,
+    693
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    909,
+    678,
+    933,
+    693
+   ]
+  },
+  {
+   "text": "30",
+   "bbox": [
+    1011,
+    678,
+    1033,
+    693
+   ]
+  },
+  {
+   "text": "630",
+   "bbox": [
+    1110,
+    678,
+    1143,
+    693
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    97,
+    677,
+    205,
+    697
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    515,
+    715,
+    567,
+    730
+   ]
+  },
+  {
+   "text": "4 280",
+   "bbox": [
+    695,
+    715,
+    745,
+    730
+   ]
+  },
+  {
+   "text": "42 800",
+   "bbox": [
+    810,
+    715,
+    871,
+    730
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    715,
+    933,
+    730
+   ]
+  },
+  {
+   "text": "11 556",
+   "bbox": [
+    972,
+    715,
+    1033,
+    730
+   ]
+  },
+  {
+   "text": "54 356",
+   "bbox": [
+    1082,
+    715,
+    1143,
+    730
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    97,
+    714,
+    281,
+    734
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    515,
+    752,
+    605,
+    767
+   ]
+  },
+  {
+   "text": "250 130",
+   "bbox": [
+    673,
+    752,
+    745,
+    767
+   ]
+  },
+  {
+   "text": "1 250 650",
+   "bbox": [
+    782,
+    752,
+    871,
+    767
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    752,
+    933,
+    767
+   ]
+  },
+  {
+   "text": "337 676",
+   "bbox": [
+    961,
+    752,
+    1033,
+    767
+   ]
+  },
+  {
+   "text": "1 588 326",
+   "bbox": [
+    1054,
+    752,
+    1143,
+    767
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    97,
+    751,
+    295,
+    771
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    636,
+    808,
+    813,
+    828
+   ]
+  },
+  {
+   "text": "1 305 440 Ft",
+   "bbox": [
+    1005,
+    810,
+    1143,
+    828
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    842,
+    813,
+    866
+   ]
+  },
+  {
+   "text": "352 337 Ft",
+   "bbox": [
+    1026,
+    848,
+    1143,
+    866
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    605,
+    885,
+    813,
+    909
+   ]
+  },
+  {
+   "text": "1 657 777 Ft",
+   "bbox": [
+    989,
+    886,
+    1143,
+    904
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 19239338-53741323",
+   "bbox": [
+    97,
+    952,
+    483,
+    970
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    97,
+    983,
+    728,
+    1003
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

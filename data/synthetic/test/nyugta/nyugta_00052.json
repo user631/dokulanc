@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KOCSIS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-7147 Hátbánya, Miskolci utca 133.",
+  "adoszam": "35825069-3-24",
+  "datum": "2024.03.23.",
+  "ido": "15:29",
+  "nyugtaszam": "3559/68871",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "2 665 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "643"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "645"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1377"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOCSIS ÉLELMISZER KFT.",
+   "bbox": [
+    108,
+    30,
+    438,
+    51
+   ]
+  },
+  {
+   "text": "H-7147 Hátbánya, Miskolci utca 133.",
+   "bbox": [
+    45,
+    70,
+    500,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 35825069-3-24",
+   "bbox": [
+    130,
+    94,
+    416,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    140,
+    322,
+    156
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    184,
+    136,
+    198
+   ]
+  },
+  {
+   "text": "643 C00",
+   "bbox": [
+    425,
+    184,
+    523,
+    198
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    215,
+    136,
+    229
+   ]
+  },
+  {
+   "text": "645 C00",
+   "bbox": [
+    425,
+    215,
+    523,
+    229
+   ]
+  },
+  {
+   "text": "3 DB x 459",
+   "bbox": [
+    24,
+    244,
+    144,
+    257
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    271,
+    220,
+    285
+   ]
+  },
+  {
+   "text": "1377 B00",
+   "bbox": [
+    411,
+    271,
+    523,
+    285
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    310,
+    168,
+    331
+   ]
+  },
+  {
+   "text": "2 665 Ft",
+   "bbox": [
+    395,
+    314,
+    523,
+    331
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    352,
+    136,
+    369
+   ]
+  },
+  {
+   "text": "2 665 Ft",
+   "bbox": [
+    411,
+    355,
+    523,
+    369
+   ]
+  },
+  {
+   "text": "2024.03.23.",
+   "bbox": [
+    24,
+    399,
+    167,
+    412
+   ]
+  },
+  {
+   "text": "15:29",
+   "bbox": [
+    458,
+    399,
+    523,
+    412
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3559/68871",
+   "bbox": [
+    24,
+    427,
+    310,
+    445
+   ]
+  },
+  {
+   "text": "AP A51520373",
+   "bbox": [
+    24,
+    461,
+    180,
+    474
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    130,
+    500,
+    416,
+    518
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  547,
+  562
+ ]
+}

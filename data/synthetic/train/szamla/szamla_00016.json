@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2025/07984",
+  "kiallitas_datuma": "2025. július 21.",
+  "teljesites_datuma": "2025. július 16.",
+  "fizetesi_hatarido": "2025. augusztus 5.",
+  "elado_nev": "Rácz Kft.",
+  "elado_cim": "H-4240 Bakonygyörgynádasd, Kossuth út 94.",
+  "elado_adoszam": "54870219-5-31",
+  "vevo_nev": "Biró Eszter",
+  "vevo_cim": "H-2587 Eger, Petőfi sándor utca 70.",
+  "vevo_adoszam": null,
+  "bankszamla": "22979357-59499055",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "558 830 Ft",
+  "afa_osszesen": "144 371 Ft",
+  "brutto_osszesen": "703 201 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "243 570",
+    "netto": "487 140",
+    "afa_kulcs": "27%",
+    "afa": "131 528",
+    "brutto": "618 668"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "5 db",
+    "egysegar": "1 090",
+    "netto": "5 450",
+    "afa_kulcs": "5%",
+    "afa": "272",
+    "brutto": "5 722"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "12 csomag",
+    "egysegar": "4 920",
+    "netto": "59 040",
+    "afa_kulcs": "18%",
+    "afa": "10 627",
+    "brutto": "69 667"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "7 200",
+    "netto": "7 200",
+    "afa_kulcs": "27%",
+    "afa": "1 944",
+    "brutto": "9 144"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    540,
+    95,
+    700,
+    132
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/07984",
+   "bbox": [
+    451,
+    155,
+    788,
+    175
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    88,
+    235,
+    151,
+    252
+   ]
+  },
+  {
+   "text": "Rácz Kft.",
+   "bbox": [
+    88,
+    269,
+    179,
+    286
+   ]
+  },
+  {
+   "text": "H-4240 Bakonygyörgynádasd, Kossuth út 94.",
+   "bbox": [
+    88,
+    301,
+    481,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 54870219-5-31",
+   "bbox": [
+    88,
+    329,
+    315,
+    344
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    236,
+    688,
+    252
+   ]
+  },
+  {
+   "text": "Biró Eszter",
+   "bbox": [
+    630,
+    269,
+    741,
+    286
+   ]
+  },
+  {
+   "text": "H-2587 Eger, Petőfi sándor utca 70.",
+   "bbox": [
+    630,
+    301,
+    938,
+    321
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    88,
+    395,
+    247,
+    410
+   ]
+  },
+  {
+   "text": "2025. július 21.",
+   "bbox": [
+    388,
+    395,
+    517,
+    415
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    88,
+    425,
+    260,
+    445
+   ]
+  },
+  {
+   "text": "2025. július 16.",
+   "bbox": [
+    388,
+    425,
+    517,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    88,
+    455,
+    250,
+    470
+   ]
+  },
+  {
+   "text": "2025. augusztus 5.",
+   "bbox": [
+    388,
+    456,
+    548,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    88,
+    485,
+    212,
+    500
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    388,
+    485,
+    456,
+    500
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    88,
+    526,
+    186,
+    543
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    527,
+    572,
+    543
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    526,
+    747,
+    543
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    526,
+    875,
+    539
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    523,
+    939,
+    539
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    523,
+    1040,
+    539
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    526,
+    1152,
+    539
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    513,
+    565,
+    586,
+    578
+   ]
+  },
+  {
+   "text": "243 570",
+   "bbox": [
+    688,
+    566,
+    747,
+    578
+   ]
+  },
+  {
+   "text": "487 140",
+   "bbox": [
+    816,
+    566,
+    875,
+    578
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    566,
+    939,
+    578
+   ]
+  },
+  {
+   "text": "131 528",
+   "bbox": [
+    981,
+    566,
+    1040,
+    578
+   ]
+  },
+  {
+   "text": "618 668",
+   "bbox": [
+    1093,
+    566,
+    1152,
+    578
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    88,
+    565,
+    250,
+    582
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    513,
+    598,
+    547,
+    611
+   ]
+  },
+  {
+   "text": "1 090",
+   "bbox": [
+    706,
+    599,
+    747,
+    611
+   ]
+  },
+  {
+   "text": "5 450",
+   "bbox": [
+    834,
+    599,
+    875,
+    611
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    599,
+    939,
+    611
+   ]
+  },
+  {
+   "text": "272",
+   "bbox": [
+    1013,
+    599,
+    1040,
+    611
+   ]
+  },
+  {
+   "text": "5 722",
+   "bbox": [
+    1111,
+    599,
+    1152,
+    611
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    88,
+    598,
+    177,
+    615
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    513,
+    632,
+    595,
+    648
+   ]
+  },
+  {
+   "text": "4 920",
+   "bbox": [
+    706,
+    632,
+    747,
+    644
+   ]
+  },
+  {
+   "text": "59 040",
+   "bbox": [
+    825,
+    632,
+    875,
+    644
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    632,
+    939,
+    644
+   ]
+  },
+  {
+   "text": "10 627",
+   "bbox": [
+    990,
+    632,
+    1040,
+    644
+   ]
+  },
+  {
+   "text": "69 667",
+   "bbox": [
+    1102,
+    632,
+    1152,
+    644
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    88,
+    631,
+    227,
+    648
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    664,
+    547,
+    677
+   ]
+  },
+  {
+   "text": "7 200",
+   "bbox": [
+    706,
+    665,
+    747,
+    677
+   ]
+  },
+  {
+   "text": "7 200",
+   "bbox": [
+    834,
+    665,
+    875,
+    677
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    665,
+    939,
+    677
+   ]
+  },
+  {
+   "text": "1 944",
+   "bbox": [
+    999,
+    665,
+    1040,
+    677
+   ]
+  },
+  {
+   "text": "9 144",
+   "bbox": [
+    1111,
+    665,
+    1152,
+    677
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    88,
+    664,
+    217,
+    677
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    719,
+    822,
+    734
+   ]
+  },
+  {
+   "text": "558 830 Ft",
+   "bbox": [
+    1057,
+    719,
+    1152,
+    734
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    749,
+    822,
+    768
+   ]
+  },
+  {
+   "text": "144 371 Ft",
+   "bbox": [
+    1057,
+    753,
+    1152,
+    768
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    647,
+    786,
+    822,
+    807
+   ]
+  },
+  {
+   "text": "703 201 Ft",
+   "bbox": [
+    1049,
+    787,
+    1152,
+    802
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 22979357-59499055",
+   "bbox": [
+    88,
+    850,
+    407,
+    864
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    88,
+    877,
+    558,
+    893
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    452,
+    1651,
+    787,
+    1665
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

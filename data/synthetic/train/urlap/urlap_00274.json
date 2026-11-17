@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Bodnár Andrea",
+  "anyja_neve": "Tóth Marianna",
+  "szuletesi_hely": "Melléknémeti",
+  "szuletesi_datum": "1976. 05. 21.",
+  "lakcim": "H-1433 Újmártonnémeti, Petőfi sándor út 3.",
+  "telefon": "06 1 761 3841",
+  "email": "bodnar.andrea@citromail.hu",
+  "adoazonosito_jel": "8399520233",
+  "taj_szam": "262 023 867",
+  "kelt": "Fürdőharaszti, 2024. 10. 03."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    453,
+    81,
+    788,
+    110
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    495,
+    135,
+    745,
+    149
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    187,
+    260,
+    205
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    242,
+    129,
+    254
+   ]
+  },
+  {
+   "text": "Bodnár Andrea",
+   "bbox": [
+    390,
+    241,
+    571,
+    261
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    293,
+    179,
+    308
+   ]
+  },
+  {
+   "text": "Tóth Marianna",
+   "bbox": [
+    390,
+    290,
+    565,
+    310
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    344,
+    197,
+    359
+   ]
+  },
+  {
+   "text": "Melléknémeti",
+   "bbox": [
+    390,
+    339,
+    546,
+    359
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    395,
+    190,
+    407
+   ]
+  },
+  {
+   "text": "1976. 05. 21.",
+   "bbox": [
+    390,
+    393,
+    562,
+    409
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    446,
+    151,
+    458
+   ]
+  },
+  {
+   "text": "H-1433 Újmártonnémeti, Petőfi sándor út 3.",
+   "bbox": [
+    390,
+    440,
+    935,
+    471
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    497,
+    193,
+    509
+   ]
+  },
+  {
+   "text": "06 1 761 3841",
+   "bbox": [
+    390,
+    498,
+    587,
+    515
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    548,
+    176,
+    560
+   ]
+  },
+  {
+   "text": "bodnar.andrea@citromail.hu",
+   "bbox": [
+    390,
+    547,
+    720,
+    567
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    599,
+    222,
+    614
+   ]
+  },
+  {
+   "text": "8399520233",
+   "bbox": [
+    390,
+    602,
+    560,
+    618
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    650,
+    166,
+    662
+   ]
+  },
+  {
+   "text": "262 023 867",
+   "bbox": [
+    390,
+    650,
+    561,
+    666
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    725,
+    223,
+    743
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    771,
+    382,
+    786
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    816,
+    247,
+    828
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    861,
+    396,
+    876
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    961,
+    117,
+    974
+   ]
+  },
+  {
+   "text": "Fürdőharaszti, 2024. 10. 03.",
+   "bbox": [
+    173,
+    964,
+    485,
+    985
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    947,
+    1011,
+    986,
+    1021
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

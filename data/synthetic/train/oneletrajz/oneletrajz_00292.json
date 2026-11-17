@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Veronika",
+  "email": "szabo.veronika@outlook.com",
+  "telefon": "+36 30 706 4709",
+  "lakcim": "H-7268 Tótberény, Petőfi utca 109.",
+  "szuletesi_datum": "1976. augusztus 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "1995 – 1998"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "ceg": "Molnár Consulting Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Veronika",
+   "bbox": [
+    423,
+    111,
+    817,
+    148
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    506,
+    182,
+    733,
+    209
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    177,
+    255
+   ]
+  },
+  {
+   "text": "szabo.veronika@outlook.com",
+   "bbox": [
+    330,
+    238,
+    626,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    271,
+    188,
+    288
+   ]
+  },
+  {
+   "text": "+36 30 706 4709",
+   "bbox": [
+    330,
+    272,
+    507,
+    292
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    304,
+    186,
+    321
+   ]
+  },
+  {
+   "text": "H-7268 Tótberény, Petőfi utca 109.",
+   "bbox": [
+    330,
+    304,
+    688,
+    326
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    337,
+    287,
+    354
+   ]
+  },
+  {
+   "text": "1976. augusztus 14.",
+   "bbox": [
+    330,
+    338,
+    526,
+    359
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    390,
+    367,
+    416
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    448,
+    224,
+    464
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Takács Consulting Kft.",
+   "bbox": [
+    90,
+    470,
+    598,
+    493
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    518,
+    220,
+    534
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Molnár Consulting Bt.",
+   "bbox": [
+    87,
+    540,
+    577,
+    563
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    592,
+    282,
+    619
+   ]
+  },
+  {
+   "text": "1995 – 1998",
+   "bbox": [
+    90,
+    647,
+    215,
+    667
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    673,
+    425,
+    696
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    700,
+    437,
+    722
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    90,
+    748,
+    211,
+    764
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    770,
+    464,
+    793
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    797,
+    290,
+    819
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    849,
+    244,
+    876
+   ]
+  },
+  {
+   "text": "angol (C1), francia (A2)",
+   "bbox": [
+    90,
+    903,
+    331,
+    925
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    951,
+    233,
+    978
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, JavaScript, B kategóriás jogosítvány, SAP, Java",
+   "bbox": [
+    90,
+    1005,
+    715,
+    1027
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

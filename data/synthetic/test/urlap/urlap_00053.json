@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Nagy János",
+  "anyja_neve": "Varga Erzsébet",
+  "szuletesi_hely": "Mindszenthida",
+  "szuletesi_datum": "1964.12.27.",
+  "lakcim": "H-4051 Pécs, Petőfi sándor utca 131.",
+  "telefon": "+36 30 802 3801",
+  "email": "nagy.janos@outlook.com",
+  "adoazonosito_jel": "8357892558",
+  "taj_szam": "103 075 843",
+  "kelt": "Kiskereszthida, 2025.01.16."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    367,
+    96,
+    873,
+    126
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    488,
+    152,
+    751,
+    167
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    205,
+    285,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    261,
+    146,
+    274
+   ]
+  },
+  {
+   "text": "Nagy János",
+   "bbox": [
+    412,
+    261,
+    513,
+    281
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    313,
+    201,
+    329
+   ]
+  },
+  {
+   "text": "Varga Erzsébet",
+   "bbox": [
+    412,
+    314,
+    547,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    365,
+    219,
+    381
+   ]
+  },
+  {
+   "text": "Mindszenthida",
+   "bbox": [
+    412,
+    366,
+    548,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    417,
+    211,
+    430
+   ]
+  },
+  {
+   "text": "1964.12.27.",
+   "bbox": [
+    412,
+    416,
+    518,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    469,
+    169,
+    482
+   ]
+  },
+  {
+   "text": "H-4051 Pécs, Petőfi sándor utca 131.",
+   "bbox": [
+    412,
+    464,
+    742,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    521,
+    213,
+    534
+   ]
+  },
+  {
+   "text": "+36 30 802 3801",
+   "bbox": [
+    412,
+    518,
+    559,
+    532
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    573,
+    194,
+    586
+   ]
+  },
+  {
+   "text": "nagy.janos@outlook.com",
+   "bbox": [
+    412,
+    575,
+    645,
+    594
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    625,
+    244,
+    641
+   ]
+  },
+  {
+   "text": "8357892558",
+   "bbox": [
+    412,
+    624,
+    522,
+    638
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    677,
+    186,
+    690
+   ]
+  },
+  {
+   "text": "103 075 843",
+   "bbox": [
+    412,
+    678,
+    521,
+    692
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    753,
+    248,
+    772
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    799,
+    412,
+    815
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    844,
+    269,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    889,
+    425,
+    905
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    989,
+    136,
+    1003
+   ]
+  },
+  {
+   "text": "Kiskereszthida, 2025.01.16.",
+   "bbox": [
+    189,
+    986,
+    435,
+    1005
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1039,
+    973,
+    1050
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

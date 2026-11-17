@@ -1,0 +1,239 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ CSEMEGE KFT.",
+  "uzlet_cim": "H-7491 Fürdőnádasd, Györgyváradi utca 139.",
+  "adoszam": "71525383-5-09",
+  "datum": "2025.06.08.",
+  "ido": "19:34",
+  "nyugtaszam": "5131/03537",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 517 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "443"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2280"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1690"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "604"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ CSEMEGE KFT.",
+   "bbox": [
+    168,
+    28,
+    420,
+    50
+   ]
+  },
+  {
+   "text": "H-7491 Fürdőnádasd, Györgyváradi utca 139.",
+   "bbox": [
+    42,
+    67,
+    546,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71525383-5-09",
+   "bbox": [
+    162,
+    92,
+    426,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    249,
+    139,
+    340,
+    157
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    185,
+    167,
+    200
+   ]
+  },
+  {
+   "text": "443 A00",
+   "bbox": [
+    474,
+    185,
+    565,
+    200
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    217,
+    141,
+    232
+   ]
+  },
+  {
+   "text": "2280 B00",
+   "bbox": [
+    461,
+    217,
+    565,
+    232
+   ]
+  },
+  {
+   "text": "2 DB x 845",
+   "bbox": [
+    24,
+    249,
+    144,
+    262
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    275,
+    128,
+    290
+   ]
+  },
+  {
+   "text": "1690 C00",
+   "bbox": [
+    461,
+    275,
+    565,
+    290
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    307,
+    128,
+    322
+   ]
+  },
+  {
+   "text": "604 C00",
+   "bbox": [
+    474,
+    307,
+    565,
+    322
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    346,
+    174,
+    369
+   ]
+  },
+  {
+   "text": "5 517 Ft",
+   "bbox": [
+    445,
+    351,
+    565,
+    369
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    388,
+    168,
+    408
+   ]
+  },
+  {
+   "text": "5 517 Ft",
+   "bbox": [
+    461,
+    392,
+    565,
+    408
+   ]
+  },
+  {
+   "text": "2025.06.08.",
+   "bbox": [
+    24,
+    439,
+    156,
+    453
+   ]
+  },
+  {
+   "text": "19:34",
+   "bbox": [
+    505,
+    439,
+    565,
+    453
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5131/03537",
+   "bbox": [
+    24,
+    466,
+    288,
+    487
+   ]
+  },
+  {
+   "text": "AP A64127258",
+   "bbox": [
+    24,
+    503,
+    168,
+    517
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    151,
+    542,
+    437,
+    562
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  589,
+  608
+ ]
+}

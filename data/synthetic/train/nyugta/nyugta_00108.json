@@ -1,0 +1,257 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH ABC KFT.",
+  "uzlet_cim": "H-9470 Szombathely, Ady endre utca 203.",
+  "adoszam": "42012355-2-24",
+  "datum": "2025.04.13.",
+  "ido": "19:32",
+  "nyugtaszam": "8736/14696",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 674 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3003"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "780"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "8067"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "814"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH ABC KFT.",
+   "bbox": [
+    185,
+    30,
+    409,
+    50
+   ]
+  },
+  {
+   "text": "H-9470 Szombathely, Ady endre utca 203.",
+   "bbox": [
+    63,
+    68,
+    531,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 42012355-2-24",
+   "bbox": [
+    165,
+    91,
+    429,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    137,
+    346,
+    152
+   ]
+  },
+  {
+   "text": "3 DB x 1001",
+   "bbox": [
+    24,
+    178,
+    145,
+    190
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    203,
+    128,
+    217
+   ]
+  },
+  {
+   "text": "3003 A00",
+   "bbox": [
+    466,
+    203,
+    570,
+    217
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    233,
+    128,
+    247
+   ]
+  },
+  {
+   "text": "780 C00",
+   "bbox": [
+    479,
+    233,
+    570,
+    247
+   ]
+  },
+  {
+   "text": "3 DB x 2689",
+   "bbox": [
+    24,
+    262,
+    145,
+    274
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    287,
+    271,
+    301
+   ]
+  },
+  {
+   "text": "8067 A00",
+   "bbox": [
+    466,
+    287,
+    570,
+    301
+   ]
+  },
+  {
+   "text": "2 DB x 407",
+   "bbox": [
+    24,
+    316,
+    134,
+    328
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    341,
+    141,
+    355
+   ]
+  },
+  {
+   "text": "814 A00",
+   "bbox": [
+    479,
+    341,
+    570,
+    355
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    379,
+    184,
+    400
+   ]
+  },
+  {
+   "text": "12 674 Ft",
+   "bbox": [
+    426,
+    384,
+    570,
+    400
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    420,
+    168,
+    437
+   ]
+  },
+  {
+   "text": "12 674 Ft",
+   "bbox": [
+    453,
+    423,
+    570,
+    437
+   ]
+  },
+  {
+   "text": "2025.04.13.",
+   "bbox": [
+    24,
+    466,
+    156,
+    479
+   ]
+  },
+  {
+   "text": "19:32",
+   "bbox": [
+    510,
+    466,
+    570,
+    479
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8736/14696",
+   "bbox": [
+    24,
+    493,
+    288,
+    511
+   ]
+  },
+  {
+   "text": "AP A23027547",
+   "bbox": [
+    24,
+    526,
+    168,
+    539
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    154,
+    566,
+    440,
+    582
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  594,
+  626
+ ]
+}

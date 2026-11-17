@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Mihály",
+  "email": "szabo.mihaly@outlook.com",
+  "telefon": "+36 20 273 1069",
+  "lakcim": "H-8241 Györgyapáti, Arany jános utca 193.",
+  "szuletesi_datum": "1994.03.29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2013 – 2018"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Szolgáltató Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2021 – 2022"
+   },
+   {
+    "ceg": "Nagy és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Python",
+   "prezentáció",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    205,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    101,
+    166
+   ]
+  },
+  {
+   "text": "szabo.mihaly@outlook.com",
+   "bbox": [
+    40,
+    176,
+    293,
+    195
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    210,
+    115,
+    226
+   ]
+  },
+  {
+   "text": "+36 20 273 1069",
+   "bbox": [
+    40,
+    236,
+    190,
+    251
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    270,
+    110,
+    286
+   ]
+  },
+  {
+   "text": "H-8241 Györgyapáti, Arany jános",
+   "bbox": [
+    40,
+    295,
+    346,
+    315
+   ]
+  },
+  {
+   "text": "utca 193.",
+   "bbox": [
+    40,
+    321,
+    127,
+    336
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    355,
+    194,
+    371
+   ]
+  },
+  {
+   "text": "1994.03.29.",
+   "bbox": [
+    40,
+    381,
+    152,
+    396
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    441,
+    193,
+    465
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    487,
+    140,
+    508
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    541,
+    170,
+    565
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    587,
+    109,
+    603
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    616,
+    108,
+    637
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    643,
+    157,
+    666
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    674,
+    77,
+    693
+   ]
+  },
+  {
+   "text": "Szabó Mihály",
+   "bbox": [
+    450,
+    111,
+    733,
+    156
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    181,
+    682,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    699,
+    273
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    450,
+    300,
+    568,
+    316
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kovács Szolgáltató Kft.",
+   "bbox": [
+    450,
+    326,
+    1032,
+    349
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    370,
+    568,
+    386
+   ]
+  },
+  {
+   "text": "irodavezető – Nagy és Társa Kft.",
+   "bbox": [
+    450,
+    396,
+    812,
+    419
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    450,
+    618,
+    476
+   ]
+  },
+  {
+   "text": "2013 – 2018",
+   "bbox": [
+    450,
+    503,
+    568,
+    519
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    529,
+    730,
+    552
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    555,
+    514,
+    578
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    600,
+    568,
+    616
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    626,
+    722,
+    649
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    653,
+    655,
+    675
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

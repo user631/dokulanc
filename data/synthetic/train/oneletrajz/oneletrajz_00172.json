@@ -1,0 +1,350 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Orosz Dominik",
+  "email": "orosz.dominik@citromail.hu",
+  "telefon": "+36 30 101 7733",
+  "lakcim": "H-1643 Mosonhetvenvárad, Keresztvégi utca 70.",
+  "szuletesi_datum": "1991. január 27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2009 – 2012"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pataki Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2017 – 2018"
+   },
+   {
+    "ceg": "Bognár Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Java",
+   "JavaScript",
+   "SQL",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    209,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    92,
+    166
+   ]
+  },
+  {
+   "text": "orosz.dominik@citromail.hu",
+   "bbox": [
+    40,
+    175,
+    249,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    208,
+    98,
+    220
+   ]
+  },
+  {
+   "text": "+36 30 101 7733",
+   "bbox": [
+    40,
+    230,
+    164,
+    242
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    261,
+    99,
+    274
+   ]
+  },
+  {
+   "text": "H-1643 Mosonhetvenvárad, Keresztvégi utca",
+   "bbox": [
+    40,
+    283,
+    369,
+    300
+   ]
+  },
+  {
+   "text": "70.",
+   "bbox": [
+    40,
+    306,
+    63,
+    318
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    337,
+    162,
+    350
+   ]
+  },
+  {
+   "text": "1991. január 27.",
+   "bbox": [
+    40,
+    359,
+    159,
+    376
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    418,
+    193,
+    437
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    459,
+    123,
+    476
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    485,
+    119,
+    502
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    538,
+    176,
+    557
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    579,
+    87,
+    592
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    606,
+    74,
+    618
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    631,
+    119,
+    648
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    658,
+    77,
+    674
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    683,
+    143,
+    700
+   ]
+  },
+  {
+   "text": "Orosz Dominik",
+   "bbox": [
+    450,
+    115,
+    738,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    184,
+    621,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    656,
+    268
+   ]
+  },
+  {
+   "text": "2017 – 2018",
+   "bbox": [
+    450,
+    296,
+    550,
+    309
+   ]
+  },
+  {
+   "text": "tesztmérnök – Pataki Kft.",
+   "bbox": [
+    450,
+    320,
+    682,
+    334
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    360,
+    550,
+    373
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Bognár Bt.",
+   "bbox": [
+    450,
+    384,
+    752,
+    402
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    435,
+    594,
+    456
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    450,
+    484,
+    550,
+    497
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    508,
+    766,
+    526
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    449,
+    531,
+    591,
+    549
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    572,
+    550,
+    585
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    596,
+    732,
+    614
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    619,
+    520,
+    637
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

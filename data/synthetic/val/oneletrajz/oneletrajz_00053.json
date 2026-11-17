@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Nagy Gabriella",
+  "email": "nagy.gabriella@gmail.com",
+  "telefon": "+36 30 124 5614",
+  "lakcim": "H-5473 Lajosszékháza, Alsóháti utca 210.",
+  "szuletesi_datum": "1991. 12. 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2010 – 2015"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Tech Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Horváth Consulting Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2014 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Excel",
+   "Java",
+   "Git",
+   "JavaScript",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Gabriella",
+   "bbox": [
+    463,
+    120,
+    776,
+    164
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    525,
+    183,
+    714,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    234,
+    150,
+    248
+   ]
+  },
+  {
+   "text": "nagy.gabriella@gmail.com",
+   "bbox": [
+    330,
+    234,
+    554,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    162,
+    277
+   ]
+  },
+  {
+   "text": "+36 30 124 5614",
+   "bbox": [
+    330,
+    264,
+    468,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    292,
+    157,
+    306
+   ]
+  },
+  {
+   "text": "H-5473 Lajosszékháza, Alsóháti utca 210.",
+   "bbox": [
+    330,
+    292,
+    672,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    321,
+    235,
+    335
+   ]
+  },
+  {
+   "text": "1991. 12. 20.",
+   "bbox": [
+    330,
+    322,
+    432,
+    335
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    371,
+    302,
+    393
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    420,
+    190,
+    433
+   ]
+  },
+  {
+   "text": "értékesítő – Kiss Tech Kft.",
+   "bbox": [
+    90,
+    442,
+    335,
+    457
+   ]
+  },
+  {
+   "text": "2014 – 2016",
+   "bbox": [
+    90,
+    482,
+    190,
+    495
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Horváth Consulting Kft.",
+   "bbox": [
+    88,
+    504,
+    479,
+    524
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    554,
+    237,
+    576
+   ]
+  },
+  {
+   "text": "2010 – 2015",
+   "bbox": [
+    90,
+    603,
+    190,
+    616
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    625,
+    326,
+    645
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    648,
+    144,
+    666
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    688,
+    190,
+    701
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    710,
+    357,
+    730
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    733,
+    305,
+    751
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    783,
+    210,
+    805
+   ]
+  },
+  {
+   "text": "német (B1), olasz (A2)",
+   "bbox": [
+    90,
+    831,
+    272,
+    848
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    877,
+    200,
+    899
+   ]
+  },
+  {
+   "text": "Python, Excel, Java, Git, JavaScript, ügyfélkezelés",
+   "bbox": [
+    90,
+    925,
+    494,
+    943
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

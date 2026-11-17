@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Farkas Ágnes",
+  "anyja_neve": "Lengyel Laura",
+  "szuletesi_hely": "Nagykanizsa",
+  "szuletesi_datum": "1969.03.13.",
+  "lakcim": "H-8483 Keresztfa, Petőfi sándor utca 38.",
+  "telefon": "+36 30 659 9845",
+  "email": "farkas.agnes@freemail.hu",
+  "adoazonosito_jel": "8373260323",
+  "taj_szam": "715 903 021",
+  "kelt": "Vácszékfa, 2024.11.05."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    303,
+    99,
+    939,
+    132
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    476,
+    156,
+    764,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    98,
+    212,
+    304,
+    233
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    267,
+    151,
+    282
+   ]
+  },
+  {
+   "text": "Farkas Ágnes",
+   "bbox": [
+    436,
+    260,
+    567,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    321,
+    213,
+    340
+   ]
+  },
+  {
+   "text": "Lengyel Laura",
+   "bbox": [
+    436,
+    321,
+    579,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    110,
+    375,
+    234,
+    394
+   ]
+  },
+  {
+   "text": "Nagykanizsa",
+   "bbox": [
+    435,
+    372,
+    561,
+    394
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    110,
+    429,
+    225,
+    444
+   ]
+  },
+  {
+   "text": "1969.03.13.",
+   "bbox": [
+    436,
+    427,
+    550,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    110,
+    483,
+    180,
+    498
+   ]
+  },
+  {
+   "text": "H-8483 Keresztfa, Petőfi sándor utca 38.",
+   "bbox": [
+    436,
+    481,
+    831,
+    502
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    537,
+    224,
+    552
+   ]
+  },
+  {
+   "text": "+36 30 659 9845",
+   "bbox": [
+    436,
+    539,
+    600,
+    555
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    110,
+    591,
+    209,
+    606
+   ]
+  },
+  {
+   "text": "farkas.agnes@freemail.hu",
+   "bbox": [
+    436,
+    590,
+    690,
+    612
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    645,
+    261,
+    664
+   ]
+  },
+  {
+   "text": "8373260323",
+   "bbox": [
+    436,
+    648,
+    556,
+    664
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    699,
+    199,
+    714
+   ]
+  },
+  {
+   "text": "715 903 021",
+   "bbox": [
+    436,
+    696,
+    556,
+    712
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    98,
+    780,
+    267,
+    801
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    143,
+    824,
+    437,
+    843
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    143,
+    869,
+    284,
+    884
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    914,
+    458,
+    933
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    98,
+    1017,
+    142,
+    1033
+   ]
+  },
+  {
+   "text": "Vácszékfa, 2024.11.05.",
+   "bbox": [
+    188,
+    1014,
+    415,
+    1035
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1067,
+    975,
+    1080
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

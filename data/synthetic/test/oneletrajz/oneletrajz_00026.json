@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Orosz Márk",
+  "email": "orosz.mark@example.hu",
+  "telefon": "+36 70 966 8750",
+  "lakcim": "H-3201 Kecskemét, Dunaújvárosi utca 147.",
+  "szuletesi_datum": "1985. február 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2011 – 2013"
+   },
+   {
+    "ceg": "Kiss és Társa Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2009 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Java",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Orosz Márk",
+   "bbox": [
+    495,
+    115,
+    745,
+    150
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    180,
+    719,
+    204
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    155,
+    246
+   ]
+  },
+  {
+   "text": "orosz.mark@example.hu",
+   "bbox": [
+    330,
+    231,
+    544,
+    251
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    261,
+    167,
+    276
+   ]
+  },
+  {
+   "text": "+36 70 966 8750",
+   "bbox": [
+    330,
+    262,
+    480,
+    276
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    291,
+    161,
+    306
+   ]
+  },
+  {
+   "text": "H-3201 Kecskemét, Dunaújvárosi utca 147.",
+   "bbox": [
+    330,
+    291,
+    701,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    321,
+    246,
+    336
+   ]
+  },
+  {
+   "text": "1985. február 24.",
+   "bbox": [
+    330,
+    321,
+    477,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    314,
+    396
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    90,
+    422,
+    198,
+    436
+   ]
+  },
+  {
+   "text": "projektmenedzser – Farkas Trade Kft.",
+   "bbox": [
+    90,
+    445,
+    454,
+    466
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    90,
+    486,
+    198,
+    500
+   ]
+  },
+  {
+   "text": "értékesítő – Kiss és Társa Zrt.",
+   "bbox": [
+    90,
+    509,
+    372,
+    525
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    560,
+    246,
+    584
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    610,
+    198,
+    624
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    633,
+    266,
+    654
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    657,
+    208,
+    677
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    698,
+    198,
+    712
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    721,
+    367,
+    742
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    745,
+    312,
+    765
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    796,
+    218,
+    820
+   ]
+  },
+  {
+   "text": "olasz (A2), német (B1)",
+   "bbox": [
+    90,
+    845,
+    278,
+    863
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    892,
+    208,
+    916
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, Java, SQL",
+   "bbox": [
+    90,
+    941,
+    297,
+    961
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

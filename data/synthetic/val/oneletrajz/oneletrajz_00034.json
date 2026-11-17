@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Deák Miklós",
+  "email": "deak.miklos@example.hu",
+  "telefon": "06 1 471 8326",
+  "lakcim": "H-2845 Kishídfalu, Mosonmagyaróvári utca 69.",
+  "szuletesi_datum": "1996. május 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Boros Consulting Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Németh és Társa Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2023 – 2025"
+   },
+   {
+    "ceg": "Szabó Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2020 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Linux",
+   "JavaScript",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Deák Miklós",
+   "bbox": [
+    471,
+    110,
+    769,
+    151
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    559,
+    178,
+    680,
+    208
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    236,
+    172,
+    254
+   ]
+  },
+  {
+   "text": "deak.miklos@example.hu",
+   "bbox": [
+    330,
+    236,
+    585,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    269,
+    185,
+    287
+   ]
+  },
+  {
+   "text": "06 1 471 8326",
+   "bbox": [
+    330,
+    270,
+    481,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    302,
+    180,
+    320
+   ]
+  },
+  {
+   "text": "H-2845 Kishídfalu, Mosonmagyaróvári utca 69.",
+   "bbox": [
+    330,
+    301,
+    803,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    335,
+    286,
+    353
+   ]
+  },
+  {
+   "text": "1996. május 5.",
+   "bbox": [
+    330,
+    334,
+    483,
+    358
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    389,
+    362,
+    415
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    441,
+    247,
+    464
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Boros Consulting Kft.",
+   "bbox": [
+    90,
+    467,
+    694,
+    492
+   ]
+  },
+  {
+   "text": "2023 – 2025",
+   "bbox": [
+    90,
+    512,
+    221,
+    529
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Németh és Társa Bt.",
+   "bbox": [
+    89,
+    537,
+    541,
+    562
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    582,
+    221,
+    599
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Consulting Kft.",
+   "bbox": [
+    90,
+    607,
+    576,
+    632
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    661,
+    274,
+    688
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    90,
+    715,
+    221,
+    732
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    740,
+    706,
+    765
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    767,
+    333,
+    786
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    812,
+    221,
+    829
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    837,
+    380,
+    862
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    864,
+    347,
+    888
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    918,
+    242,
+    945
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    971,
+    197,
+    994
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1020,
+    233,
+    1047
+   ]
+  },
+  {
+   "text": "Docker, Linux, JavaScript, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    1072,
+    603,
+    1096
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

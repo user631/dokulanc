@@ -1,0 +1,759 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2025/06190",
+  "kiallitas_datuma": "2025. szeptember 6.",
+  "teljesites_datuma": "2025. szeptember 2.",
+  "fizetesi_hatarido": "2025. október 6.",
+  "elado_nev": "Szücs Tech Zrt.",
+  "elado_cim": "H-2313 Szolnok, Bajai utca 206.",
+  "elado_adoszam": "87954702-2-35",
+  "vevo_nev": "Kiss Tibor",
+  "vevo_cim": "H-2882 Ráchetvenfalu, Petőfi sándor utca 17.",
+  "vevo_adoszam": null,
+  "bankszamla": "39154082-13108906-25055041",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "396 310 Ft",
+  "afa_osszesen": "77 922 Ft",
+  "brutto_osszesen": "474 232 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "12 db",
+    "egysegar": "10 170",
+    "netto": "122 040",
+    "afa_kulcs": "5%",
+    "afa": "6 102",
+    "brutto": "128 142"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "1 260",
+    "netto": "3 780",
+    "afa_kulcs": "18%",
+    "afa": "680",
+    "brutto": "4 460"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "3 db",
+    "egysegar": "1 100",
+    "netto": "3 300",
+    "afa_kulcs": "5%",
+    "afa": "165",
+    "brutto": "3 465"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "4 csomag",
+    "egysegar": "3 240",
+    "netto": "12 960",
+    "afa_kulcs": "18%",
+    "afa": "2 333",
+    "brutto": "15 293"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "242 960",
+    "netto": "242 960",
+    "afa_kulcs": "27%",
+    "afa": "65 599",
+    "brutto": "308 559"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "11 270",
+    "netto": "11 270",
+    "afa_kulcs": "27%",
+    "afa": "3 043",
+    "brutto": "14 313"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    551,
+    82,
+    689,
+    111
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/06190",
+   "bbox": [
+    453,
+    138,
+    787,
+    154
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    74,
+    217,
+    140,
+    234
+   ]
+  },
+  {
+   "text": "Szücs Tech Zrt.",
+   "bbox": [
+    74,
+    252,
+    234,
+    268
+   ]
+  },
+  {
+   "text": "H-2313 Szolnok, Bajai utca 206.",
+   "bbox": [
+    74,
+    284,
+    359,
+    303
+   ]
+  },
+  {
+   "text": "Adószám: 87954702-2-35",
+   "bbox": [
+    73,
+    312,
+    304,
+    327
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    217,
+    689,
+    234
+   ]
+  },
+  {
+   "text": "Kiss Tibor",
+   "bbox": [
+    630,
+    252,
+    736,
+    268
+   ]
+  },
+  {
+   "text": "H-2882 Ráchetvenfalu, Petőfi sándor utca 17.",
+   "bbox": [
+    630,
+    284,
+    1036,
+    302
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    74,
+    378,
+    203,
+    390
+   ]
+  },
+  {
+   "text": "2025. szeptember 6.",
+   "bbox": [
+    74,
+    404,
+    251,
+    422
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    378,
+    487,
+    393
+   ]
+  },
+  {
+   "text": "2025. szeptember 2.",
+   "bbox": [
+    347,
+    404,
+    524,
+    422
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    378,
+    753,
+    390
+   ]
+  },
+  {
+   "text": "2025. október 6.",
+   "bbox": [
+    620,
+    404,
+    760,
+    418
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    893,
+    378,
+    995,
+    390
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    893,
+    404,
+    977,
+    422
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    74,
+    452,
+    171,
+    467
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    452,
+    567,
+    467
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    677,
+    452,
+    751,
+    467
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    839,
+    452,
+    882,
+    464
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    898,
+    449,
+    947,
+    464
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1017,
+    449,
+    1052,
+    464
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1115,
+    452,
+    1166,
+    464
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    510,
+    491,
+    551,
+    503
+   ]
+  },
+  {
+   "text": "10 170",
+   "bbox": [
+    701,
+    491,
+    751,
+    503
+   ]
+  },
+  {
+   "text": "122 040",
+   "bbox": [
+    823,
+    491,
+    882,
+    503
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    923,
+    491,
+    947,
+    503
+   ]
+  },
+  {
+   "text": "6 102",
+   "bbox": [
+    1010,
+    491,
+    1051,
+    503
+   ]
+  },
+  {
+   "text": "128 142",
+   "bbox": [
+    1107,
+    491,
+    1166,
+    503
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    74,
+    490,
+    278,
+    506
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    510,
+    523,
+    571,
+    536
+   ]
+  },
+  {
+   "text": "1 260",
+   "bbox": [
+    710,
+    524,
+    751,
+    536
+   ]
+  },
+  {
+   "text": "3 780",
+   "bbox": [
+    841,
+    524,
+    882,
+    536
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    914,
+    524,
+    947,
+    536
+   ]
+  },
+  {
+   "text": "680",
+   "bbox": [
+    1024,
+    524,
+    1051,
+    536
+   ]
+  },
+  {
+   "text": "4 460",
+   "bbox": [
+    1125,
+    524,
+    1166,
+    536
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    73,
+    521,
+    190,
+    539
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    510,
+    557,
+    542,
+    569
+   ]
+  },
+  {
+   "text": "1 100",
+   "bbox": [
+    710,
+    557,
+    751,
+    569
+   ]
+  },
+  {
+   "text": "3 300",
+   "bbox": [
+    841,
+    557,
+    882,
+    569
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    923,
+    557,
+    947,
+    569
+   ]
+  },
+  {
+   "text": "165",
+   "bbox": [
+    1024,
+    557,
+    1051,
+    569
+   ]
+  },
+  {
+   "text": "3 465",
+   "bbox": [
+    1125,
+    557,
+    1166,
+    569
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    74,
+    557,
+    164,
+    572
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    510,
+    590,
+    583,
+    605
+   ]
+  },
+  {
+   "text": "3 240",
+   "bbox": [
+    710,
+    590,
+    751,
+    602
+   ]
+  },
+  {
+   "text": "12 960",
+   "bbox": [
+    832,
+    590,
+    882,
+    602
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    914,
+    590,
+    947,
+    602
+   ]
+  },
+  {
+   "text": "2 333",
+   "bbox": [
+    1010,
+    590,
+    1051,
+    602
+   ]
+  },
+  {
+   "text": "15 293",
+   "bbox": [
+    1116,
+    590,
+    1166,
+    602
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    74,
+    589,
+    213,
+    605
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    510,
+    623,
+    582,
+    635
+   ]
+  },
+  {
+   "text": "242 960",
+   "bbox": [
+    692,
+    623,
+    751,
+    635
+   ]
+  },
+  {
+   "text": "242 960",
+   "bbox": [
+    823,
+    623,
+    882,
+    635
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    914,
+    623,
+    947,
+    635
+   ]
+  },
+  {
+   "text": "65 599",
+   "bbox": [
+    1001,
+    623,
+    1051,
+    635
+   ]
+  },
+  {
+   "text": "308 559",
+   "bbox": [
+    1107,
+    623,
+    1166,
+    635
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    74,
+    623,
+    245,
+    638
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    656,
+    542,
+    668
+   ]
+  },
+  {
+   "text": "11 270",
+   "bbox": [
+    701,
+    656,
+    751,
+    668
+   ]
+  },
+  {
+   "text": "11 270",
+   "bbox": [
+    832,
+    656,
+    882,
+    668
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    914,
+    656,
+    947,
+    668
+   ]
+  },
+  {
+   "text": "3 043",
+   "bbox": [
+    1010,
+    656,
+    1051,
+    668
+   ]
+  },
+  {
+   "text": "14 313",
+   "bbox": [
+    1116,
+    656,
+    1166,
+    668
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    74,
+    655,
+    170,
+    671
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    681,
+    710,
+    836,
+    725
+   ]
+  },
+  {
+   "text": "396 310 Ft",
+   "bbox": [
+    1063,
+    710,
+    1166,
+    725
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    740,
+    836,
+    759
+   ]
+  },
+  {
+   "text": "77 922 Ft",
+   "bbox": [
+    1075,
+    744,
+    1166,
+    759
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    626,
+    777,
+    836,
+    793
+   ]
+  },
+  {
+   "text": "474 232 Ft",
+   "bbox": [
+    1062,
+    778,
+    1166,
+    793
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 39154082-13108906-25055041",
+   "bbox": [
+    74,
+    841,
+    514,
+    855
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    74,
+    868,
+    561,
+    883
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    506,
+    1665,
+    734,
+    1679
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

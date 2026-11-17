@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FARKAS DISZKONT KFT.",
+  "uzlet_cim": "H-7129 Pusztaháza, Dunakereszti utca 236.",
+  "adoszam": "45666276-2-27",
+  "datum": "2025.12.18.",
+  "ido": "09:35",
+  "nyugtaszam": "3338/92476",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "7 030 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "416"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1195"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "708"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "554"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "2316"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "803"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "1038"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FARKAS DISZKONT KFT.",
+   "bbox": [
+    166,
+    35,
+    446,
+    49
+   ]
+  },
+  {
+   "text": "H-7129 Pusztaháza, Dunakereszti utca 236.",
+   "bbox": [
+    80,
+    63,
+    531,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 45666276-2-27",
+   "bbox": [
+    185,
+    88,
+    427,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    131,
+    351,
+    147
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    172,
+    141,
+    187
+   ]
+  },
+  {
+   "text": "416 A00",
+   "bbox": [
+    497,
+    172,
+    588,
+    187
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    201,
+    154,
+    216
+   ]
+  },
+  {
+   "text": "1195 C00",
+   "bbox": [
+    484,
+    201,
+    588,
+    216
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    230,
+    219,
+    245
+   ]
+  },
+  {
+   "text": "708 A00",
+   "bbox": [
+    497,
+    230,
+    588,
+    245
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    261,
+    206,
+    274
+   ]
+  },
+  {
+   "text": "554 B00",
+   "bbox": [
+    497,
+    259,
+    588,
+    274
+   ]
+  },
+  {
+   "text": "3 DB x 772",
+   "bbox": [
+    24,
+    288,
+    134,
+    301
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    311,
+    141,
+    326
+   ]
+  },
+  {
+   "text": "2316 B00",
+   "bbox": [
+    484,
+    311,
+    588,
+    326
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    340,
+    180,
+    355
+   ]
+  },
+  {
+   "text": "803 B00",
+   "bbox": [
+    497,
+    340,
+    588,
+    355
+   ]
+  },
+  {
+   "text": "3 DB x 346",
+   "bbox": [
+    24,
+    369,
+    134,
+    382
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    394,
+    193,
+    407
+   ]
+  },
+  {
+   "text": "1038 C00",
+   "bbox": [
+    484,
+    392,
+    588,
+    407
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    431,
+    174,
+    451
+   ]
+  },
+  {
+   "text": "7 030 Ft",
+   "bbox": [
+    468,
+    433,
+    588,
+    451
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    470,
+    167,
+    487
+   ]
+  },
+  {
+   "text": "7 030 Ft",
+   "bbox": [
+    484,
+    472,
+    588,
+    487
+   ]
+  },
+  {
+   "text": "2025.12.18.",
+   "bbox": [
+    24,
+    514,
+    145,
+    528
+   ]
+  },
+  {
+   "text": "09:35",
+   "bbox": [
+    533,
+    514,
+    588,
+    528
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3338/92476",
+   "bbox": [
+    24,
+    542,
+    266,
+    560
+   ]
+  },
+  {
+   "text": "AP A35976256",
+   "bbox": [
+    24,
+    572,
+    156,
+    586
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    216,
+    612,
+    396,
+    628
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  612,
+  673
+ ]
+}

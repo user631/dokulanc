@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kiss László",
+  "anyja_neve": "Gál Magdolna",
+  "szuletesi_hely": "Dunahídbánya",
+  "szuletesi_datum": "1982. 07. 17.",
+  "lakcim": "H-6140 Ligetvára, Hajdúmindszenti út 90.",
+  "telefon": "06 1 259 2993",
+  "email": "kiss.laszlo@example.hu",
+  "adoazonosito_jel": "8422000172",
+  "taj_szam": "284 931 196",
+  "kelt": "Veszprém, 2024. 12. 28."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    459,
+    100,
+    780,
+    134
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    210,
+    318,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    263,
+    152,
+    279
+   ]
+  },
+  {
+   "text": "Kiss László",
+   "bbox": [
+    401,
+    261,
+    552,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    318,
+    218,
+    336
+   ]
+  },
+  {
+   "text": "Gál Magdolna",
+   "bbox": [
+    401,
+    311,
+    594,
+    337
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    369,
+    243,
+    389
+   ]
+  },
+  {
+   "text": "Dunahídbánya",
+   "bbox": [
+    401,
+    365,
+    615,
+    391
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    422,
+    233,
+    438
+   ]
+  },
+  {
+   "text": "1982. 07. 17.",
+   "bbox": [
+    401,
+    422,
+    583,
+    441
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    475,
+    182,
+    491
+   ]
+  },
+  {
+   "text": "H-6140 Ligetvára, Hajdúmindszenti út 90.",
+   "bbox": [
+    401,
+    472,
+    986,
+    498
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    528,
+    233,
+    544
+   ]
+  },
+  {
+   "text": "06 1 259 2993",
+   "bbox": [
+    401,
+    531,
+    611,
+    549
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    581,
+    215,
+    597
+   ]
+  },
+  {
+   "text": "kiss.laszlo@example.hu",
+   "bbox": [
+    401,
+    578,
+    716,
+    603
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    634,
+    269,
+    654
+   ]
+  },
+  {
+   "text": "8422000172",
+   "bbox": [
+    401,
+    634,
+    581,
+    653
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    687,
+    204,
+    703
+   ]
+  },
+  {
+   "text": "284 931 196",
+   "bbox": [
+    401,
+    689,
+    583,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    768,
+    274,
+    790
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    811,
+    467,
+    831
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    856,
+    297,
+    872
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    901,
+    480,
+    921
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    1006,
+    144,
+    1021
+   ]
+  },
+  {
+   "text": "Veszprém, 2024. 12. 28.",
+   "bbox": [
+    189,
+    1005,
+    493,
+    1029
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1053,
+    976,
+    1067
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

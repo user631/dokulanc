@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2026/01625",
+  "kiallitas_datuma": "2026-03-25",
+  "teljesites_datuma": "2026-03-24",
+  "fizetesi_hatarido": "2026-04-02",
+  "elado_nev": "Nagy Tech Kft.",
+  "elado_cim": "H-6297 Tamásihalas, Érdi út 231.",
+  "elado_adoszam": "31500647-3-38",
+  "vevo_nev": "Takács Zrt.",
+  "vevo_cim": "H-7591 Bakonytamásinádasd, Borsodtapolcai utca 25.",
+  "vevo_adoszam": "87737253-2-26",
+  "bankszamla": "76074875-83702487-99518746",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "305 040 Ft",
+  "afa_osszesen": "82 361 Ft",
+  "brutto_osszesen": "387 401 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "4 db",
+    "egysegar": "75 570",
+    "netto": "302 280",
+    "afa_kulcs": "27%",
+    "afa": "81 616",
+    "brutto": "383 896"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 760",
+    "netto": "2 760",
+    "afa_kulcs": "27%",
+    "afa": "745",
+    "brutto": "3 505"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    127,
+    118,
+    197,
+    135
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    755,
+    100,
+    1158,
+    131
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/01625",
+   "bbox": [
+    902,
+    157,
+    1158,
+    174
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    81,
+    235,
+    147,
+    254
+   ]
+  },
+  {
+   "text": "Takács Zrt.",
+   "bbox": [
+    82,
+    271,
+    208,
+    290
+   ]
+  },
+  {
+   "text": "H-7591 Bakonytamásinádasd, Borsodtapolcai utca",
+   "bbox": [
+    82,
+    306,
+    570,
+    326
+   ]
+  },
+  {
+   "text": "25.",
+   "bbox": [
+    82,
+    336,
+    112,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 87737253-2-26",
+   "bbox": [
+    81,
+    366,
+    331,
+    382
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    235,
+    704,
+    254
+   ]
+  },
+  {
+   "text": "Nagy Tech Kft.",
+   "bbox": [
+    630,
+    273,
+    798,
+    295
+   ]
+  },
+  {
+   "text": "H-6297 Tamásihalas, Érdi út 231.",
+   "bbox": [
+    630,
+    302,
+    953,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 31500647-3-38",
+   "bbox": [
+    629,
+    336,
+    879,
+    352
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    433,
+    255,
+    450
+   ]
+  },
+  {
+   "text": "2026-03-25",
+   "bbox": [
+    382,
+    434,
+    492,
+    450
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    465,
+    270,
+    486
+   ]
+  },
+  {
+   "text": "2026-03-24",
+   "bbox": [
+    382,
+    466,
+    492,
+    482
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    497,
+    259,
+    514
+   ]
+  },
+  {
+   "text": "2026-04-02",
+   "bbox": [
+    382,
+    498,
+    492,
+    514
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    529,
+    220,
+    546
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    382,
+    530,
+    458,
+    546
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    573,
+    198,
+    592
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    574,
+    579,
+    592
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    661,
+    573,
+    750,
+    592
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    573,
+    878,
+    588
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    570,
+    942,
+    589
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    570,
+    1045,
+    588
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1101,
+    573,
+    1158,
+    588
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    512,
+    615,
+    550,
+    629
+   ]
+  },
+  {
+   "text": "75 570",
+   "bbox": [
+    689,
+    615,
+    749,
+    629
+   ]
+  },
+  {
+   "text": "302 280",
+   "bbox": [
+    807,
+    615,
+    878,
+    629
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    615,
+    942,
+    629
+   ]
+  },
+  {
+   "text": "81 616",
+   "bbox": [
+    985,
+    615,
+    1045,
+    629
+   ]
+  },
+  {
+   "text": "383 896",
+   "bbox": [
+    1087,
+    615,
+    1158,
+    629
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    82,
+    615,
+    180,
+    629
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    512,
+    650,
+    597,
+    668
+   ]
+  },
+  {
+   "text": "2 760",
+   "bbox": [
+    700,
+    650,
+    749,
+    664
+   ]
+  },
+  {
+   "text": "2 760",
+   "bbox": [
+    829,
+    650,
+    878,
+    664
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    650,
+    942,
+    664
+   ]
+  },
+  {
+   "text": "745",
+   "bbox": [
+    1012,
+    650,
+    1045,
+    664
+   ]
+  },
+  {
+   "text": "3 505",
+   "bbox": [
+    1109,
+    650,
+    1158,
+    664
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    82,
+    650,
+    307,
+    668
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    661,
+    705,
+    828,
+    722
+   ]
+  },
+  {
+   "text": "305 040 Ft",
+   "bbox": [
+    1048,
+    705,
+    1159,
+    722
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    671,
+    737,
+    828,
+    758
+   ]
+  },
+  {
+   "text": "82 361 Ft",
+   "bbox": [
+    1061,
+    741,
+    1159,
+    758
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    698,
+    777,
+    828,
+    799
+   ]
+  },
+  {
+   "text": "387 401 Ft",
+   "bbox": [
+    1046,
+    777,
+    1158,
+    794
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 76074875-83702487-99518746",
+   "bbox": [
+    82,
+    844,
+    566,
+    859
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    489,
+    1655,
+    751,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

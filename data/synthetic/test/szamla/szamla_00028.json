@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2026/04661",
+  "kiallitas_datuma": "2026-12-04",
+  "teljesites_datuma": "2026-11-29",
+  "fizetesi_hatarido": "2027-01-03",
+  "elado_nev": "Nagy Consulting Kft.",
+  "elado_cim": "H-5664 Mártonhida, József attila utca 174.",
+  "elado_adoszam": "14548868-4-31",
+  "vevo_nev": "Jónás Tech Zrt.",
+  "vevo_cim": "H-6098 Mosonmagyaróvár, Keresztfalui tér 217.",
+  "vevo_adoszam": "49595710-5-03",
+  "bankszamla": "14462409-44981898-34540447",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "192 810 Ft",
+  "afa_osszesen": "52 059 Ft",
+  "brutto_osszesen": "244 869 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "39 410",
+    "netto": "39 410",
+    "afa_kulcs": "27%",
+    "afa": "10 641",
+    "brutto": "50 051"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "10 db",
+    "egysegar": "15 340",
+    "netto": "153 400",
+    "afa_kulcs": "27%",
+    "afa": "41 418",
+    "brutto": "194 818"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    126,
+    118,
+    197,
+    134
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1035,
+    100,
+    1159,
+    127
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/04661",
+   "bbox": [
+    920,
+    155,
+    1159,
+    171
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    81,
+    236,
+    143,
+    251
+   ]
+  },
+  {
+   "text": "Nagy Consulting Kft.",
+   "bbox": [
+    81,
+    270,
+    281,
+    290
+   ]
+  },
+  {
+   "text": "H-5664 Mártonhida, József attila utca 174.",
+   "bbox": [
+    81,
+    301,
+    429,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 14548868-4-31",
+   "bbox": [
+    81,
+    329,
+    292,
+    343
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    236,
+    685,
+    251
+   ]
+  },
+  {
+   "text": "Jónás Tech Zrt.",
+   "bbox": [
+    630,
+    270,
+    781,
+    285
+   ]
+  },
+  {
+   "text": "H-6098 Mosonmagyaróvár, Keresztfalui tér 217.",
+   "bbox": [
+    630,
+    301,
+    1026,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 49595710-5-03",
+   "bbox": [
+    630,
+    329,
+    841,
+    343
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    81,
+    396,
+    205,
+    407
+   ]
+  },
+  {
+   "text": "2026-12-04",
+   "bbox": [
+    81,
+    422,
+    173,
+    434
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    396,
+    481,
+    411
+   ]
+  },
+  {
+   "text": "2026-11-29",
+   "bbox": [
+    350,
+    422,
+    442,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    396,
+    744,
+    407
+   ]
+  },
+  {
+   "text": "2027-01-03",
+   "bbox": [
+    619,
+    422,
+    711,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    396,
+    982,
+    407
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    888,
+    421,
+    944,
+    434
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    470,
+    171,
+    485
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    470,
+    567,
+    485
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    679,
+    470,
+    749,
+    485
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    837,
+    470,
+    878,
+    481
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    892,
+    467,
+    943,
+    481
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    467,
+    1046,
+    481
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1110,
+    470,
+    1159,
+    481
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    512,
+    508,
+    542,
+    520
+   ]
+  },
+  {
+   "text": "39 410",
+   "bbox": [
+    700,
+    509,
+    749,
+    520
+   ]
+  },
+  {
+   "text": "39 410",
+   "bbox": [
+    829,
+    509,
+    878,
+    520
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    509,
+    943,
+    520
+   ]
+  },
+  {
+   "text": "10 641",
+   "bbox": [
+    996,
+    509,
+    1045,
+    520
+   ]
+  },
+  {
+   "text": "50 051",
+   "bbox": [
+    1110,
+    509,
+    1159,
+    520
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    81,
+    508,
+    211,
+    524
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    512,
+    541,
+    552,
+    553
+   ]
+  },
+  {
+   "text": "15 340",
+   "bbox": [
+    700,
+    542,
+    749,
+    553
+   ]
+  },
+  {
+   "text": "153 400",
+   "bbox": [
+    820,
+    542,
+    878,
+    553
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    542,
+    943,
+    553
+   ]
+  },
+  {
+   "text": "41 418",
+   "bbox": [
+    996,
+    542,
+    1045,
+    553
+   ]
+  },
+  {
+   "text": "194 818",
+   "bbox": [
+    1101,
+    542,
+    1159,
+    553
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    81,
+    541,
+    172,
+    557
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    697,
+    594,
+    829,
+    609
+   ]
+  },
+  {
+   "text": "192 810 Ft",
+   "bbox": [
+    1065,
+    595,
+    1159,
+    609
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    703,
+    624,
+    829,
+    643
+   ]
+  },
+  {
+   "text": "52 059 Ft",
+   "bbox": [
+    1076,
+    629,
+    1159,
+    643
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    731,
+    663,
+    829,
+    681
+   ]
+  },
+  {
+   "text": "244 869 Ft",
+   "bbox": [
+    1063,
+    663,
+    1159,
+    677
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 14462409-44981898-34540447",
+   "bbox": [
+    81,
+    726,
+    473,
+    739
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1658,
+    731,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

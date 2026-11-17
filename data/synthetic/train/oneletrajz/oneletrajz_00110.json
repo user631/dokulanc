@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Váradi Mária",
+  "email": "varadi.maria@citromail.hu",
+  "telefon": "+36 30 786 1299",
+  "lakcim": "H-3069 Felsőhátvég, Mosonszéki tér 124.",
+  "szuletesi_datum": "1993. október 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2012 – 2017"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bodnár Logisztika Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "ügyfélkezelés",
+   "JavaScript",
+   "Python",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    207,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    101,
+    158
+   ]
+  },
+  {
+   "text": "varadi.maria@citromail.hu",
+   "bbox": [
+    40,
+    166,
+    268,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    111,
+    210
+   ]
+  },
+  {
+   "text": "+36 30 786 1299",
+   "bbox": [
+    40,
+    219,
+    193,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    107,
+    262
+   ]
+  },
+  {
+   "text": "H-3069 Felsőhátvég, Mosonszéki tér",
+   "bbox": [
+    40,
+    269,
+    354,
+    286
+   ]
+  },
+  {
+   "text": "124.",
+   "bbox": [
+    40,
+    292,
+    79,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    321,
+    193,
+    335
+   ]
+  },
+  {
+   "text": "1993. október 14.",
+   "bbox": [
+    40,
+    342,
+    195,
+    356
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    400,
+    195,
+    421
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    441,
+    154,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    177,
+    513
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    533,
+    232,
+    551
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    558,
+    162,
+    576
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    584,
+    133,
+    601
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    608,
+    102,
+    626
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    634,
+    81,
+    647
+   ]
+  },
+  {
+   "text": "Váradi Mária",
+   "bbox": [
+    450,
+    108,
+    757,
+    144
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    173,
+    570,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    707,
+    260
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    286,
+    572,
+    300
+   ]
+  },
+  {
+   "text": "rendszergazda – Bodnár Logisztika Kft.",
+   "bbox": [
+    450,
+    307,
+    889,
+    328
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    358,
+    623,
+    381
+   ]
+  },
+  {
+   "text": "2012 – 2017",
+   "bbox": [
+    450,
+    407,
+    572,
+    421
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    429,
+    667,
+    449
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    452,
+    602,
+    471
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    492,
+    572,
+    506
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    513,
+    770,
+    534
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    537,
+    635,
+    556
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

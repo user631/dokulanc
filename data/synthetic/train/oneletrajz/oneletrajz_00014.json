@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Balázs Tamás",
+  "email": "balazs.tamas@outlook.com",
+  "telefon": "+36 70 157 3244",
+  "lakcim": "H-6156 Sopron, Egeri utca 94.",
+  "szuletesi_datum": "2003.08.05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2023 – 2026"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pál Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "SAP",
+   "C#",
+   "Excel",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balázs Tamás",
+   "bbox": [
+    477,
+    106,
+    763,
+    141
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    171,
+    719,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    155,
+    237
+   ]
+  },
+  {
+   "text": "balazs.tamas@outlook.com",
+   "bbox": [
+    330,
+    222,
+    570,
+    239
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    167,
+    267
+   ]
+  },
+  {
+   "text": "+36 70 157 3244",
+   "bbox": [
+    330,
+    253,
+    480,
+    267
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    161,
+    297
+   ]
+  },
+  {
+   "text": "H-6156 Sopron, Egeri utca 94.",
+   "bbox": [
+    330,
+    282,
+    592,
+    302
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    312,
+    246,
+    327
+   ]
+  },
+  {
+   "text": "2003.08.05.",
+   "bbox": [
+    330,
+    313,
+    430,
+    327
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    363,
+    314,
+    387
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    412,
+    222,
+    432
+   ]
+  },
+  {
+   "text": "rendszergazda – Pál Tech Kft.",
+   "bbox": [
+    90,
+    436,
+    378,
+    457
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    487,
+    246,
+    511
+   ]
+  },
+  {
+   "text": "2023 – 2026",
+   "bbox": [
+    90,
+    537,
+    198,
+    551
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    560,
+    266,
+    581
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    584,
+    208,
+    604
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    625,
+    198,
+    639
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    648,
+    343,
+    664
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    672,
+    166,
+    692
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    723,
+    218,
+    747
+   ]
+  },
+  {
+   "text": "francia (A2), angol (B2)",
+   "bbox": [
+    90,
+    772,
+    287,
+    792
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    819,
+    208,
+    843
+   ]
+  },
+  {
+   "text": "JavaScript, SAP, C#, Excel, ügyfélkezelés",
+   "bbox": [
+    90,
+    868,
+    432,
+    888
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

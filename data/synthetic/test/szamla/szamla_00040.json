@@ -1,0 +1,462 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/02892",
+  "kiallitas_datuma": "2024. 10. 23.",
+  "teljesites_datuma": "2024. 10. 21.",
+  "fizetesi_hatarido": "2024. 10. 31.",
+  "elado_nev": "Oláh Consulting Zrt.",
+  "elado_cim": "H-9110 Hídnádasd, Törökmártoni utca 223.",
+  "elado_adoszam": "64463917-3-18",
+  "vevo_nev": "Tóth Judit",
+  "vevo_cim": "H-5502 Miskolc, Váci utca 53.",
+  "vevo_adoszam": null,
+  "bankszamla": "55604264-79634399",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "82 160 Ft",
+  "afa_osszesen": "21 183 Ft",
+  "brutto_osszesen": "103 343 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "17 760",
+    "netto": "71 040",
+    "afa_kulcs": "27%",
+    "afa": "19 181",
+    "brutto": "90 221"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "4 csomag",
+    "egysegar": "2 780",
+    "netto": "11 120",
+    "afa_kulcs": "18%",
+    "afa": "2 002",
+    "brutto": "13 122"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    393,
+    97,
+    846,
+    146
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/02892",
+   "bbox": [
+    411,
+    160,
+    829,
+    185
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    96,
+    240,
+    183,
+    260
+   ]
+  },
+  {
+   "text": "Oláh Consulting Zrt.",
+   "bbox": [
+    96,
+    278,
+    370,
+    304
+   ]
+  },
+  {
+   "text": "H-9110 Hídnádasd, Törökmártoni utca 223.",
+   "bbox": [
+    96,
+    315,
+    560,
+    337
+   ]
+  },
+  {
+   "text": "Adószám: 64463917-3-18",
+   "bbox": [
+    95,
+    347,
+    367,
+    369
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    240,
+    707,
+    260
+   ]
+  },
+  {
+   "text": "Tóth Judit",
+   "bbox": [
+    630,
+    278,
+    770,
+    298
+   ]
+  },
+  {
+   "text": "H-5502 Miskolc, Váci utca 53.",
+   "bbox": [
+    630,
+    315,
+    949,
+    337
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    96,
+    417,
+    307,
+    435
+   ]
+  },
+  {
+   "text": "2024. 10. 23.",
+   "bbox": [
+    396,
+    422,
+    532,
+    439
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    96,
+    451,
+    321,
+    474
+   ]
+  },
+  {
+   "text": "2024. 10. 21.",
+   "bbox": [
+    396,
+    456,
+    529,
+    473
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    96,
+    485,
+    311,
+    503
+   ]
+  },
+  {
+   "text": "2024. 10. 31.",
+   "bbox": [
+    396,
+    490,
+    529,
+    507
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    96,
+    519,
+    261,
+    537
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    395,
+    519,
+    515,
+    542
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    564,
+    226,
+    585
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    565,
+    596,
+    585
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    647,
+    564,
+    745,
+    585
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    812,
+    564,
+    871,
+    580
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    869,
+    560,
+    934,
+    580
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    986,
+    560,
+    1034,
+    580
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1074,
+    564,
+    1144,
+    580
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    515,
+    608,
+    563,
+    627
+   ]
+  },
+  {
+   "text": "17 760",
+   "bbox": [
+    684,
+    608,
+    745,
+    627
+   ]
+  },
+  {
+   "text": "71 040",
+   "bbox": [
+    808,
+    612,
+    871,
+    627
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    608,
+    934,
+    627
+   ]
+  },
+  {
+   "text": "19 181",
+   "bbox": [
+    976,
+    608,
+    1033,
+    627
+   ]
+  },
+  {
+   "text": "90 221",
+   "bbox": [
+    1081,
+    612,
+    1144,
+    627
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    96,
+    607,
+    373,
+    628
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    515,
+    649,
+    603,
+    665
+   ]
+  },
+  {
+   "text": "2 780",
+   "bbox": [
+    691,
+    645,
+    745,
+    664
+   ]
+  },
+  {
+   "text": "11 120",
+   "bbox": [
+    814,
+    649,
+    871,
+    660
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    895,
+    645,
+    934,
+    660
+   ]
+  },
+  {
+   "text": "2 002",
+   "bbox": [
+    978,
+    649,
+    1033,
+    660
+   ]
+  },
+  {
+   "text": "13 122",
+   "bbox": [
+    1085,
+    649,
+    1144,
+    664
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    96,
+    644,
+    267,
+    665
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    701,
+    814,
+    720
+   ]
+  },
+  {
+   "text": "82 160 Ft",
+   "bbox": [
+    1039,
+    702,
+    1144,
+    720
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    654,
+    735,
+    814,
+    758
+   ]
+  },
+  {
+   "text": "21 183 Ft",
+   "bbox": [
+    1043,
+    740,
+    1144,
+    762
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    559,
+    777,
+    814,
+    796
+   ]
+  },
+  {
+   "text": "103 343 Ft",
+   "bbox": [
+    1011,
+    778,
+    1144,
+    801
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 55604264-79634399",
+   "bbox": [
+    96,
+    846,
+    500,
+    867
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    96,
+    877,
+    710,
+    896
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS KISBOLT BT.",
+  "uzlet_cim": "H-3283 Borsodgyörgyfalu, Nyírgyörgyi utca 22.",
+  "adoszam": "46139160-3-25",
+  "datum": "2025.05.04.",
+  "ido": "16:08",
+  "nyugtaszam": "2808/13480",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "758 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "408"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "350"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS KISBOLT BT.",
+   "bbox": [
+    159,
+    33,
+    383,
+    49
+   ]
+  },
+  {
+   "text": "H-3283 Borsodgyörgyfalu, Nyírgyörgyi utca",
+   "bbox": [
+    25,
+    66,
+    517,
+    85
+   ]
+  },
+  {
+   "text": "22.",
+   "bbox": [
+    253,
+    95,
+    289,
+    108
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46139160-3-25",
+   "bbox": [
+    139,
+    118,
+    403,
+    135
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    164,
+    316,
+    181
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    208,
+    206,
+    223
+   ]
+  },
+  {
+   "text": "408 A00",
+   "bbox": [
+    428,
+    208,
+    519,
+    223
+   ]
+  },
+  {
+   "text": "2 DB x 175",
+   "bbox": [
+    24,
+    238,
+    134,
+    251
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    264,
+    206,
+    283
+   ]
+  },
+  {
+   "text": "350 A00",
+   "bbox": [
+    428,
+    264,
+    519,
+    279
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    303,
+    159,
+    325
+   ]
+  },
+  {
+   "text": "758 Ft",
+   "bbox": [
+    429,
+    308,
+    519,
+    325
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    343,
+    167,
+    363
+   ]
+  },
+  {
+   "text": "758 Ft",
+   "bbox": [
+    441,
+    348,
+    519,
+    363
+   ]
+  },
+  {
+   "text": "2025.05.04.",
+   "bbox": [
+    24,
+    393,
+    156,
+    406
+   ]
+  },
+  {
+   "text": "16:08",
+   "bbox": [
+    459,
+    393,
+    519,
+    406
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2808/13480",
+   "bbox": [
+    24,
+    420,
+    288,
+    439
+   ]
+  },
+  {
+   "text": "AP A24423493",
+   "bbox": [
+    24,
+    455,
+    168,
+    468
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    181,
+    493,
+    361,
+    512
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  543,
+  558
+ ]
+}

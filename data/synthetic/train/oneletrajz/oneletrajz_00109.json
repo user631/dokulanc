@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szűcs Beáta",
+  "email": "szucs.beata@citromail.hu",
+  "telefon": "+36 30 702 6684",
+  "lakcim": "H-7363 Györgydevecser, Szerbmelléki utca 179.",
+  "szuletesi_datum": "1986. május 4.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Budai Szolgáltató Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2010 – 2014"
+   },
+   {
+    "ceg": "Szőke Trade Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2009 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "ügyfélkezelés",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    169,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    87,
+    155
+   ]
+  },
+  {
+   "text": "szucs.beata@citromail.hu",
+   "bbox": [
+    40,
+    165,
+    229,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    97,
+    209
+   ]
+  },
+  {
+   "text": "+36 30 702 6684",
+   "bbox": [
+    40,
+    220,
+    160,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    93,
+    263
+   ]
+  },
+  {
+   "text": "H-7363 Györgydevecser, Szerbmelléki utca",
+   "bbox": [
+    40,
+    273,
+    348,
+    288
+   ]
+  },
+  {
+   "text": "179.",
+   "bbox": [
+    40,
+    296,
+    72,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    327,
+    159,
+    339
+   ]
+  },
+  {
+   "text": "1986. május 4.",
+   "bbox": [
+    40,
+    349,
+    146,
+    364
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    408,
+    160,
+    426
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    449,
+    130,
+    465
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    475,
+    136,
+    491
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    528,
+    142,
+    546
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    569,
+    117,
+    585
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    595,
+    143,
+    611
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    621,
+    62,
+    634
+   ]
+  },
+  {
+   "text": "Szűcs Beáta",
+   "bbox": [
+    450,
+    101,
+    664,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    173,
+    616,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    649,
+    255
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    285,
+    550,
+    298
+   ]
+  },
+  {
+   "text": "irodavezető – Budai Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    309,
+    755,
+    327
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    450,
+    349,
+    550,
+    362
+   ]
+  },
+  {
+   "text": "értékesítő – Szőke Trade Bt.",
+   "bbox": [
+    450,
+    373,
+    692,
+    387
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    423,
+    587,
+    443
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    473,
+    550,
+    486
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    494,
+    593,
+    515
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    450,
+    520,
+    672,
+    534
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    561,
+    550,
+    574
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    585,
+    657,
+    603
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    608,
+    667,
+    626
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

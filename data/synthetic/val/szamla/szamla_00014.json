@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2026/00686",
+  "kiallitas_datuma": "2026.02.27.",
+  "teljesites_datuma": "2026.02.22.",
+  "fizetesi_hatarido": "2026.03.07.",
+  "elado_nev": "Németh Szolgáltató Bt.",
+  "elado_cim": "H-4378 Szentváros, Drávaháti tér 4.",
+  "elado_adoszam": "96789784-4-05",
+  "vevo_nev": "Varga Logisztika Bt.",
+  "vevo_cim": "H-7964 Mosonhetvenkövesd, Szombathelyi utca 72.",
+  "vevo_adoszam": "26520412-2-34",
+  "bankszamla": "76774379-13348691-86856194",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "1 910 Ft",
+  "afa_osszesen": "516 Ft",
+  "brutto_osszesen": "2 426 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "1 910",
+    "netto": "1 910",
+    "afa_kulcs": "27%",
+    "afa": "516",
+    "brutto": "2 426"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    549,
+    89,
+    691,
+    123
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2026/00686",
+   "bbox": [
+    468,
+    153,
+    771,
+    173
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    92,
+    234,
+    147,
+    250
+   ]
+  },
+  {
+   "text": "Varga Logisztika Bt.",
+   "bbox": [
+    92,
+    269,
+    277,
+    289
+   ]
+  },
+  {
+   "text": "H-7964 Mosonhetvenkövesd, Szombathelyi utca 72.",
+   "bbox": [
+    92,
+    302,
+    535,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 26520412-2-34",
+   "bbox": [
+    92,
+    331,
+    313,
+    345
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    234,
+    688,
+    250
+   ]
+  },
+  {
+   "text": "Németh Szolgáltató Bt.",
+   "bbox": [
+    630,
+    269,
+    850,
+    289
+   ]
+  },
+  {
+   "text": "H-4378 Szentváros, Drávaháti tér 4.",
+   "bbox": [
+    630,
+    302,
+    931,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 96789784-4-05",
+   "bbox": [
+    630,
+    331,
+    851,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    92,
+    398,
+    212,
+    410
+   ]
+  },
+  {
+   "text": "2026.02.27.",
+   "bbox": [
+    92,
+    425,
+    187,
+    438
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    356,
+    398,
+    488,
+    413
+   ]
+  },
+  {
+   "text": "2026.02.22.",
+   "bbox": [
+    356,
+    425,
+    451,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    398,
+    742,
+    410
+   ]
+  },
+  {
+   "text": "2026.03.07.",
+   "bbox": [
+    620,
+    425,
+    715,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    884,
+    398,
+    977,
+    410
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    884,
+    424,
+    959,
+    442
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    92,
+    474,
+    186,
+    489
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    475,
+    573,
+    489
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    679,
+    474,
+    747,
+    489
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    474,
+    873,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    893,
+    471,
+    936,
+    486
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    471,
+    1037,
+    486
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    474,
+    1148,
+    486
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    514,
+    585,
+    526
+   ]
+  },
+  {
+   "text": "1 910",
+   "bbox": [
+    706,
+    515,
+    746,
+    526
+   ]
+  },
+  {
+   "text": "1 910",
+   "bbox": [
+    833,
+    515,
+    873,
+    526
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    514,
+    936,
+    526
+   ]
+  },
+  {
+   "text": "516",
+   "bbox": [
+    1010,
+    515,
+    1037,
+    526
+   ]
+  },
+  {
+   "text": "2 426",
+   "bbox": [
+    1108,
+    515,
+    1148,
+    526
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    92,
+    514,
+    175,
+    529
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    674,
+    567,
+    818,
+    583
+   ]
+  },
+  {
+   "text": "1 910 Ft",
+   "bbox": [
+    1077,
+    569,
+    1148,
+    583
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    689,
+    600,
+    818,
+    618
+   ]
+  },
+  {
+   "text": "516 Ft",
+   "bbox": [
+    1093,
+    604,
+    1148,
+    618
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    635,
+    638,
+    818,
+    653
+   ]
+  },
+  {
+   "text": "2 426 Ft",
+   "bbox": [
+    1076,
+    639,
+    1148,
+    653
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 76774379-13348691-86856194",
+   "bbox": [
+    92,
+    702,
+    494,
+    716
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    92,
+    731,
+    569,
+    746
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1647,
+    731,
+    1661
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

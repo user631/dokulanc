@@ -1,0 +1,373 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Fazekas Gábor",
+  "email": "fazekas.gabor@outlook.com",
+  "telefon": "06 1 757 8581",
+  "lakcim": "H-8866 Mosonmagyaróvár, Szolnoki utca 135.",
+  "szuletesi_datum": "1980.09.07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2000 – 2003"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1996 – 2000"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Simon Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2007 – 2008"
+   },
+   {
+    "ceg": "Király Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2006 – 2007"
+   },
+   {
+    "ceg": "Horváth és Társa Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2004 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "B kategóriás jogosítvány",
+   "C#",
+   "prezentáció",
+   "Excel",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    247,
+    120
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    111,
+    162
+   ]
+  },
+  {
+   "text": "fazekas.gabor@outlook.com",
+   "bbox": [
+    40,
+    171,
+    303,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    121,
+    222
+   ]
+  },
+  {
+   "text": "06 1 757 8581",
+   "bbox": [
+    40,
+    232,
+    168,
+    251
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    119,
+    282
+   ]
+  },
+  {
+   "text": "H-8866 Mosonmagyaróvár,",
+   "bbox": [
+    40,
+    292,
+    300,
+    312
+   ]
+  },
+  {
+   "text": "Szolnoki utca 135.",
+   "bbox": [
+    40,
+    316,
+    206,
+    336
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    211,
+    367
+   ]
+  },
+  {
+   "text": "1980.09.07.",
+   "bbox": [
+    40,
+    377,
+    154,
+    396
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    436,
+    227,
+    460
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    482,
+    149,
+    503
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    536,
+    205,
+    560
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    582,
+    110,
+    604
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    611,
+    277,
+    633
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    641,
+    68,
+    657
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    669,
+    154,
+    691
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    698,
+    92,
+    715
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    727,
+    142,
+    749
+   ]
+  },
+  {
+   "text": "Fazekas Gábor",
+   "bbox": [
+    450,
+    105,
+    807,
+    141
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    172,
+    574,
+    203
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    242,
+    727,
+    268
+   ]
+  },
+  {
+   "text": "2007 – 2008",
+   "bbox": [
+    450,
+    296,
+    585,
+    316
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Simon Tech Kft.",
+   "bbox": [
+    450,
+    322,
+    879,
+    345
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    450,
+    366,
+    584,
+    386
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Király Zrt.",
+   "bbox": [
+    447,
+    392,
+    792,
+    415
+   ]
+  },
+  {
+   "text": "2004 – 2006",
+   "bbox": [
+    450,
+    436,
+    585,
+    456
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth és Társa Zrt.",
+   "bbox": [
+    450,
+    462,
+    1071,
+    485
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    514,
+    642,
+    541
+   ]
+  },
+  {
+   "text": "2000 – 2003",
+   "bbox": [
+    450,
+    573,
+    586,
+    589
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    595,
+    673,
+    618
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    622,
+    795,
+    644
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    450,
+    666,
+    581,
+    686
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    692,
+    751,
+    715
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    719,
+    713,
+    741
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

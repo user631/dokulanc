@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Oláh Imre",
+  "anyja_neve": "Király Balázs",
+  "szuletesi_hely": "Kecskemét",
+  "szuletesi_datum": "2003.07.12.",
+  "lakcim": "H-5290 Hódmezővásárhely, József attila utca 32.",
+  "telefon": "+36 20 393 8842",
+  "email": "olah.imre@freemail.hu",
+  "adoazonosito_jel": "8498654904",
+  "taj_szam": "574 775 908",
+  "kelt": "Baja, 2025.05.06."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    465,
+    101,
+    775,
+    135
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    480,
+    154,
+    760,
+    171
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    96,
+    207,
+    307,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    108,
+    260,
+    145,
+    274
+   ]
+  },
+  {
+   "text": "Oláh Imre",
+   "bbox": [
+    423,
+    256,
+    558,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    312,
+    204,
+    330
+   ]
+  },
+  {
+   "text": "Király Balázs",
+   "bbox": [
+    423,
+    309,
+    607,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    108,
+    364,
+    226,
+    382
+   ]
+  },
+  {
+   "text": "Kecskemét",
+   "bbox": [
+    423,
+    357,
+    559,
+    378
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    108,
+    416,
+    218,
+    430
+   ]
+  },
+  {
+   "text": "2003.07.12.",
+   "bbox": [
+    423,
+    414,
+    585,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    108,
+    468,
+    170,
+    482
+   ]
+  },
+  {
+   "text": "H-5290 Hódmezővásárhely, József attila utca 32.",
+   "bbox": [
+    423,
+    462,
+    1076,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    520,
+    218,
+    534
+   ]
+  },
+  {
+   "text": "+36 20 393 8842",
+   "bbox": [
+    423,
+    518,
+    665,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    108,
+    572,
+    201,
+    586
+   ]
+  },
+  {
+   "text": "olah.imre@freemail.hu",
+   "bbox": [
+    423,
+    571,
+    727,
+    595
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    624,
+    253,
+    642
+   ]
+  },
+  {
+   "text": "8498654904",
+   "bbox": [
+    423,
+    618,
+    603,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    676,
+    189,
+    690
+   ]
+  },
+  {
+   "text": "574 775 908",
+   "bbox": [
+    423,
+    674,
+    605,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    96,
+    755,
+    266,
+    777
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    141,
+    798,
+    434,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    141,
+    843,
+    275,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    888,
+    450,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    96,
+    992,
+    134,
+    1007
+   ]
+  },
+  {
+   "text": "Baja, 2025.05.06.",
+   "bbox": [
+    186,
+    988,
+    401,
+    1010
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1041,
+    976,
+    1053
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

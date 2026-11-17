@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ DISZKONT BT.",
+  "uzlet_cim": "H-2592 Németkereszthalas, Végi utca 108.",
+  "adoszam": "53065209-5-07",
+  "datum": "2025.06.07.",
+  "ido": "09:26",
+  "nyugtaszam": "1356/53648",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "4 913 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "418"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1504"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1111"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1880"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ DISZKONT BT.",
+   "bbox": [
+    177,
+    28,
+    429,
+    50
+   ]
+  },
+  {
+   "text": "H-2592 Németkereszthalas, Végi utca 108.",
+   "bbox": [
+    63,
+    67,
+    543,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53065209-5-07",
+   "bbox": [
+    171,
+    92,
+    435,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    139,
+    349,
+    157
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    185,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "418 B00",
+   "bbox": [
+    491,
+    185,
+    582,
+    200
+   ]
+  },
+  {
+   "text": "2 DB x 752",
+   "bbox": [
+    24,
+    217,
+    144,
+    230
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    243,
+    128,
+    258
+   ]
+  },
+  {
+   "text": "1504 C00",
+   "bbox": [
+    478,
+    243,
+    582,
+    258
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    275,
+    154,
+    290
+   ]
+  },
+  {
+   "text": "1111 A00",
+   "bbox": [
+    478,
+    275,
+    582,
+    290
+   ]
+  },
+  {
+   "text": "2 DB x 940",
+   "bbox": [
+    24,
+    307,
+    144,
+    320
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    333,
+    128,
+    348
+   ]
+  },
+  {
+   "text": "1880 A00",
+   "bbox": [
+    478,
+    333,
+    582,
+    348
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    372,
+    159,
+    395
+   ]
+  },
+  {
+   "text": "4 913 Ft",
+   "bbox": [
+    462,
+    377,
+    582,
+    395
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    414,
+    168,
+    434
+   ]
+  },
+  {
+   "text": "4 913 Ft",
+   "bbox": [
+    478,
+    418,
+    582,
+    434
+   ]
+  },
+  {
+   "text": "2025.06.07.",
+   "bbox": [
+    24,
+    465,
+    156,
+    479
+   ]
+  },
+  {
+   "text": "09:26",
+   "bbox": [
+    522,
+    465,
+    582,
+    479
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1356/53648",
+   "bbox": [
+    24,
+    492,
+    288,
+    513
+   ]
+  },
+  {
+   "text": "AP A32165085",
+   "bbox": [
+    24,
+    529,
+    168,
+    543
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    205,
+    568,
+    400,
+    588
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  606,
+  634
+ ]
+}

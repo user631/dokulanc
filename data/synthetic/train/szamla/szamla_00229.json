@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/02771",
+  "kiallitas_datuma": "2025-01-25",
+  "teljesites_datuma": "2025-01-20",
+  "fizetesi_hatarido": "2025-02-24",
+  "elado_nev": "Török Consulting Bt.",
+  "elado_cim": "H-2453 Szenttamásivár, József attila utca 206.",
+  "elado_adoszam": "73636939-4-38",
+  "vevo_nev": "Nagy és Társa Bt.",
+  "vevo_cim": "H-1150 Keresztvára, Béke utca 142.",
+  "vevo_adoszam": "82964562-4-03",
+  "bankszamla": "33476418-72101506",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "8 040 Ft",
+  "afa_osszesen": "402 Ft",
+  "brutto_osszesen": "8 442 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "12 db",
+    "egysegar": "670",
+    "netto": "8 040",
+    "afa_kulcs": "5%",
+    "afa": "402",
+    "brutto": "8 442"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    538,
+    90,
+    702,
+    128
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/02771",
+   "bbox": [
+    409,
+    147,
+    832,
+    173
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    81,
+    227,
+    166,
+    249
+   ]
+  },
+  {
+   "text": "Török Consulting Bt.",
+   "bbox": [
+    81,
+    267,
+    358,
+    293
+   ]
+  },
+  {
+   "text": "H-2453 Szenttamásivár, József attila utca 206.",
+   "bbox": [
+    81,
+    302,
+    595,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 73636939-4-38",
+   "bbox": [
+    80,
+    335,
+    369,
+    356
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    227,
+    707,
+    249
+   ]
+  },
+  {
+   "text": "Nagy és Társa Bt.",
+   "bbox": [
+    630,
+    266,
+    867,
+    293
+   ]
+  },
+  {
+   "text": "H-1150 Keresztvára, Béke utca 142.",
+   "bbox": [
+    630,
+    302,
+    1029,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 82964562-4-03",
+   "bbox": [
+    629,
+    335,
+    918,
+    356
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    81,
+    406,
+    295,
+    427
+   ]
+  },
+  {
+   "text": "2025-01-25",
+   "bbox": [
+    381,
+    408,
+    511,
+    427
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    81,
+    441,
+    314,
+    467
+   ]
+  },
+  {
+   "text": "2025-01-20",
+   "bbox": [
+    381,
+    443,
+    511,
+    462
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    81,
+    476,
+    300,
+    497
+   ]
+  },
+  {
+   "text": "2025-02-24",
+   "bbox": [
+    381,
+    478,
+    511,
+    497
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    81,
+    511,
+    249,
+    532
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    381,
+    511,
+    467,
+    532
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    558,
+    217,
+    580
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    560,
+    593,
+    580
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    647,
+    558,
+    749,
+    580
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    558,
+    878,
+    576
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    554,
+    943,
+    576
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1001,
+    554,
+    1046,
+    576
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1088,
+    558,
+    1159,
+    576
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    512,
+    603,
+    567,
+    620
+   ]
+  },
+  {
+   "text": "670",
+   "bbox": [
+    713,
+    604,
+    749,
+    620
+   ]
+  },
+  {
+   "text": "8 040",
+   "bbox": [
+    823,
+    604,
+    878,
+    620
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    910,
+    604,
+    943,
+    620
+   ]
+  },
+  {
+   "text": "402",
+   "bbox": [
+    1009,
+    604,
+    1045,
+    620
+   ]
+  },
+  {
+   "text": "8 442",
+   "bbox": [
+    1104,
+    604,
+    1159,
+    620
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    81,
+    602,
+    198,
+    624
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    660,
+    829,
+    682
+   ]
+  },
+  {
+   "text": "8 040 Ft",
+   "bbox": [
+    1064,
+    663,
+    1159,
+    682
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    660,
+    694,
+    829,
+    721
+   ]
+  },
+  {
+   "text": "402 Ft",
+   "bbox": [
+    1086,
+    702,
+    1159,
+    721
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    683,
+    739,
+    829,
+    765
+   ]
+  },
+  {
+   "text": "8 442 Ft",
+   "bbox": [
+    1049,
+    741,
+    1159,
+    760
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 33476418-72101506",
+   "bbox": [
+    81,
+    808,
+    494,
+    827
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    81,
+    840,
+    721,
+    861
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    391,
+    1651,
+    848,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

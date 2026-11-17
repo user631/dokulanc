@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Erzsébet",
+  "email": "horvath.erzsebet@example.hu",
+  "telefon": "+36 70 896 8023",
+  "lakcim": "H-8224 Ligetdevecser, Dózsa györgy utca 118.",
+  "szuletesi_datum": "1996. 08. 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2016 – 2019"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szücs és Társa Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2020 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Python",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    89,
+    241,
+    115
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    139,
+    114,
+    156
+   ]
+  },
+  {
+   "text": "horvath.erzsebet@example.hu",
+   "bbox": [
+    40,
+    164,
+    365,
+    185
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    127,
+    216
+   ]
+  },
+  {
+   "text": "+36 70 896 8023",
+   "bbox": [
+    40,
+    225,
+    221,
+    241
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    259,
+    122,
+    276
+   ]
+  },
+  {
+   "text": "H-8224 Ligetdevecser, Dózsa",
+   "bbox": [
+    40,
+    284,
+    351,
+    305
+   ]
+  },
+  {
+   "text": "györgy utca 118.",
+   "bbox": [
+    40,
+    310,
+    218,
+    330
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    344,
+    230,
+    361
+   ]
+  },
+  {
+   "text": "1996. 08. 29.",
+   "bbox": [
+    40,
+    370,
+    182,
+    386
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    429,
+    226,
+    455
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    476,
+    181,
+    497
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    504,
+    167,
+    526
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    558,
+    203,
+    584
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    604,
+    189,
+    626
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    634,
+    116,
+    655
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    664,
+    72,
+    680
+   ]
+  },
+  {
+   "text": "Horváth Erzsébet",
+   "bbox": [
+    450,
+    99,
+    903,
+    138
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    167,
+    589,
+    197
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    236,
+    754,
+    262
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    289,
+    601,
+    306
+   ]
+  },
+  {
+   "text": "adatelemző – Szücs és Társa Zrt.",
+   "bbox": [
+    450,
+    314,
+    891,
+    334
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    368,
+    654,
+    395
+   ]
+  },
+  {
+   "text": "2016 – 2019",
+   "bbox": [
+    450,
+    422,
+    601,
+    439
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    447,
+    905,
+    472
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    474,
+    840,
+    498
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    519,
+    601,
+    536
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    544,
+    789,
+    564
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    572,
+    676,
+    595
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

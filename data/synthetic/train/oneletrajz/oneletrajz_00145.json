@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Sándor Diána",
+  "email": "sandor.diana@citromail.hu",
+  "telefon": "+36 70 986 3564",
+  "lakcim": "H-9949 Mosonmagyaróvár, Arany jános tér 210.",
+  "szuletesi_datum": "1998.03.20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2020 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "csapatmunka",
+   "Linux",
+   "Excel",
+   "SQL",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Sándor Diána",
+   "bbox": [
+    476,
+    92,
+    763,
+    127
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    156,
+    680,
+    184
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    212,
+    159,
+    228
+   ]
+  },
+  {
+   "text": "sandor.diana@citromail.hu",
+   "bbox": [
+    330,
+    213,
+    580,
+    229
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    173,
+    259
+   ]
+  },
+  {
+   "text": "+36 70 986 3564",
+   "bbox": [
+    330,
+    244,
+    480,
+    259
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    274,
+    168,
+    290
+   ]
+  },
+  {
+   "text": "H-9949 Mosonmagyaróvár, Arany jános tér 210.",
+   "bbox": [
+    330,
+    274,
+    769,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    305,
+    252,
+    321
+   ]
+  },
+  {
+   "text": "1998.03.20.",
+   "bbox": [
+    330,
+    306,
+    442,
+    321
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    357,
+    320,
+    381
+   ]
+  },
+  {
+   "text": "2020 – 2022",
+   "bbox": [
+    90,
+    408,
+    198,
+    423
+   ]
+  },
+  {
+   "text": "adatelemző – Horváth Kft.",
+   "bbox": [
+    90,
+    432,
+    361,
+    449
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    484,
+    245,
+    508
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    90,
+    535,
+    198,
+    550
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    556,
+    260,
+    581
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    584,
+    331,
+    604
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    626,
+    198,
+    641
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    650,
+    396,
+    672
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    675,
+    173,
+    695
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    727,
+    218,
+    751
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    778,
+    205,
+    797
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    825,
+    209,
+    849
+   ]
+  },
+  {
+   "text": "Git, csapatmunka, Linux, Excel, SQL, JavaScript",
+   "bbox": [
+    90,
+    876,
+    540,
+    895
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

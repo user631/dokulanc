@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Mária",
+  "anyja_neve": "Katona Dávid",
+  "szuletesi_hely": "Vác",
+  "szuletesi_datum": "1997. 01. 29.",
+  "lakcim": "H-8777 Miskolc, Dózsa györgy utca 144.",
+  "telefon": "+36 20 491 1872",
+  "email": "nagy.maria@gmail.com",
+  "adoazonosito_jel": "8475109772",
+  "taj_szam": "068 676 616",
+  "kelt": "Háthida, 2025. 10. 09."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    385,
+    98,
+    854,
+    131
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    479,
+    152,
+    761,
+    169
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    205,
+    324,
+    227
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    260,
+    148,
+    274
+   ]
+  },
+  {
+   "text": "Nagy Mária",
+   "bbox": [
+    396,
+    257,
+    524,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    312,
+    207,
+    330
+   ]
+  },
+  {
+   "text": "Katona Dávid",
+   "bbox": [
+    396,
+    308,
+    541,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    363,
+    228,
+    382
+   ]
+  },
+  {
+   "text": "Vác",
+   "bbox": [
+    396,
+    363,
+    436,
+    383
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    415,
+    221,
+    430
+   ]
+  },
+  {
+   "text": "1997. 01. 29.",
+   "bbox": [
+    396,
+    416,
+    540,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    468,
+    178,
+    482
+   ]
+  },
+  {
+   "text": "H-8777 Miskolc, Dózsa györgy utca 144.",
+   "bbox": [
+    396,
+    466,
+    849,
+    492
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    520,
+    220,
+    534
+   ]
+  },
+  {
+   "text": "+36 20 491 1872",
+   "bbox": [
+    396,
+    516,
+    586,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    572,
+    209,
+    586
+   ]
+  },
+  {
+   "text": "nagy.maria@gmail.com",
+   "bbox": [
+    396,
+    570,
+    645,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    624,
+    254,
+    642
+   ]
+  },
+  {
+   "text": "8475109772",
+   "bbox": [
+    396,
+    620,
+    542,
+    640
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    676,
+    198,
+    690
+   ]
+  },
+  {
+   "text": "068 676 616",
+   "bbox": [
+    396,
+    677,
+    541,
+    696
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    753,
+    283,
+    775
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    798,
+    434,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    843,
+    280,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    888,
+    449,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    990,
+    140,
+    1005
+   ]
+  },
+  {
+   "text": "Háthida, 2025. 10. 09.",
+   "bbox": [
+    187,
+    989,
+    411,
+    1010
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1039,
+    977,
+    1051
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

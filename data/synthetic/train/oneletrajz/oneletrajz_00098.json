@@ -1,0 +1,297 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Deák Kitti",
+  "email": "deak.kitti@freemail.hu",
+  "telefon": "+36 30 507 7877",
+  "lakcim": "H-5005 Magyartapolcavár, Dunakeszii utca 154.",
+  "szuletesi_datum": "1981.04.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2000 – 2003"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1996 – 2000"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2004 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Docker",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    227,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    109,
+    149
+   ]
+  },
+  {
+   "text": "deak.kitti@freemail.hu",
+   "bbox": [
+    40,
+    157,
+    253,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    121,
+    205
+   ]
+  },
+  {
+   "text": "+36 30 507 7877",
+   "bbox": [
+    40,
+    214,
+    209,
+    228
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    245,
+    116,
+    261
+   ]
+  },
+  {
+   "text": "H-5005 Magyartapolcavár,",
+   "bbox": [
+    40,
+    269,
+    292,
+    288
+   ]
+  },
+  {
+   "text": "Dunakeszii utca 154.",
+   "bbox": [
+    40,
+    292,
+    239,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    324,
+    215,
+    340
+   ]
+  },
+  {
+   "text": "1981.04.14.",
+   "bbox": [
+    40,
+    349,
+    157,
+    363
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    408,
+    213,
+    430
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    450,
+    160,
+    470
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    504,
+    191,
+    526
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    547,
+    85,
+    562
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    573,
+    110,
+    589
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    599,
+    156,
+    620
+   ]
+  },
+  {
+   "text": "Deák Kitti",
+   "bbox": [
+    450,
+    95,
+    699,
+    133
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    165,
+    661,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    228,
+    735,
+    253
+   ]
+  },
+  {
+   "text": "2004 – 2005",
+   "bbox": [
+    450,
+    279,
+    581,
+    295
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szabó Tech Kft.",
+   "bbox": [
+    450,
+    303,
+    937,
+    325
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    354,
+    640,
+    380
+   ]
+  },
+  {
+   "text": "2000 – 2003",
+   "bbox": [
+    450,
+    406,
+    581,
+    422
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    430,
+    870,
+    452
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    455,
+    803,
+    476
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    450,
+    497,
+    581,
+    513
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    521,
+    828,
+    543
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    546,
+    723,
+    567
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

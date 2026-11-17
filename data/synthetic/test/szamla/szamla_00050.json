@@ -1,0 +1,417 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2025/04578",
+  "kiallitas_datuma": "2025. január 17.",
+  "teljesites_datuma": "2025. január 13.",
+  "fizetesi_hatarido": "2025. február 1.",
+  "elado_nev": "Pál Kft.",
+  "elado_cim": "H-5829 Mellékvár, Ady endre utca 179.",
+  "elado_adoszam": "54148259-3-13",
+  "vevo_nev": "Kovács Szolgáltató Kft.",
+  "vevo_cim": "H-9644 Hajdútamásinádasd, Szombathelyi utca 76.",
+  "vevo_adoszam": "58415771-4-13",
+  "bankszamla": "58994856-25799604",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "90 970 Ft",
+  "afa_osszesen": "24 562 Ft",
+  "brutto_osszesen": "115 532 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "90 970",
+    "netto": "90 970",
+    "afa_kulcs": "27%",
+    "afa": "24 562",
+    "brutto": "115 532"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÁL",
+   "bbox": [
+    159,
+    136,
+    211,
+    160
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    966,
+    124,
+    1135,
+    159
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/04578",
+   "bbox": [
+    840,
+    181,
+    1135,
+    204
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    105,
+    260,
+    181,
+    280
+   ]
+  },
+  {
+   "text": "Kovács Szolgáltató Kft.",
+   "bbox": [
+    105,
+    296,
+    415,
+    321
+   ]
+  },
+  {
+   "text": "H-9644 Hajdútamásinádasd, Szombathelyi",
+   "bbox": [
+    105,
+    330,
+    579,
+    352
+   ]
+  },
+  {
+   "text": "utca 76.",
+   "bbox": [
+    105,
+    362,
+    196,
+    378
+   ]
+  },
+  {
+   "text": "Adószám: 58415771-4-13",
+   "bbox": [
+    105,
+    390,
+    396,
+    408
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    260,
+    713,
+    280
+   ]
+  },
+  {
+   "text": "Pál Kft.",
+   "bbox": [
+    630,
+    296,
+    729,
+    316
+   ]
+  },
+  {
+   "text": "H-5829 Mellékvár, Ady endre utca 179.",
+   "bbox": [
+    630,
+    330,
+    1068,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 54148259-3-13",
+   "bbox": [
+    630,
+    360,
+    921,
+    378
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    105,
+    458,
+    318,
+    476
+   ]
+  },
+  {
+   "text": "2025. január 17.",
+   "bbox": [
+    405,
+    458,
+    592,
+    480
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    105,
+    490,
+    337,
+    512
+   ]
+  },
+  {
+   "text": "2025. január 13.",
+   "bbox": [
+    405,
+    490,
+    592,
+    512
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    105,
+    522,
+    323,
+    540
+   ]
+  },
+  {
+   "text": "2025. február 1.",
+   "bbox": [
+    405,
+    522,
+    587,
+    540
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    105,
+    554,
+    271,
+    572
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    405,
+    554,
+    493,
+    572
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    105,
+    597,
+    236,
+    617
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    599,
+    595,
+    617
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    646,
+    597,
+    744,
+    617
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    807,
+    597,
+    867,
+    613
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    594,
+    929,
+    613
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    984,
+    594,
+    1026,
+    613
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1067,
+    597,
+    1135,
+    613
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    517,
+    639,
+    609,
+    654
+   ]
+  },
+  {
+   "text": "90 970",
+   "bbox": [
+    676,
+    640,
+    743,
+    654
+   ]
+  },
+  {
+   "text": "90 970",
+   "bbox": [
+    800,
+    640,
+    867,
+    654
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    885,
+    640,
+    929,
+    654
+   ]
+  },
+  {
+   "text": "24 562",
+   "bbox": [
+    959,
+    640,
+    1026,
+    654
+   ]
+  },
+  {
+   "text": "115 532",
+   "bbox": [
+    1056,
+    640,
+    1135,
+    654
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    105,
+    639,
+    311,
+    658
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    619,
+    694,
+    805,
+    713
+   ]
+  },
+  {
+   "text": "90 970 Ft",
+   "bbox": [
+    1022,
+    696,
+    1135,
+    713
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    637,
+    726,
+    805,
+    749
+   ]
+  },
+  {
+   "text": "24 562 Ft",
+   "bbox": [
+    1022,
+    732,
+    1135,
+    749
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    545,
+    767,
+    805,
+    785
+   ]
+  },
+  {
+   "text": "115 532 Ft",
+   "bbox": [
+    998,
+    768,
+    1135,
+    785
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 58994856-25799604",
+   "bbox": [
+    105,
+    832,
+    521,
+    849
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    105,
+    862,
+    735,
+    880
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

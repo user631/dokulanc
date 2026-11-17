@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH MARKET KFT.",
+  "uzlet_cim": "H-9156 Hídfa, Veszprémi tér 246.",
+  "adoszam": "47126783-2-51",
+  "datum": "2025.04.16.",
+  "ido": "11:03",
+  "nyugtaszam": "0920/49873",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 654 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2312"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "671"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "599"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "949"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "977"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1182"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1437"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2513"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "91"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "568"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "355"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH MARKET KFT.",
+   "bbox": [
+    155,
+    30,
+    459,
+    51
+   ]
+  },
+  {
+   "text": "H-9156 Hídfa, Veszprémi tér 246.",
+   "bbox": [
+    99,
+    67,
+    515,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 47126783-2-51",
+   "bbox": [
+    164,
+    95,
+    450,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    256,
+    141,
+    358,
+    159
+   ]
+  },
+  {
+   "text": "2 DB x 1156",
+   "bbox": [
+    24,
+    184,
+    167,
+    199
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    210,
+    192,
+    227
+   ]
+  },
+  {
+   "text": "2312 A00",
+   "bbox": [
+    478,
+    210,
+    590,
+    227
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    242,
+    178,
+    259
+   ]
+  },
+  {
+   "text": "671 A00",
+   "bbox": [
+    492,
+    242,
+    590,
+    259
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    274,
+    150,
+    291
+   ]
+  },
+  {
+   "text": "599 C00",
+   "bbox": [
+    492,
+    274,
+    590,
+    291
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    308,
+    206,
+    323
+   ]
+  },
+  {
+   "text": "949 B00",
+   "bbox": [
+    492,
+    306,
+    590,
+    323
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    338,
+    234,
+    355
+   ]
+  },
+  {
+   "text": "977 A00",
+   "bbox": [
+    492,
+    338,
+    590,
+    355
+   ]
+  },
+  {
+   "text": "3 DB x 394",
+   "bbox": [
+    24,
+    370,
+    154,
+    385
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    398,
+    220,
+    413
+   ]
+  },
+  {
+   "text": "1182 A00",
+   "bbox": [
+    478,
+    396,
+    590,
+    413
+   ]
+  },
+  {
+   "text": "3 DB x 479",
+   "bbox": [
+    24,
+    428,
+    154,
+    443
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    454,
+    220,
+    471
+   ]
+  },
+  {
+   "text": "1437 A00",
+   "bbox": [
+    478,
+    454,
+    590,
+    471
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    486,
+    290,
+    503
+   ]
+  },
+  {
+   "text": "2513 B00",
+   "bbox": [
+    478,
+    486,
+    590,
+    503
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    520,
+    108,
+    535
+   ]
+  },
+  {
+   "text": "91 C00",
+   "bbox": [
+    506,
+    518,
+    590,
+    535
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    550,
+    248,
+    567
+   ]
+  },
+  {
+   "text": "568 A00",
+   "bbox": [
+    492,
+    550,
+    590,
+    567
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    582,
+    220,
+    599
+   ]
+  },
+  {
+   "text": "355 A00",
+   "bbox": [
+    492,
+    582,
+    590,
+    599
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    625,
+    194,
+    647
+   ]
+  },
+  {
+   "text": "11 654 Ft",
+   "bbox": [
+    437,
+    627,
+    590,
+    647
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    666,
+    179,
+    685
+   ]
+  },
+  {
+   "text": "11 654 Ft",
+   "bbox": [
+    464,
+    668,
+    590,
+    685
+   ]
+  },
+  {
+   "text": "2025.04.16.",
+   "bbox": [
+    24,
+    714,
+    167,
+    730
+   ]
+  },
+  {
+   "text": "11:03",
+   "bbox": [
+    525,
+    714,
+    590,
+    730
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0920/49873",
+   "bbox": [
+    24,
+    745,
+    310,
+    765
+   ]
+  },
+  {
+   "text": "AP A51890763",
+   "bbox": [
+    24,
+    778,
+    180,
+    794
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    202,
+    821,
+    412,
+    839
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  614,
+  884
+ ]
+}

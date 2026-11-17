@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Szabó József",
+  "anyja_neve": "Kiss Péter",
+  "szuletesi_hely": "Fürdőbánya",
+  "szuletesi_datum": "1995.03.12.",
+  "lakcim": "H-9357 Tapolcanádasd, Mezőfürdői utca 120.",
+  "telefon": "06 1 447 9033",
+  "email": "szabo.jozsef@citromail.hu",
+  "adoazonosito_jel": "8468213047",
+  "taj_szam": "661 344 262",
+  "kelt": "Ráckeresztvár, 2026.09.11."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    459,
+    107,
+    780,
+    141
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    462,
+    162,
+    779,
+    180
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    217,
+    325,
+    239
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    270,
+    159,
+    286
+   ]
+  },
+  {
+   "text": "Szabó József",
+   "bbox": [
+    407,
+    269,
+    538,
+    287
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    325,
+    225,
+    343
+   ]
+  },
+  {
+   "text": "Kiss Péter",
+   "bbox": [
+    407,
+    325,
+    509,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    376,
+    250,
+    396
+   ]
+  },
+  {
+   "text": "Fürdőbánya",
+   "bbox": [
+    407,
+    374,
+    527,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    429,
+    240,
+    445
+   ]
+  },
+  {
+   "text": "1995.03.12.",
+   "bbox": [
+    407,
+    431,
+    527,
+    447
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    482,
+    189,
+    498
+   ]
+  },
+  {
+   "text": "H-9357 Tapolcanádasd, Mezőfürdői utca 120.",
+   "bbox": [
+    407,
+    484,
+    870,
+    507
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    535,
+    240,
+    551
+   ]
+  },
+  {
+   "text": "06 1 447 9033",
+   "bbox": [
+    407,
+    534,
+    548,
+    550
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    588,
+    222,
+    604
+   ]
+  },
+  {
+   "text": "szabo.jozsef@citromail.hu",
+   "bbox": [
+    407,
+    585,
+    679,
+    607
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    641,
+    276,
+    661
+   ]
+  },
+  {
+   "text": "8468213047",
+   "bbox": [
+    407,
+    642,
+    527,
+    658
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    694,
+    211,
+    710
+   ]
+  },
+  {
+   "text": "661 344 262",
+   "bbox": [
+    407,
+    693,
+    529,
+    709
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    775,
+    281,
+    797
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    818,
+    474,
+    838
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    863,
+    304,
+    879
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    908,
+    487,
+    928
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    1013,
+    151,
+    1028
+   ]
+  },
+  {
+   "text": "Ráckeresztvár, 2026.09.11.",
+   "bbox": [
+    196,
+    1008,
+    475,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    918,
+    1060,
+    969,
+    1074
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

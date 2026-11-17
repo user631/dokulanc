@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kiss István",
+  "anyja_neve": "Horváth István",
+  "szuletesi_hely": "Győr",
+  "szuletesi_datum": "1950. 06. 28.",
+  "lakcim": "H-4389 Tótvára, Veszprémi út 103.",
+  "telefon": "+36 30 100 3613",
+  "email": "kiss.istvan@freemail.hu",
+  "adoazonosito_jel": "8304938030",
+  "taj_szam": "847 213 623",
+  "kelt": "Belsőhídvár, 2024. 01. 30."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    387,
+    98,
+    853,
+    133
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    468,
+    152,
+    771,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    204,
+    340,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    257,
+    152,
+    271
+   ]
+  },
+  {
+   "text": "Kiss István",
+   "bbox": [
+    410,
+    254,
+    529,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    309,
+    218,
+    326
+   ]
+  },
+  {
+   "text": "Horváth István",
+   "bbox": [
+    410,
+    307,
+    575,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    359,
+    241,
+    377
+   ]
+  },
+  {
+   "text": "Győr",
+   "bbox": [
+    410,
+    357,
+    461,
+    382
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    410,
+    230,
+    424
+   ]
+  },
+  {
+   "text": "1950. 06. 28.",
+   "bbox": [
+    410,
+    407,
+    550,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    461,
+    181,
+    475
+   ]
+  },
+  {
+   "text": "H-4389 Tótvára, Veszprémi út 103.",
+   "bbox": [
+    410,
+    462,
+    791,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    512,
+    230,
+    526
+   ]
+  },
+  {
+   "text": "+36 30 100 3613",
+   "bbox": [
+    410,
+    513,
+    588,
+    530
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    563,
+    213,
+    577
+   ]
+  },
+  {
+   "text": "kiss.istvan@freemail.hu",
+   "bbox": [
+    410,
+    559,
+    662,
+    578
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    614,
+    264,
+    632
+   ]
+  },
+  {
+   "text": "8304938030",
+   "bbox": [
+    410,
+    611,
+    550,
+    630
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    665,
+    201,
+    679
+   ]
+  },
+  {
+   "text": "847 213 623",
+   "bbox": [
+    410,
+    666,
+    546,
+    684
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    742,
+    290,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    786,
+    461,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    831,
+    295,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    876,
+    480,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    978,
+    142,
+    993
+   ]
+  },
+  {
+   "text": "Belsőhídvár, 2024. 01. 30.",
+   "bbox": [
+    187,
+    976,
+    439,
+    997
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1027,
+    977,
+    1039
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

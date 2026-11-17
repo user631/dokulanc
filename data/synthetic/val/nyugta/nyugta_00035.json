@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NAGY ABC KFT.",
+  "uzlet_cim": "H-2957 Szolnok, Petőfi sándor utca 46.",
+  "adoszam": "91830847-2-40",
+  "datum": "2026.01.26.",
+  "ido": "21:36",
+  "nyugtaszam": "2834/75184",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 537 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "8163"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4516"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "768"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "90"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY ABC KFT.",
+   "bbox": [
+    188,
+    33,
+    344,
+    47
+   ]
+  },
+  {
+   "text": "H-2957 Szolnok, Petőfi sándor utca 46.",
+   "bbox": [
+    76,
+    63,
+    456,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 91830847-2-40",
+   "bbox": [
+    156,
+    86,
+    376,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    127,
+    306,
+    142
+   ]
+  },
+  {
+   "text": "3 DB x 2721",
+   "bbox": [
+    24,
+    168,
+    123,
+    179
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    190,
+    233,
+    203
+   ]
+  },
+  {
+   "text": "8163 B00",
+   "bbox": [
+    420,
+    190,
+    508,
+    203
+   ]
+  },
+  {
+   "text": "2 DB x 2258",
+   "bbox": [
+    24,
+    218,
+    123,
+    229
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    240,
+    123,
+    253
+   ]
+  },
+  {
+   "text": "4516 B00",
+   "bbox": [
+    420,
+    240,
+    508,
+    253
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    268,
+    112,
+    281
+   ]
+  },
+  {
+   "text": "768 A00",
+   "bbox": [
+    431,
+    268,
+    508,
+    281
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    296,
+    90,
+    309
+   ]
+  },
+  {
+   "text": "90 C00",
+   "bbox": [
+    442,
+    296,
+    508,
+    309
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    332,
+    154,
+    352
+   ]
+  },
+  {
+   "text": "13 537 Ft",
+   "bbox": [
+    391,
+    336,
+    508,
+    352
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    370,
+    145,
+    387
+   ]
+  },
+  {
+   "text": "13 537 Ft",
+   "bbox": [
+    409,
+    374,
+    508,
+    387
+   ]
+  },
+  {
+   "text": "2026.01.26.",
+   "bbox": [
+    24,
+    417,
+    134,
+    428
+   ]
+  },
+  {
+   "text": "21:36",
+   "bbox": [
+    458,
+    417,
+    508,
+    428
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2834/75184",
+   "bbox": [
+    24,
+    442,
+    244,
+    458
+   ]
+  },
+  {
+   "text": "AP A23278205",
+   "bbox": [
+    24,
+    473,
+    144,
+    484
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    216,
+    509,
+    316,
+    525
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  532,
+  570
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Pál Gréta",
+  "email": "pal.greta@gmail.com",
+  "telefon": "+36 30 592 1575",
+  "lakcim": "H-8800 Mezőkeresztvég, Tamásivárosi utca 240.",
+  "szuletesi_datum": "1998. 05. 02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2018 – 2022"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Consulting Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2022 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Docker",
+   "Excel",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    110,
+    217,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    104,
+    170
+   ]
+  },
+  {
+   "text": "pal.greta@gmail.com",
+   "bbox": [
+    40,
+    178,
+    235,
+    196
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    210,
+    115,
+    224
+   ]
+  },
+  {
+   "text": "+36 30 592 1575",
+   "bbox": [
+    40,
+    233,
+    194,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    264,
+    111,
+    278
+   ]
+  },
+  {
+   "text": "H-8800 Mezőkeresztvég,",
+   "bbox": [
+    40,
+    286,
+    264,
+    304
+   ]
+  },
+  {
+   "text": "Tamásivárosi utca 240.",
+   "bbox": [
+    40,
+    308,
+    250,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    340,
+    203,
+    354
+   ]
+  },
+  {
+   "text": "1998. 05. 02.",
+   "bbox": [
+    40,
+    363,
+    161,
+    376
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    205,
+    442
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    462,
+    149,
+    481
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    488,
+    154,
+    507
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    540,
+    184,
+    562
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    582,
+    275,
+    601
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    609,
+    77,
+    623
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    634,
+    108,
+    649
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    660,
+    89,
+    675
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    687,
+    68,
+    701
+   ]
+  },
+  {
+   "text": "Pál Gréta",
+   "bbox": [
+    450,
+    118,
+    677,
+    155
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    187,
+    650,
+    206
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    249,
+    720,
+    273
+   ]
+  },
+  {
+   "text": "2022 – jelenleg",
+   "bbox": [
+    450,
+    298,
+    607,
+    318
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Tóth Consulting Bt.",
+   "bbox": [
+    450,
+    322,
+    1025,
+    343
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    372,
+    630,
+    397
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    423,
+    581,
+    438
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    446,
+    662,
+    467
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    469,
+    794,
+    490
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    511,
+    581,
+    526
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    534,
+    787,
+    555
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    557,
+    538,
+    578
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Zsolt",
+  "email": "toth.zsolt@freemail.hu",
+  "telefon": "+36 70 776 4490",
+  "lakcim": "H-9498 Drávahetvenfa, Béke utca 139.",
+  "szuletesi_datum": "1990.04.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2009 – 2014"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Tech Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2013 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Git",
+   "SAP",
+   "JavaScript",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    110,
+    209,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    92,
+    168
+   ]
+  },
+  {
+   "text": "toth.zsolt@freemail.hu",
+   "bbox": [
+    40,
+    177,
+    207,
+    194
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    210,
+    98,
+    222
+   ]
+  },
+  {
+   "text": "+36 70 776 4490",
+   "bbox": [
+    40,
+    232,
+    164,
+    244
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    263,
+    99,
+    276
+   ]
+  },
+  {
+   "text": "H-9498 Drávahetvenfa, Béke utca 139.",
+   "bbox": [
+    40,
+    285,
+    325,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    317,
+    162,
+    330
+   ]
+  },
+  {
+   "text": "1990.04.08.",
+   "bbox": [
+    40,
+    340,
+    127,
+    352
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    398,
+    193,
+    417
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    439,
+    126,
+    456
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    176,
+    511
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    533,
+    87,
+    546
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    559,
+    65,
+    572
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    586,
+    76,
+    598
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    611,
+    119,
+    628
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    638,
+    74,
+    650
+   ]
+  },
+  {
+   "text": "Tóth Zsolt",
+   "bbox": [
+    450,
+    119,
+    646,
+    150
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    186,
+    637,
+    208
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    249,
+    656,
+    270
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    450,
+    298,
+    550,
+    311
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Horváth Tech Zrt.",
+   "bbox": [
+    450,
+    322,
+    781,
+    340
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    373,
+    594,
+    394
+   ]
+  },
+  {
+   "text": "2009 – 2014",
+   "bbox": [
+    450,
+    422,
+    550,
+    435
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    446,
+    618,
+    464
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    449,
+    470,
+    561,
+    487
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    510,
+    550,
+    523
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    534,
+    680,
+    552
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    557,
+    520,
+    575
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

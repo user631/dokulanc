@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Orosz Gábor",
+  "email": "orosz.gabor@gmail.com",
+  "telefon": "+36 20 408 8353",
+  "lakcim": "H-2350 Hetvenkövesd, Kisgyörgyi utca 53.",
+  "szuletesi_datum": "1983. 08. 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Jakab Logisztika Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2012 – 2014"
+   },
+   {
+    "ceg": "Nagy Szolgáltató Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2011 – 2012"
+   },
+   {
+    "ceg": "Juhász Trade Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "csapatmunka",
+   "JavaScript",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Orosz Gábor",
+   "bbox": [
+    483,
+    90,
+    758,
+    125
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    523,
+    161,
+    717,
+    180
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    216,
+    164,
+    231
+   ]
+  },
+  {
+   "text": "orosz.gabor@gmail.com",
+   "bbox": [
+    330,
+    215,
+    560,
+    236
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    249,
+    172,
+    264
+   ]
+  },
+  {
+   "text": "+36 20 408 8353",
+   "bbox": [
+    330,
+    249,
+    493,
+    264
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    173,
+    297
+   ]
+  },
+  {
+   "text": "H-2350 Hetvenkövesd, Kisgyörgyi utca 53.",
+   "bbox": [
+    330,
+    281,
+    741,
+    302
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    254,
+    330
+   ]
+  },
+  {
+   "text": "1983. 08. 14.",
+   "bbox": [
+    330,
+    315,
+    456,
+    330
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    326,
+    393
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    421,
+    210,
+    436
+   ]
+  },
+  {
+   "text": "tesztmérnök – Jakab Logisztika Kft.",
+   "bbox": [
+    90,
+    448,
+    463,
+    469
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    491,
+    210,
+    506
+   ]
+  },
+  {
+   "text": "értékesítő – Nagy Szolgáltató Bt.",
+   "bbox": [
+    90,
+    518,
+    424,
+    539
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    561,
+    210,
+    576
+   ]
+  },
+  {
+   "text": "tesztmérnök – Juhász Trade Zrt.",
+   "bbox": [
+    90,
+    588,
+    427,
+    604
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    642,
+    255,
+    666
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    694,
+    210,
+    709
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    721,
+    444,
+    742
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    747,
+    240,
+    763
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    90,
+    791,
+    210,
+    806
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    818,
+    406,
+    839
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    844,
+    167,
+    865
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    899,
+    222,
+    923
+   ]
+  },
+  {
+   "text": "angol (B2), angol (C1)",
+   "bbox": [
+    90,
+    950,
+    304,
+    971
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1001,
+    211,
+    1025
+   ]
+  },
+  {
+   "text": "Excel, csapatmunka, JavaScript, prezentáció",
+   "bbox": [
+    90,
+    1052,
+    501,
+    1073
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

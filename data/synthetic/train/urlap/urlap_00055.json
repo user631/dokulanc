@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Zsuzsanna",
+  "anyja_neve": "Varga Julianna",
+  "szuletesi_hely": "Magyarmindszentapáti",
+  "szuletesi_datum": "1974. 02. 10.",
+  "lakcim": "H-9137 Székvárad, Magyarmindszenti tér 97.",
+  "telefon": "+36 20 547 2256",
+  "email": "nagy.zsuzsanna@freemail.hu",
+  "adoazonosito_jel": "8391219037",
+  "taj_szam": "994 489 595",
+  "kelt": "Tamásidevecser, 2024. 06. 24."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    364,
+    95,
+    875,
+    133
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    207,
+    370,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    263,
+    157,
+    280
+   ]
+  },
+  {
+   "text": "Nagy Zsuzsanna",
+   "bbox": [
+    424,
+    262,
+    660,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    106,
+    318,
+    233,
+    338
+   ]
+  },
+  {
+   "text": "Varga Julianna",
+   "bbox": [
+    424,
+    314,
+    651,
+    340
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    371,
+    262,
+    392
+   ]
+  },
+  {
+   "text": "Magyarmindszentapáti",
+   "bbox": [
+    424,
+    365,
+    750,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    425,
+    250,
+    442
+   ]
+  },
+  {
+   "text": "1974. 02. 10.",
+   "bbox": [
+    424,
+    424,
+    617,
+    444
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    479,
+    190,
+    496
+   ]
+  },
+  {
+   "text": "H-9137 Székvárad, Magyarmindszenti tér 97.",
+   "bbox": [
+    424,
+    477,
+    1074,
+    504
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    533,
+    249,
+    550
+   ]
+  },
+  {
+   "text": "+36 20 547 2256",
+   "bbox": [
+    424,
+    533,
+    678,
+    553
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    587,
+    228,
+    604
+   ]
+  },
+  {
+   "text": "nagy.zsuzsanna@freemail.hu",
+   "bbox": [
+    424,
+    582,
+    837,
+    608
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    106,
+    641,
+    290,
+    662
+   ]
+  },
+  {
+   "text": "8391219037",
+   "bbox": [
+    424,
+    642,
+    614,
+    662
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    695,
+    215,
+    712
+   ]
+  },
+  {
+   "text": "994 489 595",
+   "bbox": [
+    424,
+    694,
+    617,
+    713
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    776,
+    312,
+    800
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    820,
+    513,
+    841
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    865,
+    315,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    139,
+    910,
+    533,
+    931
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    1015,
+    147,
+    1032
+   ]
+  },
+  {
+   "text": "Tamásidevecser, 2024. 06. 24.",
+   "bbox": [
+    184,
+    1013,
+    583,
+    1035
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    926,
+    1064,
+    986,
+    1078
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

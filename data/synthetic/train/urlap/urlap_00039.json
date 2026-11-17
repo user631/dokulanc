@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Biró János",
+  "anyja_neve": "Varga Erzsébet",
+  "szuletesi_hely": "Tótfa",
+  "szuletesi_datum": "1989.03.06.",
+  "lakcim": "H-6851 Miskolc, Dózsa györgy utca 230.",
+  "telefon": "+36 70 139 9389",
+  "email": "biro.janos@gmail.com",
+  "adoazonosito_jel": "8446247261",
+  "taj_szam": "835 488 929",
+  "kelt": "Pilisligethida, 2025.10.29."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    364,
+    104,
+    875,
+    142
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    216,
+    379,
+    241
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    272,
+    166,
+    289
+   ]
+  },
+  {
+   "text": "Biró János",
+   "bbox": [
+    407,
+    273,
+    531,
+    292
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    327,
+    242,
+    347
+   ]
+  },
+  {
+   "text": "Varga Erzsébet",
+   "bbox": [
+    407,
+    322,
+    587,
+    346
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    380,
+    271,
+    401
+   ]
+  },
+  {
+   "text": "Tótfa",
+   "bbox": [
+    407,
+    380,
+    468,
+    399
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    434,
+    259,
+    451
+   ]
+  },
+  {
+   "text": "1989.03.06.",
+   "bbox": [
+    407,
+    434,
+    554,
+    452
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    488,
+    199,
+    505
+   ]
+  },
+  {
+   "text": "H-6851 Miskolc, Dózsa györgy utca 230.",
+   "bbox": [
+    407,
+    490,
+    896,
+    514
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    542,
+    258,
+    559
+   ]
+  },
+  {
+   "text": "+36 70 139 9389",
+   "bbox": [
+    407,
+    542,
+    616,
+    560
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    596,
+    237,
+    613
+   ]
+  },
+  {
+   "text": "biro.janos@gmail.com",
+   "bbox": [
+    407,
+    598,
+    678,
+    622
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    650,
+    299,
+    671
+   ]
+  },
+  {
+   "text": "8446247261",
+   "bbox": [
+    407,
+    652,
+    557,
+    670
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    704,
+    224,
+    721
+   ]
+  },
+  {
+   "text": "835 488 929",
+   "bbox": [
+    407,
+    703,
+    558,
+    721
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    785,
+    321,
+    809
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    829,
+    522,
+    850
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    874,
+    324,
+    891
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    919,
+    542,
+    940
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    1024,
+    156,
+    1041
+   ]
+  },
+  {
+   "text": "Pilisligethida, 2025.10.29.",
+   "bbox": [
+    193,
+    1020,
+    508,
+    1044
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    917,
+    1073,
+    977,
+    1087
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

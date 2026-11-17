@@ -1,0 +1,354 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Simon Erika",
+  "email": "simon.erika@freemail.hu",
+  "telefon": "06 1 755 7514",
+  "lakcim": "H-6607 Dunakeszi, Egeri utca 231.",
+  "szuletesi_datum": "2000.08.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Trade Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Lakatos Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2024 – jelenleg"
+   },
+   {
+    "ceg": "Váradi Consulting Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2022 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "SAP",
+   "Docker",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    217,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    104,
+    160
+   ]
+  },
+  {
+   "text": "simon.erika@freemail.hu",
+   "bbox": [
+    40,
+    168,
+    269,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    115,
+    214
+   ]
+  },
+  {
+   "text": "06 1 755 7514",
+   "bbox": [
+    40,
+    223,
+    168,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    254,
+    111,
+    268
+   ]
+  },
+  {
+   "text": "H-6607 Dunakeszi, Egeri utca 231.",
+   "bbox": [
+    40,
+    276,
+    353,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    308,
+    203,
+    322
+   ]
+  },
+  {
+   "text": "2000.08.03.",
+   "bbox": [
+    40,
+    331,
+    149,
+    344
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    388,
+    205,
+    410
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    430,
+    149,
+    449
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    456,
+    163,
+    475
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    508,
+    184,
+    530
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    550,
+    241,
+    569
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    577,
+    77,
+    591
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    602,
+    108,
+    617
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    628,
+    165,
+    647
+   ]
+  },
+  {
+   "text": "Simon Erika",
+   "bbox": [
+    450,
+    110,
+    745,
+    145
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    177,
+    678,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    239,
+    720,
+    263
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    288,
+    607,
+    308
+   ]
+  },
+  {
+   "text": "adatelemző – Varga Trade Zrt.",
+   "bbox": [
+    450,
+    312,
+    809,
+    333
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    352,
+    607,
+    372
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Lakatos Tech Kft.",
+   "bbox": [
+    449,
+    376,
+    859,
+    397
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    417,
+    581,
+    432
+   ]
+  },
+  {
+   "text": "projektmenedzser – Váradi Consulting Bt.",
+   "bbox": [
+    450,
+    440,
+    942,
+    461
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    490,
+    630,
+    515
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    450,
+    541,
+    581,
+    556
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    564,
+    849,
+    585
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    588,
+    614,
+    604
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    629,
+    581,
+    644
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    652,
+    735,
+    673
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    675,
+    538,
+    696
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

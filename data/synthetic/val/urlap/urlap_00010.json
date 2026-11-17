@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Takács Imre",
+  "anyja_neve": "Pataki Zsófia",
+  "szuletesi_hely": "Eger",
+  "szuletesi_datum": "1984. 01. 31.",
+  "lakcim": "H-8673 Vácmellékapáti, Városi utca 70.",
+  "telefon": "+36 70 441 7961",
+  "email": "takacs.imre@citromail.hu",
+  "adoazonosito_jel": "8427630204",
+  "taj_szam": "968 286 773",
+  "kelt": "Györgyváros, 2026. 04. 08."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    499,
+    105,
+    741,
+    142
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    466,
+    162,
+    772,
+    180
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    216,
+    344,
+    239
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    268,
+    157,
+    285
+   ]
+  },
+  {
+   "text": "Takács Imre",
+   "bbox": [
+    414,
+    268,
+    578,
+    290
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    323,
+    222,
+    342
+   ]
+  },
+  {
+   "text": "Pataki Zsófia",
+   "bbox": [
+    414,
+    317,
+    602,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    374,
+    245,
+    395
+   ]
+  },
+  {
+   "text": "Eger",
+   "bbox": [
+    414,
+    372,
+    472,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    427,
+    235,
+    444
+   ]
+  },
+  {
+   "text": "1984. 01. 31.",
+   "bbox": [
+    414,
+    424,
+    596,
+    442
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    480,
+    185,
+    497
+   ]
+  },
+  {
+   "text": "H-8673 Vácmellékapáti, Városi utca 70.",
+   "bbox": [
+    414,
+    476,
+    961,
+    502
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    533,
+    236,
+    550
+   ]
+  },
+  {
+   "text": "+36 70 441 7961",
+   "bbox": [
+    414,
+    535,
+    656,
+    553
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    586,
+    216,
+    603
+   ]
+  },
+  {
+   "text": "takacs.imre@citromail.hu",
+   "bbox": [
+    413,
+    585,
+    760,
+    606
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    639,
+    270,
+    660
+   ]
+  },
+  {
+   "text": "8427630204",
+   "bbox": [
+    414,
+    641,
+    594,
+    660
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    692,
+    207,
+    709
+   ]
+  },
+  {
+   "text": "968 286 773",
+   "bbox": [
+    414,
+    693,
+    596,
+    712
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    774,
+    295,
+    797
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    816,
+    463,
+    837
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    861,
+    296,
+    878
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    906,
+    481,
+    927
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1011,
+    146,
+    1028
+   ]
+  },
+  {
+   "text": "Györgyváros, 2026. 04. 08.",
+   "bbox": [
+    194,
+    1010,
+    528,
+    1034
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    921,
+    1060,
+    970,
+    1074
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

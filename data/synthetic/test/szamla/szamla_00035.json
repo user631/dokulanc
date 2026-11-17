@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/09096",
+  "kiallitas_datuma": "2025-12-12",
+  "teljesites_datuma": "2025-12-11",
+  "fizetesi_hatarido": "2025-12-27",
+  "elado_nev": "Varga Szolgáltató Kft.",
+  "elado_cim": "H-3046 Mosonmagyaróvár, Tapolcavári utca 193.",
+  "elado_adoszam": "99144663-2-39",
+  "vevo_nev": "Boros Szolgáltató Kft.",
+  "vevo_cim": "H-1780 Kismártonberény, Szabadság utca 27.",
+  "vevo_adoszam": "12697478-3-38",
+  "bankszamla": "77403834-04828045-76916419",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "40 520 Ft",
+  "afa_osszesen": "9 588 Ft",
+  "brutto_osszesen": "50 108 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "3 db",
+    "egysegar": "1 190",
+    "netto": "3 570",
+    "afa_kulcs": "5%",
+    "afa": "178",
+    "brutto": "3 748"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "5 db",
+    "egysegar": "6 130",
+    "netto": "30 650",
+    "afa_kulcs": "27%",
+    "afa": "8 276",
+    "brutto": "38 926"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "2 100",
+    "netto": "6 300",
+    "afa_kulcs": "18%",
+    "afa": "1 134",
+    "brutto": "7 434"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    420,
+    111,
+    820,
+    158
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/09096",
+   "bbox": [
+    441,
+    175,
+    800,
+    198
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    109,
+    256,
+    175,
+    274
+   ]
+  },
+  {
+   "text": "Boros Szolgáltató Kft.",
+   "bbox": [
+    110,
+    291,
+    363,
+    314
+   ]
+  },
+  {
+   "text": "H-1780 Kismártonberény, Szabadság utca 27.",
+   "bbox": [
+    110,
+    323,
+    534,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 12697478-3-38",
+   "bbox": [
+    109,
+    352,
+    344,
+    369
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    256,
+    701,
+    274
+   ]
+  },
+  {
+   "text": "Varga Szolgáltató Kft.",
+   "bbox": [
+    629,
+    291,
+    885,
+    314
+   ]
+  },
+  {
+   "text": "H-3046 Mosonmagyaróvár, Tapolcavári utca 193.",
+   "bbox": [
+    630,
+    323,
+    1084,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 99144663-2-39",
+   "bbox": [
+    629,
+    352,
+    864,
+    369
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    110,
+    419,
+    290,
+    436
+   ]
+  },
+  {
+   "text": "2025-12-12",
+   "bbox": [
+    410,
+    420,
+    514,
+    436
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    110,
+    450,
+    305,
+    471
+   ]
+  },
+  {
+   "text": "2025-12-11",
+   "bbox": [
+    410,
+    451,
+    514,
+    467
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    110,
+    481,
+    292,
+    498
+   ]
+  },
+  {
+   "text": "2025-12-27",
+   "bbox": [
+    410,
+    482,
+    514,
+    498
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    110,
+    512,
+    249,
+    529
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    410,
+    512,
+    483,
+    529
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    110,
+    555,
+    221,
+    573
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    518,
+    556,
+    585,
+    573
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    555,
+    742,
+    573
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    814,
+    555,
+    864,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    869,
+    552,
+    926,
+    569
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    987,
+    552,
+    1023,
+    569
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1073,
+    555,
+    1130,
+    569
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    518,
+    595,
+    554,
+    609
+   ]
+  },
+  {
+   "text": "1 190",
+   "bbox": [
+    696,
+    596,
+    742,
+    609
+   ]
+  },
+  {
+   "text": "3 570",
+   "bbox": [
+    818,
+    596,
+    864,
+    609
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    898,
+    596,
+    926,
+    609
+   ]
+  },
+  {
+   "text": "178",
+   "bbox": [
+    992,
+    596,
+    1022,
+    609
+   ]
+  },
+  {
+   "text": "3 748",
+   "bbox": [
+    1084,
+    596,
+    1130,
+    609
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    110,
+    595,
+    205,
+    613
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    518,
+    629,
+    554,
+    643
+   ]
+  },
+  {
+   "text": "6 130",
+   "bbox": [
+    696,
+    630,
+    742,
+    643
+   ]
+  },
+  {
+   "text": "30 650",
+   "bbox": [
+    808,
+    630,
+    864,
+    643
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    630,
+    926,
+    643
+   ]
+  },
+  {
+   "text": "8 276",
+   "bbox": [
+    976,
+    630,
+    1022,
+    643
+   ]
+  },
+  {
+   "text": "38 926",
+   "bbox": [
+    1074,
+    630,
+    1130,
+    643
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    110,
+    629,
+    211,
+    647
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    518,
+    663,
+    584,
+    677
+   ]
+  },
+  {
+   "text": "2 100",
+   "bbox": [
+    696,
+    664,
+    742,
+    677
+   ]
+  },
+  {
+   "text": "6 300",
+   "bbox": [
+    818,
+    664,
+    864,
+    677
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    888,
+    664,
+    926,
+    677
+   ]
+  },
+  {
+   "text": "1 134",
+   "bbox": [
+    976,
+    664,
+    1022,
+    677
+   ]
+  },
+  {
+   "text": "7 434",
+   "bbox": [
+    1084,
+    664,
+    1130,
+    677
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    109,
+    660,
+    228,
+    681
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    644,
+    717,
+    800,
+    735
+   ]
+  },
+  {
+   "text": "40 520 Ft",
+   "bbox": [
+    1038,
+    719,
+    1131,
+    735
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    659,
+    748,
+    800,
+    770
+   ]
+  },
+  {
+   "text": "9 588 Ft",
+   "bbox": [
+    1050,
+    754,
+    1131,
+    770
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    674,
+    787,
+    800,
+    809
+   ]
+  },
+  {
+   "text": "50 108 Ft",
+   "bbox": [
+    1026,
+    789,
+    1131,
+    805
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 77403834-04828045-76916419",
+   "bbox": [
+    110,
+    851,
+    553,
+    868
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    497,
+    1627,
+    742,
+    1643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

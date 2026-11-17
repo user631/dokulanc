@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Tóth Rebeka",
+  "anyja_neve": "Farkas Csaba",
+  "szuletesi_hely": "Szombathely",
+  "szuletesi_datum": "1957.09.20.",
+  "lakcim": "H-1511 Hídvára, Fürdővári utca 76.",
+  "telefon": "+36 30 506 7059",
+  "email": "toth.rebeka@citromail.hu",
+  "adoazonosito_jel": "8331348681",
+  "taj_szam": "621 436 994",
+  "kelt": "Hajdúgyörgybánya, 2024.10.19."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    453,
+    93,
+    788,
+    122
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    495,
+    147,
+    745,
+    161
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    95,
+    199,
+    272,
+    217
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    107,
+    254,
+    141,
+    266
+   ]
+  },
+  {
+   "text": "Tóth Rebeka",
+   "bbox": [
+    394,
+    254,
+    521,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    107,
+    305,
+    191,
+    320
+   ]
+  },
+  {
+   "text": "Farkas Csaba",
+   "bbox": [
+    393,
+    301,
+    532,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    107,
+    356,
+    209,
+    371
+   ]
+  },
+  {
+   "text": "Szombathely",
+   "bbox": [
+    394,
+    357,
+    521,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    107,
+    407,
+    202,
+    419
+   ]
+  },
+  {
+   "text": "1957.09.20.",
+   "bbox": [
+    393,
+    407,
+    514,
+    425
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    107,
+    458,
+    163,
+    470
+   ]
+  },
+  {
+   "text": "H-1511 Hídvára, Fürdővári utca 76.",
+   "bbox": [
+    393,
+    450,
+    752,
+    473
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    107,
+    509,
+    205,
+    521
+   ]
+  },
+  {
+   "text": "+36 30 506 7059",
+   "bbox": [
+    394,
+    508,
+    576,
+    526
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    107,
+    560,
+    188,
+    572
+   ]
+  },
+  {
+   "text": "toth.rebeka@citromail.hu",
+   "bbox": [
+    393,
+    560,
+    648,
+    580
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    107,
+    611,
+    234,
+    626
+   ]
+  },
+  {
+   "text": "8331348681",
+   "bbox": [
+    394,
+    611,
+    540,
+    629
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    107,
+    662,
+    178,
+    674
+   ]
+  },
+  {
+   "text": "621 436 994",
+   "bbox": [
+    394,
+    661,
+    538,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    95,
+    737,
+    235,
+    755
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    140,
+    783,
+    394,
+    798
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    140,
+    828,
+    259,
+    840
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    140,
+    873,
+    408,
+    888
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    95,
+    973,
+    129,
+    986
+   ]
+  },
+  {
+   "text": "Hajdúgyörgybánya, 2024.10.19.",
+   "bbox": [
+    184,
+    970,
+    470,
+    994
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1023,
+    974,
+    1033
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

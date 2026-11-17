@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Szabó József",
+  "email": "szabo.jozsef@citromail.hu",
+  "telefon": "06 1 414 3603",
+  "lakcim": "H-2314 Felsőtapolcakövesd, Petőfi sándor utca 205.",
+  "szuletesi_datum": "1991. 08. 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szekeres és Társa Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2021 – 2023"
+   },
+   {
+    "ceg": "Kovács Tech Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2018 – 2021"
+   },
+   {
+    "ceg": "Németh Tech Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2015 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "prezentáció",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó József",
+   "bbox": [
+    486,
+    99,
+    757,
+    133
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    515,
+    169,
+    725,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    164,
+    239
+   ]
+  },
+  {
+   "text": "szabo.jozsef@citromail.hu",
+   "bbox": [
+    330,
+    223,
+    577,
+    244
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    257,
+    172,
+    272
+   ]
+  },
+  {
+   "text": "06 1 414 3603",
+   "bbox": [
+    330,
+    257,
+    468,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    290,
+    173,
+    305
+   ]
+  },
+  {
+   "text": "H-2314 Felsőtapolcakövesd, Petőfi sándor utca 205.",
+   "bbox": [
+    330,
+    289,
+    820,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    254,
+    338
+   ]
+  },
+  {
+   "text": "1991. 08. 23.",
+   "bbox": [
+    330,
+    323,
+    456,
+    338
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    326,
+    401
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    90,
+    429,
+    210,
+    444
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szekeres és Társa Zrt.",
+   "bbox": [
+    90,
+    456,
+    510,
+    477
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    90,
+    499,
+    210,
+    514
+   ]
+  },
+  {
+   "text": "értékesítő – Kovács Tech Bt.",
+   "bbox": [
+    90,
+    526,
+    383,
+    542
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    90,
+    569,
+    210,
+    584
+   ]
+  },
+  {
+   "text": "irodavezető – Németh Tech Kft.",
+   "bbox": [
+    90,
+    596,
+    418,
+    612
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    650,
+    255,
+    674
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    702,
+    210,
+    717
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    729,
+    345,
+    750
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    755,
+    149,
+    776
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    799,
+    210,
+    814
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    826,
+    359,
+    842
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    852,
+    324,
+    873
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    907,
+    222,
+    931
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    958,
+    195,
+    979
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1009,
+    211,
+    1033
+   ]
+  },
+  {
+   "text": "Docker, prezentáció, csapatmunka",
+   "bbox": [
+    90,
+    1060,
+    411,
+    1081
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Török János",
+  "email": "torok.janos@outlook.com",
+  "telefon": "06 1 746 4748",
+  "lakcim": "H-5203 Ózd, Mindszentdevecseri utca 156.",
+  "szuletesi_datum": "1985.09.20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2009 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "prezentáció",
+   "JavaScript",
+   "Excel",
+   "SAP",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    103,
+    217,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    149,
+    104,
+    163
+   ]
+  },
+  {
+   "text": "torok.janos@outlook.com",
+   "bbox": [
+    40,
+    171,
+    273,
+    189
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    203,
+    115,
+    217
+   ]
+  },
+  {
+   "text": "06 1 746 4748",
+   "bbox": [
+    40,
+    226,
+    168,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    111,
+    271
+   ]
+  },
+  {
+   "text": "H-5203 Ózd, Mindszentdevecseri utca",
+   "bbox": [
+    40,
+    276,
+    378,
+    296
+   ]
+  },
+  {
+   "text": "156.",
+   "bbox": [
+    40,
+    302,
+    80,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    333,
+    203,
+    347
+   ]
+  },
+  {
+   "text": "1985.09.20.",
+   "bbox": [
+    40,
+    356,
+    149,
+    369
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    413,
+    205,
+    435
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    455,
+    149,
+    474
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    507,
+    184,
+    529
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    549,
+    167,
+    568
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    575,
+    149,
+    594
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    602,
+    138,
+    620
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    627,
+    89,
+    642
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    654,
+    77,
+    668
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    680,
+    91,
+    694
+   ]
+  },
+  {
+   "text": "Török János",
+   "bbox": [
+    450,
+    111,
+    747,
+    148
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    180,
+    678,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    242,
+    720,
+    266
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    450,
+    292,
+    581,
+    307
+   ]
+  },
+  {
+   "text": "tesztmérnök – Horváth Zrt.",
+   "bbox": [
+    450,
+    315,
+    772,
+    332
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    365,
+    630,
+    390
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    416,
+    581,
+    431
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    439,
+    776,
+    460
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    462,
+    791,
+    483
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    504,
+    581,
+    519
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    527,
+    735,
+    548
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    550,
+    710,
+    571
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

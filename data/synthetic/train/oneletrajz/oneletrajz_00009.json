@@ -1,0 +1,320 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Júlia",
+  "email": "kovacs.julia@outlook.com",
+  "telefon": "+36 70 234 8868",
+  "lakcim": "H-1829 Györgybánya, Hídfalui utca 161.",
+  "szuletesi_datum": "2002. június 25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Gál Szolgáltató Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Takács Trade Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "C#",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    205,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    101,
+    162
+   ]
+  },
+  {
+   "text": "kovacs.julia@outlook.com",
+   "bbox": [
+    40,
+    172,
+    283,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    115,
+    222
+   ]
+  },
+  {
+   "text": "+36 70 234 8868",
+   "bbox": [
+    40,
+    232,
+    190,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    110,
+    282
+   ]
+  },
+  {
+   "text": "H-1829 Györgybánya, Hídfalui utca",
+   "bbox": [
+    40,
+    291,
+    365,
+    311
+   ]
+  },
+  {
+   "text": "161.",
+   "bbox": [
+    40,
+    317,
+    81,
+    332
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    194,
+    367
+   ]
+  },
+  {
+   "text": "2002. június 25.",
+   "bbox": [
+    40,
+    376,
+    190,
+    396
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    437,
+    193,
+    461
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    483,
+    137,
+    504
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    537,
+    170,
+    561
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    582,
+    70,
+    599
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    612,
+    65,
+    628
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    641,
+    76,
+    657
+   ]
+  },
+  {
+   "text": "Kovács Júlia",
+   "bbox": [
+    450,
+    107,
+    720,
+    142
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    174,
+    580,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    699,
+    269
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    295,
+    606,
+    317
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Gál Szolgáltató Kft.",
+   "bbox": [
+    450,
+    322,
+    884,
+    345
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    365,
+    606,
+    387
+   ]
+  },
+  {
+   "text": "irodavezető – Takács Trade Zrt.",
+   "bbox": [
+    450,
+    392,
+    807,
+    410
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    446,
+    618,
+    472
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    450,
+    499,
+    568,
+    515
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    525,
+    652,
+    548
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    551,
+    798,
+    574
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    596,
+    568,
+    612
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    622,
+    783,
+    645
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    648,
+    718,
+    671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

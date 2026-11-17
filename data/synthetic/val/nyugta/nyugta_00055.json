@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SIPOS DISZKONT KFT.",
+  "uzlet_cim": "H-9189 Budapest, Falvai utca 176.",
+  "adoszam": "89490781-2-09",
+  "datum": "2024.07.04.",
+  "ido": "10:48",
+  "nyugtaszam": "5068/35023",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 032 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "628"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1193"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "211"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIPOS DISZKONT KFT.",
+   "bbox": [
+    134,
+    35,
+    400,
+    49
+   ]
+  },
+  {
+   "text": "H-9189 Budapest, Falvai utca 176.",
+   "bbox": [
+    85,
+    63,
+    448,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 89490781-2-09",
+   "bbox": [
+    146,
+    88,
+    388,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    131,
+    312,
+    147
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    172,
+    206,
+    187
+   ]
+  },
+  {
+   "text": "628 C00",
+   "bbox": [
+    419,
+    172,
+    510,
+    187
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    201,
+    128,
+    216
+   ]
+  },
+  {
+   "text": "1193 A00",
+   "bbox": [
+    406,
+    201,
+    510,
+    216
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    232,
+    193,
+    245
+   ]
+  },
+  {
+   "text": "211 A00",
+   "bbox": [
+    419,
+    230,
+    510,
+    245
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    269,
+    174,
+    289
+   ]
+  },
+  {
+   "text": "2 032 Ft",
+   "bbox": [
+    390,
+    271,
+    510,
+    289
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    308,
+    167,
+    325
+   ]
+  },
+  {
+   "text": "2 032 Ft",
+   "bbox": [
+    406,
+    310,
+    510,
+    325
+   ]
+  },
+  {
+   "text": "2024.07.04.",
+   "bbox": [
+    24,
+    352,
+    145,
+    366
+   ]
+  },
+  {
+   "text": "10:48",
+   "bbox": [
+    455,
+    352,
+    510,
+    366
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5068/35023",
+   "bbox": [
+    24,
+    380,
+    266,
+    398
+   ]
+  },
+  {
+   "text": "AP A87120940",
+   "bbox": [
+    24,
+    410,
+    156,
+    424
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    135,
+    450,
+    399,
+    466
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  534,
+  511
+ ]
+}

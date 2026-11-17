@@ -1,0 +1,320 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szűcs Levente",
+  "email": "szucs.levente@example.hu",
+  "telefon": "06 1 563 1424",
+  "lakcim": "H-9147 Mátrahetvenharaszti, Szabadság utca 165.",
+  "szuletesi_datum": "2003.10.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2023 – 2026"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Sárközi és Társa Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "SAP",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    93,
+    161,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    136,
+    83,
+    148
+   ]
+  },
+  {
+   "text": "szucs.levente@example.hu",
+   "bbox": [
+    40,
+    157,
+    227,
+    172
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    188,
+    93,
+    200
+   ]
+  },
+  {
+   "text": "06 1 563 1424",
+   "bbox": [
+    40,
+    210,
+    142,
+    221
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    240,
+    88,
+    252
+   ]
+  },
+  {
+   "text": "H-9147 Mátrahetvenharaszti, Szabadság utca",
+   "bbox": [
+    40,
+    261,
+    356,
+    276
+   ]
+  },
+  {
+   "text": "165.",
+   "bbox": [
+    40,
+    283,
+    71,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    313,
+    153,
+    325
+   ]
+  },
+  {
+   "text": "2003.10.03.",
+   "bbox": [
+    40,
+    335,
+    124,
+    346
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    393,
+    156,
+    410
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    433,
+    129,
+    448
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    485,
+    136,
+    502
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    525,
+    137,
+    540
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    551,
+    67,
+    562
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    575,
+    194,
+    590
+   ]
+  },
+  {
+   "text": "Szűcs Levente",
+   "bbox": [
+    450,
+    98,
+    697,
+    127
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    167,
+    605,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    228,
+    637,
+    248
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    277,
+    566,
+    293
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Fekete Logisztika Kft.",
+   "bbox": [
+    450,
+    299,
+    869,
+    317
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    339,
+    566,
+    355
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Sárközi és Társa Zrt.",
+   "bbox": [
+    449,
+    361,
+    762,
+    379
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    411,
+    578,
+    431
+   ]
+  },
+  {
+   "text": "2023 – 2026",
+   "bbox": [
+    450,
+    461,
+    547,
+    473
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    482,
+    611,
+    500
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    506,
+    656,
+    522
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    546,
+    547,
+    558
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    568,
+    651,
+    585
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    591,
+    647,
+    607
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

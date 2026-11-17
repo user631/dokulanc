@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Varga Krisztina",
+  "email": "varga.krisztina@outlook.com",
+  "telefon": "+36 70 354 5172",
+  "lakcim": "H-9400 Somogyhídkőrös, Végi utca 35.",
+  "szuletesi_datum": "2004.08.10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Papp Logisztika Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "C#",
+   "SQL",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    110,
+    208,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    156,
+    101,
+    171
+   ]
+  },
+  {
+   "text": "varga.krisztina@outlook.com",
+   "bbox": [
+    40,
+    179,
+    278,
+    198
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    212,
+    111,
+    227
+   ]
+  },
+  {
+   "text": "+36 70 354 5172",
+   "bbox": [
+    40,
+    236,
+    182,
+    250
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    107,
+    283
+   ]
+  },
+  {
+   "text": "H-9400 Somogyhídkőrös, Végi utca 35.",
+   "bbox": [
+    40,
+    291,
+    365,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    323,
+    193,
+    339
+   ]
+  },
+  {
+   "text": "2004.08.10.",
+   "bbox": [
+    40,
+    348,
+    138,
+    362
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    407,
+    195,
+    429
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    449,
+    130,
+    469
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    475,
+    142,
+    496
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    530,
+    176,
+    552
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    573,
+    65,
+    588
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    598,
+    143,
+    619
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    627,
+    67,
+    642
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    654,
+    75,
+    673
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    680,
+    228,
+    700
+   ]
+  },
+  {
+   "text": "Varga Krisztina",
+   "bbox": [
+    449,
+    119,
+    796,
+    163
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    187,
+    633,
+    207
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    250,
+    704,
+    275
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    300,
+    592,
+    321
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Papp Logisztika Bt.",
+   "bbox": [
+    450,
+    325,
+    918,
+    347
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    376,
+    620,
+    402
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    450,
+    428,
+    563,
+    444
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    452,
+    725,
+    474
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    449,
+    477,
+    508,
+    498
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    519,
+    563,
+    535
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    543,
+    715,
+    565
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    568,
+    630,
+    589
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

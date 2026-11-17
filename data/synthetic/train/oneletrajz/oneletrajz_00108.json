@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Veres Erzsébet",
+  "email": "veres.erzsebet@freemail.hu",
+  "telefon": "+36 30 742 1586",
+  "lakcim": "H-7595 Békéscsaba, Szabadság utca 7.",
+  "szuletesi_datum": "1996. 06. 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Gáspár Consulting Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2022"
+   },
+   {
+    "ceg": "Molnár Consulting Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2018 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Excel",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Veres Erzsébet",
+   "bbox": [
+    457,
+    106,
+    782,
+    139
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    534,
+    173,
+    705,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    153,
+    238
+   ]
+  },
+  {
+   "text": "veres.erzsebet@freemail.hu",
+   "bbox": [
+    330,
+    224,
+    572,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    165,
+    267
+   ]
+  },
+  {
+   "text": "+36 30 742 1586",
+   "bbox": [
+    330,
+    253,
+    477,
+    267
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    163,
+    296
+   ]
+  },
+  {
+   "text": "H-7595 Békéscsaba, Szabadság utca 7.",
+   "bbox": [
+    330,
+    282,
+    679,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    310,
+    243,
+    325
+   ]
+  },
+  {
+   "text": "1996. 06. 20.",
+   "bbox": [
+    330,
+    311,
+    443,
+    325
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    360,
+    309,
+    382
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    90,
+    409,
+    199,
+    423
+   ]
+  },
+  {
+   "text": "projektmenedzser – Gáspár Consulting Zrt.",
+   "bbox": [
+    90,
+    432,
+    502,
+    451
+   ]
+  },
+  {
+   "text": "2018 – 2021",
+   "bbox": [
+    90,
+    471,
+    199,
+    485
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Molnár Consulting Zrt.",
+   "bbox": [
+    90,
+    494,
+    531,
+    513
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    543,
+    238,
+    565
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    90,
+    592,
+    199,
+    606
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    615,
+    265,
+    634
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    638,
+    209,
+    656
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    677,
+    199,
+    691
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    700,
+    324,
+    719
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    723,
+    254,
+    741
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    772,
+    214,
+    794
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    821,
+    185,
+    839
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    866,
+    211,
+    888
+   ]
+  },
+  {
+   "text": "Git, Excel, Docker",
+   "bbox": [
+    90,
+    915,
+    245,
+    932
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

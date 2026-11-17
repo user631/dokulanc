@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Horváth Béla",
+  "anyja_neve": "Fehér Alexandra",
+  "szuletesi_hely": "Györgynádasd",
+  "szuletesi_datum": "1983. 08. 15.",
+  "lakcim": "H-9014 Magyarmártonnémeti, Nyírtapolcai utca 149.",
+  "telefon": "+36 70 274 7766",
+  "email": "horvath.bela@example.hu",
+  "adoazonosito_jel": "8425949661",
+  "taj_szam": "334 992 666",
+  "kelt": "Székberény, 2026. 10. 05."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    508,
+    89,
+    732,
+    124
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    474,
+    143,
+    765,
+    161
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    198,
+    300,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    250,
+    135,
+    265
+   ]
+  },
+  {
+   "text": "Horváth Béla",
+   "bbox": [
+    424,
+    244,
+    606,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    96,
+    303,
+    195,
+    323
+   ]
+  },
+  {
+   "text": "Fehér Alexandra",
+   "bbox": [
+    424,
+    299,
+    657,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    356,
+    217,
+    376
+   ]
+  },
+  {
+   "text": "Györgynádasd",
+   "bbox": [
+    424,
+    350,
+    616,
+    376
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    409,
+    210,
+    424
+   ]
+  },
+  {
+   "text": "1983. 08. 15.",
+   "bbox": [
+    424,
+    404,
+    606,
+    421
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    462,
+    160,
+    477
+   ]
+  },
+  {
+   "text": "H-9014 Magyarmártonnémeti, Nyírtapolcai utca 149.",
+   "bbox": [
+    424,
+    459,
+    1153,
+    485
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    515,
+    208,
+    530
+   ]
+  },
+  {
+   "text": "+36 70 274 7766",
+   "bbox": [
+    424,
+    513,
+    666,
+    532
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    568,
+    191,
+    583
+   ]
+  },
+  {
+   "text": "horvath.bela@example.hu",
+   "bbox": [
+    424,
+    566,
+    777,
+    592
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    96,
+    621,
+    248,
+    641
+   ]
+  },
+  {
+   "text": "8425949661",
+   "bbox": [
+    424,
+    616,
+    604,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    674,
+    179,
+    689
+   ]
+  },
+  {
+   "text": "334 992 666",
+   "bbox": [
+    424,
+    671,
+    606,
+    690
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    756,
+    261,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    798,
+    430,
+    818
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    843,
+    268,
+    858
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    129,
+    888,
+    450,
+    908
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    993,
+    124,
+    1009
+   ]
+  },
+  {
+   "text": "Székberény, 2026. 10. 05.",
+   "bbox": [
+    174,
+    990,
+    502,
+    1014
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    942,
+    1042,
+    990,
+    1055
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

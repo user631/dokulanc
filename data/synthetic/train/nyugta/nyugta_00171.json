@@ -1,0 +1,255 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BALOGH ÉLELMISZER BT.",
+  "uzlet_cim": "H-3550 Hódmezővásárhely, Békésháti tér 188.",
+  "adoszam": "67052585-2-04",
+  "datum": "2024.02.01.",
+  "ido": "12:06",
+  "nyugtaszam": "3208/66389",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "4 558 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1149"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "317"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "76"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3016"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH ÉLELMISZER BT.",
+   "bbox": [
+    125,
+    30,
+    440,
+    50
+   ]
+  },
+  {
+   "text": "H-3550 Hódmezővásárhely, Békésháti tér",
+   "bbox": [
+    36,
+    65,
+    530,
+    86
+   ]
+  },
+  {
+   "text": "188.",
+   "bbox": [
+    257,
+    94,
+    309,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 67052585-2-04",
+   "bbox": [
+    140,
+    119,
+    426,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    235,
+    165,
+    332,
+    182
+   ]
+  },
+  {
+   "text": "3 DB x 383",
+   "bbox": [
+    24,
+    207,
+    144,
+    221
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    232,
+    178,
+    253
+   ]
+  },
+  {
+   "text": "1149 B00",
+   "bbox": [
+    430,
+    232,
+    542,
+    249
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    266,
+    206,
+    280
+   ]
+  },
+  {
+   "text": "317 C00",
+   "bbox": [
+    444,
+    263,
+    542,
+    280
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    297,
+    108,
+    311
+   ]
+  },
+  {
+   "text": "76 C00",
+   "bbox": [
+    458,
+    294,
+    542,
+    311
+   ]
+  },
+  {
+   "text": "2 DB x 1508",
+   "bbox": [
+    24,
+    325,
+    156,
+    339
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    350,
+    164,
+    367
+   ]
+  },
+  {
+   "text": "3016 A00",
+   "bbox": [
+    430,
+    350,
+    542,
+    367
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    392,
+    184,
+    413
+   ]
+  },
+  {
+   "text": "4 558 Ft",
+   "bbox": [
+    414,
+    393,
+    542,
+    413
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    433,
+    164,
+    451
+   ]
+  },
+  {
+   "text": "4 558 Ft",
+   "bbox": [
+    430,
+    434,
+    542,
+    451
+   ]
+  },
+  {
+   "text": "2024.02.01.",
+   "bbox": [
+    24,
+    479,
+    167,
+    494
+   ]
+  },
+  {
+   "text": "12:06",
+   "bbox": [
+    477,
+    479,
+    542,
+    494
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3208/66389",
+   "bbox": [
+    24,
+    508,
+    310,
+    528
+   ]
+  },
+  {
+   "text": "AP A11301757",
+   "bbox": [
+    24,
+    541,
+    180,
+    556
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    140,
+    583,
+    426,
+    600
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  566,
+  645
+ ]
+}

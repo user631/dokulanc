@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2025/03473",
+  "kiallitas_datuma": "2025. július 16.",
+  "teljesites_datuma": "2025. július 14.",
+  "fizetesi_hatarido": "2025. július 24.",
+  "elado_nev": "Rácz Szolgáltató Kft.",
+  "elado_cim": "H-5883 Vác, Szolnoki utca 207.",
+  "elado_adoszam": "83108497-2-23",
+  "vevo_nev": "Gáspár Tech Zrt.",
+  "vevo_cim": "H-3315 Budapest, Nagytamásii tér 36.",
+  "vevo_adoszam": "20386018-2-42",
+  "bankszamla": "91101794-99922620-44889925",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "34 030 Ft",
+  "afa_osszesen": "7 492 Ft",
+  "brutto_osszesen": "41 522 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "5 csomag",
+    "egysegar": "3 770",
+    "netto": "18 850",
+    "afa_kulcs": "18%",
+    "afa": "3 393",
+    "brutto": "22 243"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "11 480",
+    "netto": "11 480",
+    "afa_kulcs": "27%",
+    "afa": "3 100",
+    "brutto": "14 580"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "2 csomag",
+    "egysegar": "1 850",
+    "netto": "3 700",
+    "afa_kulcs": "27%",
+    "afa": "999",
+    "brutto": "4 699"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    398,
+    97,
+    841,
+    145
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/03473",
+   "bbox": [
+    421,
+    160,
+    818,
+    184
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    95,
+    240,
+    168,
+    259
+   ]
+  },
+  {
+   "text": "Gáspár Tech Zrt.",
+   "bbox": [
+    96,
+    277,
+    309,
+    301
+   ]
+  },
+  {
+   "text": "H-3315 Budapest, Nagytamásii tér 36.",
+   "bbox": [
+    96,
+    313,
+    486,
+    335
+   ]
+  },
+  {
+   "text": "Adószám: 20386018-2-42",
+   "bbox": [
+    95,
+    344,
+    363,
+    365
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    240,
+    714,
+    259
+   ]
+  },
+  {
+   "text": "Rácz Szolgáltató Kft.",
+   "bbox": [
+    630,
+    277,
+    894,
+    301
+   ]
+  },
+  {
+   "text": "H-5883 Vác, Szolnoki utca 207.",
+   "bbox": [
+    630,
+    313,
+    953,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 83108497-2-23",
+   "bbox": [
+    629,
+    344,
+    895,
+    365
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    96,
+    412,
+    266,
+    427
+   ]
+  },
+  {
+   "text": "2025. július 16.",
+   "bbox": [
+    96,
+    441,
+    243,
+    463
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    412,
+    538,
+    431
+   ]
+  },
+  {
+   "text": "2025. július 14.",
+   "bbox": [
+    358,
+    441,
+    505,
+    463
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    412,
+    792,
+    427
+   ]
+  },
+  {
+   "text": "2025. július 24.",
+   "bbox": [
+    620,
+    441,
+    770,
+    463
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    882,
+    412,
+    1012,
+    427
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    882,
+    441,
+    960,
+    458
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    492,
+    218,
+    511
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    493,
+    592,
+    511
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    653,
+    492,
+    746,
+    511
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    814,
+    492,
+    871,
+    507
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    488,
+    934,
+    507
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    488,
+    1034,
+    507
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1076,
+    492,
+    1144,
+    507
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    515,
+    538,
+    598,
+    553
+   ]
+  },
+  {
+   "text": "3 770",
+   "bbox": [
+    697,
+    538,
+    745,
+    553
+   ]
+  },
+  {
+   "text": "18 850",
+   "bbox": [
+    810,
+    535,
+    871,
+    553
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    897,
+    535,
+    934,
+    549
+   ]
+  },
+  {
+   "text": "3 393",
+   "bbox": [
+    984,
+    538,
+    1033,
+    553
+   ]
+  },
+  {
+   "text": "22 243",
+   "bbox": [
+    1084,
+    538,
+    1144,
+    553
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    96,
+    534,
+    260,
+    553
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    515,
+    570,
+    558,
+    585
+   ]
+  },
+  {
+   "text": "11 480",
+   "bbox": [
+    687,
+    571,
+    745,
+    589
+   ]
+  },
+  {
+   "text": "11 480",
+   "bbox": [
+    813,
+    571,
+    871,
+    589
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    571,
+    934,
+    589
+   ]
+  },
+  {
+   "text": "3 100",
+   "bbox": [
+    984,
+    574,
+    1033,
+    589
+   ]
+  },
+  {
+   "text": "14 580",
+   "bbox": [
+    1084,
+    571,
+    1144,
+    589
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    96,
+    570,
+    343,
+    589
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    515,
+    610,
+    598,
+    625
+   ]
+  },
+  {
+   "text": "1 850",
+   "bbox": [
+    696,
+    607,
+    745,
+    625
+   ]
+  },
+  {
+   "text": "3 700",
+   "bbox": [
+    821,
+    610,
+    871,
+    625
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    607,
+    934,
+    625
+   ]
+  },
+  {
+   "text": "999",
+   "bbox": [
+    1000,
+    610,
+    1033,
+    625
+   ]
+  },
+  {
+   "text": "4 699",
+   "bbox": [
+    1095,
+    607,
+    1144,
+    625
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    96,
+    606,
+    332,
+    625
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    649,
+    663,
+    814,
+    681
+   ]
+  },
+  {
+   "text": "34 030 Ft",
+   "bbox": [
+    1040,
+    664,
+    1144,
+    685
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    696,
+    814,
+    718
+   ]
+  },
+  {
+   "text": "7 492 Ft",
+   "bbox": [
+    1057,
+    701,
+    1144,
+    722
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    678,
+    737,
+    814,
+    760
+   ]
+  },
+  {
+   "text": "41 522 Ft",
+   "bbox": [
+    1034,
+    738,
+    1144,
+    759
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 91101794-99922620-44889925",
+   "bbox": [
+    96,
+    803,
+    575,
+    824
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    416,
+    1640,
+    822,
+    1658
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

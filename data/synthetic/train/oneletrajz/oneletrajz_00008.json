@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kiss György",
+  "email": "kiss.gyorgy@outlook.com",
+  "telefon": "+36 20 783 2565",
+  "lakcim": "H-2776 Dunaújváros, Fürdőhidai utca 125.",
+  "szuletesi_datum": "1991. 02. 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2009 – 2014"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Tóth Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2013 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Java",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss György",
+   "bbox": [
+    490,
+    104,
+    750,
+    150
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    167,
+    676,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    157,
+    237
+   ]
+  },
+  {
+   "text": "kiss.gyorgy@outlook.com",
+   "bbox": [
+    330,
+    221,
+    566,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    170,
+    268
+   ]
+  },
+  {
+   "text": "+36 20 783 2565",
+   "bbox": [
+    330,
+    253,
+    483,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    165,
+    299
+   ]
+  },
+  {
+   "text": "H-2776 Dunaújváros, Fürdőhidai utca 125.",
+   "bbox": [
+    330,
+    283,
+    718,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    314,
+    252,
+    330
+   ]
+  },
+  {
+   "text": "1991. 02. 21.",
+   "bbox": [
+    330,
+    315,
+    445,
+    330
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    366,
+    321,
+    391
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    417,
+    201,
+    432
+   ]
+  },
+  {
+   "text": "adatelemző – Szabó Logisztika Bt.",
+   "bbox": [
+    90,
+    441,
+    441,
+    463
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    90,
+    483,
+    201,
+    498
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Tóth Consulting Kft.",
+   "bbox": [
+    90,
+    507,
+    492,
+    529
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    559,
+    249,
+    584
+   ]
+  },
+  {
+   "text": "2009 – 2014",
+   "bbox": [
+    90,
+    610,
+    201,
+    625
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    634,
+    629,
+    656
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    90,
+    659,
+    274,
+    675
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    701,
+    201,
+    716
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    725,
+    354,
+    742
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    750,
+    170,
+    771
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    802,
+    222,
+    827
+   ]
+  },
+  {
+   "text": "angol (C1), francia (A2)",
+   "bbox": [
+    90,
+    852,
+    301,
+    873
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    900,
+    212,
+    925
+   ]
+  },
+  {
+   "text": "C#, Java, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    950,
+    402,
+    971
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

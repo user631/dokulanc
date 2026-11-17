@@ -1,0 +1,427 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH ÉLELMISZER KFT.",
+  "uzlet_cim": "H-3015 Tatabánya, Németii út 247.",
+  "adoszam": "89136490-5-05",
+  "datum": "2025.12.15.",
+  "ido": "16:10",
+  "nyugtaszam": "5671/37916",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 982 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1020"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "347"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "898"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1126"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1126"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "439"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "99"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1731"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "662"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1695"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "839"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ÉLELMISZER KFT.",
+   "bbox": [
+    147,
+    30,
+    447,
+    51
+   ]
+  },
+  {
+   "text": "H-3015 Tatabánya, Németii út 247.",
+   "bbox": [
+    82,
+    70,
+    511,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 89136490-5-05",
+   "bbox": [
+    154,
+    94,
+    440,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    140,
+    346,
+    156
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    185,
+    206,
+    198
+   ]
+  },
+  {
+   "text": "1020 A00",
+   "bbox": [
+    458,
+    184,
+    570,
+    198
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    215,
+    220,
+    229
+   ]
+  },
+  {
+   "text": "347 C00",
+   "bbox": [
+    472,
+    215,
+    570,
+    229
+   ]
+  },
+  {
+   "text": "2 DB x 449",
+   "bbox": [
+    24,
+    244,
+    144,
+    257
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    271,
+    150,
+    285
+   ]
+  },
+  {
+   "text": "898 C00",
+   "bbox": [
+    472,
+    271,
+    570,
+    285
+   ]
+  },
+  {
+   "text": "2 DB x 563",
+   "bbox": [
+    24,
+    300,
+    144,
+    313
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    327,
+    178,
+    341
+   ]
+  },
+  {
+   "text": "1126 C00",
+   "bbox": [
+    458,
+    327,
+    570,
+    341
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    358,
+    192,
+    372
+   ]
+  },
+  {
+   "text": "1126 B00",
+   "bbox": [
+    458,
+    358,
+    570,
+    372
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    389,
+    178,
+    406
+   ]
+  },
+  {
+   "text": "439 B00",
+   "bbox": [
+    472,
+    389,
+    570,
+    403
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    421,
+    108,
+    434
+   ]
+  },
+  {
+   "text": "99 A00",
+   "bbox": [
+    486,
+    420,
+    570,
+    434
+   ]
+  },
+  {
+   "text": "3 DB x 577",
+   "bbox": [
+    24,
+    449,
+    144,
+    462
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    476,
+    220,
+    490
+   ]
+  },
+  {
+   "text": "1731 C00",
+   "bbox": [
+    458,
+    476,
+    570,
+    490
+   ]
+  },
+  {
+   "text": "2 DB x 331",
+   "bbox": [
+    24,
+    505,
+    144,
+    518
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    533,
+    220,
+    546
+   ]
+  },
+  {
+   "text": "662 B00",
+   "bbox": [
+    472,
+    532,
+    570,
+    546
+   ]
+  },
+  {
+   "text": "3 DB x 565",
+   "bbox": [
+    24,
+    561,
+    144,
+    574
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    588,
+    248,
+    602
+   ]
+  },
+  {
+   "text": "1695 C00",
+   "bbox": [
+    458,
+    588,
+    570,
+    602
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    619,
+    234,
+    633
+   ]
+  },
+  {
+   "text": "839 C00",
+   "bbox": [
+    472,
+    619,
+    570,
+    633
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    658,
+    168,
+    679
+   ]
+  },
+  {
+   "text": "9 982 Ft",
+   "bbox": [
+    442,
+    662,
+    570,
+    679
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    700,
+    164,
+    717
+   ]
+  },
+  {
+   "text": "9 982 Ft",
+   "bbox": [
+    458,
+    703,
+    570,
+    717
+   ]
+  },
+  {
+   "text": "2025.12.15.",
+   "bbox": [
+    24,
+    747,
+    167,
+    760
+   ]
+  },
+  {
+   "text": "16:10",
+   "bbox": [
+    505,
+    747,
+    570,
+    760
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5671/37916",
+   "bbox": [
+    24,
+    775,
+    310,
+    793
+   ]
+  },
+  {
+   "text": "AP A75856884",
+   "bbox": [
+    24,
+    809,
+    180,
+    822
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    232,
+    850,
+    362,
+    866
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  594,
+  910
+ ]
+}

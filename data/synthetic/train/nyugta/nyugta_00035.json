@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SÁNDOR ABC BT.",
+  "uzlet_cim": "H-2118 Orosztamásivár, Nagykanizsai utca 3.",
+  "adoszam": "75727941-4-19",
+  "datum": "2024.09.02.",
+  "ido": "09:06",
+  "nyugtaszam": "9442/19706",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 900 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "732"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "856"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "257"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1296"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "759"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SÁNDOR ABC BT.",
+   "bbox": [
+    219,
+    28,
+    387,
+    47
+   ]
+  },
+  {
+   "text": "H-2118 Orosztamásivár, Nagykanizsai utca 3.",
+   "bbox": [
+    88,
+    63,
+    518,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 75727941-4-19",
+   "bbox": [
+    193,
+    86,
+    413,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    264,
+    127,
+    343,
+    142
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    168,
+    112,
+    181
+   ]
+  },
+  {
+   "text": "732 B00",
+   "bbox": [
+    506,
+    168,
+    583,
+    181
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    196,
+    200,
+    209
+   ]
+  },
+  {
+   "text": "856 B00",
+   "bbox": [
+    506,
+    196,
+    583,
+    209
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    224,
+    178,
+    240
+   ]
+  },
+  {
+   "text": "257 C00",
+   "bbox": [
+    506,
+    224,
+    583,
+    237
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    252,
+    134,
+    265
+   ]
+  },
+  {
+   "text": "1296 B00",
+   "bbox": [
+    495,
+    252,
+    583,
+    265
+   ]
+  },
+  {
+   "text": "3 DB x 253",
+   "bbox": [
+    24,
+    280,
+    114,
+    291
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    302,
+    167,
+    315
+   ]
+  },
+  {
+   "text": "759 B00",
+   "bbox": [
+    506,
+    302,
+    583,
+    315
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    338,
+    154,
+    358
+   ]
+  },
+  {
+   "text": "3 900 Ft",
+   "bbox": [
+    479,
+    342,
+    583,
+    358
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    376,
+    134,
+    393
+   ]
+  },
+  {
+   "text": "3 900 Ft",
+   "bbox": [
+    495,
+    380,
+    583,
+    393
+   ]
+  },
+  {
+   "text": "2024.09.02.",
+   "bbox": [
+    24,
+    423,
+    134,
+    434
+   ]
+  },
+  {
+   "text": "09:06",
+   "bbox": [
+    533,
+    423,
+    583,
+    434
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9442/19706",
+   "bbox": [
+    24,
+    448,
+    244,
+    464
+   ]
+  },
+  {
+   "text": "AP A39676301",
+   "bbox": [
+    24,
+    479,
+    144,
+    490
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    228,
+    515,
+    378,
+    531
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  607,
+  576
+ ]
+}

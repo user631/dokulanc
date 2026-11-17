@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Halász Ilona",
+  "email": "halasz.ilona@example.hu",
+  "telefon": "06 1 358 9902",
+  "lakcim": "H-9989 Dunaújváros, Mosonmagyaróvári utca 138.",
+  "szuletesi_datum": "1996. november 5.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2015 – 2018"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2019 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Excel",
+   "Python",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Halász Ilona",
+   "bbox": [
+    494,
+    90,
+    745,
+    124
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    154,
+    675,
+    179
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    207,
+    153,
+    221
+   ]
+  },
+  {
+   "text": "halasz.ilona@example.hu",
+   "bbox": [
+    330,
+    207,
+    546,
+    225
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    236,
+    166,
+    250
+   ]
+  },
+  {
+   "text": "06 1 358 9902",
+   "bbox": [
+    330,
+    236,
+    448,
+    250
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    265,
+    160,
+    279
+   ]
+  },
+  {
+   "text": "H-9989 Dunaújváros, Mosonmagyaróvári utca 138.",
+   "bbox": [
+    330,
+    264,
+    751,
+    283
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    294,
+    240,
+    308
+   ]
+  },
+  {
+   "text": "1996. november 5.",
+   "bbox": [
+    330,
+    294,
+    489,
+    308
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    344,
+    302,
+    366
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    90,
+    392,
+    189,
+    406
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Logisztika Kft.",
+   "bbox": [
+    89,
+    415,
+    450,
+    434
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    465,
+    235,
+    487
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    90,
+    513,
+    189,
+    527
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    537,
+    259,
+    555
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    558,
+    196,
+    577
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    598,
+    189,
+    612
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    621,
+    318,
+    640
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    644,
+    259,
+    662
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    694,
+    207,
+    716
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    742,
+    195,
+    760
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    788,
+    200,
+    810
+   ]
+  },
+  {
+   "text": "Java, Excel, Python, JavaScript",
+   "bbox": [
+    90,
+    836,
+    357,
+    854
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

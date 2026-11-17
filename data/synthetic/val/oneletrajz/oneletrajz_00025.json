@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Török Csaba",
+  "email": "torok.csaba@freemail.hu",
+  "telefon": "+36 30 697 5358",
+  "lakcim": "H-4104 Piliskeresztfalva, Győri út 190.",
+  "szuletesi_datum": "1980.11.18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Linux",
+   "SQL",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Török Csaba",
+   "bbox": [
+    506,
+    93,
+    734,
+    124
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    542,
+    163,
+    697,
+    179
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    214,
+    144,
+    227
+   ]
+  },
+  {
+   "text": "torok.csaba@freemail.hu",
+   "bbox": [
+    330,
+    214,
+    526,
+    229
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    155,
+    256
+   ]
+  },
+  {
+   "text": "+36 30 697 5358",
+   "bbox": [
+    330,
+    244,
+    461,
+    256
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    272,
+    149,
+    285
+   ]
+  },
+  {
+   "text": "H-4104 Piliskeresztfalva, Győri út 190.",
+   "bbox": [
+    330,
+    272,
+    625,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    301,
+    222,
+    314
+   ]
+  },
+  {
+   "text": "1980.11.18.",
+   "bbox": [
+    330,
+    302,
+    425,
+    314
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    350,
+    277,
+    370
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    400,
+    187,
+    412
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Németh Bt.",
+   "bbox": [
+    89,
+    421,
+    330,
+    439
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    471,
+    218,
+    491
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    90,
+    521,
+    187,
+    533
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    542,
+    297,
+    560
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    566,
+    195,
+    582
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    606,
+    187,
+    618
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    627,
+    337,
+    645
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    651,
+    157,
+    667
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    700,
+    197,
+    720
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    749,
+    175,
+    765
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    794,
+    188,
+    814
+   ]
+  },
+  {
+   "text": "C#, Linux, SQL, Git",
+   "bbox": [
+    90,
+    843,
+    228,
+    859
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

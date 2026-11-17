@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/07797",
+  "kiallitas_datuma": "2025-08-29",
+  "teljesites_datuma": "2025-08-26",
+  "fizetesi_hatarido": "2025-09-06",
+  "elado_nev": "Fodor Consulting Kft.",
+  "elado_cim": "H-1188 Dunamártonberény, Arany jános tér 201.",
+  "elado_adoszam": "18831724-2-11",
+  "vevo_nev": "Horváth Logisztika Bt.",
+  "vevo_cim": "H-1491 Belsőfürdőfa, Egyházasfürdői utca 107.",
+  "vevo_adoszam": "75933081-2-36",
+  "bankszamla": "95751315-26878759-84300294",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 747 640 Ft",
+  "afa_osszesen": "471 674 Ft",
+  "brutto_osszesen": "2 219 314 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "12 csomag",
+    "egysegar": "1 820",
+    "netto": "21 840",
+    "afa_kulcs": "27%",
+    "afa": "5 897",
+    "brutto": "27 737"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "10 db",
+    "egysegar": "7 990",
+    "netto": "79 900",
+    "afa_kulcs": "27%",
+    "afa": "21 573",
+    "brutto": "101 473"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 100",
+    "netto": "2 100",
+    "afa_kulcs": "18%",
+    "afa": "378",
+    "brutto": "2 478"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "164 380",
+    "netto": "1 643 800",
+    "afa_kulcs": "27%",
+    "afa": "443 826",
+    "brutto": "2 087 626"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    419,
+    81,
+    821,
+    113
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/07797",
+   "bbox": [
+    441,
+    136,
+    800,
+    156
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    72,
+    217,
+    144,
+    236
+   ]
+  },
+  {
+   "text": "Fodor Consulting Kft.",
+   "bbox": [
+    72,
+    254,
+    322,
+    278
+   ]
+  },
+  {
+   "text": "H-1188 Dunamártonberény, Arany jános tér 201.",
+   "bbox": [
+    72,
+    288,
+    572,
+    311
+   ]
+  },
+  {
+   "text": "Adószám: 18831724-2-11",
+   "bbox": [
+    72,
+    319,
+    325,
+    337
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    217,
+    696,
+    236
+   ]
+  },
+  {
+   "text": "Horváth Logisztika Bt.",
+   "bbox": [
+    630,
+    254,
+    889,
+    278
+   ]
+  },
+  {
+   "text": "H-1491 Belsőfürdőfa, Egyházasfürdői utca 107.",
+   "bbox": [
+    630,
+    288,
+    1112,
+    311
+   ]
+  },
+  {
+   "text": "Adószám: 75933081-2-36",
+   "bbox": [
+    630,
+    319,
+    883,
+    337
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    72,
+    388,
+    224,
+    403
+   ]
+  },
+  {
+   "text": "2025-08-29",
+   "bbox": [
+    72,
+    418,
+    184,
+    434
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    346,
+    388,
+    516,
+    407
+   ]
+  },
+  {
+   "text": "2025-08-26",
+   "bbox": [
+    346,
+    418,
+    458,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    388,
+    782,
+    403
+   ]
+  },
+  {
+   "text": "2025-09-06",
+   "bbox": [
+    620,
+    418,
+    732,
+    434
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    894,
+    388,
+    1016,
+    403
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    894,
+    416,
+    1005,
+    439
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    72,
+    468,
+    188,
+    487
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    469,
+    579,
+    487
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    668,
+    468,
+    751,
+    487
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    468,
+    883,
+    483
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    896,
+    464,
+    948,
+    483
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    464,
+    1052,
+    483
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1108,
+    468,
+    1168,
+    483
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    510,
+    511,
+    603,
+    529
+   ]
+  },
+  {
+   "text": "1 820",
+   "bbox": [
+    705,
+    511,
+    751,
+    525
+   ]
+  },
+  {
+   "text": "21 840",
+   "bbox": [
+    827,
+    511,
+    883,
+    525
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    511,
+    948,
+    525
+   ]
+  },
+  {
+   "text": "5 897",
+   "bbox": [
+    1006,
+    511,
+    1053,
+    525
+   ]
+  },
+  {
+   "text": "27 737",
+   "bbox": [
+    1112,
+    511,
+    1169,
+    525
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    72,
+    509,
+    306,
+    529
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    510,
+    546,
+    558,
+    561
+   ]
+  },
+  {
+   "text": "7 990",
+   "bbox": [
+    705,
+    547,
+    751,
+    561
+   ]
+  },
+  {
+   "text": "79 900",
+   "bbox": [
+    827,
+    547,
+    883,
+    561
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    547,
+    948,
+    561
+   ]
+  },
+  {
+   "text": "21 573",
+   "bbox": [
+    996,
+    547,
+    1052,
+    561
+   ]
+  },
+  {
+   "text": "101 473",
+   "bbox": [
+    1102,
+    547,
+    1168,
+    561
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    72,
+    545,
+    218,
+    561
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    510,
+    582,
+    585,
+    597
+   ]
+  },
+  {
+   "text": "2 100",
+   "bbox": [
+    705,
+    583,
+    751,
+    597
+   ]
+  },
+  {
+   "text": "2 100",
+   "bbox": [
+    837,
+    583,
+    883,
+    597
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    916,
+    583,
+    948,
+    597
+   ]
+  },
+  {
+   "text": "378",
+   "bbox": [
+    1022,
+    583,
+    1052,
+    597
+   ]
+  },
+  {
+   "text": "2 478",
+   "bbox": [
+    1122,
+    583,
+    1168,
+    597
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    72,
+    578,
+    205,
+    601
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    510,
+    618,
+    608,
+    633
+   ]
+  },
+  {
+   "text": "164 380",
+   "bbox": [
+    685,
+    619,
+    751,
+    633
+   ]
+  },
+  {
+   "text": "1 643 800",
+   "bbox": [
+    801,
+    619,
+    883,
+    633
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    916,
+    619,
+    948,
+    633
+   ]
+  },
+  {
+   "text": "443 826",
+   "bbox": [
+    986,
+    619,
+    1052,
+    633
+   ]
+  },
+  {
+   "text": "2 087 626",
+   "bbox": [
+    1086,
+    619,
+    1168,
+    633
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    72,
+    617,
+    267,
+    637
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    668,
+    674,
+    838,
+    693
+   ]
+  },
+  {
+   "text": "1 747 640 Ft",
+   "bbox": [
+    1033,
+    676,
+    1168,
+    693
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    688,
+    707,
+    838,
+    730
+   ]
+  },
+  {
+   "text": "471 674 Ft",
+   "bbox": [
+    1053,
+    713,
+    1168,
+    730
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    638,
+    749,
+    838,
+    772
+   ]
+  },
+  {
+   "text": "2 219 314 Ft",
+   "bbox": [
+    1025,
+    750,
+    1168,
+    767
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 95751315-26878759-84300294",
+   "bbox": [
+    72,
+    814,
+    554,
+    832
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    72,
+    845,
+    667,
+    864
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1664,
+    762,
+    1682
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

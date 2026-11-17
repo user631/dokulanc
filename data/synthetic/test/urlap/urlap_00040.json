@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Nagy Gusztáv",
+  "anyja_neve": "Sárközi Margit",
+  "szuletesi_hely": "Mosonmagyaróvár",
+  "szuletesi_datum": "1963.08.24.",
+  "lakcim": "H-7829 Halas, Székvári utca 205.",
+  "telefon": "+36 30 964 1909",
+  "email": "nagy.gusztav@outlook.com",
+  "adoazonosito_jel": "8352987771",
+  "taj_szam": "354 295 142",
+  "kelt": "Kecskemét, 2026.10.28."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    449,
+    103,
+    791,
+    134
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    102,
+    209,
+    283,
+    227
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    263,
+    149,
+    276
+   ]
+  },
+  {
+   "text": "Nagy Gusztáv",
+   "bbox": [
+    411,
+    258,
+    555,
+    282
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    313,
+    202,
+    330
+   ]
+  },
+  {
+   "text": "Sárközi Margit",
+   "bbox": [
+    411,
+    306,
+    562,
+    331
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    114,
+    364,
+    220,
+    381
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár",
+   "bbox": [
+    411,
+    361,
+    591,
+    385
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    114,
+    415,
+    212,
+    428
+   ]
+  },
+  {
+   "text": "1963.08.24.",
+   "bbox": [
+    410,
+    410,
+    541,
+    428
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    114,
+    466,
+    174,
+    479
+   ]
+  },
+  {
+   "text": "H-7829 Halas, Székvári utca 205.",
+   "bbox": [
+    410,
+    462,
+    760,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    114,
+    517,
+    212,
+    530
+   ]
+  },
+  {
+   "text": "+36 30 964 1909",
+   "bbox": [
+    411,
+    518,
+    597,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    114,
+    568,
+    200,
+    581
+   ]
+  },
+  {
+   "text": "nagy.gusztav@outlook.com",
+   "bbox": [
+    411,
+    562,
+    676,
+    587
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    619,
+    242,
+    636
+   ]
+  },
+  {
+   "text": "8352987771",
+   "bbox": [
+    411,
+    614,
+    550,
+    632
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    114,
+    671,
+    192,
+    683
+   ]
+  },
+  {
+   "text": "354 295 142",
+   "bbox": [
+    411,
+    665,
+    553,
+    683
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    102,
+    747,
+    252,
+    765
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    147,
+    791,
+    402,
+    808
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    147,
+    836,
+    269,
+    849
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    881,
+    419,
+    898
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    102,
+    982,
+    139,
+    995
+   ]
+  },
+  {
+   "text": "Kecskemét, 2026.10.28.",
+   "bbox": [
+    192,
+    979,
+    409,
+    997
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1031,
+    968,
+    1042
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

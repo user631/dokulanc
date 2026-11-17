@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Székely László",
+  "email": "szekely.laszlo@citromail.hu",
+  "telefon": "+36 30 742 7640",
+  "lakcim": "H-5589 Nyírtamásiharaszti, Mátratamásii utca 38.",
+  "szuletesi_datum": "1993.04.06.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2013 – 2016"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Logisztika Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2024 – jelenleg"
+   },
+   {
+    "ceg": "Molnár Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2021 – 2024"
+   },
+   {
+    "ceg": "Rácz Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Git",
+   "projektmenedzsment",
+   "Java",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Székely László",
+   "bbox": [
+    449,
+    112,
+    790,
+    159
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    177,
+    676,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    165,
+    250
+   ]
+  },
+  {
+   "text": "szekely.laszlo@citromail.hu",
+   "bbox": [
+    330,
+    233,
+    580,
+    254
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    175,
+    281
+   ]
+  },
+  {
+   "text": "+36 30 742 7640",
+   "bbox": [
+    330,
+    265,
+    487,
+    281
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    173,
+    312
+   ]
+  },
+  {
+   "text": "H-5589 Nyírtamásiharaszti, Mátratamásii utca 38.",
+   "bbox": [
+    330,
+    295,
+    787,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    265,
+    343
+   ]
+  },
+  {
+   "text": "1993.04.06.",
+   "bbox": [
+    330,
+    327,
+    436,
+    343
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    378,
+    344,
+    403
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    428,
+    232,
+    449
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth Logisztika Kft.",
+   "bbox": [
+    90,
+    453,
+    670,
+    475
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    495,
+    203,
+    511
+   ]
+  },
+  {
+   "text": "rendszergazda – Molnár Kft.",
+   "bbox": [
+    90,
+    519,
+    402,
+    541
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    561,
+    203,
+    577
+   ]
+  },
+  {
+   "text": "adatelemző – Rácz Kft.",
+   "bbox": [
+    90,
+    585,
+    343,
+    603
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    636,
+    260,
+    662
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    90,
+    688,
+    203,
+    704
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    712,
+    395,
+    734
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    737,
+    208,
+    758
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    779,
+    203,
+    795
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    803,
+    371,
+    821
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    828,
+    171,
+    849
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    879,
+    230,
+    905
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    930,
+    182,
+    951
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    977,
+    223,
+    1003
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, Git, projektmenedzsment, Java, SAP",
+   "bbox": [
+    90,
+    1028,
+    666,
+    1049
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

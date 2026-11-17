@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Oláh Ernő",
+  "email": "olah.erno@gmail.com",
+  "telefon": "+36 20 128 7841",
+  "lakcim": "H-7341 Balatonkeresztkövesd, Petőfi utca 145.",
+  "szuletesi_datum": "2002. május 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Hegedüs Szolgáltató Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2031 – jelenleg"
+   },
+   {
+    "ceg": "Horváth Logisztika Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Oláh Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Oláh Ernő",
+   "bbox": [
+    520,
+    98,
+    719,
+    133
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    518,
+    172,
+    721,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    156,
+    243
+   ]
+  },
+  {
+   "text": "olah.erno@gmail.com",
+   "bbox": [
+    330,
+    227,
+    536,
+    247
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    260,
+    168,
+    276
+   ]
+  },
+  {
+   "text": "+36 20 128 7841",
+   "bbox": [
+    330,
+    261,
+    488,
+    276
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    163,
+    309
+   ]
+  },
+  {
+   "text": "H-7341 Balatonkeresztkövesd, Petőfi utca 145.",
+   "bbox": [
+    330,
+    293,
+    765,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    248,
+    342
+   ]
+  },
+  {
+   "text": "2002. május 20.",
+   "bbox": [
+    330,
+    325,
+    480,
+    346
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    379,
+    310,
+    403
+   ]
+  },
+  {
+   "text": "2031 – jelenleg",
+   "bbox": [
+    90,
+    432,
+    231,
+    452
+   ]
+  },
+  {
+   "text": "irodavezető – Hegedüs Szolgáltató Kft.",
+   "bbox": [
+    90,
+    459,
+    472,
+    479
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    502,
+    231,
+    522
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Horváth Logisztika Zrt.",
+   "bbox": [
+    89,
+    529,
+    485,
+    549
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    572,
+    231,
+    592
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Oláh Zrt.",
+   "bbox": [
+    90,
+    599,
+    403,
+    619
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    652,
+    241,
+    676
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    706,
+    207,
+    721
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    728,
+    254,
+    752
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    758,
+    317,
+    775
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    803,
+    207,
+    818
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    829,
+    369,
+    849
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    855,
+    172,
+    876
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    909,
+    216,
+    933
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B2)",
+   "bbox": [
+    90,
+    961,
+    320,
+    982
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1011,
+    206,
+    1035
+   ]
+  },
+  {
+   "text": "csapatmunka, B kategóriás jogosítvány, Python",
+   "bbox": [
+    90,
+    1063,
+    527,
+    1084
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

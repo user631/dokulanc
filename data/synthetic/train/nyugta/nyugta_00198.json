@@ -1,0 +1,239 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FEKETE ABC KFT.",
+  "uzlet_cim": "H-6460 Kereszthalas, Bácshetveni utca 179.",
+  "adoszam": "20151232-2-38",
+  "datum": "2024.10.04.",
+  "ido": "17:27",
+  "nyugtaszam": "8256/78989",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 886 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "264"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "634"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1281"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6807"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEKETE ABC KFT.",
+   "bbox": [
+    200,
+    36,
+    410,
+    50
+   ]
+  },
+  {
+   "text": "H-6460 Kereszthalas, Bácshetveni utca 179.",
+   "bbox": [
+    74,
+    66,
+    536,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 20151232-2-38",
+   "bbox": [
+    184,
+    89,
+    426,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    259,
+    133,
+    351,
+    148
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    176,
+    193,
+    188
+   ]
+  },
+  {
+   "text": "264 B00",
+   "bbox": [
+    495,
+    175,
+    586,
+    188
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    204,
+    128,
+    217
+   ]
+  },
+  {
+   "text": "634 B00",
+   "bbox": [
+    495,
+    204,
+    586,
+    217
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    233,
+    180,
+    246
+   ]
+  },
+  {
+   "text": "1281 A00",
+   "bbox": [
+    482,
+    233,
+    586,
+    246
+   ]
+  },
+  {
+   "text": "3 DB x 2269",
+   "bbox": [
+    24,
+    261,
+    145,
+    272
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    285,
+    271,
+    298
+   ]
+  },
+  {
+   "text": "6807 A00",
+   "bbox": [
+    482,
+    285,
+    586,
+    298
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    321,
+    174,
+    342
+   ]
+  },
+  {
+   "text": "8 886 Ft",
+   "bbox": [
+    466,
+    326,
+    586,
+    342
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    362,
+    128,
+    378
+   ]
+  },
+  {
+   "text": "8 886 Ft",
+   "bbox": [
+    482,
+    365,
+    586,
+    378
+   ]
+  },
+  {
+   "text": "2024.10.04.",
+   "bbox": [
+    24,
+    407,
+    145,
+    419
+   ]
+  },
+  {
+   "text": "17:27",
+   "bbox": [
+    531,
+    407,
+    586,
+    419
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8256/78989",
+   "bbox": [
+    24,
+    433,
+    266,
+    450
+   ]
+  },
+  {
+   "text": "AP A84797659",
+   "bbox": [
+    24,
+    465,
+    156,
+    477
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    214,
+    503,
+    395,
+    519
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  610,
+  563
+ ]
+}

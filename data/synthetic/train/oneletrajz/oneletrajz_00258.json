@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Anikó",
+  "email": "kovacs.aniko@citromail.hu",
+  "telefon": "06 1 348 4931",
+  "lakcim": "H-4006 Mátraligetvárad, Kuntóti utca 138.",
+  "szuletesi_datum": "2000. 02. 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2018 – 2023"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2022 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "SAP",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Anikó",
+   "bbox": [
+    457,
+    97,
+    783,
+    138
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    168,
+    731,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    172,
+    241
+   ]
+  },
+  {
+   "text": "kovacs.aniko@citromail.hu",
+   "bbox": [
+    330,
+    223,
+    596,
+    244
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    185,
+    274
+   ]
+  },
+  {
+   "text": "06 1 348 4931",
+   "bbox": [
+    330,
+    257,
+    481,
+    274
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    180,
+    307
+   ]
+  },
+  {
+   "text": "H-4006 Mátraligetvárad, Kuntóti utca 138.",
+   "bbox": [
+    330,
+    288,
+    761,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    322,
+    286,
+    340
+   ]
+  },
+  {
+   "text": "2000. 02. 12.",
+   "bbox": [
+    330,
+    323,
+    469,
+    340
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    362,
+    402
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    429,
+    221,
+    446
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kiss Bt.",
+   "bbox": [
+    90,
+    454,
+    457,
+    479
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    508,
+    274,
+    535
+   ]
+  },
+  {
+   "text": "2018 – 2023",
+   "bbox": [
+    90,
+    562,
+    221,
+    579
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    587,
+    420,
+    612
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    614,
+    218,
+    638
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    659,
+    221,
+    676
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    684,
+    376,
+    709
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    712,
+    284,
+    735
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    765,
+    242,
+    792
+   ]
+  },
+  {
+   "text": "német (B1), angol (B2)",
+   "bbox": [
+    90,
+    817,
+    327,
+    841
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    867,
+    233,
+    894
+   ]
+  },
+  {
+   "text": "Excel, SAP, Python",
+   "bbox": [
+    90,
+    920,
+    280,
+    943
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

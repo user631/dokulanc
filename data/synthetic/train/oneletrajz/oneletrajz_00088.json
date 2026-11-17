@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Magdolna",
+  "email": "szabo.magdolna@example.hu",
+  "telefon": "+36 20 886 3883",
+  "lakcim": "H-8158 Mártonfa, Ráchetveni utca 25.",
+  "szuletesi_datum": "2002. április 2.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Barna Consulting Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Linux",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Magdolna",
+   "bbox": [
+    458,
+    97,
+    782,
+    139
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    539,
+    164,
+    701,
+    180
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    215,
+    151,
+    227
+   ]
+  },
+  {
+   "text": "szabo.magdolna@example.hu",
+   "bbox": [
+    330,
+    214,
+    561,
+    231
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    244,
+    157,
+    256
+   ]
+  },
+  {
+   "text": "+36 20 886 3883",
+   "bbox": [
+    330,
+    244,
+    466,
+    256
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    272,
+    159,
+    285
+   ]
+  },
+  {
+   "text": "H-8158 Mártonfa, Ráchetveni utca 25.",
+   "bbox": [
+    330,
+    272,
+    626,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    301,
+    224,
+    314
+   ]
+  },
+  {
+   "text": "2002. április 2.",
+   "bbox": [
+    330,
+    301,
+    446,
+    318
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    352,
+    291,
+    372
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    399,
+    209,
+    416
+   ]
+  },
+  {
+   "text": "rendszergazda – Barna Consulting Kft.",
+   "bbox": [
+    90,
+    423,
+    427,
+    440
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    473,
+    230,
+    493
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    90,
+    521,
+    190,
+    533
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    544,
+    303,
+    561
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    88,
+    566,
+    139,
+    583
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    606,
+    190,
+    618
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    629,
+    316,
+    642
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    651,
+    281,
+    668
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    702,
+    202,
+    722
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    749,
+    190,
+    766
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    796,
+    191,
+    816
+   ]
+  },
+  {
+   "text": "Git, Linux, SAP",
+   "bbox": [
+    90,
+    843,
+    217,
+    859
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

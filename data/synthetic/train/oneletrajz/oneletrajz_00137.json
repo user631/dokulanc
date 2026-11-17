@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Hegedüs Tímea",
+  "email": "hegedus.timea@gmail.com",
+  "telefon": "+36 70 870 1074",
+  "lakcim": "H-3614 Szigetszentmiklós, Hódmezővásárhelyi utca 41.",
+  "szuletesi_datum": "1996. 01. 24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2015 – 2020"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Szolgáltató Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2022 – 2023"
+   },
+   {
+    "ceg": "Horváth és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2019 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "C#",
+   "csapatmunka",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    80,
+    186,
+    101
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    93,
+    143
+   ]
+  },
+  {
+   "text": "hegedus.timea@gmail.com",
+   "bbox": [
+    40,
+    154,
+    273,
+    172
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    189,
+    106,
+    203
+   ]
+  },
+  {
+   "text": "+36 70 870 1074",
+   "bbox": [
+    40,
+    215,
+    186,
+    228
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    100,
+    263
+   ]
+  },
+  {
+   "text": "H-3614 Szigetszentmiklós,",
+   "bbox": [
+    40,
+    274,
+    263,
+    292
+   ]
+  },
+  {
+   "text": "Hódmezővásárhelyi utca 41.",
+   "bbox": [
+    40,
+    299,
+    280,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    334,
+    177,
+    348
+   ]
+  },
+  {
+   "text": "1996. 01. 24.",
+   "bbox": [
+    40,
+    360,
+    153,
+    373
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    420,
+    178,
+    441
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    465,
+    132,
+    484
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    494,
+    132,
+    513
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    549,
+    156,
+    570
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    595,
+    75,
+    611
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    624,
+    63,
+    638
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    652,
+    162,
+    671
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    680,
+    161,
+    700
+   ]
+  },
+  {
+   "text": "Hegedüs Tímea",
+   "bbox": [
+    450,
+    86,
+    750,
+    127
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    159,
+    653,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    224,
+    670,
+    248
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    450,
+    278,
+    567,
+    293
+   ]
+  },
+  {
+   "text": "rendszergazda – Fekete Szolgáltató Bt.",
+   "bbox": [
+    450,
+    304,
+    832,
+    324
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    348,
+    567,
+    363
+   ]
+  },
+  {
+   "text": "értékesítő – Horváth és Társa Kft.",
+   "bbox": [
+    450,
+    374,
+    782,
+    390
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    427,
+    601,
+    451
+   ]
+  },
+  {
+   "text": "2015 – 2020",
+   "bbox": [
+    450,
+    481,
+    567,
+    496
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    507,
+    699,
+    527
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    449,
+    533,
+    508,
+    554
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    578,
+    567,
+    593
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    604,
+    691,
+    624
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    630,
+    689,
+    651
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

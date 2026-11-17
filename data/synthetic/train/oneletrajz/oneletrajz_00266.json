@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Magyar Zsolt",
+  "email": "magyar.zsolt@citromail.hu",
+  "telefon": "+36 20 722 7750",
+  "lakcim": "H-8955 Fürdőkőrös, Budafürdői utca 144.",
+  "szuletesi_datum": "1989. május 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2008 – 2013"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Márton Consulting Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "ceg": "Lakatos Tech Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2012 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "B kategóriás jogosítvány",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Magyar Zsolt",
+   "bbox": [
+    488,
+    97,
+    751,
+    139
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    518,
+    170,
+    721,
+    194
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    225,
+    156,
+    241
+   ]
+  },
+  {
+   "text": "magyar.zsolt@citromail.hu",
+   "bbox": [
+    330,
+    225,
+    581,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    168,
+    274
+   ]
+  },
+  {
+   "text": "+36 20 722 7750",
+   "bbox": [
+    330,
+    259,
+    488,
+    274
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    291,
+    163,
+    307
+   ]
+  },
+  {
+   "text": "H-8955 Fürdőkőrös, Budafürdői utca 144.",
+   "bbox": [
+    330,
+    291,
+    718,
+    310
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    324,
+    248,
+    340
+   ]
+  },
+  {
+   "text": "1989. május 22.",
+   "bbox": [
+    330,
+    323,
+    480,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    310,
+    401
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    90,
+    431,
+    207,
+    446
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Márton Consulting Bt.",
+   "bbox": [
+    90,
+    457,
+    600,
+    477
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    90,
+    501,
+    207,
+    516
+   ]
+  },
+  {
+   "text": "tesztmérnök – Lakatos Tech Zrt.",
+   "bbox": [
+    90,
+    527,
+    407,
+    543
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    90,
+    571,
+    207,
+    586
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Szolgáltató Kft.",
+   "bbox": [
+    89,
+    597,
+    476,
+    617
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    650,
+    241,
+    674
+   ]
+  },
+  {
+   "text": "2008 – 2013",
+   "bbox": [
+    90,
+    704,
+    207,
+    719
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    730,
+    606,
+    750
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    756,
+    317,
+    773
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    801,
+    207,
+    816
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    827,
+    331,
+    847
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    853,
+    329,
+    874
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    907,
+    216,
+    931
+   ]
+  },
+  {
+   "text": "német (B1), francia (A2)",
+   "bbox": [
+    90,
+    959,
+    313,
+    980
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1009,
+    206,
+    1033
+   ]
+  },
+  {
+   "text": "projektmenedzsment, B kategóriás jogosítvány, csapatmunka",
+   "bbox": [
+    90,
+    1061,
+    659,
+    1082
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

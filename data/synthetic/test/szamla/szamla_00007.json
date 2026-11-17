@@ -1,0 +1,390 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2024/01218",
+  "kiallitas_datuma": "2024. 04. 07.",
+  "teljesites_datuma": "2024. 04. 03.",
+  "fizetesi_hatarido": "2024. 04. 15.",
+  "elado_nev": "Rácz Zrt.",
+  "elado_cim": "H-9166 Bakonytapolcanémeti, Újfürdői tér 69.",
+  "elado_adoszam": "59682084-4-08",
+  "vevo_nev": "Bodnár László",
+  "vevo_cim": "H-7692 Hátvárad, Tapolcavégi utca 219.",
+  "vevo_adoszam": null,
+  "bankszamla": "76757219-26490140",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "75 120 Ft",
+  "afa_osszesen": "20 282 Ft",
+  "brutto_osszesen": "95 402 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "12 db",
+    "egysegar": "6 260",
+    "netto": "75 120",
+    "afa_kulcs": "27%",
+    "afa": "20 282",
+    "brutto": "95 402"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    550,
+    109,
+    690,
+    141
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/01218",
+   "bbox": [
+    436,
+    163,
+    803,
+    184
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    95,
+    243,
+    165,
+    261
+   ]
+  },
+  {
+   "text": "Rácz Zrt.",
+   "bbox": [
+    95,
+    279,
+    196,
+    297
+   ]
+  },
+  {
+   "text": "H-9166 Bakonytapolcanémeti, Újfürdői tér 69.",
+   "bbox": [
+    95,
+    308,
+    539,
+    334
+   ]
+  },
+  {
+   "text": "Adószám: 59682084-4-08",
+   "bbox": [
+    95,
+    342,
+    345,
+    359
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    243,
+    694,
+    261
+   ]
+  },
+  {
+   "text": "Bodnár László",
+   "bbox": [
+    630,
+    279,
+    790,
+    297
+   ]
+  },
+  {
+   "text": "H-7692 Hátvárad, Tapolcavégi utca 219.",
+   "bbox": [
+    630,
+    312,
+    1017,
+    334
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    95,
+    410,
+    268,
+    427
+   ]
+  },
+  {
+   "text": "2024. 04. 07.",
+   "bbox": [
+    395,
+    411,
+    518,
+    427
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    95,
+    442,
+    283,
+    464
+   ]
+  },
+  {
+   "text": "2024. 04. 03.",
+   "bbox": [
+    395,
+    443,
+    518,
+    459
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    95,
+    474,
+    272,
+    491
+   ]
+  },
+  {
+   "text": "2024. 04. 15.",
+   "bbox": [
+    395,
+    475,
+    518,
+    491
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    95,
+    506,
+    231,
+    523
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    395,
+    506,
+    468,
+    523
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    95,
+    550,
+    204,
+    568
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    551,
+    582,
+    568
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    666,
+    550,
+    746,
+    568
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    821,
+    550,
+    872,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    547,
+    935,
+    564
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    547,
+    1035,
+    564
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1087,
+    550,
+    1145,
+    564
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    515,
+    591,
+    562,
+    605
+   ]
+  },
+  {
+   "text": "6 260",
+   "bbox": [
+    701,
+    592,
+    746,
+    605
+   ]
+  },
+  {
+   "text": "75 120",
+   "bbox": [
+    817,
+    592,
+    872,
+    605
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    592,
+    935,
+    605
+   ]
+  },
+  {
+   "text": "20 282",
+   "bbox": [
+    979,
+    592,
+    1034,
+    605
+   ]
+  },
+  {
+   "text": "95 402",
+   "bbox": [
+    1090,
+    592,
+    1145,
+    605
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    95,
+    591,
+    264,
+    609
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    656,
+    646,
+    815,
+    664
+   ]
+  },
+  {
+   "text": "75 120 Ft",
+   "bbox": [
+    1054,
+    648,
+    1145,
+    664
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    673,
+    678,
+    815,
+    700
+   ]
+  },
+  {
+   "text": "20 282 Ft",
+   "bbox": [
+    1054,
+    684,
+    1145,
+    700
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    624,
+    719,
+    815,
+    741
+   ]
+  },
+  {
+   "text": "95 402 Ft",
+   "bbox": [
+    1047,
+    720,
+    1145,
+    736
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 76757219-26490140",
+   "bbox": [
+    95,
+    784,
+    447,
+    800
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    427,
+    1641,
+    813,
+    1658
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

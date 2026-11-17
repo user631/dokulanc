@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Németh Erzsébet",
+  "email": "nemeth.erzsebet@freemail.hu",
+  "telefon": "+36 70 337 6604",
+  "lakcim": "H-7207 Hídbánya, Petőfi utca 16.",
+  "szuletesi_datum": "2000.07.07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2018 – 2022"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros Tech Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Java",
+   "C#",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    186,
+    104
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    92,
+    142
+   ]
+  },
+  {
+   "text": "nemeth.erzsebet@freemail.hu",
+   "bbox": [
+    40,
+    151,
+    288,
+    165
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    104,
+    196
+   ]
+  },
+  {
+   "text": "+36 70 337 6604",
+   "bbox": [
+    40,
+    205,
+    164,
+    218
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    236,
+    99,
+    250
+   ]
+  },
+  {
+   "text": "H-7207 Hídbánya, Petőfi utca 16.",
+   "bbox": [
+    40,
+    258,
+    305,
+    276
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    290,
+    173,
+    304
+   ]
+  },
+  {
+   "text": "2000.07.07.",
+   "bbox": [
+    40,
+    313,
+    133,
+    326
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    372,
+    175,
+    392
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    413,
+    145,
+    431
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    438,
+    135,
+    457
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    156,
+    512
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    532,
+    139,
+    551
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    559,
+    78,
+    573
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    585,
+    62,
+    599
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    610,
+    248,
+    629
+   ]
+  },
+  {
+   "text": "Németh Erzsébet",
+   "bbox": [
+    450,
+    92,
+    802,
+    125
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    159,
+    656,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    222,
+    675,
+    245
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    272,
+    550,
+    286
+   ]
+  },
+  {
+   "text": "adatelemző – Mészáros Tech Kft.",
+   "bbox": [
+    450,
+    295,
+    769,
+    311
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    346,
+    602,
+    369
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    396,
+    549,
+    410
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    416,
+    608,
+    439
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    442,
+    683,
+    462
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    484,
+    549,
+    498
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    507,
+    695,
+    523
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    531,
+    631,
+    550
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

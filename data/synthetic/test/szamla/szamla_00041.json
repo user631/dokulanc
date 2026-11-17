@@ -1,0 +1,833 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/07531",
+  "kiallitas_datuma": "2026. november 12.",
+  "teljesites_datuma": "2026. november 12.",
+  "fizetesi_hatarido": "2026. december 12.",
+  "elado_nev": "Fazekas Kft.",
+  "elado_cim": "H-3940 Hídhalas, Mindszentváradi utca 2.",
+  "elado_adoszam": "66742094-4-33",
+  "vevo_nev": "Kovács Zsuzsanna",
+  "vevo_cim": "H-9046 Békéskeresztváros, Dózsa györgy utca 158.",
+  "vevo_adoszam": null,
+  "bankszamla": "48493536-98348387-68824176",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "825 090 Ft",
+  "afa_osszesen": "218 507 Ft",
+  "brutto_osszesen": "1 042 597 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "3 óra",
+    "egysegar": "14 800",
+    "netto": "44 400",
+    "afa_kulcs": "27%",
+    "afa": "11 988",
+    "brutto": "56 388"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "9 480",
+    "netto": "37 920",
+    "afa_kulcs": "27%",
+    "afa": "10 238",
+    "brutto": "48 158"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "138 010",
+    "netto": "138 010",
+    "afa_kulcs": "27%",
+    "afa": "37 263",
+    "brutto": "175 273"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "1 óra",
+    "egysegar": "14 040",
+    "netto": "14 040",
+    "afa_kulcs": "27%",
+    "afa": "3 791",
+    "brutto": "17 831"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "12 csomag",
+    "egysegar": "3 170",
+    "netto": "38 040",
+    "afa_kulcs": "27%",
+    "afa": "10 271",
+    "brutto": "48 311"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "44 440",
+    "netto": "533 280",
+    "afa_kulcs": "27%",
+    "afa": "143 986",
+    "brutto": "677 266"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "2 db",
+    "egysegar": "9 700",
+    "netto": "19 400",
+    "afa_kulcs": "5%",
+    "afa": "970",
+    "brutto": "20 370"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    403,
+    115,
+    837,
+    148
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/07531",
+   "bbox": [
+    405,
+    172,
+    835,
+    192
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    106,
+    252,
+    181,
+    272
+   ]
+  },
+  {
+   "text": "Kovács Zsuzsanna",
+   "bbox": [
+    107,
+    291,
+    354,
+    311
+   ]
+  },
+  {
+   "text": "H-9046 Békéskeresztváros, Dózsa györgy",
+   "bbox": [
+    107,
+    328,
+    580,
+    351
+   ]
+  },
+  {
+   "text": "utca 158.",
+   "bbox": [
+    107,
+    361,
+    211,
+    379
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    252,
+    714,
+    272
+   ]
+  },
+  {
+   "text": "Fazekas Kft.",
+   "bbox": [
+    630,
+    291,
+    790,
+    311
+   ]
+  },
+  {
+   "text": "H-3940 Hídhalas, Mindszentváradi utca 2.",
+   "bbox": [
+    630,
+    328,
+    1101,
+    350
+   ]
+  },
+  {
+   "text": "Adószám: 66742094-4-33",
+   "bbox": [
+    629,
+    361,
+    920,
+    379
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    107,
+    430,
+    273,
+    447
+   ]
+  },
+  {
+   "text": "2026. november 12.",
+   "bbox": [
+    107,
+    463,
+    318,
+    480
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    363,
+    430,
+    544,
+    451
+   ]
+  },
+  {
+   "text": "2026. november 12.",
+   "bbox": [
+    363,
+    463,
+    574,
+    480
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    430,
+    789,
+    447
+   ]
+  },
+  {
+   "text": "2026. december 12.",
+   "bbox": [
+    619,
+    463,
+    830,
+    480
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    875,
+    430,
+    1006,
+    447
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    875,
+    463,
+    991,
+    485
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    107,
+    514,
+    234,
+    535
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    515,
+    591,
+    535
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    645,
+    514,
+    743,
+    535
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    811,
+    514,
+    866,
+    531
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    862,
+    511,
+    927,
+    532
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    980,
+    511,
+    1025,
+    531
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1068,
+    514,
+    1133,
+    531
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    517,
+    559,
+    566,
+    575
+   ]
+  },
+  {
+   "text": "14 800",
+   "bbox": [
+    677,
+    559,
+    743,
+    575
+   ]
+  },
+  {
+   "text": "44 400",
+   "bbox": [
+    800,
+    559,
+    866,
+    575
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    883,
+    559,
+    927,
+    575
+   ]
+  },
+  {
+   "text": "11 988",
+   "bbox": [
+    959,
+    559,
+    1025,
+    575
+   ]
+  },
+  {
+   "text": "56 388",
+   "bbox": [
+    1067,
+    559,
+    1133,
+    575
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    107,
+    559,
+    225,
+    575
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    517,
+    597,
+    566,
+    613
+   ]
+  },
+  {
+   "text": "9 480",
+   "bbox": [
+    689,
+    597,
+    743,
+    613
+   ]
+  },
+  {
+   "text": "37 920",
+   "bbox": [
+    800,
+    597,
+    866,
+    613
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    883,
+    597,
+    927,
+    613
+   ]
+  },
+  {
+   "text": "10 238",
+   "bbox": [
+    959,
+    597,
+    1025,
+    613
+   ]
+  },
+  {
+   "text": "48 158",
+   "bbox": [
+    1067,
+    597,
+    1133,
+    613
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    107,
+    597,
+    404,
+    617
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    517,
+    635,
+    559,
+    651
+   ]
+  },
+  {
+   "text": "138 010",
+   "bbox": [
+    665,
+    635,
+    743,
+    651
+   ]
+  },
+  {
+   "text": "138 010",
+   "bbox": [
+    788,
+    635,
+    866,
+    651
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    883,
+    635,
+    927,
+    651
+   ]
+  },
+  {
+   "text": "37 263",
+   "bbox": [
+    959,
+    635,
+    1025,
+    651
+   ]
+  },
+  {
+   "text": "175 273",
+   "bbox": [
+    1055,
+    635,
+    1133,
+    651
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    107,
+    635,
+    217,
+    651
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    517,
+    673,
+    566,
+    689
+   ]
+  },
+  {
+   "text": "14 040",
+   "bbox": [
+    677,
+    673,
+    743,
+    689
+   ]
+  },
+  {
+   "text": "14 040",
+   "bbox": [
+    800,
+    673,
+    866,
+    689
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    883,
+    673,
+    927,
+    689
+   ]
+  },
+  {
+   "text": "3 791",
+   "bbox": [
+    971,
+    673,
+    1025,
+    689
+   ]
+  },
+  {
+   "text": "17 831",
+   "bbox": [
+    1067,
+    673,
+    1133,
+    689
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    107,
+    673,
+    370,
+    693
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    517,
+    711,
+    623,
+    731
+   ]
+  },
+  {
+   "text": "3 170",
+   "bbox": [
+    689,
+    711,
+    743,
+    727
+   ]
+  },
+  {
+   "text": "38 040",
+   "bbox": [
+    800,
+    711,
+    866,
+    727
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    883,
+    711,
+    927,
+    727
+   ]
+  },
+  {
+   "text": "10 271",
+   "bbox": [
+    959,
+    711,
+    1025,
+    727
+   ]
+  },
+  {
+   "text": "48 311",
+   "bbox": [
+    1067,
+    711,
+    1133,
+    727
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    107,
+    711,
+    359,
+    731
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    517,
+    749,
+    570,
+    765
+   ]
+  },
+  {
+   "text": "44 440",
+   "bbox": [
+    677,
+    749,
+    743,
+    765
+   ]
+  },
+  {
+   "text": "533 280",
+   "bbox": [
+    788,
+    749,
+    866,
+    765
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    883,
+    749,
+    927,
+    765
+   ]
+  },
+  {
+   "text": "143 986",
+   "bbox": [
+    947,
+    749,
+    1025,
+    765
+   ]
+  },
+  {
+   "text": "677 266",
+   "bbox": [
+    1055,
+    749,
+    1133,
+    765
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    107,
+    749,
+    282,
+    769
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    517,
+    787,
+    559,
+    803
+   ]
+  },
+  {
+   "text": "9 700",
+   "bbox": [
+    689,
+    787,
+    743,
+    803
+   ]
+  },
+  {
+   "text": "19 400",
+   "bbox": [
+    800,
+    787,
+    866,
+    803
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    895,
+    787,
+    927,
+    803
+   ]
+  },
+  {
+   "text": "970",
+   "bbox": [
+    989,
+    787,
+    1025,
+    803
+   ]
+  },
+  {
+   "text": "20 370",
+   "bbox": [
+    1067,
+    787,
+    1133,
+    803
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    107,
+    787,
+    371,
+    807
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    620,
+    846,
+    803,
+    865
+   ]
+  },
+  {
+   "text": "825 090 Ft",
+   "bbox": [
+    1012,
+    846,
+    1134,
+    865
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    630,
+    879,
+    803,
+    904
+   ]
+  },
+  {
+   "text": "218 507 Ft",
+   "bbox": [
+    1012,
+    885,
+    1134,
+    904
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    551,
+    924,
+    803,
+    943
+   ]
+  },
+  {
+   "text": "1 042 597 Ft",
+   "bbox": [
+    989,
+    924,
+    1133,
+    943
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 48493536-98348387-68824176",
+   "bbox": [
+    107,
+    993,
+    635,
+    1010
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    107,
+    1026,
+    772,
+    1045
+   ]
+  }
+ ],
+ "errors": [
+  "brutto_osszesen"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

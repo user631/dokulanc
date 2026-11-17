@@ -1,0 +1,237 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET BT.",
+  "uzlet_cim": "H-7920 Hídvárad, Hódmezővásárhelyi út 121.",
+  "adoszam": "84631880-2-05",
+  "datum": "2024.05.26.",
+  "ido": "14:32",
+  "nyugtaszam": "9364/00010",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 647 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "392"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2488"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2063"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "704"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET BT.",
+   "bbox": [
+    178,
+    31,
+    402,
+    49
+   ]
+  },
+  {
+   "text": "H-7920 Hídvárad, Hódmezővásárhelyi út 121.",
+   "bbox": [
+    59,
+    63,
+    521,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 84631880-2-05",
+   "bbox": [
+    169,
+    88,
+    411,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    245,
+    131,
+    335,
+    147
+   ]
+  },
+  {
+   "text": "2 DB x 196",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    195,
+    206,
+    213
+   ]
+  },
+  {
+   "text": "392 A00",
+   "bbox": [
+    466,
+    195,
+    557,
+    210
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    224,
+    141,
+    239
+   ]
+  },
+  {
+   "text": "2488 B00",
+   "bbox": [
+    453,
+    224,
+    557,
+    239
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    253,
+    271,
+    268
+   ]
+  },
+  {
+   "text": "2063 B00",
+   "bbox": [
+    453,
+    253,
+    557,
+    268
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    282,
+    141,
+    297
+   ]
+  },
+  {
+   "text": "704 B00",
+   "bbox": [
+    466,
+    282,
+    557,
+    297
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    321,
+    174,
+    341
+   ]
+  },
+  {
+   "text": "5 647 Ft",
+   "bbox": [
+    437,
+    323,
+    557,
+    341
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    360,
+    154,
+    377
+   ]
+  },
+  {
+   "text": "5 647 Ft",
+   "bbox": [
+    453,
+    362,
+    557,
+    377
+   ]
+  },
+  {
+   "text": "2024.05.26.",
+   "bbox": [
+    24,
+    404,
+    145,
+    418
+   ]
+  },
+  {
+   "text": "14:32",
+   "bbox": [
+    502,
+    404,
+    557,
+    418
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9364/00010",
+   "bbox": [
+    24,
+    432,
+    266,
+    450
+   ]
+  },
+  {
+   "text": "AP A32756477",
+   "bbox": [
+    24,
+    462,
+    156,
+    476
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    230,
+    502,
+    350,
+    518
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  581,
+  563
+ ]
+}

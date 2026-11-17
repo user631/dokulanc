@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balogh Erzsébet",
+  "email": "balogh.erzsebet@outlook.com",
+  "telefon": "+36 20 867 6997",
+  "lakcim": "H-5628 Ligetvárad, Petőfi sándor utca 14.",
+  "szuletesi_datum": "1984. szeptember 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Consulting Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Tóth Logisztika Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "ceg": "Mészáros Logisztika Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "Docker",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    205,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    101,
+    162
+   ]
+  },
+  {
+   "text": "balogh.erzsebet@outlook.com",
+   "bbox": [
+    40,
+    172,
+    321,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    115,
+    222
+   ]
+  },
+  {
+   "text": "+36 20 867 6997",
+   "bbox": [
+    40,
+    232,
+    190,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    110,
+    282
+   ]
+  },
+  {
+   "text": "H-5628 Ligetvárad, Petőfi sándor",
+   "bbox": [
+    40,
+    291,
+    350,
+    311
+   ]
+  },
+  {
+   "text": "utca 14.",
+   "bbox": [
+    40,
+    317,
+    116,
+    332
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    194,
+    367
+   ]
+  },
+  {
+   "text": "1984. szeptember 11.",
+   "bbox": [
+    40,
+    377,
+    243,
+    396
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    437,
+    193,
+    461
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    483,
+    137,
+    504
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    537,
+    170,
+    561
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    583,
+    108,
+    604
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    611,
+    143,
+    633
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    639,
+    282,
+    662
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    670,
+    109,
+    686
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    698,
+    92,
+    715
+   ]
+  },
+  {
+   "text": "Balogh Erzsébet",
+   "bbox": [
+    450,
+    107,
+    802,
+    152
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    178,
+    656,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    699,
+    269
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    450,
+    296,
+    568,
+    312
+   ]
+  },
+  {
+   "text": "rendszergazda – Németh Consulting Kft.",
+   "bbox": [
+    450,
+    322,
+    900,
+    345
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    366,
+    568,
+    382
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Tóth Logisztika Kft.",
+   "bbox": [
+    450,
+    392,
+    888,
+    415
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    436,
+    568,
+    452
+   ]
+  },
+  {
+   "text": "tesztmérnök – Mészáros Logisztika Bt.",
+   "bbox": [
+    450,
+    462,
+    877,
+    485
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    516,
+    618,
+    542
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    450,
+    569,
+    568,
+    585
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    595,
+    759,
+    618
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    622,
+    797,
+    644
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    666,
+    568,
+    682
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    692,
+    735,
+    710
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    719,
+    655,
+    741
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Lukács Petra",
+  "anyja_neve": "Orosz Gyula",
+  "szuletesi_hely": "Szerbhetvenberény",
+  "szuletesi_datum": "1970. 07. 22.",
+  "lakcim": "H-9486 Tapolcaberény, Ady endre utca 110.",
+  "telefon": "+36 70 233 9586",
+  "email": "lukacs.petra@example.hu",
+  "adoazonosito_jel": "8378229181",
+  "taj_szam": "641 775 451",
+  "kelt": "Fürdőkövesd, 2025. 12. 30."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    522,
+    116,
+    715,
+    142
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    219,
+    344,
+    241
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    273,
+    161,
+    288
+   ]
+  },
+  {
+   "text": "Lukács Petra",
+   "bbox": [
+    439,
+    272,
+    570,
+    289
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    119,
+    326,
+    224,
+    345
+   ]
+  },
+  {
+   "text": "Orosz Gyula",
+   "bbox": [
+    439,
+    322,
+    563,
+    344
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    379,
+    249,
+    398
+   ]
+  },
+  {
+   "text": "Szerbhetvenberény",
+   "bbox": [
+    439,
+    376,
+    633,
+    398
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    432,
+    239,
+    447
+   ]
+  },
+  {
+   "text": "1970. 07. 22.",
+   "bbox": [
+    439,
+    433,
+    570,
+    449
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    485,
+    192,
+    500
+   ]
+  },
+  {
+   "text": "H-9486 Tapolcaberény, Ady endre utca 110.",
+   "bbox": [
+    439,
+    482,
+    885,
+    504
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    538,
+    240,
+    553
+   ]
+  },
+  {
+   "text": "+36 70 233 9586",
+   "bbox": [
+    439,
+    538,
+    615,
+    558
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    591,
+    224,
+    606
+   ]
+  },
+  {
+   "text": "lukacs.petra@example.hu",
+   "bbox": [
+    439,
+    593,
+    701,
+    615
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    119,
+    644,
+    274,
+    663
+   ]
+  },
+  {
+   "text": "8378229181",
+   "bbox": [
+    439,
+    643,
+    565,
+    663
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    697,
+    212,
+    712
+   ]
+  },
+  {
+   "text": "641 775 451",
+   "bbox": [
+    439,
+    698,
+    558,
+    718
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    777,
+    303,
+    799
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    821,
+    465,
+    840
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    866,
+    302,
+    881
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    152,
+    911,
+    479,
+    930
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1014,
+    153,
+    1030
+   ]
+  },
+  {
+   "text": "Fürdőkövesd, 2025. 12. 30.",
+   "bbox": [
+    198,
+    1011,
+    472,
+    1032
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    916,
+    1063,
+    967,
+    1076
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

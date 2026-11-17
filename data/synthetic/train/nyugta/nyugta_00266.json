@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "OLÁH ABC BT.",
+  "uzlet_cim": "H-9688 Hátvár, Szabadság utca 180.",
+  "adoszam": "20183839-2-36",
+  "datum": "2025.05.25.",
+  "ido": "07:09",
+  "nyugtaszam": "2323/30833",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 738 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "409"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "214"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "855"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2096"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3972"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "192"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OLÁH ABC BT.",
+   "bbox": [
+    242,
+    31,
+    398,
+    49
+   ]
+  },
+  {
+   "text": "H-9688 Hátvár, Szabadság utca 180.",
+   "bbox": [
+    133,
+    65,
+    507,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 20183839-2-36",
+   "bbox": [
+    199,
+    87,
+    441,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    277,
+    130,
+    363,
+    144
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    170,
+    132,
+    183
+   ]
+  },
+  {
+   "text": "409 C00",
+   "bbox": [
+    532,
+    170,
+    616,
+    183
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    199,
+    180,
+    211
+   ]
+  },
+  {
+   "text": "214 A00",
+   "bbox": [
+    532,
+    198,
+    616,
+    211
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    226,
+    168,
+    239
+   ]
+  },
+  {
+   "text": "855 B00",
+   "bbox": [
+    532,
+    226,
+    616,
+    239
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    254,
+    252,
+    267
+   ]
+  },
+  {
+   "text": "2096 B00",
+   "bbox": [
+    520,
+    254,
+    616,
+    267
+   ]
+  },
+  {
+   "text": "3 DB x 1324",
+   "bbox": [
+    24,
+    282,
+    134,
+    293
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    305,
+    180,
+    317
+   ]
+  },
+  {
+   "text": "3972 C00",
+   "bbox": [
+    520,
+    304,
+    616,
+    317
+   ]
+  },
+  {
+   "text": "3 DB x 64",
+   "bbox": [
+    24,
+    332,
+    114,
+    343
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    355,
+    96,
+    367
+   ]
+  },
+  {
+   "text": "192 B00",
+   "bbox": [
+    532,
+    354,
+    616,
+    367
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    392,
+    150,
+    410
+   ]
+  },
+  {
+   "text": "7 738 Ft",
+   "bbox": [
+    504,
+    395,
+    617,
+    410
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    429,
+    144,
+    445
+   ]
+  },
+  {
+   "text": "7 738 Ft",
+   "bbox": [
+    520,
+    432,
+    616,
+    445
+   ]
+  },
+  {
+   "text": "2025.05.25.",
+   "bbox": [
+    24,
+    474,
+    145,
+    485
+   ]
+  },
+  {
+   "text": "07:09",
+   "bbox": [
+    561,
+    474,
+    616,
+    485
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2323/30833",
+   "bbox": [
+    24,
+    499,
+    266,
+    514
+   ]
+  },
+  {
+   "text": "AP A83183429",
+   "bbox": [
+    24,
+    530,
+    156,
+    541
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    199,
+    567,
+    441,
+    582
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  640,
+  626
+ ]
+}

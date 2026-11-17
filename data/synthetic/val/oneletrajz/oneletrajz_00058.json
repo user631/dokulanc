@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó György",
+  "email": "szabo.gyorgy@gmail.com",
+  "telefon": "+36 30 252 2700",
+  "lakcim": "H-2360 Budapest, Béke utca 175.",
+  "szuletesi_datum": "2002. június 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Bálint Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Szabó Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Király Logisztika Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SQL",
+   "Linux",
+   "Java",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó György",
+   "bbox": [
+    439,
+    101,
+    800,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    514,
+    170,
+    725,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    222,
+    172,
+    239
+   ]
+  },
+  {
+   "text": "szabo.gyorgy@gmail.com",
+   "bbox": [
+    330,
+    222,
+    602,
+    243
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    185,
+    270
+   ]
+  },
+  {
+   "text": "+36 30 252 2700",
+   "bbox": [
+    330,
+    254,
+    511,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    180,
+    301
+   ]
+  },
+  {
+   "text": "H-2360 Budapest, Béke utca 175.",
+   "bbox": [
+    330,
+    284,
+    686,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    288,
+    332
+   ]
+  },
+  {
+   "text": "2002. június 10.",
+   "bbox": [
+    330,
+    315,
+    501,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    375,
+    392
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    417,
+    253,
+    438
+   ]
+  },
+  {
+   "text": "értékesítő – Bálint Bt.",
+   "bbox": [
+    90,
+    442,
+    366,
+    460
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    90,
+    483,
+    253,
+    504
+   ]
+  },
+  {
+   "text": "rendszergazda – Szabó Zrt.",
+   "bbox": [
+    90,
+    508,
+    430,
+    530
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    549,
+    253,
+    570
+   ]
+  },
+  {
+   "text": "rendszergazda – Király Logisztika Zrt.",
+   "bbox": [
+    90,
+    574,
+    563,
+    596
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    625,
+    280,
+    651
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    677,
+    221,
+    693
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    702,
+    331,
+    723
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    726,
+    371,
+    747
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    768,
+    221,
+    784
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    792,
+    394,
+    814
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    817,
+    296,
+    838
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    868,
+    247,
+    894
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    919,
+    211,
+    940
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    966,
+    239,
+    992
+   ]
+  },
+  {
+   "text": "Python, SQL, Linux, Java, SAP",
+   "bbox": [
+    90,
+    1017,
+    410,
+    1038
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

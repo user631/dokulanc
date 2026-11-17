@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Molnár Andrea",
+  "anyja_neve": "Boros Milán",
+  "szuletesi_hely": "Mosonmagyaróvár",
+  "szuletesi_datum": "1990.02.28.",
+  "lakcim": "H-1890 Székkövesd, Szerbgyörgyi utca 149.",
+  "telefon": "06 1 553 9666",
+  "email": "molnar.andrea@citromail.hu",
+  "adoazonosito_jel": "8449835493",
+  "taj_szam": "752 678 142",
+  "kelt": "Szeged, 2024.04.17."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    552,
+    105,
+    688,
+    127
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    500,
+    152,
+    739,
+    166
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    204,
+    277,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    259,
+    146,
+    271
+   ]
+  },
+  {
+   "text": "Molnár Andrea",
+   "bbox": [
+    431,
+    254,
+    574,
+    275
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    112,
+    310,
+    196,
+    325
+   ]
+  },
+  {
+   "text": "Boros Milán",
+   "bbox": [
+    430,
+    308,
+    546,
+    325
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    361,
+    214,
+    376
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár",
+   "bbox": [
+    431,
+    361,
+    611,
+    385
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    412,
+    207,
+    424
+   ]
+  },
+  {
+   "text": "1990.02.28.",
+   "bbox": [
+    430,
+    409,
+    558,
+    427
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    463,
+    168,
+    475
+   ]
+  },
+  {
+   "text": "H-1890 Székkövesd, Szerbgyörgyi utca 149.",
+   "bbox": [
+    430,
+    460,
+    866,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    112,
+    514,
+    210,
+    526
+   ]
+  },
+  {
+   "text": "06 1 553 9666",
+   "bbox": [
+    431,
+    513,
+    585,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    565,
+    193,
+    577
+   ]
+  },
+  {
+   "text": "molnar.andrea@citromail.hu",
+   "bbox": [
+    431,
+    562,
+    709,
+    583
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    112,
+    616,
+    239,
+    631
+   ]
+  },
+  {
+   "text": "8449835493",
+   "bbox": [
+    431,
+    617,
+    583,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    112,
+    667,
+    183,
+    679
+   ]
+  },
+  {
+   "text": "752 678 142",
+   "bbox": [
+    431,
+    668,
+    571,
+    686
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    742,
+    240,
+    760
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    788,
+    399,
+    803
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    833,
+    264,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    145,
+    878,
+    413,
+    893
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    978,
+    134,
+    991
+   ]
+  },
+  {
+   "text": "Szeged, 2024.04.17.",
+   "bbox": [
+    190,
+    977,
+    379,
+    999
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1028,
+    969,
+    1038
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

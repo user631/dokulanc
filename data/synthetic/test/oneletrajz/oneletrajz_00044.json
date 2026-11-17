@@ -1,0 +1,351 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Horváth Margit",
+  "email": "horvath.margit@outlook.com",
+  "telefon": "+36 70 598 3060",
+  "lakcim": "H-4542 Ózd, Tamásiváradi tér 248.",
+  "szuletesi_datum": "1999. április 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2019 – 2024"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Bálint Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2023 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Excel",
+   "SAP",
+   "projektmenedzsment",
+   "JavaScript",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    110,
+    198,
+    129
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    154,
+    91,
+    166
+   ]
+  },
+  {
+   "text": "horvath.margit@outlook.com",
+   "bbox": [
+    40,
+    174,
+    256,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    99,
+    218
+   ]
+  },
+  {
+   "text": "+36 70 598 3060",
+   "bbox": [
+    40,
+    227,
+    164,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    258,
+    97,
+    270
+   ]
+  },
+  {
+   "text": "H-4542 Ózd, Tamásiváradi tér 248.",
+   "bbox": [
+    40,
+    276,
+    303,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    310,
+    168,
+    322
+   ]
+  },
+  {
+   "text": "1999. április 21.",
+   "bbox": [
+    40,
+    331,
+    159,
+    346
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    389,
+    182,
+    408
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    429,
+    124,
+    446
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    454,
+    129,
+    471
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    506,
+    170,
+    525
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    546,
+    63,
+    559
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    571,
+    84,
+    584
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    596,
+    76,
+    609
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    621,
+    207,
+    638
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    646,
+    124,
+    663
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    671,
+    236,
+    688
+   ]
+  },
+  {
+   "text": "Horváth Margit",
+   "bbox": [
+    450,
+    117,
+    753,
+    157
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    181,
+    556,
+    206
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    669,
+    267
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    294,
+    582,
+    312
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy és Társa Kft.",
+   "bbox": [
+    450,
+    317,
+    851,
+    336
+   ]
+  },
+  {
+   "text": "2023 – 2025",
+   "bbox": [
+    450,
+    356,
+    559,
+    370
+   ]
+  },
+  {
+   "text": "értékesítő – Bálint Kft.",
+   "bbox": [
+    450,
+    379,
+    664,
+    394
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    428,
+    598,
+    450
+   ]
+  },
+  {
+   "text": "2019 – 2024",
+   "bbox": [
+    450,
+    477,
+    559,
+    491
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    500,
+    948,
+    519
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    523,
+    623,
+    541
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    562,
+    559,
+    576
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    585,
+    688,
+    604
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    608,
+    524,
+    626
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

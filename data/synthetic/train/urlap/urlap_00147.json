@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Váradi Tamás",
+  "anyja_neve": "Varga István",
+  "szuletesi_hely": "Mosonmagyaróvár",
+  "szuletesi_datum": "1995.05.29.",
+  "lakcim": "H-6935 Pécs, Dózsa györgy utca 203.",
+  "telefon": "06 1 590 5619",
+  "email": "varadi.tamas@example.hu",
+  "adoazonosito_jel": "8468995940",
+  "taj_szam": "578 224 147",
+  "kelt": "Nyírmártonnádasd, 2026.10.11."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    394,
+    82,
+    845,
+    118
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    458,
+    141,
+    782,
+    159
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    194,
+    316,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    253,
+    139,
+    268
+   ]
+  },
+  {
+   "text": "Váradi Tamás",
+   "bbox": [
+    385,
+    254,
+    533,
+    271
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    307,
+    208,
+    326
+   ]
+  },
+  {
+   "text": "Varga István",
+   "bbox": [
+    385,
+    304,
+    519,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    361,
+    235,
+    380
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár",
+   "bbox": [
+    385,
+    359,
+    582,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    415,
+    224,
+    430
+   ]
+  },
+  {
+   "text": "1995.05.29.",
+   "bbox": [
+    385,
+    416,
+    510,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    469,
+    171,
+    484
+   ]
+  },
+  {
+   "text": "H-6935 Pécs, Dózsa györgy utca 203.",
+   "bbox": [
+    385,
+    468,
+    786,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    523,
+    225,
+    538
+   ]
+  },
+  {
+   "text": "06 1 590 5619",
+   "bbox": [
+    385,
+    518,
+    536,
+    535
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    577,
+    203,
+    592
+   ]
+  },
+  {
+   "text": "varadi.tamas@example.hu",
+   "bbox": [
+    385,
+    575,
+    667,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    631,
+    261,
+    650
+   ]
+  },
+  {
+   "text": "8468995940",
+   "bbox": [
+    385,
+    626,
+    515,
+    643
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    685,
+    197,
+    700
+   ]
+  },
+  {
+   "text": "578 224 147",
+   "bbox": [
+    385,
+    680,
+    516,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    764,
+    265,
+    786
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    810,
+    469,
+    829
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    855,
+    284,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    900,
+    487,
+    919
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    1002,
+    127,
+    1018
+   ]
+  },
+  {
+   "text": "Nyírmártonnádasd, 2026.10.11.",
+   "bbox": [
+    173,
+    999,
+    507,
+    1021
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1052,
+    994,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "TAMÁS ABC KFT.",
+  "uzlet_cim": "H-9445 Bakonyhídharaszti, Nagykanizsai utca 30.",
+  "adoszam": "51306294-4-34",
+  "datum": "2025.09.09.",
+  "ido": "19:37",
+  "nyugtaszam": "5749/69136",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 945 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "553"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1290"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1401"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1896"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "405"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "400"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAMÁS ABC KFT.",
+   "bbox": [
+    203,
+    31,
+    427,
+    52
+   ]
+  },
+  {
+   "text": "H-9445 Bakonyhídharaszti, Nagykanizsai utca",
+   "bbox": [
+    35,
+    71,
+    594,
+    89
+   ]
+  },
+  {
+   "text": "30.",
+   "bbox": [
+    295,
+    99,
+    334,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 51306294-4-34",
+   "bbox": [
+    172,
+    124,
+    458,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    172,
+    367,
+    188
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    215,
+    150,
+    230
+   ]
+  },
+  {
+   "text": "553 B00",
+   "bbox": [
+    509,
+    215,
+    607,
+    230
+   ]
+  },
+  {
+   "text": "3 DB x 430",
+   "bbox": [
+    24,
+    247,
+    154,
+    260
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    273,
+    220,
+    288
+   ]
+  },
+  {
+   "text": "1290 C00",
+   "bbox": [
+    495,
+    273,
+    607,
+    288
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    305,
+    164,
+    320
+   ]
+  },
+  {
+   "text": "1401 B00",
+   "bbox": [
+    495,
+    305,
+    607,
+    320
+   ]
+  },
+  {
+   "text": "3 DB x 632",
+   "bbox": [
+    24,
+    337,
+    154,
+    350
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    363,
+    136,
+    378
+   ]
+  },
+  {
+   "text": "1896 C00",
+   "bbox": [
+    495,
+    363,
+    607,
+    378
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    395,
+    178,
+    414
+   ]
+  },
+  {
+   "text": "405 C00",
+   "bbox": [
+    509,
+    395,
+    607,
+    410
+   ]
+  },
+  {
+   "text": "2 DB x 200",
+   "bbox": [
+    24,
+    427,
+    154,
+    440
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    453,
+    220,
+    472
+   ]
+  },
+  {
+   "text": "400 A00",
+   "bbox": [
+    509,
+    453,
+    607,
+    468
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    494,
+    194,
+    516
+   ]
+  },
+  {
+   "text": "5 945 Ft",
+   "bbox": [
+    471,
+    499,
+    607,
+    516
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    535,
+    165,
+    554
+   ]
+  },
+  {
+   "text": "5 945 Ft",
+   "bbox": [
+    495,
+    539,
+    607,
+    554
+   ]
+  },
+  {
+   "text": "2025.09.09.",
+   "bbox": [
+    24,
+    585,
+    167,
+    599
+   ]
+  },
+  {
+   "text": "19:37",
+   "bbox": [
+    542,
+    585,
+    607,
+    599
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5749/69136",
+   "bbox": [
+    24,
+    614,
+    310,
+    633
+   ]
+  },
+  {
+   "text": "AP A19267187",
+   "bbox": [
+    24,
+    649,
+    180,
+    663
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    161,
+    688,
+    469,
+    708
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  631,
+  752
+ ]
+}

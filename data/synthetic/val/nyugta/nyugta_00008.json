@@ -1,0 +1,303 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH DISZKONT KFT.",
+  "uzlet_cim": "H-4297 Mindszentbánya, Ózdi utca 14.",
+  "adoszam": "74601411-2-38",
+  "datum": "2025.03.09.",
+  "ido": "11:52",
+  "nyugtaszam": "9598/71849",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 953 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1487"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "770"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "402"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1173"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "624"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2967"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "530"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH DISZKONT KFT.",
+   "bbox": [
+    200,
+    28,
+    434,
+    48
+   ]
+  },
+  {
+   "text": "H-4297 Mindszentbánya, Ózdi utca 14.",
+   "bbox": [
+    137,
+    63,
+    497,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 74601411-2-38",
+   "bbox": [
+    207,
+    88,
+    427,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    275,
+    130,
+    359,
+    146
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    173,
+    144,
+    186
+   ]
+  },
+  {
+   "text": "1487 C00",
+   "bbox": [
+    515,
+    173,
+    611,
+    186
+   ]
+  },
+  {
+   "text": "2 DB x 385",
+   "bbox": [
+    24,
+    202,
+    124,
+    213
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    224,
+    156,
+    242
+   ]
+  },
+  {
+   "text": "770 A00",
+   "bbox": [
+    527,
+    225,
+    611,
+    238
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    254,
+    192,
+    267
+   ]
+  },
+  {
+   "text": "402 A00",
+   "bbox": [
+    527,
+    254,
+    611,
+    267
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    283,
+    168,
+    296
+   ]
+  },
+  {
+   "text": "1173 C00",
+   "bbox": [
+    515,
+    283,
+    611,
+    296
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    312,
+    156,
+    325
+   ]
+  },
+  {
+   "text": "624 A00",
+   "bbox": [
+    527,
+    312,
+    611,
+    325
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    341,
+    132,
+    354
+   ]
+  },
+  {
+   "text": "2967 C00",
+   "bbox": [
+    515,
+    341,
+    611,
+    354
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    370,
+    192,
+    383
+   ]
+  },
+  {
+   "text": "530 C00",
+   "bbox": [
+    527,
+    370,
+    611,
+    383
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    407,
+    150,
+    427
+   ]
+  },
+  {
+   "text": "7 953 Ft",
+   "bbox": [
+    499,
+    411,
+    611,
+    427
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    446,
+    120,
+    463
+   ]
+  },
+  {
+   "text": "7 953 Ft",
+   "bbox": [
+    515,
+    450,
+    611,
+    463
+   ]
+  },
+  {
+   "text": "2025.03.09.",
+   "bbox": [
+    24,
+    493,
+    134,
+    505
+   ]
+  },
+  {
+   "text": "11:52",
+   "bbox": [
+    561,
+    493,
+    611,
+    505
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9598/71849",
+   "bbox": [
+    24,
+    519,
+    244,
+    536
+   ]
+  },
+  {
+   "text": "AP A30180243",
+   "bbox": [
+    24,
+    551,
+    144,
+    563
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    262,
+    587,
+    372,
+    604
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  635,
+  650
+ ]
+}

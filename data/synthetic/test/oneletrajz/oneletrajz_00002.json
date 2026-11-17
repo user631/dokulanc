@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Horváth Mária",
+  "email": "horvath.maria@freemail.hu",
+  "telefon": "+36 70 240 4374",
+  "lakcim": "H-6719 Kaposvár, Németii utca 144.",
+  "szuletesi_datum": "1979. február 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "1997 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fekete Tech Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2001 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Python",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    215,
+    124
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    104,
+    164
+   ]
+  },
+  {
+   "text": "horvath.maria@freemail.hu",
+   "bbox": [
+    40,
+    172,
+    284,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    115,
+    222
+   ]
+  },
+  {
+   "text": "+36 70 240 4374",
+   "bbox": [
+    40,
+    231,
+    194,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    263,
+    111,
+    280
+   ]
+  },
+  {
+   "text": "H-6719 Kaposvár, Németii utca 144.",
+   "bbox": [
+    40,
+    287,
+    363,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    321,
+    202,
+    338
+   ]
+  },
+  {
+   "text": "1979. február 12.",
+   "bbox": [
+    40,
+    345,
+    194,
+    362
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    406,
+    202,
+    430
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    450,
+    132,
+    471
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    478,
+    156,
+    499
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    532,
+    183,
+    556
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    576,
+    147,
+    597
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    604,
+    104,
+    625
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    632,
+    163,
+    653
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    660,
+    235,
+    681
+   ]
+  },
+  {
+   "text": "Horváth Mária",
+   "bbox": [
+    450,
+    108,
+    780,
+    147
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    180,
+    642,
+    200
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    717,
+    269
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    450,
+    296,
+    572,
+    312
+   ]
+  },
+  {
+   "text": "irodavezető – Fekete Tech Bt.",
+   "bbox": [
+    450,
+    321,
+    796,
+    339
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    373,
+    629,
+    399
+   ]
+  },
+  {
+   "text": "1997 – 2002",
+   "bbox": [
+    450,
+    426,
+    572,
+    442
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    451,
+    769,
+    474
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    476,
+    776,
+    498
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    520,
+    572,
+    536
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    545,
+    733,
+    568
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    570,
+    699,
+    592
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

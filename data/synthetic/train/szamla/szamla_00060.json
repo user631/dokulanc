@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2026/08111",
+  "kiallitas_datuma": "2026. január 15.",
+  "teljesites_datuma": "2026. január 14.",
+  "fizetesi_hatarido": "2026. január 30.",
+  "elado_nev": "Varga Szolgáltató Bt.",
+  "elado_cim": "H-5167 Zalaegerszeg, Hódmezővásárhelyi utca 193.",
+  "elado_adoszam": "21689259-4-37",
+  "vevo_nev": "Fekete Bt.",
+  "vevo_cim": "H-8951 Szeged, Bajai utca 163.",
+  "vevo_adoszam": "35122940-3-41",
+  "bankszamla": "HU19 5466 5462 5788 5177 1770 1068",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "243 730 Ft",
+  "afa_osszesen": "65 807 Ft",
+  "brutto_osszesen": "309 537 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "4 év",
+    "egysegar": "59 700",
+    "netto": "238 800",
+    "afa_kulcs": "27%",
+    "afa": "64 476",
+    "brutto": "303 276"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "4 930",
+    "netto": "4 930",
+    "afa_kulcs": "27%",
+    "afa": "1 331",
+    "brutto": "6 261"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    549,
+    103,
+    690,
+    135
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2026/08111",
+   "bbox": [
+    441,
+    158,
+    798,
+    178
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    94,
+    239,
+    166,
+    258
+   ]
+  },
+  {
+   "text": "Varga Szolgáltató Bt.",
+   "bbox": [
+    94,
+    276,
+    337,
+    300
+   ]
+  },
+  {
+   "text": "H-5167 Zalaegerszeg, Hódmezővásárhelyi utca",
+   "bbox": [
+    94,
+    310,
+    574,
+    333
+   ]
+  },
+  {
+   "text": "193.",
+   "bbox": [
+    94,
+    343,
+    138,
+    359
+   ]
+  },
+  {
+   "text": "Adószám: 21689259-4-37",
+   "bbox": [
+    94,
+    372,
+    347,
+    390
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    239,
+    696,
+    258
+   ]
+  },
+  {
+   "text": "Fekete Bt.",
+   "bbox": [
+    630,
+    276,
+    753,
+    295
+   ]
+  },
+  {
+   "text": "H-8951 Szeged, Bajai utca 163.",
+   "bbox": [
+    630,
+    311,
+    951,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 35122940-3-41",
+   "bbox": [
+    630,
+    341,
+    883,
+    359
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    94,
+    442,
+    274,
+    459
+   ]
+  },
+  {
+   "text": "2026. január 15.",
+   "bbox": [
+    394,
+    441,
+    563,
+    464
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    94,
+    475,
+    293,
+    497
+   ]
+  },
+  {
+   "text": "2026. január 14.",
+   "bbox": [
+    394,
+    474,
+    563,
+    497
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    94,
+    508,
+    283,
+    525
+   ]
+  },
+  {
+   "text": "2026. január 30.",
+   "bbox": [
+    394,
+    507,
+    563,
+    530
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    94,
+    541,
+    239,
+    558
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    394,
+    540,
+    477,
+    558
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    94,
+    585,
+    210,
+    604
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    586,
+    583,
+    604
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    585,
+    746,
+    604
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    585,
+    872,
+    600
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    883,
+    581,
+    935,
+    600
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    581,
+    1035,
+    600
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    585,
+    1146,
+    600
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    514,
+    626,
+    551,
+    642
+   ]
+  },
+  {
+   "text": "59 700",
+   "bbox": [
+    690,
+    628,
+    746,
+    642
+   ]
+  },
+  {
+   "text": "238 800",
+   "bbox": [
+    806,
+    628,
+    872,
+    642
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    628,
+    935,
+    642
+   ]
+  },
+  {
+   "text": "64 476",
+   "bbox": [
+    979,
+    628,
+    1035,
+    642
+   ]
+  },
+  {
+   "text": "303 276",
+   "bbox": [
+    1080,
+    628,
+    1146,
+    642
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    94,
+    626,
+    259,
+    646
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    663,
+    602,
+    678
+   ]
+  },
+  {
+   "text": "4 930",
+   "bbox": [
+    700,
+    664,
+    746,
+    678
+   ]
+  },
+  {
+   "text": "4 930",
+   "bbox": [
+    826,
+    664,
+    872,
+    678
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    664,
+    935,
+    678
+   ]
+  },
+  {
+   "text": "1 331",
+   "bbox": [
+    989,
+    664,
+    1035,
+    678
+   ]
+  },
+  {
+   "text": "6 261",
+   "bbox": [
+    1100,
+    664,
+    1146,
+    678
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    94,
+    662,
+    206,
+    682
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    646,
+    719,
+    816,
+    738
+   ]
+  },
+  {
+   "text": "243 730 Ft",
+   "bbox": [
+    1031,
+    721,
+    1146,
+    738
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    666,
+    752,
+    816,
+    775
+   ]
+  },
+  {
+   "text": "65 807 Ft",
+   "bbox": [
+    1044,
+    758,
+    1146,
+    775
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    587,
+    794,
+    816,
+    812
+   ]
+  },
+  {
+   "text": "309 537 Ft",
+   "bbox": [
+    1024,
+    795,
+    1146,
+    812
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU19 5466 5462 5788 5177 1770 1068",
+   "bbox": [
+    94,
+    859,
+    654,
+    877
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    94,
+    890,
+    689,
+    909
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    417,
+    1642,
+    824,
+    1660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Horváth Diána",
+  "email": "horvath.diana@outlook.com",
+  "telefon": "+36 30 658 4625",
+  "lakcim": "H-9897 Érd, Hátharasztii utca 188.",
+  "szuletesi_datum": "1992. május 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2010 – 2014"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2014 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Excel",
+   "projektmenedzsment",
+   "Python",
+   "Linux",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Diána",
+   "bbox": [
+    452,
+    120,
+    788,
+    157
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    509,
+    189,
+    730,
+    215
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    242,
+    164,
+    259
+   ]
+  },
+  {
+   "text": "horvath.diana@outlook.com",
+   "bbox": [
+    330,
+    242,
+    618,
+    261
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    275,
+    177,
+    292
+   ]
+  },
+  {
+   "text": "+36 30 658 4625",
+   "bbox": [
+    330,
+    276,
+    496,
+    292
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    308,
+    172,
+    325
+   ]
+  },
+  {
+   "text": "H-9897 Érd, Hátharasztii utca 188.",
+   "bbox": [
+    330,
+    303,
+    672,
+    328
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    341,
+    267,
+    358
+   ]
+  },
+  {
+   "text": "1992. május 20.",
+   "bbox": [
+    330,
+    340,
+    485,
+    363
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    396,
+    346,
+    422
+   ]
+  },
+  {
+   "text": "2014 – 2015",
+   "bbox": [
+    90,
+    448,
+    210,
+    464
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Molnár Logisztika Kft.",
+   "bbox": [
+    88,
+    474,
+    540,
+    498
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    529,
+    265,
+    555
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    581,
+    210,
+    597
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    603,
+    278,
+    631
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    633,
+    336,
+    651
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    678,
+    210,
+    694
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    704,
+    410,
+    728
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    730,
+    180,
+    753
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    786,
+    235,
+    812
+   ]
+  },
+  {
+   "text": "olasz (A2), német (B1)",
+   "bbox": [
+    90,
+    836,
+    309,
+    858
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    888,
+    223,
+    914
+   ]
+  },
+  {
+   "text": "C#, Excel, projektmenedzsment, Python, Linux, JavaScript",
+   "bbox": [
+    90,
+    939,
+    668,
+    961
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

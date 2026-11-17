@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/03852",
+  "kiallitas_datuma": "2025. október 18.",
+  "teljesites_datuma": "2025. október 14.",
+  "fizetesi_hatarido": "2025. november 2.",
+  "elado_nev": "Nagy Szolgáltató Bt.",
+  "elado_cim": "H-5353 Mátrafürdőháza, Keresztberényi utca 196.",
+  "elado_adoszam": "32788709-2-04",
+  "vevo_nev": "Novák Zrt.",
+  "vevo_cim": "H-6692 Borsodhetvenfalu, Székfalui utca 22.",
+  "vevo_adoszam": "66772417-2-16",
+  "bankszamla": "HU11 2182 1749 4749 1012 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "86 780 Ft",
+  "afa_osszesen": "7 472 Ft",
+  "brutto_osszesen": "94 252 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "3 év",
+    "egysegar": "24 180",
+    "netto": "72 540",
+    "afa_kulcs": "5%",
+    "afa": "3 627",
+    "brutto": "76 167"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "2 db",
+    "egysegar": "7 120",
+    "netto": "14 240",
+    "afa_kulcs": "27%",
+    "afa": "3 845",
+    "brutto": "18 085"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    113,
+    108,
+    189,
+    125
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1001,
+    89,
+    1169,
+    123
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/03852",
+   "bbox": [
+    872,
+    145,
+    1169,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    71,
+    225,
+    160,
+    246
+   ]
+  },
+  {
+   "text": "Nagy Szolgáltató Bt.",
+   "bbox": [
+    71,
+    264,
+    349,
+    291
+   ]
+  },
+  {
+   "text": "H-5353 Mátrafürdőháza, Keresztberényi utca",
+   "bbox": [
+    71,
+    301,
+    569,
+    325
+   ]
+  },
+  {
+   "text": "196.",
+   "bbox": [
+    71,
+    335,
+    117,
+    358
+   ]
+  },
+  {
+   "text": "Adószám: 32788709-2-04",
+   "bbox": [
+    70,
+    367,
+    360,
+    391
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    226,
+    708,
+    246
+   ]
+  },
+  {
+   "text": "Novák Zrt.",
+   "bbox": [
+    630,
+    264,
+    778,
+    285
+   ]
+  },
+  {
+   "text": "H-6692 Borsodhetvenfalu, Székfalui utca 22.",
+   "bbox": [
+    630,
+    301,
+    1121,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 66772417-2-16",
+   "bbox": [
+    629,
+    334,
+    908,
+    357
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    71,
+    438,
+    294,
+    457
+   ]
+  },
+  {
+   "text": "2025. október 18.",
+   "bbox": [
+    371,
+    438,
+    563,
+    461
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    71,
+    473,
+    307,
+    497
+   ]
+  },
+  {
+   "text": "2025. október 14.",
+   "bbox": [
+    371,
+    473,
+    562,
+    496
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    71,
+    508,
+    297,
+    527
+   ]
+  },
+  {
+   "text": "2025. november 2.",
+   "bbox": [
+    371,
+    508,
+    577,
+    531
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    71,
+    543,
+    243,
+    562
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    371,
+    543,
+    460,
+    562
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    71,
+    590,
+    209,
+    612
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    591,
+    595,
+    612
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    590,
+    752,
+    612
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    820,
+    590,
+    883,
+    607
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    586,
+    949,
+    607
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1003,
+    586,
+    1054,
+    607
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1094,
+    590,
+    1169,
+    607
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    510,
+    634,
+    550,
+    655
+   ]
+  },
+  {
+   "text": "24 180",
+   "bbox": [
+    686,
+    635,
+    751,
+    655
+   ]
+  },
+  {
+   "text": "72 540",
+   "bbox": [
+    817,
+    639,
+    883,
+    655
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    919,
+    635,
+    949,
+    655
+   ]
+  },
+  {
+   "text": "3 627",
+   "bbox": [
+    1001,
+    635,
+    1054,
+    655
+   ]
+  },
+  {
+   "text": "76 167",
+   "bbox": [
+    1109,
+    635,
+    1170,
+    655
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    71,
+    634,
+    336,
+    656
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    510,
+    672,
+    552,
+    689
+   ]
+  },
+  {
+   "text": "7 120",
+   "bbox": [
+    700,
+    677,
+    751,
+    693
+   ]
+  },
+  {
+   "text": "14 240",
+   "bbox": [
+    819,
+    677,
+    883,
+    693
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    673,
+    949,
+    693
+   ]
+  },
+  {
+   "text": "3 845",
+   "bbox": [
+    999,
+    673,
+    1053,
+    693
+   ]
+  },
+  {
+   "text": "18 085",
+   "bbox": [
+    1103,
+    673,
+    1169,
+    693
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    71,
+    672,
+    266,
+    694
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    660,
+    730,
+    839,
+    750
+   ]
+  },
+  {
+   "text": "86 780 Ft",
+   "bbox": [
+    1056,
+    732,
+    1169,
+    755
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    674,
+    765,
+    839,
+    789
+   ]
+  },
+  {
+   "text": "7 472 Ft",
+   "bbox": [
+    1076,
+    771,
+    1169,
+    794
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    691,
+    808,
+    839,
+    834
+   ]
+  },
+  {
+   "text": "94 252 Ft",
+   "bbox": [
+    1046,
+    810,
+    1170,
+    833
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU11 2182 1749 4749 1012 0000 0000",
+   "bbox": [
+    71,
+    878,
+    683,
+    900
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

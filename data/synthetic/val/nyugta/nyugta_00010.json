@@ -1,0 +1,427 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PÉTER KISBOLT KFT.",
+  "uzlet_cim": "H-5737 Drávamindszentberény, Ceglédi tér 180.",
+  "adoszam": "98050510-5-25",
+  "datum": "2024.08.26.",
+  "ido": "18:05",
+  "nyugtaszam": "7401/69773",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "17 754 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1097"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3645"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5284"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1197"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1296"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "259"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "65"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2602"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "547"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "442"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1320"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÉTER KISBOLT KFT.",
+   "bbox": [
+    145,
+    28,
+    397,
+    49
+   ]
+  },
+  {
+   "text": "H-5737 Drávamindszentberény, Ceglédi tér",
+   "bbox": [
+    31,
+    66,
+    511,
+    85
+   ]
+  },
+  {
+   "text": "180.",
+   "bbox": [
+    247,
+    95,
+    295,
+    108
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98050510-5-25",
+   "bbox": [
+    139,
+    118,
+    403,
+    135
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    164,
+    316,
+    181
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    208,
+    219,
+    223
+   ]
+  },
+  {
+   "text": "1097 C00",
+   "bbox": [
+    414,
+    208,
+    518,
+    223
+   ]
+  },
+  {
+   "text": "3 DB x 1215",
+   "bbox": [
+    24,
+    238,
+    145,
+    251
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    264,
+    128,
+    279
+   ]
+  },
+  {
+   "text": "3645 A00",
+   "bbox": [
+    414,
+    264,
+    518,
+    279
+   ]
+  },
+  {
+   "text": "2 DB x 2642",
+   "bbox": [
+    24,
+    294,
+    145,
+    307
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    320,
+    141,
+    335
+   ]
+  },
+  {
+   "text": "5284 C00",
+   "bbox": [
+    414,
+    320,
+    518,
+    335
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    351,
+    193,
+    366
+   ]
+  },
+  {
+   "text": "1197 A00",
+   "bbox": [
+    414,
+    351,
+    518,
+    366
+   ]
+  },
+  {
+   "text": "3 DB x 432",
+   "bbox": [
+    24,
+    381,
+    134,
+    394
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    407,
+    206,
+    422
+   ]
+  },
+  {
+   "text": "1296 B00",
+   "bbox": [
+    414,
+    407,
+    518,
+    422
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    438,
+    206,
+    457
+   ]
+  },
+  {
+   "text": "259 A00",
+   "bbox": [
+    427,
+    438,
+    518,
+    453
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    469,
+    102,
+    484
+   ]
+  },
+  {
+   "text": "65 A00",
+   "bbox": [
+    440,
+    469,
+    518,
+    484
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    500,
+    271,
+    515
+   ]
+  },
+  {
+   "text": "2602 A00",
+   "bbox": [
+    414,
+    500,
+    518,
+    515
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    531,
+    206,
+    546
+   ]
+  },
+  {
+   "text": "547 B00",
+   "bbox": [
+    427,
+    531,
+    518,
+    546
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    562,
+    167,
+    577
+   ]
+  },
+  {
+   "text": "442 A00",
+   "bbox": [
+    427,
+    562,
+    518,
+    577
+   ]
+  },
+  {
+   "text": "2 DB x 660",
+   "bbox": [
+    24,
+    592,
+    134,
+    605
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    618,
+    128,
+    633
+   ]
+  },
+  {
+   "text": "1320 C00",
+   "bbox": [
+    414,
+    618,
+    518,
+    633
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    657,
+    174,
+    679
+   ]
+  },
+  {
+   "text": "17 754 Ft",
+   "bbox": [
+    383,
+    662,
+    518,
+    679
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    697,
+    154,
+    717
+   ]
+  },
+  {
+   "text": "17 754 Ft",
+   "bbox": [
+    401,
+    702,
+    518,
+    717
+   ]
+  },
+  {
+   "text": "2024.08.26.",
+   "bbox": [
+    24,
+    747,
+    156,
+    760
+   ]
+  },
+  {
+   "text": "18:05",
+   "bbox": [
+    458,
+    747,
+    518,
+    760
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7401/69773",
+   "bbox": [
+    24,
+    774,
+    288,
+    793
+   ]
+  },
+  {
+   "text": "AP A78979318",
+   "bbox": [
+    24,
+    809,
+    168,
+    822
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    211,
+    848,
+    331,
+    866
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  542,
+  912
+ ]
+}

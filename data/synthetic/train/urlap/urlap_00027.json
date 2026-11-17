@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Varga Csaba",
+  "anyja_neve": "Balázs Margit",
+  "szuletesi_hely": "Szolnok",
+  "szuletesi_datum": "1984. 12. 20.",
+  "lakcim": "H-4254 Tapolcakövesd, Tapolcafai utca 175.",
+  "telefon": "+36 30 488 9384",
+  "email": "varga.csaba@citromail.hu",
+  "adoazonosito_jel": "8430874771",
+  "taj_szam": "258 276 789",
+  "kelt": "Nagyfürdőberény, 2025. 03. 03."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    527,
+    104,
+    711,
+    128
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    483,
+    149,
+    756,
+    164
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    95,
+    201,
+    309,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    107,
+    254,
+    145,
+    268
+   ]
+  },
+  {
+   "text": "Varga Csaba",
+   "bbox": [
+    417,
+    252,
+    535,
+    273
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    106,
+    306,
+    201,
+    323
+   ]
+  },
+  {
+   "text": "Balázs Margit",
+   "bbox": [
+    418,
+    306,
+    546,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    107,
+    356,
+    220,
+    374
+   ]
+  },
+  {
+   "text": "Szolnok",
+   "bbox": [
+    418,
+    355,
+    491,
+    371
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    107,
+    407,
+    212,
+    421
+   ]
+  },
+  {
+   "text": "1984. 12. 20.",
+   "bbox": [
+    418,
+    410,
+    538,
+    429
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    107,
+    458,
+    172,
+    472
+   ]
+  },
+  {
+   "text": "H-4254 Tapolcakövesd, Tapolcafai utca 175.",
+   "bbox": [
+    418,
+    454,
+    828,
+    475
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    107,
+    509,
+    215,
+    523
+   ]
+  },
+  {
+   "text": "+36 30 488 9384",
+   "bbox": [
+    418,
+    508,
+    583,
+    527
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    107,
+    560,
+    200,
+    574
+   ]
+  },
+  {
+   "text": "varga.csaba@citromail.hu",
+   "bbox": [
+    417,
+    560,
+    664,
+    581
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    106,
+    611,
+    245,
+    629
+   ]
+  },
+  {
+   "text": "8430874771",
+   "bbox": [
+    418,
+    609,
+    535,
+    628
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    107,
+    662,
+    190,
+    676
+   ]
+  },
+  {
+   "text": "258 276 789",
+   "bbox": [
+    418,
+    660,
+    535,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    95,
+    739,
+    270,
+    760
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    140,
+    783,
+    417,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    140,
+    828,
+    273,
+    842
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    139,
+    873,
+    431,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    95,
+    975,
+    135,
+    989
+   ]
+  },
+  {
+   "text": "Nagyfürdőberény, 2025. 03. 03.",
+   "bbox": [
+    185,
+    971,
+    484,
+    992
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1023,
+    977,
+    1035
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

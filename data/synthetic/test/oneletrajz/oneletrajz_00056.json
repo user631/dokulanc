@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács József",
+  "email": "kovacs.jozsef@citromail.hu",
+  "telefon": "+36 70 867 4170",
+  "lakcim": "H-4715 Vác, Petőfi utca 184.",
+  "szuletesi_datum": "1987. 04. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szilágyi Trade Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2010 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "SQL",
+   "Linux",
+   "Git",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács József",
+   "bbox": [
+    463,
+    90,
+    779,
+    128
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    536,
+    158,
+    703,
+    176
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    208,
+    158,
+    223
+   ]
+  },
+  {
+   "text": "kovacs.jozsef@citromail.hu",
+   "bbox": [
+    330,
+    208,
+    553,
+    227
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    237,
+    168,
+    252
+   ]
+  },
+  {
+   "text": "+36 70 867 4170",
+   "bbox": [
+    330,
+    238,
+    472,
+    252
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    265,
+    164,
+    281
+   ]
+  },
+  {
+   "text": "H-4715 Vác, Petőfi utca 184.",
+   "bbox": [
+    330,
+    266,
+    568,
+    284
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    294,
+    250,
+    310
+   ]
+  },
+  {
+   "text": "1987. 04. 08.",
+   "bbox": [
+    330,
+    296,
+    440,
+    310
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    345,
+    326,
+    368
+   ]
+  },
+  {
+   "text": "2010 – 2011",
+   "bbox": [
+    90,
+    394,
+    192,
+    408
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szilágyi Trade Bt.",
+   "bbox": [
+    89,
+    415,
+    444,
+    436
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    466,
+    248,
+    489
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    90,
+    515,
+    192,
+    529
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    536,
+    432,
+    557
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    560,
+    223,
+    579
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    600,
+    192,
+    614
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    621,
+    333,
+    642
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    645,
+    162,
+    664
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    695,
+    220,
+    718
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    743,
+    184,
+    762
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    789,
+    213,
+    812
+   ]
+  },
+  {
+   "text": "prezentáció, SQL, Linux, Git, projektmenedzsment",
+   "bbox": [
+    90,
+    837,
+    510,
+    856
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

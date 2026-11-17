@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Szabó Mária",
+  "anyja_neve": "Sárközi Gyula",
+  "szuletesi_hely": "Mátramindszentfalu",
+  "szuletesi_datum": "1966. 11. 17.",
+  "lakcim": "H-8196 Lajosligetnémeti, Béke tér 86.",
+  "telefon": "+36 30 918 2301",
+  "email": "szabo.maria@freemail.hu",
+  "adoazonosito_jel": "8364796865",
+  "taj_szam": "743 590 086",
+  "kelt": "Hetvenberény, 2025. 01. 29."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    467,
+    107,
+    772,
+    139
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    482,
+    160,
+    758,
+    176
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    106,
+    212,
+    306,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    118,
+    265,
+    155,
+    279
+   ]
+  },
+  {
+   "text": "Szabó Mária",
+   "bbox": [
+    428,
+    267,
+    539,
+    284
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    118,
+    317,
+    215,
+    334
+   ]
+  },
+  {
+   "text": "Sárközi Gyula",
+   "bbox": [
+    428,
+    314,
+    553,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    118,
+    367,
+    236,
+    385
+   ]
+  },
+  {
+   "text": "Mátramindszentfalu",
+   "bbox": [
+    428,
+    364,
+    612,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    118,
+    418,
+    227,
+    432
+   ]
+  },
+  {
+   "text": "1966. 11. 17.",
+   "bbox": [
+    428,
+    415,
+    552,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    118,
+    469,
+    181,
+    483
+   ]
+  },
+  {
+   "text": "H-8196 Lajosligetnémeti, Béke tér 86.",
+   "bbox": [
+    428,
+    469,
+    784,
+    489
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    118,
+    520,
+    227,
+    534
+   ]
+  },
+  {
+   "text": "+36 30 918 2301",
+   "bbox": [
+    428,
+    522,
+    578,
+    537
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    118,
+    571,
+    210,
+    585
+   ]
+  },
+  {
+   "text": "szabo.maria@freemail.hu",
+   "bbox": [
+    428,
+    572,
+    666,
+    588
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    118,
+    622,
+    260,
+    640
+   ]
+  },
+  {
+   "text": "8364796865",
+   "bbox": [
+    428,
+    619,
+    538,
+    634
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    118,
+    673,
+    200,
+    687
+   ]
+  },
+  {
+   "text": "743 590 086",
+   "bbox": [
+    428,
+    676,
+    539,
+    691
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    106,
+    750,
+    266,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    151,
+    794,
+    437,
+    812
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    151,
+    839,
+    288,
+    853
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    151,
+    884,
+    447,
+    902
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    106,
+    986,
+    148,
+    1000
+   ]
+  },
+  {
+   "text": "Hetvenberény, 2025. 01. 29.",
+   "bbox": [
+    196,
+    982,
+    462,
+    1002
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1036,
+    966,
+    1047
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

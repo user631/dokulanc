@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Dóra",
+  "email": "nagy.dora@freemail.hu",
+  "telefon": "+36 70 165 9320",
+  "lakcim": "H-9222 Hetvenkőrös, Nyírligeti utca 65.",
+  "szuletesi_datum": "1986.03.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Biró Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2013 – 2014"
+   },
+   {
+    "ceg": "Molnár és Társa Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "ceg": "Németh Tech Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2009 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Git",
+   "SQL",
+   "projektmenedzsment",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    175,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    144,
+    89,
+    157
+   ]
+  },
+  {
+   "text": "nagy.dora@freemail.hu",
+   "bbox": [
+    40,
+    167,
+    223,
+    183
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    100,
+    213
+   ]
+  },
+  {
+   "text": "+36 70 165 9320",
+   "bbox": [
+    40,
+    224,
+    171,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    94,
+    269
+   ]
+  },
+  {
+   "text": "H-9222 Hetvenkőrös, Nyírligeti utca 65.",
+   "bbox": [
+    40,
+    279,
+    344,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    312,
+    167,
+    325
+   ]
+  },
+  {
+   "text": "1986.03.31.",
+   "bbox": [
+    40,
+    336,
+    135,
+    348
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    395,
+    168,
+    414
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    436,
+    124,
+    454
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    491,
+    147,
+    510
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    532,
+    242,
+    550
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    560,
+    71,
+    573
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    587,
+    65,
+    600
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    614,
+    71,
+    629
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    640,
+    218,
+    658
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    667,
+    150,
+    685
+   ]
+  },
+  {
+   "text": "Nagy Dóra",
+   "bbox": [
+    450,
+    102,
+    644,
+    141
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    174,
+    621,
+    191
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    654,
+    258
+   ]
+  },
+  {
+   "text": "2013 – 2014",
+   "bbox": [
+    450,
+    289,
+    558,
+    302
+   ]
+  },
+  {
+   "text": "rendszergazda – Biró Tech Kft.",
+   "bbox": [
+    450,
+    313,
+    727,
+    332
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    355,
+    558,
+    368
+   ]
+  },
+  {
+   "text": "értékesítő – Molnár és Társa Bt.",
+   "bbox": [
+    450,
+    379,
+    743,
+    394
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    450,
+    421,
+    558,
+    434
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Németh Tech Bt.",
+   "bbox": [
+    450,
+    445,
+    811,
+    464
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    495,
+    588,
+    517
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    548,
+    558,
+    561
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    573,
+    614,
+    591
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    597,
+    737,
+    615
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    639,
+    558,
+    652
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    663,
+    684,
+    678
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    688,
+    668,
+    706
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

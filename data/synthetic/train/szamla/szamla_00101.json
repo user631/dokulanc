@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/05865",
+  "kiallitas_datuma": "2024-12-11",
+  "teljesites_datuma": "2024-12-09",
+  "fizetesi_hatarido": "2024-12-19",
+  "elado_nev": "Varga Logisztika Bt.",
+  "elado_cim": "H-4655 Eger, Hátvárosi utca 96.",
+  "elado_adoszam": "71046019-2-31",
+  "vevo_nev": "Lakatos Szolgáltató Kft.",
+  "vevo_cim": "H-6317 Sopron, Bakonykereszti utca 114.",
+  "vevo_adoszam": "23550104-2-24",
+  "bankszamla": "HU26 2381 5056 9568 4055 1398 6199",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "11 610 Ft",
+  "afa_osszesen": "580 Ft",
+  "brutto_osszesen": "12 190 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "11 610",
+    "netto": "11 610",
+    "afa_kulcs": "5%",
+    "afa": "580",
+    "brutto": "12 190"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA",
+   "bbox": [
+    124,
+    117,
+    197,
+    132
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1036,
+    93,
+    1159,
+    123
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2024/05865",
+   "bbox": [
+    908,
+    152,
+    1159,
+    172
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    81,
+    233,
+    138,
+    249
+   ]
+  },
+  {
+   "text": "Lakatos Szolgáltató Kft.",
+   "bbox": [
+    81,
+    269,
+    313,
+    289
+   ]
+  },
+  {
+   "text": "H-6317 Sopron, Bakonykereszti utca 114.",
+   "bbox": [
+    81,
+    303,
+    452,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 23550104-2-24",
+   "bbox": [
+    81,
+    332,
+    311,
+    348
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    233,
+    693,
+    249
+   ]
+  },
+  {
+   "text": "Varga Logisztika Bt.",
+   "bbox": [
+    630,
+    269,
+    823,
+    289
+   ]
+  },
+  {
+   "text": "H-4655 Eger, Hátvárosi utca 96.",
+   "bbox": [
+    630,
+    302,
+    914,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 71046019-2-31",
+   "bbox": [
+    630,
+    332,
+    860,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    81,
+    401,
+    235,
+    416
+   ]
+  },
+  {
+   "text": "2024-12-11",
+   "bbox": [
+    381,
+    402,
+    483,
+    416
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    81,
+    433,
+    250,
+    452
+   ]
+  },
+  {
+   "text": "2024-12-09",
+   "bbox": [
+    381,
+    434,
+    483,
+    448
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    81,
+    465,
+    239,
+    480
+   ]
+  },
+  {
+   "text": "2024-12-19",
+   "bbox": [
+    381,
+    466,
+    483,
+    480
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    81,
+    497,
+    202,
+    512
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    381,
+    496,
+    454,
+    512
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    541,
+    182,
+    557
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    542,
+    573,
+    557
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    679,
+    541,
+    749,
+    557
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    541,
+    878,
+    554
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    896,
+    538,
+    943,
+    554
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1012,
+    538,
+    1045,
+    554
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1107,
+    541,
+    1159,
+    554
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    512,
+    582,
+    544,
+    595
+   ]
+  },
+  {
+   "text": "11 610",
+   "bbox": [
+    695,
+    583,
+    749,
+    595
+   ]
+  },
+  {
+   "text": "11 610",
+   "bbox": [
+    824,
+    583,
+    878,
+    595
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    919,
+    583,
+    943,
+    595
+   ]
+  },
+  {
+   "text": "580",
+   "bbox": [
+    1015,
+    583,
+    1045,
+    595
+   ]
+  },
+  {
+   "text": "12 190",
+   "bbox": [
+    1105,
+    583,
+    1159,
+    595
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    81,
+    582,
+    290,
+    598
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    682,
+    636,
+    829,
+    653
+   ]
+  },
+  {
+   "text": "11 610 Ft",
+   "bbox": [
+    1070,
+    638,
+    1159,
+    653
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    699,
+    670,
+    829,
+    689
+   ]
+  },
+  {
+   "text": "580 Ft",
+   "bbox": [
+    1099,
+    674,
+    1159,
+    689
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    640,
+    709,
+    829,
+    725
+   ]
+  },
+  {
+   "text": "12 190 Ft",
+   "bbox": [
+    1070,
+    710,
+    1159,
+    725
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU26 2381 5056 9568 4055 1398 6199",
+   "bbox": [
+    81,
+    775,
+    577,
+    789
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    81,
+    805,
+    579,
+    820
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

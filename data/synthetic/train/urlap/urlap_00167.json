@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Somogyi Ágnes",
+  "anyja_neve": "Horváth Ibolya",
+  "szuletesi_hely": "Szentdevecser",
+  "szuletesi_datum": "1974.09.11.",
+  "lakcim": "H-9798 Szerbmindszentfa, Borsodmindszenti tér 169.",
+  "telefon": "+36 30 928 7292",
+  "email": "somogyi.agnes@gmail.com",
+  "adoazonosito_jel": "8393345299",
+  "taj_szam": "278 520 718",
+  "kelt": "Mosonmagyaróvár, 2025.02.01."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    512,
+    92,
+    727,
+    126
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    462,
+    147,
+    779,
+    165
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    91,
+    202,
+    310,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    103,
+    255,
+    144,
+    271
+   ]
+  },
+  {
+   "text": "Somogyi Ágnes",
+   "bbox": [
+    408,
+    249,
+    560,
+    275
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    103,
+    310,
+    210,
+    328
+   ]
+  },
+  {
+   "text": "Horváth Ibolya",
+   "bbox": [
+    408,
+    304,
+    557,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    103,
+    361,
+    235,
+    381
+   ]
+  },
+  {
+   "text": "Szentdevecser",
+   "bbox": [
+    408,
+    358,
+    557,
+    375
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    103,
+    414,
+    225,
+    430
+   ]
+  },
+  {
+   "text": "1974.09.11.",
+   "bbox": [
+    408,
+    416,
+    528,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    103,
+    467,
+    174,
+    483
+   ]
+  },
+  {
+   "text": "H-9798 Szerbmindszentfa, Borsodmindszenti tér 169.",
+   "bbox": [
+    408,
+    464,
+    957,
+    486
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    103,
+    520,
+    225,
+    536
+   ]
+  },
+  {
+   "text": "+36 30 928 7292",
+   "bbox": [
+    408,
+    524,
+    573,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    103,
+    573,
+    207,
+    589
+   ]
+  },
+  {
+   "text": "somogyi.agnes@gmail.com",
+   "bbox": [
+    408,
+    571,
+    682,
+    593
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    103,
+    626,
+    261,
+    646
+   ]
+  },
+  {
+   "text": "8393345299",
+   "bbox": [
+    408,
+    629,
+    528,
+    645
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    103,
+    679,
+    196,
+    695
+   ]
+  },
+  {
+   "text": "278 520 718",
+   "bbox": [
+    408,
+    681,
+    530,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    91,
+    760,
+    266,
+    782
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    136,
+    803,
+    459,
+    823
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    136,
+    848,
+    289,
+    864
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    136,
+    893,
+    472,
+    913
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    91,
+    998,
+    136,
+    1013
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvár, 2025.02.01.",
+   "bbox": [
+    181,
+    993,
+    497,
+    1016
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    933,
+    1045,
+    984,
+    1059
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

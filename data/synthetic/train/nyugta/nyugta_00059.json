@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MÁTÉ DISZKONT KFT.",
+  "uzlet_cim": "H-9115 Hetvenbánya, Szentgyörgyi utca 78.",
+  "adoszam": "71094665-2-25",
+  "datum": "2024.06.07.",
+  "ido": "20:15",
+  "nyugtaszam": "5055/47994",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "15 430 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "434"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "174"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "727"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2238"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1683"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "526"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1136"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2521"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3390"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1241"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "602"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "758"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÁTÉ DISZKONT KFT.",
+   "bbox": [
+    177,
+    30,
+    430,
+    50
+   ]
+  },
+  {
+   "text": "H-9115 Hetvenbánya, Szentgyörgyi utca 78.",
+   "bbox": [
+    78,
+    66,
+    529,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71094665-2-25",
+   "bbox": [
+    183,
+    89,
+    425,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    133,
+    350,
+    148
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    175,
+    141,
+    188
+   ]
+  },
+  {
+   "text": "434 A00",
+   "bbox": [
+    494,
+    175,
+    585,
+    188
+   ]
+  },
+  {
+   "text": "2 DB x 87",
+   "bbox": [
+    24,
+    203,
+    123,
+    214
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    228,
+    102,
+    240
+   ]
+  },
+  {
+   "text": "174 A00",
+   "bbox": [
+    494,
+    227,
+    585,
+    240
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    256,
+    128,
+    269
+   ]
+  },
+  {
+   "text": "727 A00",
+   "bbox": [
+    494,
+    256,
+    585,
+    269
+   ]
+  },
+  {
+   "text": "2 DB x 1119",
+   "bbox": [
+    24,
+    284,
+    145,
+    295
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    308,
+    219,
+    321
+   ]
+  },
+  {
+   "text": "2238 A00",
+   "bbox": [
+    481,
+    308,
+    585,
+    321
+   ]
+  },
+  {
+   "text": "3 DB x 561",
+   "bbox": [
+    24,
+    336,
+    134,
+    347
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    360,
+    128,
+    373
+   ]
+  },
+  {
+   "text": "1683 C00",
+   "bbox": [
+    481,
+    360,
+    585,
+    373
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    389,
+    167,
+    402
+   ]
+  },
+  {
+   "text": "526 C00",
+   "bbox": [
+    494,
+    389,
+    585,
+    402
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    418,
+    128,
+    431
+   ]
+  },
+  {
+   "text": "1136 C00",
+   "bbox": [
+    481,
+    418,
+    585,
+    431
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    447,
+    271,
+    460
+   ]
+  },
+  {
+   "text": "2521 B00",
+   "bbox": [
+    481,
+    447,
+    585,
+    460
+   ]
+  },
+  {
+   "text": "3 DB x 1130",
+   "bbox": [
+    24,
+    475,
+    145,
+    486
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    499,
+    154,
+    512
+   ]
+  },
+  {
+   "text": "3390 B00",
+   "bbox": [
+    481,
+    499,
+    585,
+    512
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    528,
+    180,
+    541
+   ]
+  },
+  {
+   "text": "1241 C00",
+   "bbox": [
+    481,
+    528,
+    585,
+    541
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    557,
+    206,
+    570
+   ]
+  },
+  {
+   "text": "602 B00",
+   "bbox": [
+    494,
+    557,
+    585,
+    570
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    586,
+    232,
+    599
+   ]
+  },
+  {
+   "text": "758 C00",
+   "bbox": [
+    494,
+    586,
+    585,
+    599
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    624,
+    159,
+    643
+   ]
+  },
+  {
+   "text": "15 430 Ft",
+   "bbox": [
+    450,
+    627,
+    585,
+    643
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    663,
+    154,
+    679
+   ]
+  },
+  {
+   "text": "15 430 Ft",
+   "bbox": [
+    468,
+    666,
+    585,
+    679
+   ]
+  },
+  {
+   "text": "2024.06.07.",
+   "bbox": [
+    24,
+    708,
+    145,
+    720
+   ]
+  },
+  {
+   "text": "20:15",
+   "bbox": [
+    530,
+    708,
+    585,
+    720
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5055/47994",
+   "bbox": [
+    24,
+    734,
+    266,
+    751
+   ]
+  },
+  {
+   "text": "AP A97026329",
+   "bbox": [
+    24,
+    766,
+    156,
+    778
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    172,
+    804,
+    436,
+    820
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  609,
+  864
+ ]
+}

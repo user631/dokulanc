@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "INV-2026/05470",
+  "kiallitas_datuma": "2026-08-04",
+  "teljesites_datuma": "2026-08-02",
+  "fizetesi_hatarido": "2026-08-12",
+  "elado_nev": "Gál Consulting Bt.",
+  "elado_cim": "H-7089 Bakonymellékkövesd, Mártonberényi utca 245.",
+  "elado_adoszam": "94000771-5-39",
+  "vevo_nev": "Szabó Consulting Kft.",
+  "vevo_cim": "H-8240 Mosonfürdőnémeti, József attila utca 19.",
+  "vevo_adoszam": "64799612-2-32",
+  "bankszamla": "HU81 5838 4611 2627 9173 0193 4105",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "397 410 Ft",
+  "afa_osszesen": "75 858 Ft",
+  "brutto_osszesen": "473 268 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 430",
+    "netto": "5 430",
+    "afa_kulcs": "27%",
+    "afa": "1 466",
+    "brutto": "6 896"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "3 db",
+    "egysegar": "83 020",
+    "netto": "249 060",
+    "afa_kulcs": "27%",
+    "afa": "67 246",
+    "brutto": "316 306"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "12 db",
+    "egysegar": "11 910",
+    "netto": "142 920",
+    "afa_kulcs": "5%",
+    "afa": "7 146",
+    "brutto": "150 066"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "GÁL",
+   "bbox": [
+    141,
+    120,
+    193,
+    140
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1029,
+    106,
+    1153,
+    133
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/05470",
+   "bbox": [
+    914,
+    161,
+    1153,
+    177
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    87,
+    242,
+    149,
+    257
+   ]
+  },
+  {
+   "text": "Gál Consulting Bt.",
+   "bbox": [
+    87,
+    276,
+    263,
+    296
+   ]
+  },
+  {
+   "text": "H-7089 Bakonymellékkövesd, Mártonberényi utca 245.",
+   "bbox": [
+    87,
+    307,
+    538,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 94000771-5-39",
+   "bbox": [
+    87,
+    335,
+    298,
+    349
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    242,
+    685,
+    257
+   ]
+  },
+  {
+   "text": "Szabó Consulting Kft.",
+   "bbox": [
+    630,
+    276,
+    837,
+    296
+   ]
+  },
+  {
+   "text": "H-8240 Mosonfürdőnémeti, József attila utca 19.",
+   "bbox": [
+    630,
+    307,
+    1029,
+    324
+   ]
+  },
+  {
+   "text": "Adószám: 64799612-2-32",
+   "bbox": [
+    630,
+    335,
+    841,
+    349
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    87,
+    402,
+    240,
+    415
+   ]
+  },
+  {
+   "text": "2026-08-04",
+   "bbox": [
+    387,
+    402,
+    481,
+    415
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    87,
+    432,
+    247,
+    449
+   ]
+  },
+  {
+   "text": "2026-08-02",
+   "bbox": [
+    387,
+    432,
+    481,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    87,
+    462,
+    239,
+    475
+   ]
+  },
+  {
+   "text": "2026-08-12",
+   "bbox": [
+    387,
+    462,
+    481,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    87,
+    492,
+    203,
+    505
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    386,
+    491,
+    477,
+    509
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    87,
+    534,
+    177,
+    549
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    534,
+    568,
+    549
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    677,
+    534,
+    747,
+    549
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    834,
+    534,
+    875,
+    545
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    531,
+    939,
+    545
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    531,
+    1042,
+    545
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1104,
+    534,
+    1153,
+    545
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    513,
+    572,
+    562,
+    584
+   ]
+  },
+  {
+   "text": "5 430",
+   "bbox": [
+    707,
+    573,
+    747,
+    584
+   ]
+  },
+  {
+   "text": "5 430",
+   "bbox": [
+    835,
+    573,
+    875,
+    584
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    573,
+    939,
+    584
+   ]
+  },
+  {
+   "text": "1 466",
+   "bbox": [
+    1001,
+    573,
+    1041,
+    584
+   ]
+  },
+  {
+   "text": "6 896",
+   "bbox": [
+    1113,
+    573,
+    1153,
+    584
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    87,
+    572,
+    280,
+    588
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    513,
+    605,
+    544,
+    617
+   ]
+  },
+  {
+   "text": "83 020",
+   "bbox": [
+    698,
+    606,
+    747,
+    617
+   ]
+  },
+  {
+   "text": "249 060",
+   "bbox": [
+    817,
+    606,
+    875,
+    617
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    606,
+    939,
+    617
+   ]
+  },
+  {
+   "text": "67 246",
+   "bbox": [
+    992,
+    606,
+    1041,
+    617
+   ]
+  },
+  {
+   "text": "316 306",
+   "bbox": [
+    1095,
+    606,
+    1153,
+    617
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    87,
+    605,
+    174,
+    617
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    513,
+    638,
+    553,
+    650
+   ]
+  },
+  {
+   "text": "11 910",
+   "bbox": [
+    698,
+    639,
+    747,
+    650
+   ]
+  },
+  {
+   "text": "142 920",
+   "bbox": [
+    817,
+    639,
+    875,
+    650
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    639,
+    939,
+    650
+   ]
+  },
+  {
+   "text": "7 146",
+   "bbox": [
+    1001,
+    639,
+    1041,
+    650
+   ]
+  },
+  {
+   "text": "150 066",
+   "bbox": [
+    1095,
+    639,
+    1153,
+    650
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    87,
+    638,
+    285,
+    654
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    691,
+    691,
+    823,
+    706
+   ]
+  },
+  {
+   "text": "397 410 Ft",
+   "bbox": [
+    1059,
+    692,
+    1153,
+    706
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    697,
+    721,
+    823,
+    740
+   ]
+  },
+  {
+   "text": "75 858 Ft",
+   "bbox": [
+    1070,
+    726,
+    1153,
+    740
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    649,
+    760,
+    823,
+    774
+   ]
+  },
+  {
+   "text": "473 268 Ft",
+   "bbox": [
+    1057,
+    760,
+    1153,
+    774
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU81 5838 4611 2627 9173 0193 4105",
+   "bbox": [
+    87,
+    823,
+    545,
+    836
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    87,
+    851,
+    516,
+    865
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    508,
+    1652,
+    731,
+    1666
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

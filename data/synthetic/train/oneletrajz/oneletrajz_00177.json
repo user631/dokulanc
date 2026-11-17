@@ -1,0 +1,320 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balogh Noémi",
+  "email": "balogh.noemi@outlook.com",
+  "telefon": "+36 20 253 8410",
+  "lakcim": "H-6228 Székesfehérvár, Dózsa györgy út 68.",
+  "szuletesi_datum": "1983. 09. 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2001 – 2005"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Szolgáltató Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2006 – 2008"
+   },
+   {
+    "ceg": "Bogdán Consulting Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2005 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    86,
+    215,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    104,
+    150
+   ]
+  },
+  {
+   "text": "balogh.noemi@outlook.com",
+   "bbox": [
+    40,
+    158,
+    288,
+    178
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    192,
+    115,
+    208
+   ]
+  },
+  {
+   "text": "+36 20 253 8410",
+   "bbox": [
+    40,
+    217,
+    194,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    111,
+    266
+   ]
+  },
+  {
+   "text": "H-6228 Székesfehérvár, Dózsa györgy",
+   "bbox": [
+    40,
+    273,
+    378,
+    294
+   ]
+  },
+  {
+   "text": "út 68.",
+   "bbox": [
+    40,
+    297,
+    92,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    331,
+    202,
+    348
+   ]
+  },
+  {
+   "text": "1983. 09. 23.",
+   "bbox": [
+    40,
+    357,
+    158,
+    372
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    416,
+    202,
+    440
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    460,
+    145,
+    481
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    514,
+    183,
+    538
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    558,
+    235,
+    579
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    587,
+    68,
+    603
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    614,
+    163,
+    635
+   ]
+  },
+  {
+   "text": "Balogh Noémi",
+   "bbox": [
+    450,
+    94,
+    771,
+    141
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    166,
+    642,
+    186
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    230,
+    717,
+    255
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    450,
+    282,
+    572,
+    298
+   ]
+  },
+  {
+   "text": "rendszergazda – Nagy Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    307,
+    893,
+    330
+   ]
+  },
+  {
+   "text": "2005 – 2006",
+   "bbox": [
+    450,
+    350,
+    572,
+    366
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Bogdán Consulting Bt.",
+   "bbox": [
+    450,
+    375,
+    980,
+    398
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    427,
+    629,
+    453
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    480,
+    572,
+    496
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    505,
+    739,
+    528
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    449,
+    530,
+    512,
+    552
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    574,
+    572,
+    590
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    599,
+    733,
+    622
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    624,
+    699,
+    646
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

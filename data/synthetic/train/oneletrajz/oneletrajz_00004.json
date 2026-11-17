@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Balog Péter",
+  "email": "balog.peter@citromail.hu",
+  "telefon": "+36 70 795 7242",
+  "lakcim": "H-1870 Mezőkeresztbánya, Tatabányai utca 11.",
+  "szuletesi_datum": "1981. 03. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Rácz és Társa Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2009 – 2011"
+   },
+   {
+    "ceg": "Farkas Trade Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "ceg": "Máté Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2003 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "JavaScript",
+   "SAP",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    206,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    147,
+    101,
+    163
+   ]
+  },
+  {
+   "text": "balog.peter@citromail.hu",
+   "bbox": [
+    40,
+    172,
+    274,
+    193
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    114,
+    223
+   ]
+  },
+  {
+   "text": "+36 70 795 7242",
+   "bbox": [
+    40,
+    233,
+    193,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    109,
+    283
+   ]
+  },
+  {
+   "text": "H-1870 Mezőkeresztbánya,",
+   "bbox": [
+    40,
+    292,
+    291,
+    313
+   ]
+  },
+  {
+   "text": "Tatabányai utca 11.",
+   "bbox": [
+    40,
+    317,
+    220,
+    338
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    352,
+    196,
+    368
+   ]
+  },
+  {
+   "text": "1981. 03. 03.",
+   "bbox": [
+    40,
+    378,
+    155,
+    393
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    438,
+    201,
+    462
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    483,
+    159,
+    505
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    512,
+    140,
+    534
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    567,
+    173,
+    591
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    613,
+    89,
+    629
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    642,
+    136,
+    663
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    671,
+    78,
+    687
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    700,
+    81,
+    716
+   ]
+  },
+  {
+   "text": "Balog Péter",
+   "bbox": [
+    450,
+    111,
+    705,
+    157
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    180,
+    671,
+    206
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    706,
+    271
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    450,
+    297,
+    570,
+    313
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Rácz és Társa Kft.",
+   "bbox": [
+    448,
+    323,
+    848,
+    347
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    367,
+    570,
+    383
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Farkas Trade Zrt.",
+   "bbox": [
+    450,
+    393,
+    856,
+    417
+   ]
+  },
+  {
+   "text": "2003 – 2005",
+   "bbox": [
+    450,
+    437,
+    570,
+    453
+   ]
+  },
+  {
+   "text": "rendszergazda – Máté Tech Kft.",
+   "bbox": [
+    450,
+    463,
+    809,
+    487
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    518,
+    625,
+    544
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    450,
+    570,
+    570,
+    586
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    596,
+    656,
+    620
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    622,
+    587,
+    645
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    667,
+    570,
+    683
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    693,
+    727,
+    717
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    719,
+    540,
+    742
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2024/04880",
+  "kiallitas_datuma": "2024. 02. 03.",
+  "teljesites_datuma": "2024. 01. 31.",
+  "fizetesi_hatarido": "2024. 03. 04.",
+  "elado_nev": "Antal Kft.",
+  "elado_cim": "H-9015 Mártonháza, Ráctapolcai utca 174.",
+  "elado_adoszam": "24437666-3-03",
+  "vevo_nev": "Nagy Rozália",
+  "vevo_cim": "H-2104 Keresztnémeti, Tapolcafai tér 160.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU53 0735 7066 0386 0727 8389 1095",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "250 400 Ft",
+  "afa_osszesen": "51 490 Ft",
+  "brutto_osszesen": "301 890 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "126 020",
+    "netto": "126 020",
+    "afa_kulcs": "27%",
+    "afa": "34 025",
+    "brutto": "160 045"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "3 év",
+    "egysegar": "24 420",
+    "netto": "73 260",
+    "afa_kulcs": "5%",
+    "afa": "3 663",
+    "brutto": "76 923"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "4 260",
+    "netto": "51 120",
+    "afa_kulcs": "27%",
+    "afa": "13 802",
+    "brutto": "64 922"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ANTAL",
+   "bbox": [
+    117,
+    114,
+    196,
+    131
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    784,
+    92,
+    1164,
+    136
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/04880",
+   "bbox": [
+    915,
+    154,
+    1164,
+    175
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    76,
+    234,
+    140,
+    252
+   ]
+  },
+  {
+   "text": "Nagy Rozália",
+   "bbox": [
+    76,
+    270,
+    226,
+    294
+   ]
+  },
+  {
+   "text": "H-2104 Keresztnémeti, Tapolcafai tér 160.",
+   "bbox": [
+    76,
+    303,
+    482,
+    325
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    234,
+    700,
+    252
+   ]
+  },
+  {
+   "text": "Antal Kft.",
+   "bbox": [
+    630,
+    270,
+    739,
+    288
+   ]
+  },
+  {
+   "text": "H-9015 Mártonháza, Ráctapolcai utca 174.",
+   "bbox": [
+    630,
+    303,
+    1037,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 24437666-3-03",
+   "bbox": [
+    630,
+    333,
+    880,
+    350
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    76,
+    401,
+    216,
+    415
+   ]
+  },
+  {
+   "text": "2024. 02. 03.",
+   "bbox": [
+    76,
+    430,
+    191,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    401,
+    500,
+    419
+   ]
+  },
+  {
+   "text": "2024. 01. 31.",
+   "bbox": [
+    348,
+    430,
+    463,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    401,
+    764,
+    415
+   ]
+  },
+  {
+   "text": "2024. 03. 04.",
+   "bbox": [
+    620,
+    430,
+    735,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    401,
+    1002,
+    415
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    892,
+    429,
+    977,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    479,
+    185,
+    497
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    480,
+    578,
+    497
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    479,
+    750,
+    497
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    479,
+    881,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    476,
+    946,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    476,
+    1050,
+    493
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    479,
+    1164,
+    493
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    511,
+    520,
+    548,
+    534
+   ]
+  },
+  {
+   "text": "126 020",
+   "bbox": [
+    685,
+    521,
+    750,
+    534
+   ]
+  },
+  {
+   "text": "126 020",
+   "bbox": [
+    816,
+    521,
+    881,
+    534
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    521,
+    946,
+    534
+   ]
+  },
+  {
+   "text": "34 025",
+   "bbox": [
+    994,
+    521,
+    1049,
+    534
+   ]
+  },
+  {
+   "text": "160 045",
+   "bbox": [
+    1099,
+    521,
+    1164,
+    534
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    76,
+    520,
+    315,
+    538
+   ]
+  },
+  {
+   "text": "3 év",
+   "bbox": [
+    511,
+    555,
+    546,
+    569
+   ]
+  },
+  {
+   "text": "24 420",
+   "bbox": [
+    695,
+    556,
+    750,
+    569
+   ]
+  },
+  {
+   "text": "73 260",
+   "bbox": [
+    826,
+    556,
+    881,
+    569
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    920,
+    556,
+    946,
+    569
+   ]
+  },
+  {
+   "text": "3 663",
+   "bbox": [
+    1004,
+    556,
+    1049,
+    569
+   ]
+  },
+  {
+   "text": "76 923",
+   "bbox": [
+    1109,
+    556,
+    1164,
+    569
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    76,
+    555,
+    305,
+    573
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    511,
+    590,
+    602,
+    604
+   ]
+  },
+  {
+   "text": "4 260",
+   "bbox": [
+    705,
+    591,
+    750,
+    604
+   ]
+  },
+  {
+   "text": "51 120",
+   "bbox": [
+    826,
+    591,
+    881,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    591,
+    946,
+    604
+   ]
+  },
+  {
+   "text": "13 802",
+   "bbox": [
+    994,
+    591,
+    1049,
+    604
+   ]
+  },
+  {
+   "text": "64 922",
+   "bbox": [
+    1109,
+    591,
+    1164,
+    604
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    76,
+    590,
+    175,
+    608
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    645,
+    834,
+    663
+   ]
+  },
+  {
+   "text": "250 400 Ft",
+   "bbox": [
+    1061,
+    647,
+    1164,
+    663
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    692,
+    677,
+    834,
+    699
+   ]
+  },
+  {
+   "text": "51 490 Ft",
+   "bbox": [
+    1073,
+    683,
+    1164,
+    699
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    624,
+    718,
+    834,
+    735
+   ]
+  },
+  {
+   "text": "301 890 Ft",
+   "bbox": [
+    1053,
+    719,
+    1164,
+    735
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU53 0735 7066 0386 0727 8389 1095",
+   "bbox": [
+    76,
+    783,
+    595,
+    799
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    76,
+    812,
+    612,
+    830
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    427,
+    1660,
+    813,
+    1677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

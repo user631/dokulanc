@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Gulyás Gábor",
+  "email": "gulyas.gabor@freemail.hu",
+  "telefon": "+36 30 984 9926",
+  "lakcim": "H-3606 Mosonligetváros, Petőfi sándor utca 25.",
+  "szuletesi_datum": "2000. december 19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2019 – 2023"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Szolgáltató Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Sipos és Társa Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Sárközi Consulting Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2023 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "Docker",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Gulyás Gábor",
+   "bbox": [
+    475,
+    121,
+    765,
+    167
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    186,
+    719,
+    210
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    237,
+    155,
+    252
+   ]
+  },
+  {
+   "text": "gulyas.gabor@freemail.hu",
+   "bbox": [
+    330,
+    237,
+    558,
+    257
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    267,
+    167,
+    282
+   ]
+  },
+  {
+   "text": "+36 30 984 9926",
+   "bbox": [
+    330,
+    268,
+    480,
+    282
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    161,
+    312
+   ]
+  },
+  {
+   "text": "H-3606 Mosonligetváros, Petőfi sándor utca 25.",
+   "bbox": [
+    330,
+    297,
+    746,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    327,
+    246,
+    342
+   ]
+  },
+  {
+   "text": "2000. december 19.",
+   "bbox": [
+    330,
+    327,
+    501,
+    342
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    378,
+    314,
+    402
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    427,
+    222,
+    447
+   ]
+  },
+  {
+   "text": "irodavezető – Horváth Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    451,
+    466,
+    472
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    491,
+    222,
+    511
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Sipos és Társa Kft.",
+   "bbox": [
+    90,
+    515,
+    451,
+    536
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    90,
+    555,
+    222,
+    575
+   ]
+  },
+  {
+   "text": "tesztmérnök – Sárközi Consulting Kft.",
+   "bbox": [
+    90,
+    579,
+    462,
+    600
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    630,
+    246,
+    654
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    680,
+    198,
+    694
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    703,
+    266,
+    724
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    727,
+    208,
+    747
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    768,
+    198,
+    782
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    791,
+    329,
+    812
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    815,
+    312,
+    835
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    866,
+    218,
+    890
+   ]
+  },
+  {
+   "text": "angol (B2), francia (A2)",
+   "bbox": [
+    90,
+    915,
+    287,
+    935
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    962,
+    208,
+    986
+   ]
+  },
+  {
+   "text": "SAP, Docker, Excel",
+   "bbox": [
+    90,
+    1011,
+    248,
+    1029
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

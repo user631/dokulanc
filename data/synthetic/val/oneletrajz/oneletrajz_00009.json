@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Hegedűs Zsigmond",
+  "email": "hegedus.zsigmond@citromail.hu",
+  "telefon": "+36 30 198 2735",
+  "lakcim": "H-5736 Fürdődevecser, Fürdőnémetii utca 114.",
+  "szuletesi_datum": "1993. 11. 07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2009 – 2013"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Tech Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2023 – jelenleg"
+   },
+   {
+    "ceg": "Illés Consulting Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2023"
+   },
+   {
+    "ceg": "Papp Trade Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "B kategóriás jogosítvány",
+   "prezentáció",
+   "Python",
+   "Docker",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Hegedűs Zsigmond",
+   "bbox": [
+    412,
+    118,
+    827,
+    160
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    567,
+    182,
+    673,
+    207
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    236,
+    153,
+    250
+   ]
+  },
+  {
+   "text": "hegedus.zsigmond@citromail.hu",
+   "bbox": [
+    330,
+    236,
+    612,
+    254
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    165,
+    279
+   ]
+  },
+  {
+   "text": "+36 30 198 2735",
+   "bbox": [
+    330,
+    265,
+    477,
+    279
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    163,
+    308
+   ]
+  },
+  {
+   "text": "H-5736 Fürdődevecser, Fürdőnémetii utca 114.",
+   "bbox": [
+    330,
+    294,
+    738,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    322,
+    243,
+    337
+   ]
+  },
+  {
+   "text": "1993. 11. 07.",
+   "bbox": [
+    330,
+    323,
+    443,
+    337
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    309,
+    394
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    90,
+    421,
+    222,
+    439
+   ]
+  },
+  {
+   "text": "értékesítő – Varga Tech Zrt.",
+   "bbox": [
+    90,
+    444,
+    354,
+    463
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    90,
+    483,
+    199,
+    497
+   ]
+  },
+  {
+   "text": "projektmenedzser – Illés Consulting Zrt.",
+   "bbox": [
+    90,
+    506,
+    473,
+    525
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    545,
+    199,
+    559
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Papp Trade Bt.",
+   "bbox": [
+    90,
+    568,
+    412,
+    587
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    617,
+    238,
+    639
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    666,
+    199,
+    680
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    689,
+    275,
+    708
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    712,
+    236,
+    730
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    90,
+    751,
+    199,
+    765
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    774,
+    324,
+    793
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    797,
+    164,
+    815
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    846,
+    214,
+    868
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    895,
+    177,
+    913
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    940,
+    211,
+    962
+   ]
+  },
+  {
+   "text": "Git, B kategóriás jogosítvány, prezentáció, Python, Docker, JavaScript",
+   "bbox": [
+    90,
+    989,
+    692,
+    1007
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

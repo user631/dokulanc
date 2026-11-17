@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Magyar Róza",
+  "anyja_neve": "Nagy Judit",
+  "szuletesi_hely": "Vácszékvár",
+  "szuletesi_datum": "1971.12.08.",
+  "lakcim": "H-1826 Ózd, Mártonnémetii utca 210.",
+  "telefon": "+36 70 838 7103",
+  "email": "magyar.roza@example.hu",
+  "adoazonosito_jel": "8383261748",
+  "taj_szam": "877 276 441",
+  "kelt": "Somogyszékfa, 2024.06.09."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    520,
+    118,
+    720,
+    146
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    220,
+    383,
+    245
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    276,
+    170,
+    293
+   ]
+  },
+  {
+   "text": "Magyar Róza",
+   "bbox": [
+    420,
+    272,
+    574,
+    296
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    119,
+    331,
+    246,
+    351
+   ]
+  },
+  {
+   "text": "Nagy Judit",
+   "bbox": [
+    420,
+    328,
+    546,
+    352
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    384,
+    275,
+    405
+   ]
+  },
+  {
+   "text": "Vácszékvár",
+   "bbox": [
+    420,
+    385,
+    556,
+    404
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    438,
+    263,
+    455
+   ]
+  },
+  {
+   "text": "1971.12.08.",
+   "bbox": [
+    420,
+    435,
+    567,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    492,
+    203,
+    509
+   ]
+  },
+  {
+   "text": "H-1826 Ózd, Mártonnémetii utca 210.",
+   "bbox": [
+    420,
+    488,
+    874,
+    516
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    119,
+    546,
+    262,
+    563
+   ]
+  },
+  {
+   "text": "+36 70 838 7103",
+   "bbox": [
+    420,
+    548,
+    629,
+    566
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    600,
+    241,
+    617
+   ]
+  },
+  {
+   "text": "magyar.roza@example.hu",
+   "bbox": [
+    420,
+    599,
+    735,
+    623
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    119,
+    654,
+    303,
+    675
+   ]
+  },
+  {
+   "text": "8383261748",
+   "bbox": [
+    420,
+    652,
+    570,
+    670
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    119,
+    708,
+    228,
+    725
+   ]
+  },
+  {
+   "text": "877 276 441",
+   "bbox": [
+    420,
+    707,
+    571,
+    725
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    789,
+    325,
+    813
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    833,
+    526,
+    854
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    878,
+    328,
+    895
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    152,
+    923,
+    546,
+    944
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    1028,
+    160,
+    1045
+   ]
+  },
+  {
+   "text": "Somogyszékfa, 2024.06.09.",
+   "bbox": [
+    197,
+    1024,
+    535,
+    1048
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    913,
+    1077,
+    973,
+    1091
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

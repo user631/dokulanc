@@ -1,0 +1,356 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "PÁL DISZKONT KFT.",
+  "uzlet_cim": "H-6387 Mátragyörgybánya, Újtapolcai utca 98.",
+  "adoszam": "37190291-2-28",
+  "datum": "2026.12.17.",
+  "ido": "15:13",
+  "nyugtaszam": "5479/84962",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 846 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1255"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "186"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "423"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "594"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "680"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "726"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2454"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "436"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1092"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÁL DISZKONT KFT.",
+   "bbox": [
+    167,
+    30,
+    405,
+    50
+   ]
+  },
+  {
+   "text": "H-6387 Mátragyörgybánya, Újtapolcai utca 98.",
+   "bbox": [
+    44,
+    64,
+    528,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 37190291-2-28",
+   "bbox": [
+    165,
+    89,
+    407,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    240,
+    133,
+    332,
+    148
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    175,
+    128,
+    188
+   ]
+  },
+  {
+   "text": "1255 B00",
+   "bbox": [
+    444,
+    175,
+    548,
+    188
+   ]
+  },
+  {
+   "text": "2 DB x 93",
+   "bbox": [
+    24,
+    203,
+    123,
+    214
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    228,
+    102,
+    240
+   ]
+  },
+  {
+   "text": "186 A00",
+   "bbox": [
+    457,
+    227,
+    548,
+    240
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    256,
+    141,
+    269
+   ]
+  },
+  {
+   "text": "423 B00",
+   "bbox": [
+    457,
+    256,
+    548,
+    269
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    286,
+    206,
+    298
+   ]
+  },
+  {
+   "text": "594 B00",
+   "bbox": [
+    457,
+    285,
+    548,
+    298
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    314,
+    141,
+    327
+   ]
+  },
+  {
+   "text": "680 B00",
+   "bbox": [
+    457,
+    314,
+    548,
+    327
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    343,
+    232,
+    356
+   ]
+  },
+  {
+   "text": "726 C00",
+   "bbox": [
+    457,
+    343,
+    548,
+    356
+   ]
+  },
+  {
+   "text": "3 DB x 818",
+   "bbox": [
+    24,
+    371,
+    134,
+    382
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    395,
+    219,
+    408
+   ]
+  },
+  {
+   "text": "2454 B00",
+   "bbox": [
+    444,
+    395,
+    548,
+    408
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    424,
+    206,
+    437
+   ]
+  },
+  {
+   "text": "436 A00",
+   "bbox": [
+    457,
+    424,
+    548,
+    437
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    454,
+    154,
+    466
+   ]
+  },
+  {
+   "text": "1092 A00",
+   "bbox": [
+    444,
+    453,
+    548,
+    466
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    491,
+    159,
+    510
+   ]
+  },
+  {
+   "text": "7 846 Ft",
+   "bbox": [
+    428,
+    494,
+    548,
+    510
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    530,
+    154,
+    546
+   ]
+  },
+  {
+   "text": "7 846 Ft",
+   "bbox": [
+    444,
+    533,
+    548,
+    546
+   ]
+  },
+  {
+   "text": "2026.12.17.",
+   "bbox": [
+    24,
+    575,
+    145,
+    587
+   ]
+  },
+  {
+   "text": "15:13",
+   "bbox": [
+    493,
+    575,
+    548,
+    587
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5479/84962",
+   "bbox": [
+    24,
+    601,
+    266,
+    618
+   ]
+  },
+  {
+   "text": "AP A60029125",
+   "bbox": [
+    24,
+    633,
+    156,
+    645
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    226,
+    672,
+    346,
+    687
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  572,
+  731
+ ]
+}

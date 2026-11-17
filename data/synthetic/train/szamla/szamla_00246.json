@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/03100",
+  "kiallitas_datuma": "2026.03.01.",
+  "teljesites_datuma": "2026.02.27.",
+  "fizetesi_hatarido": "2026.03.09.",
+  "elado_nev": "Bálint Consulting Zrt.",
+  "elado_cim": "H-3117 Nyíregyháza, Tapolcabányai utca 182.",
+  "elado_adoszam": "37684332-2-37",
+  "vevo_nev": "Vincze Trade Kft.",
+  "vevo_cim": "H-7972 Nyíregyháza, Arany jános utca 212.",
+  "vevo_adoszam": "84535966-3-06",
+  "bankszamla": "HU15 3446 7853 4407 2107 0472 6459",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 338 640 Ft",
+  "afa_osszesen": "358 991 Ft",
+  "brutto_osszesen": "1 697 631 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "10 db",
+    "egysegar": "1 110",
+    "netto": "11 100",
+    "afa_kulcs": "5%",
+    "afa": "555",
+    "brutto": "11 655"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "107 680",
+    "netto": "1 292 160",
+    "afa_kulcs": "27%",
+    "afa": "348 883",
+    "brutto": "1 641 043"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "2 óra",
+    "egysegar": "17 690",
+    "netto": "35 380",
+    "afa_kulcs": "27%",
+    "afa": "9 553",
+    "brutto": "44 933"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    529,
+    108,
+    710,
+    148
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/03100",
+   "bbox": [
+    422,
+    172,
+    817,
+    193
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    107,
+    252,
+    177,
+    270
+   ]
+  },
+  {
+   "text": "Vincze Trade Kft.",
+   "bbox": [
+    107,
+    287,
+    320,
+    304
+   ]
+  },
+  {
+   "text": "H-7972 Nyíregyháza, Arany jános utca 212.",
+   "bbox": [
+    107,
+    317,
+    553,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 84535966-3-06",
+   "bbox": [
+    107,
+    345,
+    374,
+    362
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    252,
+    707,
+    270
+   ]
+  },
+  {
+   "text": "Bálint Consulting Zrt.",
+   "bbox": [
+    630,
+    286,
+    897,
+    308
+   ]
+  },
+  {
+   "text": "H-3117 Nyíregyháza, Tapolcabányai utca 182.",
+   "bbox": [
+    630,
+    317,
+    1096,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 37684332-2-37",
+   "bbox": [
+    630,
+    345,
+    897,
+    362
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    107,
+    411,
+    262,
+    425
+   ]
+  },
+  {
+   "text": "2026.03.01.",
+   "bbox": [
+    107,
+    439,
+    224,
+    453
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    363,
+    411,
+    533,
+    428
+   ]
+  },
+  {
+   "text": "2026.02.27.",
+   "bbox": [
+    363,
+    439,
+    480,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    411,
+    778,
+    425
+   ]
+  },
+  {
+   "text": "2026.03.09.",
+   "bbox": [
+    619,
+    439,
+    736,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    875,
+    411,
+    996,
+    425
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    875,
+    438,
+    949,
+    453
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    107,
+    485,
+    222,
+    502
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    487,
+    585,
+    502
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    485,
+    744,
+    502
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    813,
+    485,
+    866,
+    499
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    868,
+    482,
+    927,
+    499
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    988,
+    482,
+    1025,
+    499
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1072,
+    485,
+    1133,
+    499
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    517,
+    525,
+    567,
+    538
+   ]
+  },
+  {
+   "text": "1 110",
+   "bbox": [
+    693,
+    526,
+    743,
+    538
+   ]
+  },
+  {
+   "text": "11 100",
+   "bbox": [
+    805,
+    526,
+    866,
+    538
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    898,
+    526,
+    927,
+    538
+   ]
+  },
+  {
+   "text": "555",
+   "bbox": [
+    992,
+    526,
+    1025,
+    538
+   ]
+  },
+  {
+   "text": "11 655",
+   "bbox": [
+    1072,
+    526,
+    1133,
+    538
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    107,
+    524,
+    211,
+    541
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    517,
+    558,
+    612,
+    571
+   ]
+  },
+  {
+   "text": "107 680",
+   "bbox": [
+    671,
+    559,
+    743,
+    571
+   ]
+  },
+  {
+   "text": "1 292 160",
+   "bbox": [
+    777,
+    559,
+    866,
+    571
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    559,
+    927,
+    571
+   ]
+  },
+  {
+   "text": "348 883",
+   "bbox": [
+    953,
+    559,
+    1025,
+    571
+   ]
+  },
+  {
+   "text": "1 641 043",
+   "bbox": [
+    1044,
+    559,
+    1133,
+    571
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    107,
+    557,
+    294,
+    574
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    517,
+    590,
+    561,
+    604
+   ]
+  },
+  {
+   "text": "17 690",
+   "bbox": [
+    682,
+    592,
+    743,
+    604
+   ]
+  },
+  {
+   "text": "35 380",
+   "bbox": [
+    805,
+    592,
+    866,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    592,
+    927,
+    604
+   ]
+  },
+  {
+   "text": "9 553",
+   "bbox": [
+    975,
+    592,
+    1025,
+    604
+   ]
+  },
+  {
+   "text": "44 933",
+   "bbox": [
+    1072,
+    592,
+    1133,
+    604
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    107,
+    590,
+    372,
+    607
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    632,
+    644,
+    803,
+    661
+   ]
+  },
+  {
+   "text": "1 338 640 Ft",
+   "bbox": [
+    1001,
+    645,
+    1133,
+    661
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    650,
+    674,
+    803,
+    695
+   ]
+  },
+  {
+   "text": "358 991 Ft",
+   "bbox": [
+    1021,
+    679,
+    1133,
+    695
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    590,
+    712,
+    803,
+    733
+   ]
+  },
+  {
+   "text": "1 697 631 Ft",
+   "bbox": [
+    983,
+    713,
+    1133,
+    729
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU15 3446 7853 4407 2107 0472 6459",
+   "bbox": [
+    107,
+    776,
+    666,
+    791
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    107,
+    803,
+    673,
+    819
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    486,
+    1631,
+    754,
+    1646
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

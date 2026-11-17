@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Lakatos Irén",
+  "email": "lakatos.iren@example.hu",
+  "telefon": "+36 20 377 9414",
+  "lakcim": "H-8652 Tapolcavár, Egeri utca 53.",
+  "szuletesi_datum": "1998. 01. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pásztor Trade Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2021 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "ügyfélkezelés",
+   "Java",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Lakatos Irén",
+   "bbox": [
+    488,
+    110,
+    752,
+    144
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    517,
+    176,
+    723,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    228,
+    155,
+    243
+   ]
+  },
+  {
+   "text": "lakatos.iren@example.hu",
+   "bbox": [
+    330,
+    228,
+    559,
+    247
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    258,
+    169,
+    273
+   ]
+  },
+  {
+   "text": "+36 20 377 9414",
+   "bbox": [
+    330,
+    259,
+    469,
+    273
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    163,
+    303
+   ]
+  },
+  {
+   "text": "H-8652 Tapolcavár, Egeri utca 53.",
+   "bbox": [
+    330,
+    287,
+    635,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    249,
+    333
+   ]
+  },
+  {
+   "text": "1998. 01. 03.",
+   "bbox": [
+    330,
+    319,
+    443,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    315,
+    392
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    90,
+    419,
+    189,
+    433
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Pásztor Trade Kft.",
+   "bbox": [
+    90,
+    442,
+    547,
+    462
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    493,
+    242,
+    516
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    90,
+    543,
+    189,
+    557
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    566,
+    331,
+    586
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    90,
+    589,
+    147,
+    609
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    631,
+    190,
+    645
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    654,
+    379,
+    674
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    677,
+    327,
+    697
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    729,
+    214,
+    752
+   ]
+  },
+  {
+   "text": "angol (B2), spanyol (B1)",
+   "bbox": [
+    90,
+    778,
+    302,
+    797
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    825,
+    206,
+    848
+   ]
+  },
+  {
+   "text": "Linux, ügyfélkezelés, Java, SAP",
+   "bbox": [
+    90,
+    873,
+    374,
+    893
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

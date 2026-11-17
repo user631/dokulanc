@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Balla György",
+  "anyja_neve": "Kiss Gergő",
+  "szuletesi_hely": "Újgyörgydevecser",
+  "szuletesi_datum": "1981. 03. 22.",
+  "lakcim": "H-1343 Nyíregyháza, Ceglédi utca 119.",
+  "telefon": "+36 70 432 4662",
+  "email": "balla.gyorgy@citromail.hu",
+  "adoazonosito_jel": "8417189033",
+  "taj_szam": "161 203 900",
+  "kelt": "Györgyberény, 2024. 04. 06."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    422,
+    89,
+    818,
+    123
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    89,
+    200,
+    325,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    101,
+    254,
+    142,
+    269
+   ]
+  },
+  {
+   "text": "Balla György",
+   "bbox": [
+    423,
+    253,
+    555,
+    275
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    307,
+    205,
+    326
+   ]
+  },
+  {
+   "text": "Kiss Gergő",
+   "bbox": [
+    423,
+    303,
+    533,
+    325
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    101,
+    360,
+    230,
+    379
+   ]
+  },
+  {
+   "text": "Újgyörgydevecser",
+   "bbox": [
+    423,
+    354,
+    601,
+    380
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    101,
+    413,
+    220,
+    428
+   ]
+  },
+  {
+   "text": "1981. 03. 22.",
+   "bbox": [
+    423,
+    413,
+    553,
+    433
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    101,
+    466,
+    173,
+    481
+   ]
+  },
+  {
+   "text": "H-1343 Nyíregyháza, Ceglédi utca 119.",
+   "bbox": [
+    423,
+    462,
+    814,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    101,
+    519,
+    221,
+    534
+   ]
+  },
+  {
+   "text": "+36 70 432 4662",
+   "bbox": [
+    423,
+    516,
+    599,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    101,
+    572,
+    205,
+    587
+   ]
+  },
+  {
+   "text": "balla.gyorgy@citromail.hu",
+   "bbox": [
+    422,
+    568,
+    692,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    625,
+    255,
+    644
+   ]
+  },
+  {
+   "text": "8417189033",
+   "bbox": [
+    423,
+    627,
+    549,
+    647
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    101,
+    678,
+    193,
+    693
+   ]
+  },
+  {
+   "text": "161 203 900",
+   "bbox": [
+    423,
+    675,
+    549,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    89,
+    758,
+    284,
+    780
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    134,
+    802,
+    446,
+    821
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    134,
+    847,
+    283,
+    862
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    892,
+    460,
+    911
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    89,
+    995,
+    134,
+    1011
+   ]
+  },
+  {
+   "text": "Györgyberény, 2024. 04. 06.",
+   "bbox": [
+    179,
+    992,
+    469,
+    1014
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1044,
+    986,
+    1057
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

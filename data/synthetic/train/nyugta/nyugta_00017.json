@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZALAI CSEMEGE KFT.",
+  "uzlet_cim": "H-8590 Szerbhídfa, Bajai utca 215.",
+  "adoszam": "16865853-2-29",
+  "datum": "2026.11.29.",
+  "ido": "16:11",
+  "nyugtaszam": "7839/43031",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 272 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1335"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "63"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2526"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2974"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "266"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "788"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3130"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "190"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZALAI CSEMEGE KFT.",
+   "bbox": [
+    182,
+    35,
+    448,
+    49
+   ]
+  },
+  {
+   "text": "H-8590 Szerbhídfa, Bajai utca 215.",
+   "bbox": [
+    128,
+    63,
+    502,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 16865853-2-29",
+   "bbox": [
+    194,
+    88,
+    436,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    131,
+    360,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 445",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    195,
+    167,
+    213
+   ]
+  },
+  {
+   "text": "1335 A00",
+   "bbox": [
+    503,
+    195,
+    607,
+    210
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    226,
+    102,
+    239
+   ]
+  },
+  {
+   "text": "63 A00",
+   "bbox": [
+    529,
+    224,
+    607,
+    239
+   ]
+  },
+  {
+   "text": "2 DB x 1263",
+   "bbox": [
+    24,
+    253,
+    145,
+    266
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    278,
+    154,
+    291
+   ]
+  },
+  {
+   "text": "2526 B00",
+   "bbox": [
+    503,
+    276,
+    607,
+    291
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    305,
+    141,
+    320
+   ]
+  },
+  {
+   "text": "2974 A00",
+   "bbox": [
+    503,
+    305,
+    607,
+    320
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    336,
+    193,
+    349
+   ]
+  },
+  {
+   "text": "266 B00",
+   "bbox": [
+    516,
+    334,
+    607,
+    349
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    363,
+    128,
+    378
+   ]
+  },
+  {
+   "text": "788 B00",
+   "bbox": [
+    516,
+    363,
+    607,
+    378
+   ]
+  },
+  {
+   "text": "2 DB x 1565",
+   "bbox": [
+    24,
+    392,
+    145,
+    405
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    417,
+    193,
+    430
+   ]
+  },
+  {
+   "text": "3130 A00",
+   "bbox": [
+    503,
+    415,
+    607,
+    430
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    444,
+    206,
+    462
+   ]
+  },
+  {
+   "text": "190 A00",
+   "bbox": [
+    516,
+    444,
+    607,
+    459
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    483,
+    174,
+    503
+   ]
+  },
+  {
+   "text": "11 272 Ft",
+   "bbox": [
+    472,
+    485,
+    607,
+    503
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    522,
+    154,
+    539
+   ]
+  },
+  {
+   "text": "11 272 Ft",
+   "bbox": [
+    490,
+    524,
+    607,
+    539
+   ]
+  },
+  {
+   "text": "2026.11.29.",
+   "bbox": [
+    24,
+    566,
+    145,
+    580
+   ]
+  },
+  {
+   "text": "16:11",
+   "bbox": [
+    552,
+    566,
+    607,
+    580
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7839/43031",
+   "bbox": [
+    24,
+    594,
+    266,
+    612
+   ]
+  },
+  {
+   "text": "AP A70649731",
+   "bbox": [
+    24,
+    624,
+    156,
+    638
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    255,
+    664,
+    375,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  631,
+  725
+ ]
+}

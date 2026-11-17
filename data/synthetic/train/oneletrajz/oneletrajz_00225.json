@@ -1,0 +1,344 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Varga Zoltán",
+  "email": "varga.zoltan@gmail.com",
+  "telefon": "+36 30 926 1052",
+  "lakcim": "H-6116 Tiszakeresztfa, Fürdőfalui út 237.",
+  "szuletesi_datum": "2004. 11. 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2022 – 2026"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orsós Trade Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2032 – jelenleg"
+   },
+   {
+    "ceg": "Juhász Szolgáltató Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Kiss és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SQL",
+   "C#",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    113,
+    180,
+    133
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    157,
+    91,
+    170
+   ]
+  },
+  {
+   "text": "varga.zoltan@gmail.com",
+   "bbox": [
+    40,
+    178,
+    228,
+    195
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    100,
+    222
+   ]
+  },
+  {
+   "text": "+36 30 926 1052",
+   "bbox": [
+    40,
+    231,
+    166,
+    243
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    261,
+    97,
+    274
+   ]
+  },
+  {
+   "text": "H-6116 Tiszakeresztfa, Fürdőfalui út 237.",
+   "bbox": [
+    40,
+    282,
+    346,
+    297
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    313,
+    168,
+    326
+   ]
+  },
+  {
+   "text": "2004. 11. 22.",
+   "bbox": [
+    40,
+    335,
+    134,
+    347
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    392,
+    175,
+    412
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    432,
+    120,
+    450
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    484,
+    153,
+    504
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    524,
+    96,
+    542
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    550,
+    73,
+    564
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    575,
+    62,
+    588
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    600,
+    131,
+    617
+   ]
+  },
+  {
+   "text": "Varga Zoltán",
+   "bbox": [
+    450,
+    125,
+    711,
+    167
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    186,
+    554,
+    211
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    250,
+    662,
+    272
+   ]
+  },
+  {
+   "text": "2032 – jelenleg",
+   "bbox": [
+    450,
+    298,
+    577,
+    316
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Orsós Trade Zrt.",
+   "bbox": [
+    448,
+    321,
+    767,
+    341
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    360,
+    577,
+    378
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Juhász Szolgáltató Bt.",
+   "bbox": [
+    448,
+    383,
+    823,
+    403
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    422,
+    577,
+    440
+   ]
+  },
+  {
+   "text": "tesztmérnök – Kiss és Társa Kft.",
+   "bbox": [
+    450,
+    445,
+    750,
+    460
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    495,
+    597,
+    517
+   ]
+  },
+  {
+   "text": "2022 – 2026",
+   "bbox": [
+    450,
+    544,
+    550,
+    557
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    566,
+    940,
+    586
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    589,
+    654,
+    603
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    629,
+    550,
+    642
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    651,
+    678,
+    671
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    674,
+    523,
+    692
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

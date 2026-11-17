@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MOLNÁR ÉLELMISZER KFT.",
+  "uzlet_cim": "H-8761 Borsodfürdővár, Kecskeméti utca 52.",
+  "adoszam": "38974605-2-33",
+  "datum": "2026.01.06.",
+  "ido": "07:18",
+  "nyugtaszam": "5134/79208",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "1 906 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "361"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "664"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "881"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR ÉLELMISZER KFT.",
+   "bbox": [
+    144,
+    28,
+    430,
+    48
+   ]
+  },
+  {
+   "text": "H-8761 Borsodfürdővár, Kecskeméti utca 52.",
+   "bbox": [
+    56,
+    64,
+    518,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 38974605-2-33",
+   "bbox": [
+    166,
+    88,
+    408,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    245,
+    133,
+    330,
+    150
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    177,
+    192,
+    191
+   ]
+  },
+  {
+   "text": "361 B00",
+   "bbox": [
+    466,
+    177,
+    550,
+    191
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    207,
+    132,
+    221
+   ]
+  },
+  {
+   "text": "664 C00",
+   "bbox": [
+    466,
+    207,
+    550,
+    221
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    237,
+    168,
+    251
+   ]
+  },
+  {
+   "text": "881 C00",
+   "bbox": [
+    466,
+    237,
+    550,
+    251
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    274,
+    164,
+    296
+   ]
+  },
+  {
+   "text": "1 906 Ft",
+   "bbox": [
+    438,
+    279,
+    550,
+    296
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    314,
+    144,
+    333
+   ]
+  },
+  {
+   "text": "1 906 Ft",
+   "bbox": [
+    454,
+    319,
+    550,
+    333
+   ]
+  },
+  {
+   "text": "2026.01.06.",
+   "bbox": [
+    24,
+    362,
+    145,
+    375
+   ]
+  },
+  {
+   "text": "07:18",
+   "bbox": [
+    495,
+    362,
+    550,
+    375
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5134/79208",
+   "bbox": [
+    24,
+    388,
+    266,
+    407
+   ]
+  },
+  {
+   "text": "AP A15287027",
+   "bbox": [
+    24,
+    422,
+    156,
+    435
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    155,
+    461,
+    419,
+    478
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  574,
+  524
+ ]
+}

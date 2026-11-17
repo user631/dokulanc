@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Kovács Attila",
+  "anyja_neve": "Tóth Erzsébet",
+  "szuletesi_hely": "Ligetnémeti",
+  "szuletesi_datum": "1985. 12. 10.",
+  "lakcim": "H-8492 Balatonkövesd, Mátrahetveni tér 124.",
+  "telefon": "+36 30 771 7306",
+  "email": "kovacs.attila@citromail.hu",
+  "adoazonosito_jel": "8434423693",
+  "taj_szam": "528 000 287",
+  "kelt": "Mátratapolcafalva, 2026. 04. 20."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    452,
+    98,
+    788,
+    133
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    490,
+    152,
+    750,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    204,
+    312,
+    225
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    257,
+    145,
+    271
+   ]
+  },
+  {
+   "text": "Kovács Attila",
+   "bbox": [
+    410,
+    257,
+    528,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    309,
+    202,
+    326
+   ]
+  },
+  {
+   "text": "Tóth Erzsébet",
+   "bbox": [
+    409,
+    304,
+    538,
+    321
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    359,
+    221,
+    377
+   ]
+  },
+  {
+   "text": "Ligetnémeti",
+   "bbox": [
+    410,
+    355,
+    519,
+    376
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    410,
+    213,
+    424
+   ]
+  },
+  {
+   "text": "1985. 12. 10.",
+   "bbox": [
+    410,
+    408,
+    530,
+    424
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    461,
+    169,
+    475
+   ]
+  },
+  {
+   "text": "H-8492 Balatonkövesd, Mátrahetveni tér 124.",
+   "bbox": [
+    410,
+    459,
+    828,
+    480
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    108,
+    512,
+    214,
+    526
+   ]
+  },
+  {
+   "text": "+36 30 771 7306",
+   "bbox": [
+    410,
+    513,
+    567,
+    529
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    563,
+    197,
+    577
+   ]
+  },
+  {
+   "text": "kovacs.attila@citromail.hu",
+   "bbox": [
+    410,
+    558,
+    652,
+    577
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    614,
+    245,
+    632
+   ]
+  },
+  {
+   "text": "8434423693",
+   "bbox": [
+    410,
+    616,
+    520,
+    632
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    108,
+    665,
+    191,
+    679
+   ]
+  },
+  {
+   "text": "528 000 287",
+   "bbox": [
+    410,
+    665,
+    523,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    742,
+    270,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    786,
+    413,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    831,
+    267,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    876,
+    433,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    978,
+    135,
+    993
+   ]
+  },
+  {
+   "text": "Mátratapolcafalva, 2026. 04. 20.",
+   "bbox": [
+    187,
+    974,
+    484,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1026,
+    974,
+    1038
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

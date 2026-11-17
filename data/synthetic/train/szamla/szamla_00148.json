@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/05069",
+  "kiallitas_datuma": "2024. február 26.",
+  "teljesites_datuma": "2024. február 22.",
+  "fizetesi_hatarido": "2024. március 5.",
+  "elado_nev": "Szilágyi Consulting Zrt.",
+  "elado_cim": "H-4274 Békésmártonváros, Mellékvári utca 109.",
+  "elado_adoszam": "53542313-5-26",
+  "vevo_nev": "Mészáros Kft.",
+  "vevo_cim": "H-5896 Szolnok, Dózsa györgy utca 107.",
+  "vevo_adoszam": "20468600-2-37",
+  "bankszamla": "HU10 9309 1691 6142 6908 3445 6547",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "45 280 Ft",
+  "afa_osszesen": "9 777 Ft",
+  "brutto_osszesen": "55 057 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "15 440",
+    "netto": "15 440",
+    "afa_kulcs": "27%",
+    "afa": "4 169",
+    "brutto": "19 609"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "1 800",
+    "netto": "5 400",
+    "afa_kulcs": "18%",
+    "afa": "972",
+    "brutto": "6 372"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "8 920",
+    "netto": "8 920",
+    "afa_kulcs": "5%",
+    "afa": "446",
+    "brutto": "9 366"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "2 db",
+    "egysegar": "7 760",
+    "netto": "15 520",
+    "afa_kulcs": "27%",
+    "afa": "4 190",
+    "brutto": "19 710"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZILÁGYI",
+   "bbox": [
+    111,
+    121,
+    229,
+    145
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    724,
+    101,
+    1150,
+    152
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/05069",
+   "bbox": [
+    876,
+    165,
+    1150,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    246,
+    171,
+    267
+   ]
+  },
+  {
+   "text": "Szilágyi Consulting Zrt.",
+   "bbox": [
+    90,
+    284,
+    393,
+    310
+   ]
+  },
+  {
+   "text": "H-4274 Békésmártonváros, Mellékvári utca 109.",
+   "bbox": [
+    90,
+    320,
+    600,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 53542313-5-26",
+   "bbox": [
+    89,
+    352,
+    362,
+    371
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    246,
+    703,
+    267
+   ]
+  },
+  {
+   "text": "Mészáros Kft.",
+   "bbox": [
+    630,
+    284,
+    806,
+    305
+   ]
+  },
+  {
+   "text": "H-5896 Szolnok, Dózsa györgy utca 107.",
+   "bbox": [
+    630,
+    320,
+    1061,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 20468600-2-37",
+   "bbox": [
+    629,
+    352,
+    902,
+    371
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    90,
+    421,
+    292,
+    441
+   ]
+  },
+  {
+   "text": "2024. február 26.",
+   "bbox": [
+    390,
+    422,
+    576,
+    441
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    90,
+    455,
+    311,
+    480
+   ]
+  },
+  {
+   "text": "2024. február 22.",
+   "bbox": [
+    390,
+    456,
+    576,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    90,
+    489,
+    297,
+    509
+   ]
+  },
+  {
+   "text": "2024. március 5.",
+   "bbox": [
+    390,
+    490,
+    567,
+    509
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    90,
+    523,
+    250,
+    543
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    390,
+    524,
+    474,
+    543
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    569,
+    217,
+    590
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    570,
+    590,
+    590
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    569,
+    748,
+    590
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    569,
+    874,
+    586
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    565,
+    938,
+    586
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    565,
+    1039,
+    586
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1083,
+    569,
+    1150,
+    586
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    612,
+    556,
+    629
+   ]
+  },
+  {
+   "text": "15 440",
+   "bbox": [
+    685,
+    613,
+    747,
+    629
+   ]
+  },
+  {
+   "text": "15 440",
+   "bbox": [
+    812,
+    613,
+    874,
+    629
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    613,
+    938,
+    629
+   ]
+  },
+  {
+   "text": "4 169",
+   "bbox": [
+    987,
+    613,
+    1038,
+    629
+   ]
+  },
+  {
+   "text": "19 609",
+   "bbox": [
+    1088,
+    613,
+    1150,
+    629
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    90,
+    612,
+    208,
+    633
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    514,
+    649,
+    591,
+    666
+   ]
+  },
+  {
+   "text": "1 800",
+   "bbox": [
+    696,
+    650,
+    747,
+    666
+   ]
+  },
+  {
+   "text": "5 400",
+   "bbox": [
+    823,
+    650,
+    874,
+    666
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    895,
+    650,
+    938,
+    666
+   ]
+  },
+  {
+   "text": "972",
+   "bbox": [
+    1005,
+    650,
+    1038,
+    666
+   ]
+  },
+  {
+   "text": "6 372",
+   "bbox": [
+    1099,
+    650,
+    1150,
+    666
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    89,
+    645,
+    226,
+    670
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    686,
+    556,
+    703
+   ]
+  },
+  {
+   "text": "8 920",
+   "bbox": [
+    696,
+    687,
+    747,
+    703
+   ]
+  },
+  {
+   "text": "8 920",
+   "bbox": [
+    823,
+    687,
+    874,
+    703
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    906,
+    687,
+    938,
+    703
+   ]
+  },
+  {
+   "text": "446",
+   "bbox": [
+    1005,
+    687,
+    1038,
+    703
+   ]
+  },
+  {
+   "text": "9 366",
+   "bbox": [
+    1099,
+    687,
+    1150,
+    703
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    90,
+    686,
+    343,
+    707
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    514,
+    723,
+    556,
+    740
+   ]
+  },
+  {
+   "text": "7 760",
+   "bbox": [
+    696,
+    724,
+    747,
+    740
+   ]
+  },
+  {
+   "text": "15 520",
+   "bbox": [
+    812,
+    724,
+    874,
+    740
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    724,
+    938,
+    740
+   ]
+  },
+  {
+   "text": "4 190",
+   "bbox": [
+    987,
+    724,
+    1038,
+    740
+   ]
+  },
+  {
+   "text": "19 710",
+   "bbox": [
+    1088,
+    724,
+    1150,
+    740
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    90,
+    723,
+    274,
+    744
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    645,
+    780,
+    820,
+    801
+   ]
+  },
+  {
+   "text": "45 280 Ft",
+   "bbox": [
+    1043,
+    782,
+    1151,
+    801
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    813,
+    820,
+    839
+   ]
+  },
+  {
+   "text": "9 777 Ft",
+   "bbox": [
+    1057,
+    820,
+    1151,
+    839
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    568,
+    856,
+    820,
+    877
+   ]
+  },
+  {
+   "text": "55 057 Ft",
+   "bbox": [
+    1031,
+    858,
+    1151,
+    877
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU10 9309 1691 6142 6908 3445 6547",
+   "bbox": [
+    90,
+    924,
+    685,
+    943
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    90,
+    955,
+    708,
+    976
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

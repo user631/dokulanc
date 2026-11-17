@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2024/07305",
+  "kiallitas_datuma": "2024. szeptember 25.",
+  "teljesites_datuma": "2024. szeptember 22.",
+  "fizetesi_hatarido": "2024. október 25.",
+  "elado_nev": "Szabó Tech Kft.",
+  "elado_cim": "H-1889 Ligetberény, Kossuth utca 222.",
+  "elado_adoszam": "92579198-5-07",
+  "vevo_nev": "Fekete Tech Zrt.",
+  "vevo_cim": "H-8599 Egyházastótnémeti, Kossuth utca 102.",
+  "vevo_adoszam": "45512380-5-14",
+  "bankszamla": "59732945-49955761-44160292",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "313 950 Ft",
+  "afa_osszesen": "84 411 Ft",
+  "brutto_osszesen": "398 361 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "12 óra",
+    "egysegar": "13 550",
+    "netto": "162 600",
+    "afa_kulcs": "27%",
+    "afa": "43 902",
+    "brutto": "206 502"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "10 óra",
+    "egysegar": "14 740",
+    "netto": "147 400",
+    "afa_kulcs": "27%",
+    "afa": "39 798",
+    "brutto": "187 198"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "3 950",
+    "netto": "3 950",
+    "afa_kulcs": "18%",
+    "afa": "711",
+    "brutto": "4 661"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    434,
+    109,
+    805,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2024/07305",
+   "bbox": [
+    435,
+    168,
+    804,
+    191
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    106,
+    248,
+    175,
+    267
+   ]
+  },
+  {
+   "text": "Szabó Tech Kft.",
+   "bbox": [
+    106,
+    287,
+    276,
+    306
+   ]
+  },
+  {
+   "text": "H-1889 Ligetberény, Kossuth utca 222.",
+   "bbox": [
+    106,
+    323,
+    500,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 92579198-5-07",
+   "bbox": [
+    106,
+    356,
+    370,
+    374
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    249,
+    695,
+    267
+   ]
+  },
+  {
+   "text": "Fekete Tech Zrt.",
+   "bbox": [
+    630,
+    288,
+    809,
+    306
+   ]
+  },
+  {
+   "text": "H-8599 Egyházastótnémeti, Kossuth utca 102.",
+   "bbox": [
+    630,
+    323,
+    1097,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 45512380-5-14",
+   "bbox": [
+    630,
+    356,
+    894,
+    374
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    106,
+    428,
+    254,
+    443
+   ]
+  },
+  {
+   "text": "2024. szeptember 25.",
+   "bbox": [
+    106,
+    459,
+    315,
+    479
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    363,
+    428,
+    526,
+    447
+   ]
+  },
+  {
+   "text": "2024. szeptember 22.",
+   "bbox": [
+    363,
+    459,
+    572,
+    479
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    428,
+    772,
+    443
+   ]
+  },
+  {
+   "text": "2024. október 25.",
+   "bbox": [
+    620,
+    458,
+    792,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    877,
+    428,
+    992,
+    443
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    877,
+    458,
+    965,
+    479
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    106,
+    513,
+    219,
+    531
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    513,
+    587,
+    531
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    513,
+    743,
+    531
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    813,
+    513,
+    866,
+    527
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    876,
+    509,
+    928,
+    527
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    509,
+    1027,
+    527
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1074,
+    513,
+    1134,
+    527
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    517,
+    555,
+    575,
+    571
+   ]
+  },
+  {
+   "text": "13 550",
+   "bbox": [
+    683,
+    557,
+    743,
+    571
+   ]
+  },
+  {
+   "text": "162 600",
+   "bbox": [
+    795,
+    557,
+    866,
+    571
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    557,
+    928,
+    571
+   ]
+  },
+  {
+   "text": "43 902",
+   "bbox": [
+    966,
+    557,
+    1026,
+    571
+   ]
+  },
+  {
+   "text": "206 502",
+   "bbox": [
+    1063,
+    557,
+    1134,
+    571
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    106,
+    555,
+    380,
+    575
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    517,
+    593,
+    575,
+    609
+   ]
+  },
+  {
+   "text": "14 740",
+   "bbox": [
+    683,
+    595,
+    743,
+    609
+   ]
+  },
+  {
+   "text": "147 400",
+   "bbox": [
+    795,
+    595,
+    866,
+    609
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    595,
+    928,
+    609
+   ]
+  },
+  {
+   "text": "39 798",
+   "bbox": [
+    966,
+    595,
+    1026,
+    609
+   ]
+  },
+  {
+   "text": "187 198",
+   "bbox": [
+    1063,
+    595,
+    1134,
+    609
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    106,
+    593,
+    353,
+    613
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    517,
+    633,
+    602,
+    651
+   ]
+  },
+  {
+   "text": "3 950",
+   "bbox": [
+    694,
+    633,
+    743,
+    647
+   ]
+  },
+  {
+   "text": "3 950",
+   "bbox": [
+    817,
+    633,
+    866,
+    647
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    890,
+    633,
+    928,
+    647
+   ]
+  },
+  {
+   "text": "711",
+   "bbox": [
+    993,
+    633,
+    1026,
+    647
+   ]
+  },
+  {
+   "text": "4 661",
+   "bbox": [
+    1085,
+    633,
+    1134,
+    647
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    106,
+    631,
+    272,
+    651
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    635,
+    690,
+    804,
+    708
+   ]
+  },
+  {
+   "text": "313 950 Ft",
+   "bbox": [
+    1023,
+    692,
+    1134,
+    708
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    655,
+    726,
+    804,
+    747
+   ]
+  },
+  {
+   "text": "84 411 Ft",
+   "bbox": [
+    1036,
+    731,
+    1134,
+    747
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    688,
+    768,
+    804,
+    791
+   ]
+  },
+  {
+   "text": "398 361 Ft",
+   "bbox": [
+    1023,
+    770,
+    1134,
+    786
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 59732945-49955761-44160292",
+   "bbox": [
+    106,
+    836,
+    584,
+    853
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

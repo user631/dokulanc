@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Balogh Szabolcs",
+  "anyja_neve": "Kiss Mária",
+  "szuletesi_hely": "Zalaegerszeg",
+  "szuletesi_datum": "1967. 11. 05.",
+  "lakcim": "H-7782 Kunszékvárad, Hátbányai utca 221.",
+  "telefon": "+36 70 135 6183",
+  "email": "balogh.szabolcs@example.hu",
+  "adoazonosito_jel": "8368329833",
+  "taj_szam": "651 503 435",
+  "kelt": "Pécs, 2024. 10. 03."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    538,
+    88,
+    703,
+    113
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    485,
+    135,
+    754,
+    150
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    187,
+    290,
+    207
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    241,
+    130,
+    254
+   ]
+  },
+  {
+   "text": "Balogh Szabolcs",
+   "bbox": [
+    410,
+    240,
+    571,
+    259
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    92,
+    292,
+    187,
+    309
+   ]
+  },
+  {
+   "text": "Kiss Mária",
+   "bbox": [
+    410,
+    288,
+    511,
+    303
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    343,
+    209,
+    360
+   ]
+  },
+  {
+   "text": "Zalaegerszeg",
+   "bbox": [
+    410,
+    341,
+    541,
+    360
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    394,
+    200,
+    407
+   ]
+  },
+  {
+   "text": "1967. 11. 05.",
+   "bbox": [
+    410,
+    394,
+    536,
+    409
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    445,
+    156,
+    458
+   ]
+  },
+  {
+   "text": "H-7782 Kunszékvárad, Hátbányai utca 221.",
+   "bbox": [
+    410,
+    441,
+    827,
+    460
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    496,
+    201,
+    509
+   ]
+  },
+  {
+   "text": "+36 70 135 6183",
+   "bbox": [
+    410,
+    496,
+    572,
+    511
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    547,
+    183,
+    560
+   ]
+  },
+  {
+   "text": "balogh.szabolcs@example.hu",
+   "bbox": [
+    410,
+    543,
+    699,
+    562
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    92,
+    598,
+    231,
+    615
+   ]
+  },
+  {
+   "text": "8368329833",
+   "bbox": [
+    410,
+    598,
+    530,
+    613
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    649,
+    178,
+    662
+   ]
+  },
+  {
+   "text": "651 503 435",
+   "bbox": [
+    410,
+    649,
+    530,
+    664
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    726,
+    243,
+    745
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    770,
+    409,
+    787
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    815,
+    256,
+    828
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    125,
+    860,
+    424,
+    877
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    961,
+    119,
+    975
+   ]
+  },
+  {
+   "text": "Pécs, 2024. 10. 03.",
+   "bbox": [
+    171,
+    958,
+    357,
+    976
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    947,
+    1010,
+    991,
+    1021
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2026/09718",
+  "kiallitas_datuma": "2026.01.26.",
+  "teljesites_datuma": "2026.01.23.",
+  "fizetesi_hatarido": "2026.02.10.",
+  "elado_nev": "Orbán Logisztika Bt.",
+  "elado_cim": "H-8403 Tapolcafalu, Ligetnémetii utca 107.",
+  "elado_adoszam": "44802358-2-28",
+  "vevo_nev": "Vass Imre",
+  "vevo_cim": "H-5812 Mindszenthalas, Arany jános utca 241.",
+  "vevo_adoszam": null,
+  "bankszamla": "70589285-03998991",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "154 360 Ft",
+  "afa_osszesen": "40 053 Ft",
+  "brutto_osszesen": "194 413 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "3 csomag",
+    "egysegar": "2 120",
+    "netto": "6 360",
+    "afa_kulcs": "27%",
+    "afa": "1 717",
+    "brutto": "8 077"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "12 óra",
+    "egysegar": "10 830",
+    "netto": "129 960",
+    "afa_kulcs": "27%",
+    "afa": "35 089",
+    "brutto": "165 049"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "4 csomag",
+    "egysegar": "4 510",
+    "netto": "18 040",
+    "afa_kulcs": "18%",
+    "afa": "3 247",
+    "brutto": "21 287"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "ORBÁN",
+   "bbox": [
+    127,
+    119,
+    204,
+    140
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1007,
+    105,
+    1154,
+    139
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/09718",
+   "bbox": [
+    847,
+    161,
+    1154,
+    182
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    86,
+    242,
+    164,
+    262
+   ]
+  },
+  {
+   "text": "Orbán Logisztika Bt.",
+   "bbox": [
+    86,
+    281,
+    342,
+    307
+   ]
+  },
+  {
+   "text": "H-8403 Tapolcafalu, Ligetnémetii utca 107.",
+   "bbox": [
+    86,
+    316,
+    575,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 44802358-2-28",
+   "bbox": [
+    86,
+    349,
+    362,
+    369
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    242,
+    702,
+    262
+   ]
+  },
+  {
+   "text": "Vass Imre",
+   "bbox": [
+    630,
+    282,
+    752,
+    301
+   ]
+  },
+  {
+   "text": "H-5812 Mindszenthalas, Arany jános utca",
+   "bbox": [
+    630,
+    316,
+    1090,
+    341
+   ]
+  },
+  {
+   "text": "241.",
+   "bbox": [
+    630,
+    351,
+    678,
+    369
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    86,
+    420,
+    253,
+    437
+   ]
+  },
+  {
+   "text": "2026.01.26.",
+   "bbox": [
+    86,
+    453,
+    217,
+    470
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    353,
+    420,
+    538,
+    442
+   ]
+  },
+  {
+   "text": "2026.01.23.",
+   "bbox": [
+    353,
+    453,
+    484,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    420,
+    797,
+    437
+   ]
+  },
+  {
+   "text": "2026.02.10.",
+   "bbox": [
+    620,
+    453,
+    751,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    887,
+    420,
+    1021,
+    437
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    887,
+    451,
+    976,
+    470
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    505,
+    211,
+    526
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    505,
+    588,
+    526
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    505,
+    749,
+    526
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    818,
+    505,
+    876,
+    521
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    501,
+    940,
+    521
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    501,
+    1041,
+    521
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    505,
+    1154,
+    521
+   ]
+  },
+  {
+   "text": "3 csomag",
+   "bbox": [
+    513,
+    549,
+    605,
+    570
+   ]
+  },
+  {
+   "text": "2 120",
+   "bbox": [
+    693,
+    549,
+    748,
+    565
+   ]
+  },
+  {
+   "text": "6 360",
+   "bbox": [
+    821,
+    549,
+    876,
+    565
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    549,
+    940,
+    565
+   ]
+  },
+  {
+   "text": "1 717",
+   "bbox": [
+    986,
+    549,
+    1041,
+    565
+   ]
+  },
+  {
+   "text": "8 077",
+   "bbox": [
+    1099,
+    549,
+    1154,
+    565
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    86,
+    547,
+    346,
+    570
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    513,
+    585,
+    577,
+    603
+   ]
+  },
+  {
+   "text": "10 830",
+   "bbox": [
+    681,
+    587,
+    748,
+    603
+   ]
+  },
+  {
+   "text": "129 960",
+   "bbox": [
+    797,
+    587,
+    876,
+    603
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    587,
+    940,
+    603
+   ]
+  },
+  {
+   "text": "35 089",
+   "bbox": [
+    974,
+    587,
+    1041,
+    603
+   ]
+  },
+  {
+   "text": "165 049",
+   "bbox": [
+    1075,
+    587,
+    1154,
+    603
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    86,
+    585,
+    356,
+    608
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    513,
+    625,
+    605,
+    646
+   ]
+  },
+  {
+   "text": "4 510",
+   "bbox": [
+    693,
+    625,
+    748,
+    641
+   ]
+  },
+  {
+   "text": "18 040",
+   "bbox": [
+    809,
+    625,
+    876,
+    641
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    903,
+    625,
+    940,
+    641
+   ]
+  },
+  {
+   "text": "3 247",
+   "bbox": [
+    986,
+    625,
+    1041,
+    641
+   ]
+  },
+  {
+   "text": "21 287",
+   "bbox": [
+    1087,
+    625,
+    1154,
+    641
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    86,
+    623,
+    270,
+    646
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    640,
+    683,
+    824,
+    703
+   ]
+  },
+  {
+   "text": "154 360 Ft",
+   "bbox": [
+    1030,
+    684,
+    1154,
+    703
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    718,
+    824,
+    742
+   ]
+  },
+  {
+   "text": "40 053 Ft",
+   "bbox": [
+    1044,
+    723,
+    1154,
+    742
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    691,
+    762,
+    824,
+    786
+   ]
+  },
+  {
+   "text": "194 413 Ft",
+   "bbox": [
+    1023,
+    762,
+    1154,
+    781
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 70589285-03998991",
+   "bbox": [
+    86,
+    829,
+    499,
+    848
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    460,
+    1647,
+    779,
+    1667
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

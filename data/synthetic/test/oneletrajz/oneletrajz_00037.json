@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Rácz Alexandra",
+  "email": "racz.alexandra@outlook.com",
+  "telefon": "+36 20 284 5772",
+  "lakcim": "H-2503 Tamásinádasd, Töröki utca 71.",
+  "szuletesi_datum": "1993. január 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Szolgáltató Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2015 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Rácz Alexandra",
+   "bbox": [
+    454,
+    97,
+    785,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    531,
+    162,
+    709,
+    180
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    213,
+    155,
+    228
+   ]
+  },
+  {
+   "text": "racz.alexandra@outlook.com",
+   "bbox": [
+    330,
+    213,
+    583,
+    230
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    167,
+    258
+   ]
+  },
+  {
+   "text": "+36 20 284 5772",
+   "bbox": [
+    330,
+    244,
+    480,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    273,
+    161,
+    288
+   ]
+  },
+  {
+   "text": "H-2503 Tamásinádasd, Töröki utca 71.",
+   "bbox": [
+    330,
+    273,
+    662,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    303,
+    246,
+    318
+   ]
+  },
+  {
+   "text": "1993. január 17.",
+   "bbox": [
+    330,
+    303,
+    468,
+    323
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    354,
+    314,
+    378
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    90,
+    404,
+    198,
+    418
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Tóth Szolgáltató Kft.",
+   "bbox": [
+    90,
+    427,
+    478,
+    448
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    478,
+    246,
+    502
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    90,
+    528,
+    198,
+    542
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    551,
+    278,
+    572
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    575,
+    227,
+    595
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    616,
+    198,
+    630
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    639,
+    386,
+    660
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    663,
+    262,
+    683
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    714,
+    218,
+    738
+   ]
+  },
+  {
+   "text": "francia (A2), német (B1)",
+   "bbox": [
+    90,
+    763,
+    292,
+    781
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    810,
+    208,
+    834
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, B kategóriás jogosítvány, SAP, Git",
+   "bbox": [
+    90,
+    859,
+    508,
+    879
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

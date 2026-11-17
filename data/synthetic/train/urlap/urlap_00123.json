@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Tóth Csaba",
+  "anyja_neve": "Nagy Gábor",
+  "szuletesi_hely": "Budapest",
+  "szuletesi_datum": "2004. 10. 08.",
+  "lakcim": "H-7916 Mindszentháza, Mellékvárai utca 145.",
+  "telefon": "06 1 542 4132",
+  "email": "toth.csaba@gmail.com",
+  "adoazonosito_jel": "8503199580",
+  "taj_szam": "877 385 767",
+  "kelt": "Székesfehérvár, 2025. 05. 05."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    394,
+    93,
+    845,
+    129
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    458,
+    152,
+    782,
+    170
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    205,
+    327,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    264,
+    150,
+    279
+   ]
+  },
+  {
+   "text": "Tóth Csaba",
+   "bbox": [
+    398,
+    259,
+    535,
+    280
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    318,
+    219,
+    337
+   ]
+  },
+  {
+   "text": "Nagy Gábor",
+   "bbox": [
+    398,
+    315,
+    541,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    372,
+    246,
+    391
+   ]
+  },
+  {
+   "text": "Budapest",
+   "bbox": [
+    398,
+    369,
+    509,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    426,
+    235,
+    441
+   ]
+  },
+  {
+   "text": "2004. 10. 08.",
+   "bbox": [
+    398,
+    423,
+    556,
+    444
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    480,
+    182,
+    495
+   ]
+  },
+  {
+   "text": "H-7916 Mindszentháza, Mellékvárai utca 145.",
+   "bbox": [
+    398,
+    475,
+    949,
+    500
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    534,
+    236,
+    549
+   ]
+  },
+  {
+   "text": "06 1 542 4132",
+   "bbox": [
+    398,
+    532,
+    574,
+    553
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    588,
+    214,
+    603
+   ]
+  },
+  {
+   "text": "toth.csaba@gmail.com",
+   "bbox": [
+    398,
+    585,
+    662,
+    613
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    642,
+    272,
+    661
+   ]
+  },
+  {
+   "text": "8503199580",
+   "bbox": [
+    398,
+    642,
+    554,
+    664
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    696,
+    208,
+    711
+   ]
+  },
+  {
+   "text": "877 385 767",
+   "bbox": [
+    398,
+    694,
+    558,
+    715
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    775,
+    276,
+    797
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    821,
+    480,
+    840
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    866,
+    295,
+    881
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    911,
+    498,
+    930
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    1013,
+    138,
+    1029
+   ]
+  },
+  {
+   "text": "Székesfehérvár, 2025. 05. 05.",
+   "bbox": [
+    184,
+    1013,
+    531,
+    1036
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1063,
+    983,
+    1076
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

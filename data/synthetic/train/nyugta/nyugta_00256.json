@@ -1,0 +1,305 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZŰCS DISZKONT KFT.",
+  "uzlet_cim": "H-8730 Dunakeszi, Felsőmelléki út 196.",
+  "adoszam": "10864342-2-20",
+  "datum": "2026.05.22.",
+  "ido": "16:54",
+  "nyugtaszam": "1154/99439",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 499 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "231"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "717"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1387"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "834"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "68"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "367"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "885"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZŰCS DISZKONT KFT.",
+   "bbox": [
+    151,
+    30,
+    436,
+    50
+   ]
+  },
+  {
+   "text": "H-8730 Dunakeszi, Felsőmelléki út 196.",
+   "bbox": [
+    47,
+    65,
+    541,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 10864342-2-20",
+   "bbox": [
+    151,
+    92,
+    437,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    246,
+    138,
+    343,
+    155
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    183,
+    206,
+    197
+   ]
+  },
+  {
+   "text": "231 C00",
+   "bbox": [
+    467,
+    180,
+    565,
+    197
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    211,
+    248,
+    228
+   ]
+  },
+  {
+   "text": "717 B00",
+   "bbox": [
+    467,
+    211,
+    565,
+    228
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    242,
+    164,
+    259
+   ]
+  },
+  {
+   "text": "1387 A00",
+   "bbox": [
+    453,
+    242,
+    565,
+    259
+   ]
+  },
+  {
+   "text": "2 DB x 417",
+   "bbox": [
+    24,
+    273,
+    144,
+    287
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    298,
+    178,
+    319
+   ]
+  },
+  {
+   "text": "834 B00",
+   "bbox": [
+    467,
+    298,
+    565,
+    315
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    332,
+    108,
+    346
+   ]
+  },
+  {
+   "text": "68 C00",
+   "bbox": [
+    481,
+    329,
+    565,
+    346
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    360,
+    220,
+    377
+   ]
+  },
+  {
+   "text": "367 C00",
+   "bbox": [
+    467,
+    360,
+    565,
+    377
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    391,
+    234,
+    408
+   ]
+  },
+  {
+   "text": "885 C00",
+   "bbox": [
+    467,
+    391,
+    565,
+    408
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    433,
+    168,
+    454
+   ]
+  },
+  {
+   "text": "4 499 Ft",
+   "bbox": [
+    437,
+    434,
+    565,
+    454
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    474,
+    136,
+    492
+   ]
+  },
+  {
+   "text": "4 499 Ft",
+   "bbox": [
+    453,
+    475,
+    565,
+    492
+   ]
+  },
+  {
+   "text": "2026.05.22.",
+   "bbox": [
+    24,
+    520,
+    167,
+    535
+   ]
+  },
+  {
+   "text": "16:54",
+   "bbox": [
+    500,
+    520,
+    565,
+    535
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1154/99439",
+   "bbox": [
+    24,
+    549,
+    310,
+    569
+   ]
+  },
+  {
+   "text": "AP A79467834",
+   "bbox": [
+    24,
+    582,
+    180,
+    597
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    229,
+    624,
+    359,
+    641
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  589,
+  686
+ ]
+}

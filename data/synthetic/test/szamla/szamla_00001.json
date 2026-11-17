@@ -1,0 +1,390 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "A-2024/03209",
+  "kiallitas_datuma": "2024. 12. 29.",
+  "teljesites_datuma": "2024. 12. 26.",
+  "fizetesi_hatarido": "2025. 01. 28.",
+  "elado_nev": "Kelemen és Társa Kft.",
+  "elado_cim": "H-8244 Németligetbánya, Ady endre utca 246.",
+  "elado_adoszam": "45815377-2-10",
+  "vevo_nev": "Nagy Tech Kft.",
+  "vevo_cim": "H-3269 Tapolcaapáti, Kossuth út 11.",
+  "vevo_adoszam": "87965135-4-33",
+  "bankszamla": "HU18 0288 1517 1253 9088 0319 8726",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "2 130 Ft",
+  "afa_osszesen": "575 Ft",
+  "brutto_osszesen": "2 705 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 130",
+    "netto": "2 130",
+    "afa_kulcs": "27%",
+    "afa": "575",
+    "brutto": "2 705"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    539,
+    98,
+    700,
+    138
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2024/03209",
+   "bbox": [
+    429,
+    161,
+    811,
+    181
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    96,
+    242,
+    173,
+    261
+   ]
+  },
+  {
+   "text": "Kelemen és Társa Kft.",
+   "bbox": [
+    96,
+    280,
+    364,
+    299
+   ]
+  },
+  {
+   "text": "H-8244 Németligetbánya, Ady endre utca 246.",
+   "bbox": [
+    96,
+    314,
+    597,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 45815377-2-10",
+   "bbox": [
+    96,
+    346,
+    367,
+    365
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    242,
+    700,
+    261
+   ]
+  },
+  {
+   "text": "Nagy Tech Kft.",
+   "bbox": [
+    630,
+    280,
+    809,
+    304
+   ]
+  },
+  {
+   "text": "H-3269 Tapolcaapáti, Kossuth út 11.",
+   "bbox": [
+    630,
+    314,
+    1026,
+    338
+   ]
+  },
+  {
+   "text": "Adószám: 87965135-4-33",
+   "bbox": [
+    630,
+    346,
+    901,
+    365
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    96,
+    417,
+    286,
+    435
+   ]
+  },
+  {
+   "text": "2024. 12. 29.",
+   "bbox": [
+    396,
+    418,
+    541,
+    435
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    96,
+    451,
+    307,
+    474
+   ]
+  },
+  {
+   "text": "2024. 12. 26.",
+   "bbox": [
+    396,
+    452,
+    541,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    96,
+    485,
+    296,
+    503
+   ]
+  },
+  {
+   "text": "2025. 01. 28.",
+   "bbox": [
+    396,
+    486,
+    541,
+    503
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    96,
+    519,
+    250,
+    537
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    396,
+    518,
+    516,
+    542
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    565,
+    214,
+    584
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    565,
+    586,
+    584
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    565,
+    745,
+    584
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    565,
+    871,
+    580
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    882,
+    561,
+    934,
+    580
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    995,
+    561,
+    1034,
+    580
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1082,
+    565,
+    1144,
+    580
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    608,
+    601,
+    627
+   ]
+  },
+  {
+   "text": "2 130",
+   "bbox": [
+    695,
+    608,
+    745,
+    623
+   ]
+  },
+  {
+   "text": "2 130",
+   "bbox": [
+    821,
+    608,
+    871,
+    623
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    899,
+    608,
+    934,
+    623
+   ]
+  },
+  {
+   "text": "575",
+   "bbox": [
+    1000,
+    608,
+    1033,
+    623
+   ]
+  },
+  {
+   "text": "2 705",
+   "bbox": [
+    1094,
+    608,
+    1144,
+    623
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    96,
+    607,
+    337,
+    627
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    637,
+    664,
+    814,
+    684
+   ]
+  },
+  {
+   "text": "2 130 Ft",
+   "bbox": [
+    1053,
+    666,
+    1144,
+    684
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    657,
+    698,
+    814,
+    722
+   ]
+  },
+  {
+   "text": "575 Ft",
+   "bbox": [
+    1074,
+    704,
+    1144,
+    722
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    577,
+    741,
+    814,
+    760
+   ]
+  },
+  {
+   "text": "2 705 Ft",
+   "bbox": [
+    1043,
+    742,
+    1144,
+    760
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU18 0288 1517 1253 9088 0319 8726",
+   "bbox": [
+    96,
+    808,
+    666,
+    826
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

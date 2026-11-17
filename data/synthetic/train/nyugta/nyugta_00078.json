@@ -1,0 +1,250 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH KISBOLT KFT.",
+  "uzlet_cim": "H-7051 Pilishátváros, Dózsa györgy tér 125.",
+  "adoszam": "35736244-2-10",
+  "datum": "2024.12.25.",
+  "ido": "14:15",
+  "nyugtaszam": "6375/18309",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "3 659 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1165"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "517"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "504"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "836"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "637"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH KISBOLT KFT.",
+   "bbox": [
+    143,
+    28,
+    403,
+    48
+   ]
+  },
+  {
+   "text": "H-7051 Pilishátváros, Dózsa györgy tér 125.",
+   "bbox": [
+    58,
+    65,
+    488,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 35736244-2-10",
+   "bbox": [
+    163,
+    88,
+    383,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    231,
+    130,
+    315,
+    146
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    173,
+    180,
+    186
+   ]
+  },
+  {
+   "text": "1165 A00",
+   "bbox": [
+    427,
+    173,
+    523,
+    186
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    202,
+    192,
+    215
+   ]
+  },
+  {
+   "text": "517 C00",
+   "bbox": [
+    439,
+    202,
+    523,
+    215
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    231,
+    120,
+    244
+   ]
+  },
+  {
+   "text": "504 A00",
+   "bbox": [
+    439,
+    231,
+    523,
+    244
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    260,
+    204,
+    273
+   ]
+  },
+  {
+   "text": "836 C00",
+   "bbox": [
+    439,
+    260,
+    523,
+    273
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    289,
+    120,
+    302
+   ]
+  },
+  {
+   "text": "637 B00",
+   "bbox": [
+    439,
+    289,
+    523,
+    302
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    326,
+    150,
+    346
+   ]
+  },
+  {
+   "text": "3 659 Ft",
+   "bbox": [
+    411,
+    330,
+    523,
+    346
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    365,
+    156,
+    382
+   ]
+  },
+  {
+   "text": "3 659 Ft",
+   "bbox": [
+    427,
+    369,
+    523,
+    382
+   ]
+  },
+  {
+   "text": "2024.12.25.",
+   "bbox": [
+    24,
+    412,
+    134,
+    424
+   ]
+  },
+  {
+   "text": "14:15",
+   "bbox": [
+    473,
+    412,
+    523,
+    424
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6375/18309",
+   "bbox": [
+    24,
+    438,
+    244,
+    455
+   ]
+  },
+  {
+   "text": "AP A38620102",
+   "bbox": [
+    24,
+    470,
+    144,
+    482
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    190,
+    506,
+    355,
+    523
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  547,
+  569
+ ]
+}

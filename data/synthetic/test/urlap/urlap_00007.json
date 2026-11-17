@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Nagy Réka",
+  "anyja_neve": "Gulyás Erzsébet",
+  "szuletesi_hely": "Mindszenthalas",
+  "szuletesi_datum": "1983. 02. 01.",
+  "lakcim": "H-8115 Győr, Kecskeméti utca 232.",
+  "telefon": "+36 30 956 1620",
+  "email": "nagy.reka@outlook.com",
+  "adoazonosito_jel": "8423997934",
+  "taj_szam": "311 441 329",
+  "kelt": "Hetvenhida, 2026. 06. 13."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    317,
+    105,
+    923,
+    139
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    215,
+    329,
+    237
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    270,
+    158,
+    285
+   ]
+  },
+  {
+   "text": "Nagy Réka",
+   "bbox": [
+    442,
+    272,
+    558,
+    294
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    323,
+    221,
+    342
+   ]
+  },
+  {
+   "text": "Gulyás Erzsébet",
+   "bbox": [
+    442,
+    322,
+    614,
+    344
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    376,
+    245,
+    395
+   ]
+  },
+  {
+   "text": "Mindszenthalas",
+   "bbox": [
+    442,
+    373,
+    604,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    429,
+    235,
+    444
+   ]
+  },
+  {
+   "text": "1983. 02. 01.",
+   "bbox": [
+    442,
+    429,
+    576,
+    446
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    482,
+    188,
+    497
+   ]
+  },
+  {
+   "text": "H-8115 Győr, Kecskeméti utca 232.",
+   "bbox": [
+    442,
+    481,
+    809,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    117,
+    535,
+    237,
+    550
+   ]
+  },
+  {
+   "text": "+36 30 956 1620",
+   "bbox": [
+    442,
+    537,
+    616,
+    554
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    588,
+    218,
+    603
+   ]
+  },
+  {
+   "text": "nagy.reka@outlook.com",
+   "bbox": [
+    442,
+    586,
+    693,
+    608
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    641,
+    270,
+    660
+   ]
+  },
+  {
+   "text": "8423997934",
+   "bbox": [
+    442,
+    640,
+    572,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    117,
+    694,
+    212,
+    709
+   ]
+  },
+  {
+   "text": "311 441 329",
+   "bbox": [
+    442,
+    691,
+    571,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    773,
+    280,
+    795
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    818,
+    463,
+    837
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    863,
+    295,
+    878
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    908,
+    481,
+    927
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    1012,
+    148,
+    1027
+   ]
+  },
+  {
+   "text": "Hetvenhida, 2026. 06. 13.",
+   "bbox": [
+    195,
+    1007,
+    459,
+    1027
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    919,
+    1061,
+    970,
+    1073
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

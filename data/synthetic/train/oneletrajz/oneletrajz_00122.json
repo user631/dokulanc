@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Horváth Mária",
+  "email": "horvath.maria@citromail.hu",
+  "telefon": "+36 20 857 6956",
+  "lakcim": "H-1419 Lajosfürdőváros, Veszprémi utca 216.",
+  "szuletesi_datum": "1983.07.21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2003 – 2006"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1999 – 2003"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Dudás Consulting Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "ceg": "Fekete Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2007 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    106,
+    213,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    97,
+    167
+   ]
+  },
+  {
+   "text": "horvath.maria@citromail.hu",
+   "bbox": [
+    40,
+    176,
+    275,
+    194
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    109,
+    223
+   ]
+  },
+  {
+   "text": "+36 20 857 6956",
+   "bbox": [
+    40,
+    232,
+    187,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    264,
+    107,
+    279
+   ]
+  },
+  {
+   "text": "H-1419 Lajosfürdőváros, Veszprémi",
+   "bbox": [
+    40,
+    288,
+    350,
+    306
+   ]
+  },
+  {
+   "text": "utca 216.",
+   "bbox": [
+    40,
+    311,
+    120,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    343,
+    187,
+    358
+   ]
+  },
+  {
+   "text": "1983.07.21.",
+   "bbox": [
+    40,
+    367,
+    143,
+    381
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    426,
+    196,
+    447
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    469,
+    152,
+    488
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    496,
+    144,
+    515
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    549,
+    181,
+    570
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    592,
+    102,
+    611
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    619,
+    65,
+    634
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    646,
+    160,
+    665
+   ]
+  },
+  {
+   "text": "Horváth Mária",
+   "bbox": [
+    450,
+    114,
+    751,
+    147
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    184,
+    637,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    688,
+    270
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    298,
+    570,
+    313
+   ]
+  },
+  {
+   "text": "adatelemző – Dudás Consulting Zrt.",
+   "bbox": [
+    450,
+    321,
+    817,
+    342
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    450,
+    364,
+    570,
+    379
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Fekete Logisztika Kft.",
+   "bbox": [
+    450,
+    387,
+    914,
+    408
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    438,
+    610,
+    463
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    450,
+    491,
+    570,
+    506
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    514,
+    710,
+    535
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    541,
+    587,
+    560
+   ]
+  },
+  {
+   "text": "1999 – 2003",
+   "bbox": [
+    450,
+    582,
+    570,
+    597
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    605,
+    704,
+    626
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    632,
+    695,
+    651
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

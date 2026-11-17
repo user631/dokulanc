@@ -1,0 +1,290 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PINTÉR DISZKONT BT.",
+  "uzlet_cim": "H-4979 Székfa, Mezőgyörgyi utca 103.",
+  "adoszam": "34692048-2-25",
+  "datum": "2025.07.16.",
+  "ido": "20:35",
+  "nyugtaszam": "2444/86859",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "6 701 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3026"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "670"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "807"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "537"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1124"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "537"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PINTÉR DISZKONT BT.",
+   "bbox": [
+    170,
+    30,
+    455,
+    51
+   ]
+  },
+  {
+   "text": "H-4979 Székfa, Mezőgyörgyi utca 103.",
+   "bbox": [
+    79,
+    70,
+    547,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34692048-2-25",
+   "bbox": [
+    170,
+    94,
+    456,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    264,
+    140,
+    362,
+    156
+   ]
+  },
+  {
+   "text": "2 DB x 1513",
+   "bbox": [
+    24,
+    182,
+    156,
+    195
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    209,
+    164,
+    223
+   ]
+  },
+  {
+   "text": "3026 B00",
+   "bbox": [
+    490,
+    209,
+    602,
+    223
+   ]
+  },
+  {
+   "text": "2 DB x 335",
+   "bbox": [
+    24,
+    238,
+    144,
+    251
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    265,
+    178,
+    282
+   ]
+  },
+  {
+   "text": "670 A00",
+   "bbox": [
+    504,
+    265,
+    602,
+    279
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    296,
+    248,
+    310
+   ]
+  },
+  {
+   "text": "807 C00",
+   "bbox": [
+    504,
+    296,
+    602,
+    310
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    328,
+    220,
+    341
+   ]
+  },
+  {
+   "text": "537 B00",
+   "bbox": [
+    504,
+    327,
+    602,
+    341
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    358,
+    136,
+    372
+   ]
+  },
+  {
+   "text": "1124 A00",
+   "bbox": [
+    490,
+    358,
+    602,
+    372
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    389,
+    136,
+    403
+   ]
+  },
+  {
+   "text": "537 B00",
+   "bbox": [
+    504,
+    389,
+    602,
+    403
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    427,
+    184,
+    449
+   ]
+  },
+  {
+   "text": "6 701 Ft",
+   "bbox": [
+    474,
+    432,
+    602,
+    449
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    470,
+    164,
+    487
+   ]
+  },
+  {
+   "text": "6 701 Ft",
+   "bbox": [
+    490,
+    473,
+    602,
+    487
+   ]
+  },
+  {
+   "text": "2025.07.16.",
+   "bbox": [
+    24,
+    517,
+    167,
+    530
+   ]
+  },
+  {
+   "text": "20:35",
+   "bbox": [
+    537,
+    517,
+    602,
+    530
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2444/86859",
+   "bbox": [
+    24,
+    545,
+    310,
+    563
+   ]
+  },
+  {
+   "text": "AP A10174557",
+   "bbox": [
+    24,
+    579,
+    180,
+    592
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    170,
+    618,
+    456,
+    636
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  626,
+  680
+ ]
+}

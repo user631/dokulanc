@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Varga Csaba",
+  "anyja_neve": "Kiss Edit",
+  "szuletesi_hely": "Székfalu",
+  "szuletesi_datum": "1978. 03. 07.",
+  "lakcim": "H-3771 Salgótarján, Arany jános utca 96.",
+  "telefon": "+36 30 433 3653",
+  "email": "varga.csaba@citromail.hu",
+  "adoazonosito_jel": "8406070862",
+  "taj_szam": "903 492 519",
+  "kelt": "Székfa, 2026. 08. 08."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    526,
+    94,
+    715,
+    124
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    203,
+    283,
+    222
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    259,
+    144,
+    272
+   ]
+  },
+  {
+   "text": "Varga Csaba",
+   "bbox": [
+    421,
+    258,
+    533,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    311,
+    199,
+    327
+   ]
+  },
+  {
+   "text": "Kiss Edit",
+   "bbox": [
+    421,
+    307,
+    495,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    363,
+    217,
+    379
+   ]
+  },
+  {
+   "text": "Székfalu",
+   "bbox": [
+    421,
+    362,
+    496,
+    378
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    415,
+    209,
+    428
+   ]
+  },
+  {
+   "text": "1978. 03. 07.",
+   "bbox": [
+    421,
+    417,
+    537,
+    431
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    467,
+    167,
+    480
+   ]
+  },
+  {
+   "text": "H-3771 Salgótarján, Arany jános utca 96.",
+   "bbox": [
+    421,
+    468,
+    788,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    519,
+    211,
+    532
+   ]
+  },
+  {
+   "text": "+36 30 433 3653",
+   "bbox": [
+    421,
+    516,
+    568,
+    530
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    571,
+    192,
+    584
+   ]
+  },
+  {
+   "text": "varga.csaba@citromail.hu",
+   "bbox": [
+    421,
+    569,
+    659,
+    588
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    623,
+    242,
+    639
+   ]
+  },
+  {
+   "text": "8406070862",
+   "bbox": [
+    421,
+    621,
+    531,
+    635
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    675,
+    184,
+    688
+   ]
+  },
+  {
+   "text": "903 492 519",
+   "bbox": [
+    421,
+    673,
+    530,
+    687
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    751,
+    246,
+    770
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    797,
+    410,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    842,
+    267,
+    855
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    887,
+    423,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    987,
+    134,
+    1001
+   ]
+  },
+  {
+   "text": "Székfa, 2026. 08. 08.",
+   "bbox": [
+    187,
+    983,
+    371,
+    1003
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1037,
+    975,
+    1048
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

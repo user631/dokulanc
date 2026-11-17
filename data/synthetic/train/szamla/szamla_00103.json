@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2025/00377",
+  "kiallitas_datuma": "2025.09.12.",
+  "teljesites_datuma": "2025.09.09.",
+  "fizetesi_hatarido": "2025.09.27.",
+  "elado_nev": "Fodor és Társa Kft.",
+  "elado_cim": "H-6761 Hajdúszékkövesd, Arany jános út 24.",
+  "elado_adoszam": "15880231-2-32",
+  "vevo_nev": "Szabó Trade Zrt.",
+  "vevo_cim": "H-4550 Szeged, Szolnoki utca 110.",
+  "vevo_adoszam": "46291204-4-06",
+  "bankszamla": "HU06 3497 3523 9065 7315 6191 4937",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "21 400 Ft",
+  "afa_osszesen": "5 778 Ft",
+  "brutto_osszesen": "27 178 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "5 db",
+    "egysegar": "4 280",
+    "netto": "21 400",
+    "afa_kulcs": "27%",
+    "afa": "5 778",
+    "brutto": "27 178"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FODOR",
+   "bbox": [
+    106,
+    106,
+    194,
+    123
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    774,
+    80,
+    1170,
+    119
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/00377",
+   "bbox": [
+    936,
+    145,
+    1170,
+    162
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    226,
+    138,
+    242
+   ]
+  },
+  {
+   "text": "Fodor és Társa Kft.",
+   "bbox": [
+    70,
+    262,
+    272,
+    278
+   ]
+  },
+  {
+   "text": "H-6761 Hajdúszékkövesd, Arany jános út 24.",
+   "bbox": [
+    70,
+    294,
+    477,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 15880231-2-32",
+   "bbox": [
+    70,
+    324,
+    301,
+    340
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    226,
+    690,
+    242
+   ]
+  },
+  {
+   "text": "Szabó Trade Zrt.",
+   "bbox": [
+    630,
+    262,
+    807,
+    278
+   ]
+  },
+  {
+   "text": "H-4550 Szeged, Szolnoki utca 110.",
+   "bbox": [
+    630,
+    294,
+    945,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 46291204-4-06",
+   "bbox": [
+    630,
+    324,
+    861,
+    340
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    70,
+    392,
+    207,
+    405
+   ]
+  },
+  {
+   "text": "2025.09.12.",
+   "bbox": [
+    70,
+    421,
+    173,
+    435
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    345,
+    392,
+    487,
+    409
+   ]
+  },
+  {
+   "text": "2025.09.09.",
+   "bbox": [
+    345,
+    421,
+    448,
+    435
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    392,
+    755,
+    405
+   ]
+  },
+  {
+   "text": "2025.09.27.",
+   "bbox": [
+    620,
+    421,
+    723,
+    435
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    895,
+    392,
+    996,
+    405
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    895,
+    420,
+    972,
+    439
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    470,
+    166,
+    487
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    471,
+    573,
+    487
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    676,
+    470,
+    753,
+    487
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    840,
+    470,
+    884,
+    483
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    467,
+    950,
+    483
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    467,
+    1054,
+    483
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1116,
+    470,
+    1170,
+    483
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    510,
+    511,
+    545,
+    524
+   ]
+  },
+  {
+   "text": "4 280",
+   "bbox": [
+    707,
+    512,
+    752,
+    524
+   ]
+  },
+  {
+   "text": "21 400",
+   "bbox": [
+    829,
+    512,
+    884,
+    524
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    914,
+    512,
+    950,
+    524
+   ]
+  },
+  {
+   "text": "5 778",
+   "bbox": [
+    1009,
+    512,
+    1054,
+    524
+   ]
+  },
+  {
+   "text": "27 178",
+   "bbox": [
+    1115,
+    512,
+    1170,
+    524
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    70,
+    511,
+    223,
+    528
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    695,
+    567,
+    840,
+    583
+   ]
+  },
+  {
+   "text": "21 400 Ft",
+   "bbox": [
+    1079,
+    568,
+    1171,
+    583
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    700,
+    599,
+    840,
+    619
+   ]
+  },
+  {
+   "text": "5 778 Ft",
+   "bbox": [
+    1091,
+    604,
+    1171,
+    619
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    664,
+    640,
+    840,
+    660
+   ]
+  },
+  {
+   "text": "27 178 Ft",
+   "bbox": [
+    1076,
+    640,
+    1170,
+    655
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU06 3497 3523 9065 7315 6191 4937",
+   "bbox": [
+    70,
+    704,
+    571,
+    719
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

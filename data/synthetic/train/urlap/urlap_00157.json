@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Tóth Margit",
+  "anyja_neve": "Balogh Valéria",
+  "szuletesi_hely": "Dunafürdőbánya",
+  "szuletesi_datum": "2002. 03. 28.",
+  "lakcim": "H-2179 Vác, József attila utca 87.",
+  "telefon": "+36 30 649 4248",
+  "email": "toth.margit@example.hu",
+  "adoazonosito_jel": "8493948969",
+  "taj_szam": "441 220 412",
+  "kelt": "Bánya, 2024. 08. 21."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    427,
+    84,
+    813,
+    121
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    457,
+    140,
+    783,
+    157
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    84,
+    193,
+    341,
+    215
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    96,
+    247,
+    141,
+    262
+   ]
+  },
+  {
+   "text": "Tóth Margit",
+   "bbox": [
+    398,
+    248,
+    526,
+    270
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    96,
+    300,
+    211,
+    318
+   ]
+  },
+  {
+   "text": "Balogh Valéria",
+   "bbox": [
+    398,
+    296,
+    556,
+    318
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    96,
+    351,
+    235,
+    370
+   ]
+  },
+  {
+   "text": "Dunafürdőbánya",
+   "bbox": [
+    398,
+    348,
+    581,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    96,
+    403,
+    225,
+    418
+   ]
+  },
+  {
+   "text": "2002. 03. 28.",
+   "bbox": [
+    398,
+    402,
+    550,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    96,
+    455,
+    171,
+    470
+   ]
+  },
+  {
+   "text": "H-2179 Vác, József attila utca 87.",
+   "bbox": [
+    398,
+    455,
+    774,
+    477
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    507,
+    224,
+    522
+   ]
+  },
+  {
+   "text": "+36 30 649 4248",
+   "bbox": [
+    398,
+    507,
+    594,
+    523
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    96,
+    559,
+    205,
+    574
+   ]
+  },
+  {
+   "text": "toth.margit@example.hu",
+   "bbox": [
+    398,
+    559,
+    674,
+    580
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    96,
+    611,
+    263,
+    630
+   ]
+  },
+  {
+   "text": "8493948969",
+   "bbox": [
+    398,
+    614,
+    538,
+    630
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    663,
+    195,
+    678
+   ]
+  },
+  {
+   "text": "441 220 412",
+   "bbox": [
+    398,
+    660,
+    540,
+    676
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    84,
+    742,
+    288,
+    763
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    129,
+    785,
+    461,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    129,
+    830,
+    283,
+    845
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    129,
+    875,
+    482,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    84,
+    978,
+    132,
+    994
+   ]
+  },
+  {
+   "text": "Bánya, 2024. 08. 21.",
+   "bbox": [
+    174,
+    974,
+    410,
+    996
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    939,
+    1027,
+    992,
+    1040
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

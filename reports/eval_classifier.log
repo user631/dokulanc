@@ -1,0 +1,11 @@
+              arch  teszt_accuracy  teszt_makro_f1  parameterek_M  tanitasi_ido_s
+   efficientnet_b0        0.931765        0.938236           4.01           193.5
+mobilenet_v3_large        0.917647        0.923711           4.21           190.5
+          resnet18        0.924706        0.930695          11.18           142.0
+halmaz    forras valtozat  db  accuracy  atlagos_valoszinuseg
+  test       rvl          125     0.744              0.722524
+  test synthetic    clean  62     1.000              0.906758
+  test synthetic    photo 113     1.000              0.908400
+  test synthetic     scan 125     1.000              0.910114
+Küszöb alatti (0.6) predikciók: 33 / 425, ebből hibás: 17; küszöb feletti hibás: 15
+Teszt accuracy: 0.9247, makró F1: 0.9307

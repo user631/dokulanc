@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2026/08025",
+  "kiallitas_datuma": "2026.01.10.",
+  "teljesites_datuma": "2026.01.10.",
+  "fizetesi_hatarido": "2026.01.25.",
+  "elado_nev": "Papp Tech Bt.",
+  "elado_cim": "H-3163 Hetvenváros, Mártonvárosi utca 48.",
+  "elado_adoszam": "49039588-2-08",
+  "vevo_nev": "Kovács Szolgáltató Bt.",
+  "vevo_cim": "H-3302 Salgótarján, Mártonnádasdi utca 15.",
+  "vevo_adoszam": "64168818-4-25",
+  "bankszamla": "13125732-41166994",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "80 370 Ft",
+  "afa_osszesen": "21 701 Ft",
+  "brutto_osszesen": "102 071 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "11 610",
+    "netto": "11 610",
+    "afa_kulcs": "27%",
+    "afa": "3 135",
+    "brutto": "14 745"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "35 310",
+    "netto": "35 310",
+    "afa_kulcs": "27%",
+    "afa": "9 534",
+    "brutto": "44 844"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "5 oldal",
+    "egysegar": "6 690",
+    "netto": "33 450",
+    "afa_kulcs": "27%",
+    "afa": "9 032",
+    "brutto": "42 482"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    437,
+    93,
+    804,
+    133
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2026/08025",
+   "bbox": [
+    429,
+    156,
+    810,
+    176
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    91,
+    237,
+    168,
+    256
+   ]
+  },
+  {
+   "text": "Papp Tech Bt.",
+   "bbox": [
+    91,
+    275,
+    260,
+    299
+   ]
+  },
+  {
+   "text": "H-3163 Hetvenváros, Mártonvárosi utca 48.",
+   "bbox": [
+    91,
+    309,
+    561,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 49039588-2-08",
+   "bbox": [
+    91,
+    341,
+    362,
+    360
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    237,
+    700,
+    256
+   ]
+  },
+  {
+   "text": "Kovács Szolgáltató Bt.",
+   "bbox": [
+    630,
+    275,
+    898,
+    299
+   ]
+  },
+  {
+   "text": "H-3302 Salgótarján, Mártonnádasdi utca 15.",
+   "bbox": [
+    630,
+    309,
+    1108,
+    333
+   ]
+  },
+  {
+   "text": "Adószám: 64168818-4-25",
+   "bbox": [
+    630,
+    341,
+    901,
+    360
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    91,
+    412,
+    281,
+    430
+   ]
+  },
+  {
+   "text": "2026.01.10.",
+   "bbox": [
+    391,
+    413,
+    522,
+    430
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    91,
+    446,
+    302,
+    469
+   ]
+  },
+  {
+   "text": "2026.01.10.",
+   "bbox": [
+    391,
+    447,
+    522,
+    464
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    91,
+    480,
+    291,
+    498
+   ]
+  },
+  {
+   "text": "2026.01.25.",
+   "bbox": [
+    391,
+    481,
+    522,
+    498
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    91,
+    514,
+    245,
+    532
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    391,
+    513,
+    487,
+    537
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    560,
+    209,
+    579
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    560,
+    585,
+    579
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    660,
+    560,
+    746,
+    579
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    560,
+    873,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    556,
+    937,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    999,
+    556,
+    1038,
+    575
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1087,
+    560,
+    1149,
+    575
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    603,
+    555,
+    618
+   ]
+  },
+  {
+   "text": "11 610",
+   "bbox": [
+    685,
+    603,
+    746,
+    618
+   ]
+  },
+  {
+   "text": "11 610",
+   "bbox": [
+    812,
+    603,
+    873,
+    618
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    603,
+    937,
+    618
+   ]
+  },
+  {
+   "text": "3 135",
+   "bbox": [
+    987,
+    603,
+    1037,
+    618
+   ]
+  },
+  {
+   "text": "14 745",
+   "bbox": [
+    1088,
+    603,
+    1149,
+    618
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    91,
+    602,
+    244,
+    618
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    514,
+    640,
+    604,
+    655
+   ]
+  },
+  {
+   "text": "35 310",
+   "bbox": [
+    685,
+    640,
+    746,
+    655
+   ]
+  },
+  {
+   "text": "35 310",
+   "bbox": [
+    812,
+    640,
+    873,
+    655
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    640,
+    937,
+    655
+   ]
+  },
+  {
+   "text": "9 534",
+   "bbox": [
+    987,
+    640,
+    1037,
+    655
+   ]
+  },
+  {
+   "text": "44 844",
+   "bbox": [
+    1088,
+    640,
+    1149,
+    655
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    91,
+    639,
+    301,
+    659
+   ]
+  },
+  {
+   "text": "5 oldal",
+   "bbox": [
+    514,
+    677,
+    577,
+    692
+   ]
+  },
+  {
+   "text": "6 690",
+   "bbox": [
+    696,
+    677,
+    746,
+    692
+   ]
+  },
+  {
+   "text": "33 450",
+   "bbox": [
+    812,
+    677,
+    873,
+    692
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    677,
+    937,
+    692
+   ]
+  },
+  {
+   "text": "9 032",
+   "bbox": [
+    987,
+    677,
+    1037,
+    692
+   ]
+  },
+  {
+   "text": "42 482",
+   "bbox": [
+    1088,
+    677,
+    1149,
+    692
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    91,
+    676,
+    341,
+    696
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    733,
+    819,
+    753
+   ]
+  },
+  {
+   "text": "80 370 Ft",
+   "bbox": [
+    1045,
+    735,
+    1149,
+    753
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    767,
+    819,
+    791
+   ]
+  },
+  {
+   "text": "21 701 Ft",
+   "bbox": [
+    1045,
+    773,
+    1149,
+    791
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    611,
+    810,
+    819,
+    834
+   ]
+  },
+  {
+   "text": "102 071 Ft",
+   "bbox": [
+    1018,
+    811,
+    1149,
+    829
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 13125732-41166994",
+   "bbox": [
+    91,
+    877,
+    477,
+    895
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    469,
+    1643,
+    770,
+    1662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

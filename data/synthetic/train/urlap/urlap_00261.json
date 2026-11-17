@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Tóth Krisztina",
+  "anyja_neve": "Kelemen István",
+  "szuletesi_hely": "Vácgyörgyapáti",
+  "szuletesi_datum": "1975. 08. 22.",
+  "lakcim": "H-3039 Kaposvár, Ligetharasztii utca 221.",
+  "telefon": "+36 70 616 1456",
+  "email": "toth.krisztina@citromail.hu",
+  "adoazonosito_jel": "8396798036",
+  "taj_szam": "758 259 874",
+  "kelt": "Szeged, 2025. 10. 30."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    534,
+    116,
+    706,
+    142
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    483,
+    164,
+    757,
+    180
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    109,
+    216,
+    321,
+    237
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    121,
+    272,
+    161,
+    286
+   ]
+  },
+  {
+   "text": "Tóth Krisztina",
+   "bbox": [
+    427,
+    269,
+    630,
+    298
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    324,
+    223,
+    342
+   ]
+  },
+  {
+   "text": "Kelemen István",
+   "bbox": [
+    427,
+    315,
+    643,
+    338
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    121,
+    376,
+    246,
+    394
+   ]
+  },
+  {
+   "text": "Vácgyörgyapáti",
+   "bbox": [
+    427,
+    370,
+    648,
+    397
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    121,
+    428,
+    236,
+    442
+   ]
+  },
+  {
+   "text": "1975. 08. 22.",
+   "bbox": [
+    427,
+    425,
+    595,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    121,
+    480,
+    189,
+    494
+   ]
+  },
+  {
+   "text": "H-3039 Kaposvár, Ligetharasztii utca 221.",
+   "bbox": [
+    427,
+    473,
+    1002,
+    502
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    121,
+    532,
+    238,
+    546
+   ]
+  },
+  {
+   "text": "+36 70 616 1456",
+   "bbox": [
+    427,
+    531,
+    643,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    121,
+    584,
+    216,
+    598
+   ]
+  },
+  {
+   "text": "toth.krisztina@citromail.hu",
+   "bbox": [
+    427,
+    581,
+    821,
+    610
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    636,
+    270,
+    654
+   ]
+  },
+  {
+   "text": "8396798036",
+   "bbox": [
+    427,
+    637,
+    587,
+    655
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    121,
+    688,
+    213,
+    702
+   ]
+  },
+  {
+   "text": "758 259 874",
+   "bbox": [
+    427,
+    686,
+    588,
+    706
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    109,
+    765,
+    273,
+    785
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    154,
+    810,
+    461,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    154,
+    855,
+    293,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    900,
+    477,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    109,
+    1002,
+    149,
+    1017
+   ]
+  },
+  {
+   "text": "Szeged, 2025. 10. 30.",
+   "bbox": [
+    199,
+    997,
+    454,
+    1024
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    917,
+    1051,
+    965,
+    1063
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

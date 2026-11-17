@@ -1,0 +1,462 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2025/08988",
+  "kiallitas_datuma": "2025. 01. 13.",
+  "teljesites_datuma": "2025. 01. 09.",
+  "fizetesi_hatarido": "2025. 02. 12.",
+  "elado_nev": "Gulyás Tech Bt.",
+  "elado_cim": "H-8833 Kecskemét, Drávahetveni tér 214.",
+  "elado_adoszam": "82167631-2-19",
+  "vevo_nev": "Vincze Szolgáltató Kft.",
+  "vevo_cim": "H-3737 Alsóhátháza, Borsodtóti utca 184.",
+  "vevo_adoszam": "59953742-2-05",
+  "bankszamla": "HU40 6081 0386 6049 7565 3344 1654",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "250 770 Ft",
+  "afa_osszesen": "67 708 Ft",
+  "brutto_osszesen": "318 478 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "3 db",
+    "egysegar": "3 590",
+    "netto": "10 770",
+    "afa_kulcs": "27%",
+    "afa": "2 908",
+    "brutto": "13 678"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "48 000",
+    "netto": "240 000",
+    "afa_kulcs": "27%",
+    "afa": "64 800",
+    "brutto": "304 800"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    399,
+    96,
+    841,
+    133
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/08988",
+   "bbox": [
+    418,
+    152,
+    822,
+    178
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    86,
+    233,
+    160,
+    254
+   ]
+  },
+  {
+   "text": "Vincze Szolgáltató Kft.",
+   "bbox": [
+    86,
+    271,
+    384,
+    297
+   ]
+  },
+  {
+   "text": "H-3737 Alsóhátháza, Borsodtóti utca 184.",
+   "bbox": [
+    87,
+    307,
+    528,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 59953742-2-05",
+   "bbox": [
+    86,
+    339,
+    359,
+    358
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    233,
+    711,
+    254
+   ]
+  },
+  {
+   "text": "Gulyás Tech Bt.",
+   "bbox": [
+    630,
+    271,
+    833,
+    297
+   ]
+  },
+  {
+   "text": "H-8833 Kecskemét, Drávahetveni tér 214.",
+   "bbox": [
+    630,
+    307,
+    1077,
+    331
+   ]
+  },
+  {
+   "text": "Adószám: 82167631-2-19",
+   "bbox": [
+    629,
+    339,
+    902,
+    358
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    87,
+    408,
+    259,
+    425
+   ]
+  },
+  {
+   "text": "2025. 01. 13.",
+   "bbox": [
+    87,
+    440,
+    226,
+    457
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    353,
+    408,
+    540,
+    429
+   ]
+  },
+  {
+   "text": "2025. 01. 09.",
+   "bbox": [
+    353,
+    440,
+    492,
+    457
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    408,
+    793,
+    425
+   ]
+  },
+  {
+   "text": "2025. 02. 12.",
+   "bbox": [
+    619,
+    440,
+    758,
+    457
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    408,
+    1016,
+    425
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    885,
+    438,
+    976,
+    462
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    87,
+    490,
+    214,
+    511
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    491,
+    589,
+    511
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    490,
+    748,
+    511
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    490,
+    875,
+    507
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    486,
+    939,
+    507
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    486,
+    1042,
+    507
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    490,
+    1153,
+    507
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    513,
+    533,
+    555,
+    550
+   ]
+  },
+  {
+   "text": "3 590",
+   "bbox": [
+    696,
+    534,
+    747,
+    550
+   ]
+  },
+  {
+   "text": "10 770",
+   "bbox": [
+    813,
+    534,
+    875,
+    550
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    534,
+    939,
+    550
+   ]
+  },
+  {
+   "text": "2 908",
+   "bbox": [
+    990,
+    534,
+    1041,
+    550
+   ]
+  },
+  {
+   "text": "13 678",
+   "bbox": [
+    1091,
+    534,
+    1153,
+    550
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    87,
+    533,
+    271,
+    554
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    513,
+    570,
+    553,
+    587
+   ]
+  },
+  {
+   "text": "48 000",
+   "bbox": [
+    685,
+    571,
+    747,
+    587
+   ]
+  },
+  {
+   "text": "240 000",
+   "bbox": [
+    802,
+    571,
+    875,
+    587
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    896,
+    571,
+    939,
+    587
+   ]
+  },
+  {
+   "text": "64 800",
+   "bbox": [
+    979,
+    571,
+    1041,
+    587
+   ]
+  },
+  {
+   "text": "304 800",
+   "bbox": [
+    1080,
+    571,
+    1153,
+    587
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    87,
+    570,
+    256,
+    591
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    627,
+    823,
+    648
+   ]
+  },
+  {
+   "text": "250 770 Ft",
+   "bbox": [
+    1032,
+    629,
+    1154,
+    648
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    664,
+    660,
+    823,
+    686
+   ]
+  },
+  {
+   "text": "67 708 Ft",
+   "bbox": [
+    1046,
+    667,
+    1154,
+    686
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    571,
+    703,
+    823,
+    724
+   ]
+  },
+  {
+   "text": "318 478 Ft",
+   "bbox": [
+    1018,
+    705,
+    1154,
+    724
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU40 6081 0386 6049 7565 3344 1654",
+   "bbox": [
+    87,
+    771,
+    682,
+    790
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

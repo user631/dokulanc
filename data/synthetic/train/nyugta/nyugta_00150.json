@@ -1,0 +1,398 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "BOROS MARKET KFT.",
+  "uzlet_cim": "H-6989 Szerbligetapáti, Egeri utca 245.",
+  "adoszam": "74166642-2-28",
+  "datum": "2026.10.30.",
+  "ido": "17:26",
+  "nyugtaszam": "2307/56112",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "13 798 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "75"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1338"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1218"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "714"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2499"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1641"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2586"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "704"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "323"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2200"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOROS MARKET KFT.",
+   "bbox": [
+    177,
+    34,
+    415,
+    49
+   ]
+  },
+  {
+   "text": "H-6989 Szerbligetapáti, Egeri utca 245.",
+   "bbox": [
+    62,
+    64,
+    530,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 74166642-2-28",
+   "bbox": [
+    164,
+    90,
+    428,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    135,
+    344,
+    151
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    178,
+    102,
+    192
+   ]
+  },
+  {
+   "text": "75 C00",
+   "bbox": [
+    491,
+    176,
+    569,
+    192
+   ]
+  },
+  {
+   "text": "2 DB x 669",
+   "bbox": [
+    24,
+    205,
+    134,
+    219
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    230,
+    232,
+    246
+   ]
+  },
+  {
+   "text": "1338 B00",
+   "bbox": [
+    465,
+    230,
+    569,
+    246
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    262,
+    154,
+    276
+   ]
+  },
+  {
+   "text": "1218 B00",
+   "bbox": [
+    465,
+    260,
+    569,
+    276
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    290,
+    141,
+    306
+   ]
+  },
+  {
+   "text": "714 C00",
+   "bbox": [
+    478,
+    290,
+    569,
+    306
+   ]
+  },
+  {
+   "text": "3 DB x 833",
+   "bbox": [
+    24,
+    319,
+    134,
+    333
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    344,
+    128,
+    360
+   ]
+  },
+  {
+   "text": "2499 C00",
+   "bbox": [
+    465,
+    344,
+    569,
+    360
+   ]
+  },
+  {
+   "text": "3 DB x 547",
+   "bbox": [
+    24,
+    373,
+    134,
+    387
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    398,
+    128,
+    414
+   ]
+  },
+  {
+   "text": "1641 C00",
+   "bbox": [
+    465,
+    398,
+    569,
+    414
+   ]
+  },
+  {
+   "text": "2 DB x 1293",
+   "bbox": [
+    24,
+    427,
+    145,
+    441
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    452,
+    154,
+    468
+   ]
+  },
+  {
+   "text": "2586 A00",
+   "bbox": [
+    465,
+    452,
+    569,
+    468
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    482,
+    128,
+    498
+   ]
+  },
+  {
+   "text": "704 C00",
+   "bbox": [
+    478,
+    482,
+    569,
+    498
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    514,
+    193,
+    528
+   ]
+  },
+  {
+   "text": "323 B00",
+   "bbox": [
+    478,
+    512,
+    569,
+    528
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    542,
+    271,
+    558
+   ]
+  },
+  {
+   "text": "2200 A00",
+   "bbox": [
+    465,
+    542,
+    569,
+    558
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    582,
+    168,
+    603
+   ]
+  },
+  {
+   "text": "13 798 Ft",
+   "bbox": [
+    425,
+    584,
+    569,
+    603
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    623,
+    128,
+    640
+   ]
+  },
+  {
+   "text": "13 798 Ft",
+   "bbox": [
+    452,
+    624,
+    569,
+    640
+   ]
+  },
+  {
+   "text": "2026.10.30.",
+   "bbox": [
+    24,
+    668,
+    156,
+    682
+   ]
+  },
+  {
+   "text": "17:26",
+   "bbox": [
+    509,
+    668,
+    569,
+    682
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2307/56112",
+   "bbox": [
+    24,
+    696,
+    288,
+    715
+   ]
+  },
+  {
+   "text": "AP A26328932",
+   "bbox": [
+    24,
+    728,
+    168,
+    742
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    231,
+    768,
+    361,
+    785
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  593,
+  830
+ ]
+}

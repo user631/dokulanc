@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Bálint Magdolna",
+  "email": "balint.magdolna@gmail.com",
+  "telefon": "06 1 289 7970",
+  "lakcim": "H-2019 Székfa, Nyíregyházai utca 191.",
+  "szuletesi_datum": "1991. szeptember 29.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2010 – 2014"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2018 – 2020"
+   },
+   {
+    "ceg": "Varga Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "SAP",
+   "prezentáció",
+   "C#",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bálint Magdolna",
+   "bbox": [
+    446,
+    98,
+    793,
+    143
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    167,
+    715,
+    185
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    159,
+    234
+   ]
+  },
+  {
+   "text": "balint.magdolna@gmail.com",
+   "bbox": [
+    330,
+    219,
+    595,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    249,
+    173,
+    265
+   ]
+  },
+  {
+   "text": "06 1 289 7970",
+   "bbox": [
+    330,
+    250,
+    458,
+    265
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    280,
+    168,
+    296
+   ]
+  },
+  {
+   "text": "H-2019 Székfa, Nyíregyházai utca 191.",
+   "bbox": [
+    330,
+    280,
+    688,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    311,
+    252,
+    327
+   ]
+  },
+  {
+   "text": "1991. szeptember 29.",
+   "bbox": [
+    330,
+    312,
+    533,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    363,
+    320,
+    387
+   ]
+  },
+  {
+   "text": "2018 – 2020",
+   "bbox": [
+    90,
+    414,
+    198,
+    429
+   ]
+  },
+  {
+   "text": "irodavezető – Varga Consulting Kft.",
+   "bbox": [
+    90,
+    438,
+    453,
+    460
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    480,
+    198,
+    495
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Varga Logisztika Kft.",
+   "bbox": [
+    90,
+    504,
+    541,
+    526
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    556,
+    245,
+    580
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    607,
+    198,
+    622
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    631,
+    293,
+    653
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    656,
+    334,
+    676
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    698,
+    198,
+    713
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    722,
+    339,
+    744
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    748,
+    274,
+    767
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    799,
+    218,
+    823
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    850,
+    182,
+    869
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    897,
+    209,
+    921
+   ]
+  },
+  {
+   "text": "Git, SAP, prezentáció, C#, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    947,
+    569,
+    967
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

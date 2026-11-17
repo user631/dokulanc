@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HEGEDÜS ABC BT.",
+  "uzlet_cim": "H-1794 Pilisgyörgyfalu, Tapolcaházai utca 84.",
+  "adoszam": "32946750-5-25",
+  "datum": "2026.08.05.",
+  "ido": "17:29",
+  "nyugtaszam": "2497/37109",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 115 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2575"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "540"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HEGEDÜS ABC BT.",
+   "bbox": [
+    162,
+    33,
+    357,
+    49
+   ]
+  },
+  {
+   "text": "H-1794 Pilisgyörgyfalu, Tapolcaházai utca",
+   "bbox": [
+    34,
+    65,
+    485,
+    80
+   ]
+  },
+  {
+   "text": "84.",
+   "bbox": [
+    243,
+    90,
+    276,
+    101
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 32946750-5-25",
+   "bbox": [
+    139,
+    111,
+    381,
+    125
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    217,
+    154,
+    303,
+    168
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    194,
+    132,
+    207
+   ]
+  },
+  {
+   "text": "2575 A00",
+   "bbox": [
+    400,
+    194,
+    496,
+    207
+   ]
+  },
+  {
+   "text": "2 DB x 270",
+   "bbox": [
+    24,
+    222,
+    124,
+    233
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    245,
+    180,
+    257
+   ]
+  },
+  {
+   "text": "540 A00",
+   "bbox": [
+    412,
+    244,
+    496,
+    257
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    280,
+    164,
+    300
+   ]
+  },
+  {
+   "text": "3 115 Ft",
+   "bbox": [
+    384,
+    285,
+    497,
+    300
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    319,
+    144,
+    335
+   ]
+  },
+  {
+   "text": "3 115 Ft",
+   "bbox": [
+    400,
+    322,
+    496,
+    335
+   ]
+  },
+  {
+   "text": "2026.08.05.",
+   "bbox": [
+    24,
+    364,
+    145,
+    375
+   ]
+  },
+  {
+   "text": "17:29",
+   "bbox": [
+    441,
+    364,
+    496,
+    375
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2497/37109",
+   "bbox": [
+    24,
+    389,
+    266,
+    404
+   ]
+  },
+  {
+   "text": "AP A38037291",
+   "bbox": [
+    24,
+    420,
+    156,
+    431
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    139,
+    457,
+    381,
+    472
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  520,
+  516
+ ]
+}

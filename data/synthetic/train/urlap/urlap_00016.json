@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Vincze András",
+  "anyja_neve": "Kovács Katalin",
+  "szuletesi_hely": "Székváros",
+  "szuletesi_datum": "1951. 05. 17.",
+  "lakcim": "H-7456 Váctótfa, Drávafürdői utca 188.",
+  "telefon": "06 1 699 8967",
+  "email": "vincze.andras@example.hu",
+  "adoazonosito_jel": "8308168248",
+  "taj_szam": "568 176 936",
+  "kelt": "Dunakeszi, 2025. 12. 25."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    465,
+    96,
+    774,
+    129
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    493,
+    148,
+    747,
+    164
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    91,
+    200,
+    289,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    103,
+    252,
+    138,
+    265
+   ]
+  },
+  {
+   "text": "Vincze András",
+   "bbox": [
+    425,
+    250,
+    557,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    103,
+    303,
+    193,
+    320
+   ]
+  },
+  {
+   "text": "Kovács Katalin",
+   "bbox": [
+    425,
+    302,
+    558,
+    318
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    103,
+    353,
+    212,
+    371
+   ]
+  },
+  {
+   "text": "Székváros",
+   "bbox": [
+    425,
+    354,
+    516,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    103,
+    404,
+    206,
+    418
+   ]
+  },
+  {
+   "text": "1951. 05. 17.",
+   "bbox": [
+    425,
+    402,
+    540,
+    417
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    103,
+    455,
+    161,
+    469
+   ]
+  },
+  {
+   "text": "H-7456 Váctótfa, Drávafürdői utca 188.",
+   "bbox": [
+    425,
+    457,
+    786,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    103,
+    506,
+    206,
+    520
+   ]
+  },
+  {
+   "text": "06 1 699 8967",
+   "bbox": [
+    425,
+    505,
+    553,
+    520
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    103,
+    557,
+    189,
+    571
+   ]
+  },
+  {
+   "text": "vincze.andras@example.hu",
+   "bbox": [
+    425,
+    554,
+    677,
+    575
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    103,
+    608,
+    241,
+    626
+   ]
+  },
+  {
+   "text": "8308168248",
+   "bbox": [
+    425,
+    610,
+    535,
+    625
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    103,
+    660,
+    180,
+    673
+   ]
+  },
+  {
+   "text": "568 176 936",
+   "bbox": [
+    425,
+    660,
+    536,
+    675
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    91,
+    738,
+    253,
+    759
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    136,
+    780,
+    408,
+    798
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    136,
+    825,
+    260,
+    839
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    136,
+    870,
+    429,
+    888
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    91,
+    974,
+    127,
+    988
+   ]
+  },
+  {
+   "text": "Dunakeszi, 2025. 12. 25.",
+   "bbox": [
+    181,
+    970,
+    402,
+    989
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    937,
+    1023,
+    980,
+    1034
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

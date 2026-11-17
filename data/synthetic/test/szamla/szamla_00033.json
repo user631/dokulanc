@@ -1,0 +1,849 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2024/04011",
+  "kiallitas_datuma": "2024.02.14.",
+  "teljesites_datuma": "2024.02.12.",
+  "fizetesi_hatarido": "2024.02.22.",
+  "elado_nev": "Horváth Tech Zrt.",
+  "elado_cim": "H-9033 Tótfa, József attila tér 9.",
+  "elado_adoszam": "55111863-3-44",
+  "vevo_nev": "Gál Logisztika Bt.",
+  "vevo_cim": "H-3297 Szolnok, Debreceni utca 244.",
+  "vevo_adoszam": "10476572-2-43",
+  "bankszamla": "HU22 2976 2358 9779 2712 6875 3191",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "254 760 Ft",
+  "afa_osszesen": "63 380 Ft",
+  "brutto_osszesen": "318 140 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "31 400",
+    "netto": "94 200",
+    "afa_kulcs": "27%",
+    "afa": "25 434",
+    "brutto": "119 634"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "2 420",
+    "netto": "7 260",
+    "afa_kulcs": "18%",
+    "afa": "1 307",
+    "brutto": "8 567"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "3 730",
+    "netto": "3 730",
+    "afa_kulcs": "27%",
+    "afa": "1 007",
+    "brutto": "4 737"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "9 210",
+    "netto": "36 840",
+    "afa_kulcs": "27%",
+    "afa": "9 947",
+    "brutto": "46 787"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "5 370",
+    "netto": "53 700",
+    "afa_kulcs": "27%",
+    "afa": "14 499",
+    "brutto": "68 199"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "12 csomag",
+    "egysegar": "4 400",
+    "netto": "52 800",
+    "afa_kulcs": "18%",
+    "afa": "9 504",
+    "brutto": "62 304"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "6 230",
+    "netto": "6 230",
+    "afa_kulcs": "27%",
+    "afa": "1 682",
+    "brutto": "7 912"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH",
+   "bbox": [
+    103,
+    112,
+    221,
+    135
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    794,
+    92,
+    1158,
+    129
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/04011",
+   "bbox": [
+    924,
+    156,
+    1158,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    235,
+    148,
+    252
+   ]
+  },
+  {
+   "text": "Horváth Tech Zrt.",
+   "bbox": [
+    82,
+    269,
+    261,
+    286
+   ]
+  },
+  {
+   "text": "H-9033 Tótfa, József attila tér 9.",
+   "bbox": [
+    82,
+    302,
+    370,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 55111863-3-44",
+   "bbox": [
+    81,
+    330,
+    312,
+    345
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    235,
+    689,
+    252
+   ]
+  },
+  {
+   "text": "Gál Logisztika Bt.",
+   "bbox": [
+    630,
+    269,
+    811,
+    290
+   ]
+  },
+  {
+   "text": "H-3297 Szolnok, Debreceni utca 244.",
+   "bbox": [
+    630,
+    302,
+    962,
+    320
+   ]
+  },
+  {
+   "text": "Adószám: 10476572-2-43",
+   "bbox": [
+    629,
+    330,
+    860,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    396,
+    244,
+    411
+   ]
+  },
+  {
+   "text": "2024.02.14.",
+   "bbox": [
+    382,
+    396,
+    488,
+    411
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    426,
+    258,
+    445
+   ]
+  },
+  {
+   "text": "2024.02.12.",
+   "bbox": [
+    382,
+    426,
+    488,
+    441
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    456,
+    248,
+    471
+   ]
+  },
+  {
+   "text": "2024.02.22.",
+   "bbox": [
+    382,
+    456,
+    488,
+    471
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    486,
+    211,
+    501
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    382,
+    486,
+    480,
+    505
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    528,
+    179,
+    543
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    528,
+    569,
+    543
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    528,
+    749,
+    543
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    835,
+    528,
+    878,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    893,
+    525,
+    942,
+    540
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    525,
+    1046,
+    540
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1107,
+    528,
+    1158,
+    540
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    512,
+    567,
+    584,
+    579
+   ]
+  },
+  {
+   "text": "31 400",
+   "bbox": [
+    699,
+    567,
+    749,
+    579
+   ]
+  },
+  {
+   "text": "94 200",
+   "bbox": [
+    828,
+    567,
+    878,
+    579
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    567,
+    942,
+    579
+   ]
+  },
+  {
+   "text": "25 434",
+   "bbox": [
+    995,
+    567,
+    1045,
+    579
+   ]
+  },
+  {
+   "text": "119 634",
+   "bbox": [
+    1099,
+    567,
+    1158,
+    579
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    82,
+    566,
+    252,
+    582
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    512,
+    599,
+    573,
+    612
+   ]
+  },
+  {
+   "text": "2 420",
+   "bbox": [
+    708,
+    600,
+    749,
+    612
+   ]
+  },
+  {
+   "text": "7 260",
+   "bbox": [
+    837,
+    600,
+    878,
+    612
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    909,
+    600,
+    942,
+    612
+   ]
+  },
+  {
+   "text": "1 307",
+   "bbox": [
+    1004,
+    600,
+    1045,
+    612
+   ]
+  },
+  {
+   "text": "8 567",
+   "bbox": [
+    1117,
+    600,
+    1158,
+    612
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    81,
+    597,
+    198,
+    615
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    633,
+    544,
+    645
+   ]
+  },
+  {
+   "text": "3 730",
+   "bbox": [
+    708,
+    633,
+    749,
+    645
+   ]
+  },
+  {
+   "text": "3 730",
+   "bbox": [
+    837,
+    633,
+    878,
+    645
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    633,
+    942,
+    645
+   ]
+  },
+  {
+   "text": "1 007",
+   "bbox": [
+    1004,
+    633,
+    1045,
+    645
+   ]
+  },
+  {
+   "text": "4 737",
+   "bbox": [
+    1117,
+    633,
+    1158,
+    645
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    82,
+    632,
+    232,
+    648
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    512,
+    666,
+    550,
+    678
+   ]
+  },
+  {
+   "text": "9 210",
+   "bbox": [
+    708,
+    666,
+    749,
+    678
+   ]
+  },
+  {
+   "text": "36 840",
+   "bbox": [
+    828,
+    666,
+    878,
+    678
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    666,
+    942,
+    678
+   ]
+  },
+  {
+   "text": "9 947",
+   "bbox": [
+    1004,
+    666,
+    1045,
+    678
+   ]
+  },
+  {
+   "text": "46 787",
+   "bbox": [
+    1108,
+    666,
+    1158,
+    678
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    82,
+    665,
+    316,
+    681
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    512,
+    699,
+    570,
+    711
+   ]
+  },
+  {
+   "text": "5 370",
+   "bbox": [
+    708,
+    699,
+    749,
+    711
+   ]
+  },
+  {
+   "text": "53 700",
+   "bbox": [
+    828,
+    699,
+    878,
+    711
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    699,
+    942,
+    711
+   ]
+  },
+  {
+   "text": "14 499",
+   "bbox": [
+    995,
+    699,
+    1045,
+    711
+   ]
+  },
+  {
+   "text": "68 199",
+   "bbox": [
+    1108,
+    699,
+    1158,
+    711
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    82,
+    698,
+    284,
+    714
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    512,
+    732,
+    594,
+    747
+   ]
+  },
+  {
+   "text": "4 400",
+   "bbox": [
+    708,
+    732,
+    749,
+    744
+   ]
+  },
+  {
+   "text": "52 800",
+   "bbox": [
+    828,
+    732,
+    878,
+    744
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    909,
+    732,
+    942,
+    744
+   ]
+  },
+  {
+   "text": "9 504",
+   "bbox": [
+    1004,
+    732,
+    1045,
+    744
+   ]
+  },
+  {
+   "text": "62 304",
+   "bbox": [
+    1108,
+    732,
+    1158,
+    744
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    82,
+    731,
+    221,
+    747
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    512,
+    765,
+    544,
+    777
+   ]
+  },
+  {
+   "text": "6 230",
+   "bbox": [
+    708,
+    765,
+    749,
+    777
+   ]
+  },
+  {
+   "text": "6 230",
+   "bbox": [
+    837,
+    765,
+    878,
+    777
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    765,
+    942,
+    777
+   ]
+  },
+  {
+   "text": "1 682",
+   "bbox": [
+    1004,
+    765,
+    1045,
+    777
+   ]
+  },
+  {
+   "text": "7 912",
+   "bbox": [
+    1117,
+    765,
+    1158,
+    777
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    82,
+    765,
+    217,
+    780
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    673,
+    819,
+    828,
+    834
+   ]
+  },
+  {
+   "text": "254 760 Ft",
+   "bbox": [
+    1055,
+    819,
+    1158,
+    834
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    682,
+    849,
+    828,
+    868
+   ]
+  },
+  {
+   "text": "63 380 Ft",
+   "bbox": [
+    1067,
+    853,
+    1158,
+    868
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    618,
+    886,
+    828,
+    902
+   ]
+  },
+  {
+   "text": "318 140 Ft",
+   "bbox": [
+    1054,
+    887,
+    1158,
+    902
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU22 2976 2358 9779 2712 6875 3191",
+   "bbox": [
+    82,
+    950,
+    590,
+    964
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    977,
+    569,
+    992
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    451,
+    1657,
+    787,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

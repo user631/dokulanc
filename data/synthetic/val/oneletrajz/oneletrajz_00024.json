@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Oláh Anikó",
+  "email": "olah.aniko@gmail.com",
+  "telefon": "+36 70 786 7559",
+  "lakcim": "H-6571 Ligetvára, Hídhalasi utca 150.",
+  "szuletesi_datum": "1980. 10. 19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "1999 – 2004"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "ceg": "Pintér Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "ceg": "Oláh Trade Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2003 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "csapatmunka",
+   "Excel",
+   "Python",
+   "C#",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    181,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    92,
+    162
+   ]
+  },
+  {
+   "text": "olah.aniko@gmail.com",
+   "bbox": [
+    40,
+    172,
+    231,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    103,
+    220
+   ]
+  },
+  {
+   "text": "+36 70 786 7559",
+   "bbox": [
+    40,
+    231,
+    175,
+    244
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    264,
+    97,
+    278
+   ]
+  },
+  {
+   "text": "H-6571 Ligetvára, Hídhalasi utca 150.",
+   "bbox": [
+    40,
+    288,
+    346,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    322,
+    173,
+    336
+   ]
+  },
+  {
+   "text": "1980. 10. 19.",
+   "bbox": [
+    40,
+    347,
+    145,
+    360
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    407,
+    173,
+    427
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    450,
+    122,
+    469
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    505,
+    150,
+    525
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    549,
+    85,
+    563
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    577,
+    154,
+    595
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    605,
+    83,
+    619
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    633,
+    101,
+    651
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    662,
+    62,
+    675
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    690,
+    73,
+    703
+   ]
+  },
+  {
+   "text": "Oláh Anikó",
+   "bbox": [
+    450,
+    106,
+    661,
+    139
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    179,
+    647,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    662,
+    266
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    296,
+    559,
+    310
+   ]
+  },
+  {
+   "text": "irodavezető – Tóth Zrt.",
+   "bbox": [
+    450,
+    321,
+    665,
+    337
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    364,
+    559,
+    378
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Pintér Logisztika Kft.",
+   "bbox": [
+    450,
+    389,
+    859,
+    409
+   ]
+  },
+  {
+   "text": "2003 – 2005",
+   "bbox": [
+    450,
+    432,
+    559,
+    446
+   ]
+  },
+  {
+   "text": "rendszergazda – Oláh Trade Kft.",
+   "bbox": [
+    450,
+    457,
+    750,
+    477
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    509,
+    597,
+    532
+   ]
+  },
+  {
+   "text": "1999 – 2004",
+   "bbox": [
+    450,
+    562,
+    559,
+    576
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    587,
+    638,
+    607
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    612,
+    692,
+    632
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    656,
+    559,
+    670
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    681,
+    680,
+    701
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    706,
+    529,
+    726
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TAMÁS MARKET BT.",
+  "uzlet_cim": "H-5046 Békéscsaba, Keresztvárosi tér 28.",
+  "adoszam": "98107753-4-05",
+  "datum": "2025.12.12.",
+  "ido": "17:20",
+  "nyugtaszam": "9164/32590",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 975 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1043"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1684"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "621"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "627"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TAMÁS MARKET BT.",
+   "bbox": [
+    185,
+    28,
+    377,
+    47
+   ]
+  },
+  {
+   "text": "H-5046 Békéscsaba, Keresztvárosi tér 28.",
+   "bbox": [
+    81,
+    63,
+    481,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98107753-4-05",
+   "bbox": [
+    171,
+    86,
+    391,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    242,
+    127,
+    321,
+    142
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    168,
+    167,
+    181
+   ]
+  },
+  {
+   "text": "1043 C00",
+   "bbox": [
+    451,
+    168,
+    539,
+    181
+   ]
+  },
+  {
+   "text": "2 DB x 842",
+   "bbox": [
+    24,
+    196,
+    114,
+    207
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    218,
+    156,
+    231
+   ]
+  },
+  {
+   "text": "1684 A00",
+   "bbox": [
+    451,
+    218,
+    539,
+    231
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    246,
+    145,
+    259
+   ]
+  },
+  {
+   "text": "621 B00",
+   "bbox": [
+    462,
+    246,
+    539,
+    259
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    274,
+    112,
+    287
+   ]
+  },
+  {
+   "text": "627 C00",
+   "bbox": [
+    462,
+    274,
+    539,
+    287
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    311,
+    141,
+    330
+   ]
+  },
+  {
+   "text": "4 975 Ft",
+   "bbox": [
+    435,
+    314,
+    539,
+    330
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    348,
+    112,
+    365
+   ]
+  },
+  {
+   "text": "4 975 Ft",
+   "bbox": [
+    451,
+    352,
+    539,
+    365
+   ]
+  },
+  {
+   "text": "2025.12.12.",
+   "bbox": [
+    24,
+    395,
+    134,
+    406
+   ]
+  },
+  {
+   "text": "17:20",
+   "bbox": [
+    489,
+    395,
+    539,
+    406
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9164/32590",
+   "bbox": [
+    24,
+    420,
+    244,
+    436
+   ]
+  },
+  {
+   "text": "AP A86098399",
+   "bbox": [
+    24,
+    451,
+    144,
+    462
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    231,
+    487,
+    331,
+    503
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  563,
+  548
+ ]
+}

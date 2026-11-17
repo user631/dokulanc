@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Török Zoltán",
+  "anyja_neve": "Tóth Vivien",
+  "szuletesi_hely": "Keresztbánya",
+  "szuletesi_datum": "1996. 09. 28.",
+  "lakcim": "H-6159 Cegléd, Dunakeszii utca 6.",
+  "telefon": "+36 30 505 2338",
+  "email": "torok.zoltan@example.hu",
+  "adoazonosito_jel": "8473878981",
+  "taj_szam": "345 931 276",
+  "kelt": "Nyíregyháza, 2024. 01. 21."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    303,
+    82,
+    939,
+    115
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    195,
+    287,
+    216
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    92,
+    250,
+    134,
+    265
+   ]
+  },
+  {
+   "text": "Török Zoltán",
+   "bbox": [
+    392,
+    248,
+    551,
+    270
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    304,
+    196,
+    323
+   ]
+  },
+  {
+   "text": "Tóth Vivien",
+   "bbox": [
+    392,
+    300,
+    531,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    358,
+    217,
+    377
+   ]
+  },
+  {
+   "text": "Keresztbánya",
+   "bbox": [
+    392,
+    355,
+    557,
+    383
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    412,
+    208,
+    427
+   ]
+  },
+  {
+   "text": "1996. 09. 28.",
+   "bbox": [
+    392,
+    408,
+    550,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    466,
+    163,
+    481
+   ]
+  },
+  {
+   "text": "H-6159 Cegléd, Dunakeszii utca 6.",
+   "bbox": [
+    392,
+    466,
+    805,
+    494
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    520,
+    207,
+    535
+   ]
+  },
+  {
+   "text": "+36 30 505 2338",
+   "bbox": [
+    392,
+    521,
+    605,
+    542
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    574,
+    192,
+    589
+   ]
+  },
+  {
+   "text": "torok.zoltan@example.hu",
+   "bbox": [
+    392,
+    575,
+    695,
+    603
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    628,
+    244,
+    647
+   ]
+  },
+  {
+   "text": "8473878981",
+   "bbox": [
+    392,
+    629,
+    548,
+    651
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    682,
+    182,
+    697
+   ]
+  },
+  {
+   "text": "345 931 276",
+   "bbox": [
+    392,
+    678,
+    548,
+    700
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    763,
+    250,
+    784
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    807,
+    420,
+    826
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    852,
+    267,
+    867
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    897,
+    441,
+    916
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    1000,
+    125,
+    1016
+   ]
+  },
+  {
+   "text": "Nyíregyháza, 2024. 01. 21.",
+   "bbox": [
+    171,
+    1000,
+    470,
+    1026
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1050,
+    992,
+    1063
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

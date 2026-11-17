@@ -1,0 +1,19 @@
+[1/17] rvl_invoice_00276.png: Űrlap (0.54, M1 bizonytalan → LLM) | 30 sor | hiba (1 hiba, 3 figyelmeztetés) | 13.0 s
+[2/17] rvl_invoice_00278.png: Számla (0.47, M1 bizonytalan → LLM) | 19 sor | hiba (1 hiba, 10 figyelmeztetés) | 15.9 s
+[3/17] rvl_invoice_00283.png: Önéletrajz (0.59, M1 bizonytalan → LLM) | 15 sor | figyelmeztetes (0 hiba, 9 figyelmeztetés) | 12.5 s
+[4/17] rvl_invoice_00297.png: Számla (0.60, M1) | 32 sor | hiba (3 hiba, 19 figyelmeztetés) | 18.8 s
+[5/17] rvl_letter_00002.png: Levél (0.59, M1 + LLM megerősítés) | 38 sor | figyelmeztetes (0 hiba, 5 figyelmeztetés) | 14.2 s
+[6/17] rvl_letter_00003.png: Levél (0.39, M1 bizonytalan → LLM) | 22 sor | figyelmeztetes (0 hiba, 3 figyelmeztetés) | 13.5 s
+[7/17] rvl_letter_00004.png: Levél (0.52, M1 + LLM megerősítés) | 35 sor | figyelmeztetes (0 hiba, 3 figyelmeztetés) | 14.8 s
+[8/17] rvl_letter_00007.png: Levél (0.44, M1 bizonytalan → LLM) | 18 sor | figyelmeztetes (0 hiba, 2 figyelmeztetés) | 12.9 s
+[9/17] rvl_letter_00009.png: Levél (0.49, M1 + LLM megerősítés) | 35 sor | figyelmeztetes (0 hiba, 1 figyelmeztetés) | 14.0 s
+[10/17] rvl_letter_00014.png: Levél (0.42, M1 bizonytalan → LLM) | 43 sor | figyelmeztetes (0 hiba, 8 figyelmeztetés) | 16.9 s
+[11/17] rvl_resume_00351.png: Önéletrajz (0.55, M1 bizonytalan → LLM) | 34 sor | figyelmeztetes (0 hiba, 3 figyelmeztetés) | 15.5 s
+[12/17] rvl_resume_00353.png: Levél (0.64, M1) | 38 sor | figyelmeztetes (0 hiba, 5 figyelmeztetés) | 9.8 s
+[13/17] rvl_resume_00365.png: Levél (0.65, M1) | 35 sor | figyelmeztetes (0 hiba, 1 figyelmeztetés) | 9.9 s
+[14/17] rvl_form_00049.png: Számla (0.48, M1 bizonytalan → LLM) | 13 sor | figyelmeztetes (0 hiba, 5 figyelmeztetés) | 13.2 s
+[15/17] rvl_questionnaire_00330.png: Nyugta (0.37, M1 bizonytalan → LLM) | 20 sor | figyelmeztetes (0 hiba, 2 figyelmeztetés) | 14.5 s
+[16/17] rvl_questionnaire_00337.png: Önéletrajz (0.56, M1 bizonytalan → LLM) | 36 sor | figyelmeztetes (0 hiba, 1 figyelmeztetés) | 14.0 s
+[17/17] rvl_questionnaire_00339.png: Levél (0.60, M1) | 23 sor | figyelmeztetes (0 hiba, 3 figyelmeztetés) | 9.2 s
+JSON: reports\results\rvl_bizonytalan.json
+darab 17 M1 helyes 5 végső helyes 9 LLM kérdezve 13 LLM javított 5 LLM rontott 1

@@ -1,0 +1,543 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/08258",
+  "kiallitas_datuma": "2026. 12. 17.",
+  "teljesites_datuma": "2026. 12. 16.",
+  "fizetesi_hatarido": "2027. 01. 01.",
+  "elado_nev": "Horváth Consulting Bt.",
+  "elado_cim": "H-1420 Baja, Salgótarjáni utca 119.",
+  "elado_adoszam": "64082473-4-37",
+  "vevo_nev": "Sipos Logisztika Zrt.",
+  "vevo_cim": "H-8670 Eger, Ady endre utca 30.",
+  "vevo_adoszam": "41838345-4-29",
+  "bankszamla": "75861034-05580468-01554050",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "2 099 690 Ft",
+  "afa_osszesen": "566 916 Ft",
+  "brutto_osszesen": "2 666 606 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "23 520",
+    "netto": "117 600",
+    "afa_kulcs": "27%",
+    "afa": "31 752",
+    "brutto": "149 352"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "9 530",
+    "netto": "9 530",
+    "afa_kulcs": "27%",
+    "afa": "2 573",
+    "brutto": "12 103"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "12 hó",
+    "egysegar": "164 380",
+    "netto": "1 972 560",
+    "afa_kulcs": "27%",
+    "afa": "532 591",
+    "brutto": "2 505 151"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    546,
+    125,
+    693,
+    158
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/08258",
+   "bbox": [
+    423,
+    180,
+    817,
+    202
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    110,
+    260,
+    184,
+    279
+   ]
+  },
+  {
+   "text": "Horváth Consulting Bt.",
+   "bbox": [
+    110,
+    298,
+    389,
+    323
+   ]
+  },
+  {
+   "text": "H-1420 Baja, Salgótarjáni utca 119.",
+   "bbox": [
+    110,
+    332,
+    480,
+    356
+   ]
+  },
+  {
+   "text": "Adószám: 64082473-4-37",
+   "bbox": [
+    110,
+    364,
+    382,
+    382
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    260,
+    698,
+    279
+   ]
+  },
+  {
+   "text": "Sipos Logisztika Zrt.",
+   "bbox": [
+    630,
+    298,
+    873,
+    323
+   ]
+  },
+  {
+   "text": "H-8670 Eger, Ady endre utca 30.",
+   "bbox": [
+    630,
+    332,
+    975,
+    356
+   ]
+  },
+  {
+   "text": "Adószám: 41838345-4-29",
+   "bbox": [
+    630,
+    364,
+    902,
+    382
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    110,
+    433,
+    268,
+    449
+   ]
+  },
+  {
+   "text": "2026. 12. 17.",
+   "bbox": [
+    110,
+    465,
+    233,
+    481
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    365,
+    433,
+    535,
+    454
+   ]
+  },
+  {
+   "text": "2026. 12. 16.",
+   "bbox": [
+    365,
+    465,
+    488,
+    481
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    433,
+    781,
+    449
+   ]
+  },
+  {
+   "text": "2027. 01. 01.",
+   "bbox": [
+    620,
+    465,
+    743,
+    481
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    875,
+    433,
+    998,
+    449
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    875,
+    463,
+    967,
+    486
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    110,
+    515,
+    230,
+    536
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    518,
+    516,
+    592,
+    536
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    515,
+    743,
+    536
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    807,
+    515,
+    864,
+    531
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    867,
+    511,
+    926,
+    531
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    981,
+    511,
+    1022,
+    531
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1067,
+    515,
+    1130,
+    531
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    518,
+    558,
+    607,
+    574
+   ]
+  },
+  {
+   "text": "23 520",
+   "bbox": [
+    681,
+    559,
+    742,
+    574
+   ]
+  },
+  {
+   "text": "117 600",
+   "bbox": [
+    792,
+    559,
+    864,
+    574
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    559,
+    926,
+    574
+   ]
+  },
+  {
+   "text": "31 752",
+   "bbox": [
+    961,
+    559,
+    1022,
+    574
+   ]
+  },
+  {
+   "text": "149 352",
+   "bbox": [
+    1058,
+    559,
+    1130,
+    574
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    110,
+    558,
+    312,
+    579
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    518,
+    595,
+    559,
+    611
+   ]
+  },
+  {
+   "text": "9 530",
+   "bbox": [
+    692,
+    596,
+    742,
+    611
+   ]
+  },
+  {
+   "text": "9 530",
+   "bbox": [
+    814,
+    596,
+    864,
+    611
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    596,
+    926,
+    611
+   ]
+  },
+  {
+   "text": "2 573",
+   "bbox": [
+    972,
+    596,
+    1022,
+    611
+   ]
+  },
+  {
+   "text": "12 103",
+   "bbox": [
+    1069,
+    596,
+    1130,
+    611
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    110,
+    595,
+    265,
+    611
+   ]
+  },
+  {
+   "text": "12 hó",
+   "bbox": [
+    518,
+    632,
+    570,
+    648
+   ]
+  },
+  {
+   "text": "164 380",
+   "bbox": [
+    670,
+    633,
+    742,
+    648
+   ]
+  },
+  {
+   "text": "1 972 560",
+   "bbox": [
+    775,
+    633,
+    864,
+    648
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    887,
+    633,
+    926,
+    648
+   ]
+  },
+  {
+   "text": "532 591",
+   "bbox": [
+    950,
+    633,
+    1022,
+    648
+   ]
+  },
+  {
+   "text": "2 505 151",
+   "bbox": [
+    1041,
+    633,
+    1130,
+    648
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    110,
+    632,
+    373,
+    653
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    626,
+    690,
+    800,
+    709
+   ]
+  },
+  {
+   "text": "2 099 690 Ft",
+   "bbox": [
+    998,
+    691,
+    1130,
+    709
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    645,
+    724,
+    800,
+    747
+   ]
+  },
+  {
+   "text": "566 916 Ft",
+   "bbox": [
+    1018,
+    729,
+    1130,
+    747
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    669,
+    766,
+    800,
+    791
+   ]
+  },
+  {
+   "text": "2 666 606 Ft",
+   "bbox": [
+    988,
+    767,
+    1130,
+    785
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 75861034-05580468-01554050",
+   "bbox": [
+    110,
+    833,
+    598,
+    851
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    408,
+    1625,
+    832,
+    1643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

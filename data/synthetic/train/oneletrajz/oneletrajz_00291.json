@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Mészáros Bernadett",
+  "email": "meszaros.bernadett@outlook.com",
+  "telefon": "+36 30 219 6623",
+  "lakcim": "H-7994 Felsőhídvárad, Budamindszenti utca 162.",
+  "szuletesi_datum": "1989. december 25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szűcs Logisztika Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2014 – 2016"
+   },
+   {
+    "ceg": "Katona Szolgáltató Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2012 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "SAP",
+   "Linux",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    101,
+    222,
+    124
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    101,
+    165
+   ]
+  },
+  {
+   "text": "meszaros.bernadett@outlook.com",
+   "bbox": [
+    40,
+    174,
+    346,
+    193
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    208,
+    111,
+    223
+   ]
+  },
+  {
+   "text": "+36 30 219 6623",
+   "bbox": [
+    40,
+    232,
+    191,
+    247
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    109,
+    281
+   ]
+  },
+  {
+   "text": "H-7994 Felsőhídvárad,",
+   "bbox": [
+    40,
+    290,
+    243,
+    308
+   ]
+  },
+  {
+   "text": "Budamindszenti utca 162.",
+   "bbox": [
+    40,
+    314,
+    270,
+    329
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    348,
+    193,
+    363
+   ]
+  },
+  {
+   "text": "1989. december 25.",
+   "bbox": [
+    40,
+    372,
+    219,
+    387
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    431,
+    202,
+    454
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    477,
+    137,
+    496
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    529,
+    189,
+    552
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    575,
+    93,
+    590
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    603,
+    82,
+    618
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    631,
+    92,
+    646
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    659,
+    67,
+    674
+   ]
+  },
+  {
+   "text": "Mészáros Bernadett",
+   "bbox": [
+    450,
+    110,
+    889,
+    144
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    181,
+    641,
+    200
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    692,
+    269
+   ]
+  },
+  {
+   "text": "2014 – 2016",
+   "bbox": [
+    450,
+    296,
+    570,
+    312
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szűcs Logisztika Kft.",
+   "bbox": [
+    450,
+    322,
+    889,
+    344
+   ]
+  },
+  {
+   "text": "2012 – 2014",
+   "bbox": [
+    450,
+    364,
+    570,
+    380
+   ]
+  },
+  {
+   "text": "adatelemző – Katona Szolgáltató Bt.",
+   "bbox": [
+    450,
+    390,
+    846,
+    412
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    443,
+    617,
+    467
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    494,
+    570,
+    510
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    520,
+    652,
+    542
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    546,
+    582,
+    566
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    588,
+    570,
+    604
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    614,
+    721,
+    636
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    640,
+    533,
+    660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

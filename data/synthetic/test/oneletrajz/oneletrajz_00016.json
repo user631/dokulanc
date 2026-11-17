@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kovács László",
+  "email": "kovacs.laszlo@example.hu",
+  "telefon": "+36 30 601 3371",
+  "lakcim": "H-7763 Törökmellékhida, Bakonyháti utca 175.",
+  "szuletesi_datum": "1987.07.22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Somogyi Logisztika Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2009 – 2010"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "prezentáció",
+   "Linux",
+   "projektmenedzsment",
+   "SQL",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács László",
+   "bbox": [
+    453,
+    117,
+    787,
+    152
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    187,
+    728,
+    211
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    240,
+    163,
+    256
+   ]
+  },
+  {
+   "text": "kovacs.laszlo@example.hu",
+   "bbox": [
+    330,
+    240,
+    594,
+    260
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    272,
+    173,
+    288
+   ]
+  },
+  {
+   "text": "+36 30 601 3371",
+   "bbox": [
+    330,
+    272,
+    493,
+    288
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    303,
+    172,
+    320
+   ]
+  },
+  {
+   "text": "H-7763 Törökmellékhida, Bakonyháti utca 175.",
+   "bbox": [
+    330,
+    304,
+    781,
+    324
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    335,
+    262,
+    352
+   ]
+  },
+  {
+   "text": "1987.07.22.",
+   "bbox": [
+    330,
+    336,
+    444,
+    352
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    389,
+    332,
+    413
+   ]
+  },
+  {
+   "text": "2009 – 2010",
+   "bbox": [
+    90,
+    440,
+    210,
+    456
+   ]
+  },
+  {
+   "text": "tesztmérnök – Somogyi Logisztika Kft.",
+   "bbox": [
+    90,
+    466,
+    512,
+    488
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    519,
+    257,
+    543
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    570,
+    210,
+    586
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    596,
+    393,
+    618
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    622,
+    218,
+    642
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    664,
+    210,
+    680
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    690,
+    368,
+    707
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    716,
+    273,
+    736
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    769,
+    227,
+    793
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    820,
+    212,
+    840
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    869,
+    223,
+    893
+   ]
+  },
+  {
+   "text": "C#, prezentáció, Linux, projektmenedzsment, SQL, Python",
+   "bbox": [
+    90,
+    920,
+    655,
+    940
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

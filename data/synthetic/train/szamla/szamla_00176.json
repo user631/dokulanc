@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2026/05694",
+  "kiallitas_datuma": "2026.08.27.",
+  "teljesites_datuma": "2026.08.27.",
+  "fizetesi_hatarido": "2026.09.04.",
+  "elado_nev": "Nagy és Társa Kft.",
+  "elado_cim": "H-1184 Kaposvár, Hetvenharasztii utca 243.",
+  "elado_adoszam": "32023581-3-20",
+  "vevo_nev": "Jakab Logisztika Kft.",
+  "vevo_cim": "H-3604 Kecskemét, Győri utca 196.",
+  "vevo_adoszam": "76998076-3-42",
+  "bankszamla": "22505527-29957051-62272944",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "52 420 Ft",
+  "afa_osszesen": "13 408 Ft",
+  "brutto_osszesen": "65 828 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "3 db",
+    "egysegar": "9 570",
+    "netto": "28 710",
+    "afa_kulcs": "27%",
+    "afa": "7 752",
+    "brutto": "36 462"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "3 db",
+    "egysegar": "1 130",
+    "netto": "3 390",
+    "afa_kulcs": "5%",
+    "afa": "170",
+    "brutto": "3 560"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "2 óra",
+    "egysegar": "10 160",
+    "netto": "20 320",
+    "afa_kulcs": "27%",
+    "afa": "5 486",
+    "brutto": "25 806"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY",
+   "bbox": [
+    120,
+    111,
+    190,
+    128
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1009,
+    93,
+    1165,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/05694",
+   "bbox": [
+    838,
+    150,
+    1165,
+    170
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    74,
+    230,
+    149,
+    250
+   ]
+  },
+  {
+   "text": "Jakab Logisztika Kft.",
+   "bbox": [
+    75,
+    269,
+    349,
+    294
+   ]
+  },
+  {
+   "text": "H-3604 Kecskemét, Győri utca 196.",
+   "bbox": [
+    75,
+    306,
+    475,
+    329
+   ]
+  },
+  {
+   "text": "Adószám: 76998076-3-42",
+   "bbox": [
+    74,
+    339,
+    365,
+    357
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    230,
+    714,
+    250
+   ]
+  },
+  {
+   "text": "Nagy és Társa Kft.",
+   "bbox": [
+    630,
+    269,
+    870,
+    294
+   ]
+  },
+  {
+   "text": "H-1184 Kaposvár, Hetvenharasztii utca 243.",
+   "bbox": [
+    630,
+    306,
+    1126,
+    329
+   ]
+  },
+  {
+   "text": "Adószám: 32023581-3-20",
+   "bbox": [
+    629,
+    339,
+    920,
+    357
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    408,
+    241,
+    425
+   ]
+  },
+  {
+   "text": "2026.08.27.",
+   "bbox": [
+    75,
+    441,
+    200,
+    458
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    408,
+    528,
+    429
+   ]
+  },
+  {
+   "text": "2026.08.27.",
+   "bbox": [
+    347,
+    441,
+    472,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    408,
+    789,
+    425
+   ]
+  },
+  {
+   "text": "2026.09.04.",
+   "bbox": [
+    619,
+    441,
+    744,
+    458
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    408,
+    1022,
+    425
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    891,
+    441,
+    991,
+    463
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    492,
+    202,
+    513
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    493,
+    585,
+    513
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    652,
+    492,
+    750,
+    513
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    492,
+    881,
+    509
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    882,
+    489,
+    947,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    489,
+    1050,
+    509
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    492,
+    1165,
+    509
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    511,
+    537,
+    553,
+    553
+   ]
+  },
+  {
+   "text": "9 570",
+   "bbox": [
+    696,
+    537,
+    750,
+    553
+   ]
+  },
+  {
+   "text": "28 710",
+   "bbox": [
+    815,
+    537,
+    881,
+    553
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    537,
+    947,
+    553
+   ]
+  },
+  {
+   "text": "7 752",
+   "bbox": [
+    996,
+    537,
+    1050,
+    553
+   ]
+  },
+  {
+   "text": "36 462",
+   "bbox": [
+    1099,
+    537,
+    1165,
+    553
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    75,
+    537,
+    242,
+    553
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    511,
+    575,
+    553,
+    591
+   ]
+  },
+  {
+   "text": "1 130",
+   "bbox": [
+    696,
+    575,
+    750,
+    591
+   ]
+  },
+  {
+   "text": "3 390",
+   "bbox": [
+    827,
+    575,
+    881,
+    591
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    915,
+    575,
+    947,
+    591
+   ]
+  },
+  {
+   "text": "170",
+   "bbox": [
+    1014,
+    575,
+    1050,
+    591
+   ]
+  },
+  {
+   "text": "3 560",
+   "bbox": [
+    1111,
+    575,
+    1165,
+    591
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    75,
+    575,
+    191,
+    595
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    511,
+    613,
+    560,
+    629
+   ]
+  },
+  {
+   "text": "10 160",
+   "bbox": [
+    684,
+    613,
+    750,
+    629
+   ]
+  },
+  {
+   "text": "20 320",
+   "bbox": [
+    815,
+    613,
+    881,
+    629
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    613,
+    947,
+    629
+   ]
+  },
+  {
+   "text": "5 486",
+   "bbox": [
+    996,
+    613,
+    1050,
+    629
+   ]
+  },
+  {
+   "text": "25 806",
+   "bbox": [
+    1099,
+    613,
+    1165,
+    629
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    75,
+    613,
+    338,
+    633
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    652,
+    672,
+    835,
+    691
+   ]
+  },
+  {
+   "text": "52 420 Ft",
+   "bbox": [
+    1058,
+    672,
+    1166,
+    691
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    662,
+    705,
+    835,
+    730
+   ]
+  },
+  {
+   "text": "13 408 Ft",
+   "bbox": [
+    1058,
+    711,
+    1166,
+    730
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    691,
+    750,
+    835,
+    774
+   ]
+  },
+  {
+   "text": "65 828 Ft",
+   "bbox": [
+    1056,
+    750,
+    1165,
+    769
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 22505527-29957051-62272944",
+   "bbox": [
+    75,
+    819,
+    603,
+    836
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    852,
+    740,
+    871
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    466,
+    1659,
+    774,
+    1678
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

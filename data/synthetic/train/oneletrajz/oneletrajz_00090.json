@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Fehér Gabriella",
+  "email": "feher.gabriella@citromail.hu",
+  "telefon": "+36 20 964 8139",
+  "lakcim": "H-3379 Tótfa, Keresztapátii tér 237.",
+  "szuletesi_datum": "2004.10.13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2024 – 2028"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2020 – 2024"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szűcs Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2031 – jelenleg"
+   },
+   {
+    "ceg": "Tóth Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2028 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "ügyfélkezelés",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    104,
+    232,
+    125
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    105,
+    164
+   ]
+  },
+  {
+   "text": "feher.gabriella@citromail.hu",
+   "bbox": [
+    40,
+    173,
+    285,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    114,
+    220
+   ]
+  },
+  {
+   "text": "+36 20 964 8139",
+   "bbox": [
+    40,
+    230,
+    184,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    262,
+    112,
+    276
+   ]
+  },
+  {
+   "text": "H-3379 Tótfa, Keresztapátii tér 237.",
+   "bbox": [
+    40,
+    285,
+    345,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    318,
+    198,
+    332
+   ]
+  },
+  {
+   "text": "2004.10.13.",
+   "bbox": [
+    40,
+    345,
+    139,
+    358
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    401,
+    213,
+    422
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    443,
+    132,
+    462
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    497,
+    195,
+    518
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    539,
+    258,
+    558
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    566,
+    160,
+    585
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    593,
+    88,
+    608
+   ]
+  },
+  {
+   "text": "Fehér Gabriella",
+   "bbox": [
+    450,
+    111,
+    811,
+    145
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    180,
+    658,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    706,
+    267
+   ]
+  },
+  {
+   "text": "2031 – jelenleg",
+   "bbox": [
+    450,
+    294,
+    591,
+    315
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szűcs Trade Kft.",
+   "bbox": [
+    450,
+    319,
+    871,
+    341
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    450,
+    360,
+    595,
+    381
+   ]
+  },
+  {
+   "text": "értékesítő – Tóth Logisztika Bt.",
+   "bbox": [
+    450,
+    385,
+    807,
+    407
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    436,
+    629,
+    460
+   ]
+  },
+  {
+   "text": "2024 – 2028",
+   "bbox": [
+    450,
+    488,
+    573,
+    507
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    512,
+    671,
+    534
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    537,
+    594,
+    558
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    583,
+    573,
+    598
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    603,
+    745,
+    620
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    628,
+    632,
+    649
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

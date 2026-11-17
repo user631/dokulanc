@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/01964",
+  "kiallitas_datuma": "2024-11-20",
+  "teljesites_datuma": "2024-11-20",
+  "fizetesi_hatarido": "2024-12-05",
+  "elado_nev": "Sándor Szolgáltató Zrt.",
+  "elado_cim": "H-3303 Felsőtapolcakőrös, József attila utca 119.",
+  "elado_adoszam": "42402921-2-11",
+  "vevo_nev": "Budai Logisztika Zrt.",
+  "vevo_cim": "H-6039 Tótdevecser, Szerbmindszenti utca 98.",
+  "vevo_adoszam": "10751587-2-40",
+  "bankszamla": "13742296-86811806",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "17 320 Ft",
+  "afa_osszesen": "4 676 Ft",
+  "brutto_osszesen": "21 996 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "2 db",
+    "egysegar": "8 660",
+    "netto": "17 320",
+    "afa_kulcs": "27%",
+    "afa": "4 676",
+    "brutto": "21 996"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SÁNDOR",
+   "bbox": [
+    116,
+    114,
+    206,
+    135
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    1006,
+    92,
+    1159,
+    131
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2024/01964",
+   "bbox": [
+    875,
+    155,
+    1159,
+    174
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    81,
+    237,
+    146,
+    254
+   ]
+  },
+  {
+   "text": "Budai Logisztika Zrt.",
+   "bbox": [
+    81,
+    272,
+    311,
+    295
+   ]
+  },
+  {
+   "text": "H-6039 Tótdevecser, Szerbmindszenti utca 98.",
+   "bbox": [
+    81,
+    304,
+    545,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 10751587-2-40",
+   "bbox": [
+    81,
+    334,
+    330,
+    352
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    236,
+    701,
+    254
+   ]
+  },
+  {
+   "text": "Sándor Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    272,
+    888,
+    295
+   ]
+  },
+  {
+   "text": "H-3303 Felsőtapolcakőrös, József attila utca 119.",
+   "bbox": [
+    630,
+    304,
+    1124,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 42402921-2-11",
+   "bbox": [
+    630,
+    334,
+    879,
+    352
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    81,
+    403,
+    225,
+    417
+   ]
+  },
+  {
+   "text": "2024-11-20",
+   "bbox": [
+    81,
+    432,
+    185,
+    447
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    350,
+    403,
+    510,
+    421
+   ]
+  },
+  {
+   "text": "2024-11-20",
+   "bbox": [
+    350,
+    432,
+    454,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    403,
+    771,
+    417
+   ]
+  },
+  {
+   "text": "2024-12-05",
+   "bbox": [
+    619,
+    432,
+    723,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    888,
+    403,
+    1003,
+    417
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    888,
+    431,
+    992,
+    451
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    481,
+    188,
+    499
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    481,
+    576,
+    499
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    481,
+    749,
+    499
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    481,
+    878,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    895,
+    477,
+    943,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    477,
+    1045,
+    495
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1102,
+    481,
+    1159,
+    495
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    512,
+    522,
+    550,
+    536
+   ]
+  },
+  {
+   "text": "8 660",
+   "bbox": [
+    703,
+    522,
+    749,
+    536
+   ]
+  },
+  {
+   "text": "17 320",
+   "bbox": [
+    822,
+    522,
+    878,
+    536
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    912,
+    522,
+    943,
+    536
+   ]
+  },
+  {
+   "text": "4 676",
+   "bbox": [
+    999,
+    522,
+    1045,
+    536
+   ]
+  },
+  {
+   "text": "21 996",
+   "bbox": [
+    1103,
+    522,
+    1159,
+    536
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    81,
+    522,
+    227,
+    540
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    667,
+    577,
+    829,
+    595
+   ]
+  },
+  {
+   "text": "17 320 Ft",
+   "bbox": [
+    1064,
+    579,
+    1159,
+    595
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    685,
+    610,
+    829,
+    631
+   ]
+  },
+  {
+   "text": "4 676 Ft",
+   "bbox": [
+    1076,
+    615,
+    1159,
+    631
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    712,
+    649,
+    829,
+    672
+   ]
+  },
+  {
+   "text": "21 996 Ft",
+   "bbox": [
+    1058,
+    651,
+    1159,
+    667
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 13742296-86811806",
+   "bbox": [
+    81,
+    715,
+    435,
+    731
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    425,
+    1655,
+    815,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

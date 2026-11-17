@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "KFT-2026/01229",
+  "kiallitas_datuma": "2026-05-10",
+  "teljesites_datuma": "2026-05-05",
+  "fizetesi_hatarido": "2026-06-09",
+  "elado_nev": "Szabó Consulting Kft.",
+  "elado_cim": "H-3212 Hajdúháthida, Hetvenbányai tér 231.",
+  "elado_adoszam": "79538516-2-08",
+  "vevo_nev": "Simon Gábor",
+  "vevo_cim": "H-3690 Mindszentvár, Nagyligeti utca 217.",
+  "vevo_adoszam": null,
+  "bankszamla": "59371069-28363102-04913734",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "994 960 Ft",
+  "afa_osszesen": "265 934 Ft",
+  "brutto_osszesen": "1 260 894 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "2 év",
+    "egysegar": "27 570",
+    "netto": "55 140",
+    "afa_kulcs": "27%",
+    "afa": "14 888",
+    "brutto": "70 028"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 440",
+    "netto": "1 440",
+    "afa_kulcs": "18%",
+    "afa": "259",
+    "brutto": "1 699"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "5 db",
+    "egysegar": "97 380",
+    "netto": "486 900",
+    "afa_kulcs": "27%",
+    "afa": "131 463",
+    "brutto": "618 363"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "11 710",
+    "netto": "11 710",
+    "afa_kulcs": "5%",
+    "afa": "586",
+    "brutto": "12 296"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "87 620",
+    "netto": "438 100",
+    "afa_kulcs": "27%",
+    "afa": "118 287",
+    "brutto": "556 387"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "1 670",
+    "netto": "1 670",
+    "afa_kulcs": "27%",
+    "afa": "451",
+    "brutto": "2 121"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    117,
+    109,
+    195,
+    131
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    776,
+    100,
+    1164,
+    132
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/01229",
+   "bbox": [
+    888,
+    154,
+    1164,
+    175
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    76,
+    234,
+    146,
+    252
+   ]
+  },
+  {
+   "text": "Szabó Consulting Kft.",
+   "bbox": [
+    76,
+    270,
+    323,
+    294
+   ]
+  },
+  {
+   "text": "H-3212 Hajdúháthida, Hetvenbányai tér 231.",
+   "bbox": [
+    76,
+    303,
+    507,
+    325
+   ]
+  },
+  {
+   "text": "Adószám: 79538516-2-08",
+   "bbox": [
+    76,
+    333,
+    326,
+    350
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    234,
+    694,
+    252
+   ]
+  },
+  {
+   "text": "Simon Gábor",
+   "bbox": [
+    630,
+    270,
+    779,
+    288
+   ]
+  },
+  {
+   "text": "H-3690 Mindszentvár, Nagyligeti utca 217.",
+   "bbox": [
+    630,
+    303,
+    1041,
+    325
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    76,
+    401,
+    216,
+    415
+   ]
+  },
+  {
+   "text": "2026-05-10",
+   "bbox": [
+    76,
+    430,
+    180,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    401,
+    500,
+    419
+   ]
+  },
+  {
+   "text": "2026-05-05",
+   "bbox": [
+    348,
+    430,
+    452,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    401,
+    764,
+    415
+   ]
+  },
+  {
+   "text": "2026-06-09",
+   "bbox": [
+    620,
+    430,
+    724,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    401,
+    1002,
+    415
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    892,
+    429,
+    993,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    479,
+    185,
+    497
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    480,
+    578,
+    497
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    670,
+    479,
+    750,
+    497
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    830,
+    479,
+    881,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    476,
+    946,
+    493
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    476,
+    1050,
+    493
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    479,
+    1164,
+    493
+   ]
+  },
+  {
+   "text": "2 év",
+   "bbox": [
+    511,
+    520,
+    546,
+    534
+   ]
+  },
+  {
+   "text": "27 570",
+   "bbox": [
+    695,
+    521,
+    750,
+    534
+   ]
+  },
+  {
+   "text": "55 140",
+   "bbox": [
+    826,
+    521,
+    881,
+    534
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    521,
+    946,
+    534
+   ]
+  },
+  {
+   "text": "14 888",
+   "bbox": [
+    994,
+    521,
+    1049,
+    534
+   ]
+  },
+  {
+   "text": "70 028",
+   "bbox": [
+    1109,
+    521,
+    1164,
+    534
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    76,
+    520,
+    229,
+    538
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    511,
+    555,
+    580,
+    569
+   ]
+  },
+  {
+   "text": "1 440",
+   "bbox": [
+    705,
+    556,
+    750,
+    569
+   ]
+  },
+  {
+   "text": "1 440",
+   "bbox": [
+    836,
+    556,
+    881,
+    569
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    910,
+    556,
+    946,
+    569
+   ]
+  },
+  {
+   "text": "259",
+   "bbox": [
+    1019,
+    556,
+    1049,
+    569
+   ]
+  },
+  {
+   "text": "1 699",
+   "bbox": [
+    1119,
+    556,
+    1164,
+    569
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    76,
+    552,
+    197,
+    573
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    511,
+    590,
+    548,
+    604
+   ]
+  },
+  {
+   "text": "97 380",
+   "bbox": [
+    695,
+    591,
+    750,
+    604
+   ]
+  },
+  {
+   "text": "486 900",
+   "bbox": [
+    816,
+    591,
+    881,
+    604
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    591,
+    946,
+    604
+   ]
+  },
+  {
+   "text": "131 463",
+   "bbox": [
+    984,
+    591,
+    1049,
+    604
+   ]
+  },
+  {
+   "text": "618 363",
+   "bbox": [
+    1099,
+    591,
+    1164,
+    604
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    76,
+    590,
+    176,
+    604
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    625,
+    548,
+    639
+   ]
+  },
+  {
+   "text": "11 710",
+   "bbox": [
+    695,
+    626,
+    750,
+    639
+   ]
+  },
+  {
+   "text": "11 710",
+   "bbox": [
+    826,
+    626,
+    881,
+    639
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    920,
+    626,
+    946,
+    639
+   ]
+  },
+  {
+   "text": "586",
+   "bbox": [
+    1019,
+    626,
+    1049,
+    639
+   ]
+  },
+  {
+   "text": "12 296",
+   "bbox": [
+    1109,
+    626,
+    1164,
+    639
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    76,
+    625,
+    302,
+    643
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    511,
+    660,
+    548,
+    674
+   ]
+  },
+  {
+   "text": "87 620",
+   "bbox": [
+    695,
+    661,
+    750,
+    674
+   ]
+  },
+  {
+   "text": "438 100",
+   "bbox": [
+    816,
+    661,
+    881,
+    674
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    661,
+    946,
+    674
+   ]
+  },
+  {
+   "text": "118 287",
+   "bbox": [
+    984,
+    661,
+    1049,
+    674
+   ]
+  },
+  {
+   "text": "556 387",
+   "bbox": [
+    1099,
+    661,
+    1164,
+    674
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    76,
+    660,
+    315,
+    678
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    695,
+    548,
+    709
+   ]
+  },
+  {
+   "text": "1 670",
+   "bbox": [
+    705,
+    696,
+    750,
+    709
+   ]
+  },
+  {
+   "text": "1 670",
+   "bbox": [
+    836,
+    696,
+    881,
+    709
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    696,
+    946,
+    709
+   ]
+  },
+  {
+   "text": "451",
+   "bbox": [
+    1019,
+    696,
+    1049,
+    709
+   ]
+  },
+  {
+   "text": "2 121",
+   "bbox": [
+    1119,
+    696,
+    1164,
+    709
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    76,
+    695,
+    224,
+    713
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    675,
+    750,
+    834,
+    768
+   ]
+  },
+  {
+   "text": "994 960 Ft",
+   "bbox": [
+    1061,
+    752,
+    1164,
+    768
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    692,
+    782,
+    834,
+    804
+   ]
+  },
+  {
+   "text": "265 934 Ft",
+   "bbox": [
+    1061,
+    788,
+    1164,
+    804
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    643,
+    823,
+    834,
+    845
+   ]
+  },
+  {
+   "text": "1 260 894 Ft",
+   "bbox": [
+    1034,
+    824,
+    1164,
+    840
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 59371069-28363102-04913734",
+   "bbox": [
+    76,
+    888,
+    524,
+    904
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    76,
+    917,
+    612,
+    935
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    427,
+    1660,
+    813,
+    1677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

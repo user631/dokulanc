@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2024/05476",
+  "kiallitas_datuma": "2024. 04. 07.",
+  "teljesites_datuma": "2024. 04. 03.",
+  "fizetesi_hatarido": "2024. 05. 07.",
+  "elado_nev": "Péter Trade Kft.",
+  "elado_cim": "H-6623 Szerbhídfalva, Soproni utca 154.",
+  "elado_adoszam": "24041173-2-41",
+  "vevo_nev": "Papp Edit",
+  "vevo_cim": "H-1465 Pécs, Dunaújvárosi utca 54.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU92 1397 7412 3427 3555 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "105 210 Ft",
+  "afa_osszesen": "13 334 Ft",
+  "brutto_osszesen": "118 544 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "18 660",
+    "netto": "18 660",
+    "afa_kulcs": "5%",
+    "afa": "933",
+    "brutto": "19 593"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "5 db",
+    "egysegar": "9 970",
+    "netto": "49 850",
+    "afa_kulcs": "5%",
+    "afa": "2 492",
+    "brutto": "52 342"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "7 340",
+    "netto": "36 700",
+    "afa_kulcs": "27%",
+    "afa": "9 909",
+    "brutto": "46 609"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    529,
+    110,
+    711,
+    152
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/05476",
+   "bbox": [
+    427,
+    173,
+    812,
+    196
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    103,
+    253,
+    175,
+    273
+   ]
+  },
+  {
+   "text": "Papp Edit",
+   "bbox": [
+    103,
+    292,
+    226,
+    318
+   ]
+  },
+  {
+   "text": "H-1465 Pécs, Dunaújvárosi utca 54.",
+   "bbox": [
+    103,
+    327,
+    489,
+    352
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    253,
+    708,
+    273
+   ]
+  },
+  {
+   "text": "Péter Trade Kft.",
+   "bbox": [
+    630,
+    292,
+    833,
+    312
+   ]
+  },
+  {
+   "text": "H-6623 Szerbhídfalva, Soproni utca 154.",
+   "bbox": [
+    630,
+    327,
+    1069,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 24041173-2-41",
+   "bbox": [
+    630,
+    360,
+    908,
+    379
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    103,
+    431,
+    297,
+    450
+   ]
+  },
+  {
+   "text": "2024. 04. 07.",
+   "bbox": [
+    403,
+    432,
+    536,
+    450
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    103,
+    466,
+    316,
+    491
+   ]
+  },
+  {
+   "text": "2024. 04. 03.",
+   "bbox": [
+    403,
+    467,
+    536,
+    485
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    103,
+    501,
+    303,
+    520
+   ]
+  },
+  {
+   "text": "2024. 05. 07.",
+   "bbox": [
+    403,
+    502,
+    536,
+    520
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    103,
+    536,
+    258,
+    555
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    403,
+    536,
+    503,
+    561
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    103,
+    582,
+    232,
+    604
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    583,
+    593,
+    604
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    582,
+    744,
+    604
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    808,
+    582,
+    868,
+    599
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    870,
+    578,
+    930,
+    599
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    987,
+    578,
+    1029,
+    599
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1070,
+    582,
+    1137,
+    599
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    516,
+    626,
+    557,
+    643
+   ]
+  },
+  {
+   "text": "18 660",
+   "bbox": [
+    678,
+    627,
+    744,
+    643
+   ]
+  },
+  {
+   "text": "18 660",
+   "bbox": [
+    802,
+    627,
+    868,
+    643
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    900,
+    627,
+    930,
+    643
+   ]
+  },
+  {
+   "text": "933",
+   "bbox": [
+    992,
+    627,
+    1028,
+    643
+   ]
+  },
+  {
+   "text": "19 593",
+   "bbox": [
+    1071,
+    627,
+    1137,
+    643
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    103,
+    626,
+    366,
+    648
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    516,
+    664,
+    560,
+    681
+   ]
+  },
+  {
+   "text": "9 970",
+   "bbox": [
+    690,
+    665,
+    744,
+    681
+   ]
+  },
+  {
+   "text": "49 850",
+   "bbox": [
+    802,
+    665,
+    868,
+    681
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    900,
+    665,
+    930,
+    681
+   ]
+  },
+  {
+   "text": "2 492",
+   "bbox": [
+    974,
+    665,
+    1028,
+    681
+   ]
+  },
+  {
+   "text": "52 342",
+   "bbox": [
+    1071,
+    665,
+    1137,
+    681
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    103,
+    664,
+    359,
+    686
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    516,
+    702,
+    560,
+    719
+   ]
+  },
+  {
+   "text": "7 340",
+   "bbox": [
+    690,
+    703,
+    744,
+    719
+   ]
+  },
+  {
+   "text": "36 700",
+   "bbox": [
+    802,
+    703,
+    868,
+    719
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    703,
+    930,
+    719
+   ]
+  },
+  {
+   "text": "9 909",
+   "bbox": [
+    974,
+    703,
+    1028,
+    719
+   ]
+  },
+  {
+   "text": "46 609",
+   "bbox": [
+    1071,
+    703,
+    1137,
+    719
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    103,
+    702,
+    274,
+    724
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    625,
+    763,
+    807,
+    782
+   ]
+  },
+  {
+   "text": "105 210 Ft",
+   "bbox": [
+    1017,
+    764,
+    1137,
+    782
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    644,
+    798,
+    807,
+    821
+   ]
+  },
+  {
+   "text": "13 334 Ft",
+   "bbox": [
+    1031,
+    803,
+    1137,
+    821
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    590,
+    841,
+    807,
+    866
+   ]
+  },
+  {
+   "text": "118 544 Ft",
+   "bbox": [
+    1009,
+    842,
+    1137,
+    860
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU92 1397 7412 3427 3555 0000 0000",
+   "bbox": [
+    103,
+    908,
+    706,
+    926
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    399,
+    1630,
+    840,
+    1650
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

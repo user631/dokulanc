@@ -1,0 +1,202 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOVÁCS KISBOLT KFT.",
+  "uzlet_cim": "H-9793 Tamásiharaszti, Kunhetveni utca 180.",
+  "adoszam": "67392788-2-44",
+  "datum": "2025.09.17.",
+  "ido": "14:08",
+  "nyugtaszam": "9238/44025",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "6 679 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "5478"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1201"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS KISBOLT KFT.",
+   "bbox": [
+    130,
+    30,
+    415,
+    50
+   ]
+  },
+  {
+   "text": "H-9793 Tamásiharaszti, Kunhetveni utca",
+   "bbox": [
+    26,
+    65,
+    520,
+    85
+   ]
+  },
+  {
+   "text": "180.",
+   "bbox": [
+    247,
+    94,
+    299,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 67392788-2-44",
+   "bbox": [
+    130,
+    119,
+    416,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    225,
+    165,
+    322,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 2739",
+   "bbox": [
+    24,
+    207,
+    156,
+    221
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    232,
+    150,
+    249
+   ]
+  },
+  {
+   "text": "5478 B00",
+   "bbox": [
+    411,
+    232,
+    523,
+    249
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    266,
+    206,
+    280
+   ]
+  },
+  {
+   "text": "1201 B00",
+   "bbox": [
+    411,
+    263,
+    523,
+    280
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    305,
+    184,
+    326
+   ]
+  },
+  {
+   "text": "6 679 Ft",
+   "bbox": [
+    395,
+    306,
+    523,
+    326
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    346,
+    178,
+    364
+   ]
+  },
+  {
+   "text": "6 679 Ft",
+   "bbox": [
+    411,
+    347,
+    523,
+    364
+   ]
+  },
+  {
+   "text": "2025.09.17.",
+   "bbox": [
+    24,
+    392,
+    167,
+    407
+   ]
+  },
+  {
+   "text": "14:08",
+   "bbox": [
+    458,
+    392,
+    523,
+    407
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9238/44025",
+   "bbox": [
+    24,
+    421,
+    310,
+    441
+   ]
+  },
+  {
+   "text": "AP A61905015",
+   "bbox": [
+    24,
+    454,
+    180,
+    469
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    175,
+    496,
+    370,
+    513
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  547,
+  558
+ ]
+}

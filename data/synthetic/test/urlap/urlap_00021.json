@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Lakatos Margit",
+  "anyja_neve": "Kis Kornél",
+  "szuletesi_hely": "Nyékhátfalu",
+  "szuletesi_datum": "1971. 01. 18.",
+  "lakcim": "H-5656 Tamásifalu, Mindszentkőrösi tér 10.",
+  "telefon": "06 1 938 2965",
+  "email": "lakatos.margit@example.hu",
+  "adoazonosito_jel": "8380023617",
+  "taj_szam": "947 862 169",
+  "kelt": "Keresztkőrös, 2024. 09. 20."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    385,
+    84,
+    854,
+    117
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    191,
+    310,
+    213
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    246,
+    134,
+    260
+   ]
+  },
+  {
+   "text": "Lakatos Margit",
+   "bbox": [
+    380,
+    241,
+    527,
+    263
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    298,
+    193,
+    316
+   ]
+  },
+  {
+   "text": "Kis Kornél",
+   "bbox": [
+    380,
+    295,
+    482,
+    312
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    349,
+    214,
+    368
+   ]
+  },
+  {
+   "text": "Nyékhátfalu",
+   "bbox": [
+    380,
+    348,
+    500,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    401,
+    207,
+    416
+   ]
+  },
+  {
+   "text": "1971. 01. 18.",
+   "bbox": [
+    380,
+    400,
+    494,
+    420
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    454,
+    164,
+    468
+   ]
+  },
+  {
+   "text": "H-5656 Tamásifalu, Mindszentkőrösi tér 10.",
+   "bbox": [
+    380,
+    454,
+    810,
+    475
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    506,
+    206,
+    520
+   ]
+  },
+  {
+   "text": "06 1 938 2965",
+   "bbox": [
+    380,
+    502,
+    515,
+    522
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    558,
+    195,
+    572
+   ]
+  },
+  {
+   "text": "lakatos.margit@example.hu",
+   "bbox": [
+    380,
+    555,
+    654,
+    577
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    610,
+    240,
+    628
+   ]
+  },
+  {
+   "text": "8380023617",
+   "bbox": [
+    380,
+    609,
+    503,
+    629
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    662,
+    184,
+    676
+   ]
+  },
+  {
+   "text": "947 862 169",
+   "bbox": [
+    380,
+    659,
+    495,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    739,
+    269,
+    761
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    784,
+    420,
+    802
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    829,
+    266,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    874,
+    435,
+    892
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    976,
+    126,
+    991
+   ]
+  },
+  {
+   "text": "Keresztkőrös, 2024. 09. 20.",
+   "bbox": [
+    173,
+    972,
+    443,
+    993
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    943,
+    1025,
+    991,
+    1037
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

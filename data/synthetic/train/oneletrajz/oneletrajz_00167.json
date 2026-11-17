@@ -1,0 +1,320 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Rácz Rebeka",
+  "email": "racz.rebeka@freemail.hu",
+  "telefon": "+36 30 535 8795",
+  "lakcim": "H-9017 Bácsligetfalva, Arany jános utca 173.",
+  "szuletesi_datum": "1999.07.05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2022 – 2024"
+   },
+   {
+    "ceg": "Sándor Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2021 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "SQL",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    186,
+    104
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    92,
+    142
+   ]
+  },
+  {
+   "text": "racz.rebeka@freemail.hu",
+   "bbox": [
+    40,
+    151,
+    245,
+    165
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    104,
+    196
+   ]
+  },
+  {
+   "text": "+36 30 535 8795",
+   "bbox": [
+    40,
+    205,
+    163,
+    218
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    236,
+    99,
+    250
+   ]
+  },
+  {
+   "text": "H-9017 Bácsligetfalva, Arany jános utca",
+   "bbox": [
+    40,
+    258,
+    356,
+    276
+   ]
+  },
+  {
+   "text": "173.",
+   "bbox": [
+    40,
+    281,
+    74,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    312,
+    173,
+    326
+   ]
+  },
+  {
+   "text": "1999.07.05.",
+   "bbox": [
+    40,
+    335,
+    133,
+    348
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    394,
+    175,
+    414
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    435,
+    127,
+    453
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    488,
+    156,
+    508
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    529,
+    99,
+    543
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    555,
+    72,
+    572
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    580,
+    248,
+    599
+   ]
+  },
+  {
+   "text": "Rácz Rebeka",
+   "bbox": [
+    450,
+    92,
+    709,
+    125
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    156,
+    564,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    222,
+    675,
+    245
+   ]
+  },
+  {
+   "text": "2022 – 2024",
+   "bbox": [
+    450,
+    272,
+    550,
+    286
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Logisztika Zrt.",
+   "bbox": [
+    450,
+    295,
+    840,
+    315
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    450,
+    336,
+    549,
+    350
+   ]
+  },
+  {
+   "text": "projektmenedzser – Sándor Trade Kft.",
+   "bbox": [
+    450,
+    359,
+    823,
+    379
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    410,
+    602,
+    433
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    450,
+    460,
+    549,
+    474
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    483,
+    691,
+    503
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    506,
+    507,
+    526
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    548,
+    550,
+    562
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    572,
+    681,
+    591
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    594,
+    687,
+    614
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

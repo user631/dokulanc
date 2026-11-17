@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Viktória",
+  "email": "szabo.viktoria@outlook.com",
+  "telefon": "06 1 699 5628",
+  "lakcim": "H-1486 Töröktótvára, Tótvégi utca 74.",
+  "szuletesi_datum": "1993. május 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2011 – 2016"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Trade Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2019"
+   },
+   {
+    "ceg": "Takács Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2015 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "JavaScript",
+   "SQL",
+   "prezentáció",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Viktória",
+   "bbox": [
+    486,
+    83,
+    754,
+    114
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    542,
+    153,
+    697,
+    169
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    204,
+    144,
+    217
+   ]
+  },
+  {
+   "text": "szabo.viktoria@outlook.com",
+   "bbox": [
+    330,
+    204,
+    552,
+    219
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    233,
+    155,
+    246
+   ]
+  },
+  {
+   "text": "06 1 699 5628",
+   "bbox": [
+    330,
+    234,
+    442,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    262,
+    149,
+    275
+   ]
+  },
+  {
+   "text": "H-1486 Töröktótvára, Tótvégi utca 74.",
+   "bbox": [
+    330,
+    262,
+    624,
+    278
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    291,
+    222,
+    304
+   ]
+  },
+  {
+   "text": "1993. május 22.",
+   "bbox": [
+    330,
+    291,
+    455,
+    307
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    340,
+    277,
+    360
+   ]
+  },
+  {
+   "text": "2016 – 2019",
+   "bbox": [
+    90,
+    390,
+    187,
+    402
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Trade Bt.",
+   "bbox": [
+    90,
+    411,
+    328,
+    425
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    452,
+    187,
+    464
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Takács Tech Kft.",
+   "bbox": [
+    90,
+    473,
+    414,
+    491
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    523,
+    218,
+    543
+   ]
+  },
+  {
+   "text": "2011 – 2016",
+   "bbox": [
+    90,
+    573,
+    187,
+    585
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    594,
+    522,
+    612
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    618,
+    279,
+    631
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    658,
+    187,
+    670
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    680,
+    291,
+    697
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    703,
+    240,
+    719
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    752,
+    197,
+    772
+   ]
+  },
+  {
+   "text": "olasz (A2), francia (A2)",
+   "bbox": [
+    90,
+    801,
+    265,
+    817
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    846,
+    188,
+    866
+   ]
+  },
+  {
+   "text": "C#, JavaScript, SQL, prezentáció, ügyfélkezelés",
+   "bbox": [
+    90,
+    895,
+    445,
+    911
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

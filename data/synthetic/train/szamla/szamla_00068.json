@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2025/06688",
+  "kiallitas_datuma": "2025. 03. 11.",
+  "teljesites_datuma": "2025. 03. 10.",
+  "fizetesi_hatarido": "2025. 03. 26.",
+  "elado_nev": "Kovács Kft.",
+  "elado_cim": "H-1812 Tiszakeresztháza, Hídhidai utca 201.",
+  "elado_adoszam": "69916104-2-26",
+  "vevo_nev": "Szabó Imre",
+  "vevo_cim": "H-2613 Tótberény, Nyékhetveni utca 52.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU54 3373 4466 9248 0036 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "494 920 Ft",
+  "afa_osszesen": "123 367 Ft",
+  "brutto_osszesen": "618 287 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "5 csomag",
+    "egysegar": "2 280",
+    "netto": "11 400",
+    "afa_kulcs": "27%",
+    "afa": "3 078",
+    "brutto": "14 478"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "4 db",
+    "egysegar": "11 660",
+    "netto": "46 640",
+    "afa_kulcs": "5%",
+    "afa": "2 332",
+    "brutto": "48 972"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "2 hó",
+    "egysegar": "177 180",
+    "netto": "354 360",
+    "afa_kulcs": "27%",
+    "afa": "95 677",
+    "brutto": "450 037"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "82 520",
+    "netto": "82 520",
+    "afa_kulcs": "27%",
+    "afa": "22 280",
+    "brutto": "104 800"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    119,
+    120,
+    221,
+    143
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    786,
+    100,
+    1150,
+    137
+   ]
+  },
+  {
+   "text": "Sorszám: E-2025/06688",
+   "bbox": [
+    916,
+    164,
+    1150,
+    180
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    89,
+    243,
+    149,
+    260
+   ]
+  },
+  {
+   "text": "Szabó Imre",
+   "bbox": [
+    90,
+    277,
+    207,
+    294
+   ]
+  },
+  {
+   "text": "H-2613 Tótberény, Nyékhetveni utca 52.",
+   "bbox": [
+    90,
+    310,
+    450,
+    329
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    243,
+    696,
+    260
+   ]
+  },
+  {
+   "text": "Kovács Kft.",
+   "bbox": [
+    630,
+    277,
+    749,
+    294
+   ]
+  },
+  {
+   "text": "H-1812 Tiszakeresztháza, Hídhidai utca 201.",
+   "bbox": [
+    630,
+    310,
+    1029,
+    328
+   ]
+  },
+  {
+   "text": "Adószám: 69916104-2-26",
+   "bbox": [
+    629,
+    338,
+    860,
+    353
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    90,
+    404,
+    252,
+    419
+   ]
+  },
+  {
+   "text": "2025. 03. 11.",
+   "bbox": [
+    390,
+    404,
+    508,
+    419
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    90,
+    434,
+    266,
+    453
+   ]
+  },
+  {
+   "text": "2025. 03. 10.",
+   "bbox": [
+    390,
+    434,
+    508,
+    449
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    90,
+    464,
+    256,
+    479
+   ]
+  },
+  {
+   "text": "2025. 03. 26.",
+   "bbox": [
+    390,
+    464,
+    508,
+    479
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    90,
+    494,
+    219,
+    509
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    390,
+    494,
+    474,
+    513
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    536,
+    187,
+    551
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    536,
+    571,
+    551
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    673,
+    536,
+    747,
+    551
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    536,
+    874,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    889,
+    533,
+    938,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1004,
+    533,
+    1039,
+    548
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1099,
+    536,
+    1150,
+    548
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    514,
+    575,
+    587,
+    590
+   ]
+  },
+  {
+   "text": "2 280",
+   "bbox": [
+    706,
+    575,
+    747,
+    587
+   ]
+  },
+  {
+   "text": "11 400",
+   "bbox": [
+    824,
+    575,
+    874,
+    587
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    575,
+    938,
+    587
+   ]
+  },
+  {
+   "text": "3 078",
+   "bbox": [
+    997,
+    575,
+    1038,
+    587
+   ]
+  },
+  {
+   "text": "14 478",
+   "bbox": [
+    1100,
+    575,
+    1150,
+    587
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    90,
+    574,
+    284,
+    590
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    514,
+    608,
+    546,
+    620
+   ]
+  },
+  {
+   "text": "11 660",
+   "bbox": [
+    697,
+    608,
+    747,
+    620
+   ]
+  },
+  {
+   "text": "46 640",
+   "bbox": [
+    824,
+    608,
+    874,
+    620
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    914,
+    608,
+    938,
+    620
+   ]
+  },
+  {
+   "text": "2 332",
+   "bbox": [
+    997,
+    608,
+    1038,
+    620
+   ]
+  },
+  {
+   "text": "48 972",
+   "bbox": [
+    1100,
+    608,
+    1150,
+    620
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    90,
+    607,
+    294,
+    623
+   ]
+  },
+  {
+   "text": "2 hó",
+   "bbox": [
+    514,
+    641,
+    546,
+    653
+   ]
+  },
+  {
+   "text": "177 180",
+   "bbox": [
+    688,
+    641,
+    747,
+    653
+   ]
+  },
+  {
+   "text": "354 360",
+   "bbox": [
+    815,
+    641,
+    874,
+    653
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    641,
+    938,
+    653
+   ]
+  },
+  {
+   "text": "95 677",
+   "bbox": [
+    988,
+    641,
+    1038,
+    653
+   ]
+  },
+  {
+   "text": "450 037",
+   "bbox": [
+    1091,
+    641,
+    1150,
+    653
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    90,
+    640,
+    307,
+    656
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    674,
+    546,
+    686
+   ]
+  },
+  {
+   "text": "82 520",
+   "bbox": [
+    697,
+    674,
+    747,
+    686
+   ]
+  },
+  {
+   "text": "82 520",
+   "bbox": [
+    824,
+    674,
+    874,
+    686
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    905,
+    674,
+    938,
+    686
+   ]
+  },
+  {
+   "text": "22 280",
+   "bbox": [
+    988,
+    674,
+    1038,
+    686
+   ]
+  },
+  {
+   "text": "104 800",
+   "bbox": [
+    1091,
+    674,
+    1150,
+    686
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    90,
+    673,
+    175,
+    686
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    665,
+    728,
+    820,
+    743
+   ]
+  },
+  {
+   "text": "494 920 Ft",
+   "bbox": [
+    1047,
+    728,
+    1150,
+    743
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    674,
+    758,
+    820,
+    777
+   ]
+  },
+  {
+   "text": "123 367 Ft",
+   "bbox": [
+    1047,
+    762,
+    1150,
+    777
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    610,
+    795,
+    820,
+    811
+   ]
+  },
+  {
+   "text": "618 287 Ft",
+   "bbox": [
+    1046,
+    796,
+    1150,
+    811
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU54 3373 4466 9248 0036 0000 0000",
+   "bbox": [
+    90,
+    859,
+    598,
+    873
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    90,
+    886,
+    577,
+    901
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    506,
+    1649,
+    734,
+    1663
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

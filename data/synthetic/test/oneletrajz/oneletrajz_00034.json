@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Váradi Károly",
+  "email": "varadi.karoly@freemail.hu",
+  "telefon": "06 1 140 6952",
+  "lakcim": "H-6382 Ráchídhalas, Kossuth út 247.",
+  "szuletesi_datum": "2003. 11. 07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2023 – 2026"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fodor Consulting Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Balogh Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Linux",
+   "Docker",
+   "Python",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Váradi Károly",
+   "bbox": [
+    461,
+    91,
+    778,
+    137
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    519,
+    162,
+    720,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    216,
+    166,
+    233
+   ]
+  },
+  {
+   "text": "varadi.karoly@freemail.hu",
+   "bbox": [
+    330,
+    216,
+    600,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    249,
+    180,
+    266
+   ]
+  },
+  {
+   "text": "06 1 140 6952",
+   "bbox": [
+    330,
+    249,
+    478,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    177,
+    299
+   ]
+  },
+  {
+   "text": "H-6382 Ráchídhalas, Kossuth út 247.",
+   "bbox": [
+    330,
+    282,
+    715,
+    302
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    273,
+    332
+   ]
+  },
+  {
+   "text": "2003. 11. 07.",
+   "bbox": [
+    330,
+    315,
+    464,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    348,
+    394
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    90,
+    421,
+    247,
+    443
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Fodor Consulting Zrt.",
+   "bbox": [
+    90,
+    447,
+    610,
+    471
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    491,
+    247,
+    513
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Balogh Logisztika Kft.",
+   "bbox": [
+    90,
+    517,
+    615,
+    541
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    572,
+    267,
+    597
+   ]
+  },
+  {
+   "text": "2023 – 2026",
+   "bbox": [
+    90,
+    624,
+    219,
+    641
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    652,
+    300,
+    674
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    678,
+    231,
+    700
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    721,
+    219,
+    738
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    747,
+    384,
+    766
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    775,
+    286,
+    797
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    829,
+    236,
+    854
+   ]
+  },
+  {
+   "text": "német (B2), olasz (A2)",
+   "bbox": [
+    90,
+    881,
+    321,
+    903
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    931,
+    231,
+    956
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, Linux, Docker, Python, Git",
+   "bbox": [
+    90,
+    983,
+    624,
+    1005
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

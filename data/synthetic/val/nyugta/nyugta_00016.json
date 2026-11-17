@@ -1,0 +1,339 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KOZMA CSEMEGE BT.",
+  "uzlet_cim": "H-2482 Balatonhátvég, Szabadság utca 159.",
+  "adoszam": "17992022-4-06",
+  "datum": "2025.02.16.",
+  "ido": "16:54",
+  "nyugtaszam": "4125/42820",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 925 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1046"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1366"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "666"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2472"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "583"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "990"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "802"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOZMA CSEMEGE BT.",
+   "bbox": [
+    178,
+    36,
+    433,
+    51
+   ]
+  },
+  {
+   "text": "H-2482 Balatonhátvég, Szabadság utca 159.",
+   "bbox": [
+    39,
+    70,
+    572,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 17992022-4-06",
+   "bbox": [
+    163,
+    94,
+    449,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    257,
+    140,
+    355,
+    156
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    184,
+    164,
+    198
+   ]
+  },
+  {
+   "text": "1046 A00",
+   "bbox": [
+    476,
+    184,
+    588,
+    198
+   ]
+  },
+  {
+   "text": "2 DB x 683",
+   "bbox": [
+    24,
+    213,
+    144,
+    226
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    240,
+    150,
+    254
+   ]
+  },
+  {
+   "text": "1366 A00",
+   "bbox": [
+    476,
+    240,
+    588,
+    254
+   ]
+  },
+  {
+   "text": "3 DB x 222",
+   "bbox": [
+    24,
+    269,
+    144,
+    282
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    296,
+    220,
+    313
+   ]
+  },
+  {
+   "text": "666 A00",
+   "bbox": [
+    490,
+    296,
+    588,
+    310
+   ]
+  },
+  {
+   "text": "3 DB x 824",
+   "bbox": [
+    24,
+    325,
+    144,
+    338
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    352,
+    136,
+    366
+   ]
+  },
+  {
+   "text": "2472 A00",
+   "bbox": [
+    476,
+    352,
+    588,
+    366
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    383,
+    136,
+    397
+   ]
+  },
+  {
+   "text": "583 A00",
+   "bbox": [
+    490,
+    383,
+    588,
+    397
+   ]
+  },
+  {
+   "text": "2 DB x 495",
+   "bbox": [
+    24,
+    412,
+    144,
+    425
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    439,
+    178,
+    453
+   ]
+  },
+  {
+   "text": "990 B00",
+   "bbox": [
+    490,
+    439,
+    588,
+    453
+   ]
+  },
+  {
+   "text": "2 DB x 401",
+   "bbox": [
+    24,
+    468,
+    144,
+    481
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    495,
+    150,
+    509
+   ]
+  },
+  {
+   "text": "802 A00",
+   "bbox": [
+    490,
+    495,
+    588,
+    509
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    533,
+    184,
+    555
+   ]
+  },
+  {
+   "text": "7 925 Ft",
+   "bbox": [
+    460,
+    538,
+    588,
+    555
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    576,
+    136,
+    593
+   ]
+  },
+  {
+   "text": "7 925 Ft",
+   "bbox": [
+    476,
+    579,
+    588,
+    593
+   ]
+  },
+  {
+   "text": "2025.02.16.",
+   "bbox": [
+    24,
+    623,
+    167,
+    636
+   ]
+  },
+  {
+   "text": "16:54",
+   "bbox": [
+    523,
+    623,
+    588,
+    636
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4125/42820",
+   "bbox": [
+    24,
+    651,
+    310,
+    669
+   ]
+  },
+  {
+   "text": "AP A93829354",
+   "bbox": [
+    24,
+    685,
+    180,
+    698
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    163,
+    724,
+    449,
+    742
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  612,
+  786
+ ]
+}

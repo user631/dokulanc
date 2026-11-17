@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/00088",
+  "kiallitas_datuma": "2026.04.17.",
+  "teljesites_datuma": "2026.04.14.",
+  "fizetesi_hatarido": "2026.04.25.",
+  "elado_nev": "Szabó Kft.",
+  "elado_cim": "H-8342 Kecskemét, Somogyszéki út 26.",
+  "elado_adoszam": "82586557-5-12",
+  "vevo_nev": "Bognár Tech Kft.",
+  "vevo_cim": "H-8723 Mellékharaszti, Kishetveni utca 235.",
+  "vevo_adoszam": "43689446-2-33",
+  "bankszamla": "HU35 9124 4673 2621 9990 6958 4116",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "45 840 Ft",
+  "afa_osszesen": "6 685 Ft",
+  "brutto_osszesen": "52 525 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "3 oldal",
+    "egysegar": "6 170",
+    "netto": "18 510",
+    "afa_kulcs": "27%",
+    "afa": "4 998",
+    "brutto": "23 508"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "13 590",
+    "netto": "13 590",
+    "afa_kulcs": "5%",
+    "afa": "680",
+    "brutto": "14 270"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 460",
+    "netto": "2 460",
+    "afa_kulcs": "18%",
+    "afa": "443",
+    "brutto": "2 903"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "12 db",
+    "egysegar": "940",
+    "netto": "11 280",
+    "afa_kulcs": "5%",
+    "afa": "564",
+    "brutto": "11 844"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    146,
+    130,
+    212,
+    150
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    996,
+    106,
+    1141,
+    141
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/00088",
+   "bbox": [
+    911,
+    170,
+    1141,
+    190
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    99,
+    251,
+    162,
+    267
+   ]
+  },
+  {
+   "text": "Szabó Kft.",
+   "bbox": [
+    99,
+    287,
+    198,
+    303
+   ]
+  },
+  {
+   "text": "H-8342 Kecskemét, Somogyszéki út 26.",
+   "bbox": [
+    99,
+    320,
+    449,
+    340
+   ]
+  },
+  {
+   "text": "Adószám: 82586557-5-12",
+   "bbox": [
+    99,
+    350,
+    329,
+    366
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    251,
+    687,
+    267
+   ]
+  },
+  {
+   "text": "Bognár Tech Kft.",
+   "bbox": [
+    630,
+    287,
+    793,
+    307
+   ]
+  },
+  {
+   "text": "H-8723 Mellékharaszti, Kishetveni utca 235.",
+   "bbox": [
+    630,
+    320,
+    1024,
+    340
+   ]
+  },
+  {
+   "text": "Adószám: 43689446-2-33",
+   "bbox": [
+    630,
+    350,
+    860,
+    366
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    99,
+    419,
+    226,
+    432
+   ]
+  },
+  {
+   "text": "2026.04.17.",
+   "bbox": [
+    99,
+    448,
+    202,
+    461
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    419,
+    500,
+    435
+   ]
+  },
+  {
+   "text": "2026.04.14.",
+   "bbox": [
+    359,
+    448,
+    462,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    419,
+    752,
+    432
+   ]
+  },
+  {
+   "text": "2026.04.25.",
+   "bbox": [
+    619,
+    448,
+    722,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    419,
+    980,
+    432
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    879,
+    447,
+    947,
+    461
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    99,
+    497,
+    200,
+    513
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    498,
+    576,
+    513
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    497,
+    745,
+    513
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    497,
+    870,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    494,
+    932,
+    510
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    998,
+    494,
+    1031,
+    510
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1089,
+    497,
+    1141,
+    510
+   ]
+  },
+  {
+   "text": "3 oldal",
+   "bbox": [
+    515,
+    538,
+    566,
+    551
+   ]
+  },
+  {
+   "text": "6 170",
+   "bbox": [
+    701,
+    539,
+    745,
+    551
+   ]
+  },
+  {
+   "text": "18 510",
+   "bbox": [
+    816,
+    539,
+    870,
+    551
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    539,
+    932,
+    551
+   ]
+  },
+  {
+   "text": "4 998",
+   "bbox": [
+    987,
+    539,
+    1031,
+    551
+   ]
+  },
+  {
+   "text": "23 508",
+   "bbox": [
+    1087,
+    539,
+    1141,
+    551
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    99,
+    538,
+    307,
+    554
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    515,
+    573,
+    547,
+    586
+   ]
+  },
+  {
+   "text": "13 590",
+   "bbox": [
+    691,
+    574,
+    745,
+    586
+   ]
+  },
+  {
+   "text": "13 590",
+   "bbox": [
+    816,
+    574,
+    870,
+    586
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    574,
+    932,
+    586
+   ]
+  },
+  {
+   "text": "680",
+   "bbox": [
+    1001,
+    574,
+    1031,
+    586
+   ]
+  },
+  {
+   "text": "14 270",
+   "bbox": [
+    1087,
+    574,
+    1141,
+    586
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    99,
+    573,
+    308,
+    589
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    515,
+    608,
+    580,
+    621
+   ]
+  },
+  {
+   "text": "2 460",
+   "bbox": [
+    701,
+    609,
+    745,
+    621
+   ]
+  },
+  {
+   "text": "2 460",
+   "bbox": [
+    826,
+    609,
+    870,
+    621
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    898,
+    609,
+    932,
+    621
+   ]
+  },
+  {
+   "text": "443",
+   "bbox": [
+    1001,
+    609,
+    1031,
+    621
+   ]
+  },
+  {
+   "text": "2 903",
+   "bbox": [
+    1097,
+    609,
+    1141,
+    621
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    99,
+    605,
+    213,
+    624
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    515,
+    643,
+    559,
+    656
+   ]
+  },
+  {
+   "text": "940",
+   "bbox": [
+    715,
+    644,
+    745,
+    656
+   ]
+  },
+  {
+   "text": "11 280",
+   "bbox": [
+    816,
+    644,
+    870,
+    656
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    644,
+    932,
+    656
+   ]
+  },
+  {
+   "text": "564",
+   "bbox": [
+    1001,
+    644,
+    1031,
+    656
+   ]
+  },
+  {
+   "text": "11 844",
+   "bbox": [
+    1087,
+    644,
+    1141,
+    656
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    99,
+    643,
+    189,
+    659
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    664,
+    697,
+    811,
+    714
+   ]
+  },
+  {
+   "text": "45 840 Ft",
+   "bbox": [
+    1052,
+    699,
+    1141,
+    714
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    681,
+    731,
+    811,
+    750
+   ]
+  },
+  {
+   "text": "6 685 Ft",
+   "bbox": [
+    1064,
+    735,
+    1141,
+    750
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    643,
+    770,
+    811,
+    790
+   ]
+  },
+  {
+   "text": "52 525 Ft",
+   "bbox": [
+    1052,
+    771,
+    1141,
+    786
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU35 9124 4673 2621 9990 6958 4116",
+   "bbox": [
+    99,
+    836,
+    595,
+    850
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    99,
+    866,
+    597,
+    881
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

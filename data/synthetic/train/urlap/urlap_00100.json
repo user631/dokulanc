@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Dénes",
+  "anyja_neve": "Szabó Györgyi",
+  "szuletesi_hely": "Györgyhalas",
+  "szuletesi_datum": "1972.10.09.",
+  "lakcim": "H-5556 Szeged, Érdi utca 196.",
+  "telefon": "+36 30 170 3233",
+  "email": "nagy.denes@freemail.hu",
+  "adoazonosito_jel": "8386325690",
+  "taj_szam": "113 649 525",
+  "kelt": "Mindszentháza, 2024.01.26."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    372,
+    83,
+    867,
+    118
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    196,
+    328,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    253,
+    138,
+    268
+   ]
+  },
+  {
+   "text": "Nagy Dénes",
+   "bbox": [
+    383,
+    254,
+    509,
+    277
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    306,
+    202,
+    327
+   ]
+  },
+  {
+   "text": "Szabó Györgyi",
+   "bbox": [
+    383,
+    307,
+    534,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    360,
+    226,
+    381
+   ]
+  },
+  {
+   "text": "Györgyhalas",
+   "bbox": [
+    383,
+    356,
+    514,
+    379
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    414,
+    217,
+    430
+   ]
+  },
+  {
+   "text": "1972.10.09.",
+   "bbox": [
+    383,
+    415,
+    504,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    468,
+    172,
+    484
+   ]
+  },
+  {
+   "text": "H-5556 Szeged, Érdi utca 196.",
+   "bbox": [
+    383,
+    460,
+    705,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    522,
+    219,
+    538
+   ]
+  },
+  {
+   "text": "+36 30 170 3233",
+   "bbox": [
+    383,
+    523,
+    560,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    576,
+    206,
+    592
+   ]
+  },
+  {
+   "text": "nagy.denes@freemail.hu",
+   "bbox": [
+    383,
+    577,
+    646,
+    600
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    630,
+    253,
+    651
+   ]
+  },
+  {
+   "text": "8386325690",
+   "bbox": [
+    383,
+    631,
+    520,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    685,
+    193,
+    700
+   ]
+  },
+  {
+   "text": "113 649 525",
+   "bbox": [
+    383,
+    682,
+    509,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    764,
+    283,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    809,
+    450,
+    830
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    854,
+    281,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    899,
+    466,
+    920
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    1002,
+    130,
+    1019
+   ]
+  },
+  {
+   "text": "Mindszentháza, 2024.01.26.",
+   "bbox": [
+    173,
+    999,
+    471,
+    1021
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    941,
+    1051,
+    993,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

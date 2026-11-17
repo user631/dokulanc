@@ -1,0 +1,252 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ ABC BT.",
+  "uzlet_cim": "H-8825 Érd, Fürdőházai utca 141.",
+  "adoszam": "90885105-4-23",
+  "datum": "2024.05.24.",
+  "ido": "20:01",
+  "nyugtaszam": "3626/85943",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "4 631 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "621"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1297"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "781"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1095"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "937"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ABC BT.",
+   "bbox": [
+    188,
+    28,
+    357,
+    48
+   ]
+  },
+  {
+   "text": "H-8825 Érd, Fürdőházai utca 141.",
+   "bbox": [
+    113,
+    63,
+    433,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90885105-4-23",
+   "bbox": [
+    163,
+    88,
+    383,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    231,
+    130,
+    315,
+    146
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    173,
+    216,
+    186
+   ]
+  },
+  {
+   "text": "621 A00",
+   "bbox": [
+    439,
+    173,
+    523,
+    186
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    202,
+    168,
+    215
+   ]
+  },
+  {
+   "text": "1297 C00",
+   "bbox": [
+    427,
+    202,
+    523,
+    215
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    231,
+    120,
+    244
+   ]
+  },
+  {
+   "text": "781 A00",
+   "bbox": [
+    439,
+    231,
+    523,
+    244
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    260,
+    144,
+    273
+   ]
+  },
+  {
+   "text": "1095 C00",
+   "bbox": [
+    427,
+    260,
+    523,
+    273
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    289,
+    120,
+    302
+   ]
+  },
+  {
+   "text": "937 C00",
+   "bbox": [
+    439,
+    289,
+    523,
+    302
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    326,
+    150,
+    346
+   ]
+  },
+  {
+   "text": "4 631 Ft",
+   "bbox": [
+    411,
+    330,
+    523,
+    346
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    365,
+    156,
+    382
+   ]
+  },
+  {
+   "text": "4 631 Ft",
+   "bbox": [
+    427,
+    369,
+    523,
+    382
+   ]
+  },
+  {
+   "text": "2024.05.24.",
+   "bbox": [
+    24,
+    412,
+    134,
+    424
+   ]
+  },
+  {
+   "text": "20:01",
+   "bbox": [
+    473,
+    412,
+    523,
+    424
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3626/85943",
+   "bbox": [
+    24,
+    438,
+    244,
+    455
+   ]
+  },
+  {
+   "text": "AP A44909207",
+   "bbox": [
+    24,
+    470,
+    144,
+    482
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    152,
+    506,
+    394,
+    523
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  547,
+  569
+ ]
+}

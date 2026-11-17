@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Molnár Attila",
+  "email": "molnar.attila@outlook.com",
+  "telefon": "+36 20 578 8595",
+  "lakcim": "H-6881 Ligetapáti, Borsodháti utca 64.",
+  "szuletesi_datum": "1983. 09. 05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2011 – 2012"
+   },
+   {
+    "ceg": "Deák Trade Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2007 – 2011"
+   },
+   {
+    "ceg": "Molnár Consulting Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2006 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "JavaScript",
+   "SAP",
+   "Linux",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Molnár Attila",
+   "bbox": [
+    451,
+    120,
+    788,
+    159
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    554,
+    186,
+    685,
+    214
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    241,
+    172,
+    258
+   ]
+  },
+  {
+   "text": "molnar.attila@outlook.com",
+   "bbox": [
+    330,
+    241,
+    617,
+    260
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    272,
+    185,
+    289
+   ]
+  },
+  {
+   "text": "+36 20 578 8595",
+   "bbox": [
+    330,
+    273,
+    511,
+    289
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    303,
+    180,
+    320
+   ]
+  },
+  {
+   "text": "H-6881 Ligetapáti, Borsodháti utca 64.",
+   "bbox": [
+    330,
+    303,
+    741,
+    324
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    334,
+    288,
+    351
+   ]
+  },
+  {
+   "text": "1983. 09. 05.",
+   "bbox": [
+    330,
+    335,
+    472,
+    351
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    386,
+    375,
+    411
+   ]
+  },
+  {
+   "text": "2011 – 2012",
+   "bbox": [
+    90,
+    437,
+    221,
+    453
+   ]
+  },
+  {
+   "text": "értékesítő – Mészáros Kft.",
+   "bbox": [
+    90,
+    461,
+    417,
+    479
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    503,
+    221,
+    519
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Deák Trade Bt.",
+   "bbox": [
+    90,
+    527,
+    514,
+    549
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    90,
+    569,
+    221,
+    585
+   ]
+  },
+  {
+   "text": "irodavezető – Molnár Consulting Bt.",
+   "bbox": [
+    90,
+    593,
+    538,
+    615
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    644,
+    280,
+    670
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    696,
+    221,
+    712
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    716,
+    293,
+    742
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    745,
+    347,
+    762
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    90,
+    787,
+    221,
+    803
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    811,
+    407,
+    829
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    836,
+    184,
+    857
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    887,
+    247,
+    913
+   ]
+  },
+  {
+   "text": "német (B2), angol (C1)",
+   "bbox": [
+    90,
+    938,
+    339,
+    959
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    985,
+    239,
+    1011
+   ]
+  },
+  {
+   "text": "Python, JavaScript, SAP, Linux, Docker",
+   "bbox": [
+    90,
+    1036,
+    503,
+    1057
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

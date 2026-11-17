@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/06730",
+  "kiallitas_datuma": "2024-07-02",
+  "teljesites_datuma": "2024-07-02",
+  "fizetesi_hatarido": "2024-07-17",
+  "elado_nev": "Kiss Logisztika Kft.",
+  "elado_cim": "H-3331 Dunakeszi, Dunagyörgyi tér 44.",
+  "elado_adoszam": "64576514-3-31",
+  "vevo_nev": "Varga Zrt.",
+  "vevo_cim": "H-1789 Tapolcafalva, Nyíregyházai tér 145.",
+  "vevo_adoszam": "52565029-4-23",
+  "bankszamla": "08359645-52490158",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "540 500 Ft",
+  "afa_osszesen": "145 935 Ft",
+  "brutto_osszesen": "686 435 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "3 240",
+    "netto": "3 240",
+    "afa_kulcs": "27%",
+    "afa": "875",
+    "brutto": "4 115"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "12 500",
+    "netto": "12 500",
+    "afa_kulcs": "27%",
+    "afa": "3 375",
+    "brutto": "15 875"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "39 770",
+    "netto": "477 240",
+    "afa_kulcs": "27%",
+    "afa": "128 855",
+    "brutto": "606 095"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "3 960",
+    "netto": "47 520",
+    "afa_kulcs": "27%",
+    "afa": "12 830",
+    "brutto": "60 350"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    389,
+    87,
+    850,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/06730",
+   "bbox": [
+    411,
+    144,
+    829,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    79,
+    225,
+    159,
+    243
+   ]
+  },
+  {
+   "text": "Kiss Logisztika Kft.",
+   "bbox": [
+    79,
+    260,
+    326,
+    283
+   ]
+  },
+  {
+   "text": "H-3331 Dunakeszi, Dunagyörgyi tér 44.",
+   "bbox": [
+    79,
+    292,
+    498,
+    313
+   ]
+  },
+  {
+   "text": "Adószám: 64576514-3-31",
+   "bbox": [
+    79,
+    321,
+    354,
+    338
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    225,
+    703,
+    243
+   ]
+  },
+  {
+   "text": "Varga Zrt.",
+   "bbox": [
+    630,
+    261,
+    758,
+    283
+   ]
+  },
+  {
+   "text": "H-1789 Tapolcafalva, Nyíregyházai tér 145.",
+   "bbox": [
+    630,
+    292,
+    1091,
+    313
+   ]
+  },
+  {
+   "text": "Adószám: 52565029-4-23",
+   "bbox": [
+    630,
+    321,
+    905,
+    338
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    79,
+    388,
+    243,
+    402
+   ]
+  },
+  {
+   "text": "2024-07-02",
+   "bbox": [
+    79,
+    416,
+    201,
+    431
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    349,
+    388,
+    529,
+    406
+   ]
+  },
+  {
+   "text": "2024-07-02",
+   "bbox": [
+    349,
+    416,
+    471,
+    431
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    388,
+    788,
+    402
+   ]
+  },
+  {
+   "text": "2024-07-17",
+   "bbox": [
+    619,
+    416,
+    741,
+    431
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    889,
+    388,
+    1017,
+    402
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    889,
+    414,
+    969,
+    431
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    79,
+    464,
+    204,
+    482
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    465,
+    585,
+    482
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    464,
+    749,
+    482
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    464,
+    879,
+    478
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    461,
+    944,
+    478
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    461,
+    1047,
+    478
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1097,
+    464,
+    1161,
+    478
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    504,
+    600,
+    518
+   ]
+  },
+  {
+   "text": "3 240",
+   "bbox": [
+    699,
+    505,
+    749,
+    518
+   ]
+  },
+  {
+   "text": "3 240",
+   "bbox": [
+    829,
+    505,
+    879,
+    518
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    505,
+    944,
+    518
+   ]
+  },
+  {
+   "text": "875",
+   "bbox": [
+    1014,
+    505,
+    1047,
+    518
+   ]
+  },
+  {
+   "text": "4 115",
+   "bbox": [
+    1111,
+    505,
+    1161,
+    518
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    79,
+    504,
+    186,
+    522
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    538,
+    550,
+    552
+   ]
+  },
+  {
+   "text": "12 500",
+   "bbox": [
+    688,
+    539,
+    749,
+    552
+   ]
+  },
+  {
+   "text": "12 500",
+   "bbox": [
+    818,
+    539,
+    879,
+    552
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    539,
+    944,
+    552
+   ]
+  },
+  {
+   "text": "3 375",
+   "bbox": [
+    997,
+    539,
+    1047,
+    552
+   ]
+  },
+  {
+   "text": "15 875",
+   "bbox": [
+    1100,
+    539,
+    1161,
+    552
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    79,
+    538,
+    195,
+    556
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    511,
+    572,
+    561,
+    586
+   ]
+  },
+  {
+   "text": "39 770",
+   "bbox": [
+    688,
+    573,
+    749,
+    586
+   ]
+  },
+  {
+   "text": "477 240",
+   "bbox": [
+    807,
+    573,
+    879,
+    586
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    573,
+    944,
+    586
+   ]
+  },
+  {
+   "text": "128 855",
+   "bbox": [
+    975,
+    573,
+    1047,
+    586
+   ]
+  },
+  {
+   "text": "606 095",
+   "bbox": [
+    1089,
+    573,
+    1161,
+    586
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    79,
+    572,
+    244,
+    590
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    511,
+    606,
+    582,
+    620
+   ]
+  },
+  {
+   "text": "3 960",
+   "bbox": [
+    699,
+    607,
+    749,
+    620
+   ]
+  },
+  {
+   "text": "47 520",
+   "bbox": [
+    818,
+    607,
+    879,
+    620
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    903,
+    607,
+    944,
+    620
+   ]
+  },
+  {
+   "text": "12 830",
+   "bbox": [
+    986,
+    607,
+    1047,
+    620
+   ]
+  },
+  {
+   "text": "60 350",
+   "bbox": [
+    1100,
+    607,
+    1161,
+    620
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    79,
+    606,
+    325,
+    624
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    655,
+    660,
+    831,
+    678
+   ]
+  },
+  {
+   "text": "540 500 Ft",
+   "bbox": [
+    1039,
+    662,
+    1161,
+    678
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    672,
+    691,
+    831,
+    713
+   ]
+  },
+  {
+   "text": "145 935 Ft",
+   "bbox": [
+    1039,
+    697,
+    1161,
+    713
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    691,
+    730,
+    831,
+    752
+   ]
+  },
+  {
+   "text": "686 435 Ft",
+   "bbox": [
+    1025,
+    732,
+    1161,
+    748
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 08359645-52490158",
+   "bbox": [
+    79,
+    794,
+    484,
+    811
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1658,
+    761,
+    1674
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

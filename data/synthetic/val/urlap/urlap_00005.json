@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Balogh Emma",
+  "anyja_neve": "Katona Dávid",
+  "szuletesi_hely": "Dunaújváros",
+  "szuletesi_datum": "1995.10.04.",
+  "lakcim": "H-9133 Hódmezővásárhely, Hátnádasdi tér 210.",
+  "telefon": "+36 70 409 9972",
+  "email": "balogh.emma@example.hu",
+  "adoazonosito_jel": "8470271482",
+  "taj_szam": "330 175 766",
+  "kelt": "Hídháza, 2024.12.19."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    282,
+    108,
+    958,
+    145
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    443,
+    165,
+    796,
+    183
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    107,
+    219,
+    371,
+    242
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    119,
+    271,
+    167,
+    288
+   ]
+  },
+  {
+   "text": "Balogh Emma",
+   "bbox": [
+    449,
+    270,
+    599,
+    297
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    119,
+    326,
+    242,
+    345
+   ]
+  },
+  {
+   "text": "Katona Dávid",
+   "bbox": [
+    449,
+    326,
+    600,
+    347
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    119,
+    377,
+    267,
+    398
+   ]
+  },
+  {
+   "text": "Dunaújváros",
+   "bbox": [
+    449,
+    374,
+    591,
+    401
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    119,
+    430,
+    254,
+    447
+   ]
+  },
+  {
+   "text": "1995.10.04.",
+   "bbox": [
+    449,
+    431,
+    579,
+    452
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    119,
+    483,
+    197,
+    500
+   ]
+  },
+  {
+   "text": "H-9133 Hódmezővásárhely, Hátnádasdi tér 210.",
+   "bbox": [
+    449,
+    483,
+    1002,
+    510
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    119,
+    536,
+    253,
+    553
+   ]
+  },
+  {
+   "text": "+36 70 409 9972",
+   "bbox": [
+    449,
+    536,
+    647,
+    557
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    119,
+    589,
+    232,
+    606
+   ]
+  },
+  {
+   "text": "balogh.emma@example.hu",
+   "bbox": [
+    449,
+    589,
+    746,
+    616
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    119,
+    642,
+    292,
+    663
+   ]
+  },
+  {
+   "text": "8470271482",
+   "bbox": [
+    449,
+    641,
+    595,
+    661
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    119,
+    695,
+    222,
+    712
+   ]
+  },
+  {
+   "text": "330 175 766",
+   "bbox": [
+    449,
+    694,
+    594,
+    714
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    107,
+    777,
+    316,
+    800
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    152,
+    819,
+    506,
+    840
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    152,
+    864,
+    318,
+    881
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    152,
+    909,
+    525,
+    930
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    107,
+    1014,
+    159,
+    1031
+   ]
+  },
+  {
+   "text": "Hídháza, 2024.12.19.",
+   "bbox": [
+    197,
+    1013,
+    419,
+    1034
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    915,
+    1063,
+    971,
+    1077
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Horváth Lajos",
+  "anyja_neve": "Tóth Mária",
+  "szuletesi_hely": "Székesfehérvár",
+  "szuletesi_datum": "2004.04.20.",
+  "lakcim": "H-2418 Mártondevecser, Székesfehérvári utca 229.",
+  "telefon": "+36 30 629 4987",
+  "email": "horvath.lajos@example.hu",
+  "adoazonosito_jel": "8501486760",
+  "taj_szam": "646 925 936",
+  "kelt": "Tapolcaháza, 2024.04.26."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    410,
+    103,
+    829,
+    139
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    159,
+    780,
+    177
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    98,
+    214,
+    329,
+    238
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    110,
+    269,
+    152,
+    284
+   ]
+  },
+  {
+   "text": "Horváth Lajos",
+   "bbox": [
+    402,
+    264,
+    563,
+    291
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    322,
+    217,
+    343
+   ]
+  },
+  {
+   "text": "Tóth Mária",
+   "bbox": [
+    402,
+    316,
+    532,
+    337
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    110,
+    376,
+    240,
+    397
+   ]
+  },
+  {
+   "text": "Székesfehérvár",
+   "bbox": [
+    403,
+    369,
+    575,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    110,
+    430,
+    231,
+    446
+   ]
+  },
+  {
+   "text": "2004.04.20.",
+   "bbox": [
+    403,
+    426,
+    553,
+    447
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    110,
+    484,
+    179,
+    500
+   ]
+  },
+  {
+   "text": "H-2418 Mártondevecser, Székesfehérvári utca 229.",
+   "bbox": [
+    402,
+    477,
+    989,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    538,
+    232,
+    554
+   ]
+  },
+  {
+   "text": "+36 30 629 4987",
+   "bbox": [
+    403,
+    533,
+    620,
+    555
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    110,
+    592,
+    212,
+    608
+   ]
+  },
+  {
+   "text": "horvath.lajos@example.hu",
+   "bbox": [
+    403,
+    588,
+    695,
+    612
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    646,
+    270,
+    667
+   ]
+  },
+  {
+   "text": "8501486760",
+   "bbox": [
+    403,
+    645,
+    559,
+    666
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    701,
+    202,
+    716
+   ]
+  },
+  {
+   "text": "646 925 936",
+   "bbox": [
+    403,
+    694,
+    565,
+    716
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    98,
+    782,
+    285,
+    806
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    143,
+    825,
+    466,
+    846
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    143,
+    870,
+    290,
+    886
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    915,
+    486,
+    936
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    98,
+    1020,
+    140,
+    1037
+   ]
+  },
+  {
+   "text": "Tapolcaháza, 2024.04.26.",
+   "bbox": [
+    187,
+    1013,
+    474,
+    1036
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    927,
+    1069,
+    976,
+    1083
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

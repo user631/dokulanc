@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BIRÓ MARKET KFT.",
+  "uzlet_cim": "H-1713 Tamásivár, Egyházasi utca 131.",
+  "adoszam": "98903078-4-42",
+  "datum": "2026.09.10.",
+  "ido": "12:06",
+  "nyugtaszam": "4089/85727",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 524 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "731"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "304"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3573"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3117"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2799"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BIRÓ MARKET KFT.",
+   "bbox": [
+    174,
+    28,
+    382,
+    48
+   ]
+  },
+  {
+   "text": "H-1713 Tamásivár, Egyházasi utca 131.",
+   "bbox": [
+    74,
+    64,
+    481,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 98903078-4-42",
+   "bbox": [
+    157,
+    88,
+    399,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    133,
+    321,
+    150
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    177,
+    216,
+    191
+   ]
+  },
+  {
+   "text": "731 C00",
+   "bbox": [
+    449,
+    177,
+    533,
+    191
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    207,
+    180,
+    221
+   ]
+  },
+  {
+   "text": "304 B00",
+   "bbox": [
+    449,
+    207,
+    533,
+    221
+   ]
+  },
+  {
+   "text": "3 DB x 1191",
+   "bbox": [
+    24,
+    237,
+    134,
+    249
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    261,
+    144,
+    275
+   ]
+  },
+  {
+   "text": "3573 C00",
+   "bbox": [
+    437,
+    261,
+    533,
+    275
+   ]
+  },
+  {
+   "text": "3 DB x 1039",
+   "bbox": [
+    24,
+    291,
+    134,
+    303
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    315,
+    120,
+    329
+   ]
+  },
+  {
+   "text": "3117 A00",
+   "bbox": [
+    437,
+    315,
+    533,
+    329
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    345,
+    252,
+    359
+   ]
+  },
+  {
+   "text": "2799 B00",
+   "bbox": [
+    437,
+    345,
+    533,
+    359
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    383,
+    150,
+    404
+   ]
+  },
+  {
+   "text": "10 524 Ft",
+   "bbox": [
+    407,
+    387,
+    533,
+    404
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    422,
+    144,
+    441
+   ]
+  },
+  {
+   "text": "10 524 Ft",
+   "bbox": [
+    425,
+    427,
+    533,
+    441
+   ]
+  },
+  {
+   "text": "2026.09.10.",
+   "bbox": [
+    24,
+    470,
+    145,
+    483
+   ]
+  },
+  {
+   "text": "12:06",
+   "bbox": [
+    478,
+    470,
+    533,
+    483
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4089/85727",
+   "bbox": [
+    24,
+    496,
+    266,
+    515
+   ]
+  },
+  {
+   "text": "AP A70406903",
+   "bbox": [
+    24,
+    530,
+    156,
+    543
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    188,
+    569,
+    368,
+    586
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  557,
+  632
+ ]
+}

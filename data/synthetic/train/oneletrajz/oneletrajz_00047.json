@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Tóth József",
+  "email": "toth.jozsef@outlook.com",
+  "telefon": "+36 70 501 5281",
+  "lakcim": "H-7371 Nádasd, Györgynémetii utca 39.",
+  "szuletesi_datum": "1989. 05. 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2011 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Python",
+   "JavaScript",
+   "Linux",
+   "Java",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth József",
+   "bbox": [
+    492,
+    109,
+    750,
+    144
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    178,
+    707,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    158,
+    244
+   ]
+  },
+  {
+   "text": "toth.jozsef@outlook.com",
+   "bbox": [
+    330,
+    229,
+    550,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    259,
+    168,
+    274
+   ]
+  },
+  {
+   "text": "+36 70 501 5281",
+   "bbox": [
+    330,
+    259,
+    481,
+    274
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    289,
+    166,
+    304
+   ]
+  },
+  {
+   "text": "H-7371 Nádasd, Györgynémetii utca 39.",
+   "bbox": [
+    330,
+    289,
+    688,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    319,
+    250,
+    334
+   ]
+  },
+  {
+   "text": "1989. 05. 22.",
+   "bbox": [
+    330,
+    319,
+    448,
+    334
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    315,
+    392
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    90,
+    419,
+    201,
+    434
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Kft.",
+   "bbox": [
+    90,
+    443,
+    386,
+    463
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    492,
+    246,
+    516
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    90,
+    543,
+    201,
+    558
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    567,
+    347,
+    587
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    591,
+    215,
+    610
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    631,
+    201,
+    646
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    655,
+    339,
+    675
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    679,
+    316,
+    698
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    728,
+    217,
+    752
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    779,
+    183,
+    798
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    824,
+    213,
+    848
+   ]
+  },
+  {
+   "text": "prezentáció, Python, JavaScript, Linux, Java, Git",
+   "bbox": [
+    90,
+    875,
+    523,
+    894
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

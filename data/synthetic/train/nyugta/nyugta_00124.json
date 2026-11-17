@@ -1,0 +1,378 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS KISBOLT BT.",
+  "uzlet_cim": "H-8078 Újhídkőrös, Szerbi utca 25.",
+  "adoszam": "59982872-2-10",
+  "datum": "2025.03.23.",
+  "ido": "18:32",
+  "nyugtaszam": "4101/59166",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 701 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1047"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "955"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2011"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "438"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1229"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4946"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1474"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "886"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "638"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "77"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS KISBOLT BT.",
+   "bbox": [
+    155,
+    36,
+    379,
+    50
+   ]
+  },
+  {
+   "text": "H-8078 Újhídkőrös, Szerbi utca 25.",
+   "bbox": [
+    80,
+    64,
+    454,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 59982872-2-10",
+   "bbox": [
+    146,
+    89,
+    388,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    221,
+    133,
+    313,
+    148
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    176,
+    193,
+    188
+   ]
+  },
+  {
+   "text": "1047 C00",
+   "bbox": [
+    406,
+    175,
+    510,
+    188
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    204,
+    128,
+    217
+   ]
+  },
+  {
+   "text": "955 A00",
+   "bbox": [
+    419,
+    204,
+    510,
+    217
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    233,
+    271,
+    246
+   ]
+  },
+  {
+   "text": "2011 B00",
+   "bbox": [
+    406,
+    233,
+    510,
+    246
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    263,
+    206,
+    275
+   ]
+  },
+  {
+   "text": "438 C00",
+   "bbox": [
+    419,
+    262,
+    510,
+    275
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    291,
+    154,
+    304
+   ]
+  },
+  {
+   "text": "1229 A00",
+   "bbox": [
+    406,
+    291,
+    510,
+    304
+   ]
+  },
+  {
+   "text": "2 DB x 2473",
+   "bbox": [
+    24,
+    319,
+    145,
+    330
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    343,
+    141,
+    356
+   ]
+  },
+  {
+   "text": "4946 A00",
+   "bbox": [
+    406,
+    343,
+    510,
+    356
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    373,
+    154,
+    385
+   ]
+  },
+  {
+   "text": "1474 C00",
+   "bbox": [
+    406,
+    372,
+    510,
+    385
+   ]
+  },
+  {
+   "text": "2 DB x 443",
+   "bbox": [
+    24,
+    400,
+    134,
+    411
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    424,
+    206,
+    437
+   ]
+  },
+  {
+   "text": "886 A00",
+   "bbox": [
+    419,
+    424,
+    510,
+    437
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    453,
+    167,
+    466
+   ]
+  },
+  {
+   "text": "638 C00",
+   "bbox": [
+    419,
+    453,
+    510,
+    466
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    483,
+    102,
+    495
+   ]
+  },
+  {
+   "text": "77 A00",
+   "bbox": [
+    432,
+    482,
+    510,
+    495
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    518,
+    174,
+    539
+   ]
+  },
+  {
+   "text": "13 701 Ft",
+   "bbox": [
+    375,
+    523,
+    510,
+    539
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    559,
+    154,
+    575
+   ]
+  },
+  {
+   "text": "13 701 Ft",
+   "bbox": [
+    393,
+    562,
+    510,
+    575
+   ]
+  },
+  {
+   "text": "2025.03.23.",
+   "bbox": [
+    24,
+    604,
+    145,
+    616
+   ]
+  },
+  {
+   "text": "18:32",
+   "bbox": [
+    455,
+    604,
+    510,
+    616
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4101/59166",
+   "bbox": [
+    24,
+    630,
+    266,
+    647
+   ]
+  },
+  {
+   "text": "AP A43847603",
+   "bbox": [
+    24,
+    662,
+    156,
+    674
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    207,
+    701,
+    327,
+    716
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  534,
+  760
+ ]
+}

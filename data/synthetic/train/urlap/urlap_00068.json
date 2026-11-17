@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Németh Zoltán",
+  "anyja_neve": "Fazekas Annamária",
+  "szuletesi_hely": "Németkőrös",
+  "szuletesi_datum": "1974.04.08.",
+  "lakcim": "H-7497 Melléknémeti, Dunakeszii utca 178.",
+  "telefon": "06 1 215 4689",
+  "email": "nemeth.zoltan@citromail.hu",
+  "adoazonosito_jel": "8391787281",
+  "taj_szam": "593 904 273",
+  "kelt": "Szerbhetvendevecser, 2025.11.01."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    501,
+    87,
+    738,
+    124
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    196,
+    314,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    250,
+    138,
+    265
+   ]
+  },
+  {
+   "text": "Németh Zoltán",
+   "bbox": [
+    385,
+    248,
+    528,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    98,
+    303,
+    198,
+    321
+   ]
+  },
+  {
+   "text": "Fazekas Annamária",
+   "bbox": [
+    385,
+    297,
+    574,
+    315
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    354,
+    218,
+    373
+   ]
+  },
+  {
+   "text": "Németkőrös",
+   "bbox": [
+    385,
+    352,
+    502,
+    370
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    406,
+    209,
+    421
+   ]
+  },
+  {
+   "text": "1974.04.08.",
+   "bbox": [
+    385,
+    405,
+    502,
+    421
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    458,
+    163,
+    473
+   ]
+  },
+  {
+   "text": "H-7497 Melléknémeti, Dunakeszii utca 178.",
+   "bbox": [
+    385,
+    454,
+    807,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    98,
+    510,
+    210,
+    525
+   ]
+  },
+  {
+   "text": "06 1 215 4689",
+   "bbox": [
+    385,
+    512,
+    526,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    562,
+    193,
+    577
+   ]
+  },
+  {
+   "text": "nemeth.zoltan@citromail.hu",
+   "bbox": [
+    385,
+    563,
+    656,
+    582
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    98,
+    614,
+    240,
+    633
+   ]
+  },
+  {
+   "text": "8391787281",
+   "bbox": [
+    385,
+    615,
+    505,
+    631
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    98,
+    666,
+    184,
+    681
+   ]
+  },
+  {
+   "text": "593 904 273",
+   "bbox": [
+    385,
+    665,
+    507,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    745,
+    269,
+    766
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    788,
+    420,
+    807
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    833,
+    266,
+    848
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    131,
+    878,
+    440,
+    897
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    981,
+    129,
+    997
+   ]
+  },
+  {
+   "text": "Szerbhetvendevecser, 2025.11.01.",
+   "bbox": [
+    177,
+    978,
+    515,
+    999
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1030,
+    985,
+    1043
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

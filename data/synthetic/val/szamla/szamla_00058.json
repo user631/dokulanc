@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/01989",
+  "kiallitas_datuma": "2024. 09. 29.",
+  "teljesites_datuma": "2024. 09. 28.",
+  "fizetesi_hatarido": "2024. 10. 14.",
+  "elado_nev": "Veres Consulting Bt.",
+  "elado_cim": "H-1357 Miskolc, Béke utca 9.",
+  "elado_adoszam": "80434423-2-25",
+  "vevo_nev": "Gulyás Tech Zrt.",
+  "vevo_cim": "H-2864 Tapolcavég, Szentmelléki utca 99.",
+  "vevo_adoszam": "57241681-2-41",
+  "bankszamla": "79471831-37235426",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "25 280 Ft",
+  "afa_osszesen": "6 613 Ft",
+  "brutto_osszesen": "31 893 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "2 370",
+    "netto": "2 370",
+    "afa_kulcs": "18%",
+    "afa": "427",
+    "brutto": "2 797"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "22 910",
+    "netto": "22 910",
+    "afa_kulcs": "27%",
+    "afa": "6 186",
+    "brutto": "29 096"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VERES",
+   "bbox": [
+    122,
+    122,
+    208,
+    140
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    969,
+    96,
+    1155,
+    137
+   ]
+  },
+  {
+   "text": "Sorszám: E-2024/01989",
+   "bbox": [
+    867,
+    160,
+    1155,
+    182
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    241,
+    165,
+    259
+   ]
+  },
+  {
+   "text": "Veres Consulting Bt.",
+   "bbox": [
+    85,
+    276,
+    347,
+    299
+   ]
+  },
+  {
+   "text": "H-1357 Miskolc, Béke utca 9.",
+   "bbox": [
+    85,
+    308,
+    394,
+    329
+   ]
+  },
+  {
+   "text": "Adószám: 80434423-2-25",
+   "bbox": [
+    85,
+    337,
+    360,
+    354
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    241,
+    703,
+    259
+   ]
+  },
+  {
+   "text": "Gulyás Tech Zrt.",
+   "bbox": [
+    630,
+    276,
+    839,
+    299
+   ]
+  },
+  {
+   "text": "H-2864 Tapolcavég, Szentmelléki utca 99.",
+   "bbox": [
+    630,
+    308,
+    1078,
+    329
+   ]
+  },
+  {
+   "text": "Adószám: 57241681-2-41",
+   "bbox": [
+    630,
+    337,
+    905,
+    354
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    85,
+    404,
+    249,
+    418
+   ]
+  },
+  {
+   "text": "2024. 09. 29.",
+   "bbox": [
+    85,
+    432,
+    224,
+    447
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    352,
+    404,
+    532,
+    422
+   ]
+  },
+  {
+   "text": "2024. 09. 28.",
+   "bbox": [
+    352,
+    432,
+    491,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    404,
+    788,
+    418
+   ]
+  },
+  {
+   "text": "2024. 10. 14.",
+   "bbox": [
+    619,
+    432,
+    758,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    886,
+    404,
+    1014,
+    418
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    886,
+    430,
+    966,
+    447
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    480,
+    210,
+    498
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    481,
+    587,
+    498
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    480,
+    748,
+    498
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    821,
+    480,
+    876,
+    494
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    878,
+    477,
+    941,
+    494
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    477,
+    1042,
+    494
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1091,
+    480,
+    1155,
+    494
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    513,
+    520,
+    589,
+    534
+   ]
+  },
+  {
+   "text": "2 370",
+   "bbox": [
+    698,
+    521,
+    748,
+    534
+   ]
+  },
+  {
+   "text": "2 370",
+   "bbox": [
+    826,
+    521,
+    876,
+    534
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    900,
+    521,
+    941,
+    534
+   ]
+  },
+  {
+   "text": "427",
+   "bbox": [
+    1009,
+    521,
+    1042,
+    534
+   ]
+  },
+  {
+   "text": "2 797",
+   "bbox": [
+    1105,
+    521,
+    1155,
+    534
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    85,
+    517,
+    221,
+    538
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    513,
+    554,
+    602,
+    568
+   ]
+  },
+  {
+   "text": "22 910",
+   "bbox": [
+    687,
+    555,
+    748,
+    568
+   ]
+  },
+  {
+   "text": "22 910",
+   "bbox": [
+    815,
+    555,
+    876,
+    568
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    900,
+    555,
+    941,
+    568
+   ]
+  },
+  {
+   "text": "6 186",
+   "bbox": [
+    992,
+    555,
+    1042,
+    568
+   ]
+  },
+  {
+   "text": "29 096",
+   "bbox": [
+    1094,
+    555,
+    1155,
+    568
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    85,
+    554,
+    286,
+    572
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    649,
+    608,
+    825,
+    626
+   ]
+  },
+  {
+   "text": "25 280 Ft",
+   "bbox": [
+    1047,
+    610,
+    1155,
+    626
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    666,
+    639,
+    825,
+    661
+   ]
+  },
+  {
+   "text": "6 613 Ft",
+   "bbox": [
+    1061,
+    645,
+    1155,
+    661
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    601,
+    678,
+    825,
+    700
+   ]
+  },
+  {
+   "text": "31 893 Ft",
+   "bbox": [
+    1035,
+    680,
+    1155,
+    696
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 79471831-37235426",
+   "bbox": [
+    85,
+    742,
+    490,
+    759
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    478,
+    1652,
+    761,
+    1668
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

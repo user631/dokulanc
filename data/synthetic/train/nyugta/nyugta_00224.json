@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VARGA MARKET BT.",
+  "uzlet_cim": "H-1642 Vác, Bácstóti utca 39.",
+  "adoszam": "82675664-2-15",
+  "datum": "2025.09.12.",
+  "ido": "21:47",
+  "nyugtaszam": "3081/27238",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "8 914 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1128"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "447"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "359"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "685"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1001"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3525"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1083"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "686"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VARGA MARKET BT.",
+   "bbox": [
+    158,
+    36,
+    367,
+    49
+   ]
+  },
+  {
+   "text": "H-1642 Vác, Bácstóti utca 39.",
+   "bbox": [
+    103,
+    65,
+    422,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 82675664-2-15",
+   "bbox": [
+    142,
+    87,
+    384,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    220,
+    130,
+    306,
+    144
+   ]
+  },
+  {
+   "text": "3 DB x 376",
+   "bbox": [
+    24,
+    170,
+    124,
+    181
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    192,
+    156,
+    208
+   ]
+  },
+  {
+   "text": "1128 A00",
+   "bbox": [
+    407,
+    192,
+    503,
+    205
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    220,
+    192,
+    233
+   ]
+  },
+  {
+   "text": "447 A00",
+   "bbox": [
+    419,
+    220,
+    503,
+    233
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    248,
+    192,
+    261
+   ]
+  },
+  {
+   "text": "359 B00",
+   "bbox": [
+    419,
+    248,
+    503,
+    261
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    276,
+    156,
+    289
+   ]
+  },
+  {
+   "text": "685 A00",
+   "bbox": [
+    419,
+    276,
+    503,
+    289
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    305,
+    180,
+    317
+   ]
+  },
+  {
+   "text": "1001 A00",
+   "bbox": [
+    407,
+    304,
+    503,
+    317
+   ]
+  },
+  {
+   "text": "3 DB x 1175",
+   "bbox": [
+    24,
+    332,
+    134,
+    343
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    354,
+    144,
+    367
+   ]
+  },
+  {
+   "text": "3525 A00",
+   "bbox": [
+    407,
+    354,
+    503,
+    367
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    383,
+    144,
+    395
+   ]
+  },
+  {
+   "text": "1083 A00",
+   "bbox": [
+    407,
+    382,
+    503,
+    395
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    410,
+    132,
+    423
+   ]
+  },
+  {
+   "text": "686 C00",
+   "bbox": [
+    419,
+    410,
+    503,
+    423
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    446,
+    164,
+    466
+   ]
+  },
+  {
+   "text": "8 914 Ft",
+   "bbox": [
+    391,
+    451,
+    504,
+    466
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    485,
+    156,
+    501
+   ]
+  },
+  {
+   "text": "8 914 Ft",
+   "bbox": [
+    407,
+    488,
+    503,
+    501
+   ]
+  },
+  {
+   "text": "2025.09.12.",
+   "bbox": [
+    24,
+    530,
+    145,
+    541
+   ]
+  },
+  {
+   "text": "21:47",
+   "bbox": [
+    448,
+    530,
+    503,
+    541
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3081/27238",
+   "bbox": [
+    24,
+    555,
+    266,
+    570
+   ]
+  },
+  {
+   "text": "AP A89612844",
+   "bbox": [
+    24,
+    586,
+    156,
+    597
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    208,
+    624,
+    318,
+    638
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  527,
+  682
+ ]
+}

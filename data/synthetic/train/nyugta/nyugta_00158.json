@@ -1,0 +1,224 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LAKATOS MARKET KFT.",
+  "uzlet_cim": "H-8883 Kövesd, Nagykanizsai utca 94.",
+  "adoszam": "71022804-5-42",
+  "datum": "2024.02.07.",
+  "ido": "10:52",
+  "nyugtaszam": "5535/76936",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 235 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "708"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1059"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6468"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS MARKET KFT.",
+   "bbox": [
+    152,
+    35,
+    418,
+    49
+   ]
+  },
+  {
+   "text": "H-8883 Kövesd, Nagykanizsai utca 94.",
+   "bbox": [
+    87,
+    63,
+    483,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71022804-5-42",
+   "bbox": [
+    164,
+    88,
+    406,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    240,
+    131,
+    330,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 236",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    195,
+    206,
+    213
+   ]
+  },
+  {
+   "text": "708 C00",
+   "bbox": [
+    455,
+    195,
+    546,
+    210
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    224,
+    180,
+    239
+   ]
+  },
+  {
+   "text": "1059 B00",
+   "bbox": [
+    442,
+    224,
+    546,
+    239
+   ]
+  },
+  {
+   "text": "3 DB x 2156",
+   "bbox": [
+    24,
+    253,
+    145,
+    266
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    276,
+    271,
+    291
+   ]
+  },
+  {
+   "text": "6468 A00",
+   "bbox": [
+    442,
+    276,
+    546,
+    291
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    315,
+    174,
+    335
+   ]
+  },
+  {
+   "text": "8 235 Ft",
+   "bbox": [
+    426,
+    317,
+    546,
+    335
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    354,
+    128,
+    371
+   ]
+  },
+  {
+   "text": "8 235 Ft",
+   "bbox": [
+    442,
+    356,
+    546,
+    371
+   ]
+  },
+  {
+   "text": "2024.02.07.",
+   "bbox": [
+    24,
+    398,
+    145,
+    412
+   ]
+  },
+  {
+   "text": "10:52",
+   "bbox": [
+    491,
+    398,
+    546,
+    412
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5535/76936",
+   "bbox": [
+    24,
+    426,
+    266,
+    444
+   ]
+  },
+  {
+   "text": "AP A87264698",
+   "bbox": [
+    24,
+    456,
+    156,
+    470
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    195,
+    496,
+    375,
+    512
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  570,
+  557
+ ]
+}

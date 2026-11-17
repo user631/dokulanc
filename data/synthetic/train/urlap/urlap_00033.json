@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kovács Krisztina",
+  "anyja_neve": "Kovács Margit",
+  "szuletesi_hely": "Hetvendevecser",
+  "szuletesi_datum": "1978. 04. 02.",
+  "lakcim": "H-9936 Felsőhídvára, Fürdőbányai utca 106.",
+  "telefon": "+36 70 509 8995",
+  "email": "kovacs.krisztina@example.hu",
+  "adoazonosito_jel": "8406330635",
+  "taj_szam": "259 672 177",
+  "kelt": "Ózd, 2026. 06. 07."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    282,
+    98,
+    958,
+    135
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    449,
+    155,
+    791,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    209,
+    361,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    261,
+    157,
+    278
+   ]
+  },
+  {
+   "text": "Kovács Krisztina",
+   "bbox": [
+    442,
+    260,
+    632,
+    279
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    316,
+    232,
+    335
+   ]
+  },
+  {
+   "text": "Kovács Margit",
+   "bbox": [
+    442,
+    314,
+    604,
+    338
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    367,
+    257,
+    388
+   ]
+  },
+  {
+   "text": "Hetvendevecser",
+   "bbox": [
+    442,
+    371,
+    629,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    420,
+    244,
+    437
+   ]
+  },
+  {
+   "text": "1978. 04. 02.",
+   "bbox": [
+    442,
+    423,
+    602,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    473,
+    187,
+    490
+   ]
+  },
+  {
+   "text": "H-9936 Felsőhídvára, Fürdőbányai utca 106.",
+   "bbox": [
+    442,
+    475,
+    961,
+    499
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    526,
+    243,
+    543
+   ]
+  },
+  {
+   "text": "+36 70 509 8995",
+   "bbox": [
+    442,
+    529,
+    650,
+    546
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    579,
+    222,
+    596
+   ]
+  },
+  {
+   "text": "kovacs.krisztina@example.hu",
+   "bbox": [
+    442,
+    582,
+    787,
+    605
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    632,
+    282,
+    653
+   ]
+  },
+  {
+   "text": "8406330635",
+   "bbox": [
+    442,
+    636,
+    592,
+    653
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    685,
+    212,
+    702
+   ]
+  },
+  {
+   "text": "259 672 177",
+   "bbox": [
+    442,
+    686,
+    593,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    767,
+    306,
+    790
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    809,
+    496,
+    830
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    854,
+    308,
+    871
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    899,
+    515,
+    920
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    1004,
+    149,
+    1021
+   ]
+  },
+  {
+   "text": "Ózd, 2026. 06. 07.",
+   "bbox": [
+    187,
+    996,
+    407,
+    1023
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1053,
+    981,
+    1067
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

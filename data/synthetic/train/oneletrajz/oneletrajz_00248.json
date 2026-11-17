@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kovács Imre",
+  "email": "kovacs.imre@citromail.hu",
+  "telefon": "+36 70 795 3968",
+  "lakcim": "H-5550 Hetvenbánya, Mindszentkőrösi tér 63.",
+  "szuletesi_datum": "1993.03.15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2012 – 2017"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Tech Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2020 – 2021"
+   },
+   {
+    "ceg": "Simon Tech Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Imre",
+   "bbox": [
+    484,
+    110,
+    757,
+    146
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    513,
+    178,
+    726,
+    203
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    161,
+    246
+   ]
+  },
+  {
+   "text": "kovacs.imre@citromail.hu",
+   "bbox": [
+    330,
+    229,
+    577,
+    248
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    261,
+    173,
+    278
+   ]
+  },
+  {
+   "text": "+36 70 795 3968",
+   "bbox": [
+    330,
+    262,
+    495,
+    278
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    168,
+    310
+   ]
+  },
+  {
+   "text": "H-5550 Hetvenbánya, Mindszentkőrösi tér 63.",
+   "bbox": [
+    330,
+    293,
+    775,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    261,
+    342
+   ]
+  },
+  {
+   "text": "1993.03.15.",
+   "bbox": [
+    330,
+    326,
+    441,
+    342
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    380,
+    330,
+    405
+   ]
+  },
+  {
+   "text": "2020 – 2021",
+   "bbox": [
+    90,
+    430,
+    209,
+    446
+   ]
+  },
+  {
+   "text": "rendszergazda – Takács Tech Kft.",
+   "bbox": [
+    90,
+    456,
+    440,
+    478
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    498,
+    209,
+    514
+   ]
+  },
+  {
+   "text": "projektmenedzser – Simon Tech Kft.",
+   "bbox": [
+    90,
+    524,
+    477,
+    546
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    578,
+    257,
+    603
+   ]
+  },
+  {
+   "text": "2012 – 2017",
+   "bbox": [
+    90,
+    628,
+    209,
+    644
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    654,
+    296,
+    676
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    679,
+    242,
+    701
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    722,
+    209,
+    738
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    748,
+    352,
+    770
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    773,
+    175,
+    795
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    828,
+    227,
+    853
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    877,
+    209,
+    899
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    928,
+    214,
+    953
+   ]
+  },
+  {
+   "text": "JavaScript, B kategóriás jogosítvány, csapatmunka",
+   "bbox": [
+    90,
+    977,
+    569,
+    999
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

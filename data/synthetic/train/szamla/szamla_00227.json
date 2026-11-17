@@ -1,0 +1,768 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2024/07936",
+  "kiallitas_datuma": "2024. november 21.",
+  "teljesites_datuma": "2024. november 18.",
+  "fizetesi_hatarido": "2024. december 21.",
+  "elado_nev": "Vörös Consulting Kft.",
+  "elado_cim": "H-7119 Somogyhátbánya, Mindszentfai utca 93.",
+  "elado_adoszam": "90452994-3-03",
+  "vevo_nev": "Nagy Consulting Bt.",
+  "vevo_cim": "H-7075 Györgyhalas, Balatonmelléki utca 45.",
+  "vevo_adoszam": "46077442-4-33",
+  "bankszamla": "HU90 6182 4942 6648 0147 1836 3128",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "331 410 Ft",
+  "afa_osszesen": "81 858 Ft",
+  "brutto_osszesen": "413 268 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "2 csomag",
+    "egysegar": "3 040",
+    "netto": "6 080",
+    "afa_kulcs": "18%",
+    "afa": "1 094",
+    "brutto": "7 174"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "2 óra",
+    "egysegar": "9 280",
+    "netto": "18 560",
+    "afa_kulcs": "27%",
+    "afa": "5 011",
+    "brutto": "23 571"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "214 300",
+    "netto": "214 300",
+    "afa_kulcs": "27%",
+    "afa": "57 861",
+    "brutto": "272 161"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "39 640",
+    "netto": "39 640",
+    "afa_kulcs": "27%",
+    "afa": "10 703",
+    "brutto": "50 343"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "3 oldal",
+    "egysegar": "6 890",
+    "netto": "20 670",
+    "afa_kulcs": "27%",
+    "afa": "5 581",
+    "brutto": "26 251"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "4 db",
+    "egysegar": "8 040",
+    "netto": "32 160",
+    "afa_kulcs": "5%",
+    "afa": "1 608",
+    "brutto": "33 768"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VÖRÖS",
+   "bbox": [
+    135,
+    131,
+    220,
+    153
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    719,
+    117,
+    1142,
+    152
+   ]
+  },
+  {
+   "text": "Sorszám: A-2024/07936",
+   "bbox": [
+    887,
+    174,
+    1142,
+    197
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    98,
+    253,
+    173,
+    273
+   ]
+  },
+  {
+   "text": "Vörös Consulting Kft.",
+   "bbox": [
+    97,
+    290,
+    351,
+    314
+   ]
+  },
+  {
+   "text": "H-7119 Somogyhátbánya, Mindszentfai utca 93.",
+   "bbox": [
+    98,
+    323,
+    564,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 90452994-3-03",
+   "bbox": [
+    97,
+    353,
+    348,
+    371
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    253,
+    698,
+    273
+   ]
+  },
+  {
+   "text": "Nagy Consulting Bt.",
+   "bbox": [
+    630,
+    290,
+    867,
+    314
+   ]
+  },
+  {
+   "text": "H-7075 Györgyhalas, Balatonmelléki utca 45.",
+   "bbox": [
+    630,
+    323,
+    1069,
+    345
+   ]
+  },
+  {
+   "text": "Adószám: 46077442-4-33",
+   "bbox": [
+    629,
+    353,
+    880,
+    371
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    98,
+    420,
+    253,
+    436
+   ]
+  },
+  {
+   "text": "2024. november 21.",
+   "bbox": [
+    98,
+    449,
+    283,
+    466
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    420,
+    529,
+    440
+   ]
+  },
+  {
+   "text": "2024. november 18.",
+   "bbox": [
+    359,
+    449,
+    544,
+    466
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    420,
+    779,
+    436
+   ]
+  },
+  {
+   "text": "2024. december 21.",
+   "bbox": [
+    620,
+    449,
+    805,
+    466
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    881,
+    420,
+    1002,
+    436
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    881,
+    449,
+    954,
+    466
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    98,
+    498,
+    214,
+    518
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    500,
+    584,
+    518
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    498,
+    746,
+    518
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    498,
+    870,
+    514
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    495,
+    933,
+    514
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    994,
+    495,
+    1033,
+    514
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1081,
+    498,
+    1142,
+    514
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    515,
+    541,
+    595,
+    559
+   ]
+  },
+  {
+   "text": "3 040",
+   "bbox": [
+    699,
+    541,
+    745,
+    555
+   ]
+  },
+  {
+   "text": "6 080",
+   "bbox": [
+    824,
+    541,
+    870,
+    555
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    894,
+    541,
+    933,
+    555
+   ]
+  },
+  {
+   "text": "1 094",
+   "bbox": [
+    986,
+    541,
+    1032,
+    555
+   ]
+  },
+  {
+   "text": "7 174",
+   "bbox": [
+    1096,
+    541,
+    1142,
+    555
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    97,
+    540,
+    252,
+    559
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    515,
+    575,
+    558,
+    590
+   ]
+  },
+  {
+   "text": "9 280",
+   "bbox": [
+    699,
+    576,
+    745,
+    590
+   ]
+  },
+  {
+   "text": "18 560",
+   "bbox": [
+    814,
+    576,
+    870,
+    590
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    576,
+    933,
+    590
+   ]
+  },
+  {
+   "text": "5 011",
+   "bbox": [
+    986,
+    576,
+    1032,
+    590
+   ]
+  },
+  {
+   "text": "23 571",
+   "bbox": [
+    1086,
+    576,
+    1142,
+    590
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    98,
+    575,
+    346,
+    594
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    515,
+    610,
+    594,
+    625
+   ]
+  },
+  {
+   "text": "214 300",
+   "bbox": [
+    679,
+    611,
+    745,
+    625
+   ]
+  },
+  {
+   "text": "214 300",
+   "bbox": [
+    804,
+    611,
+    870,
+    625
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    611,
+    933,
+    625
+   ]
+  },
+  {
+   "text": "57 861",
+   "bbox": [
+    976,
+    611,
+    1032,
+    625
+   ]
+  },
+  {
+   "text": "272 161",
+   "bbox": [
+    1076,
+    611,
+    1142,
+    625
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    98,
+    610,
+    278,
+    629
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    515,
+    645,
+    594,
+    660
+   ]
+  },
+  {
+   "text": "39 640",
+   "bbox": [
+    689,
+    646,
+    745,
+    660
+   ]
+  },
+  {
+   "text": "39 640",
+   "bbox": [
+    814,
+    646,
+    870,
+    660
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    646,
+    933,
+    660
+   ]
+  },
+  {
+   "text": "10 703",
+   "bbox": [
+    976,
+    646,
+    1032,
+    660
+   ]
+  },
+  {
+   "text": "50 343",
+   "bbox": [
+    1086,
+    646,
+    1142,
+    660
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    97,
+    645,
+    279,
+    664
+   ]
+  },
+  {
+   "text": "3 oldal",
+   "bbox": [
+    515,
+    680,
+    570,
+    695
+   ]
+  },
+  {
+   "text": "6 890",
+   "bbox": [
+    699,
+    681,
+    745,
+    695
+   ]
+  },
+  {
+   "text": "20 670",
+   "bbox": [
+    814,
+    681,
+    870,
+    695
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    894,
+    681,
+    933,
+    695
+   ]
+  },
+  {
+   "text": "5 581",
+   "bbox": [
+    986,
+    681,
+    1032,
+    695
+   ]
+  },
+  {
+   "text": "26 251",
+   "bbox": [
+    1086,
+    681,
+    1142,
+    695
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    98,
+    680,
+    323,
+    699
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    515,
+    715,
+    553,
+    730
+   ]
+  },
+  {
+   "text": "8 040",
+   "bbox": [
+    699,
+    716,
+    745,
+    730
+   ]
+  },
+  {
+   "text": "32 160",
+   "bbox": [
+    814,
+    716,
+    870,
+    730
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    716,
+    933,
+    730
+   ]
+  },
+  {
+   "text": "1 608",
+   "bbox": [
+    986,
+    716,
+    1032,
+    730
+   ]
+  },
+  {
+   "text": "33 768",
+   "bbox": [
+    1086,
+    716,
+    1142,
+    730
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    98,
+    715,
+    325,
+    734
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    653,
+    770,
+    812,
+    789
+   ]
+  },
+  {
+   "text": "331 410 Ft",
+   "bbox": [
+    1030,
+    772,
+    1142,
+    789
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    667,
+    802,
+    812,
+    825
+   ]
+  },
+  {
+   "text": "81 858 Ft",
+   "bbox": [
+    1043,
+    808,
+    1142,
+    825
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    681,
+    843,
+    812,
+    866
+   ]
+  },
+  {
+   "text": "413 268 Ft",
+   "bbox": [
+    1015,
+    844,
+    1142,
+    861
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU90 6182 4942 6648 0147 1836 3128",
+   "bbox": [
+    98,
+    908,
+    623,
+    925
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    429,
+    1638,
+    809,
+    1655
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

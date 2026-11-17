@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Juhász Eszter",
+  "anyja_neve": "Papp Erzsébet",
+  "szuletesi_hely": "Salgótarján",
+  "szuletesi_datum": "1957.04.29.",
+  "lakcim": "H-2544 Pusztaligetnémeti, Tapolcavári utca 151.",
+  "telefon": "+36 30 682 6259",
+  "email": "juhasz.eszter@example.hu",
+  "adoazonosito_jel": "8329904954",
+  "taj_szam": "989 658 104",
+  "kelt": "Némettamásiváros, 2026.03.18."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    512,
+    110,
+    727,
+    144
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    466,
+    165,
+    774,
+    183
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    109,
+    220,
+    328,
+    242
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    121,
+    273,
+    162,
+    289
+   ]
+  },
+  {
+   "text": "Juhász Eszter",
+   "bbox": [
+    434,
+    269,
+    602,
+    289
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    121,
+    328,
+    228,
+    346
+   ]
+  },
+  {
+   "text": "Papp Erzsébet",
+   "bbox": [
+    434,
+    326,
+    601,
+    353
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    121,
+    379,
+    253,
+    399
+   ]
+  },
+  {
+   "text": "Salgótarján",
+   "bbox": [
+    434,
+    380,
+    570,
+    407
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    121,
+    432,
+    243,
+    448
+   ]
+  },
+  {
+   "text": "1957.04.29.",
+   "bbox": [
+    434,
+    434,
+    568,
+    455
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    121,
+    485,
+    192,
+    501
+   ]
+  },
+  {
+   "text": "H-2544 Pusztaligetnémeti, Tapolcavári utca 151.",
+   "bbox": [
+    434,
+    486,
+    993,
+    513
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    121,
+    538,
+    243,
+    554
+   ]
+  },
+  {
+   "text": "+36 30 682 6259",
+   "bbox": [
+    434,
+    539,
+    632,
+    560
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    121,
+    591,
+    225,
+    607
+   ]
+  },
+  {
+   "text": "juhasz.eszter@example.hu",
+   "bbox": [
+    433,
+    589,
+    743,
+    616
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    121,
+    644,
+    279,
+    664
+   ]
+  },
+  {
+   "text": "8329904954",
+   "bbox": [
+    434,
+    640,
+    584,
+    661
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    121,
+    697,
+    214,
+    713
+   ]
+  },
+  {
+   "text": "989 658 104",
+   "bbox": [
+    434,
+    695,
+    579,
+    716
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    109,
+    778,
+    284,
+    800
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    154,
+    821,
+    477,
+    841
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    154,
+    866,
+    307,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    154,
+    911,
+    490,
+    931
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    109,
+    1016,
+    154,
+    1031
+   ]
+  },
+  {
+   "text": "Némettamásiváros, 2026.03.18.",
+   "bbox": [
+    199,
+    1015,
+    538,
+    1036
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    915,
+    1063,
+    966,
+    1077
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

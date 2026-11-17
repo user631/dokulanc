@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Németh Anna",
+  "anyja_neve": "Kiss Margit",
+  "szuletesi_hely": "Debrecen",
+  "szuletesi_datum": "1970.12.05.",
+  "lakcim": "H-9782 Bácstótfalu, Tamásifalvai utca 220.",
+  "telefon": "+36 70 481 8518",
+  "email": "nemeth.anna@citromail.hu",
+  "adoazonosito_jel": "8379585135",
+  "taj_szam": "649 180 248",
+  "kelt": "Vác, 2024.10.22."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    394,
+    87,
+    845,
+    123
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    466,
+    146,
+    774,
+    164
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    199,
+    321,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    258,
+    144,
+    273
+   ]
+  },
+  {
+   "text": "Németh Anna",
+   "bbox": [
+    399,
+    251,
+    582,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    312,
+    213,
+    331
+   ]
+  },
+  {
+   "text": "Kiss Margit",
+   "bbox": [
+    399,
+    307,
+    547,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    366,
+    240,
+    385
+   ]
+  },
+  {
+   "text": "Debrecen",
+   "bbox": [
+    399,
+    358,
+    520,
+    382
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    420,
+    229,
+    435
+   ]
+  },
+  {
+   "text": "1970.12.05.",
+   "bbox": [
+    399,
+    419,
+    572,
+    438
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    474,
+    176,
+    489
+   ]
+  },
+  {
+   "text": "H-9782 Bácstótfalu, Tamásifalvai utca 220.",
+   "bbox": [
+    399,
+    470,
+    989,
+    495
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    528,
+    230,
+    543
+   ]
+  },
+  {
+   "text": "+36 70 481 8518",
+   "bbox": [
+    399,
+    526,
+    653,
+    545
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    582,
+    208,
+    597
+   ]
+  },
+  {
+   "text": "nemeth.anna@citromail.hu",
+   "bbox": [
+    399,
+    578,
+    748,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    636,
+    266,
+    655
+   ]
+  },
+  {
+   "text": "8379585135",
+   "bbox": [
+    399,
+    639,
+    591,
+    656
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    690,
+    202,
+    705
+   ]
+  },
+  {
+   "text": "649 180 248",
+   "bbox": [
+    399,
+    690,
+    590,
+    710
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    769,
+    270,
+    791
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    815,
+    474,
+    834
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    860,
+    289,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    905,
+    492,
+    924
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    1007,
+    132,
+    1023
+   ]
+  },
+  {
+   "text": "Vác, 2024.10.22.",
+   "bbox": [
+    178,
+    1009,
+    401,
+    1032
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1057,
+    989,
+    1070
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

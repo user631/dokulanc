@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Lengyel Éva",
+  "email": "lengyel.eva@citromail.hu",
+  "telefon": "06 1 915 6688",
+  "lakcim": "H-1098 Szigetszentmiklós, Pusztaháti utca 29.",
+  "szuletesi_datum": "1988. augusztus 6.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2017 – 2019"
+   },
+   {
+    "ceg": "Vincze Logisztika Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "ceg": "Faragó Szolgáltató Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "csapatmunka",
+   "SAP",
+   "B kategóriás jogosítvány",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    78,
+    181,
+    98
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    125,
+    92,
+    139
+   ]
+  },
+  {
+   "text": "lengyel.eva@citromail.hu",
+   "bbox": [
+    40,
+    149,
+    252,
+    167
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    103,
+    197
+   ]
+  },
+  {
+   "text": "06 1 915 6688",
+   "bbox": [
+    40,
+    208,
+    155,
+    221
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    241,
+    97,
+    255
+   ]
+  },
+  {
+   "text": "H-1098 Szigetszentmiklós, Pusztaháti",
+   "bbox": [
+    40,
+    265,
+    346,
+    283
+   ]
+  },
+  {
+   "text": "utca 29.",
+   "bbox": [
+    40,
+    290,
+    106,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    323,
+    173,
+    337
+   ]
+  },
+  {
+   "text": "1988. augusztus 6.",
+   "bbox": [
+    40,
+    348,
+    193,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    408,
+    173,
+    428
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    451,
+    126,
+    470
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    506,
+    150,
+    526
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    550,
+    101,
+    568
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    578,
+    154,
+    596
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    607,
+    73,
+    620
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    634,
+    246,
+    652
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    662,
+    139,
+    680
+   ]
+  },
+  {
+   "text": "Lengyel Éva",
+   "bbox": [
+    450,
+    77,
+    672,
+    124
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    154,
+    559,
+    179
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    220,
+    662,
+    243
+   ]
+  },
+  {
+   "text": "2017 – 2019",
+   "bbox": [
+    450,
+    273,
+    559,
+    287
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Molnár Bt.",
+   "bbox": [
+    449,
+    298,
+    714,
+    318
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    341,
+    559,
+    355
+   ]
+  },
+  {
+   "text": "értékesítő – Vincze Logisztika Kft.",
+   "bbox": [
+    450,
+    366,
+    769,
+    386
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    409,
+    559,
+    423
+   ]
+  },
+  {
+   "text": "rendszergazda – Faragó Szolgáltató Zrt.",
+   "bbox": [
+    450,
+    434,
+    819,
+    454
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    486,
+    597,
+    509
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    450,
+    539,
+    559,
+    553
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    564,
+    713,
+    584
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    590,
+    761,
+    609
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    633,
+    559,
+    647
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    658,
+    717,
+    678
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    683,
+    684,
+    703
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

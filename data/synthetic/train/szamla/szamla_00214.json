@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/01898",
+  "kiallitas_datuma": "2025.01.15.",
+  "teljesites_datuma": "2025.01.11.",
+  "fizetesi_hatarido": "2025.01.23.",
+  "elado_nev": "Kovács Logisztika Kft.",
+  "elado_cim": "H-2689 Nyíregyháza, Arany jános utca 196.",
+  "elado_adoszam": "72224865-4-25",
+  "vevo_nev": "Pintér Norbert",
+  "vevo_cim": "H-3372 Érd, Balatonmártoni utca 80.",
+  "vevo_adoszam": null,
+  "bankszamla": "21943454-20673093",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "45 780 Ft",
+  "afa_osszesen": "12 361 Ft",
+  "brutto_osszesen": "58 141 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "3 óra",
+    "egysegar": "15 260",
+    "netto": "45 780",
+    "afa_kulcs": "27%",
+    "afa": "12 361",
+    "brutto": "58 141"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    117,
+    117,
+    215,
+    141
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    698,
+    105,
+    1154,
+    143
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/01898",
+   "bbox": [
+    864,
+    162,
+    1154,
+    188
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    86,
+    242,
+    171,
+    264
+   ]
+  },
+  {
+   "text": "Kovács Logisztika Kft.",
+   "bbox": [
+    86,
+    281,
+    382,
+    308
+   ]
+  },
+  {
+   "text": "H-2689 Nyíregyháza, Arany jános utca 196.",
+   "bbox": [
+    86,
+    317,
+    569,
+    343
+   ]
+  },
+  {
+   "text": "Adószám: 72224865-4-25",
+   "bbox": [
+    85,
+    350,
+    374,
+    371
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    242,
+    707,
+    264
+   ]
+  },
+  {
+   "text": "Pintér Norbert",
+   "bbox": [
+    630,
+    281,
+    827,
+    303
+   ]
+  },
+  {
+   "text": "H-3372 Érd, Balatonmártoni utca 80.",
+   "bbox": [
+    630,
+    312,
+    1040,
+    343
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    86,
+    421,
+    265,
+    439
+   ]
+  },
+  {
+   "text": "2025.01.15.",
+   "bbox": [
+    86,
+    454,
+    211,
+    472
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    353,
+    421,
+    548,
+    443
+   ]
+  },
+  {
+   "text": "2025.01.11.",
+   "bbox": [
+    353,
+    454,
+    478,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    421,
+    805,
+    439
+   ]
+  },
+  {
+   "text": "2025.01.23.",
+   "bbox": [
+    620,
+    454,
+    745,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    887,
+    421,
+    1027,
+    439
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    887,
+    453,
+    971,
+    472
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    505,
+    222,
+    527
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    507,
+    594,
+    527
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    646,
+    505,
+    748,
+    527
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    814,
+    505,
+    876,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    870,
+    501,
+    940,
+    523
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    501,
+    1042,
+    523
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1083,
+    505,
+    1154,
+    523
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    513,
+    549,
+    564,
+    567
+   ]
+  },
+  {
+   "text": "15 260",
+   "bbox": [
+    681,
+    551,
+    748,
+    567
+   ]
+  },
+  {
+   "text": "45 780",
+   "bbox": [
+    809,
+    551,
+    876,
+    567
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    551,
+    940,
+    567
+   ]
+  },
+  {
+   "text": "12 361",
+   "bbox": [
+    974,
+    551,
+    1041,
+    567
+   ]
+  },
+  {
+   "text": "58 141",
+   "bbox": [
+    1087,
+    551,
+    1154,
+    567
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    86,
+    549,
+    349,
+    571
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    639,
+    607,
+    824,
+    629
+   ]
+  },
+  {
+   "text": "45 780 Ft",
+   "bbox": [
+    1045,
+    610,
+    1154,
+    629
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    655,
+    641,
+    824,
+    668
+   ]
+  },
+  {
+   "text": "12 361 Ft",
+   "bbox": [
+    1045,
+    649,
+    1154,
+    668
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    564,
+    686,
+    824,
+    707
+   ]
+  },
+  {
+   "text": "58 141 Ft",
+   "bbox": [
+    1027,
+    688,
+    1154,
+    707
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 21943454-20673093",
+   "bbox": [
+    86,
+    755,
+    499,
+    774
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    464,
+    1646,
+    776,
+    1667
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

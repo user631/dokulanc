@@ -1,0 +1,327 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Olivér",
+  "email": "nagy.oliver@gmail.com",
+  "telefon": "+36 20 249 5426",
+  "lakcim": "H-1798 Alsótapolcavára, Újtamásii utca 101.",
+  "szuletesi_datum": "1995. 10. 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2014 – 2017"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "JavaScript",
+   "csapatmunka",
+   "Python",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    186,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    142,
+    92,
+    155
+   ]
+  },
+  {
+   "text": "nagy.oliver@gmail.com",
+   "bbox": [
+    40,
+    164,
+    228,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    104,
+    209
+   ]
+  },
+  {
+   "text": "+36 20 249 5426",
+   "bbox": [
+    40,
+    218,
+    163,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    99,
+    263
+   ]
+  },
+  {
+   "text": "H-1798 Alsótapolcavára, Újtamásii utca",
+   "bbox": [
+    40,
+    268,
+    354,
+    289
+   ]
+  },
+  {
+   "text": "101.",
+   "bbox": [
+    40,
+    294,
+    74,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    325,
+    173,
+    339
+   ]
+  },
+  {
+   "text": "1995. 10. 21.",
+   "bbox": [
+    40,
+    348,
+    143,
+    361
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    407,
+    175,
+    427
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    448,
+    139,
+    466
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    474,
+    124,
+    492
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    527,
+    156,
+    547
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    568,
+    85,
+    582
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    594,
+    127,
+    612
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    620,
+    152,
+    638
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    646,
+    98,
+    664
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    672,
+    99,
+    686
+   ]
+  },
+  {
+   "text": "Nagy Olivér",
+   "bbox": [
+    450,
+    105,
+    684,
+    147
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    172,
+    656,
+    196
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    235,
+    675,
+    258
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    285,
+    549,
+    299
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Zrt.",
+   "bbox": [
+    450,
+    308,
+    671,
+    324
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    359,
+    602,
+    382
+   ]
+  },
+  {
+   "text": "2014 – 2017",
+   "bbox": [
+    450,
+    409,
+    550,
+    423
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    432,
+    691,
+    452
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    450,
+    455,
+    507,
+    475
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    497,
+    550,
+    511
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    521,
+    681,
+    540
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    543,
+    531,
+    563
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

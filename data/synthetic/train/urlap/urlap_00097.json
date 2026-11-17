@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Juhász Balázs",
+  "anyja_neve": "Tóth Gábor",
+  "szuletesi_hely": "Györgyvárad",
+  "szuletesi_datum": "1979.03.29.",
+  "lakcim": "H-4297 Berény, Ligethalasi utca 9.",
+  "telefon": "+36 20 108 8745",
+  "email": "juhasz.balazs@example.hu",
+  "adoazonosito_jel": "8409941600",
+  "taj_szam": "529 101 402",
+  "kelt": "Székesfehérvár, 2024.07.17."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    482,
+    81,
+    758,
+    119
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    80,
+    193,
+    356,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    92,
+    249,
+    143,
+    266
+   ]
+  },
+  {
+   "text": "Juhász Balázs",
+   "bbox": [
+    387,
+    243,
+    564,
+    266
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    92,
+    304,
+    219,
+    324
+   ]
+  },
+  {
+   "text": "Tóth Gábor",
+   "bbox": [
+    388,
+    301,
+    538,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    92,
+    357,
+    248,
+    378
+   ]
+  },
+  {
+   "text": "Györgyvárad",
+   "bbox": [
+    388,
+    354,
+    555,
+    384
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    92,
+    411,
+    236,
+    428
+   ]
+  },
+  {
+   "text": "1979.03.29.",
+   "bbox": [
+    388,
+    415,
+    561,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    92,
+    465,
+    176,
+    482
+   ]
+  },
+  {
+   "text": "H-4297 Berény, Ligethalasi utca 9.",
+   "bbox": [
+    388,
+    460,
+    862,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    92,
+    519,
+    235,
+    536
+   ]
+  },
+  {
+   "text": "+36 20 108 8745",
+   "bbox": [
+    388,
+    522,
+    644,
+    542
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    92,
+    573,
+    214,
+    590
+   ]
+  },
+  {
+   "text": "juhasz.balazs@example.hu",
+   "bbox": [
+    383,
+    565,
+    718,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    92,
+    627,
+    276,
+    648
+   ]
+  },
+  {
+   "text": "8409941600",
+   "bbox": [
+    388,
+    624,
+    578,
+    643
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    92,
+    681,
+    201,
+    698
+   ]
+  },
+  {
+   "text": "529 101 402",
+   "bbox": [
+    388,
+    682,
+    579,
+    702
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    80,
+    762,
+    298,
+    786
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    125,
+    806,
+    499,
+    827
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    125,
+    851,
+    301,
+    868
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    125,
+    896,
+    519,
+    917
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    80,
+    1001,
+    133,
+    1018
+   ]
+  },
+  {
+   "text": "Székesfehérvár, 2024.07.17.",
+   "bbox": [
+    170,
+    1000,
+    524,
+    1024
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1050,
+    1000,
+    1064
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

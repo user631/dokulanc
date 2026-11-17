@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2025/03210",
+  "kiallitas_datuma": "2025.11.11.",
+  "teljesites_datuma": "2025.11.11.",
+  "fizetesi_hatarido": "2025.11.19.",
+  "elado_nev": "Papp Trade Kft.",
+  "elado_cim": "H-9572 Fürdőapáti, Szerbhídi utca 243.",
+  "elado_adoszam": "98067080-2-08",
+  "vevo_nev": "Vass Consulting Kft.",
+  "vevo_cim": "H-4643 Bánya, Petőfi utca 124.",
+  "vevo_adoszam": "17504283-2-13",
+  "bankszamla": "HU23 6123 4475 7200 3124 7615 4646",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "67 810 Ft",
+  "afa_osszesen": "18 148 Ft",
+  "brutto_osszesen": "85 958 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "5 100",
+    "netto": "20 400",
+    "afa_kulcs": "27%",
+    "afa": "5 508",
+    "brutto": "25 908"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "2 170",
+    "netto": "2 170",
+    "afa_kulcs": "27%",
+    "afa": "586",
+    "brutto": "2 756"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 790",
+    "netto": "1 790",
+    "afa_kulcs": "18%",
+    "afa": "322",
+    "brutto": "2 112"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "43 450",
+    "netto": "43 450",
+    "afa_kulcs": "27%",
+    "afa": "11 732",
+    "brutto": "55 182"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP",
+   "bbox": [
+    118,
+    112,
+    191,
+    130
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    657,
+    94,
+    1165,
+    132
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2025/03210",
+   "bbox": [
+    801,
+    151,
+    1165,
+    177
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    231,
+    169,
+    253
+   ]
+  },
+  {
+   "text": "Papp Trade Kft.",
+   "bbox": [
+    75,
+    271,
+    309,
+    297
+   ]
+  },
+  {
+   "text": "H-9572 Fürdőapáti, Szerbhídi utca 243.",
+   "bbox": [
+    75,
+    306,
+    578,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 98067080-2-08",
+   "bbox": [
+    75,
+    339,
+    406,
+    360
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    231,
+    717,
+    253
+   ]
+  },
+  {
+   "text": "Vass Consulting Kft.",
+   "bbox": [
+    630,
+    271,
+    934,
+    297
+   ]
+  },
+  {
+   "text": "H-4643 Bánya, Petőfi utca 124.",
+   "bbox": [
+    630,
+    306,
+    1029,
+    332
+   ]
+  },
+  {
+   "text": "Adószám: 17504283-2-13",
+   "bbox": [
+    630,
+    339,
+    961,
+    360
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    410,
+    279,
+    428
+   ]
+  },
+  {
+   "text": "2025.11.11.",
+   "bbox": [
+    75,
+    443,
+    222,
+    461
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    410,
+    570,
+    432
+   ]
+  },
+  {
+   "text": "2025.11.11.",
+   "bbox": [
+    347,
+    443,
+    494,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    410,
+    828,
+    428
+   ]
+  },
+  {
+   "text": "2025.11.19.",
+   "bbox": [
+    619,
+    443,
+    766,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    410,
+    1048,
+    428
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    891,
+    442,
+    1002,
+    466
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    494,
+    227,
+    516
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    496,
+    601,
+    516
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    637,
+    494,
+    750,
+    516
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    812,
+    494,
+    881,
+    512
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    490,
+    947,
+    512
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    490,
+    1050,
+    512
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    494,
+    1165,
+    512
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    511,
+    539,
+    585,
+    556
+   ]
+  },
+  {
+   "text": "5 100",
+   "bbox": [
+    686,
+    540,
+    750,
+    556
+   ]
+  },
+  {
+   "text": "20 400",
+   "bbox": [
+    803,
+    540,
+    881,
+    556
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    540,
+    947,
+    556
+   ]
+  },
+  {
+   "text": "5 508",
+   "bbox": [
+    986,
+    540,
+    1050,
+    556
+   ]
+  },
+  {
+   "text": "25 908",
+   "bbox": [
+    1087,
+    540,
+    1165,
+    556
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    75,
+    538,
+    372,
+    560
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    577,
+    618,
+    594
+   ]
+  },
+  {
+   "text": "2 170",
+   "bbox": [
+    686,
+    578,
+    750,
+    594
+   ]
+  },
+  {
+   "text": "2 170",
+   "bbox": [
+    817,
+    578,
+    881,
+    594
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    578,
+    947,
+    594
+   ]
+  },
+  {
+   "text": "586",
+   "bbox": [
+    1008,
+    578,
+    1050,
+    594
+   ]
+  },
+  {
+   "text": "2 756",
+   "bbox": [
+    1101,
+    578,
+    1165,
+    594
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    75,
+    576,
+    208,
+    598
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    511,
+    615,
+    604,
+    632
+   ]
+  },
+  {
+   "text": "1 790",
+   "bbox": [
+    686,
+    616,
+    750,
+    632
+   ]
+  },
+  {
+   "text": "1 790",
+   "bbox": [
+    817,
+    616,
+    881,
+    632
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    895,
+    616,
+    947,
+    632
+   ]
+  },
+  {
+   "text": "322",
+   "bbox": [
+    1008,
+    616,
+    1050,
+    632
+   ]
+  },
+  {
+   "text": "2 112",
+   "bbox": [
+    1101,
+    616,
+    1165,
+    632
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    75,
+    610,
+    243,
+    636
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    511,
+    652,
+    560,
+    670
+   ]
+  },
+  {
+   "text": "43 450",
+   "bbox": [
+    672,
+    654,
+    750,
+    670
+   ]
+  },
+  {
+   "text": "43 450",
+   "bbox": [
+    803,
+    654,
+    881,
+    670
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    654,
+    947,
+    670
+   ]
+  },
+  {
+   "text": "11 732",
+   "bbox": [
+    972,
+    654,
+    1050,
+    670
+   ]
+  },
+  {
+   "text": "55 182",
+   "bbox": [
+    1087,
+    654,
+    1165,
+    670
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    75,
+    652,
+    392,
+    674
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    626,
+    710,
+    835,
+    732
+   ]
+  },
+  {
+   "text": "67 810 Ft",
+   "bbox": [
+    1037,
+    713,
+    1165,
+    732
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    645,
+    744,
+    835,
+    771
+   ]
+  },
+  {
+   "text": "18 148 Ft",
+   "bbox": [
+    1037,
+    752,
+    1165,
+    771
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    571,
+    789,
+    835,
+    815
+   ]
+  },
+  {
+   "text": "85 958 Ft",
+   "bbox": [
+    1028,
+    791,
+    1165,
+    810
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU23 6123 4475 7200 3124 7615 4646",
+   "bbox": [
+    75,
+    858,
+    774,
+    877
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    890,
+    812,
+    911
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

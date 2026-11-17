@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Vörös Ferenc",
+  "email": "voros.ferenc@freemail.hu",
+  "telefon": "06 1 448 5644",
+  "lakcim": "H-1003 Oroszgyörgyhida, Salgótarjáni utca 66.",
+  "szuletesi_datum": "1993. 01. 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Szolgáltató Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2019 – 2020"
+   },
+   {
+    "ceg": "Kiss és Társa Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "ügyfélkezelés",
+   "SAP",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Vörös Ferenc",
+   "bbox": [
+    460,
+    110,
+    778,
+    149
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    522,
+    180,
+    717,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    234,
+    172,
+    252
+   ]
+  },
+  {
+   "text": "voros.ferenc@freemail.hu",
+   "bbox": [
+    330,
+    234,
+    587,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    267,
+    185,
+    285
+   ]
+  },
+  {
+   "text": "06 1 448 5644",
+   "bbox": [
+    330,
+    268,
+    481,
+    285
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    300,
+    180,
+    318
+   ]
+  },
+  {
+   "text": "H-1003 Oroszgyörgyhida, Salgótarjáni utca 66.",
+   "bbox": [
+    330,
+    299,
+    804,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    286,
+    351
+   ]
+  },
+  {
+   "text": "1993. 01. 17.",
+   "bbox": [
+    330,
+    334,
+    469,
+    351
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    387,
+    362,
+    413
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    90,
+    440,
+    221,
+    457
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Molnár Szolgáltató Kft.",
+   "bbox": [
+    90,
+    465,
+    716,
+    490
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    510,
+    221,
+    527
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Kiss és Társa Zrt.",
+   "bbox": [
+    90,
+    535,
+    522,
+    560
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    589,
+    274,
+    616
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    643,
+    221,
+    660
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    670,
+    306,
+    693
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    90,
+    695,
+    435,
+    719
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    740,
+    221,
+    757
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    765,
+    380,
+    790
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    792,
+    347,
+    816
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    846,
+    242,
+    873
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    899,
+    191,
+    922
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    948,
+    233,
+    975
+   ]
+  },
+  {
+   "text": "csapatmunka, ügyfélkezelés, SAP, Python",
+   "bbox": [
+    90,
+    1000,
+    509,
+    1024
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

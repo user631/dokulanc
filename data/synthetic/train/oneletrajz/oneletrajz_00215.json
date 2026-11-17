@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Ferenc",
+  "email": "toth.ferenc@example.hu",
+  "telefon": "+36 30 407 4507",
+  "lakcim": "H-2936 Vác, Kunmártoni tér 217.",
+  "szuletesi_datum": "2002. május 4.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2022 – 2026"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pintér Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Boros Consulting Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "C#",
+   "Java",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Ferenc",
+   "bbox": [
+    466,
+    105,
+    774,
+    144
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    520,
+    174,
+    720,
+    193
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    225,
+    170,
+    241
+   ]
+  },
+  {
+   "text": "toth.ferenc@example.hu",
+   "bbox": [
+    330,
+    225,
+    578,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    181,
+    271
+   ]
+  },
+  {
+   "text": "+36 30 407 4507",
+   "bbox": [
+    330,
+    256,
+    510,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    177,
+    301
+   ]
+  },
+  {
+   "text": "H-2936 Vác, Kunmártoni tér 217.",
+   "bbox": [
+    330,
+    284,
+    670,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    314,
+    277,
+    331
+   ]
+  },
+  {
+   "text": "2002. május 4.",
+   "bbox": [
+    330,
+    314,
+    484,
+    335
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    366,
+    360,
+    390
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    415,
+    247,
+    435
+   ]
+  },
+  {
+   "text": "adatelemző – Pintér Szolgáltató Kft.",
+   "bbox": [
+    90,
+    439,
+    517,
+    460
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    479,
+    247,
+    499
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Boros Consulting Zrt.",
+   "bbox": [
+    90,
+    503,
+    687,
+    524
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    553,
+    270,
+    578
+   ]
+  },
+  {
+   "text": "2022 – 2026",
+   "bbox": [
+    90,
+    604,
+    221,
+    619
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    627,
+    700,
+    648
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    650,
+    284,
+    671
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    692,
+    221,
+    707
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    715,
+    388,
+    732
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    739,
+    286,
+    759
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    789,
+    241,
+    814
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    839,
+    192,
+    859
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    885,
+    232,
+    910
+   ]
+  },
+  {
+   "text": "Python, C#, Java, ügyfélkezelés",
+   "bbox": [
+    90,
+    934,
+    412,
+    955
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

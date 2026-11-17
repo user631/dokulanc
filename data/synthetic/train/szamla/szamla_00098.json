@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/07056",
+  "kiallitas_datuma": "2025. 01. 23.",
+  "teljesites_datuma": "2025. 01. 23.",
+  "fizetesi_hatarido": "2025. 01. 31.",
+  "elado_nev": "Péter Trade Kft.",
+  "elado_cim": "H-2086 Magyartótvár, Kereszthalasi utca 98.",
+  "elado_adoszam": "46399766-2-33",
+  "vevo_nev": "Szabó és Társa Zrt.",
+  "vevo_cim": "H-2693 Mosonhátfalu, Petőfi utca 100.",
+  "vevo_adoszam": "21266133-2-31",
+  "bankszamla": "HU18 0787 4097 8870 5398 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "245 720 Ft",
+  "afa_osszesen": "47 002 Ft",
+  "brutto_osszesen": "292 722 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "21 980",
+    "netto": "87 920",
+    "afa_kulcs": "5%",
+    "afa": "4 396",
+    "brutto": "92 316"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "8 280",
+    "netto": "41 400",
+    "afa_kulcs": "27%",
+    "afa": "11 178",
+    "brutto": "52 578"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "10 óra",
+    "egysegar": "11 160",
+    "netto": "111 600",
+    "afa_kulcs": "27%",
+    "afa": "30 132",
+    "brutto": "141 732"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "2 csomag",
+    "egysegar": "2 400",
+    "netto": "4 800",
+    "afa_kulcs": "27%",
+    "afa": "1 296",
+    "brutto": "6 096"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PÉTER",
+   "bbox": [
+    137,
+    132,
+    224,
+    154
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    720,
+    110,
+    1140,
+    156
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2025/07056",
+   "bbox": [
+    860,
+    175,
+    1140,
+    197
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    100,
+    255,
+    177,
+    272
+   ]
+  },
+  {
+   "text": "Péter Trade Kft.",
+   "bbox": [
+    100,
+    290,
+    290,
+    307
+   ]
+  },
+  {
+   "text": "H-2086 Magyartótvár, Kereszthalasi utca 98.",
+   "bbox": [
+    100,
+    322,
+    522,
+    343
+   ]
+  },
+  {
+   "text": "Adószám: 46399766-2-33",
+   "bbox": [
+    99,
+    351,
+    344,
+    371
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    255,
+    697,
+    272
+   ]
+  },
+  {
+   "text": "Szabó és Társa Zrt.",
+   "bbox": [
+    630,
+    290,
+    857,
+    307
+   ]
+  },
+  {
+   "text": "H-2693 Mosonhátfalu, Petőfi utca 100.",
+   "bbox": [
+    630,
+    322,
+    992,
+    342
+   ]
+  },
+  {
+   "text": "Adószám: 21266133-2-31",
+   "bbox": [
+    629,
+    351,
+    866,
+    371
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    100,
+    418,
+    286,
+    434
+   ]
+  },
+  {
+   "text": "2025. 01. 23.",
+   "bbox": [
+    400,
+    423,
+    522,
+    438
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    100,
+    449,
+    297,
+    470
+   ]
+  },
+  {
+   "text": "2025. 01. 23.",
+   "bbox": [
+    400,
+    454,
+    522,
+    469
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    100,
+    480,
+    288,
+    496
+   ]
+  },
+  {
+   "text": "2025. 01. 31.",
+   "bbox": [
+    400,
+    485,
+    519,
+    500
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    100,
+    511,
+    243,
+    527
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    400,
+    511,
+    474,
+    527
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    553,
+    208,
+    571
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    554,
+    584,
+    571
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    662,
+    553,
+    745,
+    571
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    819,
+    553,
+    869,
+    567
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    550,
+    932,
+    567
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    550,
+    1031,
+    567
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1080,
+    553,
+    1140,
+    567
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    516,
+    593,
+    549,
+    610
+   ]
+  },
+  {
+   "text": "21 980",
+   "bbox": [
+    690,
+    594,
+    744,
+    610
+   ]
+  },
+  {
+   "text": "87 920",
+   "bbox": [
+    814,
+    594,
+    869,
+    610
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    907,
+    594,
+    932,
+    610
+   ]
+  },
+  {
+   "text": "4 396",
+   "bbox": [
+    986,
+    594,
+    1030,
+    610
+   ]
+  },
+  {
+   "text": "92 316",
+   "bbox": [
+    1088,
+    594,
+    1140,
+    610
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    100,
+    593,
+    317,
+    611
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    516,
+    627,
+    550,
+    644
+   ]
+  },
+  {
+   "text": "8 280",
+   "bbox": [
+    697,
+    628,
+    744,
+    641
+   ]
+  },
+  {
+   "text": "41 400",
+   "bbox": [
+    815,
+    631,
+    869,
+    644
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    628,
+    932,
+    644
+   ]
+  },
+  {
+   "text": "11 178",
+   "bbox": [
+    982,
+    628,
+    1030,
+    644
+   ]
+  },
+  {
+   "text": "52 578",
+   "bbox": [
+    1086,
+    628,
+    1140,
+    644
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    100,
+    627,
+    239,
+    645
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    516,
+    661,
+    565,
+    675
+   ]
+  },
+  {
+   "text": "11 160",
+   "bbox": [
+    695,
+    662,
+    744,
+    675
+   ]
+  },
+  {
+   "text": "111 600",
+   "bbox": [
+    809,
+    662,
+    869,
+    675
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    662,
+    932,
+    678
+   ]
+  },
+  {
+   "text": "30 132",
+   "bbox": [
+    977,
+    665,
+    1030,
+    678
+   ]
+  },
+  {
+   "text": "141 732",
+   "bbox": [
+    1081,
+    665,
+    1140,
+    678
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    100,
+    661,
+    339,
+    679
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    516,
+    699,
+    590,
+    713
+   ]
+  },
+  {
+   "text": "2 400",
+   "bbox": [
+    698,
+    699,
+    744,
+    712
+   ]
+  },
+  {
+   "text": "4 800",
+   "bbox": [
+    822,
+    696,
+    869,
+    712
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    696,
+    932,
+    712
+   ]
+  },
+  {
+   "text": "1 296",
+   "bbox": [
+    988,
+    696,
+    1030,
+    712
+   ]
+  },
+  {
+   "text": "6 096",
+   "bbox": [
+    1095,
+    696,
+    1140,
+    712
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    100,
+    695,
+    311,
+    713
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    655,
+    750,
+    810,
+    767
+   ]
+  },
+  {
+   "text": "245 720 Ft",
+   "bbox": [
+    1036,
+    751,
+    1140,
+    771
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    667,
+    781,
+    810,
+    802
+   ]
+  },
+  {
+   "text": "47 002 Ft",
+   "bbox": [
+    1046,
+    786,
+    1140,
+    806
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    684,
+    820,
+    810,
+    842
+   ]
+  },
+  {
+   "text": "292 722 Ft",
+   "bbox": [
+    1022,
+    821,
+    1140,
+    841
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU18 0787 4097 8870 5398 0000 0000",
+   "bbox": [
+    100,
+    885,
+    622,
+    904
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    494,
+    1638,
+    745,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

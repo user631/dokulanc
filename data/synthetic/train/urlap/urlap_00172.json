@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Szekeres Zsolt",
+  "anyja_neve": "Sárközi Dorottya",
+  "szuletesi_hely": "Tótbánya",
+  "szuletesi_datum": "1982.07.28.",
+  "lakcim": "H-6589 Érd, Mindszentvárai út 22.",
+  "telefon": "+36 70 294 8525",
+  "email": "szekeres.zsolt@freemail.hu",
+  "adoazonosito_jel": "8422116529",
+  "taj_szam": "985 279 381",
+  "kelt": "Tapolcakövesd, 2025.05.24."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    513,
+    104,
+    727,
+    137
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    488,
+    156,
+    751,
+    172
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    208,
+    297,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    260,
+    146,
+    273
+   ]
+  },
+  {
+   "text": "Szekeres Zsolt",
+   "bbox": [
+    443,
+    253,
+    587,
+    270
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    311,
+    201,
+    328
+   ]
+  },
+  {
+   "text": "Sárközi Dorottya",
+   "bbox": [
+    443,
+    305,
+    615,
+    326
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    361,
+    220,
+    379
+   ]
+  },
+  {
+   "text": "Tótbánya",
+   "bbox": [
+    443,
+    358,
+    539,
+    378
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    412,
+    214,
+    426
+   ]
+  },
+  {
+   "text": "1982.07.28.",
+   "bbox": [
+    442,
+    412,
+    572,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    463,
+    169,
+    477
+   ]
+  },
+  {
+   "text": "H-6589 Érd, Mindszentvárai út 22.",
+   "bbox": [
+    442,
+    456,
+    801,
+    479
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    514,
+    214,
+    528
+   ]
+  },
+  {
+   "text": "+36 70 294 8525",
+   "bbox": [
+    443,
+    514,
+    633,
+    532
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    565,
+    197,
+    579
+   ]
+  },
+  {
+   "text": "szekeres.zsolt@freemail.hu",
+   "bbox": [
+    443,
+    561,
+    712,
+    581
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    616,
+    249,
+    634
+   ]
+  },
+  {
+   "text": "8422116529",
+   "bbox": [
+    443,
+    612,
+    583,
+    630
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    668,
+    188,
+    681
+   ]
+  },
+  {
+   "text": "985 279 381",
+   "bbox": [
+    443,
+    668,
+    584,
+    686
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    746,
+    261,
+    767
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    788,
+    416,
+    806
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    833,
+    268,
+    847
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    878,
+    437,
+    896
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    982,
+    135,
+    996
+   ]
+  },
+  {
+   "text": "Tapolcakövesd, 2025.05.24.",
+   "bbox": [
+    188,
+    976,
+    446,
+    995
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1031,
+    972,
+    1042
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

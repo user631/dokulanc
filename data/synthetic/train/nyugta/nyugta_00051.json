@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "MOLNÁR ÉLELMISZER KFT.",
+  "uzlet_cim": "H-4225 Györgyhida, Hetvenfalui utca 188.",
+  "adoszam": "77494427-4-27",
+  "datum": "2025.01.31.",
+  "ido": "08:25",
+  "nyugtaszam": "3503/72323",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 982 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2294"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "860"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "164"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "653"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1011"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR ÉLELMISZER KFT.",
+   "bbox": [
+    110,
+    30,
+    441,
+    51
+   ]
+  },
+  {
+   "text": "H-4225 Györgyhida, Hetvenfalui utca",
+   "bbox": [
+    48,
+    70,
+    503,
+    87
+   ]
+  },
+  {
+   "text": "188.",
+   "bbox": [
+    250,
+    97,
+    302,
+    110
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77494427-4-27",
+   "bbox": [
+    133,
+    121,
+    419,
+    137
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    167,
+    325,
+    183
+   ]
+  },
+  {
+   "text": "2 DB x 1147",
+   "bbox": [
+    24,
+    209,
+    156,
+    222
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    236,
+    192,
+    250
+   ]
+  },
+  {
+   "text": "2294 B00",
+   "bbox": [
+    417,
+    236,
+    529,
+    250
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    267,
+    136,
+    281
+   ]
+  },
+  {
+   "text": "860 C00",
+   "bbox": [
+    431,
+    267,
+    529,
+    281
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    298,
+    220,
+    315
+   ]
+  },
+  {
+   "text": "164 C00",
+   "bbox": [
+    431,
+    298,
+    529,
+    312
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    329,
+    248,
+    343
+   ]
+  },
+  {
+   "text": "653 B00",
+   "bbox": [
+    431,
+    329,
+    529,
+    343
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    361,
+    206,
+    374
+   ]
+  },
+  {
+   "text": "1011 A00",
+   "bbox": [
+    417,
+    360,
+    529,
+    374
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    399,
+    168,
+    420
+   ]
+  },
+  {
+   "text": "4 982 Ft",
+   "bbox": [
+    401,
+    403,
+    529,
+    420
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    441,
+    136,
+    458
+   ]
+  },
+  {
+   "text": "4 982 Ft",
+   "bbox": [
+    417,
+    444,
+    529,
+    458
+   ]
+  },
+  {
+   "text": "2025.01.31.",
+   "bbox": [
+    24,
+    488,
+    167,
+    501
+   ]
+  },
+  {
+   "text": "08:25",
+   "bbox": [
+    464,
+    488,
+    529,
+    501
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3503/72323",
+   "bbox": [
+    24,
+    516,
+    310,
+    534
+   ]
+  },
+  {
+   "text": "AP A22523843",
+   "bbox": [
+    24,
+    550,
+    180,
+    563
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    211,
+    591,
+    341,
+    607
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  553,
+  651
+ ]
+}

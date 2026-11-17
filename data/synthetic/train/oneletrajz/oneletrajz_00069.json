@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács Róza",
+  "email": "kovacs.roza@citromail.hu",
+  "telefon": "+36 30 627 9856",
+  "lakcim": "H-4071 Pilishátvár, Szigetszentmiklósi utca 93.",
+  "szuletesi_datum": "1977.12.24.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "1996 – 1999"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Trade Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2003 – 2006"
+   },
+   {
+    "ceg": "Varga Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2000 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    79,
+    229,
+    103
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    130,
+    104,
+    145
+   ]
+  },
+  {
+   "text": "kovacs.roza@citromail.hu",
+   "bbox": [
+    40,
+    155,
+    288,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    190,
+    116,
+    205
+   ]
+  },
+  {
+   "text": "+36 30 627 9856",
+   "bbox": [
+    40,
+    215,
+    202,
+    230
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    114,
+    265
+   ]
+  },
+  {
+   "text": "H-4071 Pilishátvár,",
+   "bbox": [
+    40,
+    275,
+    222,
+    293
+   ]
+  },
+  {
+   "text": "Szigetszentmiklósi utca 93.",
+   "bbox": [
+    40,
+    300,
+    302,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    334,
+    203,
+    350
+   ]
+  },
+  {
+   "text": "1977.12.24.",
+   "bbox": [
+    40,
+    360,
+    154,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    419,
+    210,
+    443
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    465,
+    147,
+    485
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    494,
+    147,
+    514
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    548,
+    195,
+    572
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    594,
+    68,
+    610
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    623,
+    169,
+    643
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    652,
+    241,
+    672
+   ]
+  },
+  {
+   "text": "Kovács Róza",
+   "bbox": [
+    450,
+    88,
+    743,
+    123
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    155,
+    574,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    225,
+    708,
+    250
+   ]
+  },
+  {
+   "text": "2003 – 2006",
+   "bbox": [
+    450,
+    277,
+    579,
+    294
+   ]
+  },
+  {
+   "text": "projektmenedzser – Szabó Trade Bt.",
+   "bbox": [
+    450,
+    303,
+    863,
+    327
+   ]
+  },
+  {
+   "text": "2000 – 2003",
+   "bbox": [
+    450,
+    347,
+    579,
+    364
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Varga Kft.",
+   "bbox": [
+    450,
+    373,
+    834,
+    397
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    428,
+    627,
+    453
+   ]
+  },
+  {
+   "text": "1996 – 1999",
+   "bbox": [
+    450,
+    480,
+    579,
+    497
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    506,
+    844,
+    530
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    450,
+    534,
+    620,
+    556
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    450,
+    577,
+    579,
+    594
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    603,
+    735,
+    627
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    631,
+    539,
+    653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

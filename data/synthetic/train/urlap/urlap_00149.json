@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Balogh Ilona",
+  "anyja_neve": "Kocsis Margit",
+  "szuletesi_hely": "Tótvég",
+  "szuletesi_datum": "1974.11.30.",
+  "lakcim": "H-7394 Budapest, Arany jános utca 70.",
+  "telefon": "+36 30 151 9183",
+  "email": "balogh.ilona@example.hu",
+  "adoazonosito_jel": "8394140948",
+  "taj_szam": "439 746 199",
+  "kelt": "Hajdúligetfa, 2025.04.26."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    533,
+    116,
+    705,
+    143
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    466,
+    163,
+    772,
+    181
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    217,
+    345,
+    240
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    269,
+    158,
+    286
+   ]
+  },
+  {
+   "text": "Balogh Ilona",
+   "bbox": [
+    425,
+    269,
+    624,
+    298
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    324,
+    223,
+    343
+   ]
+  },
+  {
+   "text": "Kocsis Margit",
+   "bbox": [
+    425,
+    317,
+    619,
+    345
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    375,
+    246,
+    396
+   ]
+  },
+  {
+   "text": "Tótvég",
+   "bbox": [
+    425,
+    373,
+    524,
+    402
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    428,
+    236,
+    445
+   ]
+  },
+  {
+   "text": "1974.11.30.",
+   "bbox": [
+    425,
+    429,
+    585,
+    449
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    481,
+    186,
+    498
+   ]
+  },
+  {
+   "text": "H-7394 Budapest, Arany jános utca 70.",
+   "bbox": [
+    425,
+    478,
+    976,
+    507
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    534,
+    237,
+    551
+   ]
+  },
+  {
+   "text": "+36 30 151 9183",
+   "bbox": [
+    425,
+    533,
+    653,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    587,
+    217,
+    604
+   ]
+  },
+  {
+   "text": "balogh.ilona@example.hu",
+   "bbox": [
+    425,
+    586,
+    806,
+    615
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    640,
+    271,
+    661
+   ]
+  },
+  {
+   "text": "8394140948",
+   "bbox": [
+    425,
+    638,
+    595,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    693,
+    208,
+    710
+   ]
+  },
+  {
+   "text": "439 746 199",
+   "bbox": [
+    425,
+    695,
+    594,
+    715
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    775,
+    296,
+    798
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    817,
+    464,
+    838
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    862,
+    297,
+    879
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    907,
+    482,
+    928
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    1012,
+    147,
+    1029
+   ]
+  },
+  {
+   "text": "Hajdúligetfa, 2025.04.26.",
+   "bbox": [
+    195,
+    1006,
+    528,
+    1034
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    920,
+    1061,
+    969,
+    1075
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

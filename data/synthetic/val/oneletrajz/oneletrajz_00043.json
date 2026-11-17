@@ -1,0 +1,297 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Varga Mária",
+  "email": "varga.maria@example.hu",
+  "telefon": "+36 30 331 1796",
+  "lakcim": "H-6846 Újligetkőrös, Békésszéki tér 21.",
+  "szuletesi_datum": "1975. december 8.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "1993 – 1998"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1989 – 1993"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Tech Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "1997 – 1999"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Docker",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    104,
+    215,
+    128
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    152,
+    104,
+    168
+   ]
+  },
+  {
+   "text": "varga.maria@example.hu",
+   "bbox": [
+    40,
+    176,
+    269,
+    196
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    210,
+    115,
+    226
+   ]
+  },
+  {
+   "text": "+36 30 331 1796",
+   "bbox": [
+    40,
+    235,
+    194,
+    250
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    267,
+    111,
+    284
+   ]
+  },
+  {
+   "text": "H-6846 Újligetkőrös, Békésszéki tér",
+   "bbox": [
+    40,
+    287,
+    358,
+    312
+   ]
+  },
+  {
+   "text": "21.",
+   "bbox": [
+    40,
+    317,
+    68,
+    332
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    349,
+    202,
+    366
+   ]
+  },
+  {
+   "text": "1975. december 8.",
+   "bbox": [
+    40,
+    374,
+    207,
+    390
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    434,
+    202,
+    458
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    478,
+    156,
+    499
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    532,
+    183,
+    556
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    577,
+    78,
+    597
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    604,
+    104,
+    621
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    632,
+    147,
+    653
+   ]
+  },
+  {
+   "text": "Varga Mária",
+   "bbox": [
+    449,
+    112,
+    730,
+    159
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    184,
+    642,
+    204
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    248,
+    717,
+    273
+   ]
+  },
+  {
+   "text": "1997 – 1999",
+   "bbox": [
+    450,
+    300,
+    572,
+    316
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kiss Tech Zrt.",
+   "bbox": [
+    450,
+    325,
+    879,
+    348
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    377,
+    629,
+    403
+   ]
+  },
+  {
+   "text": "1993 – 1998",
+   "bbox": [
+    450,
+    430,
+    572,
+    446
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    455,
+    659,
+    478
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    480,
+    783,
+    502
+   ]
+  },
+  {
+   "text": "1989 – 1993",
+   "bbox": [
+    450,
+    524,
+    572,
+    540
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    549,
+    746,
+    567
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    574,
+    535,
+    596
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2025/07193",
+  "kiallitas_datuma": "2025. 10. 19.",
+  "teljesites_datuma": "2025. 10. 15.",
+  "fizetesi_hatarido": "2025. 10. 27.",
+  "elado_nev": "Horváth Consulting Kft.",
+  "elado_cim": "H-9975 Miskolc, Nyékmindszenti utca 33.",
+  "elado_adoszam": "68636782-2-15",
+  "vevo_nev": "Kocsis Trade Zrt.",
+  "vevo_cim": "H-8771 Kaposvár, Balatonfürdői utca 36.",
+  "vevo_adoszam": "75086811-2-03",
+  "bankszamla": "HU68 8416 8793 1215 0229 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "107 400 Ft",
+  "afa_osszesen": "28 998 Ft",
+  "brutto_osszesen": "136 398 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "35 800",
+    "netto": "107 400",
+    "afa_kulcs": "27%",
+    "afa": "28 998",
+    "brutto": "136 398"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    447,
+    81,
+    792,
+    125
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/07193",
+   "bbox": [
+    438,
+    146,
+    802,
+    169
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    85,
+    227,
+    152,
+    245
+   ]
+  },
+  {
+   "text": "Horváth Consulting Kft.",
+   "bbox": [
+    85,
+    265,
+    335,
+    288
+   ]
+  },
+  {
+   "text": "H-9975 Miskolc, Nyékmindszenti utca 33.",
+   "bbox": [
+    85,
+    300,
+    488,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 68636782-2-15",
+   "bbox": [
+    85,
+    332,
+    331,
+    349
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    228,
+    691,
+    245
+   ]
+  },
+  {
+   "text": "Kocsis Trade Zrt.",
+   "bbox": [
+    630,
+    265,
+    806,
+    283
+   ]
+  },
+  {
+   "text": "H-8771 Kaposvár, Balatonfürdői utca 36.",
+   "bbox": [
+    630,
+    300,
+    1026,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 75086811-2-03",
+   "bbox": [
+    630,
+    332,
+    876,
+    349
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    85,
+    403,
+    254,
+    419
+   ]
+  },
+  {
+   "text": "2025. 10. 19.",
+   "bbox": [
+    385,
+    404,
+    509,
+    419
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    85,
+    437,
+    269,
+    457
+   ]
+  },
+  {
+   "text": "2025. 10. 15.",
+   "bbox": [
+    385,
+    438,
+    509,
+    453
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    85,
+    471,
+    258,
+    487
+   ]
+  },
+  {
+   "text": "2025. 10. 27.",
+   "bbox": [
+    385,
+    472,
+    509,
+    487
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    85,
+    505,
+    218,
+    521
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    385,
+    504,
+    473,
+    525
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    85,
+    551,
+    194,
+    569
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    552,
+    580,
+    569
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    551,
+    749,
+    569
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    826,
+    551,
+    876,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    890,
+    548,
+    941,
+    565
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1006,
+    548,
+    1042,
+    565
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1100,
+    551,
+    1155,
+    565
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    513,
+    594,
+    597,
+    608
+   ]
+  },
+  {
+   "text": "35 800",
+   "bbox": [
+    688,
+    595,
+    748,
+    608
+   ]
+  },
+  {
+   "text": "107 400",
+   "bbox": [
+    805,
+    595,
+    876,
+    608
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    594,
+    941,
+    608
+   ]
+  },
+  {
+   "text": "28 998",
+   "bbox": [
+    982,
+    595,
+    1042,
+    608
+   ]
+  },
+  {
+   "text": "136 398",
+   "bbox": [
+    1084,
+    595,
+    1155,
+    608
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    85,
+    594,
+    271,
+    612
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    665,
+    650,
+    825,
+    668
+   ]
+  },
+  {
+   "text": "107 400 Ft",
+   "bbox": [
+    1046,
+    652,
+    1155,
+    668
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    683,
+    685,
+    825,
+    706
+   ]
+  },
+  {
+   "text": "28 998 Ft",
+   "bbox": [
+    1059,
+    690,
+    1155,
+    706
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    710,
+    726,
+    825,
+    748
+   ]
+  },
+  {
+   "text": "136 398 Ft",
+   "bbox": [
+    1045,
+    728,
+    1155,
+    744
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU68 8416 8793 1215 0229 0000 0000",
+   "bbox": [
+    85,
+    794,
+    623,
+    811
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    85,
+    826,
+    658,
+    844
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

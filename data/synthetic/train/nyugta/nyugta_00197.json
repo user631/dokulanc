@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "FEKETE ÉLELMISZER KFT.",
+  "uzlet_cim": "H-6666 Ráchídhida, Zalaegerszegi utca 123.",
+  "adoszam": "20966809-2-30",
+  "datum": "2026.09.21.",
+  "ido": "09:19",
+  "nyugtaszam": "1908/95629",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "16 608 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "318"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "638"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "994"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1720"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4719"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2565"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "957"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2504"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "1914"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "279"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEKETE ÉLELMISZER KFT.",
+   "bbox": [
+    131,
+    28,
+    395,
+    47
+   ]
+  },
+  {
+   "text": "H-6666 Ráchídhida, Zalaegerszegi utca 123.",
+   "bbox": [
+    53,
+    63,
+    473,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 20966809-2-30",
+   "bbox": [
+    153,
+    86,
+    373,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    224,
+    127,
+    303,
+    142
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    168,
+    178,
+    181
+   ]
+  },
+  {
+   "text": "318 B00",
+   "bbox": [
+    425,
+    168,
+    502,
+    181
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    196,
+    145,
+    209
+   ]
+  },
+  {
+   "text": "638 C00",
+   "bbox": [
+    425,
+    196,
+    502,
+    209
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    224,
+    112,
+    237
+   ]
+  },
+  {
+   "text": "994 A00",
+   "bbox": [
+    425,
+    224,
+    502,
+    237
+   ]
+  },
+  {
+   "text": "2 DB x 860",
+   "bbox": [
+    24,
+    252,
+    114,
+    263
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    274,
+    189,
+    287
+   ]
+  },
+  {
+   "text": "1720 B00",
+   "bbox": [
+    414,
+    274,
+    502,
+    287
+   ]
+  },
+  {
+   "text": "3 DB x 1573",
+   "bbox": [
+    24,
+    302,
+    123,
+    313
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    324,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "4719 C00",
+   "bbox": [
+    414,
+    324,
+    502,
+    337
+   ]
+  },
+  {
+   "text": "3 DB x 855",
+   "bbox": [
+    24,
+    352,
+    114,
+    363
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    374,
+    200,
+    387
+   ]
+  },
+  {
+   "text": "2565 B00",
+   "bbox": [
+    414,
+    374,
+    502,
+    387
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    402,
+    167,
+    415
+   ]
+  },
+  {
+   "text": "957 C00",
+   "bbox": [
+    425,
+    402,
+    502,
+    415
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    430,
+    233,
+    443
+   ]
+  },
+  {
+   "text": "2504 C00",
+   "bbox": [
+    414,
+    430,
+    502,
+    443
+   ]
+  },
+  {
+   "text": "2 DB x 957",
+   "bbox": [
+    24,
+    458,
+    114,
+    469
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    480,
+    112,
+    493
+   ]
+  },
+  {
+   "text": "1914 B00",
+   "bbox": [
+    414,
+    480,
+    502,
+    493
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    508,
+    167,
+    521
+   ]
+  },
+  {
+   "text": "279 C00",
+   "bbox": [
+    425,
+    508,
+    502,
+    521
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    545,
+    141,
+    564
+   ]
+  },
+  {
+   "text": "16 608 Ft",
+   "bbox": [
+    385,
+    548,
+    502,
+    564
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    582,
+    134,
+    599
+   ]
+  },
+  {
+   "text": "16 608 Ft",
+   "bbox": [
+    403,
+    586,
+    502,
+    599
+   ]
+  },
+  {
+   "text": "2026.09.21.",
+   "bbox": [
+    24,
+    629,
+    134,
+    640
+   ]
+  },
+  {
+   "text": "09:19",
+   "bbox": [
+    452,
+    629,
+    502,
+    640
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1908/95629",
+   "bbox": [
+    24,
+    654,
+    244,
+    670
+   ]
+  },
+  {
+   "text": "AP A41630096",
+   "bbox": [
+    24,
+    685,
+    144,
+    696
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    153,
+    721,
+    373,
+    737
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  526,
+  782
+ ]
+}

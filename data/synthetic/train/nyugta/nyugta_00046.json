@@ -1,0 +1,321 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LAKATOS KISBOLT BT.",
+  "uzlet_cim": "H-6724 Kaposvár, Székesfehérvári utca 245.",
+  "adoszam": "53972583-2-06",
+  "datum": "2024.01.18.",
+  "ido": "08:37",
+  "nyugtaszam": "2957/82917",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 282 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "779"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "967"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1965"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4866"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1518"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "804"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "383"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS KISBOLT BT.",
+   "bbox": [
+    150,
+    35,
+    454,
+    51
+   ]
+  },
+  {
+   "text": "H-6724 Kaposvár, Székesfehérvári utca 245.",
+   "bbox": [
+    29,
+    67,
+    575,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53972583-2-06",
+   "bbox": [
+    159,
+    95,
+    445,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    251,
+    141,
+    353,
+    159
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    184,
+    220,
+    201
+   ]
+  },
+  {
+   "text": "779 C00",
+   "bbox": [
+    483,
+    184,
+    581,
+    201
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    216,
+    136,
+    233
+   ]
+  },
+  {
+   "text": "967 C00",
+   "bbox": [
+    483,
+    216,
+    581,
+    233
+   ]
+  },
+  {
+   "text": "3 DB x 655",
+   "bbox": [
+    24,
+    248,
+    154,
+    263
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    274,
+    150,
+    291
+   ]
+  },
+  {
+   "text": "1965 A00",
+   "bbox": [
+    469,
+    274,
+    581,
+    291
+   ]
+  },
+  {
+   "text": "3 DB x 1622",
+   "bbox": [
+    24,
+    306,
+    167,
+    321
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    334,
+    164,
+    349
+   ]
+  },
+  {
+   "text": "4866 B00",
+   "bbox": [
+    469,
+    332,
+    581,
+    349
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    366,
+    206,
+    381
+   ]
+  },
+  {
+   "text": "1518 B00",
+   "bbox": [
+    469,
+    364,
+    581,
+    381
+   ]
+  },
+  {
+   "text": "2 DB x 402",
+   "bbox": [
+    24,
+    396,
+    154,
+    411
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    422,
+    220,
+    439
+   ]
+  },
+  {
+   "text": "804 C00",
+   "bbox": [
+    483,
+    422,
+    581,
+    439
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    454,
+    178,
+    475
+   ]
+  },
+  {
+   "text": "383 C00",
+   "bbox": [
+    483,
+    454,
+    581,
+    471
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    497,
+    194,
+    519
+   ]
+  },
+  {
+   "text": "11 282 Ft",
+   "bbox": [
+    428,
+    499,
+    581,
+    519
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    538,
+    165,
+    557
+   ]
+  },
+  {
+   "text": "11 282 Ft",
+   "bbox": [
+    455,
+    540,
+    581,
+    557
+   ]
+  },
+  {
+   "text": "2024.01.18.",
+   "bbox": [
+    24,
+    586,
+    167,
+    602
+   ]
+  },
+  {
+   "text": "08:37",
+   "bbox": [
+    516,
+    586,
+    581,
+    602
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2957/82917",
+   "bbox": [
+    24,
+    617,
+    310,
+    637
+   ]
+  },
+  {
+   "text": "AP A12494697",
+   "bbox": [
+    24,
+    650,
+    180,
+    666
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    232,
+    693,
+    372,
+    711
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  605,
+  756
+ ]
+}

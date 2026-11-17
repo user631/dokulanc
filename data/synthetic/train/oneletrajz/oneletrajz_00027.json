@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Sándor",
+  "email": "toth.sandor@freemail.hu",
+  "telefon": "06 1 507 3866",
+  "lakcim": "H-8187 Újszékvár, Felsőmártoni utca 227.",
+  "szuletesi_datum": "1989. 04. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szücs Consulting Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "ceg": "Vörös Tech Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2016 – 2017"
+   },
+   {
+    "ceg": "Török Consulting Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Java",
+   "SQL",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Tóth Sándor",
+   "bbox": [
+    481,
+    117,
+    760,
+    153
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    526,
+    187,
+    713,
+    205
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    240,
+    161,
+    255
+   ]
+  },
+  {
+   "text": "toth.sandor@freemail.hu",
+   "bbox": [
+    330,
+    240,
+    566,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    271,
+    173,
+    286
+   ]
+  },
+  {
+   "text": "06 1 507 3866",
+   "bbox": [
+    330,
+    271,
+    468,
+    286
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    301,
+    171,
+    317
+   ]
+  },
+  {
+   "text": "H-8187 Újszékvár, Felsőmártoni utca 227.",
+   "bbox": [
+    330,
+    298,
+    733,
+    321
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    332,
+    260,
+    348
+   ]
+  },
+  {
+   "text": "1989. 04. 18.",
+   "bbox": [
+    330,
+    333,
+    456,
+    348
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    328,
+    407
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    435,
+    210,
+    450
+   ]
+  },
+  {
+   "text": "irodavezető – Szücs Consulting Kft.",
+   "bbox": [
+    90,
+    458,
+    457,
+    479
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    90,
+    501,
+    210,
+    516
+   ]
+  },
+  {
+   "text": "rendszergazda – Vörös Tech Bt.",
+   "bbox": [
+    90,
+    525,
+    419,
+    545
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    567,
+    210,
+    582
+   ]
+  },
+  {
+   "text": "rendszergazda – Török Consulting Kft.",
+   "bbox": [
+    90,
+    591,
+    486,
+    611
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    641,
+    250,
+    666
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    694,
+    210,
+    709
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    718,
+    281,
+    738
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    744,
+    221,
+    763
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    785,
+    210,
+    800
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    808,
+    355,
+    825
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    835,
+    273,
+    854
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    884,
+    223,
+    909
+   ]
+  },
+  {
+   "text": "angol (C1), olasz (A2)",
+   "bbox": [
+    90,
+    937,
+    299,
+    956
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    982,
+    220,
+    1007
+   ]
+  },
+  {
+   "text": "Linux, Java, SQL, SAP",
+   "bbox": [
+    90,
+    1035,
+    308,
+    1053
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

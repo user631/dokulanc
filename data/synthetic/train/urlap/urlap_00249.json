@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Sándor Károly",
+  "anyja_neve": "Rácz Jenő",
+  "szuletesi_hely": "Mezőligetkőrös",
+  "szuletesi_datum": "1971. 05. 06.",
+  "lakcim": "H-4018 Mellékharaszti, Egeri utca 96.",
+  "telefon": "06 1 675 7382",
+  "email": "sandor.karoly@freemail.hu",
+  "adoazonosito_jel": "8381108748",
+  "taj_szam": "905 783 028",
+  "kelt": "Szolnok, 2025. 08. 05."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    505,
+    86,
+    734,
+    121
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    85,
+    192,
+    300,
+    213
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    97,
+    245,
+    133,
+    259
+   ]
+  },
+  {
+   "text": "Sándor Károly",
+   "bbox": [
+    397,
+    243,
+    567,
+    269
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    96,
+    297,
+    190,
+    314
+   ]
+  },
+  {
+   "text": "Rácz Jenő",
+   "bbox": [
+    397,
+    294,
+    517,
+    314
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    97,
+    347,
+    209,
+    365
+   ]
+  },
+  {
+   "text": "Mezőligetkőrös",
+   "bbox": [
+    397,
+    343,
+    568,
+    369
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    97,
+    398,
+    201,
+    412
+   ]
+  },
+  {
+   "text": "1971. 05. 06.",
+   "bbox": [
+    397,
+    401,
+    569,
+    416
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    97,
+    449,
+    157,
+    463
+   ]
+  },
+  {
+   "text": "H-4018 Mellékharaszti, Egeri utca 96.",
+   "bbox": [
+    397,
+    447,
+    862,
+    473
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    96,
+    500,
+    202,
+    514
+   ]
+  },
+  {
+   "text": "06 1 675 7382",
+   "bbox": [
+    397,
+    497,
+    594,
+    513
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    97,
+    551,
+    185,
+    565
+   ]
+  },
+  {
+   "text": "sandor.karoly@freemail.hu",
+   "bbox": [
+    397,
+    549,
+    706,
+    576
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    96,
+    602,
+    233,
+    620
+   ]
+  },
+  {
+   "text": "8381108748",
+   "bbox": [
+    397,
+    601,
+    567,
+    618
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    96,
+    653,
+    179,
+    667
+   ]
+  },
+  {
+   "text": "905 783 028",
+   "bbox": [
+    397,
+    655,
+    568,
+    671
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    85,
+    730,
+    258,
+    751
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    130,
+    774,
+    401,
+    792
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    130,
+    819,
+    255,
+    833
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    129,
+    864,
+    421,
+    882
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    85,
+    966,
+    123,
+    981
+   ]
+  },
+  {
+   "text": "Szolnok, 2025. 08. 05.",
+   "bbox": [
+    175,
+    967,
+    421,
+    987
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    944,
+    1014,
+    986,
+    1026
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

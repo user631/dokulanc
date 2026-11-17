@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Varga János",
+  "anyja_neve": "Borbély Enikő",
+  "szuletesi_hely": "Dunagyörgyhalas",
+  "szuletesi_datum": "1951.01.07.",
+  "lakcim": "H-5002 Bakonyhetvenapáti, Nyíregyházai utca 248.",
+  "telefon": "+36 70 780 8125",
+  "email": "varga.janos@citromail.hu",
+  "adoazonosito_jel": "8306867203",
+  "taj_szam": "879 546 494",
+  "kelt": "Pécs, 2024.05.11."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    541,
+    97,
+    699,
+    123
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    462,
+    144,
+    779,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    88,
+    199,
+    307,
+    221
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    100,
+    252,
+    141,
+    268
+   ]
+  },
+  {
+   "text": "Varga János",
+   "bbox": [
+    393,
+    248,
+    578,
+    276
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    100,
+    307,
+    207,
+    325
+   ]
+  },
+  {
+   "text": "Borbély Enikő",
+   "bbox": [
+    393,
+    299,
+    582,
+    327
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    100,
+    358,
+    232,
+    378
+   ]
+  },
+  {
+   "text": "Dunagyörgyhalas",
+   "bbox": [
+    393,
+    357,
+    657,
+    386
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    100,
+    411,
+    222,
+    427
+   ]
+  },
+  {
+   "text": "1951.01.07.",
+   "bbox": [
+    393,
+    408,
+    553,
+    427
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    100,
+    464,
+    171,
+    480
+   ]
+  },
+  {
+   "text": "H-5002 Bakonyhetvenapáti, Nyíregyházai utca 248.",
+   "bbox": [
+    393,
+    459,
+    1129,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    100,
+    517,
+    222,
+    533
+   ]
+  },
+  {
+   "text": "+36 70 780 8125",
+   "bbox": [
+    393,
+    515,
+    621,
+    534
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    100,
+    570,
+    204,
+    586
+   ]
+  },
+  {
+   "text": "varga.janos@citromail.hu",
+   "bbox": [
+    393,
+    568,
+    774,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    100,
+    623,
+    258,
+    643
+   ]
+  },
+  {
+   "text": "8306867203",
+   "bbox": [
+    393,
+    620,
+    563,
+    639
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    100,
+    676,
+    193,
+    692
+   ]
+  },
+  {
+   "text": "879 546 494",
+   "bbox": [
+    393,
+    677,
+    563,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    88,
+    757,
+    263,
+    779
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    133,
+    800,
+    456,
+    820
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    133,
+    845,
+    286,
+    861
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    133,
+    890,
+    469,
+    910
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    88,
+    995,
+    133,
+    1010
+   ]
+  },
+  {
+   "text": "Pécs, 2024.05.11.",
+   "bbox": [
+    178,
+    992,
+    398,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    936,
+    1042,
+    987,
+    1056
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ ABC KFT.",
+  "uzlet_cim": "H-8789 Oroszszékfalva, Békésmindszenti tér 164.",
+  "adoszam": "19133108-2-15",
+  "datum": "2025.01.22.",
+  "ido": "11:25",
+  "nyugtaszam": "2869/31398",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "15 642 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "99"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1258"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3756"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "302"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "752"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "406"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1076"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5298"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1835"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "360"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ABC KFT.",
+   "bbox": [
+    226,
+    31,
+    408,
+    48
+   ]
+  },
+  {
+   "text": "H-8789 Oroszszékfalva, Békésmindszenti tér 164.",
+   "bbox": [
+    58,
+    63,
+    575,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 19133108-2-15",
+   "bbox": [
+    196,
+    87,
+    438,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    275,
+    128,
+    360,
+    143
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    169,
+    96,
+    182
+   ]
+  },
+  {
+   "text": "99 B00",
+   "bbox": [
+    539,
+    168,
+    611,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 629",
+   "bbox": [
+    24,
+    196,
+    124,
+    208
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    218,
+    132,
+    232
+   ]
+  },
+  {
+   "text": "1258 A00",
+   "bbox": [
+    515,
+    218,
+    611,
+    232
+   ]
+  },
+  {
+   "text": "3 DB x 1252",
+   "bbox": [
+    24,
+    246,
+    134,
+    258
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    268,
+    120,
+    282
+   ]
+  },
+  {
+   "text": "3756 B00",
+   "bbox": [
+    515,
+    268,
+    611,
+    282
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    296,
+    192,
+    310
+   ]
+  },
+  {
+   "text": "302 C00",
+   "bbox": [
+    527,
+    296,
+    611,
+    310
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    324,
+    204,
+    338
+   ]
+  },
+  {
+   "text": "752 A00",
+   "bbox": [
+    527,
+    324,
+    611,
+    338
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    353,
+    192,
+    366
+   ]
+  },
+  {
+   "text": "406 A00",
+   "bbox": [
+    527,
+    352,
+    611,
+    366
+   ]
+  },
+  {
+   "text": "2 DB x 538",
+   "bbox": [
+    24,
+    380,
+    124,
+    392
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    402,
+    120,
+    416
+   ]
+  },
+  {
+   "text": "1076 C00",
+   "bbox": [
+    515,
+    402,
+    611,
+    416
+   ]
+  },
+  {
+   "text": "2 DB x 2649",
+   "bbox": [
+    24,
+    430,
+    134,
+    442
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    452,
+    252,
+    466
+   ]
+  },
+  {
+   "text": "5298 A00",
+   "bbox": [
+    515,
+    452,
+    611,
+    466
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    481,
+    144,
+    494
+   ]
+  },
+  {
+   "text": "1835 A00",
+   "bbox": [
+    515,
+    480,
+    611,
+    494
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    508,
+    156,
+    525
+   ]
+  },
+  {
+   "text": "360 A00",
+   "bbox": [
+    527,
+    508,
+    611,
+    522
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    546,
+    164,
+    565
+   ]
+  },
+  {
+   "text": "15 642 Ft",
+   "bbox": [
+    485,
+    548,
+    611,
+    565
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    584,
+    144,
+    600
+   ]
+  },
+  {
+   "text": "15 642 Ft",
+   "bbox": [
+    503,
+    586,
+    611,
+    600
+   ]
+  },
+  {
+   "text": "2025.01.22.",
+   "bbox": [
+    24,
+    628,
+    145,
+    641
+   ]
+  },
+  {
+   "text": "11:25",
+   "bbox": [
+    556,
+    628,
+    611,
+    641
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 2869/31398",
+   "bbox": [
+    24,
+    655,
+    266,
+    672
+   ]
+  },
+  {
+   "text": "AP A45148690",
+   "bbox": [
+    24,
+    684,
+    156,
+    697
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    196,
+    722,
+    438,
+    737
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  635,
+  782
+ ]
+}

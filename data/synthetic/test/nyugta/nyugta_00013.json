@@ -1,0 +1,445 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "OLÁH CSEMEGE BT.",
+  "uzlet_cim": "H-5445 Ligetbánya, Hetvenváradi út 164.",
+  "adoszam": "44215183-5-40",
+  "datum": "2026.05.12.",
+  "ido": "13:15",
+  "nyugtaszam": "7036/04070",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "15 654 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "73"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2523"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1560"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3324"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1640"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1178"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "791"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "342"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1185"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1104"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1934"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OLÁH CSEMEGE BT.",
+   "bbox": [
+    196,
+    30,
+    436,
+    50
+   ]
+  },
+  {
+   "text": "H-5445 Ligetbánya, Hetvenváradi út 164.",
+   "bbox": [
+    62,
+    65,
+    569,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 44215183-5-40",
+   "bbox": [
+    173,
+    92,
+    459,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    268,
+    138,
+    365,
+    155
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    183,
+    108,
+    197
+   ]
+  },
+  {
+   "text": "73 A00",
+   "bbox": [
+    525,
+    180,
+    609,
+    197
+   ]
+  },
+  {
+   "text": "3 DB x 841",
+   "bbox": [
+    24,
+    211,
+    144,
+    225
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    236,
+    136,
+    253
+   ]
+  },
+  {
+   "text": "2523 A00",
+   "bbox": [
+    497,
+    236,
+    609,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 520",
+   "bbox": [
+    24,
+    267,
+    144,
+    281
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    292,
+    150,
+    309
+   ]
+  },
+  {
+   "text": "1560 C00",
+   "bbox": [
+    497,
+    292,
+    609,
+    309
+   ]
+  },
+  {
+   "text": "2 DB x 1662",
+   "bbox": [
+    24,
+    323,
+    156,
+    337
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    351,
+    164,
+    365
+   ]
+  },
+  {
+   "text": "3324 B00",
+   "bbox": [
+    497,
+    348,
+    609,
+    365
+   ]
+  },
+  {
+   "text": "2 DB x 820",
+   "bbox": [
+    24,
+    379,
+    144,
+    393
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    404,
+    234,
+    421
+   ]
+  },
+  {
+   "text": "1640 A00",
+   "bbox": [
+    497,
+    404,
+    609,
+    421
+   ]
+  },
+  {
+   "text": "2 DB x 589",
+   "bbox": [
+    24,
+    435,
+    144,
+    449
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    460,
+    178,
+    477
+   ]
+  },
+  {
+   "text": "1178 B00",
+   "bbox": [
+    497,
+    460,
+    609,
+    477
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    491,
+    248,
+    508
+   ]
+  },
+  {
+   "text": "791 A00",
+   "bbox": [
+    511,
+    491,
+    609,
+    508
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    525,
+    206,
+    539
+   ]
+  },
+  {
+   "text": "342 A00",
+   "bbox": [
+    511,
+    522,
+    609,
+    539
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    553,
+    164,
+    570
+   ]
+  },
+  {
+   "text": "1185 B00",
+   "bbox": [
+    497,
+    553,
+    609,
+    570
+   ]
+  },
+  {
+   "text": "3 DB x 368",
+   "bbox": [
+    24,
+    584,
+    144,
+    598
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    609,
+    178,
+    630
+   ]
+  },
+  {
+   "text": "1104 B00",
+   "bbox": [
+    497,
+    609,
+    609,
+    626
+   ]
+  },
+  {
+   "text": "2 DB x 967",
+   "bbox": [
+    24,
+    640,
+    144,
+    654
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    665,
+    136,
+    682
+   ]
+  },
+  {
+   "text": "1934 A00",
+   "bbox": [
+    497,
+    665,
+    609,
+    682
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    707,
+    184,
+    728
+   ]
+  },
+  {
+   "text": "15 654 Ft",
+   "bbox": [
+    465,
+    708,
+    609,
+    728
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    748,
+    136,
+    766
+   ]
+  },
+  {
+   "text": "15 654 Ft",
+   "bbox": [
+    483,
+    749,
+    609,
+    766
+   ]
+  },
+  {
+   "text": "2026.05.12.",
+   "bbox": [
+    24,
+    794,
+    167,
+    809
+   ]
+  },
+  {
+   "text": "13:15",
+   "bbox": [
+    544,
+    794,
+    609,
+    809
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7036/04070",
+   "bbox": [
+    24,
+    823,
+    310,
+    843
+   ]
+  },
+  {
+   "text": "AP A17685821",
+   "bbox": [
+    24,
+    856,
+    180,
+    871
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    218,
+    898,
+    413,
+    915
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  633,
+  960
+ ]
+}

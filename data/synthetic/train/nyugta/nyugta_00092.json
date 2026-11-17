@@ -1,0 +1,352 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "KISS CSEMEGE KFT.",
+  "uzlet_cim": "H-3890 Váchátberény, Somogygyörgyi utca 172.",
+  "adoszam": "24380540-2-27",
+  "datum": "2025.08.04.",
+  "ido": "12:16",
+  "nyugtaszam": "1655/27762",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 307 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "630"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "605"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "734"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1080"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1218"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2625"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1252"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2163"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS CSEMEGE KFT.",
+   "bbox": [
+    151,
+    34,
+    389,
+    49
+   ]
+  },
+  {
+   "text": "H-3890 Váchátberény, Somogygyörgyi utca",
+   "bbox": [
+    36,
+    64,
+    504,
+    84
+   ]
+  },
+  {
+   "text": "172.",
+   "bbox": [
+    246,
+    92,
+    294,
+    106
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 24380540-2-27",
+   "bbox": [
+    138,
+    116,
+    402,
+    132
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    161,
+    318,
+    177
+   ]
+  },
+  {
+   "text": "2 DB x 315",
+   "bbox": [
+    24,
+    201,
+    134,
+    215
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    228,
+    193,
+    242
+   ]
+  },
+  {
+   "text": "630 A00",
+   "bbox": [
+    425,
+    226,
+    516,
+    242
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    256,
+    206,
+    272
+   ]
+  },
+  {
+   "text": "605 B00",
+   "bbox": [
+    425,
+    256,
+    516,
+    272
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    286,
+    128,
+    302
+   ]
+  },
+  {
+   "text": "734 C00",
+   "bbox": [
+    425,
+    286,
+    516,
+    302
+   ]
+  },
+  {
+   "text": "3 DB x 360",
+   "bbox": [
+    24,
+    315,
+    134,
+    329
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    340,
+    206,
+    356
+   ]
+  },
+  {
+   "text": "1080 C00",
+   "bbox": [
+    412,
+    340,
+    516,
+    356
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    372,
+    193,
+    386
+   ]
+  },
+  {
+   "text": "1218 A00",
+   "bbox": [
+    412,
+    370,
+    516,
+    386
+   ]
+  },
+  {
+   "text": "3 DB x 875",
+   "bbox": [
+    24,
+    399,
+    134,
+    413
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    424,
+    128,
+    440
+   ]
+  },
+  {
+   "text": "2625 B00",
+   "bbox": [
+    412,
+    424,
+    516,
+    440
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    454,
+    128,
+    470
+   ]
+  },
+  {
+   "text": "1252 A00",
+   "bbox": [
+    412,
+    454,
+    516,
+    470
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    484,
+    271,
+    500
+   ]
+  },
+  {
+   "text": "2163 C00",
+   "bbox": [
+    412,
+    484,
+    516,
+    500
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    524,
+    168,
+    545
+   ]
+  },
+  {
+   "text": "10 307 Ft",
+   "bbox": [
+    372,
+    526,
+    516,
+    545
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    565,
+    155,
+    582
+   ]
+  },
+  {
+   "text": "10 307 Ft",
+   "bbox": [
+    399,
+    566,
+    516,
+    582
+   ]
+  },
+  {
+   "text": "2025.08.04.",
+   "bbox": [
+    24,
+    610,
+    156,
+    624
+   ]
+  },
+  {
+   "text": "12:16",
+   "bbox": [
+    456,
+    610,
+    516,
+    624
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1655/27762",
+   "bbox": [
+    24,
+    638,
+    288,
+    657
+   ]
+  },
+  {
+   "text": "AP A31579624",
+   "bbox": [
+    24,
+    670,
+    168,
+    684
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    172,
+    710,
+    367,
+    727
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  540,
+  772
+ ]
+}

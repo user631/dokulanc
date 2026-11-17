@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "TÓTH MARKET BT.",
+  "uzlet_cim": "H-9188 Hátvárad, Tapolcahalasi utca 159.",
+  "adoszam": "71768070-5-23",
+  "datum": "2024.11.05.",
+  "ido": "09:23",
+  "nyugtaszam": "1846/35497",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "14 739 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "575"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "940"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1274"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1249"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "765"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4830"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "398"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "694"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "621"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "797"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1308"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1288"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH MARKET BT.",
+   "bbox": [
+    189,
+    28,
+    399,
+    50
+   ]
+  },
+  {
+   "text": "H-9188 Hátvárad, Tapolcahalasi utca 159.",
+   "bbox": [
+    54,
+    67,
+    534,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71768070-5-23",
+   "bbox": [
+    162,
+    92,
+    426,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    249,
+    139,
+    340,
+    157
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    185,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "575 C00",
+   "bbox": [
+    474,
+    185,
+    565,
+    200
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    217,
+    219,
+    232
+   ]
+  },
+  {
+   "text": "940 A00",
+   "bbox": [
+    474,
+    217,
+    565,
+    232
+   ]
+  },
+  {
+   "text": "2 DB x 637",
+   "bbox": [
+    24,
+    249,
+    144,
+    262
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    275,
+    232,
+    290
+   ]
+  },
+  {
+   "text": "1274 B00",
+   "bbox": [
+    461,
+    275,
+    565,
+    290
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    307,
+    154,
+    322
+   ]
+  },
+  {
+   "text": "1249 B00",
+   "bbox": [
+    461,
+    307,
+    565,
+    322
+   ]
+  },
+  {
+   "text": "3 DB x 255",
+   "bbox": [
+    24,
+    339,
+    144,
+    352
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    365,
+    206,
+    384
+   ]
+  },
+  {
+   "text": "765 A00",
+   "bbox": [
+    474,
+    365,
+    565,
+    380
+   ]
+  },
+  {
+   "text": "2 DB x 2415",
+   "bbox": [
+    24,
+    397,
+    156,
+    410
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    423,
+    271,
+    438
+   ]
+  },
+  {
+   "text": "4830 B00",
+   "bbox": [
+    461,
+    423,
+    565,
+    438
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    453,
+    167,
+    474
+   ]
+  },
+  {
+   "text": "398 C00",
+   "bbox": [
+    474,
+    455,
+    565,
+    470
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    487,
+    128,
+    502
+   ]
+  },
+  {
+   "text": "694 B00",
+   "bbox": [
+    474,
+    487,
+    565,
+    502
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    519,
+    167,
+    534
+   ]
+  },
+  {
+   "text": "621 B00",
+   "bbox": [
+    474,
+    519,
+    565,
+    534
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    551,
+    128,
+    566
+   ]
+  },
+  {
+   "text": "797 A00",
+   "bbox": [
+    474,
+    551,
+    565,
+    566
+   ]
+  },
+  {
+   "text": "2 DB x 654",
+   "bbox": [
+    24,
+    583,
+    144,
+    596
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    609,
+    141,
+    624
+   ]
+  },
+  {
+   "text": "1308 C00",
+   "bbox": [
+    461,
+    609,
+    565,
+    624
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    641,
+    180,
+    656
+   ]
+  },
+  {
+   "text": "1288 A00",
+   "bbox": [
+    461,
+    641,
+    565,
+    656
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    680,
+    174,
+    703
+   ]
+  },
+  {
+   "text": "14 739 Ft",
+   "bbox": [
+    430,
+    685,
+    565,
+    703
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    722,
+    128,
+    742
+   ]
+  },
+  {
+   "text": "14 739 Ft",
+   "bbox": [
+    448,
+    726,
+    565,
+    742
+   ]
+  },
+  {
+   "text": "2024.11.05.",
+   "bbox": [
+    24,
+    773,
+    156,
+    787
+   ]
+  },
+  {
+   "text": "09:23",
+   "bbox": [
+    505,
+    773,
+    565,
+    787
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1846/35497",
+   "bbox": [
+    24,
+    800,
+    288,
+    821
+   ]
+  },
+  {
+   "text": "AP A68591777",
+   "bbox": [
+    24,
+    837,
+    168,
+    851
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    229,
+    877,
+    359,
+    896
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  589,
+  942
+ ]
+}

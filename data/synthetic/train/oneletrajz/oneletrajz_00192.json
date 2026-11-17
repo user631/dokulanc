@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Horváth Margit",
+  "email": "horvath.margit@gmail.com",
+  "telefon": "06 1 175 3860",
+  "lakcim": "H-1260 Mártonnádasd, Tapolcahidai utca 213.",
+  "szuletesi_datum": "1984. 10. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Budai Tech Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Szabó és Társa Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "ceg": "Deák Consulting Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "SQL",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Horváth Margit",
+   "bbox": [
+    436,
+    107,
+    803,
+    156
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    176,
+    728,
+    203
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    169,
+    248
+   ]
+  },
+  {
+   "text": "horvath.margit@gmail.com",
+   "bbox": [
+    330,
+    231,
+    592,
+    252
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    180,
+    280
+   ]
+  },
+  {
+   "text": "06 1 175 3860",
+   "bbox": [
+    330,
+    264,
+    471,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    177,
+    312
+   ]
+  },
+  {
+   "text": "H-1260 Mártonnádasd, Tapolcahidai utca 213.",
+   "bbox": [
+    330,
+    294,
+    780,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    275,
+    344
+   ]
+  },
+  {
+   "text": "1984. 10. 18.",
+   "bbox": [
+    330,
+    328,
+    461,
+    344
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    380,
+    357,
+    405
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    432,
+    212,
+    448
+   ]
+  },
+  {
+   "text": "irodavezető – Budai Tech Zrt.",
+   "bbox": [
+    90,
+    457,
+    431,
+    475
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    500,
+    212,
+    516
+   ]
+  },
+  {
+   "text": "irodavezető – Szabó és Társa Bt.",
+   "bbox": [
+    90,
+    525,
+    469,
+    543
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    568,
+    212,
+    584
+   ]
+  },
+  {
+   "text": "projektmenedzser – Deák Consulting Zrt.",
+   "bbox": [
+    90,
+    593,
+    568,
+    616
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    645,
+    269,
+    671
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    90,
+    698,
+    212,
+    714
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    723,
+    409,
+    746
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    90,
+    748,
+    212,
+    770
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    792,
+    212,
+    808
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    817,
+    370,
+    840
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    842,
+    175,
+    864
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    895,
+    236,
+    921
+   ]
+  },
+  {
+   "text": "angol (B2), francia (A2)",
+   "bbox": [
+    90,
+    947,
+    319,
+    968
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    995,
+    225,
+    1021
+   ]
+  },
+  {
+   "text": "Excel, SQL, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    1046,
+    445,
+    1068
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

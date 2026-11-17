@@ -1,0 +1,344 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Szűcs Csaba",
+  "email": "szucs.csaba@example.hu",
+  "telefon": "+36 30 469 9862",
+  "lakcim": "H-6885 Tapolcabánya, Lajosi utca 249.",
+  "szuletesi_datum": "1991. 07. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2009 – 2013"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Tech Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "ceg": "Oláh Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "ceg": "Bálint Trade Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "C#",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    102,
+    180,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    90,
+    158
+   ]
+  },
+  {
+   "text": "szucs.csaba@example.hu",
+   "bbox": [
+    40,
+    166,
+    228,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    101,
+    210
+   ]
+  },
+  {
+   "text": "+36 30 469 9862",
+   "bbox": [
+    40,
+    219,
+    163,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    249,
+    96,
+    262
+   ]
+  },
+  {
+   "text": "H-6885 Tapolcabánya, Lajosi utca 249.",
+   "bbox": [
+    40,
+    269,
+    333,
+    286
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    301,
+    168,
+    314
+   ]
+  },
+  {
+   "text": "1991. 07. 08.",
+   "bbox": [
+    40,
+    323,
+    140,
+    335
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    381,
+    169,
+    400
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    420,
+    130,
+    438
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    446,
+    135,
+    463
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    498,
+    151,
+    517
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    538,
+    83,
+    551
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    563,
+    61,
+    576
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    588,
+    70,
+    603
+   ]
+  },
+  {
+   "text": "Szűcs Csaba",
+   "bbox": [
+    450,
+    110,
+    690,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    176,
+    648,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    662,
+    260
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    286,
+    549,
+    300
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy Tech Zrt.",
+   "bbox": [
+    450,
+    309,
+    768,
+    328
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    450,
+    348,
+    549,
+    362
+   ]
+  },
+  {
+   "text": "adatelemző – Oláh Bt.",
+   "bbox": [
+    450,
+    371,
+    656,
+    386
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    410,
+    549,
+    424
+   ]
+  },
+  {
+   "text": "értékesítő – Bálint Trade Kft.",
+   "bbox": [
+    450,
+    433,
+    724,
+    448
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    483,
+    595,
+    505
+   ]
+  },
+  {
+   "text": "2009 – 2013",
+   "bbox": [
+    450,
+    531,
+    549,
+    545
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    554,
+    685,
+    573
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    577,
+    570,
+    595
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    616,
+    549,
+    630
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    639,
+    677,
+    658
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    661,
+    526,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

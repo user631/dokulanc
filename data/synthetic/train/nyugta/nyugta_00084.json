@@ -1,0 +1,299 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "DUDÁS KISBOLT KFT.",
+  "uzlet_cim": "H-8985 Györgyváros, Hídvárosi utca 10.",
+  "adoszam": "81037184-2-16",
+  "datum": "2024.11.28.",
+  "ido": "12:11",
+  "nyugtaszam": "9775/92516",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "11 347 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "575"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "142"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "4428"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "678"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1278"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4246"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "DUDÁS KISBOLT KFT.",
+   "bbox": [
+    188,
+    28,
+    440,
+    50
+   ]
+  },
+  {
+   "text": "H-8985 Györgyváros, Hídvárosi utca 10.",
+   "bbox": [
+    86,
+    67,
+    542,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81037184-2-16",
+   "bbox": [
+    182,
+    92,
+    446,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    139,
+    360,
+    157
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    185,
+    206,
+    200
+   ]
+  },
+  {
+   "text": "575 C00",
+   "bbox": [
+    514,
+    185,
+    605,
+    200
+   ]
+  },
+  {
+   "text": "2 DB x 71",
+   "bbox": [
+    24,
+    217,
+    132,
+    230
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    243,
+    102,
+    258
+   ]
+  },
+  {
+   "text": "142 A00",
+   "bbox": [
+    514,
+    243,
+    605,
+    258
+   ]
+  },
+  {
+   "text": "3 DB x 1476",
+   "bbox": [
+    24,
+    275,
+    156,
+    288
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    301,
+    154,
+    316
+   ]
+  },
+  {
+   "text": "4428 A00",
+   "bbox": [
+    501,
+    301,
+    605,
+    316
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    333,
+    206,
+    348
+   ]
+  },
+  {
+   "text": "678 B00",
+   "bbox": [
+    514,
+    333,
+    605,
+    348
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    365,
+    180,
+    380
+   ]
+  },
+  {
+   "text": "1278 A00",
+   "bbox": [
+    501,
+    365,
+    605,
+    380
+   ]
+  },
+  {
+   "text": "2 DB x 2123",
+   "bbox": [
+    24,
+    397,
+    156,
+    410
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    423,
+    141,
+    438
+   ]
+  },
+  {
+   "text": "4246 C00",
+   "bbox": [
+    501,
+    423,
+    605,
+    438
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    462,
+    174,
+    485
+   ]
+  },
+  {
+   "text": "11 347 Ft",
+   "bbox": [
+    470,
+    467,
+    605,
+    485
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    504,
+    128,
+    524
+   ]
+  },
+  {
+   "text": "11 347 Ft",
+   "bbox": [
+    488,
+    508,
+    605,
+    524
+   ]
+  },
+  {
+   "text": "2024.11.28.",
+   "bbox": [
+    24,
+    555,
+    156,
+    569
+   ]
+  },
+  {
+   "text": "12:11",
+   "bbox": [
+    545,
+    555,
+    605,
+    569
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9775/92516",
+   "bbox": [
+    24,
+    582,
+    288,
+    603
+   ]
+  },
+  {
+   "text": "AP A68853801",
+   "bbox": [
+    24,
+    619,
+    168,
+    633
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    171,
+    658,
+    457,
+    678
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  629,
+  724
+ ]
+}

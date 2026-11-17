@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Balogh Ádám",
+  "email": "balogh.adam@freemail.hu",
+  "telefon": "+36 20 201 5547",
+  "lakcim": "H-5818 Németmindszentapáti, Kossuth utca 244.",
+  "szuletesi_datum": "1979.02.06.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "1998 – 2002"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mezei Tech Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2002 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "B kategóriás jogosítvány",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balogh Ádám",
+   "bbox": [
+    496,
+    84,
+    743,
+    129
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    572,
+    157,
+    668,
+    180
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    211,
+    144,
+    224
+   ]
+  },
+  {
+   "text": "balogh.adam@freemail.hu",
+   "bbox": [
+    330,
+    211,
+    535,
+    227
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    240,
+    155,
+    253
+   ]
+  },
+  {
+   "text": "+36 20 201 5547",
+   "bbox": [
+    330,
+    241,
+    461,
+    253
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    269,
+    149,
+    282
+   ]
+  },
+  {
+   "text": "H-5818 Németmindszentapáti, Kossuth utca 244.",
+   "bbox": [
+    330,
+    269,
+    708,
+    285
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    298,
+    222,
+    311
+   ]
+  },
+  {
+   "text": "1979.02.06.",
+   "bbox": [
+    330,
+    299,
+    425,
+    311
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    347,
+    277,
+    367
+   ]
+  },
+  {
+   "text": "2002 – 2003",
+   "bbox": [
+    90,
+    397,
+    187,
+    409
+   ]
+  },
+  {
+   "text": "irodavezető – Mezei Tech Kft.",
+   "bbox": [
+    90,
+    418,
+    337,
+    432
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    468,
+    218,
+    488
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    90,
+    518,
+    187,
+    530
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    539,
+    374,
+    557
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    563,
+    348,
+    579
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    90,
+    603,
+    187,
+    615
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    624,
+    323,
+    642
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    648,
+    287,
+    664
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    697,
+    197,
+    717
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    746,
+    166,
+    762
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    791,
+    188,
+    811
+   ]
+  },
+  {
+   "text": "Excel, B kategóriás jogosítvány, ügyfélkezelés",
+   "bbox": [
+    90,
+    840,
+    436,
+    856
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

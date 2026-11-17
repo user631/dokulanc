@@ -1,0 +1,626 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2024/02371",
+  "kiallitas_datuma": "2024.05.28.",
+  "teljesites_datuma": "2024.05.28.",
+  "fizetesi_hatarido": "2024.05.11.",
+  "elado_nev": "Fülöp Consulting Kft.",
+  "elado_cim": "H-6902 Mindszentdevecser, Ady endre körút 228.",
+  "elado_adoszam": "92668188-2-16",
+  "vevo_nev": "Virág Logisztika Bt.",
+  "vevo_cim": "H-9566 Zalaegerszeg, Háthalasi utca 162.",
+  "vevo_adoszam": "57884424-4-05",
+  "bankszamla": "17343349-49462213-03210753",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "186 430 Ft",
+  "afa_osszesen": "50 335 Ft",
+  "brutto_osszesen": "236 765 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "19 520",
+    "netto": "19 520",
+    "afa_kulcs": "27%",
+    "afa": "5 270",
+    "brutto": "24 790"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "2 db",
+    "egysegar": "55 230",
+    "netto": "110 460",
+    "afa_kulcs": "27%",
+    "afa": "29 824",
+    "brutto": "140 284"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "17 820",
+    "netto": "17 820",
+    "afa_kulcs": "27%",
+    "afa": "4 811",
+    "brutto": "22 631"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "38 630",
+    "netto": "38 630",
+    "afa_kulcs": "27%",
+    "afa": "10 430",
+    "brutto": "49 060"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FÜLÖP",
+   "bbox": [
+    115,
+    108,
+    195,
+    130
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    758,
+    86,
+    1165,
+    135
+   ]
+  },
+  {
+   "text": "Sorszám: A-2024/02371",
+   "bbox": [
+    910,
+    151,
+    1165,
+    174
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    74,
+    230,
+    143,
+    250
+   ]
+  },
+  {
+   "text": "Virág Logisztika Bt.",
+   "bbox": [
+    74,
+    266,
+    306,
+    291
+   ]
+  },
+  {
+   "text": "H-9566 Zalaegerszeg, Háthalasi utca 162.",
+   "bbox": [
+    75,
+    300,
+    484,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 57884424-4-05",
+   "bbox": [
+    74,
+    330,
+    325,
+    348
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    230,
+    705,
+    250
+   ]
+  },
+  {
+   "text": "Fülöp Consulting Kft.",
+   "bbox": [
+    630,
+    267,
+    881,
+    291
+   ]
+  },
+  {
+   "text": "H-6902 Mindszentdevecser, Ady endre körút 228.",
+   "bbox": [
+    630,
+    300,
+    1112,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 92668188-2-16",
+   "bbox": [
+    629,
+    330,
+    880,
+    348
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    397,
+    230,
+    413
+   ]
+  },
+  {
+   "text": "2024.05.28.",
+   "bbox": [
+    75,
+    427,
+    181,
+    443
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    397,
+    517,
+    417
+   ]
+  },
+  {
+   "text": "2024.05.28.",
+   "bbox": [
+    347,
+    427,
+    453,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    397,
+    778,
+    413
+   ]
+  },
+  {
+   "text": "2024.05.11.",
+   "bbox": [
+    619,
+    427,
+    725,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    397,
+    1012,
+    413
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    891,
+    426,
+    964,
+    443
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    475,
+    191,
+    495
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    477,
+    580,
+    495
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    475,
+    751,
+    495
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    475,
+    881,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    472,
+    947,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1012,
+    472,
+    1051,
+    491
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1104,
+    475,
+    1165,
+    491
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    511,
+    517,
+    554,
+    532
+   ]
+  },
+  {
+   "text": "19 520",
+   "bbox": [
+    694,
+    518,
+    750,
+    532
+   ]
+  },
+  {
+   "text": "19 520",
+   "bbox": [
+    825,
+    518,
+    881,
+    532
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    518,
+    947,
+    532
+   ]
+  },
+  {
+   "text": "5 270",
+   "bbox": [
+    1004,
+    518,
+    1050,
+    532
+   ]
+  },
+  {
+   "text": "24 790",
+   "bbox": [
+    1109,
+    518,
+    1165,
+    532
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    74,
+    517,
+    174,
+    532
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    511,
+    552,
+    549,
+    567
+   ]
+  },
+  {
+   "text": "55 230",
+   "bbox": [
+    694,
+    553,
+    750,
+    567
+   ]
+  },
+  {
+   "text": "110 460",
+   "bbox": [
+    815,
+    553,
+    881,
+    567
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    553,
+    947,
+    567
+   ]
+  },
+  {
+   "text": "29 824",
+   "bbox": [
+    994,
+    553,
+    1050,
+    567
+   ]
+  },
+  {
+   "text": "140 284",
+   "bbox": [
+    1099,
+    553,
+    1165,
+    567
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    75,
+    552,
+    172,
+    567
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    511,
+    587,
+    554,
+    602
+   ]
+  },
+  {
+   "text": "17 820",
+   "bbox": [
+    694,
+    588,
+    750,
+    602
+   ]
+  },
+  {
+   "text": "17 820",
+   "bbox": [
+    825,
+    588,
+    881,
+    602
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    588,
+    947,
+    602
+   ]
+  },
+  {
+   "text": "4 811",
+   "bbox": [
+    1004,
+    588,
+    1050,
+    602
+   ]
+  },
+  {
+   "text": "22 631",
+   "bbox": [
+    1109,
+    588,
+    1165,
+    602
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    75,
+    587,
+    323,
+    606
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    622,
+    590,
+    637
+   ]
+  },
+  {
+   "text": "38 630",
+   "bbox": [
+    694,
+    623,
+    750,
+    637
+   ]
+  },
+  {
+   "text": "38 630",
+   "bbox": [
+    825,
+    623,
+    881,
+    637
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    623,
+    947,
+    637
+   ]
+  },
+  {
+   "text": "10 430",
+   "bbox": [
+    994,
+    623,
+    1050,
+    637
+   ]
+  },
+  {
+   "text": "49 060",
+   "bbox": [
+    1109,
+    623,
+    1165,
+    637
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    74,
+    622,
+    256,
+    641
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    676,
+    677,
+    835,
+    696
+   ]
+  },
+  {
+   "text": "186 430 Ft",
+   "bbox": [
+    1053,
+    679,
+    1165,
+    696
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    709,
+    835,
+    732
+   ]
+  },
+  {
+   "text": "50 335 Ft",
+   "bbox": [
+    1066,
+    715,
+    1165,
+    732
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    626,
+    750,
+    835,
+    773
+   ]
+  },
+  {
+   "text": "236 765 Ft",
+   "bbox": [
+    1038,
+    751,
+    1165,
+    768
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 17343349-49462213-03210753",
+   "bbox": [
+    75,
+    815,
+    524,
+    832
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    845,
+    616,
+    863
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

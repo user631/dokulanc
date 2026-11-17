@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Király Jolán",
+  "anyja_neve": "Molnár Mariann",
+  "szuletesi_hely": "Hídháza",
+  "szuletesi_datum": "1982. 02. 23.",
+  "lakcim": "H-4920 Felsőmindszentvárad, Tapolcaváradi utca 101.",
+  "telefon": "+36 30 619 4023",
+  "email": "kiraly.jolan@freemail.hu",
+  "adoazonosito_jel": "8420567590",
+  "taj_szam": "473 675 871",
+  "kelt": "Budapest, 2024. 06. 12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    409,
+    92,
+    830,
+    127
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    483,
+    146,
+    756,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    91,
+    198,
+    306,
+    219
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    103,
+    251,
+    139,
+    265
+   ]
+  },
+  {
+   "text": "Király Jolán",
+   "bbox": [
+    426,
+    251,
+    532,
+    272
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    102,
+    303,
+    196,
+    320
+   ]
+  },
+  {
+   "text": "Molnár Mariann",
+   "bbox": [
+    426,
+    297,
+    571,
+    314
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    103,
+    353,
+    215,
+    371
+   ]
+  },
+  {
+   "text": "Hídháza",
+   "bbox": [
+    426,
+    349,
+    500,
+    366
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    103,
+    404,
+    207,
+    418
+   ]
+  },
+  {
+   "text": "1982. 02. 23.",
+   "bbox": [
+    426,
+    400,
+    546,
+    416
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    103,
+    455,
+    163,
+    469
+   ]
+  },
+  {
+   "text": "H-4920 Felsőmindszentvárad, Tapolcaváradi utca 101.",
+   "bbox": [
+    426,
+    455,
+    928,
+    476
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    102,
+    506,
+    208,
+    520
+   ]
+  },
+  {
+   "text": "+36 30 619 4023",
+   "bbox": [
+    426,
+    508,
+    583,
+    524
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    103,
+    557,
+    191,
+    571
+   ]
+  },
+  {
+   "text": "kiraly.jolan@freemail.hu",
+   "bbox": [
+    426,
+    557,
+    651,
+    578
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    102,
+    608,
+    239,
+    626
+   ]
+  },
+  {
+   "text": "8420567590",
+   "bbox": [
+    426,
+    610,
+    536,
+    626
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    102,
+    659,
+    185,
+    673
+   ]
+  },
+  {
+   "text": "473 675 871",
+   "bbox": [
+    426,
+    656,
+    539,
+    672
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    91,
+    736,
+    264,
+    757
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    136,
+    780,
+    407,
+    798
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    136,
+    825,
+    261,
+    839
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    135,
+    870,
+    427,
+    888
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    91,
+    972,
+    129,
+    987
+   ]
+  },
+  {
+   "text": "Budapest, 2024. 06. 12.",
+   "bbox": [
+    181,
+    968,
+    400,
+    989
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1020,
+    980,
+    1032
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

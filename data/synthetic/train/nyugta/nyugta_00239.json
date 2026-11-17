@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER BT.",
+  "uzlet_cim": "H-4798 Dunaligetnémeti, Oroszszéki út 114.",
+  "adoszam": "60848666-5-20",
+  "datum": "2024.06.13.",
+  "ido": "16:22",
+  "nyugtaszam": "1623/87050",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "13 089 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1168"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2198"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1884"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "160"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5928"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1306"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "445"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER BT.",
+   "bbox": [
+    148,
+    28,
+    428,
+    50
+   ]
+  },
+  {
+   "text": "H-4798 Dunaligetnémeti, Oroszszéki út 114.",
+   "bbox": [
+    36,
+    67,
+    540,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 60848666-5-20",
+   "bbox": [
+    156,
+    92,
+    420,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    243,
+    139,
+    334,
+    157
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    185,
+    128,
+    200
+   ]
+  },
+  {
+   "text": "1168 B00",
+   "bbox": [
+    449,
+    185,
+    553,
+    200
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    217,
+    141,
+    232
+   ]
+  },
+  {
+   "text": "2198 B00",
+   "bbox": [
+    449,
+    217,
+    553,
+    232
+   ]
+  },
+  {
+   "text": "3 DB x 628",
+   "bbox": [
+    24,
+    249,
+    144,
+    262
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    275,
+    141,
+    290
+   ]
+  },
+  {
+   "text": "1884 B00",
+   "bbox": [
+    449,
+    275,
+    553,
+    290
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    307,
+    206,
+    326
+   ]
+  },
+  {
+   "text": "160 B00",
+   "bbox": [
+    462,
+    307,
+    553,
+    322
+   ]
+  },
+  {
+   "text": "3 DB x 1976",
+   "bbox": [
+    24,
+    339,
+    156,
+    352
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    365,
+    271,
+    380
+   ]
+  },
+  {
+   "text": "5928 B00",
+   "bbox": [
+    449,
+    365,
+    553,
+    380
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    397,
+    154,
+    412
+   ]
+  },
+  {
+   "text": "1306 A00",
+   "bbox": [
+    449,
+    397,
+    553,
+    412
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    429,
+    206,
+    444
+   ]
+  },
+  {
+   "text": "445 C00",
+   "bbox": [
+    462,
+    429,
+    553,
+    444
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    468,
+    159,
+    491
+   ]
+  },
+  {
+   "text": "13 089 Ft",
+   "bbox": [
+    418,
+    473,
+    553,
+    491
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    510,
+    155,
+    530
+   ]
+  },
+  {
+   "text": "13 089 Ft",
+   "bbox": [
+    436,
+    514,
+    553,
+    530
+   ]
+  },
+  {
+   "text": "2024.06.13.",
+   "bbox": [
+    24,
+    561,
+    156,
+    575
+   ]
+  },
+  {
+   "text": "16:22",
+   "bbox": [
+    493,
+    561,
+    553,
+    575
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1623/87050",
+   "bbox": [
+    24,
+    588,
+    288,
+    609
+   ]
+  },
+  {
+   "text": "AP A74749151",
+   "bbox": [
+    24,
+    625,
+    168,
+    639
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    145,
+    664,
+    431,
+    684
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  577,
+  730
+ ]
+}

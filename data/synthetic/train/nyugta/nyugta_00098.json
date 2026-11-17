@@ -1,0 +1,233 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER KFT.",
+  "uzlet_cim": "H-1412 Rácmellékdevecser, Tapolcahalasi tér 128.",
+  "adoszam": "38951123-4-25",
+  "datum": "2024.08.02.",
+  "ido": "14:08",
+  "nyugtaszam": "3813/32195",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "4 739 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "780"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2777"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1182"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER KFT.",
+   "bbox": [
+    146,
+    30,
+    482,
+    51
+   ]
+  },
+  {
+   "text": "H-1412 Rácmellékdevecser, Tapolcahalasi tér",
+   "bbox": [
+    34,
+    67,
+    593,
+    88
+   ]
+  },
+  {
+   "text": "128.",
+   "bbox": [
+    288,
+    96,
+    340,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 38951123-4-25",
+   "bbox": [
+    171,
+    123,
+    457,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    169,
+    365,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 390",
+   "bbox": [
+    24,
+    212,
+    154,
+    227
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    238,
+    220,
+    255
+   ]
+  },
+  {
+   "text": "780 A00",
+   "bbox": [
+    506,
+    238,
+    604,
+    255
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    270,
+    150,
+    287
+   ]
+  },
+  {
+   "text": "2777 C00",
+   "bbox": [
+    492,
+    270,
+    604,
+    287
+   ]
+  },
+  {
+   "text": "2 DB x 591",
+   "bbox": [
+    24,
+    302,
+    154,
+    317
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    328,
+    150,
+    345
+   ]
+  },
+  {
+   "text": "1182 C00",
+   "bbox": [
+    492,
+    328,
+    604,
+    345
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    371,
+    194,
+    393
+   ]
+  },
+  {
+   "text": "4 739 Ft",
+   "bbox": [
+    468,
+    373,
+    604,
+    393
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    412,
+    136,
+    431
+   ]
+  },
+  {
+   "text": "4 739 Ft",
+   "bbox": [
+    492,
+    414,
+    604,
+    431
+   ]
+  },
+  {
+   "text": "2024.08.02.",
+   "bbox": [
+    24,
+    460,
+    167,
+    476
+   ]
+  },
+  {
+   "text": "14:08",
+   "bbox": [
+    539,
+    460,
+    604,
+    476
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3813/32195",
+   "bbox": [
+    24,
+    491,
+    310,
+    511
+   ]
+  },
+  {
+   "text": "AP A17625386",
+   "bbox": [
+    24,
+    524,
+    180,
+    540
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    160,
+    567,
+    468,
+    585
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  628,
+  630
+ ]
+}

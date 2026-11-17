@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Nagy Mária",
+  "email": "nagy.maria@example.hu",
+  "telefon": "+36 20 330 4343",
+  "lakcim": "H-3113 Nagykanizsa, Petőfi sándor tér 88.",
+  "szuletesi_datum": "1981. 09. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2008 – 2009"
+   },
+   {
+    "ceg": "Szabó Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2005 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "Linux",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Mária",
+   "bbox": [
+    486,
+    121,
+    754,
+    169
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    559,
+    186,
+    680,
+    216
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    243,
+    164,
+    260
+   ]
+  },
+  {
+   "text": "nagy.maria@example.hu",
+   "bbox": [
+    330,
+    243,
+    583,
+    265
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    276,
+    177,
+    293
+   ]
+  },
+  {
+   "text": "+36 20 330 4343",
+   "bbox": [
+    330,
+    277,
+    496,
+    293
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    309,
+    172,
+    326
+   ]
+  },
+  {
+   "text": "H-3113 Nagykanizsa, Petőfi sándor tér 88.",
+   "bbox": [
+    330,
+    308,
+    752,
+    331
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    342,
+    267,
+    359
+   ]
+  },
+  {
+   "text": "1981. 09. 03.",
+   "bbox": [
+    330,
+    343,
+    453,
+    359
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    397,
+    346,
+    423
+   ]
+  },
+  {
+   "text": "2008 – 2009",
+   "bbox": [
+    90,
+    449,
+    210,
+    465
+   ]
+  },
+  {
+   "text": "rendszergazda – Szabó Logisztika Bt.",
+   "bbox": [
+    90,
+    475,
+    510,
+    499
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    90,
+    519,
+    210,
+    535
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Szabó Tech Kft.",
+   "bbox": [
+    88,
+    545,
+    464,
+    569
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    600,
+    265,
+    626
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    652,
+    210,
+    668
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    674,
+    278,
+    702
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    704,
+    360,
+    722
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    749,
+    210,
+    765
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    775,
+    367,
+    799
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    801,
+    350,
+    824
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    857,
+    235,
+    883
+   ]
+  },
+  {
+   "text": "angol (B2), német (B1)",
+   "bbox": [
+    90,
+    907,
+    314,
+    930
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    959,
+    223,
+    985
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, Linux, Python",
+   "bbox": [
+    90,
+    1009,
+    373,
+    1032
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

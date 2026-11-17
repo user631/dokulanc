@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Nagy Erzsébet",
+  "email": "nagy.erzsebet@example.hu",
+  "telefon": "+36 30 895 7924",
+  "lakcim": "H-9820 Székvég, Fürdőberényi utca 156.",
+  "szuletesi_datum": "1986.06.11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pap Trade Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "Git",
+   "ügyfélkezelés",
+   "SQL",
+   "csapatmunka",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Erzsébet",
+   "bbox": [
+    460,
+    105,
+    779,
+    151
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    508,
+    174,
+    731,
+    199
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    163,
+    244
+   ]
+  },
+  {
+   "text": "nagy.erzsebet@example.hu",
+   "bbox": [
+    330,
+    228,
+    601,
+    249
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    259,
+    176,
+    276
+   ]
+  },
+  {
+   "text": "+36 30 895 7924",
+   "bbox": [
+    330,
+    260,
+    495,
+    276
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    291,
+    171,
+    308
+   ]
+  },
+  {
+   "text": "H-9820 Székvég, Fürdőberényi utca 156.",
+   "bbox": [
+    330,
+    290,
+    733,
+    313
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    323,
+    264,
+    340
+   ]
+  },
+  {
+   "text": "1986.06.11.",
+   "bbox": [
+    330,
+    324,
+    450,
+    340
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    376,
+    331,
+    401
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    90,
+    428,
+    208,
+    444
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Pap Trade Kft.",
+   "bbox": [
+    90,
+    453,
+    556,
+    476
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    507,
+    253,
+    531
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    90,
+    558,
+    208,
+    574
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    584,
+    283,
+    606
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    608,
+    215,
+    631
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    652,
+    208,
+    668
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    678,
+    411,
+    700
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    703,
+    287,
+    725
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    757,
+    223,
+    781
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    806,
+    200,
+    829
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    857,
+    215,
+    881
+   ]
+  },
+  {
+   "text": "Linux, Git, ügyfélkezelés, SQL, csapatmunka, Docker",
+   "bbox": [
+    90,
+    906,
+    615,
+    929
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

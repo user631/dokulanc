@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss István",
+  "email": "kiss.istvan@citromail.hu",
+  "telefon": "+36 70 556 7627",
+  "lakcim": "H-1644 Mellékbánya, Arany jános utca 73.",
+  "szuletesi_datum": "1990. március 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2010 – 2013"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2006 – 2010"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lakatos Szolgáltató Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2017 – 2018"
+   },
+   {
+    "ceg": "Tóth Logisztika Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2015 – 2017"
+   },
+   {
+    "ceg": "Kocsis Trade Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2014 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "csapatmunka",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    104,
+    227,
+    126
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    150,
+    109,
+    165
+   ]
+  },
+  {
+   "text": "kiss.istvan@citromail.hu",
+   "bbox": [
+    40,
+    173,
+    270,
+    190
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    121,
+    221
+   ]
+  },
+  {
+   "text": "+36 70 556 7627",
+   "bbox": [
+    40,
+    230,
+    209,
+    244
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    261,
+    116,
+    277
+   ]
+  },
+  {
+   "text": "H-1644 Mellékbánya, Arany jános",
+   "bbox": [
+    40,
+    285,
+    362,
+    304
+   ]
+  },
+  {
+   "text": "utca 73.",
+   "bbox": [
+    40,
+    309,
+    118,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    340,
+    215,
+    356
+   ]
+  },
+  {
+   "text": "1990. március 20.",
+   "bbox": [
+    40,
+    364,
+    214,
+    379
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    424,
+    213,
+    446
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    466,
+    168,
+    486
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    520,
+    191,
+    542
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    563,
+    70,
+    578
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    589,
+    173,
+    609
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    617,
+    80,
+    632
+   ]
+  },
+  {
+   "text": "Kiss István",
+   "bbox": [
+    450,
+    111,
+    733,
+    149
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    181,
+    661,
+    201
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    735,
+    269
+   ]
+  },
+  {
+   "text": "2017 – 2018",
+   "bbox": [
+    450,
+    295,
+    581,
+    311
+   ]
+  },
+  {
+   "text": "irodavezető – Lakatos Szolgáltató Kft.",
+   "bbox": [
+    450,
+    319,
+    925,
+    341
+   ]
+  },
+  {
+   "text": "2015 – 2017",
+   "bbox": [
+    450,
+    361,
+    581,
+    377
+   ]
+  },
+  {
+   "text": "irodavezető – Tóth Logisztika Bt.",
+   "bbox": [
+    450,
+    385,
+    861,
+    407
+   ]
+  },
+  {
+   "text": "2014 – 2015",
+   "bbox": [
+    450,
+    427,
+    581,
+    443
+   ]
+  },
+  {
+   "text": "projektmenedzser – Kocsis Trade Kft.",
+   "bbox": [
+    450,
+    452,
+    918,
+    473
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    502,
+    640,
+    528
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    554,
+    581,
+    570
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    578,
+    870,
+    600
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    603,
+    622,
+    620
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    645,
+    581,
+    661
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    669,
+    809,
+    691
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    694,
+    544,
+    715
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

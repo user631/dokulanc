@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/01120",
+  "kiallitas_datuma": "2025-03-15",
+  "teljesites_datuma": "2025-03-10",
+  "fizetesi_hatarido": "2025-04-14",
+  "elado_nev": "Kovács Trade Kft.",
+  "elado_cim": "H-3304 Györgykőrös, Petőfi utca 17.",
+  "elado_adoszam": "81986318-2-17",
+  "vevo_nev": "Horváth Magdolna",
+  "vevo_cim": "H-7668 Ligetháza, Háthidai tér 110.",
+  "vevo_adoszam": null,
+  "bankszamla": "96826674-52648708-52663529",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "453 740 Ft",
+  "afa_osszesen": "101 460 Ft",
+  "brutto_osszesen": "555 200 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "4 év",
+    "egysegar": "23 920",
+    "netto": "95 680",
+    "afa_kulcs": "5%",
+    "afa": "4 784",
+    "brutto": "100 464"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "43 930",
+    "netto": "43 930",
+    "afa_kulcs": "27%",
+    "afa": "11 861",
+    "brutto": "55 791"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "104 710",
+    "netto": "314 130",
+    "afa_kulcs": "27%",
+    "afa": "84 815",
+    "brutto": "398 945"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    542,
+    95,
+    698,
+    131
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/01120",
+   "bbox": [
+    431,
+    151,
+    810,
+    176
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    85,
+    231,
+    156,
+    252
+   ]
+  },
+  {
+   "text": "Horváth Magdolna",
+   "bbox": [
+    86,
+    268,
+    316,
+    294
+   ]
+  },
+  {
+   "text": "H-7668 Ligetháza, Háthidai tér 110.",
+   "bbox": [
+    86,
+    303,
+    451,
+    327
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    231,
+    708,
+    252
+   ]
+  },
+  {
+   "text": "Kovács Trade Kft.",
+   "bbox": [
+    630,
+    268,
+    848,
+    289
+   ]
+  },
+  {
+   "text": "H-3304 Györgykőrös, Petőfi utca 17.",
+   "bbox": [
+    630,
+    303,
+    998,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 81986318-2-17",
+   "bbox": [
+    629,
+    334,
+    894,
+    353
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    86,
+    404,
+    284,
+    422
+   ]
+  },
+  {
+   "text": "2025-03-15",
+   "bbox": [
+    386,
+    405,
+    506,
+    422
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    86,
+    437,
+    302,
+    460
+   ]
+  },
+  {
+   "text": "2025-03-10",
+   "bbox": [
+    386,
+    438,
+    506,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    86,
+    470,
+    288,
+    488
+   ]
+  },
+  {
+   "text": "2025-04-14",
+   "bbox": [
+    386,
+    471,
+    506,
+    488
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    86,
+    503,
+    240,
+    521
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    386,
+    502,
+    477,
+    526
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    86,
+    546,
+    211,
+    567
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    548,
+    587,
+    567
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    546,
+    748,
+    567
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    821,
+    546,
+    876,
+    563
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    875,
+    542,
+    940,
+    563
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    542,
+    1041,
+    563
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1090,
+    546,
+    1154,
+    563
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    513,
+    588,
+    551,
+    605
+   ]
+  },
+  {
+   "text": "23 920",
+   "bbox": [
+    687,
+    590,
+    748,
+    605
+   ]
+  },
+  {
+   "text": "95 680",
+   "bbox": [
+    815,
+    590,
+    876,
+    605
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    909,
+    590,
+    940,
+    605
+   ]
+  },
+  {
+   "text": "4 784",
+   "bbox": [
+    991,
+    590,
+    1041,
+    605
+   ]
+  },
+  {
+   "text": "100 464",
+   "bbox": [
+    1082,
+    590,
+    1154,
+    605
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    86,
+    588,
+    330,
+    609
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    513,
+    625,
+    600,
+    641
+   ]
+  },
+  {
+   "text": "43 930",
+   "bbox": [
+    687,
+    626,
+    748,
+    641
+   ]
+  },
+  {
+   "text": "43 930",
+   "bbox": [
+    815,
+    626,
+    876,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    626,
+    940,
+    641
+   ]
+  },
+  {
+   "text": "11 861",
+   "bbox": [
+    980,
+    626,
+    1041,
+    641
+   ]
+  },
+  {
+   "text": "55 791",
+   "bbox": [
+    1093,
+    626,
+    1154,
+    641
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    85,
+    624,
+    286,
+    645
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    513,
+    661,
+    600,
+    677
+   ]
+  },
+  {
+   "text": "104 710",
+   "bbox": [
+    676,
+    662,
+    748,
+    677
+   ]
+  },
+  {
+   "text": "314 130",
+   "bbox": [
+    804,
+    662,
+    876,
+    677
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    662,
+    940,
+    677
+   ]
+  },
+  {
+   "text": "84 815",
+   "bbox": [
+    980,
+    662,
+    1041,
+    677
+   ]
+  },
+  {
+   "text": "398 945",
+   "bbox": [
+    1082,
+    662,
+    1154,
+    677
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    86,
+    660,
+    279,
+    681
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    654,
+    718,
+    824,
+    737
+   ]
+  },
+  {
+   "text": "453 740 Ft",
+   "bbox": [
+    1039,
+    719,
+    1154,
+    737
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    670,
+    751,
+    824,
+    774
+   ]
+  },
+  {
+   "text": "101 460 Ft",
+   "bbox": [
+    1039,
+    756,
+    1154,
+    774
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    688,
+    791,
+    824,
+    816
+   ]
+  },
+  {
+   "text": "555 200 Ft",
+   "bbox": [
+    1026,
+    793,
+    1154,
+    811
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 96826674-52648708-52663529",
+   "bbox": [
+    86,
+    858,
+    570,
+    876
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    86,
+    889,
+    658,
+    908
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

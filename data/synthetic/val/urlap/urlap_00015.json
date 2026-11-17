@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Fekete Sándor",
+  "anyja_neve": "Novák Péter",
+  "szuletesi_hely": "Székesfehérvár",
+  "szuletesi_datum": "1967. 07. 27.",
+  "lakcim": "H-5777 Bakonymártonháza, Törökhetveni utca 98.",
+  "telefon": "06 1 910 8140",
+  "email": "fekete.sandor@citromail.hu",
+  "adoazonosito_jel": "8367310306",
+  "taj_szam": "361 383 134",
+  "kelt": "Nyékhetvendevecser, 2025. 03. 22."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    526,
+    103,
+    713,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    202,
+    321,
+    224
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    257,
+    145,
+    271
+   ]
+  },
+  {
+   "text": "Fekete Sándor",
+   "bbox": [
+    431,
+    257,
+    572,
+    274
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    105,
+    309,
+    204,
+    327
+   ]
+  },
+  {
+   "text": "Novák Péter",
+   "bbox": [
+    431,
+    306,
+    551,
+    323
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    360,
+    225,
+    379
+   ]
+  },
+  {
+   "text": "Székesfehérvár",
+   "bbox": [
+    431,
+    362,
+    579,
+    379
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    412,
+    218,
+    427
+   ]
+  },
+  {
+   "text": "1967. 07. 27.",
+   "bbox": [
+    431,
+    414,
+    551,
+    434
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    465,
+    175,
+    479
+   ]
+  },
+  {
+   "text": "H-5777 Bakonymártonháza, Törökhetveni utca 98.",
+   "bbox": [
+    431,
+    461,
+    923,
+    483
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    517,
+    217,
+    531
+   ]
+  },
+  {
+   "text": "06 1 910 8140",
+   "bbox": [
+    431,
+    513,
+    564,
+    533
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    569,
+    206,
+    583
+   ]
+  },
+  {
+   "text": "fekete.sandor@citromail.hu",
+   "bbox": [
+    431,
+    564,
+    704,
+    584
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    105,
+    621,
+    251,
+    639
+   ]
+  },
+  {
+   "text": "8367310306",
+   "bbox": [
+    431,
+    620,
+    552,
+    640
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    673,
+    195,
+    687
+   ]
+  },
+  {
+   "text": "361 383 134",
+   "bbox": [
+    431,
+    673,
+    544,
+    693
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    750,
+    280,
+    772
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    795,
+    431,
+    813
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    840,
+    277,
+    854
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    138,
+    885,
+    446,
+    903
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    987,
+    137,
+    1002
+   ]
+  },
+  {
+   "text": "Nyékhetvendevecser, 2025. 03. 22.",
+   "bbox": [
+    184,
+    983,
+    527,
+    1005
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1036,
+    980,
+    1048
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

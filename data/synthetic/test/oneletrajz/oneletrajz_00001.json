@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Illés Zoltán",
+  "email": "illes.zoltan@outlook.com",
+  "telefon": "+36 30 957 7855",
+  "lakcim": "H-2182 Mártonkőrös, Tatabányai utca 145.",
+  "szuletesi_datum": "1994. július 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2014 – 2018"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Tech Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2023"
+   },
+   {
+    "ceg": "Kovács Consulting Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "JavaScript",
+   "C#",
+   "Git",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Illés Zoltán",
+   "bbox": [
+    470,
+    99,
+    769,
+    138
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    514,
+    168,
+    725,
+    188
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    220,
+    172,
+    237
+   ]
+  },
+  {
+   "text": "illes.zoltan@outlook.com",
+   "bbox": [
+    330,
+    220,
+    595,
+    239
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    251,
+    185,
+    268
+   ]
+  },
+  {
+   "text": "+36 30 957 7855",
+   "bbox": [
+    330,
+    252,
+    511,
+    268
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    180,
+    299
+   ]
+  },
+  {
+   "text": "H-2182 Mártonkőrös, Tatabányai utca 145.",
+   "bbox": [
+    330,
+    282,
+    785,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    288,
+    330
+   ]
+  },
+  {
+   "text": "1994. július 22.",
+   "bbox": [
+    330,
+    313,
+    494,
+    334
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    365,
+    375,
+    390
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    90,
+    416,
+    221,
+    432
+   ]
+  },
+  {
+   "text": "adatelemző – Németh Tech Bt.",
+   "bbox": [
+    90,
+    440,
+    474,
+    458
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    482,
+    221,
+    498
+   ]
+  },
+  {
+   "text": "irodavezető – Kovács Consulting Bt.",
+   "bbox": [
+    90,
+    506,
+    539,
+    528
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    557,
+    280,
+    583
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    90,
+    609,
+    221,
+    625
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    633,
+    431,
+    655
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    658,
+    447,
+    679
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    90,
+    700,
+    221,
+    716
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    724,
+    449,
+    746
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    749,
+    184,
+    770
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    800,
+    247,
+    826
+   ]
+  },
+  {
+   "text": "német (B1), német (B2)",
+   "bbox": [
+    90,
+    851,
+    347,
+    872
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    898,
+    239,
+    924
+   ]
+  },
+  {
+   "text": "ügyfélkezelés, JavaScript, C#, Git, projektmenedzsment",
+   "bbox": [
+    90,
+    949,
+    687,
+    970
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "E-2026/02953",
+  "kiallitas_datuma": "2026. április 4.",
+  "teljesites_datuma": "2026. április 4.",
+  "fizetesi_hatarido": "2026. április 19.",
+  "elado_nev": "Fazekas Trade Bt.",
+  "elado_cim": "H-6968 Keresztberény, Mellékvári utca 14.",
+  "elado_adoszam": "62318897-2-31",
+  "vevo_nev": "Tóth Trade Zrt.",
+  "vevo_cim": "H-5151 Törökmártonkövesd, Mindszentfalui utca 166.",
+  "vevo_adoszam": "29649556-4-39",
+  "bankszamla": "HU56 9730 2137 5391 4017 7090 3890",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "405 800 Ft",
+  "afa_osszesen": "96 748 Ft",
+  "brutto_osszesen": "502 548 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "4 db",
+    "egysegar": "7 460",
+    "netto": "29 840",
+    "afa_kulcs": "5%",
+    "afa": "1 492",
+    "brutto": "31 332"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "12 csomag",
+    "egysegar": "5 790",
+    "netto": "69 480",
+    "afa_kulcs": "18%",
+    "afa": "12 506",
+    "brutto": "81 986"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "12 óra",
+    "egysegar": "25 540",
+    "netto": "306 480",
+    "afa_kulcs": "27%",
+    "afa": "82 750",
+    "brutto": "389 230"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FAZEKAS",
+   "bbox": [
+    131,
+    137,
+    229,
+    154
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    979,
+    112,
+    1140,
+    152
+   ]
+  },
+  {
+   "text": "Sorszám: E-2026/02953",
+   "bbox": [
+    862,
+    175,
+    1140,
+    195
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    100,
+    256,
+    170,
+    275
+   ]
+  },
+  {
+   "text": "Tóth Trade Zrt.",
+   "bbox": [
+    100,
+    294,
+    289,
+    313
+   ]
+  },
+  {
+   "text": "H-5151 Törökmártonkövesd, Mindszentfalui",
+   "bbox": [
+    100,
+    328,
+    568,
+    351
+   ]
+  },
+  {
+   "text": "utca 166.",
+   "bbox": [
+    100,
+    362,
+    203,
+    379
+   ]
+  },
+  {
+   "text": "Adószám: 29649556-4-39",
+   "bbox": [
+    100,
+    392,
+    371,
+    411
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    256,
+    707,
+    275
+   ]
+  },
+  {
+   "text": "Fazekas Trade Bt.",
+   "bbox": [
+    630,
+    294,
+    849,
+    313
+   ]
+  },
+  {
+   "text": "H-6968 Keresztberény, Mellékvári utca 14.",
+   "bbox": [
+    630,
+    328,
+    1090,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 62318897-2-31",
+   "bbox": [
+    630,
+    360,
+    901,
+    379
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    100,
+    463,
+    290,
+    481
+   ]
+  },
+  {
+   "text": "2026. április 4.",
+   "bbox": [
+    400,
+    462,
+    563,
+    486
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    100,
+    497,
+    311,
+    520
+   ]
+  },
+  {
+   "text": "2026. április 4.",
+   "bbox": [
+    400,
+    496,
+    563,
+    520
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    100,
+    531,
+    300,
+    549
+   ]
+  },
+  {
+   "text": "2026. április 19.",
+   "bbox": [
+    400,
+    530,
+    576,
+    554
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    100,
+    565,
+    254,
+    583
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    400,
+    564,
+    489,
+    583
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    100,
+    611,
+    218,
+    630
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    611,
+    587,
+    630
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    611,
+    744,
+    630
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    611,
+    869,
+    626
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    607,
+    932,
+    626
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    992,
+    607,
+    1031,
+    626
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    611,
+    1140,
+    626
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    516,
+    654,
+    557,
+    669
+   ]
+  },
+  {
+   "text": "7 460",
+   "bbox": [
+    694,
+    654,
+    744,
+    669
+   ]
+  },
+  {
+   "text": "29 840",
+   "bbox": [
+    808,
+    654,
+    869,
+    669
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    654,
+    932,
+    669
+   ]
+  },
+  {
+   "text": "1 492",
+   "bbox": [
+    980,
+    654,
+    1030,
+    669
+   ]
+  },
+  {
+   "text": "31 332",
+   "bbox": [
+    1079,
+    654,
+    1140,
+    669
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    100,
+    653,
+    355,
+    673
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    516,
+    691,
+    613,
+    710
+   ]
+  },
+  {
+   "text": "5 790",
+   "bbox": [
+    694,
+    691,
+    744,
+    706
+   ]
+  },
+  {
+   "text": "69 480",
+   "bbox": [
+    808,
+    691,
+    869,
+    706
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    897,
+    691,
+    932,
+    706
+   ]
+  },
+  {
+   "text": "12 506",
+   "bbox": [
+    969,
+    691,
+    1030,
+    706
+   ]
+  },
+  {
+   "text": "81 986",
+   "bbox": [
+    1079,
+    691,
+    1140,
+    706
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    100,
+    690,
+    272,
+    710
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    516,
+    727,
+    574,
+    743
+   ]
+  },
+  {
+   "text": "25 540",
+   "bbox": [
+    683,
+    728,
+    744,
+    743
+   ]
+  },
+  {
+   "text": "306 480",
+   "bbox": [
+    797,
+    728,
+    869,
+    743
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    728,
+    932,
+    743
+   ]
+  },
+  {
+   "text": "82 750",
+   "bbox": [
+    969,
+    728,
+    1030,
+    743
+   ]
+  },
+  {
+   "text": "389 230",
+   "bbox": [
+    1068,
+    728,
+    1140,
+    743
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    100,
+    727,
+    207,
+    743
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    633,
+    784,
+    810,
+    804
+   ]
+  },
+  {
+   "text": "405 800 Ft",
+   "bbox": [
+    1023,
+    786,
+    1140,
+    804
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    653,
+    818,
+    810,
+    842
+   ]
+  },
+  {
+   "text": "96 748 Ft",
+   "bbox": [
+    1036,
+    824,
+    1140,
+    842
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    573,
+    861,
+    810,
+    880
+   ]
+  },
+  {
+   "text": "502 548 Ft",
+   "bbox": [
+    1009,
+    862,
+    1140,
+    880
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU56 9730 2137 5391 4017 7090 3890",
+   "bbox": [
+    100,
+    928,
+    670,
+    946
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    400,
+    1634,
+    841,
+    1653
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,633 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2026/02646",
+  "kiallitas_datuma": "2026. május 26.",
+  "teljesites_datuma": "2026. május 21.",
+  "fizetesi_hatarido": "2026. június 25.",
+  "elado_nev": "Szabó Tech Zrt.",
+  "elado_cim": "H-5596 Egyházasfürdővára, Ady endre utca 70.",
+  "elado_adoszam": "82891150-2-15",
+  "vevo_nev": "Horváth Trade Kft.",
+  "vevo_cim": "H-3775 Mosonmagyaróvár, Petőfi sándor utca 150.",
+  "vevo_adoszam": "49016563-2-11",
+  "bankszamla": "HU30 5170 5875 2763 9179 4269 4393",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "202 110 Ft",
+  "afa_osszesen": "48 978 Ft",
+  "brutto_osszesen": "251 088 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "25 420",
+    "netto": "25 420",
+    "afa_kulcs": "5%",
+    "afa": "1 271",
+    "brutto": "26 691"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "1 óra",
+    "egysegar": "13 170",
+    "netto": "13 170",
+    "afa_kulcs": "27%",
+    "afa": "3 556",
+    "brutto": "16 726"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "44 880",
+    "netto": "134 640",
+    "afa_kulcs": "27%",
+    "afa": "36 353",
+    "brutto": "170 993"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "2 db",
+    "egysegar": "14 440",
+    "netto": "28 880",
+    "afa_kulcs": "27%",
+    "afa": "7 798",
+    "brutto": "36 678"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ",
+   "bbox": [
+    140,
+    132,
+    224,
+    155
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    959,
+    111,
+    1138,
+    151
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/02646",
+   "bbox": [
+    836,
+    177,
+    1138,
+    195
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    102,
+    255,
+    178,
+    275
+   ]
+  },
+  {
+   "text": "Szabó Tech Zrt.",
+   "bbox": [
+    102,
+    292,
+    288,
+    312
+   ]
+  },
+  {
+   "text": "H-5596 Egyházasfürdővára, Ady endre utca 70.",
+   "bbox": [
+    102,
+    328,
+    593,
+    350
+   ]
+  },
+  {
+   "text": "Adószám: 82891150-2-15",
+   "bbox": [
+    101,
+    359,
+    370,
+    376
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    255,
+    698,
+    275
+   ]
+  },
+  {
+   "text": "Horváth Trade Kft.",
+   "bbox": [
+    630,
+    292,
+    847,
+    312
+   ]
+  },
+  {
+   "text": "H-3775 Mosonmagyaróvár, Petőfi sándor utca",
+   "bbox": [
+    630,
+    328,
+    1105,
+    350
+   ]
+  },
+  {
+   "text": "150.",
+   "bbox": [
+    630,
+    359,
+    675,
+    376
+   ]
+  },
+  {
+   "text": "Adószám: 49016563-2-11",
+   "bbox": [
+    629,
+    390,
+    898,
+    407
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    102,
+    459,
+    286,
+    476
+   ]
+  },
+  {
+   "text": "2026. május 26.",
+   "bbox": [
+    402,
+    459,
+    566,
+    481
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    102,
+    492,
+    303,
+    514
+   ]
+  },
+  {
+   "text": "2026. május 21.",
+   "bbox": [
+    402,
+    492,
+    566,
+    514
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    102,
+    525,
+    292,
+    542
+   ]
+  },
+  {
+   "text": "2026. június 25.",
+   "bbox": [
+    402,
+    525,
+    565,
+    547
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    102,
+    558,
+    249,
+    575
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    402,
+    558,
+    502,
+    580
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    102,
+    603,
+    219,
+    622
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    603,
+    585,
+    622
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    655,
+    603,
+    745,
+    622
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    603,
+    868,
+    618
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    599,
+    930,
+    619
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    599,
+    1030,
+    618
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    603,
+    1138,
+    618
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    516,
+    645,
+    554,
+    660
+   ]
+  },
+  {
+   "text": "25 420",
+   "bbox": [
+    683,
+    645,
+    744,
+    660
+   ]
+  },
+  {
+   "text": "25 420",
+   "bbox": [
+    807,
+    645,
+    868,
+    660
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    901,
+    645,
+    930,
+    660
+   ]
+  },
+  {
+   "text": "1 271",
+   "bbox": [
+    979,
+    645,
+    1029,
+    660
+   ]
+  },
+  {
+   "text": "26 691",
+   "bbox": [
+    1077,
+    645,
+    1138,
+    660
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    102,
+    645,
+    344,
+    664
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    516,
+    681,
+    562,
+    696
+   ]
+  },
+  {
+   "text": "13 170",
+   "bbox": [
+    683,
+    681,
+    744,
+    696
+   ]
+  },
+  {
+   "text": "13 170",
+   "bbox": [
+    807,
+    681,
+    868,
+    696
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    681,
+    930,
+    696
+   ]
+  },
+  {
+   "text": "3 556",
+   "bbox": [
+    979,
+    681,
+    1029,
+    696
+   ]
+  },
+  {
+   "text": "16 726",
+   "bbox": [
+    1077,
+    681,
+    1138,
+    696
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    102,
+    681,
+    374,
+    700
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    516,
+    717,
+    601,
+    732
+   ]
+  },
+  {
+   "text": "44 880",
+   "bbox": [
+    683,
+    717,
+    744,
+    732
+   ]
+  },
+  {
+   "text": "134 640",
+   "bbox": [
+    796,
+    717,
+    868,
+    732
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    717,
+    930,
+    732
+   ]
+  },
+  {
+   "text": "36 353",
+   "bbox": [
+    968,
+    717,
+    1029,
+    732
+   ]
+  },
+  {
+   "text": "170 993",
+   "bbox": [
+    1066,
+    717,
+    1138,
+    732
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    102,
+    717,
+    301,
+    736
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    516,
+    753,
+    555,
+    768
+   ]
+  },
+  {
+   "text": "14 440",
+   "bbox": [
+    683,
+    753,
+    744,
+    768
+   ]
+  },
+  {
+   "text": "28 880",
+   "bbox": [
+    807,
+    753,
+    868,
+    768
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    753,
+    930,
+    768
+   ]
+  },
+  {
+   "text": "7 798",
+   "bbox": [
+    979,
+    753,
+    1029,
+    768
+   ]
+  },
+  {
+   "text": "36 678",
+   "bbox": [
+    1077,
+    753,
+    1138,
+    768
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    102,
+    753,
+    254,
+    768
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    637,
+    810,
+    808,
+    827
+   ]
+  },
+  {
+   "text": "202 110 Ft",
+   "bbox": [
+    1024,
+    810,
+    1138,
+    827
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    646,
+    843,
+    808,
+    864
+   ]
+  },
+  {
+   "text": "48 978 Ft",
+   "bbox": [
+    1037,
+    847,
+    1138,
+    864
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    674,
+    882,
+    808,
+    906
+   ]
+  },
+  {
+   "text": "251 088 Ft",
+   "bbox": [
+    1023,
+    884,
+    1138,
+    901
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU30 5170 5875 2763 9179 4269 4393",
+   "bbox": [
+    102,
+    950,
+    665,
+    966
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    414,
+    1635,
+    825,
+    1652
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

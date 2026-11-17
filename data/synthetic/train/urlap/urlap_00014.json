@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Király Anikó",
+  "anyja_neve": "Virág Gábor",
+  "szuletesi_hely": "Bácsfürdőapáti",
+  "szuletesi_datum": "1966.11.20.",
+  "lakcim": "H-3146 Keresztkőrös, Nagymindszenti utca 232.",
+  "telefon": "+36 70 903 2473",
+  "email": "kiraly.aniko@example.hu",
+  "adoazonosito_jel": "8364828614",
+  "taj_szam": "367 962 849",
+  "kelt": "Nádasd, 2025.03.07."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    294,
+    101,
+    946,
+    134
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    476,
+    155,
+    762,
+    172
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    208,
+    327,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    263,
+    151,
+    277
+   ]
+  },
+  {
+   "text": "Király Anikó",
+   "bbox": [
+    407,
+    260,
+    528,
+    282
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    111,
+    315,
+    210,
+    333
+   ]
+  },
+  {
+   "text": "Virág Gábor",
+   "bbox": [
+    406,
+    314,
+    524,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    366,
+    231,
+    385
+   ]
+  },
+  {
+   "text": "Bácsfürdőapáti",
+   "bbox": [
+    407,
+    366,
+    555,
+    388
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    418,
+    224,
+    433
+   ]
+  },
+  {
+   "text": "1966.11.20.",
+   "bbox": [
+    407,
+    416,
+    514,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    471,
+    181,
+    485
+   ]
+  },
+  {
+   "text": "H-3146 Keresztkőrös, Nagymindszenti utca 232.",
+   "bbox": [
+    407,
+    467,
+    876,
+    489
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    112,
+    523,
+    223,
+    537
+   ]
+  },
+  {
+   "text": "+36 70 903 2473",
+   "bbox": [
+    407,
+    523,
+    570,
+    543
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    575,
+    212,
+    589
+   ]
+  },
+  {
+   "text": "kiraly.aniko@example.hu",
+   "bbox": [
+    407,
+    576,
+    656,
+    598
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    111,
+    627,
+    257,
+    645
+   ]
+  },
+  {
+   "text": "8364828614",
+   "bbox": [
+    407,
+    624,
+    527,
+    644
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    112,
+    679,
+    201,
+    693
+   ]
+  },
+  {
+   "text": "367 962 849",
+   "bbox": [
+    407,
+    677,
+    525,
+    697
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    756,
+    286,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    801,
+    437,
+    819
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    846,
+    283,
+    860
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    144,
+    891,
+    452,
+    909
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    993,
+    143,
+    1008
+   ]
+  },
+  {
+   "text": "Nádasd, 2025.03.07.",
+   "bbox": [
+    190,
+    989,
+    395,
+    1010
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    926,
+    1042,
+    974,
+    1054
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

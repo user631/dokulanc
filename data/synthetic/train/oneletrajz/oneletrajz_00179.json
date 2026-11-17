@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kocsis Barbara",
+  "email": "kocsis.barbara@example.hu",
+  "telefon": "+36 30 545 5027",
+  "lakcim": "H-8620 Zalaegerszeg, Fürdőfai tér 148.",
+  "szuletesi_datum": "2001.06.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2019 – 2024"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2023 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "ügyfélkezelés",
+   "SAP",
+   "Java",
+   "Linux",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kocsis Barbara",
+   "bbox": [
+    474,
+    91,
+    766,
+    125
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    530,
+    164,
+    709,
+    182
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    153,
+    233
+   ]
+  },
+  {
+   "text": "kocsis.barbara@example.hu",
+   "bbox": [
+    330,
+    218,
+    591,
+    237
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    165,
+    265
+   ]
+  },
+  {
+   "text": "+36 30 545 5027",
+   "bbox": [
+    330,
+    251,
+    477,
+    265
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    282,
+    159,
+    297
+   ]
+  },
+  {
+   "text": "H-8620 Zalaegerszeg, Fürdőfai tér 148.",
+   "bbox": [
+    330,
+    281,
+    678,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    314,
+    242,
+    329
+   ]
+  },
+  {
+   "text": "2001.06.27.",
+   "bbox": [
+    330,
+    315,
+    436,
+    329
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    366,
+    302,
+    389
+   ]
+  },
+  {
+   "text": "2023 – 2025",
+   "bbox": [
+    90,
+    419,
+    199,
+    433
+   ]
+  },
+  {
+   "text": "tesztmérnök – Szabó Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    444,
+    434,
+    464
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    496,
+    237,
+    519
+   ]
+  },
+  {
+   "text": "2019 – 2024",
+   "bbox": [
+    90,
+    549,
+    199,
+    563
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    571,
+    248,
+    594
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    599,
+    313,
+    615
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    643,
+    199,
+    657
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    668,
+    332,
+    684
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    693,
+    169,
+    713
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    746,
+    210,
+    769
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    797,
+    191,
+    817
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    846,
+    198,
+    869
+   ]
+  },
+  {
+   "text": "Excel, ügyfélkezelés, SAP, Java, Linux, JavaScript",
+   "bbox": [
+    90,
+    897,
+    518,
+    917
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

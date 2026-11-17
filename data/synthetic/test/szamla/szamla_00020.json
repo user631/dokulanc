@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/04132",
+  "kiallitas_datuma": "2026. 07. 15.",
+  "teljesites_datuma": "2026. 07. 11.",
+  "fizetesi_hatarido": "2026. 07. 23.",
+  "elado_nev": "Orosz és Társa Kft.",
+  "elado_cim": "H-6496 Ligetdevecser, Tótkövesdi utca 116.",
+  "elado_adoszam": "23873924-5-08",
+  "vevo_nev": "Oláh Zrt.",
+  "vevo_cim": "H-9844 Lajoshídapáti, Egyházashetveni utca 203.",
+  "vevo_adoszam": "63186316-3-28",
+  "bankszamla": "45008382-24842950",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "48 750 Ft",
+  "afa_osszesen": "12 712 Ft",
+  "brutto_osszesen": "61 462 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "2 év",
+    "egysegar": "21 870",
+    "netto": "43 740",
+    "afa_kulcs": "27%",
+    "afa": "11 810",
+    "brutto": "55 550"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "3 karton",
+    "egysegar": "1 670",
+    "netto": "5 010",
+    "afa_kulcs": "18%",
+    "afa": "902",
+    "brutto": "5 912"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OROSZ",
+   "bbox": [
+    114,
+    113,
+    197,
+    131
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1020,
+    94,
+    1164,
+    127
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/04132",
+   "bbox": [
+    930,
+    151,
+    1164,
+    172
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    75,
+    231,
+    139,
+    249
+   ]
+  },
+  {
+   "text": "Oláh Zrt.",
+   "bbox": [
+    76,
+    265,
+    173,
+    283
+   ]
+  },
+  {
+   "text": "H-9844 Lajoshídapáti, Egyházashetveni utca 203.",
+   "bbox": [
+    76,
+    296,
+    516,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 63186316-3-28",
+   "bbox": [
+    75,
+    324,
+    304,
+    341
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    231,
+    700,
+    249
+   ]
+  },
+  {
+   "text": "Orosz és Társa Kft.",
+   "bbox": [
+    630,
+    265,
+    835,
+    283
+   ]
+  },
+  {
+   "text": "H-6496 Ligetdevecser, Tótkövesdi utca 116.",
+   "bbox": [
+    630,
+    296,
+    1022,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 23873924-5-08",
+   "bbox": [
+    629,
+    324,
+    858,
+    341
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    76,
+    390,
+    246,
+    407
+   ]
+  },
+  {
+   "text": "2026. 07. 15.",
+   "bbox": [
+    376,
+    392,
+    494,
+    407
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    76,
+    420,
+    261,
+    441
+   ]
+  },
+  {
+   "text": "2026. 07. 11.",
+   "bbox": [
+    376,
+    422,
+    494,
+    437
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    76,
+    450,
+    251,
+    467
+   ]
+  },
+  {
+   "text": "2026. 07. 23.",
+   "bbox": [
+    376,
+    452,
+    494,
+    467
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    76,
+    480,
+    210,
+    497
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    376,
+    480,
+    448,
+    497
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    522,
+    181,
+    539
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    524,
+    573,
+    539
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    522,
+    751,
+    539
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    833,
+    522,
+    881,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    519,
+    946,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    519,
+    1049,
+    536
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1109,
+    522,
+    1164,
+    536
+   ]
+  },
+  {
+   "text": "2 év",
+   "bbox": [
+    511,
+    561,
+    543,
+    575
+   ]
+  },
+  {
+   "text": "21 870",
+   "bbox": [
+    700,
+    563,
+    750,
+    575
+   ]
+  },
+  {
+   "text": "43 740",
+   "bbox": [
+    831,
+    563,
+    881,
+    575
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    563,
+    946,
+    575
+   ]
+  },
+  {
+   "text": "11 810",
+   "bbox": [
+    999,
+    563,
+    1049,
+    575
+   ]
+  },
+  {
+   "text": "55 550",
+   "bbox": [
+    1114,
+    563,
+    1164,
+    575
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    76,
+    561,
+    210,
+    578
+   ]
+  },
+  {
+   "text": "3 karton",
+   "bbox": [
+    511,
+    595,
+    572,
+    608
+   ]
+  },
+  {
+   "text": "1 670",
+   "bbox": [
+    709,
+    596,
+    750,
+    608
+   ]
+  },
+  {
+   "text": "5 010",
+   "bbox": [
+    840,
+    596,
+    881,
+    608
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    911,
+    596,
+    946,
+    608
+   ]
+  },
+  {
+   "text": "902",
+   "bbox": [
+    1022,
+    596,
+    1049,
+    608
+   ]
+  },
+  {
+   "text": "5 912",
+   "bbox": [
+    1123,
+    596,
+    1164,
+    608
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    75,
+    591,
+    185,
+    611
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    689,
+    648,
+    834,
+    665
+   ]
+  },
+  {
+   "text": "48 750 Ft",
+   "bbox": [
+    1077,
+    649,
+    1164,
+    665
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    701,
+    678,
+    834,
+    699
+   ]
+  },
+  {
+   "text": "12 712 Ft",
+   "bbox": [
+    1077,
+    683,
+    1164,
+    699
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    625,
+    716,
+    834,
+    733
+   ]
+  },
+  {
+   "text": "61 462 Ft",
+   "bbox": [
+    1066,
+    717,
+    1164,
+    733
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 45008382-24842950",
+   "bbox": [
+    76,
+    780,
+    395,
+    795
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    449,
+    1662,
+    789,
+    1677
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

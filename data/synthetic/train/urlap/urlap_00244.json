@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Szücs Erika",
+  "anyja_neve": "Molnár Vivien",
+  "szuletesi_hely": "Mosonligetvég",
+  "szuletesi_datum": "1985. 03. 09.",
+  "lakcim": "H-9549 Szeged, Dunakeszii tér 235.",
+  "telefon": "+36 30 870 8452",
+  "email": "szucs.erika@citromail.hu",
+  "adoazonosito_jel": "8431661232",
+  "taj_szam": "737 983 644",
+  "kelt": "Hetvenvár, 2024. 02. 06."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    394,
+    102,
+    845,
+    138
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    458,
+    161,
+    782,
+    179
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    214,
+    336,
+    238
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    115,
+    273,
+    159,
+    288
+   ]
+  },
+  {
+   "text": "Szücs Erika",
+   "bbox": [
+    428,
+    272,
+    554,
+    289
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    114,
+    327,
+    228,
+    346
+   ]
+  },
+  {
+   "text": "Molnár Vivien",
+   "bbox": [
+    428,
+    327,
+    571,
+    344
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    381,
+    255,
+    400
+   ]
+  },
+  {
+   "text": "Mosonligetvég",
+   "bbox": [
+    428,
+    378,
+    580,
+    400
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    435,
+    244,
+    450
+   ]
+  },
+  {
+   "text": "1985. 03. 09.",
+   "bbox": [
+    428,
+    436,
+    567,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    489,
+    191,
+    504
+   ]
+  },
+  {
+   "text": "H-9549 Szeged, Dunakeszii tér 235.",
+   "bbox": [
+    428,
+    484,
+    809,
+    506
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    543,
+    245,
+    558
+   ]
+  },
+  {
+   "text": "+36 30 870 8452",
+   "bbox": [
+    428,
+    539,
+    606,
+    556
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    597,
+    223,
+    612
+   ]
+  },
+  {
+   "text": "szucs.erika@citromail.hu",
+   "bbox": [
+    428,
+    595,
+    692,
+    617
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    114,
+    651,
+    281,
+    670
+   ]
+  },
+  {
+   "text": "8431661232",
+   "bbox": [
+    428,
+    651,
+    558,
+    668
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    705,
+    217,
+    720
+   ]
+  },
+  {
+   "text": "737 983 644",
+   "bbox": [
+    428,
+    701,
+    559,
+    718
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    784,
+    285,
+    806
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    830,
+    489,
+    849
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    875,
+    304,
+    890
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    147,
+    920,
+    507,
+    939
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    1022,
+    147,
+    1038
+   ]
+  },
+  {
+   "text": "Hetvenvár, 2024. 02. 06.",
+   "bbox": [
+    193,
+    1019,
+    454,
+    1039
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    920,
+    1072,
+    974,
+    1085
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

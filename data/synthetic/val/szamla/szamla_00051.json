@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/01414",
+  "kiallitas_datuma": "2024.04.28.",
+  "teljesites_datuma": "2024.04.25.",
+  "fizetesi_hatarido": "2024.05.13.",
+  "elado_nev": "Szabó Trade Kft.",
+  "elado_cim": "H-1983 Békésháthalas, Németmelléki utca 124.",
+  "elado_adoszam": "68223036-4-30",
+  "vevo_nev": "Szabó Kft.",
+  "vevo_cim": "H-3744 Érd, Váctóti utca 193.",
+  "vevo_adoszam": "28938925-5-25",
+  "bankszamla": "80536752-84664048",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "203 200 Ft",
+  "afa_osszesen": "52 974 Ft",
+  "brutto_osszesen": "256 174 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "4 870",
+    "netto": "58 440",
+    "afa_kulcs": "27%",
+    "afa": "15 779",
+    "brutto": "74 219"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "5 csomag",
+    "egysegar": "4 200",
+    "netto": "21 000",
+    "afa_kulcs": "18%",
+    "afa": "3 780",
+    "brutto": "24 780"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "10 db",
+    "egysegar": "11 910",
+    "netto": "119 100",
+    "afa_kulcs": "27%",
+    "afa": "32 157",
+    "brutto": "151 257"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "4 660",
+    "netto": "4 660",
+    "afa_kulcs": "27%",
+    "afa": "1 258",
+    "brutto": "5 918"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    422,
+    83,
+    819,
+    116
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/01414",
+   "bbox": [
+    438,
+    140,
+    802,
+    159
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    74,
+    221,
+    152,
+    239
+   ]
+  },
+  {
+   "text": "Szabó Trade Kft.",
+   "bbox": [
+    74,
+    260,
+    275,
+    278
+   ]
+  },
+  {
+   "text": "H-1983 Békésháthalas, Németmelléki utca 124.",
+   "bbox": [
+    74,
+    295,
+    555,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 68223036-4-30",
+   "bbox": [
+    74,
+    328,
+    341,
+    346
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    221,
+    699,
+    239
+   ]
+  },
+  {
+   "text": "Szabó Kft.",
+   "bbox": [
+    630,
+    260,
+    753,
+    278
+   ]
+  },
+  {
+   "text": "H-3744 Érd, Váctóti utca 193.",
+   "bbox": [
+    630,
+    290,
+    935,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 28938925-5-25",
+   "bbox": [
+    630,
+    328,
+    897,
+    346
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    74,
+    399,
+    262,
+    417
+   ]
+  },
+  {
+   "text": "2024.04.28.",
+   "bbox": [
+    374,
+    400,
+    496,
+    417
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    74,
+    434,
+    271,
+    457
+   ]
+  },
+  {
+   "text": "2024.04.25.",
+   "bbox": [
+    374,
+    435,
+    496,
+    452
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    74,
+    469,
+    261,
+    487
+   ]
+  },
+  {
+   "text": "2024.05.13.",
+   "bbox": [
+    374,
+    470,
+    496,
+    487
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    74,
+    504,
+    216,
+    522
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    374,
+    504,
+    451,
+    522
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    74,
+    551,
+    188,
+    571
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    551,
+    582,
+    571
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    551,
+    751,
+    571
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    551,
+    882,
+    566
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    880,
+    547,
+    947,
+    566
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1006,
+    547,
+    1051,
+    566
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1104,
+    551,
+    1166,
+    566
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    510,
+    594,
+    610,
+    610
+   ]
+  },
+  {
+   "text": "4 870",
+   "bbox": [
+    701,
+    595,
+    751,
+    610
+   ]
+  },
+  {
+   "text": "58 440",
+   "bbox": [
+    821,
+    595,
+    882,
+    610
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    595,
+    947,
+    610
+   ]
+  },
+  {
+   "text": "15 779",
+   "bbox": [
+    990,
+    595,
+    1051,
+    610
+   ]
+  },
+  {
+   "text": "74 219",
+   "bbox": [
+    1105,
+    595,
+    1166,
+    610
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    74,
+    594,
+    184,
+    615
+   ]
+  },
+  {
+   "text": "5 csomag",
+   "bbox": [
+    510,
+    633,
+    595,
+    653
+   ]
+  },
+  {
+   "text": "4 200",
+   "bbox": [
+    701,
+    633,
+    751,
+    648
+   ]
+  },
+  {
+   "text": "21 000",
+   "bbox": [
+    821,
+    633,
+    882,
+    648
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    907,
+    633,
+    947,
+    648
+   ]
+  },
+  {
+   "text": "3 780",
+   "bbox": [
+    1001,
+    633,
+    1051,
+    648
+   ]
+  },
+  {
+   "text": "24 780",
+   "bbox": [
+    1105,
+    633,
+    1166,
+    648
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    74,
+    632,
+    238,
+    653
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    510,
+    670,
+    560,
+    686
+   ]
+  },
+  {
+   "text": "11 910",
+   "bbox": [
+    690,
+    671,
+    751,
+    686
+   ]
+  },
+  {
+   "text": "119 100",
+   "bbox": [
+    810,
+    671,
+    882,
+    686
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    671,
+    947,
+    686
+   ]
+  },
+  {
+   "text": "32 157",
+   "bbox": [
+    990,
+    671,
+    1051,
+    686
+   ]
+  },
+  {
+   "text": "151 257",
+   "bbox": [
+    1094,
+    671,
+    1166,
+    686
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    74,
+    670,
+    188,
+    691
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    510,
+    708,
+    571,
+    724
+   ]
+  },
+  {
+   "text": "4 660",
+   "bbox": [
+    701,
+    709,
+    751,
+    724
+   ]
+  },
+  {
+   "text": "4 660",
+   "bbox": [
+    832,
+    709,
+    882,
+    724
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    709,
+    947,
+    724
+   ]
+  },
+  {
+   "text": "1 258",
+   "bbox": [
+    1001,
+    709,
+    1051,
+    724
+   ]
+  },
+  {
+   "text": "5 918",
+   "bbox": [
+    1116,
+    709,
+    1166,
+    724
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    74,
+    708,
+    314,
+    729
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    671,
+    768,
+    836,
+    786
+   ]
+  },
+  {
+   "text": "203 200 Ft",
+   "bbox": [
+    1053,
+    769,
+    1167,
+    786
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    678,
+    802,
+    836,
+    825
+   ]
+  },
+  {
+   "text": "52 974 Ft",
+   "bbox": [
+    1066,
+    808,
+    1167,
+    825
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    713,
+    846,
+    836,
+    870
+   ]
+  },
+  {
+   "text": "256 174 Ft",
+   "bbox": [
+    1049,
+    847,
+    1166,
+    864
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 80536752-84664048",
+   "bbox": [
+    74,
+    914,
+    456,
+    931
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    74,
+    946,
+    648,
+    965
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    410,
+    1661,
+    830,
+    1679
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

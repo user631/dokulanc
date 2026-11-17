@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Németh Botond",
+  "email": "nemeth.botond@outlook.com",
+  "telefon": "+36 20 757 8854",
+  "lakcim": "H-8417 Hídnádasd, Béke utca 119.",
+  "szuletesi_datum": "2004. 01. 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2022 – 2027"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Pataki Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Németh Botond",
+   "bbox": [
+    409,
+    114,
+    830,
+    154
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    495,
+    183,
+    744,
+    210
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    179,
+    255
+   ]
+  },
+  {
+   "text": "nemeth.botond@outlook.com",
+   "bbox": [
+    330,
+    238,
+    655,
+    258
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    270,
+    192,
+    287
+   ]
+  },
+  {
+   "text": "+36 20 757 8854",
+   "bbox": [
+    330,
+    271,
+    526,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    301,
+    187,
+    319
+   ]
+  },
+  {
+   "text": "H-8417 Hídnádasd, Béke utca 119.",
+   "bbox": [
+    330,
+    301,
+    720,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    300,
+    351
+   ]
+  },
+  {
+   "text": "2004. 01. 20.",
+   "bbox": [
+    330,
+    335,
+    482,
+    351
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    387,
+    383,
+    412
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    90,
+    438,
+    263,
+    459
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy és Társa Zrt.",
+   "bbox": [
+    90,
+    464,
+    572,
+    487
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    506,
+    263,
+    527
+   ]
+  },
+  {
+   "text": "irodavezető – Pataki Logisztika Kft.",
+   "bbox": [
+    90,
+    532,
+    546,
+    555
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    584,
+    289,
+    610
+   ]
+  },
+  {
+   "text": "2022 – 2027",
+   "bbox": [
+    90,
+    637,
+    232,
+    653
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    662,
+    442,
+    685
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    687,
+    463,
+    709
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    731,
+    232,
+    747
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    756,
+    416,
+    774
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    781,
+    375,
+    803
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    834,
+    253,
+    860
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    886,
+    207,
+    907
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    934,
+    243,
+    960
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, SAP, Git",
+   "bbox": [
+    90,
+    985,
+    469,
+    1007
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

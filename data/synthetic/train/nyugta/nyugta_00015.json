@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MÁTÉ CSEMEGE KFT.",
+  "uzlet_cim": "H-5527 Békéscsaba, Keresztnádasdi utca 12.",
+  "adoszam": "33717447-2-37",
+  "datum": "2026.06.12.",
+  "ido": "14:29",
+  "nyugtaszam": "1344/73325",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 903 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "232"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1221"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1001"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "60"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2358"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7104"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "699"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "228"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÁTÉ CSEMEGE KFT.",
+   "bbox": [
+    162,
+    31,
+    384,
+    49
+   ]
+  },
+  {
+   "text": "H-5527 Békéscsaba, Keresztnádasdi utca 12.",
+   "bbox": [
+    43,
+    65,
+    505,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 33717447-2-37",
+   "bbox": [
+    153,
+    87,
+    395,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    231,
+    130,
+    317,
+    144
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    170,
+    192,
+    186
+   ]
+  },
+  {
+   "text": "232 B00",
+   "bbox": [
+    440,
+    170,
+    524,
+    183
+   ]
+  },
+  {
+   "text": "3 DB x 407",
+   "bbox": [
+    24,
+    198,
+    124,
+    209
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    220,
+    156,
+    236
+   ]
+  },
+  {
+   "text": "1221 B00",
+   "bbox": [
+    428,
+    220,
+    524,
+    233
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    249,
+    180,
+    261
+   ]
+  },
+  {
+   "text": "1001 A00",
+   "bbox": [
+    428,
+    248,
+    524,
+    261
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    277,
+    96,
+    289
+   ]
+  },
+  {
+   "text": "60 C00",
+   "bbox": [
+    452,
+    276,
+    524,
+    289
+   ]
+  },
+  {
+   "text": "3 DB x 786",
+   "bbox": [
+    24,
+    304,
+    124,
+    315
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    326,
+    216,
+    339
+   ]
+  },
+  {
+   "text": "2358 C00",
+   "bbox": [
+    428,
+    326,
+    524,
+    339
+   ]
+  },
+  {
+   "text": "3 DB x 2368",
+   "bbox": [
+    24,
+    354,
+    134,
+    365
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    376,
+    132,
+    389
+   ]
+  },
+  {
+   "text": "7104 C00",
+   "bbox": [
+    428,
+    376,
+    524,
+    389
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    404,
+    192,
+    417
+   ]
+  },
+  {
+   "text": "699 C00",
+   "bbox": [
+    440,
+    404,
+    524,
+    417
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    433,
+    180,
+    445
+   ]
+  },
+  {
+   "text": "228 A00",
+   "bbox": [
+    440,
+    432,
+    524,
+    445
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    468,
+    164,
+    488
+   ]
+  },
+  {
+   "text": "12 903 Ft",
+   "bbox": [
+    398,
+    473,
+    525,
+    488
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    507,
+    156,
+    523
+   ]
+  },
+  {
+   "text": "12 903 Ft",
+   "bbox": [
+    416,
+    510,
+    524,
+    523
+   ]
+  },
+  {
+   "text": "2026.06.12.",
+   "bbox": [
+    24,
+    552,
+    145,
+    563
+   ]
+  },
+  {
+   "text": "14:29",
+   "bbox": [
+    469,
+    552,
+    524,
+    563
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1344/73325",
+   "bbox": [
+    24,
+    577,
+    266,
+    592
+   ]
+  },
+  {
+   "text": "AP A87287474",
+   "bbox": [
+    24,
+    608,
+    156,
+    619
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    190,
+    645,
+    356,
+    660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  548,
+  704
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "PINTÉR ABC KFT.",
+  "uzlet_cim": "H-7198 Keresztberény, József attila tér 242.",
+  "adoszam": "40298966-2-16",
+  "datum": "2024.03.08.",
+  "ido": "16:52",
+  "nyugtaszam": "6326/19604",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 744 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2348"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "138"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3366"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "390"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "283"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1752"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "682"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "785"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PINTÉR ABC KFT.",
+   "bbox": [
+    202,
+    31,
+    412,
+    49
+   ]
+  },
+  {
+   "text": "H-7198 Keresztberény, József attila tér 242.",
+   "bbox": [
+    65,
+    63,
+    549,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 40298966-2-16",
+   "bbox": [
+    186,
+    88,
+    428,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    262,
+    131,
+    352,
+    147
+   ]
+  },
+  {
+   "text": "2 DB x 1174",
+   "bbox": [
+    24,
+    172,
+    145,
+    185
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    195,
+    128,
+    210
+   ]
+  },
+  {
+   "text": "2348 A00",
+   "bbox": [
+    486,
+    195,
+    590,
+    210
+   ]
+  },
+  {
+   "text": "2 DB x 69",
+   "bbox": [
+    24,
+    224,
+    123,
+    237
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    249,
+    102,
+    262
+   ]
+  },
+  {
+   "text": "138 C00",
+   "bbox": [
+    499,
+    247,
+    590,
+    262
+   ]
+  },
+  {
+   "text": "3 DB x 1122",
+   "bbox": [
+    24,
+    276,
+    145,
+    289
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    301,
+    193,
+    314
+   ]
+  },
+  {
+   "text": "3366 B00",
+   "bbox": [
+    486,
+    299,
+    590,
+    314
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    330,
+    206,
+    343
+   ]
+  },
+  {
+   "text": "390 B00",
+   "bbox": [
+    499,
+    328,
+    590,
+    343
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    359,
+    193,
+    372
+   ]
+  },
+  {
+   "text": "283 B00",
+   "bbox": [
+    499,
+    357,
+    590,
+    372
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    388,
+    154,
+    401
+   ]
+  },
+  {
+   "text": "1752 A00",
+   "bbox": [
+    486,
+    386,
+    590,
+    401
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    415,
+    206,
+    430
+   ]
+  },
+  {
+   "text": "682 A00",
+   "bbox": [
+    499,
+    415,
+    590,
+    430
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    444,
+    232,
+    459
+   ]
+  },
+  {
+   "text": "785 C00",
+   "bbox": [
+    499,
+    444,
+    590,
+    459
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    483,
+    174,
+    503
+   ]
+  },
+  {
+   "text": "9 744 Ft",
+   "bbox": [
+    470,
+    485,
+    590,
+    503
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    522,
+    154,
+    539
+   ]
+  },
+  {
+   "text": "9 744 Ft",
+   "bbox": [
+    486,
+    524,
+    590,
+    539
+   ]
+  },
+  {
+   "text": "2024.03.08.",
+   "bbox": [
+    24,
+    566,
+    145,
+    580
+   ]
+  },
+  {
+   "text": "16:52",
+   "bbox": [
+    535,
+    566,
+    590,
+    580
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6326/19604",
+   "bbox": [
+    24,
+    594,
+    266,
+    612
+   ]
+  },
+  {
+   "text": "AP A45365844",
+   "bbox": [
+    24,
+    624,
+    156,
+    638
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    247,
+    664,
+    367,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  614,
+  725
+ ]
+}

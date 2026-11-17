@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2026/09791",
+  "kiallitas_datuma": "2026. december 3.",
+  "teljesites_datuma": "2026. november 29.",
+  "fizetesi_hatarido": "2027. január 2.",
+  "elado_nev": "Horváth Kft.",
+  "elado_cim": "H-2432 Lajosmártondevecser, Petőfi sándor út 193.",
+  "elado_adoszam": "25590601-2-24",
+  "vevo_nev": "Oláh és Társa Zrt.",
+  "vevo_cim": "H-3742 Belsőtamásiváros, Mártonvárosi utca 156.",
+  "vevo_adoszam": "44074209-5-14",
+  "bankszamla": "00153548-93938257",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "879 730 Ft",
+  "afa_osszesen": "233 509 Ft",
+  "brutto_osszesen": "1 113 239 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "4 év",
+    "egysegar": "56 580",
+    "netto": "226 320",
+    "afa_kulcs": "27%",
+    "afa": "61 106",
+    "brutto": "287 426"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "1 db",
+    "egysegar": "4 190",
+    "netto": "4 190",
+    "afa_kulcs": "27%",
+    "afa": "1 131",
+    "brutto": "5 321"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "12 óra",
+    "egysegar": "9 220",
+    "netto": "110 640",
+    "afa_kulcs": "27%",
+    "afa": "29 873",
+    "brutto": "140 513"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "12 hó",
+    "egysegar": "43 360",
+    "netto": "520 320",
+    "afa_kulcs": "27%",
+    "afa": "140 486",
+    "brutto": "660 806"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "18 260",
+    "netto": "18 260",
+    "afa_kulcs": "5%",
+    "afa": "913",
+    "brutto": "19 173"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    455,
+    94,
+    785,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2026/09791",
+   "bbox": [
+    473,
+    152,
+    766,
+    171
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    91,
+    233,
+    143,
+    248
+   ]
+  },
+  {
+   "text": "Oláh és Társa Zrt.",
+   "bbox": [
+    91,
+    267,
+    252,
+    282
+   ]
+  },
+  {
+   "text": "H-3742 Belsőtamásiváros, Mártonvárosi utca 156.",
+   "bbox": [
+    91,
+    298,
+    504,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 44074209-5-14",
+   "bbox": [
+    91,
+    326,
+    299,
+    340
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    233,
+    687,
+    248
+   ]
+  },
+  {
+   "text": "Horváth Kft.",
+   "bbox": [
+    630,
+    267,
+    743,
+    282
+   ]
+  },
+  {
+   "text": "H-2432 Lajosmártondevecser, Petőfi sándor út 193.",
+   "bbox": [
+    630,
+    298,
+    1055,
+    316
+   ]
+  },
+  {
+   "text": "Adószám: 25590601-2-24",
+   "bbox": [
+    630,
+    326,
+    838,
+    340
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    91,
+    392,
+    233,
+    406
+   ]
+  },
+  {
+   "text": "2026. december 3.",
+   "bbox": [
+    391,
+    392,
+    544,
+    406
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    91,
+    422,
+    245,
+    440
+   ]
+  },
+  {
+   "text": "2026. november 29.",
+   "bbox": [
+    391,
+    422,
+    556,
+    436
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    91,
+    452,
+    236,
+    466
+   ]
+  },
+  {
+   "text": "2027. január 2.",
+   "bbox": [
+    391,
+    453,
+    515,
+    470
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    91,
+    482,
+    202,
+    496
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    391,
+    482,
+    484,
+    500
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    91,
+    524,
+    181,
+    539
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    525,
+    569,
+    539
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    684,
+    524,
+    746,
+    539
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    832,
+    524,
+    873,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    897,
+    521,
+    937,
+    536
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1009,
+    521,
+    1037,
+    536
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1103,
+    524,
+    1149,
+    536
+   ]
+  },
+  {
+   "text": "4 év",
+   "bbox": [
+    514,
+    563,
+    543,
+    575
+   ]
+  },
+  {
+   "text": "56 580",
+   "bbox": [
+    697,
+    564,
+    746,
+    575
+   ]
+  },
+  {
+   "text": "226 320",
+   "bbox": [
+    815,
+    564,
+    873,
+    575
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    564,
+    937,
+    575
+   ]
+  },
+  {
+   "text": "61 106",
+   "bbox": [
+    988,
+    564,
+    1037,
+    575
+   ]
+  },
+  {
+   "text": "287 426",
+   "bbox": [
+    1091,
+    564,
+    1149,
+    575
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    91,
+    563,
+    218,
+    578
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    514,
+    596,
+    545,
+    608
+   ]
+  },
+  {
+   "text": "4 190",
+   "bbox": [
+    706,
+    597,
+    746,
+    608
+   ]
+  },
+  {
+   "text": "4 190",
+   "bbox": [
+    833,
+    597,
+    873,
+    608
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    597,
+    937,
+    608
+   ]
+  },
+  {
+   "text": "1 131",
+   "bbox": [
+    997,
+    597,
+    1037,
+    608
+   ]
+  },
+  {
+   "text": "5 321",
+   "bbox": [
+    1109,
+    597,
+    1149,
+    608
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    91,
+    596,
+    229,
+    611
+   ]
+  },
+  {
+   "text": "12 óra",
+   "bbox": [
+    514,
+    629,
+    559,
+    641
+   ]
+  },
+  {
+   "text": "9 220",
+   "bbox": [
+    706,
+    630,
+    746,
+    641
+   ]
+  },
+  {
+   "text": "110 640",
+   "bbox": [
+    815,
+    630,
+    873,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    630,
+    937,
+    641
+   ]
+  },
+  {
+   "text": "29 873",
+   "bbox": [
+    988,
+    630,
+    1037,
+    641
+   ]
+  },
+  {
+   "text": "140 513",
+   "bbox": [
+    1091,
+    630,
+    1149,
+    641
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    91,
+    629,
+    280,
+    644
+   ]
+  },
+  {
+   "text": "12 hó",
+   "bbox": [
+    514,
+    662,
+    554,
+    674
+   ]
+  },
+  {
+   "text": "43 360",
+   "bbox": [
+    697,
+    663,
+    746,
+    674
+   ]
+  },
+  {
+   "text": "520 320",
+   "bbox": [
+    815,
+    663,
+    873,
+    674
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    663,
+    937,
+    674
+   ]
+  },
+  {
+   "text": "140 486",
+   "bbox": [
+    979,
+    663,
+    1037,
+    674
+   ]
+  },
+  {
+   "text": "660 806",
+   "bbox": [
+    1091,
+    663,
+    1149,
+    674
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    91,
+    662,
+    289,
+    677
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    514,
+    695,
+    543,
+    707
+   ]
+  },
+  {
+   "text": "18 260",
+   "bbox": [
+    697,
+    696,
+    746,
+    707
+   ]
+  },
+  {
+   "text": "18 260",
+   "bbox": [
+    824,
+    696,
+    873,
+    707
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    916,
+    696,
+    937,
+    707
+   ]
+  },
+  {
+   "text": "913",
+   "bbox": [
+    1010,
+    696,
+    1037,
+    707
+   ]
+  },
+  {
+   "text": "19 173",
+   "bbox": [
+    1100,
+    696,
+    1149,
+    707
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    91,
+    695,
+    281,
+    710
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    685,
+    749,
+    819,
+    763
+   ]
+  },
+  {
+   "text": "879 730 Ft",
+   "bbox": [
+    1056,
+    750,
+    1149,
+    763
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    700,
+    780,
+    819,
+    797
+   ]
+  },
+  {
+   "text": "233 509 Ft",
+   "bbox": [
+    1056,
+    784,
+    1149,
+    797
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    724,
+    817,
+    819,
+    835
+   ]
+  },
+  {
+   "text": "1 113 239 Ft",
+   "bbox": [
+    1040,
+    818,
+    1149,
+    831
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 00153548-93938257",
+   "bbox": [
+    91,
+    881,
+    397,
+    894
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    465,
+    1648,
+    774,
+    1662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

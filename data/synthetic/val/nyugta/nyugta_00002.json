@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KELEMEN CSEMEGE BT.",
+  "uzlet_cim": "H-2430 Kunhídvár, Petőfi utca 164.",
+  "adoszam": "91688279-2-20",
+  "datum": "2024.08.14.",
+  "ido": "21:05",
+  "nyugtaszam": "5515/11743",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "2 619 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "403"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2216"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KELEMEN CSEMEGE BT.",
+   "bbox": [
+    155,
+    33,
+    402,
+    48
+   ]
+  },
+  {
+   "text": "H-2430 Kunhídvár, Petőfi utca 164.",
+   "bbox": [
+    109,
+    65,
+    449,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 91688279-2-20",
+   "bbox": [
+    169,
+    88,
+    389,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    237,
+    130,
+    321,
+    146
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    173,
+    156,
+    186
+   ]
+  },
+  {
+   "text": "403 C00",
+   "bbox": [
+    450,
+    173,
+    534,
+    186
+   ]
+  },
+  {
+   "text": "2 DB x 1108",
+   "bbox": [
+    24,
+    202,
+    134,
+    213
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    225,
+    144,
+    238
+   ]
+  },
+  {
+   "text": "2216 C00",
+   "bbox": [
+    438,
+    225,
+    534,
+    238
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    261,
+    164,
+    282
+   ]
+  },
+  {
+   "text": "2 619 Ft",
+   "bbox": [
+    422,
+    266,
+    534,
+    282
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    301,
+    120,
+    318
+   ]
+  },
+  {
+   "text": "2 619 Ft",
+   "bbox": [
+    438,
+    305,
+    534,
+    318
+   ]
+  },
+  {
+   "text": "2024.08.14.",
+   "bbox": [
+    24,
+    348,
+    134,
+    360
+   ]
+  },
+  {
+   "text": "21:05",
+   "bbox": [
+    484,
+    348,
+    534,
+    360
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5515/11743",
+   "bbox": [
+    24,
+    374,
+    244,
+    391
+   ]
+  },
+  {
+   "text": "AP A88746386",
+   "bbox": [
+    24,
+    406,
+    144,
+    418
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    224,
+    442,
+    334,
+    459
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  558,
+  505
+ ]
+}

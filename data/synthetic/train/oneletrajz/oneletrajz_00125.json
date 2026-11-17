@@ -1,0 +1,328 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fodor Ágnes",
+  "email": "fodor.agnes@outlook.com",
+  "telefon": "+36 20 600 2433",
+  "lakcim": "H-9681 Hátberény, Budapesti út 205.",
+  "szuletesi_datum": "1987. december 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2005 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Lakatos Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2009 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "Linux",
+   "C#",
+   "Git",
+   "Docker",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    107,
+    186,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    152,
+    92,
+    165
+   ]
+  },
+  {
+   "text": "fodor.agnes@outlook.com",
+   "bbox": [
+    40,
+    174,
+    252,
+    191
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    104,
+    219
+   ]
+  },
+  {
+   "text": "+36 20 600 2433",
+   "bbox": [
+    40,
+    228,
+    163,
+    241
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    259,
+    99,
+    273
+   ]
+  },
+  {
+   "text": "H-9681 Hátberény, Budapesti út 205.",
+   "bbox": [
+    40,
+    281,
+    335,
+    299
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    313,
+    173,
+    327
+   ]
+  },
+  {
+   "text": "1987. december 9.",
+   "bbox": [
+    40,
+    336,
+    190,
+    349
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    395,
+    175,
+    415
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    436,
+    139,
+    454
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    462,
+    127,
+    480
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    515,
+    156,
+    535
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    556,
+    127,
+    574
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    582,
+    85,
+    596
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    608,
+    62,
+    622
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    634,
+    66,
+    648
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    660,
+    99,
+    674
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    686,
+    71,
+    700
+   ]
+  },
+  {
+   "text": "Fodor Ágnes",
+   "bbox": [
+    450,
+    108,
+    704,
+    157
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    182,
+    656,
+    206
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    675,
+    268
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    450,
+    295,
+    549,
+    309
+   ]
+  },
+  {
+   "text": "értékesítő – Lakatos Logisztika Bt.",
+   "bbox": [
+    450,
+    318,
+    784,
+    338
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    369,
+    602,
+    392
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    450,
+    419,
+    549,
+    433
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    442,
+    943,
+    462
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    465,
+    630,
+    481
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    450,
+    507,
+    549,
+    521
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    530,
+    695,
+    546
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    553,
+    531,
+    573
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY DISZKONT KFT.",
+  "uzlet_cim": "H-2199 Pécs, Tapolcafai utca 165.",
+  "adoszam": "40039567-4-11",
+  "datum": "2025.11.29.",
+  "ido": "08:56",
+  "nyugtaszam": "1292/71047",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "23 314 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "449"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1928"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "593"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "4566"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "450"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1075"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1497"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4354"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2799"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "477"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "5034"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "92"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY DISZKONT KFT.",
+   "bbox": [
+    175,
+    34,
+    427,
+    49
+   ]
+  },
+  {
+   "text": "H-2199 Pécs, Tapolcafai utca 165.",
+   "bbox": [
+    103,
+    64,
+    499,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 40039567-4-11",
+   "bbox": [
+    169,
+    90,
+    433,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    135,
+    349,
+    151
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    176,
+    206,
+    192
+   ]
+  },
+  {
+   "text": "449 B00",
+   "bbox": [
+    488,
+    176,
+    579,
+    192
+   ]
+  },
+  {
+   "text": "2 DB x 964",
+   "bbox": [
+    24,
+    205,
+    134,
+    219
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    232,
+    193,
+    246
+   ]
+  },
+  {
+   "text": "1928 B00",
+   "bbox": [
+    475,
+    230,
+    579,
+    246
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    260,
+    141,
+    276
+   ]
+  },
+  {
+   "text": "593 B00",
+   "bbox": [
+    488,
+    260,
+    579,
+    276
+   ]
+  },
+  {
+   "text": "3 DB x 1522",
+   "bbox": [
+    24,
+    289,
+    145,
+    303
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    316,
+    154,
+    330
+   ]
+  },
+  {
+   "text": "4566 C00",
+   "bbox": [
+    475,
+    314,
+    579,
+    330
+   ]
+  },
+  {
+   "text": "3 DB x 150",
+   "bbox": [
+    24,
+    343,
+    134,
+    357
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    368,
+    206,
+    387
+   ]
+  },
+  {
+   "text": "450 C00",
+   "bbox": [
+    488,
+    368,
+    579,
+    384
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    398,
+    128,
+    414
+   ]
+  },
+  {
+   "text": "1075 A00",
+   "bbox": [
+    475,
+    398,
+    579,
+    414
+   ]
+  },
+  {
+   "text": "3 DB x 499",
+   "bbox": [
+    24,
+    427,
+    134,
+    441
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    452,
+    128,
+    468
+   ]
+  },
+  {
+   "text": "1497 B00",
+   "bbox": [
+    475,
+    452,
+    579,
+    468
+   ]
+  },
+  {
+   "text": "2 DB x 2177",
+   "bbox": [
+    24,
+    481,
+    145,
+    495
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    506,
+    141,
+    522
+   ]
+  },
+  {
+   "text": "4354 A00",
+   "bbox": [
+    475,
+    506,
+    579,
+    522
+   ]
+  },
+  {
+   "text": "3 DB x 933",
+   "bbox": [
+    24,
+    535,
+    134,
+    549
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    560,
+    128,
+    576
+   ]
+  },
+  {
+   "text": "2799 A00",
+   "bbox": [
+    475,
+    560,
+    579,
+    576
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    592,
+    206,
+    606
+   ]
+  },
+  {
+   "text": "477 A00",
+   "bbox": [
+    488,
+    590,
+    579,
+    606
+   ]
+  },
+  {
+   "text": "2 DB x 2517",
+   "bbox": [
+    24,
+    619,
+    145,
+    633
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    644,
+    271,
+    660
+   ]
+  },
+  {
+   "text": "5034 C00",
+   "bbox": [
+    475,
+    644,
+    579,
+    660
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    676,
+    102,
+    690
+   ]
+  },
+  {
+   "text": "92 B00",
+   "bbox": [
+    501,
+    674,
+    579,
+    690
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    714,
+    184,
+    735
+   ]
+  },
+  {
+   "text": "23 314 Ft",
+   "bbox": [
+    435,
+    716,
+    579,
+    735
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    755,
+    168,
+    772
+   ]
+  },
+  {
+   "text": "23 314 Ft",
+   "bbox": [
+    462,
+    756,
+    579,
+    772
+   ]
+  },
+  {
+   "text": "2025.11.29.",
+   "bbox": [
+    24,
+    800,
+    156,
+    814
+   ]
+  },
+  {
+   "text": "08:56",
+   "bbox": [
+    519,
+    800,
+    579,
+    814
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1292/71047",
+   "bbox": [
+    24,
+    828,
+    288,
+    847
+   ]
+  },
+  {
+   "text": "AP A48057866",
+   "bbox": [
+    24,
+    860,
+    168,
+    874
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    158,
+    900,
+    444,
+    917
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  603,
+  962
+ ]
+}

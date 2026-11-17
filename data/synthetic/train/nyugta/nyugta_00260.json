@@ -1,0 +1,356 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NÉMETH DISZKONT KFT.",
+  "uzlet_cim": "H-6858 Hídfalva, Rácszéki utca 202.",
+  "adoszam": "30966769-2-11",
+  "datum": "2025.08.28.",
+  "ido": "11:25",
+  "nyugtaszam": "3832/96685",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "13 464 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "747"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "767"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1210"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2626"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "652"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "60"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2301"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1255"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3846"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH DISZKONT KFT.",
+   "bbox": [
+    135,
+    31,
+    396,
+    49
+   ]
+  },
+  {
+   "text": "H-6858 Hídfalva, Rácszéki utca 202.",
+   "bbox": [
+    73,
+    65,
+    458,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 30966769-2-11",
+   "bbox": [
+    145,
+    87,
+    387,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    223,
+    130,
+    309,
+    144
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    170,
+    120,
+    183
+   ]
+  },
+  {
+   "text": "747 B00",
+   "bbox": [
+    425,
+    170,
+    509,
+    183
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    198,
+    120,
+    211
+   ]
+  },
+  {
+   "text": "767 A00",
+   "bbox": [
+    425,
+    198,
+    509,
+    211
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    226,
+    168,
+    239
+   ]
+  },
+  {
+   "text": "1210 C00",
+   "bbox": [
+    413,
+    226,
+    509,
+    239
+   ]
+  },
+  {
+   "text": "2 DB x 1313",
+   "bbox": [
+    24,
+    254,
+    134,
+    265
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    277,
+    144,
+    289
+   ]
+  },
+  {
+   "text": "2626 B00",
+   "bbox": [
+    413,
+    276,
+    509,
+    289
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    304,
+    132,
+    317
+   ]
+  },
+  {
+   "text": "652 A00",
+   "bbox": [
+    425,
+    304,
+    509,
+    317
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    333,
+    96,
+    345
+   ]
+  },
+  {
+   "text": "60 B00",
+   "bbox": [
+    437,
+    332,
+    509,
+    345
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    360,
+    132,
+    373
+   ]
+  },
+  {
+   "text": "2301 B00",
+   "bbox": [
+    413,
+    360,
+    509,
+    373
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    388,
+    120,
+    401
+   ]
+  },
+  {
+   "text": "1255 B00",
+   "bbox": [
+    413,
+    388,
+    509,
+    401
+   ]
+  },
+  {
+   "text": "3 DB x 1282",
+   "bbox": [
+    24,
+    416,
+    134,
+    427
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    438,
+    144,
+    451
+   ]
+  },
+  {
+   "text": "3846 C00",
+   "bbox": [
+    413,
+    438,
+    509,
+    451
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    474,
+    164,
+    494
+   ]
+  },
+  {
+   "text": "13 464 Ft",
+   "bbox": [
+    383,
+    479,
+    510,
+    494
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    513,
+    156,
+    529
+   ]
+  },
+  {
+   "text": "13 464 Ft",
+   "bbox": [
+    401,
+    516,
+    509,
+    529
+   ]
+  },
+  {
+   "text": "2025.08.28.",
+   "bbox": [
+    24,
+    558,
+    145,
+    569
+   ]
+  },
+  {
+   "text": "11:25",
+   "bbox": [
+    454,
+    558,
+    509,
+    569
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3832/96685",
+   "bbox": [
+    24,
+    583,
+    266,
+    598
+   ]
+  },
+  {
+   "text": "AP A25671466",
+   "bbox": [
+    24,
+    614,
+    156,
+    625
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    182,
+    651,
+    348,
+    666
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  533,
+  710
+ ]
+}

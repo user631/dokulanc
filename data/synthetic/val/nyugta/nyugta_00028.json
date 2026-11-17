@@ -1,0 +1,431 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MOLNÁR ÉLELMISZER KFT.",
+  "uzlet_cim": "H-3419 Kaposvár, Fürdőberényi utca 123.",
+  "adoszam": "56395718-5-39",
+  "datum": "2026.12.02.",
+  "ido": "19:45",
+  "nyugtaszam": "6031/59087",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "16 143 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "663"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "298"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "362"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "848"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2994"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2466"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2628"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "838"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1172"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "599"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2655"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "620"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR ÉLELMISZER KFT.",
+   "bbox": [
+    132,
+    31,
+    440,
+    49
+   ]
+  },
+  {
+   "text": "H-3419 Kaposvár, Fürdőberényi utca 123.",
+   "bbox": [
+    71,
+    63,
+    500,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56395718-5-39",
+   "bbox": [
+    165,
+    88,
+    407,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    241,
+    131,
+    331,
+    147
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    172,
+    128,
+    187
+   ]
+  },
+  {
+   "text": "663 A00",
+   "bbox": [
+    457,
+    172,
+    548,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 149",
+   "bbox": [
+    24,
+    201,
+    134,
+    214
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    224,
+    206,
+    242
+   ]
+  },
+  {
+   "text": "298 B00",
+   "bbox": [
+    457,
+    224,
+    548,
+    239
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    253,
+    167,
+    271
+   ]
+  },
+  {
+   "text": "362 C00",
+   "bbox": [
+    457,
+    253,
+    548,
+    268
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    282,
+    180,
+    297
+   ]
+  },
+  {
+   "text": "848 C00",
+   "bbox": [
+    457,
+    282,
+    548,
+    297
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    311,
+    141,
+    326
+   ]
+  },
+  {
+   "text": "2994 B00",
+   "bbox": [
+    444,
+    311,
+    548,
+    326
+   ]
+  },
+  {
+   "text": "2 DB x 1233",
+   "bbox": [
+    24,
+    340,
+    145,
+    353
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    365,
+    154,
+    378
+   ]
+  },
+  {
+   "text": "2466 B00",
+   "bbox": [
+    444,
+    363,
+    548,
+    378
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    392,
+    271,
+    407
+   ]
+  },
+  {
+   "text": "2628 A00",
+   "bbox": [
+    444,
+    392,
+    548,
+    407
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    421,
+    128,
+    436
+   ]
+  },
+  {
+   "text": "838 A00",
+   "bbox": [
+    457,
+    421,
+    548,
+    436
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    450,
+    219,
+    465
+   ]
+  },
+  {
+   "text": "1172 C00",
+   "bbox": [
+    444,
+    450,
+    548,
+    465
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    479,
+    167,
+    494
+   ]
+  },
+  {
+   "text": "599 C00",
+   "bbox": [
+    457,
+    479,
+    548,
+    494
+   ]
+  },
+  {
+   "text": "3 DB x 885",
+   "bbox": [
+    24,
+    508,
+    134,
+    521
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    531,
+    128,
+    546
+   ]
+  },
+  {
+   "text": "2655 A00",
+   "bbox": [
+    444,
+    531,
+    548,
+    546
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    560,
+    141,
+    575
+   ]
+  },
+  {
+   "text": "620 A00",
+   "bbox": [
+    457,
+    560,
+    548,
+    575
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    599,
+    174,
+    619
+   ]
+  },
+  {
+   "text": "16 143 Ft",
+   "bbox": [
+    413,
+    601,
+    548,
+    619
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    638,
+    167,
+    655
+   ]
+  },
+  {
+   "text": "16 143 Ft",
+   "bbox": [
+    431,
+    640,
+    548,
+    655
+   ]
+  },
+  {
+   "text": "2026.12.02.",
+   "bbox": [
+    24,
+    682,
+    145,
+    696
+   ]
+  },
+  {
+   "text": "19:45",
+   "bbox": [
+    493,
+    682,
+    548,
+    696
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6031/59087",
+   "bbox": [
+    24,
+    710,
+    266,
+    728
+   ]
+  },
+  {
+   "text": "AP A19868389",
+   "bbox": [
+    24,
+    740,
+    156,
+    754
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    196,
+    780,
+    376,
+    796
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  572,
+  841
+ ]
+}

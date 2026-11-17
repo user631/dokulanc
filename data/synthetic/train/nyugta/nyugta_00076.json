@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZABÓ CSEMEGE KFT.",
+  "uzlet_cim": "H-9744 Salgótarján, Drávahídi utca 156.",
+  "adoszam": "19759056-2-07",
+  "datum": "2024.04.22.",
+  "ido": "08:17",
+  "nyugtaszam": "0362/33474",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "882 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "708"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "174"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ CSEMEGE KFT.",
+   "bbox": [
+    182,
+    30,
+    452,
+    50
+   ]
+  },
+  {
+   "text": "H-9744 Salgótarján, Drávahídi utca 156.",
+   "bbox": [
+    63,
+    65,
+    570,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 19759056-2-07",
+   "bbox": [
+    174,
+    92,
+    460,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    138,
+    366,
+    155
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    180,
+    136,
+    197
+   ]
+  },
+  {
+   "text": "708 C00",
+   "bbox": [
+    512,
+    180,
+    610,
+    197
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    211,
+    220,
+    232
+   ]
+  },
+  {
+   "text": "174 A00",
+   "bbox": [
+    512,
+    211,
+    610,
+    228
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    253,
+    184,
+    274
+   ]
+  },
+  {
+   "text": "882 Ft",
+   "bbox": [
+    514,
+    254,
+    610,
+    274
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    294,
+    136,
+    312
+   ]
+  },
+  {
+   "text": "882 Ft",
+   "bbox": [
+    526,
+    295,
+    610,
+    312
+   ]
+  },
+  {
+   "text": "2024.04.22.",
+   "bbox": [
+    24,
+    340,
+    167,
+    355
+   ]
+  },
+  {
+   "text": "08:17",
+   "bbox": [
+    545,
+    340,
+    610,
+    355
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0362/33474",
+   "bbox": [
+    24,
+    369,
+    310,
+    389
+   ]
+  },
+  {
+   "text": "AP A80457823",
+   "bbox": [
+    24,
+    402,
+    180,
+    417
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    252,
+    444,
+    382,
+    461
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  634,
+  506
+ ]
+}

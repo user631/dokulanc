@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2024/05392",
+  "kiallitas_datuma": "2024.10.27.",
+  "teljesites_datuma": "2024.10.23.",
+  "fizetesi_hatarido": "2024.11.04.",
+  "elado_nev": "Bognár Tech Kft.",
+  "elado_cim": "H-3950 Keresztvég, Salgótarjáni utca 125.",
+  "elado_adoszam": "96929973-2-29",
+  "vevo_nev": "Tóth Logisztika Kft.",
+  "vevo_cim": "H-1233 Nyírszékdevecser, Mártonnémetii utca 57.",
+  "vevo_adoszam": "84098559-2-14",
+  "bankszamla": "02507211-87085954-88739991",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "175 440 Ft",
+  "afa_osszesen": "43 301 Ft",
+  "brutto_osszesen": "218 741 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "4 oldal",
+    "egysegar": "4 850",
+    "netto": "19 400",
+    "afa_kulcs": "27%",
+    "afa": "5 238",
+    "brutto": "24 638"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 950",
+    "netto": "1 950",
+    "afa_kulcs": "18%",
+    "afa": "351",
+    "brutto": "2 301"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "5 óra",
+    "egysegar": "27 280",
+    "netto": "136 400",
+    "afa_kulcs": "27%",
+    "afa": "36 828",
+    "brutto": "173 228"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "17 690",
+    "netto": "17 690",
+    "afa_kulcs": "5%",
+    "afa": "884",
+    "brutto": "18 574"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    547,
+    87,
+    692,
+    122
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2024/05392",
+   "bbox": [
+    464,
+    151,
+    776,
+    171
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    90,
+    232,
+    153,
+    248
+   ]
+  },
+  {
+   "text": "Bognár Tech Kft.",
+   "bbox": [
+    90,
+    268,
+    253,
+    288
+   ]
+  },
+  {
+   "text": "H-3950 Keresztvég, Salgótarjáni utca 125.",
+   "bbox": [
+    90,
+    301,
+    462,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 96929973-2-29",
+   "bbox": [
+    90,
+    331,
+    320,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    232,
+    687,
+    248
+   ]
+  },
+  {
+   "text": "Tóth Logisztika Kft.",
+   "bbox": [
+    630,
+    268,
+    819,
+    288
+   ]
+  },
+  {
+   "text": "H-1233 Nyírszékdevecser, Mártonnémetii utca 57.",
+   "bbox": [
+    630,
+    301,
+    1082,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 84098559-2-14",
+   "bbox": [
+    630,
+    331,
+    860,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    90,
+    400,
+    217,
+    413
+   ]
+  },
+  {
+   "text": "2024.10.27.",
+   "bbox": [
+    90,
+    429,
+    193,
+    442
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    355,
+    400,
+    496,
+    416
+   ]
+  },
+  {
+   "text": "2024.10.23.",
+   "bbox": [
+    355,
+    429,
+    458,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    400,
+    753,
+    413
+   ]
+  },
+  {
+   "text": "2024.11.04.",
+   "bbox": [
+    620,
+    429,
+    723,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    885,
+    400,
+    986,
+    413
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    885,
+    428,
+    961,
+    446
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    90,
+    478,
+    191,
+    494
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    479,
+    575,
+    494
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    677,
+    478,
+    747,
+    494
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    478,
+    874,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    891,
+    475,
+    938,
+    491
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    475,
+    1038,
+    491
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1098,
+    478,
+    1150,
+    491
+   ]
+  },
+  {
+   "text": "4 oldal",
+   "bbox": [
+    514,
+    519,
+    565,
+    532
+   ]
+  },
+  {
+   "text": "4 850",
+   "bbox": [
+    703,
+    520,
+    747,
+    532
+   ]
+  },
+  {
+   "text": "19 400",
+   "bbox": [
+    820,
+    520,
+    874,
+    532
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    520,
+    938,
+    532
+   ]
+  },
+  {
+   "text": "5 238",
+   "bbox": [
+    994,
+    520,
+    1038,
+    532
+   ]
+  },
+  {
+   "text": "24 638",
+   "bbox": [
+    1096,
+    520,
+    1150,
+    532
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    90,
+    519,
+    298,
+    535
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    514,
+    554,
+    579,
+    567
+   ]
+  },
+  {
+   "text": "1 950",
+   "bbox": [
+    703,
+    555,
+    747,
+    567
+   ]
+  },
+  {
+   "text": "1 950",
+   "bbox": [
+    830,
+    555,
+    874,
+    567
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    904,
+    555,
+    938,
+    567
+   ]
+  },
+  {
+   "text": "351",
+   "bbox": [
+    1008,
+    555,
+    1038,
+    567
+   ]
+  },
+  {
+   "text": "2 301",
+   "bbox": [
+    1106,
+    555,
+    1150,
+    567
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    90,
+    551,
+    204,
+    570
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    514,
+    589,
+    554,
+    602
+   ]
+  },
+  {
+   "text": "27 280",
+   "bbox": [
+    693,
+    590,
+    747,
+    602
+   ]
+  },
+  {
+   "text": "136 400",
+   "bbox": [
+    810,
+    590,
+    874,
+    602
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    590,
+    938,
+    602
+   ]
+  },
+  {
+   "text": "36 828",
+   "bbox": [
+    984,
+    590,
+    1038,
+    602
+   ]
+  },
+  {
+   "text": "173 228",
+   "bbox": [
+    1086,
+    590,
+    1150,
+    602
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    90,
+    589,
+    179,
+    602
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    514,
+    624,
+    546,
+    637
+   ]
+  },
+  {
+   "text": "17 690",
+   "bbox": [
+    693,
+    625,
+    747,
+    637
+   ]
+  },
+  {
+   "text": "17 690",
+   "bbox": [
+    820,
+    625,
+    874,
+    637
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    914,
+    625,
+    938,
+    637
+   ]
+  },
+  {
+   "text": "884",
+   "bbox": [
+    1008,
+    625,
+    1038,
+    637
+   ]
+  },
+  {
+   "text": "18 574",
+   "bbox": [
+    1096,
+    625,
+    1150,
+    637
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    90,
+    624,
+    299,
+    640
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    673,
+    678,
+    820,
+    695
+   ]
+  },
+  {
+   "text": "175 440 Ft",
+   "bbox": [
+    1049,
+    680,
+    1150,
+    695
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    690,
+    712,
+    820,
+    731
+   ]
+  },
+  {
+   "text": "43 301 Ft",
+   "bbox": [
+    1061,
+    716,
+    1150,
+    731
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    715,
+    751,
+    820,
+    771
+   ]
+  },
+  {
+   "text": "218 741 Ft",
+   "bbox": [
+    1049,
+    752,
+    1150,
+    767
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 02507211-87085954-88739991",
+   "bbox": [
+    90,
+    817,
+    520,
+    831
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    497,
+    1647,
+    742,
+    1662
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

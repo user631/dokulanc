@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Kovács Kft.",
+  "felado_cim": "H-2197 Kecskemét, Kossuth utca 16.",
+  "cimzett": "Dr. Veres Jázmin",
+  "cimzett_cim": "H-1418 Bakonyhídvár, Rácgyörgyi utca 192.",
+  "datum": "2024. november 28.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "IKT-2024/52965",
+  "hatarido": "2024. december 11",
+  "teendo": "a SZ-2024/04513 számú számla 71 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Varga Mária"
+ },
+ "lines": [
+  {
+   "text": "Kovács Kft.",
+   "bbox": [
+    138,
+    113,
+    318,
+    137
+   ]
+  },
+  {
+   "text": "H-2197 Kecskemét, Kossuth utca 16.",
+   "bbox": [
+    138,
+    153,
+    476,
+    173
+   ]
+  },
+  {
+   "text": "Tel.: +36 70 396 1377   E-mail: info@kovacs.hu",
+   "bbox": [
+    138,
+    178,
+    580,
+    198
+   ]
+  },
+  {
+   "text": "Dr. Veres Jázmin",
+   "bbox": [
+    138,
+    263,
+    359,
+    282
+   ]
+  },
+  {
+   "text": "H-1418 Bakonyhídvár",
+   "bbox": [
+    138,
+    296,
+    378,
+    320
+   ]
+  },
+  {
+   "text": "Rácgyörgyi utca 192.",
+   "bbox": [
+    138,
+    327,
+    365,
+    351
+   ]
+  },
+  {
+   "text": "Tapolcanádasd, 2024. november 28.",
+   "bbox": [
+    701,
+    398,
+    1102,
+    422
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    138,
+    453,
+    462,
+    477
+   ]
+  },
+  {
+   "text": "Ügyszám: IKT-2024/52965",
+   "bbox": [
+    138,
+    483,
+    441,
+    512
+   ]
+  },
+  {
+   "text": "Tisztelt Címzett!",
+   "bbox": [
+    138,
+    553,
+    319,
+    572
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2024/04513 számú, 2024. szeptember 21. kelt számla",
+   "bbox": [
+    138,
+    604,
+    1094,
+    628
+   ]
+  },
+  {
+   "text": "71 000 Ft összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    138,
+    639,
+    939,
+    663
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2024. december 11 napjáig szíveskedjen átutalni",
+   "bbox": [
+    138,
+    688,
+    1101,
+    712
+   ]
+  },
+  {
+   "text": "a 44452025-12257648-67300913 számú bankszámlánkra.",
+   "bbox": [
+    138,
+    723,
+    777,
+    747
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    137,
+    772,
+    1037,
+    796
+   ]
+  },
+  {
+   "text": "Üdvözlettel:",
+   "bbox": [
+    138,
+    846,
+    271,
+    870
+   ]
+  },
+  {
+   "text": "Varga Mária",
+   "bbox": [
+    177,
+    946,
+    338,
+    970
+   ]
+  },
+  {
+   "text": "irodavezető",
+   "bbox": [
+    178,
+    978,
+    294,
+    995
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

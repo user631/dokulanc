@@ -1,0 +1,545 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2025/08326",
+  "kiallitas_datuma": "2025.12.10.",
+  "teljesites_datuma": "2025.12.07.",
+  "fizetesi_hatarido": "2025.12.18.",
+  "elado_nev": "Tamás Bt.",
+  "elado_cim": "H-1434 Szerbgyörgynémeti, Debreceni utca 124.",
+  "elado_adoszam": "49638360-4-10",
+  "vevo_nev": "Kovács Tech Kft.",
+  "vevo_cim": "H-7270 Dunaújváros, Györgyharasztii utca 173.",
+  "vevo_adoszam": "94604605-2-30",
+  "bankszamla": "83733408-02933273-53809354",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "460 920 Ft",
+  "afa_osszesen": "124 449 Ft",
+  "brutto_osszesen": "585 369 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "10 alkalom",
+    "egysegar": "38 800",
+    "netto": "388 000",
+    "afa_kulcs": "27%",
+    "afa": "104 760",
+    "brutto": "492 760"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "5 440",
+    "netto": "65 280",
+    "afa_kulcs": "27%",
+    "afa": "17 626",
+    "brutto": "82 906"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "7 640",
+    "netto": "7 640",
+    "afa_kulcs": "27%",
+    "afa": "2 063",
+    "brutto": "9 703"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    549,
+    83,
+    690,
+    113
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/08326",
+   "bbox": [
+    435,
+    139,
+    806,
+    156
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    219,
+    145,
+    236
+   ]
+  },
+  {
+   "text": "Tamás Bt.",
+   "bbox": [
+    75,
+    254,
+    185,
+    271
+   ]
+  },
+  {
+   "text": "H-1434 Szerbgyörgynémeti, Debreceni utca 124.",
+   "bbox": [
+    75,
+    288,
+    542,
+    307
+   ]
+  },
+  {
+   "text": "Adószám: 49638360-4-10",
+   "bbox": [
+    74,
+    317,
+    323,
+    332
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    219,
+    693,
+    236
+   ]
+  },
+  {
+   "text": "Kovács Tech Kft.",
+   "bbox": [
+    630,
+    254,
+    818,
+    271
+   ]
+  },
+  {
+   "text": "H-7270 Dunaújváros, Györgyharasztii utca 173.",
+   "bbox": [
+    630,
+    288,
+    1084,
+    307
+   ]
+  },
+  {
+   "text": "Adószám: 94604605-2-30",
+   "bbox": [
+    629,
+    317,
+    878,
+    332
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    382,
+    213,
+    396
+   ]
+  },
+  {
+   "text": "2025.12.10.",
+   "bbox": [
+    75,
+    410,
+    181,
+    425
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    382,
+    498,
+    400
+   ]
+  },
+  {
+   "text": "2025.12.07.",
+   "bbox": [
+    347,
+    410,
+    453,
+    425
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    382,
+    761,
+    396
+   ]
+  },
+  {
+   "text": "2025.12.18.",
+   "bbox": [
+    619,
+    410,
+    725,
+    425
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    382,
+    1000,
+    396
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    891,
+    410,
+    961,
+    425
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    458,
+    181,
+    476
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    459,
+    573,
+    476
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    669,
+    458,
+    751,
+    476
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    835,
+    458,
+    881,
+    472
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    455,
+    947,
+    473
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    455,
+    1050,
+    472
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1111,
+    458,
+    1165,
+    472
+   ]
+  },
+  {
+   "text": "10 alkalom",
+   "bbox": [
+    511,
+    499,
+    598,
+    512
+   ]
+  },
+  {
+   "text": "38 800",
+   "bbox": [
+    695,
+    499,
+    750,
+    512
+   ]
+  },
+  {
+   "text": "388 000",
+   "bbox": [
+    816,
+    499,
+    881,
+    512
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    499,
+    947,
+    512
+   ]
+  },
+  {
+   "text": "104 760",
+   "bbox": [
+    985,
+    499,
+    1050,
+    512
+   ]
+  },
+  {
+   "text": "492 760",
+   "bbox": [
+    1100,
+    499,
+    1165,
+    512
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    75,
+    499,
+    254,
+    516
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    511,
+    533,
+    574,
+    546
+   ]
+  },
+  {
+   "text": "5 440",
+   "bbox": [
+    705,
+    533,
+    750,
+    546
+   ]
+  },
+  {
+   "text": "65 280",
+   "bbox": [
+    826,
+    533,
+    881,
+    546
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    533,
+    947,
+    546
+   ]
+  },
+  {
+   "text": "17 626",
+   "bbox": [
+    995,
+    533,
+    1050,
+    546
+   ]
+  },
+  {
+   "text": "82 906",
+   "bbox": [
+    1110,
+    533,
+    1165,
+    546
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    75,
+    533,
+    291,
+    550
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    567,
+    546,
+    580
+   ]
+  },
+  {
+   "text": "7 640",
+   "bbox": [
+    705,
+    567,
+    750,
+    580
+   ]
+  },
+  {
+   "text": "7 640",
+   "bbox": [
+    836,
+    567,
+    881,
+    580
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    567,
+    947,
+    580
+   ]
+  },
+  {
+   "text": "2 063",
+   "bbox": [
+    1005,
+    567,
+    1050,
+    580
+   ]
+  },
+  {
+   "text": "9 703",
+   "bbox": [
+    1120,
+    567,
+    1165,
+    580
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    75,
+    567,
+    178,
+    584
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    679,
+    621,
+    835,
+    637
+   ]
+  },
+  {
+   "text": "460 920 Ft",
+   "bbox": [
+    1062,
+    621,
+    1165,
+    637
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    687,
+    652,
+    835,
+    672
+   ]
+  },
+  {
+   "text": "124 449 Ft",
+   "bbox": [
+    1062,
+    656,
+    1165,
+    672
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    647,
+    690,
+    835,
+    711
+   ]
+  },
+  {
+   "text": "585 369 Ft",
+   "bbox": [
+    1061,
+    691,
+    1166,
+    707
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 83733408-02933273-53809354",
+   "bbox": [
+    75,
+    756,
+    521,
+    771
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    498,
+    1663,
+    742,
+    1678
+   ]
+  }
+ ],
+ "errors": [
+  "elado_adoszam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

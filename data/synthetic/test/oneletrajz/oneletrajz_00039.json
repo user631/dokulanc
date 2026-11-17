@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Attila",
+  "email": "kovacs.attila@outlook.com",
+  "telefon": "+36 20 619 4306",
+  "lakcim": "H-2510 Bácsmellékkőrös, Székesfehérvári utca 104.",
+  "szuletesi_datum": "1979. április 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1997 – 2001"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Major Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2001 – 2005"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Linux",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Attila",
+   "bbox": [
+    463,
+    97,
+    777,
+    137
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    168,
+    716,
+    188
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    221,
+    169,
+    238
+   ]
+  },
+  {
+   "text": "kovacs.attila@outlook.com",
+   "bbox": [
+    330,
+    221,
+    589,
+    240
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    253,
+    180,
+    270
+   ]
+  },
+  {
+   "text": "+36 20 619 4306",
+   "bbox": [
+    330,
+    254,
+    499,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    284,
+    177,
+    302
+   ]
+  },
+  {
+   "text": "H-2510 Bácsmellékkőrös, Székesfehérvári utca 104.",
+   "bbox": [
+    330,
+    284,
+    835,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    316,
+    275,
+    334
+   ]
+  },
+  {
+   "text": "1979. április 14.",
+   "bbox": [
+    330,
+    316,
+    487,
+    338
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    357,
+    395
+   ]
+  },
+  {
+   "text": "2001 – 2005",
+   "bbox": [
+    90,
+    422,
+    212,
+    438
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Major Zrt.",
+   "bbox": [
+    90,
+    447,
+    550,
+    470
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    499,
+    269,
+    525
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    552,
+    212,
+    568
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    577,
+    691,
+    600
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    90,
+    602,
+    324,
+    620
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    646,
+    212,
+    662
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    671,
+    373,
+    694
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    696,
+    339,
+    718
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    749,
+    236,
+    775
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    801,
+    212,
+    822
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    849,
+    225,
+    875
+   ]
+  },
+  {
+   "text": "Python, Linux, B kategóriás jogosítvány",
+   "bbox": [
+    90,
+    900,
+    473,
+    922
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

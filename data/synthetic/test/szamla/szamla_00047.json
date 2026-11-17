@@ -1,0 +1,759 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2026/02440",
+  "kiallitas_datuma": "2026. augusztus 25.",
+  "teljesites_datuma": "2026. augusztus 21.",
+  "fizetesi_hatarido": "2026. szeptember 2.",
+  "elado_nev": "Nagy Consulting Zrt.",
+  "elado_cim": "H-8951 Balatonmellékkőrös, Békéscsabai út 101.",
+  "elado_adoszam": "23871867-3-19",
+  "vevo_nev": "Molnár József",
+  "vevo_cim": "H-6100 Mosonmagyaróvár, Somogyi utca 50.",
+  "vevo_adoszam": null,
+  "bankszamla": "32783481-47147469",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "356 780 Ft",
+  "afa_osszesen": "92 767 Ft",
+  "brutto_osszesen": "449 547 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "3 db",
+    "egysegar": "68 630",
+    "netto": "205 890",
+    "afa_kulcs": "27%",
+    "afa": "55 590",
+    "brutto": "261 480"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "3 csomag",
+    "egysegar": "2 700",
+    "netto": "8 100",
+    "afa_kulcs": "27%",
+    "afa": "2 187",
+    "brutto": "10 287"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "10 410",
+    "netto": "10 410",
+    "afa_kulcs": "27%",
+    "afa": "2 811",
+    "brutto": "13 221"
+   },
+   {
+    "megnevezes": "Domain regisztráció",
+    "mennyiseg": "4 db",
+    "egysegar": "7 520",
+    "netto": "30 080",
+    "afa_kulcs": "27%",
+    "afa": "8 122",
+    "brutto": "38 202"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "3 óra",
+    "egysegar": "28 700",
+    "netto": "86 100",
+    "afa_kulcs": "27%",
+    "afa": "23 247",
+    "brutto": "109 347"
+   },
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "2 db",
+    "egysegar": "8 100",
+    "netto": "16 200",
+    "afa_kulcs": "5%",
+    "afa": "810",
+    "brutto": "17 010"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    389,
+    90,
+    850,
+    140
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/02440",
+   "bbox": [
+    411,
+    153,
+    829,
+    180
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    89,
+    233,
+    178,
+    254
+   ]
+  },
+  {
+   "text": "Nagy Consulting Zrt.",
+   "bbox": [
+    89,
+    273,
+    378,
+    299
+   ]
+  },
+  {
+   "text": "H-8951 Balatonmellékkőrös, Békéscsabai út",
+   "bbox": [
+    89,
+    309,
+    571,
+    333
+   ]
+  },
+  {
+   "text": "101.",
+   "bbox": [
+    89,
+    348,
+    133,
+    361
+   ]
+  },
+  {
+   "text": "Adószám: 23871867-3-19",
+   "bbox": [
+    88,
+    375,
+    370,
+    399
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    234,
+    708,
+    254
+   ]
+  },
+  {
+   "text": "Molnár József",
+   "bbox": [
+    630,
+    272,
+    830,
+    293
+   ]
+  },
+  {
+   "text": "H-6100 Mosonmagyaróvár, Somogyi utca 50.",
+   "bbox": [
+    630,
+    309,
+    1127,
+    333
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    89,
+    446,
+    312,
+    465
+   ]
+  },
+  {
+   "text": "2026. augusztus 25.",
+   "bbox": [
+    389,
+    447,
+    609,
+    470
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    89,
+    481,
+    325,
+    505
+   ]
+  },
+  {
+   "text": "2026. augusztus 21.",
+   "bbox": [
+    389,
+    482,
+    607,
+    505
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    89,
+    516,
+    315,
+    535
+   ]
+  },
+  {
+   "text": "2026. szeptember 2.",
+   "bbox": [
+    389,
+    516,
+    613,
+    540
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    89,
+    551,
+    261,
+    570
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    389,
+    551,
+    478,
+    570
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    89,
+    598,
+    227,
+    620
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    513,
+    599,
+    598,
+    620
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    645,
+    598,
+    748,
+    620
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    811,
+    598,
+    874,
+    615
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    869,
+    594,
+    938,
+    615
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    594,
+    1040,
+    615
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1076,
+    598,
+    1151,
+    615
+   ]
+  },
+  {
+   "text": "3 db",
+   "bbox": [
+    513,
+    642,
+    555,
+    663
+   ]
+  },
+  {
+   "text": "68 630",
+   "bbox": [
+    679,
+    643,
+    747,
+    663
+   ]
+  },
+  {
+   "text": "205 890",
+   "bbox": [
+    792,
+    643,
+    874,
+    663
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    643,
+    938,
+    663
+   ]
+  },
+  {
+   "text": "55 590",
+   "bbox": [
+    972,
+    647,
+    1039,
+    663
+   ]
+  },
+  {
+   "text": "261 480",
+   "bbox": [
+    1074,
+    643,
+    1151,
+    663
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    89,
+    642,
+    206,
+    663
+   ]
+  },
+  {
+   "text": "3 csomag",
+   "bbox": [
+    513,
+    685,
+    603,
+    702
+   ]
+  },
+  {
+   "text": "2 700",
+   "bbox": [
+    691,
+    685,
+    747,
+    701
+   ]
+  },
+  {
+   "text": "8 100",
+   "bbox": [
+    819,
+    681,
+    874,
+    697
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    681,
+    938,
+    701
+   ]
+  },
+  {
+   "text": "2 187",
+   "bbox": [
+    989,
+    681,
+    1040,
+    701
+   ]
+  },
+  {
+   "text": "10 287",
+   "bbox": [
+    1087,
+    681,
+    1152,
+    701
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    89,
+    680,
+    351,
+    702
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    513,
+    718,
+    552,
+    735
+   ]
+  },
+  {
+   "text": "10 410",
+   "bbox": [
+    684,
+    723,
+    747,
+    739
+   ]
+  },
+  {
+   "text": "10 410",
+   "bbox": [
+    811,
+    723,
+    874,
+    739
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    719,
+    938,
+    739
+   ]
+  },
+  {
+   "text": "2 811",
+   "bbox": [
+    991,
+    719,
+    1039,
+    735
+   ]
+  },
+  {
+   "text": "13 221",
+   "bbox": [
+    1092,
+    723,
+    1151,
+    739
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    89,
+    718,
+    216,
+    740
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    513,
+    756,
+    555,
+    777
+   ]
+  },
+  {
+   "text": "7 520",
+   "bbox": [
+    693,
+    761,
+    747,
+    777
+   ]
+  },
+  {
+   "text": "30 080",
+   "bbox": [
+    802,
+    757,
+    874,
+    777
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    757,
+    938,
+    777
+   ]
+  },
+  {
+   "text": "8 122",
+   "bbox": [
+    988,
+    757,
+    1039,
+    773
+   ]
+  },
+  {
+   "text": "38 202",
+   "bbox": [
+    1083,
+    757,
+    1151,
+    777
+   ]
+  },
+  {
+   "text": "Domain regisztráció",
+   "bbox": [
+    89,
+    756,
+    284,
+    778
+   ]
+  },
+  {
+   "text": "3 óra",
+   "bbox": [
+    513,
+    794,
+    562,
+    815
+   ]
+  },
+  {
+   "text": "28 700",
+   "bbox": [
+    678,
+    795,
+    747,
+    815
+   ]
+  },
+  {
+   "text": "86 100",
+   "bbox": [
+    807,
+    795,
+    874,
+    811
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    897,
+    795,
+    938,
+    815
+   ]
+  },
+  {
+   "text": "23 247",
+   "bbox": [
+    975,
+    799,
+    1040,
+    815
+   ]
+  },
+  {
+   "text": "109 347",
+   "bbox": [
+    1076,
+    799,
+    1152,
+    815
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    89,
+    794,
+    203,
+    811
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    513,
+    832,
+    555,
+    849
+   ]
+  },
+  {
+   "text": "8 100",
+   "bbox": [
+    692,
+    833,
+    747,
+    849
+   ]
+  },
+  {
+   "text": "16 200",
+   "bbox": [
+    808,
+    833,
+    874,
+    849
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    908,
+    833,
+    938,
+    853
+   ]
+  },
+  {
+   "text": "810",
+   "bbox": [
+    1003,
+    833,
+    1039,
+    849
+   ]
+  },
+  {
+   "text": "17 010",
+   "bbox": [
+    1089,
+    837,
+    1151,
+    853
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    89,
+    832,
+    355,
+    854
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    890,
+    821,
+    910
+   ]
+  },
+  {
+   "text": "356 780 Ft",
+   "bbox": [
+    1026,
+    892,
+    1151,
+    915
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    656,
+    925,
+    821,
+    949
+   ]
+  },
+  {
+   "text": "92 767 Ft",
+   "bbox": [
+    1043,
+    931,
+    1151,
+    954
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    583,
+    968,
+    821,
+    994
+   ]
+  },
+  {
+   "text": "449 547 Ft",
+   "bbox": [
+    1012,
+    970,
+    1152,
+    993
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 32783481-47147469",
+   "bbox": [
+    89,
+    1038,
+    501,
+    1060
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    462,
+    1645,
+    777,
+    1664
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

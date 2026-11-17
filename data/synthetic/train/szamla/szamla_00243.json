@@ -1,0 +1,536 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2026/01218",
+  "kiallitas_datuma": "2026. 12. 26.",
+  "teljesites_datuma": "2026. 12. 21.",
+  "fizetesi_hatarido": "2026. 12. 09.",
+  "elado_nev": "Simon Zrt.",
+  "elado_cim": "H-4507 Kunhalas, Fai utca 173.",
+  "elado_adoszam": "53297783-2-36",
+  "vevo_nev": "Pintér Dominik",
+  "vevo_cim": "H-1660 Mártonháza, Szabadság tér 239.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU95 2683 3484 2465 3074 5197 2294",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "362 770 Ft",
+  "afa_osszesen": "58 238 Ft",
+  "brutto_osszesen": "421 008 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "152 170",
+    "netto": "152 170",
+    "afa_kulcs": "27%",
+    "afa": "41 086",
+    "brutto": "193 256"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "2 óra",
+    "egysegar": "15 050",
+    "netto": "30 100",
+    "afa_kulcs": "27%",
+    "afa": "8 127",
+    "brutto": "38 227"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "10 év",
+    "egysegar": "18 050",
+    "netto": "180 500",
+    "afa_kulcs": "5%",
+    "afa": "9 025",
+    "brutto": "189 525"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON",
+   "bbox": [
+    119,
+    115,
+    198,
+    132
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1023,
+    97,
+    1161,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2026/01218",
+   "bbox": [
+    901,
+    153,
+    1161,
+    169
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    79,
+    232,
+    145,
+    249
+   ]
+  },
+  {
+   "text": "Simon Zrt.",
+   "bbox": [
+    79,
+    267,
+    187,
+    283
+   ]
+  },
+  {
+   "text": "H-4507 Kunhalas, Fai utca 173.",
+   "bbox": [
+    79,
+    299,
+    360,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 53297783-2-36",
+   "bbox": [
+    78,
+    327,
+    309,
+    342
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    232,
+    689,
+    249
+   ]
+  },
+  {
+   "text": "Pintér Dominik",
+   "bbox": [
+    630,
+    266,
+    785,
+    283
+   ]
+  },
+  {
+   "text": "H-1660 Mártonháza, Szabadság tér 239.",
+   "bbox": [
+    630,
+    299,
+    993,
+    318
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    79,
+    393,
+    241,
+    408
+   ]
+  },
+  {
+   "text": "2026. 12. 26.",
+   "bbox": [
+    379,
+    393,
+    497,
+    408
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    79,
+    423,
+    255,
+    442
+   ]
+  },
+  {
+   "text": "2026. 12. 21.",
+   "bbox": [
+    379,
+    423,
+    497,
+    438
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    79,
+    453,
+    245,
+    468
+   ]
+  },
+  {
+   "text": "2026. 12. 09.",
+   "bbox": [
+    379,
+    453,
+    497,
+    468
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    79,
+    483,
+    208,
+    498
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    379,
+    483,
+    463,
+    502
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    79,
+    525,
+    176,
+    540
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    525,
+    568,
+    540
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    675,
+    525,
+    749,
+    540
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    836,
+    525,
+    879,
+    537
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    895,
+    522,
+    944,
+    537
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    522,
+    1048,
+    537
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1110,
+    525,
+    1161,
+    537
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    511,
+    564,
+    543,
+    576
+   ]
+  },
+  {
+   "text": "152 170",
+   "bbox": [
+    690,
+    564,
+    749,
+    576
+   ]
+  },
+  {
+   "text": "152 170",
+   "bbox": [
+    820,
+    564,
+    879,
+    576
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    564,
+    944,
+    576
+   ]
+  },
+  {
+   "text": "41 086",
+   "bbox": [
+    997,
+    564,
+    1047,
+    576
+   ]
+  },
+  {
+   "text": "193 256",
+   "bbox": [
+    1102,
+    564,
+    1161,
+    576
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    79,
+    563,
+    296,
+    579
+   ]
+  },
+  {
+   "text": "2 óra",
+   "bbox": [
+    511,
+    597,
+    549,
+    609
+   ]
+  },
+  {
+   "text": "15 050",
+   "bbox": [
+    699,
+    597,
+    749,
+    609
+   ]
+  },
+  {
+   "text": "30 100",
+   "bbox": [
+    829,
+    597,
+    879,
+    609
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    597,
+    944,
+    609
+   ]
+  },
+  {
+   "text": "8 127",
+   "bbox": [
+    1006,
+    597,
+    1047,
+    609
+   ]
+  },
+  {
+   "text": "38 227",
+   "bbox": [
+    1111,
+    597,
+    1161,
+    609
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    79,
+    596,
+    313,
+    612
+   ]
+  },
+  {
+   "text": "10 év",
+   "bbox": [
+    511,
+    630,
+    552,
+    642
+   ]
+  },
+  {
+   "text": "18 050",
+   "bbox": [
+    699,
+    630,
+    749,
+    642
+   ]
+  },
+  {
+   "text": "180 500",
+   "bbox": [
+    820,
+    630,
+    879,
+    642
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    920,
+    630,
+    944,
+    642
+   ]
+  },
+  {
+   "text": "9 025",
+   "bbox": [
+    1006,
+    630,
+    1047,
+    642
+   ]
+  },
+  {
+   "text": "189 525",
+   "bbox": [
+    1102,
+    630,
+    1161,
+    642
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    79,
+    629,
+    286,
+    645
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    676,
+    684,
+    831,
+    699
+   ]
+  },
+  {
+   "text": "362 770 Ft",
+   "bbox": [
+    1058,
+    684,
+    1161,
+    699
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    685,
+    714,
+    831,
+    733
+   ]
+  },
+  {
+   "text": "58 238 Ft",
+   "bbox": [
+    1070,
+    718,
+    1161,
+    733
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    621,
+    751,
+    831,
+    767
+   ]
+  },
+  {
+   "text": "421 008 Ft",
+   "bbox": [
+    1057,
+    752,
+    1161,
+    767
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU95 2683 3484 2465 3074 5197 2294",
+   "bbox": [
+    79,
+    815,
+    587,
+    829
+   ]
+  }
+ ],
+ "errors": [
+  "fizetesi_hatarido"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szücs Zoltán",
+  "email": "szucs.zoltan@example.hu",
+  "telefon": "+36 70 736 4244",
+  "lakcim": "H-8873 Bánya, Balatonligeti utca 56.",
+  "szuletesi_datum": "2003.10.26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2023 – 2027"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2019 – 2023"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Bt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2030 – jelenleg"
+   },
+   {
+    "ceg": "Balla Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Kiss Trade Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2027 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "B kategóriás jogosítvány",
+   "Python",
+   "projektmenedzsment",
+   "csapatmunka",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    111,
+    209,
+    130
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    157,
+    92,
+    169
+   ]
+  },
+  {
+   "text": "szucs.zoltan@example.hu",
+   "bbox": [
+    40,
+    178,
+    229,
+    195
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    211,
+    98,
+    223
+   ]
+  },
+  {
+   "text": "+36 70 736 4244",
+   "bbox": [
+    40,
+    233,
+    164,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    264,
+    99,
+    277
+   ]
+  },
+  {
+   "text": "H-8873 Bánya, Balatonligeti utca 56.",
+   "bbox": [
+    40,
+    286,
+    312,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    318,
+    162,
+    331
+   ]
+  },
+  {
+   "text": "2003.10.26.",
+   "bbox": [
+    40,
+    341,
+    127,
+    353
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    399,
+    193,
+    418
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    440,
+    123,
+    457
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    493,
+    176,
+    512
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    534,
+    143,
+    551
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    560,
+    230,
+    577
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    586,
+    96,
+    603
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    39,
+    612,
+    199,
+    629
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    638,
+    140,
+    655
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    664,
+    119,
+    681
+   ]
+  },
+  {
+   "text": "Szücs Zoltán",
+   "bbox": [
+    450,
+    119,
+    690,
+    151
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    187,
+    637,
+    209
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    250,
+    656,
+    271
+   ]
+  },
+  {
+   "text": "2030 – jelenleg",
+   "bbox": [
+    450,
+    298,
+    575,
+    316
+   ]
+  },
+  {
+   "text": "projektmenedzser – Nagy és Társa Bt.",
+   "bbox": [
+    450,
+    323,
+    792,
+    341
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    450,
+    362,
+    575,
+    380
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Balla Szolgáltató Kft.",
+   "bbox": [
+    450,
+    387,
+    848,
+    405
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    426,
+    575,
+    444
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kiss Trade Bt.",
+   "bbox": [
+    450,
+    451,
+    782,
+    469
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    502,
+    594,
+    523
+   ]
+  },
+  {
+   "text": "2023 – 2027",
+   "bbox": [
+    450,
+    551,
+    550,
+    564
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    575,
+    624,
+    593
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    598,
+    581,
+    616
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    450,
+    639,
+    550,
+    652
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    663,
+    732,
+    681
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    686,
+    610,
+    704
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

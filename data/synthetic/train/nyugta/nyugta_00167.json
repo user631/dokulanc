@@ -1,0 +1,308 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "NÉMETH CSEMEGE BT.",
+  "uzlet_cim": "H-5025 Pusztahátnádasd, Mezőtamásii utca 209.",
+  "adoszam": "63181452-2-28",
+  "datum": "2025.08.28.",
+  "ido": "17:33",
+  "nyugtaszam": "1124/73285",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 517 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "674"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "491"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1004"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "313"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6693"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "342"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH CSEMEGE BT.",
+   "bbox": [
+    146,
+    31,
+    381,
+    49
+   ]
+  },
+  {
+   "text": "H-5025 Pusztahátnádasd, Mezőtamásii utca",
+   "bbox": [
+    44,
+    65,
+    484,
+    80
+   ]
+  },
+  {
+   "text": "209.",
+   "bbox": [
+    242,
+    90,
+    286,
+    101
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 63181452-2-28",
+   "bbox": [
+    143,
+    111,
+    385,
+    125
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    221,
+    154,
+    307,
+    168
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    194,
+    132,
+    207
+   ]
+  },
+  {
+   "text": "674 B00",
+   "bbox": [
+    421,
+    194,
+    505,
+    207
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    223,
+    192,
+    235
+   ]
+  },
+  {
+   "text": "491 B00",
+   "bbox": [
+    421,
+    222,
+    505,
+    235
+   ]
+  },
+  {
+   "text": "2 DB x 502",
+   "bbox": [
+    24,
+    250,
+    124,
+    261
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    272,
+    156,
+    285
+   ]
+  },
+  {
+   "text": "1004 B00",
+   "bbox": [
+    409,
+    272,
+    505,
+    285
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    300,
+    192,
+    313
+   ]
+  },
+  {
+   "text": "313 C00",
+   "bbox": [
+    421,
+    300,
+    505,
+    313
+   ]
+  },
+  {
+   "text": "3 DB x 2231",
+   "bbox": [
+    24,
+    328,
+    134,
+    339
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    350,
+    252,
+    363
+   ]
+  },
+  {
+   "text": "6693 B00",
+   "bbox": [
+    409,
+    350,
+    505,
+    363
+   ]
+  },
+  {
+   "text": "2 DB x 171",
+   "bbox": [
+    24,
+    378,
+    124,
+    389
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    400,
+    192,
+    416
+   ]
+  },
+  {
+   "text": "342 B00",
+   "bbox": [
+    421,
+    400,
+    505,
+    413
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    438,
+    150,
+    456
+   ]
+  },
+  {
+   "text": "9 517 Ft",
+   "bbox": [
+    393,
+    441,
+    506,
+    456
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    475,
+    156,
+    491
+   ]
+  },
+  {
+   "text": "9 517 Ft",
+   "bbox": [
+    409,
+    478,
+    505,
+    491
+   ]
+  },
+  {
+   "text": "2025.08.28.",
+   "bbox": [
+    24,
+    520,
+    145,
+    531
+   ]
+  },
+  {
+   "text": "17:33",
+   "bbox": [
+    450,
+    520,
+    505,
+    531
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1124/73285",
+   "bbox": [
+    24,
+    545,
+    266,
+    560
+   ]
+  },
+  {
+   "text": "AP A87794627",
+   "bbox": [
+    24,
+    576,
+    156,
+    587
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    209,
+    614,
+    319,
+    628
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  529,
+  672
+ ]
+}

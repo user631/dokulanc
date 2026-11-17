@@ -1,0 +1,259 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS ABC KFT.",
+  "uzlet_cim": "H-1989 Pilishátvárad, Egeri utca 27.",
+  "adoszam": "81054550-2-12",
+  "datum": "2024.06.17.",
+  "ido": "18:27",
+  "nyugtaszam": "8840/87307",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "4 767 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1665"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "85"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1000"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "154"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1863"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS ABC KFT.",
+   "bbox": [
+    201,
+    35,
+    383,
+    49
+   ]
+  },
+  {
+   "text": "H-1989 Pilishátvárad, Egeri utca 27.",
+   "bbox": [
+    94,
+    63,
+    490,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81054550-2-12",
+   "bbox": [
+    171,
+    88,
+    413,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    247,
+    131,
+    337,
+    147
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    174,
+    154,
+    187
+   ]
+  },
+  {
+   "text": "1665 A00",
+   "bbox": [
+    456,
+    172,
+    560,
+    187
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    203,
+    102,
+    216
+   ]
+  },
+  {
+   "text": "85 A00",
+   "bbox": [
+    482,
+    201,
+    560,
+    216
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    232,
+    193,
+    245
+   ]
+  },
+  {
+   "text": "1000 A00",
+   "bbox": [
+    456,
+    230,
+    560,
+    245
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    259,
+    206,
+    277
+   ]
+  },
+  {
+   "text": "154 A00",
+   "bbox": [
+    469,
+    259,
+    560,
+    274
+   ]
+  },
+  {
+   "text": "3 DB x 621",
+   "bbox": [
+    24,
+    288,
+    134,
+    301
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    311,
+    232,
+    326
+   ]
+  },
+  {
+   "text": "1863 C00",
+   "bbox": [
+    456,
+    311,
+    560,
+    326
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    350,
+    174,
+    370
+   ]
+  },
+  {
+   "text": "4 767 Ft",
+   "bbox": [
+    440,
+    352,
+    560,
+    370
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    389,
+    154,
+    406
+   ]
+  },
+  {
+   "text": "4 767 Ft",
+   "bbox": [
+    456,
+    391,
+    560,
+    406
+   ]
+  },
+  {
+   "text": "2024.06.17.",
+   "bbox": [
+    24,
+    433,
+    145,
+    447
+   ]
+  },
+  {
+   "text": "18:27",
+   "bbox": [
+    505,
+    433,
+    560,
+    447
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8840/87307",
+   "bbox": [
+    24,
+    461,
+    266,
+    479
+   ]
+  },
+  {
+   "text": "AP A38180507",
+   "bbox": [
+    24,
+    491,
+    156,
+    505
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    160,
+    531,
+    424,
+    547
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  584,
+  592
+ ]
+}

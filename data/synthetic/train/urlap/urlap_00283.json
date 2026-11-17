@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Tóth Réka",
+  "anyja_neve": "Tóth József",
+  "szuletesi_hely": "Kecskemét",
+  "szuletesi_datum": "1968.11.12.",
+  "lakcim": "H-9428 Hida, Mátrakereszti tér 141.",
+  "telefon": "06 1 147 2841",
+  "email": "toth.reka@citromail.hu",
+  "adoazonosito_jel": "8372052417",
+  "taj_szam": "971 754 434",
+  "kelt": "Váchídbánya, 2026.12.23."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    395,
+    101,
+    844,
+    133
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    477,
+    157,
+    764,
+    174
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    212,
+    299,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    267,
+    151,
+    280
+   ]
+  },
+  {
+   "text": "Tóth Réka",
+   "bbox": [
+    444,
+    267,
+    542,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    112,
+    319,
+    210,
+    337
+   ]
+  },
+  {
+   "text": "Tóth József",
+   "bbox": [
+    444,
+    318,
+    554,
+    334
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    372,
+    232,
+    390
+   ]
+  },
+  {
+   "text": "Kecskemét",
+   "bbox": [
+    444,
+    373,
+    547,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    425,
+    223,
+    439
+   ]
+  },
+  {
+   "text": "1968.11.12.",
+   "bbox": [
+    444,
+    425,
+    558,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    478,
+    180,
+    492
+   ]
+  },
+  {
+   "text": "H-9428 Hida, Mátrakereszti tér 141.",
+   "bbox": [
+    444,
+    479,
+    783,
+    499
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    112,
+    531,
+    223,
+    545
+   ]
+  },
+  {
+   "text": "06 1 147 2841",
+   "bbox": [
+    444,
+    531,
+    582,
+    546
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    584,
+    210,
+    598
+   ]
+  },
+  {
+   "text": "toth.reka@citromail.hu",
+   "bbox": [
+    444,
+    581,
+    659,
+    602
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    112,
+    637,
+    256,
+    655
+   ]
+  },
+  {
+   "text": "8372052417",
+   "bbox": [
+    444,
+    635,
+    564,
+    650
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    112,
+    691,
+    199,
+    704
+   ]
+  },
+  {
+   "text": "971 754 434",
+   "bbox": [
+    444,
+    693,
+    564,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    770,
+    265,
+    790
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    814,
+    431,
+    832
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    859,
+    282,
+    873
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    145,
+    904,
+    448,
+    922
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    1006,
+    142,
+    1021
+   ]
+  },
+  {
+   "text": "Váchídbánya, 2026.12.23.",
+   "bbox": [
+    190,
+    1003,
+    439,
+    1024
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    926,
+    1056,
+    973,
+    1068
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

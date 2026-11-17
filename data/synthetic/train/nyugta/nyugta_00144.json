@@ -1,0 +1,431 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "LAKATOS DISZKONT BT.",
+  "uzlet_cim": "H-5070 Cegléd, Tiszaháti utca 93.",
+  "adoszam": "88541451-2-10",
+  "datum": "2026.07.18.",
+  "ido": "12:54",
+  "nyugtaszam": "3520/06721",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 674 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1269"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1849"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "491"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "1901"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "883"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "336"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "340"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "755"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1473"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "582"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "925"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "870"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS DISZKONT BT.",
+   "bbox": [
+    157,
+    36,
+    437,
+    50
+   ]
+  },
+  {
+   "text": "H-5070 Cegléd, Tiszaháti utca 93.",
+   "bbox": [
+    99,
+    68,
+    495,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 88541451-2-10",
+   "bbox": [
+    165,
+    91,
+    429,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    137,
+    346,
+    152
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    179,
+    154,
+    193
+   ]
+  },
+  {
+   "text": "1269 A00",
+   "bbox": [
+    466,
+    179,
+    570,
+    193
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    210,
+    154,
+    223
+   ]
+  },
+  {
+   "text": "1849 C00",
+   "bbox": [
+    466,
+    209,
+    570,
+    223
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    239,
+    141,
+    253
+   ]
+  },
+  {
+   "text": "491 C00",
+   "bbox": [
+    479,
+    239,
+    570,
+    253
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    269,
+    141,
+    283
+   ]
+  },
+  {
+   "text": "1901 C00",
+   "bbox": [
+    466,
+    269,
+    570,
+    283
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    299,
+    219,
+    313
+   ]
+  },
+  {
+   "text": "883 B00",
+   "bbox": [
+    479,
+    299,
+    570,
+    313
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    329,
+    167,
+    346
+   ]
+  },
+  {
+   "text": "336 A00",
+   "bbox": [
+    479,
+    329,
+    570,
+    343
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    359,
+    206,
+    373
+   ]
+  },
+  {
+   "text": "340 B00",
+   "bbox": [
+    479,
+    359,
+    570,
+    373
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    389,
+    232,
+    403
+   ]
+  },
+  {
+   "text": "755 B00",
+   "bbox": [
+    479,
+    389,
+    570,
+    403
+   ]
+  },
+  {
+   "text": "3 DB x 491",
+   "bbox": [
+    24,
+    418,
+    134,
+    430
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    443,
+    167,
+    457
+   ]
+  },
+  {
+   "text": "1473 A00",
+   "bbox": [
+    466,
+    443,
+    570,
+    457
+   ]
+  },
+  {
+   "text": "3 DB x 194",
+   "bbox": [
+    24,
+    472,
+    134,
+    484
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    497,
+    206,
+    514
+   ]
+  },
+  {
+   "text": "582 B00",
+   "bbox": [
+    479,
+    497,
+    570,
+    511
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    527,
+    128,
+    541
+   ]
+  },
+  {
+   "text": "925 B00",
+   "bbox": [
+    479,
+    527,
+    570,
+    541
+   ]
+  },
+  {
+   "text": "3 DB x 290",
+   "bbox": [
+    24,
+    556,
+    134,
+    568
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    582,
+    194,
+    595
+   ]
+  },
+  {
+   "text": "870 C00",
+   "bbox": [
+    479,
+    581,
+    570,
+    595
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    620,
+    168,
+    640
+   ]
+  },
+  {
+   "text": "11 674 Ft",
+   "bbox": [
+    426,
+    624,
+    570,
+    640
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    660,
+    155,
+    677
+   ]
+  },
+  {
+   "text": "11 674 Ft",
+   "bbox": [
+    453,
+    663,
+    570,
+    677
+   ]
+  },
+  {
+   "text": "2026.07.18.",
+   "bbox": [
+    24,
+    706,
+    156,
+    719
+   ]
+  },
+  {
+   "text": "12:54",
+   "bbox": [
+    510,
+    706,
+    570,
+    719
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3520/06721",
+   "bbox": [
+    24,
+    733,
+    288,
+    751
+   ]
+  },
+  {
+   "text": "AP A38696854",
+   "bbox": [
+    24,
+    766,
+    168,
+    779
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    198,
+    806,
+    394,
+    822
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  594,
+  866
+ ]
+}

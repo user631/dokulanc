@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Varga László",
+  "anyja_neve": "Juhász Zoltán",
+  "szuletesi_hely": "Veszprém",
+  "szuletesi_datum": "1964.07.26.",
+  "lakcim": "H-3078 Vác, Pusztatapolcai utca 140.",
+  "telefon": "06 1 963 1288",
+  "email": "varga.laszlo@outlook.com",
+  "adoazonosito_jel": "8356351049",
+  "taj_szam": "289 834 909",
+  "kelt": "Baja, 2024.11.25."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    440,
+    98,
+    801,
+    130
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    211,
+    303,
+    231
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    269,
+    152,
+    283
+   ]
+  },
+  {
+   "text": "Varga László",
+   "bbox": [
+    402,
+    265,
+    603,
+    295
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    323,
+    212,
+    341
+   ]
+  },
+  {
+   "text": "Juhász Zoltán",
+   "bbox": [
+    398,
+    318,
+    617,
+    348
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    377,
+    234,
+    395
+   ]
+  },
+  {
+   "text": "Veszprém",
+   "bbox": [
+    402,
+    372,
+    541,
+    401
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    431,
+    225,
+    445
+   ]
+  },
+  {
+   "text": "1964.07.26.",
+   "bbox": [
+    402,
+    432,
+    573,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    485,
+    179,
+    499
+   ]
+  },
+  {
+   "text": "H-3078 Vác, Pusztatapolcai utca 140.",
+   "bbox": [
+    402,
+    478,
+    958,
+    508
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    539,
+    225,
+    553
+   ]
+  },
+  {
+   "text": "06 1 963 1288",
+   "bbox": [
+    402,
+    539,
+    609,
+    558
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    593,
+    208,
+    607
+   ]
+  },
+  {
+   "text": "varga.laszlo@outlook.com",
+   "bbox": [
+    402,
+    589,
+    798,
+    619
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    647,
+    260,
+    665
+   ]
+  },
+  {
+   "text": "8356351049",
+   "bbox": [
+    402,
+    646,
+    582,
+    666
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    701,
+    196,
+    715
+   ]
+  },
+  {
+   "text": "289 834 909",
+   "bbox": [
+    402,
+    702,
+    582,
+    722
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    779,
+    263,
+    799
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    826,
+    440,
+    844
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    871,
+    284,
+    885
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    916,
+    458,
+    934
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    1018,
+    141,
+    1033
+   ]
+  },
+  {
+   "text": "Baja, 2024.11.25.",
+   "bbox": [
+    191,
+    1018,
+    422,
+    1045
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1068,
+    973,
+    1080
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

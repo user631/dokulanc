@@ -1,0 +1,414 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "JUHÁSZ KISBOLT BT.",
+  "uzlet_cim": "H-7629 Eger, Mártonhalasi utca 138.",
+  "adoszam": "56000584-5-42",
+  "datum": "2026.04.01.",
+  "ido": "14:21",
+  "nyugtaszam": "7408/42848",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 630 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2308"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1335"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "423"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "884"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1312"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "94"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1644"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "549"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2598"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "483"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "JUHÁSZ KISBOLT BT.",
+   "bbox": [
+    171,
+    28,
+    405,
+    48
+   ]
+  },
+  {
+   "text": "H-7629 Eger, Mártonhalasi utca 138.",
+   "bbox": [
+    113,
+    65,
+    463,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 56000584-5-42",
+   "bbox": [
+    178,
+    88,
+    398,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    246,
+    130,
+    330,
+    146
+   ]
+  },
+  {
+   "text": "2 DB x 1154",
+   "bbox": [
+    24,
+    173,
+    134,
+    184
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    196,
+    204,
+    209
+   ]
+  },
+  {
+   "text": "2308 B00",
+   "bbox": [
+    456,
+    196,
+    552,
+    209
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    225,
+    144,
+    238
+   ]
+  },
+  {
+   "text": "1335 C00",
+   "bbox": [
+    456,
+    225,
+    552,
+    238
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    254,
+    192,
+    267
+   ]
+  },
+  {
+   "text": "423 A00",
+   "bbox": [
+    468,
+    254,
+    552,
+    267
+   ]
+  },
+  {
+   "text": "2 DB x 442",
+   "bbox": [
+    24,
+    283,
+    124,
+    294
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    306,
+    192,
+    319
+   ]
+  },
+  {
+   "text": "884 B00",
+   "bbox": [
+    468,
+    306,
+    552,
+    319
+   ]
+  },
+  {
+   "text": "2 DB x 656",
+   "bbox": [
+    24,
+    335,
+    124,
+    346
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    358,
+    216,
+    371
+   ]
+  },
+  {
+   "text": "1312 A00",
+   "bbox": [
+    456,
+    358,
+    552,
+    371
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    387,
+    96,
+    400
+   ]
+  },
+  {
+   "text": "94 C00",
+   "bbox": [
+    480,
+    387,
+    552,
+    400
+   ]
+  },
+  {
+   "text": "3 DB x 548",
+   "bbox": [
+    24,
+    416,
+    124,
+    427
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    439,
+    120,
+    452
+   ]
+  },
+  {
+   "text": "1644 A00",
+   "bbox": [
+    456,
+    439,
+    552,
+    452
+   ]
+  },
+  {
+   "text": "3 DB x 183",
+   "bbox": [
+    24,
+    468,
+    124,
+    479
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    491,
+    192,
+    508
+   ]
+  },
+  {
+   "text": "549 A00",
+   "bbox": [
+    468,
+    491,
+    552,
+    504
+   ]
+  },
+  {
+   "text": "3 DB x 866",
+   "bbox": [
+    24,
+    520,
+    124,
+    531
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    543,
+    168,
+    556
+   ]
+  },
+  {
+   "text": "2598 C00",
+   "bbox": [
+    456,
+    543,
+    552,
+    556
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    572,
+    156,
+    585
+   ]
+  },
+  {
+   "text": "483 C00",
+   "bbox": [
+    468,
+    572,
+    552,
+    585
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    608,
+    164,
+    629
+   ]
+  },
+  {
+   "text": "11 630 Ft",
+   "bbox": [
+    426,
+    613,
+    552,
+    629
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    648,
+    144,
+    665
+   ]
+  },
+  {
+   "text": "11 630 Ft",
+   "bbox": [
+    444,
+    652,
+    552,
+    665
+   ]
+  },
+  {
+   "text": "2026.04.01.",
+   "bbox": [
+    24,
+    695,
+    134,
+    707
+   ]
+  },
+  {
+   "text": "14:21",
+   "bbox": [
+    502,
+    695,
+    552,
+    707
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7408/42848",
+   "bbox": [
+    24,
+    721,
+    244,
+    738
+   ]
+  },
+  {
+   "text": "AP A50641038",
+   "bbox": [
+    24,
+    753,
+    144,
+    765
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    167,
+    789,
+    409,
+    806
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  576,
+  852
+ ]
+}

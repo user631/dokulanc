@@ -1,0 +1,678 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/04006",
+  "kiallitas_datuma": "2025.02.02.",
+  "teljesites_datuma": "2025.01.28.",
+  "fizetesi_hatarido": "2025.02.17.",
+  "elado_nev": "Kovács és Társa Zrt.",
+  "elado_cim": "H-5949 Cegléd, Szombathelyi utca 115.",
+  "elado_adoszam": "10177273-2-36",
+  "vevo_nev": "Tóth Tamás",
+  "vevo_cim": "H-9406 Szombathely, Keresztfalui út 197.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU14 7825 4860 4340 1497 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "117 460 Ft",
+  "afa_osszesen": "31 340 Ft",
+  "brutto_osszesen": "148 800 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 840",
+    "netto": "2 840",
+    "afa_kulcs": "27%",
+    "afa": "767",
+    "brutto": "3 607"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "102 220",
+    "netto": "102 220",
+    "afa_kulcs": "27%",
+    "afa": "27 599",
+    "brutto": "129 819"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "1 db",
+    "egysegar": "2 390",
+    "netto": "2 390",
+    "afa_kulcs": "27%",
+    "afa": "645",
+    "brutto": "3 035"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "4 160",
+    "netto": "4 160",
+    "afa_kulcs": "18%",
+    "afa": "749",
+    "brutto": "4 909"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 850",
+    "netto": "5 850",
+    "afa_kulcs": "27%",
+    "afa": "1 580",
+    "brutto": "7 430"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    542,
+    104,
+    698,
+    137
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/04006",
+   "bbox": [
+    419,
+    161,
+    821,
+    181
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    95,
+    241,
+    170,
+    261
+   ]
+  },
+  {
+   "text": "Tóth Tamás",
+   "bbox": [
+    96,
+    280,
+    250,
+    300
+   ]
+  },
+  {
+   "text": "H-9406 Szombathely, Keresztfalui út 197.",
+   "bbox": [
+    96,
+    317,
+    563,
+    340
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    241,
+    714,
+    261
+   ]
+  },
+  {
+   "text": "Kovács és Társa Zrt.",
+   "bbox": [
+    630,
+    280,
+    899,
+    300
+   ]
+  },
+  {
+   "text": "H-5949 Cegléd, Szombathelyi utca 115.",
+   "bbox": [
+    630,
+    317,
+    1077,
+    340
+   ]
+  },
+  {
+   "text": "Adószám: 10177273-2-36",
+   "bbox": [
+    629,
+    350,
+    920,
+    368
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    96,
+    419,
+    295,
+    439
+   ]
+  },
+  {
+   "text": "2025.02.02.",
+   "bbox": [
+    396,
+    421,
+    529,
+    439
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    96,
+    454,
+    313,
+    479
+   ]
+  },
+  {
+   "text": "2025.01.28.",
+   "bbox": [
+    396,
+    456,
+    529,
+    474
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    96,
+    489,
+    301,
+    509
+   ]
+  },
+  {
+   "text": "2025.02.17.",
+   "bbox": [
+    396,
+    491,
+    529,
+    509
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    96,
+    524,
+    255,
+    544
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    396,
+    526,
+    520,
+    549
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    571,
+    223,
+    592
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    572,
+    589,
+    592
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    647,
+    571,
+    745,
+    592
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    571,
+    871,
+    588
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    869,
+    568,
+    934,
+    589
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    988,
+    568,
+    1033,
+    588
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1079,
+    571,
+    1144,
+    588
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    616,
+    609,
+    636
+   ]
+  },
+  {
+   "text": "2 840",
+   "bbox": [
+    691,
+    616,
+    745,
+    632
+   ]
+  },
+  {
+   "text": "2 840",
+   "bbox": [
+    817,
+    616,
+    871,
+    632
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    616,
+    934,
+    632
+   ]
+  },
+  {
+   "text": "767",
+   "bbox": [
+    997,
+    616,
+    1033,
+    632
+   ]
+  },
+  {
+   "text": "3 607",
+   "bbox": [
+    1090,
+    616,
+    1144,
+    632
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    96,
+    616,
+    348,
+    636
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    654,
+    557,
+    670
+   ]
+  },
+  {
+   "text": "102 220",
+   "bbox": [
+    667,
+    654,
+    745,
+    670
+   ]
+  },
+  {
+   "text": "102 220",
+   "bbox": [
+    793,
+    654,
+    871,
+    670
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    654,
+    934,
+    670
+   ]
+  },
+  {
+   "text": "27 599",
+   "bbox": [
+    967,
+    654,
+    1033,
+    670
+   ]
+  },
+  {
+   "text": "129 819",
+   "bbox": [
+    1066,
+    654,
+    1144,
+    670
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    96,
+    654,
+    206,
+    670
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    692,
+    557,
+    708
+   ]
+  },
+  {
+   "text": "2 390",
+   "bbox": [
+    691,
+    692,
+    745,
+    708
+   ]
+  },
+  {
+   "text": "2 390",
+   "bbox": [
+    817,
+    692,
+    871,
+    708
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    692,
+    934,
+    708
+   ]
+  },
+  {
+   "text": "645",
+   "bbox": [
+    997,
+    692,
+    1033,
+    708
+   ]
+  },
+  {
+   "text": "3 035",
+   "bbox": [
+    1090,
+    692,
+    1144,
+    708
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    96,
+    692,
+    268,
+    712
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    515,
+    730,
+    609,
+    750
+   ]
+  },
+  {
+   "text": "4 160",
+   "bbox": [
+    691,
+    730,
+    745,
+    746
+   ]
+  },
+  {
+   "text": "4 160",
+   "bbox": [
+    817,
+    730,
+    871,
+    746
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    890,
+    730,
+    934,
+    746
+   ]
+  },
+  {
+   "text": "749",
+   "bbox": [
+    997,
+    730,
+    1033,
+    746
+   ]
+  },
+  {
+   "text": "4 909",
+   "bbox": [
+    1090,
+    730,
+    1144,
+    746
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    96,
+    730,
+    274,
+    750
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    515,
+    768,
+    579,
+    784
+   ]
+  },
+  {
+   "text": "5 850",
+   "bbox": [
+    691,
+    768,
+    745,
+    784
+   ]
+  },
+  {
+   "text": "5 850",
+   "bbox": [
+    817,
+    768,
+    871,
+    784
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    768,
+    934,
+    784
+   ]
+  },
+  {
+   "text": "1 580",
+   "bbox": [
+    979,
+    768,
+    1033,
+    784
+   ]
+  },
+  {
+   "text": "7 430",
+   "bbox": [
+    1090,
+    768,
+    1144,
+    784
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    96,
+    768,
+    355,
+    788
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    631,
+    827,
+    814,
+    846
+   ]
+  },
+  {
+   "text": "117 460 Ft",
+   "bbox": [
+    1023,
+    827,
+    1145,
+    846
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    641,
+    860,
+    814,
+    885
+   ]
+  },
+  {
+   "text": "31 340 Ft",
+   "bbox": [
+    1037,
+    866,
+    1145,
+    885
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    670,
+    905,
+    814,
+    929
+   ]
+  },
+  {
+   "text": "148 800 Ft",
+   "bbox": [
+    1021,
+    905,
+    1144,
+    924
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU14 7825 4860 4340 1497 0000 0000",
+   "bbox": [
+    96,
+    974,
+    710,
+    991
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    96,
+    1007,
+    761,
+    1026
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

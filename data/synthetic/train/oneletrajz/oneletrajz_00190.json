@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss Marianna",
+  "email": "kiss.marianna@citromail.hu",
+  "telefon": "+36 30 790 4759",
+  "lakcim": "H-1920 Mátrahídvára, Mosonmagyaróvári utca 139.",
+  "szuletesi_datum": "1993.01.19.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szalai Trade Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "ceg": "Somogyi Szolgáltató Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2016 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Java",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss Marianna",
+   "bbox": [
+    471,
+    104,
+    768,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    168,
+    680,
+    196
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    159,
+    240
+   ]
+  },
+  {
+   "text": "kiss.marianna@citromail.hu",
+   "bbox": [
+    330,
+    225,
+    588,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    173,
+    271
+   ]
+  },
+  {
+   "text": "+36 30 790 4759",
+   "bbox": [
+    330,
+    256,
+    480,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    168,
+    302
+   ]
+  },
+  {
+   "text": "H-1920 Mátrahídvára, Mosonmagyaróvári utca 139.",
+   "bbox": [
+    330,
+    286,
+    802,
+    306
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    252,
+    333
+   ]
+  },
+  {
+   "text": "1993.01.19.",
+   "bbox": [
+    330,
+    318,
+    442,
+    333
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    320,
+    393
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    420,
+    198,
+    435
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szalai Trade Kft.",
+   "bbox": [
+    90,
+    444,
+    500,
+    466
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    90,
+    486,
+    198,
+    501
+   ]
+  },
+  {
+   "text": "értékesítő – Somogyi Szolgáltató Kft.",
+   "bbox": [
+    90,
+    510,
+    467,
+    532
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    562,
+    245,
+    586
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    613,
+    198,
+    628
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    637,
+    275,
+    659
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    662,
+    207,
+    682
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    704,
+    198,
+    719
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    728,
+    396,
+    750
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    753,
+    330,
+    773
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    805,
+    218,
+    829
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    856,
+    200,
+    875
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    903,
+    209,
+    927
+   ]
+  },
+  {
+   "text": "Git, Java, Linux",
+   "bbox": [
+    90,
+    954,
+    238,
+    973
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

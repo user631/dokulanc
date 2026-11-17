@@ -1,0 +1,354 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kovács János",
+  "email": "kovacs.janos@gmail.com",
+  "telefon": "+36 20 341 9600",
+  "lakcim": "H-5724 Tótharaszti, Hátkövesdi utca 28.",
+  "szuletesi_datum": "1990. 02. 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "2008 – 2012"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2018 – 2020"
+   },
+   {
+    "ceg": "Nagy Consulting Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2018"
+   },
+   {
+    "ceg": "Nagy Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2012 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "JavaScript",
+   "C#",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    90,
+    169,
+    108
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    87,
+    147
+   ]
+  },
+  {
+   "text": "kovacs.janos@gmail.com",
+   "bbox": [
+    40,
+    157,
+    226,
+    172
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    189,
+    97,
+    201
+   ]
+  },
+  {
+   "text": "+36 20 341 9600",
+   "bbox": [
+    40,
+    212,
+    160,
+    223
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    243,
+    93,
+    255
+   ]
+  },
+  {
+   "text": "H-5724 Tótharaszti, Hátkövesdi utca 28.",
+   "bbox": [
+    40,
+    265,
+    331,
+    280
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    297,
+    159,
+    309
+   ]
+  },
+  {
+   "text": "1990. 02. 10.",
+   "bbox": [
+    40,
+    320,
+    135,
+    331
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    378,
+    160,
+    396
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    419,
+    125,
+    435
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    445,
+    118,
+    461
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    498,
+    142,
+    516
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    540,
+    70,
+    554
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    565,
+    117,
+    581
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    592,
+    59,
+    604
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    617,
+    143,
+    633
+   ]
+  },
+  {
+   "text": "Kovács János",
+   "bbox": [
+    450,
+    93,
+    690,
+    124
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    164,
+    634,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    649,
+    247
+   ]
+  },
+  {
+   "text": "2018 – 2020",
+   "bbox": [
+    450,
+    277,
+    550,
+    290
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Takács Zrt.",
+   "bbox": [
+    449,
+    301,
+    690,
+    319
+   ]
+  },
+  {
+   "text": "2015 – 2018",
+   "bbox": [
+    450,
+    341,
+    550,
+    354
+   ]
+  },
+  {
+   "text": "adatelemző – Nagy Consulting Zrt.",
+   "bbox": [
+    450,
+    365,
+    745,
+    383
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    450,
+    405,
+    550,
+    418
+   ]
+  },
+  {
+   "text": "értékesítő – Nagy Logisztika Bt.",
+   "bbox": [
+    450,
+    429,
+    720,
+    447
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    479,
+    587,
+    499
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    450,
+    529,
+    550,
+    542
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    553,
+    894,
+    571
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    576,
+    653,
+    590
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    617,
+    550,
+    630
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    641,
+    669,
+    655
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    664,
+    614,
+    682
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

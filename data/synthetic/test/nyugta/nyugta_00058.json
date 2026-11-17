@@ -1,0 +1,255 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "MEZEI MARKET KFT.",
+  "uzlet_cim": "H-1695 Szerbmellékfalu, Petőfi utca 183.",
+  "adoszam": "73396585-2-37",
+  "datum": "2024.04.11.",
+  "ido": "13:05",
+  "nyugtaszam": "1883/57356",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "6 680 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "773"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "993"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "4482"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "432"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MEZEI MARKET KFT.",
+   "bbox": [
+    125,
+    35,
+    397,
+    51
+   ]
+  },
+  {
+   "text": "H-1695 Szerbmellékfalu, Petőfi utca",
+   "bbox": [
+    33,
+    67,
+    488,
+    87
+   ]
+  },
+  {
+   "text": "183.",
+   "bbox": [
+    235,
+    96,
+    287,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 73396585-2-37",
+   "bbox": [
+    118,
+    123,
+    404,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    210,
+    169,
+    312,
+    187
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    212,
+    234,
+    229
+   ]
+  },
+  {
+   "text": "773 A00",
+   "bbox": [
+    400,
+    212,
+    498,
+    229
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    244,
+    136,
+    261
+   ]
+  },
+  {
+   "text": "993 B00",
+   "bbox": [
+    400,
+    244,
+    498,
+    261
+   ]
+  },
+  {
+   "text": "3 DB x 1494",
+   "bbox": [
+    24,
+    276,
+    167,
+    291
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    302,
+    164,
+    319
+   ]
+  },
+  {
+   "text": "4482 A00",
+   "bbox": [
+    386,
+    302,
+    498,
+    319
+   ]
+  },
+  {
+   "text": "2 DB x 216",
+   "bbox": [
+    24,
+    334,
+    154,
+    349
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    360,
+    220,
+    381
+   ]
+  },
+  {
+   "text": "432 B00",
+   "bbox": [
+    400,
+    360,
+    498,
+    377
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    403,
+    194,
+    425
+   ]
+  },
+  {
+   "text": "6 680 Ft",
+   "bbox": [
+    362,
+    405,
+    498,
+    425
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    444,
+    136,
+    463
+   ]
+  },
+  {
+   "text": "6 680 Ft",
+   "bbox": [
+    386,
+    446,
+    498,
+    463
+   ]
+  },
+  {
+   "text": "2024.04.11.",
+   "bbox": [
+    24,
+    492,
+    167,
+    508
+   ]
+  },
+  {
+   "text": "13:05",
+   "bbox": [
+    433,
+    492,
+    498,
+    508
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1883/57356",
+   "bbox": [
+    24,
+    523,
+    310,
+    543
+   ]
+  },
+  {
+   "text": "AP A40858517",
+   "bbox": [
+    24,
+    556,
+    180,
+    572
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    107,
+    599,
+    415,
+    617
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  522,
+  662
+ ]
+}

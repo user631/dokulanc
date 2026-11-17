@@ -1,0 +1,332 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY DISZKONT BT.",
+  "uzlet_cim": "H-2166 Szolnok, Györgyfai utca 56.",
+  "adoszam": "38586914-3-43",
+  "datum": "2024.05.03.",
+  "ido": "13:55",
+  "nyugtaszam": "7904/46139",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 344 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3771"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3558"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "960"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2326"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "670"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "752"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "407"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY DISZKONT BT.",
+   "bbox": [
+    198,
+    34,
+    436,
+    49
+   ]
+  },
+  {
+   "text": "H-2166 Szolnok, Györgyfai utca 56.",
+   "bbox": [
+    113,
+    65,
+    521,
+    84
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 38586914-3-43",
+   "bbox": [
+    185,
+    90,
+    449,
+    106
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    135,
+    365,
+    151
+   ]
+  },
+  {
+   "text": "3 DB x 1257",
+   "bbox": [
+    24,
+    175,
+    145,
+    189
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    200,
+    154,
+    216
+   ]
+  },
+  {
+   "text": "3771 B00",
+   "bbox": [
+    507,
+    200,
+    611,
+    216
+   ]
+  },
+  {
+   "text": "3 DB x 1186",
+   "bbox": [
+    24,
+    229,
+    145,
+    243
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    254,
+    219,
+    270
+   ]
+  },
+  {
+   "text": "3558 A00",
+   "bbox": [
+    507,
+    254,
+    611,
+    270
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    284,
+    128,
+    300
+   ]
+  },
+  {
+   "text": "960 C00",
+   "bbox": [
+    520,
+    284,
+    611,
+    300
+   ]
+  },
+  {
+   "text": "2 DB x 1163",
+   "bbox": [
+    24,
+    313,
+    145,
+    327
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    340,
+    193,
+    354
+   ]
+  },
+  {
+   "text": "2326 B00",
+   "bbox": [
+    507,
+    338,
+    611,
+    354
+   ]
+  },
+  {
+   "text": "2 DB x 335",
+   "bbox": [
+    24,
+    367,
+    134,
+    381
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    392,
+    167,
+    411
+   ]
+  },
+  {
+   "text": "670 A00",
+   "bbox": [
+    520,
+    392,
+    611,
+    408
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    422,
+    232,
+    438
+   ]
+  },
+  {
+   "text": "752 C00",
+   "bbox": [
+    520,
+    422,
+    611,
+    438
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    452,
+    141,
+    468
+   ]
+  },
+  {
+   "text": "407 A00",
+   "bbox": [
+    520,
+    452,
+    611,
+    468
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    492,
+    184,
+    513
+   ]
+  },
+  {
+   "text": "12 344 Ft",
+   "bbox": [
+    467,
+    494,
+    611,
+    513
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    533,
+    155,
+    550
+   ]
+  },
+  {
+   "text": "12 344 Ft",
+   "bbox": [
+    494,
+    534,
+    611,
+    550
+   ]
+  },
+  {
+   "text": "2024.05.03.",
+   "bbox": [
+    24,
+    578,
+    156,
+    592
+   ]
+  },
+  {
+   "text": "13:55",
+   "bbox": [
+    551,
+    578,
+    611,
+    592
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7904/46139",
+   "bbox": [
+    24,
+    606,
+    288,
+    625
+   ]
+  },
+  {
+   "text": "AP A50003660",
+   "bbox": [
+    24,
+    638,
+    168,
+    652
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    219,
+    678,
+    414,
+    695
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  635,
+  740
+ ]
+}

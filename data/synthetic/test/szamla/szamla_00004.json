@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "E-2026/04591",
+  "kiallitas_datuma": "2026-07-30",
+  "teljesites_datuma": "2026-07-26",
+  "fizetesi_hatarido": "2026-08-29",
+  "elado_nev": "Varga és Társa Bt.",
+  "elado_cim": "H-6375 Pusztamellékváros, Györgyfalui tér 196.",
+  "elado_adoszam": "10471436-5-38",
+  "vevo_nev": "Lukács Tech Zrt.",
+  "vevo_cim": "H-8402 Salgótarján, Györgydevecseri utca 63.",
+  "vevo_adoszam": "84942496-2-05",
+  "bankszamla": "29234248-00063850-73715373",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "849 340 Ft",
+  "afa_osszesen": "229 322 Ft",
+  "brutto_osszesen": "1 078 662 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "164 100",
+    "netto": "820 500",
+    "afa_kulcs": "27%",
+    "afa": "221 535",
+    "brutto": "1 042 035"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "28 840",
+    "netto": "28 840",
+    "afa_kulcs": "27%",
+    "afa": "7 787",
+    "brutto": "36 627"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    517,
+    107,
+    722,
+    153
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2026/04591",
+   "bbox": [
+    394,
+    172,
+    845,
+    198
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    106,
+    252,
+    193,
+    274
+   ]
+  },
+  {
+   "text": "Lukács Tech Zrt.",
+   "bbox": [
+    106,
+    291,
+    353,
+    313
+   ]
+  },
+  {
+   "text": "H-8402 Salgótarján, Györgydevecseri",
+   "bbox": [
+    106,
+    327,
+    584,
+    353
+   ]
+  },
+  {
+   "text": "utca 63.",
+   "bbox": [
+    106,
+    362,
+    210,
+    381
+   ]
+  },
+  {
+   "text": "Adószám: 84942496-2-05",
+   "bbox": [
+    106,
+    393,
+    437,
+    414
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    252,
+    724,
+    274
+   ]
+  },
+  {
+   "text": "Varga és Társa Bt.",
+   "bbox": [
+    630,
+    291,
+    906,
+    318
+   ]
+  },
+  {
+   "text": "H-6375 Pusztamellékváros,",
+   "bbox": [
+    630,
+    327,
+    976,
+    353
+   ]
+  },
+  {
+   "text": "Györgyfalui tér 196.",
+   "bbox": [
+    630,
+    360,
+    886,
+    386
+   ]
+  },
+  {
+   "text": "Adószám: 10471436-5-38",
+   "bbox": [
+    630,
+    393,
+    961,
+    414
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    106,
+    464,
+    310,
+    482
+   ]
+  },
+  {
+   "text": "2026-07-30",
+   "bbox": [
+    106,
+    497,
+    248,
+    515
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    363,
+    464,
+    586,
+    486
+   ]
+  },
+  {
+   "text": "2026-07-26",
+   "bbox": [
+    363,
+    497,
+    505,
+    515
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    464,
+    829,
+    482
+   ]
+  },
+  {
+   "text": "2026-08-29",
+   "bbox": [
+    620,
+    497,
+    762,
+    515
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    877,
+    464,
+    1034,
+    482
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    877,
+    496,
+    972,
+    515
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    106,
+    548,
+    258,
+    570
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    550,
+    607,
+    570
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    630,
+    548,
+    743,
+    570
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    797,
+    548,
+    866,
+    566
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    852,
+    544,
+    928,
+    566
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    978,
+    544,
+    1026,
+    566
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1055,
+    548,
+    1134,
+    566
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    517,
+    592,
+    566,
+    610
+   ]
+  },
+  {
+   "text": "164 100",
+   "bbox": [
+    651,
+    594,
+    743,
+    610
+   ]
+  },
+  {
+   "text": "820 500",
+   "bbox": [
+    774,
+    594,
+    866,
+    610
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    876,
+    594,
+    928,
+    610
+   ]
+  },
+  {
+   "text": "221 535",
+   "bbox": [
+    934,
+    594,
+    1026,
+    610
+   ]
+  },
+  {
+   "text": "1 042 035",
+   "bbox": [
+    1020,
+    594,
+    1134,
+    610
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    106,
+    592,
+    423,
+    614
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    517,
+    631,
+    624,
+    648
+   ]
+  },
+  {
+   "text": "28 840",
+   "bbox": [
+    665,
+    632,
+    743,
+    648
+   ]
+  },
+  {
+   "text": "28 840",
+   "bbox": [
+    788,
+    632,
+    866,
+    648
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    876,
+    632,
+    928,
+    648
+   ]
+  },
+  {
+   "text": "7 787",
+   "bbox": [
+    962,
+    632,
+    1026,
+    648
+   ]
+  },
+  {
+   "text": "36 627",
+   "bbox": [
+    1056,
+    632,
+    1134,
+    648
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    106,
+    630,
+    351,
+    652
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    595,
+    688,
+    804,
+    710
+   ]
+  },
+  {
+   "text": "849 340 Ft",
+   "bbox": [
+    989,
+    691,
+    1134,
+    710
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    614,
+    722,
+    804,
+    749
+   ]
+  },
+  {
+   "text": "229 322 Ft",
+   "bbox": [
+    989,
+    730,
+    1134,
+    749
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    640,
+    767,
+    804,
+    793
+   ]
+  },
+  {
+   "text": "1 078 662 Ft",
+   "bbox": [
+    952,
+    769,
+    1134,
+    788
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 29234248-00063850-73715373",
+   "bbox": [
+    106,
+    836,
+    713,
+    855
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    106,
+    868,
+    843,
+    889
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

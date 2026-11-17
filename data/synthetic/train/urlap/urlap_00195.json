@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Németh István",
+  "anyja_neve": "Horváth Attila",
+  "szuletesi_hely": "Mindszentfa",
+  "szuletesi_datum": "2004.02.29.",
+  "lakcim": "H-2777 Mellékhalas, Szegedi utca 176.",
+  "telefon": "+36 20 664 5475",
+  "email": "nemeth.istvan@gmail.com",
+  "adoazonosito_jel": "8500971932",
+  "taj_szam": "657 861 380",
+  "kelt": "Ózd, 2024.11.27."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    552,
+    103,
+    688,
+    125
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    495,
+    150,
+    745,
+    164
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    98,
+    202,
+    275,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    110,
+    257,
+    144,
+    269
+   ]
+  },
+  {
+   "text": "Németh István",
+   "bbox": [
+    407,
+    252,
+    579,
+    272
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    308,
+    194,
+    323
+   ]
+  },
+  {
+   "text": "Horváth Attila",
+   "bbox": [
+    407,
+    308,
+    580,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    110,
+    359,
+    212,
+    374
+   ]
+  },
+  {
+   "text": "Mindszentfa",
+   "bbox": [
+    407,
+    353,
+    549,
+    374
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    110,
+    410,
+    205,
+    422
+   ]
+  },
+  {
+   "text": "2004.02.29.",
+   "bbox": [
+    407,
+    412,
+    561,
+    429
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    110,
+    461,
+    166,
+    473
+   ]
+  },
+  {
+   "text": "H-2777 Mellékhalas, Szegedi utca 176.",
+   "bbox": [
+    407,
+    458,
+    880,
+    484
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    110,
+    512,
+    208,
+    524
+   ]
+  },
+  {
+   "text": "+36 20 664 5475",
+   "bbox": [
+    407,
+    512,
+    635,
+    529
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    110,
+    563,
+    191,
+    575
+   ]
+  },
+  {
+   "text": "nemeth.istvan@gmail.com",
+   "bbox": [
+    407,
+    561,
+    710,
+    587
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    614,
+    237,
+    629
+   ]
+  },
+  {
+   "text": "8500971932",
+   "bbox": [
+    407,
+    615,
+    577,
+    631
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    110,
+    665,
+    181,
+    677
+   ]
+  },
+  {
+   "text": "657 861 380",
+   "bbox": [
+    407,
+    666,
+    578,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    98,
+    740,
+    238,
+    758
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    143,
+    786,
+    397,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    143,
+    831,
+    262,
+    843
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    876,
+    411,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    98,
+    976,
+    132,
+    989
+   ]
+  },
+  {
+   "text": "Ózd, 2024.11.27.",
+   "bbox": [
+    188,
+    975,
+    380,
+    1000
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    932,
+    1026,
+    971,
+    1036
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

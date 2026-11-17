@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Nagy András",
+  "anyja_neve": "Kovács Ágnes",
+  "szuletesi_hely": "Szombathely",
+  "szuletesi_datum": "1995. 05. 20.",
+  "lakcim": "H-6490 Hátnémeti, Szenthídi utca 83.",
+  "telefon": "+36 30 322 4527",
+  "email": "nagy.andras@outlook.com",
+  "adoazonosito_jel": "8468905909",
+  "taj_szam": "796 872 467",
+  "kelt": "Dunamindszentdevecser, 2026. 06. 17."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    505,
+    99,
+    734,
+    135
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    467,
+    155,
+    772,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    210,
+    325,
+    234
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    265,
+    148,
+    280
+   ]
+  },
+  {
+   "text": "Nagy András",
+   "bbox": [
+    434,
+    260,
+    635,
+    290
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    106,
+    318,
+    213,
+    339
+   ]
+  },
+  {
+   "text": "Kovács Ágnes",
+   "bbox": [
+    434,
+    312,
+    635,
+    344
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    372,
+    236,
+    393
+   ]
+  },
+  {
+   "text": "Szombathely",
+   "bbox": [
+    434,
+    366,
+    622,
+    396
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    426,
+    227,
+    442
+   ]
+  },
+  {
+   "text": "1995. 05. 20.",
+   "bbox": [
+    434,
+    422,
+    623,
+    441
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    480,
+    175,
+    496
+   ]
+  },
+  {
+   "text": "H-6490 Hátnémeti, Szenthídi utca 83.",
+   "bbox": [
+    434,
+    472,
+    996,
+    502
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    534,
+    228,
+    550
+   ]
+  },
+  {
+   "text": "+36 30 322 4527",
+   "bbox": [
+    434,
+    533,
+    678,
+    554
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    588,
+    208,
+    604
+   ]
+  },
+  {
+   "text": "nagy.andras@outlook.com",
+   "bbox": [
+    434,
+    584,
+    838,
+    614
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    106,
+    642,
+    266,
+    663
+   ]
+  },
+  {
+   "text": "8468905909",
+   "bbox": [
+    434,
+    638,
+    614,
+    658
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    697,
+    198,
+    712
+   ]
+  },
+  {
+   "text": "796 872 467",
+   "bbox": [
+    434,
+    690,
+    615,
+    711
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    778,
+    281,
+    802
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    821,
+    462,
+    842
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    866,
+    286,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    139,
+    911,
+    482,
+    932
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    1016,
+    136,
+    1033
+   ]
+  },
+  {
+   "text": "Dunamindszentdevecser, 2026. 06. 17.",
+   "bbox": [
+    184,
+    1009,
+    702,
+    1038
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    931,
+    1065,
+    980,
+    1079
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

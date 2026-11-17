@@ -1,0 +1,246 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH ABC BT.",
+  "uzlet_cim": "H-7971 Kunligetnémeti, Bajai utca 23.",
+  "adoszam": "80092654-2-13",
+  "datum": "2024.09.07.",
+  "ido": "09:47",
+  "nyugtaszam": "7125/12405",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "3 740 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "503"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "431"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1902"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "904"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH ABC BT.",
+   "bbox": [
+    206,
+    31,
+    398,
+    52
+   ]
+  },
+  {
+   "text": "H-7971 Kunligetnémeti, Bajai utca 23.",
+   "bbox": [
+    61,
+    71,
+    542,
+    89
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 80092654-2-13",
+   "bbox": [
+    159,
+    96,
+    445,
+    113
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    144,
+    354,
+    160
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    187,
+    136,
+    202
+   ]
+  },
+  {
+   "text": "503 B00",
+   "bbox": [
+    482,
+    187,
+    580,
+    202
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    219,
+    220,
+    234
+   ]
+  },
+  {
+   "text": "431 B00",
+   "bbox": [
+    482,
+    219,
+    580,
+    234
+   ]
+  },
+  {
+   "text": "3 DB x 634",
+   "bbox": [
+    24,
+    251,
+    154,
+    264
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    277,
+    220,
+    292
+   ]
+  },
+  {
+   "text": "1902 A00",
+   "bbox": [
+    468,
+    277,
+    580,
+    292
+   ]
+  },
+  {
+   "text": "2 DB x 452",
+   "bbox": [
+    24,
+    309,
+    154,
+    322
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    336,
+    220,
+    350
+   ]
+  },
+  {
+   "text": "904 C00",
+   "bbox": [
+    482,
+    335,
+    580,
+    350
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    376,
+    194,
+    398
+   ]
+  },
+  {
+   "text": "3 740 Ft",
+   "bbox": [
+    444,
+    381,
+    580,
+    398
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    417,
+    179,
+    436
+   ]
+  },
+  {
+   "text": "3 740 Ft",
+   "bbox": [
+    468,
+    421,
+    580,
+    436
+   ]
+  },
+  {
+   "text": "2024.09.07.",
+   "bbox": [
+    24,
+    467,
+    167,
+    481
+   ]
+  },
+  {
+   "text": "09:47",
+   "bbox": [
+    515,
+    467,
+    580,
+    481
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7125/12405",
+   "bbox": [
+    24,
+    496,
+    310,
+    515
+   ]
+  },
+  {
+   "text": "AP A51298032",
+   "bbox": [
+    24,
+    531,
+    180,
+    545
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    148,
+    570,
+    456,
+    590
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  604,
+  634
+ ]
+}

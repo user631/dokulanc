@@ -1,0 +1,480 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2025/03360",
+  "kiallitas_datuma": "2025. október 1.",
+  "teljesites_datuma": "2025. szeptember 26.",
+  "fizetesi_hatarido": "2025. október 16.",
+  "elado_nev": "Németh Logisztika Kft.",
+  "elado_cim": "H-8938 Mezőszéknémeti, Bajai út 101.",
+  "elado_adoszam": "85925078-3-42",
+  "vevo_nev": "Tóth Szolgáltató Bt.",
+  "vevo_cim": "H-2139 Vác, Dózsa györgy utca 222.",
+  "vevo_adoszam": "35631699-2-27",
+  "bankszamla": "46883285-63922572",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "447 080 Ft",
+  "afa_osszesen": "120 251 Ft",
+  "brutto_osszesen": "567 331 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "12 év",
+    "egysegar": "36 830",
+    "netto": "441 960",
+    "afa_kulcs": "27%",
+    "afa": "119 329",
+    "brutto": "561 289"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "1 csomag",
+    "egysegar": "5 120",
+    "netto": "5 120",
+    "afa_kulcs": "18%",
+    "afa": "922",
+    "brutto": "6 042"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NÉMETH",
+   "bbox": [
+    135,
+    135,
+    228,
+    156
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    765,
+    120,
+    1138,
+    150
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/03360",
+   "bbox": [
+    901,
+    175,
+    1138,
+    193
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    102,
+    256,
+    166,
+    273
+   ]
+  },
+  {
+   "text": "Németh Logisztika Kft.",
+   "bbox": [
+    102,
+    290,
+    340,
+    312
+   ]
+  },
+  {
+   "text": "H-8938 Mezőszéknémeti, Bajai út 101.",
+   "bbox": [
+    102,
+    321,
+    444,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 85925078-3-42",
+   "bbox": [
+    102,
+    349,
+    319,
+    365
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    257,
+    689,
+    273
+   ]
+  },
+  {
+   "text": "Tóth Szolgáltató Bt.",
+   "bbox": [
+    630,
+    290,
+    833,
+    312
+   ]
+  },
+  {
+   "text": "H-2139 Vác, Dózsa györgy utca 222.",
+   "bbox": [
+    630,
+    321,
+    948,
+    341
+   ]
+  },
+  {
+   "text": "Adószám: 35631699-2-27",
+   "bbox": [
+    630,
+    349,
+    848,
+    365
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    102,
+    415,
+    230,
+    428
+   ]
+  },
+  {
+   "text": "2025. október 1.",
+   "bbox": [
+    102,
+    441,
+    244,
+    456
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    361,
+    415,
+    503,
+    431
+   ]
+  },
+  {
+   "text": "2025. szeptember 26.",
+   "bbox": [
+    361,
+    442,
+    547,
+    460
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    415,
+    755,
+    428
+   ]
+  },
+  {
+   "text": "2025. október 16.",
+   "bbox": [
+    620,
+    441,
+    772,
+    456
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    879,
+    415,
+    982,
+    428
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    879,
+    441,
+    949,
+    456
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    102,
+    490,
+    199,
+    505
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    490,
+    574,
+    505
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    674,
+    490,
+    745,
+    505
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    823,
+    490,
+    868,
+    502
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    886,
+    487,
+    930,
+    502
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    997,
+    487,
+    1029,
+    502
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1087,
+    490,
+    1138,
+    502
+   ]
+  },
+  {
+   "text": "12 év",
+   "bbox": [
+    516,
+    527,
+    557,
+    541
+   ]
+  },
+  {
+   "text": "36 830",
+   "bbox": [
+    694,
+    529,
+    744,
+    541
+   ]
+  },
+  {
+   "text": "441 960",
+   "bbox": [
+    809,
+    529,
+    868,
+    541
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    902,
+    529,
+    930,
+    541
+   ]
+  },
+  {
+   "text": "119 329",
+   "bbox": [
+    970,
+    529,
+    1029,
+    541
+   ]
+  },
+  {
+   "text": "561 289",
+   "bbox": [
+    1079,
+    529,
+    1138,
+    541
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    102,
+    527,
+    239,
+    544
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    516,
+    562,
+    586,
+    577
+   ]
+  },
+  {
+   "text": "5 120",
+   "bbox": [
+    703,
+    562,
+    744,
+    574
+   ]
+  },
+  {
+   "text": "5 120",
+   "bbox": [
+    827,
+    562,
+    868,
+    574
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    902,
+    562,
+    930,
+    574
+   ]
+  },
+  {
+   "text": "922",
+   "bbox": [
+    1002,
+    562,
+    1029,
+    574
+   ]
+  },
+  {
+   "text": "6 042",
+   "bbox": [
+    1097,
+    562,
+    1138,
+    574
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    102,
+    560,
+    243,
+    577
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    662,
+    615,
+    808,
+    631
+   ]
+  },
+  {
+   "text": "447 080 Ft",
+   "bbox": [
+    1041,
+    616,
+    1138,
+    631
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    678,
+    646,
+    808,
+    665
+   ]
+  },
+  {
+   "text": "120 251 Ft",
+   "bbox": [
+    1041,
+    650,
+    1138,
+    665
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    634,
+    684,
+    808,
+    703
+   ]
+  },
+  {
+   "text": "567 331 Ft",
+   "bbox": [
+    1034,
+    684,
+    1138,
+    699
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 46883285-63922572",
+   "bbox": [
+    102,
+    746,
+    425,
+    761
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    445,
+    1637,
+    794,
+    1651
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

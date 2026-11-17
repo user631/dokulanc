@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Lengyel Béla",
+  "email": "lengyel.bela@example.hu",
+  "telefon": "+36 30 688 4678",
+  "lakcim": "H-9858 Mindszentfa, Szabadság utca 146.",
+  "szuletesi_datum": "1991.06.23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2009 – 2012"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Logisztika Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2016 – 2018"
+   },
+   {
+    "ceg": "Dudás Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2013 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "B kategóriás jogosítvány",
+   "Git",
+   "Java",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Lengyel Béla",
+   "bbox": [
+    460,
+    93,
+    780,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    158,
+    680,
+    184
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    211,
+    167,
+    226
+   ]
+  },
+  {
+   "text": "lengyel.bela@example.hu",
+   "bbox": [
+    330,
+    211,
+    572,
+    230
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    240,
+    179,
+    255
+   ]
+  },
+  {
+   "text": "+36 30 688 4678",
+   "bbox": [
+    330,
+    241,
+    499,
+    255
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    268,
+    174,
+    284
+   ]
+  },
+  {
+   "text": "H-9858 Mindszentfa, Szabadság utca 146.",
+   "bbox": [
+    330,
+    269,
+    734,
+    288
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    297,
+    273,
+    313
+   ]
+  },
+  {
+   "text": "1991.06.23.",
+   "bbox": [
+    330,
+    299,
+    447,
+    313
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    348,
+    347,
+    371
+   ]
+  },
+  {
+   "text": "2016 – 2018",
+   "bbox": [
+    90,
+    397,
+    212,
+    411
+   ]
+  },
+  {
+   "text": "értékesítő – Szabó Logisztika Bt.",
+   "bbox": [
+    90,
+    418,
+    457,
+    439
+   ]
+  },
+  {
+   "text": "2013 – 2016",
+   "bbox": [
+    90,
+    459,
+    212,
+    473
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Dudás Zrt.",
+   "bbox": [
+    90,
+    480,
+    471,
+    501
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    531,
+    263,
+    554
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    90,
+    580,
+    212,
+    594
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    601,
+    471,
+    622
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    625,
+    409,
+    644
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    665,
+    212,
+    679
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    686,
+    362,
+    707
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    710,
+    275,
+    729
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    760,
+    233,
+    783
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    808,
+    192,
+    827
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    854,
+    227,
+    877
+   ]
+  },
+  {
+   "text": "prezentáció, B kategóriás jogosítvány, Git, Java, projektmenedzsment",
+   "bbox": [
+    90,
+    902,
+    760,
+    921
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

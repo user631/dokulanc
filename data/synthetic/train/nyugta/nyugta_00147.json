@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS KISBOLT BT.",
+  "uzlet_cim": "H-2598 Nagykanizsa, Fürdővárosi út 201.",
+  "adoszam": "41193431-2-22",
+  "datum": "2026.01.10.",
+  "ido": "14:35",
+  "nyugtaszam": "3570/80038",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 464 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "912"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "977"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1031"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1095"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1342"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "166"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2265"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "676"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS KISBOLT BT.",
+   "bbox": [
+    211,
+    33,
+    419,
+    48
+   ]
+  },
+  {
+   "text": "H-2598 Nagykanizsa, Fürdővárosi út 201.",
+   "bbox": [
+    100,
+    64,
+    529,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 41193431-2-22",
+   "bbox": [
+    194,
+    88,
+    436,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    133,
+    358,
+    150
+   ]
+  },
+  {
+   "text": "3 DB x 304",
+   "bbox": [
+    24,
+    177,
+    124,
+    189
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    201,
+    180,
+    215
+   ]
+  },
+  {
+   "text": "912 B00",
+   "bbox": [
+    523,
+    201,
+    607,
+    215
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    231,
+    168,
+    245
+   ]
+  },
+  {
+   "text": "977 B00",
+   "bbox": [
+    523,
+    231,
+    607,
+    245
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    261,
+    120,
+    275
+   ]
+  },
+  {
+   "text": "1031 B00",
+   "bbox": [
+    511,
+    261,
+    607,
+    275
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    291,
+    204,
+    305
+   ]
+  },
+  {
+   "text": "1095 A00",
+   "bbox": [
+    511,
+    291,
+    607,
+    305
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    321,
+    144,
+    335
+   ]
+  },
+  {
+   "text": "1342 C00",
+   "bbox": [
+    511,
+    321,
+    607,
+    335
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    351,
+    192,
+    369
+   ]
+  },
+  {
+   "text": "166 B00",
+   "bbox": [
+    523,
+    351,
+    607,
+    365
+   ]
+  },
+  {
+   "text": "3 DB x 755",
+   "bbox": [
+    24,
+    381,
+    124,
+    393
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    405,
+    120,
+    419
+   ]
+  },
+  {
+   "text": "2265 C00",
+   "bbox": [
+    511,
+    405,
+    607,
+    419
+   ]
+  },
+  {
+   "text": "2 DB x 338",
+   "bbox": [
+    24,
+    435,
+    124,
+    447
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    458,
+    156,
+    477
+   ]
+  },
+  {
+   "text": "676 A00",
+   "bbox": [
+    523,
+    459,
+    607,
+    473
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    496,
+    164,
+    518
+   ]
+  },
+  {
+   "text": "8 464 Ft",
+   "bbox": [
+    495,
+    501,
+    607,
+    518
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    536,
+    144,
+    555
+   ]
+  },
+  {
+   "text": "8 464 Ft",
+   "bbox": [
+    511,
+    541,
+    607,
+    555
+   ]
+  },
+  {
+   "text": "2026.01.10.",
+   "bbox": [
+    24,
+    584,
+    145,
+    597
+   ]
+  },
+  {
+   "text": "14:35",
+   "bbox": [
+    552,
+    584,
+    607,
+    597
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3570/80038",
+   "bbox": [
+    24,
+    610,
+    266,
+    629
+   ]
+  },
+  {
+   "text": "AP A25629577",
+   "bbox": [
+    24,
+    644,
+    156,
+    657
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    225,
+    683,
+    405,
+    700
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  631,
+  746
+ ]
+}

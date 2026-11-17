@@ -1,0 +1,615 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/01003",
+  "kiallitas_datuma": "2024. szeptember 9.",
+  "teljesites_datuma": "2024. szeptember 8.",
+  "fizetesi_hatarido": "2024. október 9.",
+  "elado_nev": "Kovács Szolgáltató Bt.",
+  "elado_cim": "H-2957 Érd, Tamásivárai tér 19.",
+  "elado_adoszam": "47896534-3-24",
+  "vevo_nev": "Horváth Trade Kft.",
+  "vevo_cim": "H-7825 Veszprém, Szentmártoni utca 56.",
+  "vevo_adoszam": "14555730-2-17",
+  "bankszamla": "93202152-11985187-87437980",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "1 174 160 Ft",
+  "afa_osszesen": "317 023 Ft",
+  "brutto_osszesen": "1 491 183 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "12 db",
+    "egysegar": "87 980",
+    "netto": "1 055 760",
+    "afa_kulcs": "27%",
+    "afa": "285 055",
+    "brutto": "1 340 815"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "13 760",
+    "netto": "55 040",
+    "afa_kulcs": "27%",
+    "afa": "14 861",
+    "brutto": "69 901"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "12 csomag",
+    "egysegar": "3 180",
+    "netto": "38 160",
+    "afa_kulcs": "27%",
+    "afa": "10 303",
+    "brutto": "48 463"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "25 200",
+    "netto": "25 200",
+    "afa_kulcs": "27%",
+    "afa": "6 804",
+    "brutto": "32 004"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    402,
+    79,
+    838,
+    115
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/01003",
+   "bbox": [
+    424,
+    135,
+    816,
+    160
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    215,
+    148,
+    236
+   ]
+  },
+  {
+   "text": "Kovács Szolgáltató Bt.",
+   "bbox": [
+    70,
+    252,
+    347,
+    278
+   ]
+  },
+  {
+   "text": "H-2957 Érd, Tamásivárai tér 19.",
+   "bbox": [
+    70,
+    283,
+    395,
+    310
+   ]
+  },
+  {
+   "text": "Adószám: 47896534-3-24",
+   "bbox": [
+    69,
+    318,
+    334,
+    337
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    215,
+    700,
+    236
+   ]
+  },
+  {
+   "text": "Horváth Trade Kft.",
+   "bbox": [
+    630,
+    252,
+    861,
+    273
+   ]
+  },
+  {
+   "text": "H-7825 Veszprém, Szentmártoni utca 56.",
+   "bbox": [
+    630,
+    287,
+    1049,
+    311
+   ]
+  },
+  {
+   "text": "Adószám: 14555730-2-17",
+   "bbox": [
+    629,
+    318,
+    894,
+    337
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    70,
+    388,
+    268,
+    406
+   ]
+  },
+  {
+   "text": "2024. szeptember 9.",
+   "bbox": [
+    370,
+    388,
+    580,
+    411
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    70,
+    421,
+    286,
+    444
+   ]
+  },
+  {
+   "text": "2024. szeptember 8.",
+   "bbox": [
+    370,
+    421,
+    580,
+    444
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    70,
+    454,
+    272,
+    472
+   ]
+  },
+  {
+   "text": "2024. október 9.",
+   "bbox": [
+    370,
+    453,
+    539,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    70,
+    487,
+    224,
+    505
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    370,
+    486,
+    450,
+    505
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    530,
+    195,
+    551
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    532,
+    584,
+    551
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    659,
+    530,
+    752,
+    551
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    530,
+    884,
+    547
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    885,
+    526,
+    950,
+    547
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    526,
+    1054,
+    547
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1106,
+    530,
+    1170,
+    547
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    510,
+    573,
+    560,
+    589
+   ]
+  },
+  {
+   "text": "87 980",
+   "bbox": [
+    691,
+    574,
+    752,
+    589
+   ]
+  },
+  {
+   "text": "1 055 760",
+   "bbox": [
+    795,
+    574,
+    884,
+    589
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    574,
+    950,
+    589
+   ]
+  },
+  {
+   "text": "285 055",
+   "bbox": [
+    982,
+    574,
+    1054,
+    589
+   ]
+  },
+  {
+   "text": "1 340 815",
+   "bbox": [
+    1081,
+    574,
+    1170,
+    589
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    70,
+    573,
+    173,
+    589
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    510,
+    608,
+    556,
+    625
+   ]
+  },
+  {
+   "text": "13 760",
+   "bbox": [
+    691,
+    610,
+    752,
+    625
+   ]
+  },
+  {
+   "text": "55 040",
+   "bbox": [
+    823,
+    610,
+    884,
+    625
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    610,
+    950,
+    625
+   ]
+  },
+  {
+   "text": "14 861",
+   "bbox": [
+    993,
+    610,
+    1054,
+    625
+   ]
+  },
+  {
+   "text": "69 901",
+   "bbox": [
+    1109,
+    610,
+    1170,
+    625
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    70,
+    608,
+    343,
+    629
+   ]
+  },
+  {
+   "text": "12 csomag",
+   "bbox": [
+    510,
+    646,
+    606,
+    665
+   ]
+  },
+  {
+   "text": "3 180",
+   "bbox": [
+    702,
+    646,
+    752,
+    661
+   ]
+  },
+  {
+   "text": "38 160",
+   "bbox": [
+    823,
+    646,
+    884,
+    661
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    646,
+    950,
+    661
+   ]
+  },
+  {
+   "text": "10 303",
+   "bbox": [
+    993,
+    646,
+    1054,
+    661
+   ]
+  },
+  {
+   "text": "48 463",
+   "bbox": [
+    1109,
+    646,
+    1170,
+    661
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    70,
+    644,
+    303,
+    665
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    510,
+    680,
+    556,
+    697
+   ]
+  },
+  {
+   "text": "25 200",
+   "bbox": [
+    691,
+    682,
+    752,
+    697
+   ]
+  },
+  {
+   "text": "25 200",
+   "bbox": [
+    823,
+    682,
+    884,
+    697
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    682,
+    950,
+    697
+   ]
+  },
+  {
+   "text": "6 804",
+   "bbox": [
+    1004,
+    682,
+    1054,
+    697
+   ]
+  },
+  {
+   "text": "32 004",
+   "bbox": [
+    1109,
+    682,
+    1170,
+    697
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    69,
+    680,
+    175,
+    697
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    670,
+    738,
+    840,
+    757
+   ]
+  },
+  {
+   "text": "1 174 160 Ft",
+   "bbox": [
+    1034,
+    739,
+    1170,
+    757
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    686,
+    771,
+    840,
+    794
+   ]
+  },
+  {
+   "text": "317 023 Ft",
+   "bbox": [
+    1055,
+    776,
+    1170,
+    794
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    624,
+    811,
+    840,
+    836
+   ]
+  },
+  {
+   "text": "1 491 183 Ft",
+   "bbox": [
+    1020,
+    813,
+    1170,
+    831
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 93202152-11985187-87437980",
+   "bbox": [
+    70,
+    878,
+    554,
+    896
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    481,
+    1666,
+    758,
+    1684
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

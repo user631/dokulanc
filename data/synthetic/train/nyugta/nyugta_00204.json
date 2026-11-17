@@ -1,0 +1,416 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "TÓTH CSEMEGE BT.",
+  "uzlet_cim": "H-3063 Szigetszentmiklós, Tapolcahidai utca 244.",
+  "adoszam": "66861311-5-20",
+  "datum": "2025.10.12.",
+  "ido": "17:01",
+  "nyugtaszam": "6499/29193",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "25 063 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1534"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "663"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "600"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "99"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3615"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3030"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "8406"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1323"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "295"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4998"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH CSEMEGE BT.",
+   "bbox": [
+    198,
+    31,
+    406,
+    48
+   ]
+  },
+  {
+   "text": "H-3063 Szigetszentmiklós, Tapolcahidai utca 244.",
+   "bbox": [
+    38,
+    63,
+    566,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 66861311-5-20",
+   "bbox": [
+    181,
+    87,
+    423,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    128,
+    345,
+    143
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    169,
+    180,
+    182
+   ]
+  },
+  {
+   "text": "1534 C00",
+   "bbox": [
+    485,
+    168,
+    581,
+    182
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    196,
+    192,
+    210
+   ]
+  },
+  {
+   "text": "663 B00",
+   "bbox": [
+    497,
+    196,
+    581,
+    210
+   ]
+  },
+  {
+   "text": "3 DB x 200",
+   "bbox": [
+    24,
+    224,
+    124,
+    236
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    246,
+    192,
+    263
+   ]
+  },
+  {
+   "text": "600 B00",
+   "bbox": [
+    497,
+    246,
+    581,
+    260
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    275,
+    96,
+    288
+   ]
+  },
+  {
+   "text": "99 B00",
+   "bbox": [
+    509,
+    274,
+    581,
+    288
+   ]
+  },
+  {
+   "text": "3 DB x 1205",
+   "bbox": [
+    24,
+    302,
+    134,
+    314
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    324,
+    168,
+    338
+   ]
+  },
+  {
+   "text": "3615 C00",
+   "bbox": [
+    485,
+    324,
+    581,
+    338
+   ]
+  },
+  {
+   "text": "2 DB x 1515",
+   "bbox": [
+    24,
+    352,
+    134,
+    364
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    375,
+    144,
+    388
+   ]
+  },
+  {
+   "text": "3030 A00",
+   "bbox": [
+    485,
+    374,
+    581,
+    388
+   ]
+  },
+  {
+   "text": "3 DB x 2802",
+   "bbox": [
+    24,
+    402,
+    134,
+    414
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    424,
+    132,
+    438
+   ]
+  },
+  {
+   "text": "8406 A00",
+   "bbox": [
+    485,
+    424,
+    581,
+    438
+   ]
+  },
+  {
+   "text": "3 DB x 441",
+   "bbox": [
+    24,
+    452,
+    124,
+    464
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    474,
+    132,
+    488
+   ]
+  },
+  {
+   "text": "1323 B00",
+   "bbox": [
+    485,
+    474,
+    581,
+    488
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    503,
+    180,
+    516
+   ]
+  },
+  {
+   "text": "295 C00",
+   "bbox": [
+    497,
+    502,
+    581,
+    516
+   ]
+  },
+  {
+   "text": "2 DB x 2499",
+   "bbox": [
+    24,
+    530,
+    134,
+    542
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    552,
+    252,
+    566
+   ]
+  },
+  {
+   "text": "4998 C00",
+   "bbox": [
+    485,
+    552,
+    581,
+    566
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    590,
+    150,
+    609
+   ]
+  },
+  {
+   "text": "25 063 Ft",
+   "bbox": [
+    455,
+    592,
+    581,
+    609
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    628,
+    144,
+    644
+   ]
+  },
+  {
+   "text": "25 063 Ft",
+   "bbox": [
+    473,
+    630,
+    581,
+    644
+   ]
+  },
+  {
+   "text": "2025.10.12.",
+   "bbox": [
+    24,
+    672,
+    145,
+    685
+   ]
+  },
+  {
+   "text": "17:01",
+   "bbox": [
+    526,
+    672,
+    581,
+    685
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6499/29193",
+   "bbox": [
+    24,
+    699,
+    266,
+    716
+   ]
+  },
+  {
+   "text": "AP A69247447",
+   "bbox": [
+    24,
+    728,
+    156,
+    741
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    247,
+    766,
+    357,
+    781
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  605,
+  826
+ ]
+}

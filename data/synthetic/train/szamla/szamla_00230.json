@@ -1,0 +1,696 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "SZ-2025/03899",
+  "kiallitas_datuma": "2025.09.05.",
+  "teljesites_datuma": "2025.09.02.",
+  "fizetesi_hatarido": "2025.10.05.",
+  "elado_nev": "Varga Tech Zrt.",
+  "elado_cim": "H-6565 Győr, Hetvenvégi utca 99.",
+  "elado_adoszam": "63725344-2-14",
+  "vevo_nev": "Bakos Consulting Bt.",
+  "vevo_cim": "H-3706 Keresztvár, Kossuth utca 118.",
+  "vevo_adoszam": "24791885-4-14",
+  "bankszamla": "HU89 0867 8258 2987 8202 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "399 180 Ft",
+  "afa_osszesen": "95 389 Ft",
+  "brutto_osszesen": "494 569 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "10 db",
+    "egysegar": "5 560",
+    "netto": "55 600",
+    "afa_kulcs": "5%",
+    "afa": "2 780",
+    "brutto": "58 380"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "10 óra",
+    "egysegar": "27 140",
+    "netto": "271 400",
+    "afa_kulcs": "27%",
+    "afa": "73 278",
+    "brutto": "344 678"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "4 db",
+    "egysegar": "16 170",
+    "netto": "64 680",
+    "afa_kulcs": "27%",
+    "afa": "17 464",
+    "brutto": "82 144"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "1 oldal",
+    "egysegar": "5 750",
+    "netto": "5 750",
+    "afa_kulcs": "27%",
+    "afa": "1 552",
+    "brutto": "7 302"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "1 karton",
+    "egysegar": "1 750",
+    "netto": "1 750",
+    "afa_kulcs": "18%",
+    "afa": "315",
+    "brutto": "2 065"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    399,
+    84,
+    841,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2025/03899",
+   "bbox": [
+    425,
+    140,
+    815,
+    166
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    221,
+    156,
+    242
+   ]
+  },
+  {
+   "text": "Varga Tech Zrt.",
+   "bbox": [
+    74,
+    260,
+    276,
+    285
+   ]
+  },
+  {
+   "text": "H-6565 Győr, Hetvenvégi utca 99.",
+   "bbox": [
+    75,
+    295,
+    437,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 63725344-2-14",
+   "bbox": [
+    74,
+    327,
+    347,
+    346
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    221,
+    703,
+    242
+   ]
+  },
+  {
+   "text": "Bakos Consulting Bt.",
+   "bbox": [
+    630,
+    260,
+    902,
+    285
+   ]
+  },
+  {
+   "text": "H-3706 Keresztvár, Kossuth utca 118.",
+   "bbox": [
+    630,
+    295,
+    1033,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 24791885-4-14",
+   "bbox": [
+    629,
+    327,
+    902,
+    346
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    396,
+    247,
+    413
+   ]
+  },
+  {
+   "text": "2025.09.05.",
+   "bbox": [
+    75,
+    428,
+    200,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    396,
+    534,
+    417
+   ]
+  },
+  {
+   "text": "2025.09.02.",
+   "bbox": [
+    347,
+    428,
+    472,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    396,
+    793,
+    413
+   ]
+  },
+  {
+   "text": "2025.10.05.",
+   "bbox": [
+    619,
+    428,
+    744,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    396,
+    1022,
+    413
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    891,
+    426,
+    1002,
+    450
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    478,
+    202,
+    499
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    479,
+    587,
+    499
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    478,
+    751,
+    499
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    822,
+    478,
+    881,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    474,
+    947,
+    495
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1009,
+    474,
+    1051,
+    495
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1098,
+    478,
+    1165,
+    495
+   ]
+  },
+  {
+   "text": "10 db",
+   "bbox": [
+    511,
+    521,
+    564,
+    538
+   ]
+  },
+  {
+   "text": "5 560",
+   "bbox": [
+    699,
+    522,
+    750,
+    538
+   ]
+  },
+  {
+   "text": "55 600",
+   "bbox": [
+    819,
+    522,
+    881,
+    538
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    915,
+    522,
+    947,
+    538
+   ]
+  },
+  {
+   "text": "2 780",
+   "bbox": [
+    999,
+    522,
+    1050,
+    538
+   ]
+  },
+  {
+   "text": "58 380",
+   "bbox": [
+    1103,
+    522,
+    1165,
+    538
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    75,
+    521,
+    328,
+    542
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    511,
+    558,
+    570,
+    575
+   ]
+  },
+  {
+   "text": "27 140",
+   "bbox": [
+    688,
+    559,
+    750,
+    575
+   ]
+  },
+  {
+   "text": "271 400",
+   "bbox": [
+    808,
+    559,
+    881,
+    575
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    559,
+    947,
+    575
+   ]
+  },
+  {
+   "text": "73 278",
+   "bbox": [
+    988,
+    559,
+    1050,
+    575
+   ]
+  },
+  {
+   "text": "344 678",
+   "bbox": [
+    1092,
+    559,
+    1165,
+    575
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    74,
+    558,
+    183,
+    575
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    511,
+    595,
+    553,
+    612
+   ]
+  },
+  {
+   "text": "16 170",
+   "bbox": [
+    688,
+    596,
+    750,
+    612
+   ]
+  },
+  {
+   "text": "64 680",
+   "bbox": [
+    819,
+    596,
+    881,
+    612
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    596,
+    947,
+    612
+   ]
+  },
+  {
+   "text": "17 464",
+   "bbox": [
+    988,
+    596,
+    1050,
+    612
+   ]
+  },
+  {
+   "text": "82 144",
+   "bbox": [
+    1103,
+    596,
+    1165,
+    612
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    75,
+    595,
+    193,
+    616
+   ]
+  },
+  {
+   "text": "1 oldal",
+   "bbox": [
+    511,
+    632,
+    573,
+    649
+   ]
+  },
+  {
+   "text": "5 750",
+   "bbox": [
+    699,
+    633,
+    750,
+    649
+   ]
+  },
+  {
+   "text": "5 750",
+   "bbox": [
+    830,
+    633,
+    881,
+    649
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    904,
+    633,
+    947,
+    649
+   ]
+  },
+  {
+   "text": "1 552",
+   "bbox": [
+    999,
+    633,
+    1050,
+    649
+   ]
+  },
+  {
+   "text": "7 302",
+   "bbox": [
+    1114,
+    633,
+    1165,
+    649
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    75,
+    632,
+    327,
+    653
+   ]
+  },
+  {
+   "text": "1 karton",
+   "bbox": [
+    511,
+    669,
+    588,
+    686
+   ]
+  },
+  {
+   "text": "1 750",
+   "bbox": [
+    699,
+    670,
+    750,
+    686
+   ]
+  },
+  {
+   "text": "1 750",
+   "bbox": [
+    830,
+    670,
+    881,
+    686
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    904,
+    670,
+    947,
+    686
+   ]
+  },
+  {
+   "text": "315",
+   "bbox": [
+    1017,
+    670,
+    1050,
+    686
+   ]
+  },
+  {
+   "text": "2 065",
+   "bbox": [
+    1114,
+    670,
+    1165,
+    686
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    74,
+    665,
+    211,
+    690
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    660,
+    726,
+    835,
+    747
+   ]
+  },
+  {
+   "text": "399 180 Ft",
+   "bbox": [
+    1044,
+    728,
+    1166,
+    747
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    676,
+    759,
+    835,
+    785
+   ]
+  },
+  {
+   "text": "95 389 Ft",
+   "bbox": [
+    1058,
+    766,
+    1166,
+    785
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    583,
+    802,
+    835,
+    823
+   ]
+  },
+  {
+   "text": "494 569 Ft",
+   "bbox": [
+    1030,
+    804,
+    1166,
+    823
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU89 0867 8258 2987 8202 0000 0000",
+   "bbox": [
+    75,
+    870,
+    670,
+    889
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    901,
+    693,
+    922
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    406,
+    1660,
+    832,
+    1679
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

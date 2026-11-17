@@ -1,0 +1,233 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "OLÁH CSEMEGE KFT.",
+  "uzlet_cim": "H-5514 Kunmellékdevecser, Dunakeszii tér 186.",
+  "adoszam": "20867016-2-14",
+  "datum": "2025.04.18.",
+  "ido": "18:28",
+  "nyugtaszam": "0545/22104",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 309 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1954"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4526"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1829"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "OLÁH CSEMEGE KFT.",
+   "bbox": [
+    133,
+    30,
+    388,
+    50
+   ]
+  },
+  {
+   "text": "H-5514 Kunmellékdevecser, Dunakeszii",
+   "bbox": [
+    27,
+    65,
+    495,
+    85
+   ]
+  },
+  {
+   "text": "tér 186.",
+   "bbox": [
+    209,
+    93,
+    313,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 20867016-2-14",
+   "bbox": [
+    118,
+    119,
+    404,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    213,
+    165,
+    310,
+    182
+   ]
+  },
+  {
+   "text": "2 DB x 977",
+   "bbox": [
+    24,
+    207,
+    144,
+    221
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    232,
+    192,
+    249
+   ]
+  },
+  {
+   "text": "1954 C00",
+   "bbox": [
+    387,
+    232,
+    499,
+    249
+   ]
+  },
+  {
+   "text": "2 DB x 2263",
+   "bbox": [
+    24,
+    263,
+    156,
+    277
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    288,
+    290,
+    305
+   ]
+  },
+  {
+   "text": "4526 C00",
+   "bbox": [
+    387,
+    288,
+    499,
+    305
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    322,
+    164,
+    336
+   ]
+  },
+  {
+   "text": "1829 C00",
+   "bbox": [
+    387,
+    319,
+    499,
+    336
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    361,
+    184,
+    382
+   ]
+  },
+  {
+   "text": "8 309 Ft",
+   "bbox": [
+    371,
+    362,
+    499,
+    382
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    402,
+    164,
+    420
+   ]
+  },
+  {
+   "text": "8 309 Ft",
+   "bbox": [
+    387,
+    403,
+    499,
+    420
+   ]
+  },
+  {
+   "text": "2025.04.18.",
+   "bbox": [
+    24,
+    448,
+    167,
+    463
+   ]
+  },
+  {
+   "text": "18:28",
+   "bbox": [
+    434,
+    448,
+    499,
+    463
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0545/22104",
+   "bbox": [
+    24,
+    477,
+    310,
+    497
+   ]
+  },
+  {
+   "text": "AP A70378861",
+   "bbox": [
+    24,
+    510,
+    180,
+    525
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    163,
+    552,
+    358,
+    569
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  523,
+  614
+ ]
+}

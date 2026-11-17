@@ -1,0 +1,261 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Takács Bence",
+  "email": "takacs.bence@citromail.hu",
+  "telefon": "+36 30 651 3460",
+  "lakcim": "H-3532 Hátfa, Pécsi utca 135.",
+  "szuletesi_datum": "1988. 08. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fazekas Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2010 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "projektmenedzsment",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Takács Bence",
+   "bbox": [
+    459,
+    95,
+    781,
+    130
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    165,
+    728,
+    189
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    163,
+    234
+   ]
+  },
+  {
+   "text": "takacs.bence@citromail.hu",
+   "bbox": [
+    330,
+    218,
+    591,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    173,
+    266
+   ]
+  },
+  {
+   "text": "+36 30 651 3460",
+   "bbox": [
+    330,
+    250,
+    493,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    172,
+    298
+   ]
+  },
+  {
+   "text": "H-3532 Hátfa, Pécsi utca 135.",
+   "bbox": [
+    330,
+    282,
+    620,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    262,
+    330
+   ]
+  },
+  {
+   "text": "1988. 08. 03.",
+   "bbox": [
+    330,
+    314,
+    456,
+    330
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    332,
+    391
+   ]
+  },
+  {
+   "text": "2010 – 2012",
+   "bbox": [
+    90,
+    418,
+    210,
+    434
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Fazekas Tech Kft.",
+   "bbox": [
+    90,
+    444,
+    607,
+    466
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    497,
+    257,
+    521
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    90,
+    548,
+    210,
+    564
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    574,
+    467,
+    596
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    600,
+    249,
+    620
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    642,
+    210,
+    658
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    668,
+    361,
+    690
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    694,
+    273,
+    714
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    747,
+    227,
+    771
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    798,
+    190,
+    818
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    847,
+    223,
+    871
+   ]
+  },
+  {
+   "text": "Python, projektmenedzsment, Docker",
+   "bbox": [
+    90,
+    898,
+    453,
+    918
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

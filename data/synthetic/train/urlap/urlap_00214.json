@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Farkas Gábor",
+  "anyja_neve": "Tóth Marcell",
+  "szuletesi_hely": "Salgótarján",
+  "szuletesi_datum": "2001.03.25.",
+  "lakcim": "H-2284 Nagykanizsa, Pécsi utca 121.",
+  "telefon": "+36 70 718 4203",
+  "email": "farkas.gabor@citromail.hu",
+  "adoazonosito_jel": "8490262470",
+  "taj_szam": "709 270 979",
+  "kelt": "Ligetkövesd, 2024.04.30."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    546,
+    100,
+    695,
+    125
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    477,
+    146,
+    763,
+    162
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    198,
+    292,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    251,
+    141,
+    265
+   ]
+  },
+  {
+   "text": "Farkas Gábor",
+   "bbox": [
+    416,
+    246,
+    555,
+    267
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    303,
+    201,
+    320
+   ]
+  },
+  {
+   "text": "Tóth Marcell",
+   "bbox": [
+    417,
+    301,
+    544,
+    319
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    353,
+    222,
+    371
+   ]
+  },
+  {
+   "text": "Salgótarján",
+   "bbox": [
+    417,
+    348,
+    533,
+    372
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    404,
+    213,
+    418
+   ]
+  },
+  {
+   "text": "2001.03.25.",
+   "bbox": [
+    417,
+    401,
+    541,
+    419
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    455,
+    167,
+    469
+   ]
+  },
+  {
+   "text": "H-2284 Nagykanizsa, Pécsi utca 121.",
+   "bbox": [
+    416,
+    450,
+    797,
+    477
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    506,
+    213,
+    520
+   ]
+  },
+  {
+   "text": "+36 70 718 4203",
+   "bbox": [
+    417,
+    503,
+    605,
+    521
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    557,
+    196,
+    571
+   ]
+  },
+  {
+   "text": "farkas.gabor@citromail.hu",
+   "bbox": [
+    417,
+    555,
+    684,
+    580
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    608,
+    246,
+    626
+   ]
+  },
+  {
+   "text": "8490262470",
+   "bbox": [
+    417,
+    610,
+    564,
+    628
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    659,
+    186,
+    673
+   ]
+  },
+  {
+   "text": "709 270 979",
+   "bbox": [
+    417,
+    661,
+    554,
+    679
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    736,
+    252,
+    756
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    780,
+    423,
+    798
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    825,
+    274,
+    839
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    870,
+    433,
+    888
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    972,
+    134,
+    986
+   ]
+  },
+  {
+   "text": "Ligetkövesd, 2024.04.30.",
+   "bbox": [
+    182,
+    969,
+    421,
+    991
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    936,
+    1022,
+    980,
+    1033
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

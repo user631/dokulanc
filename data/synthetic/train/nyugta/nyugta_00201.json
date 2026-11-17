@@ -1,0 +1,325 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZÉKELY ÉLELMISZER KFT.",
+  "uzlet_cim": "H-6112 Miskolc, Berényi utca 165.",
+  "adoszam": "88998925-3-38",
+  "datum": "2025.03.18.",
+  "ido": "09:39",
+  "nyugtaszam": "0126/76653",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "9 197 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1915"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "541"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3285"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "182"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "380"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1504"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "840"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "550"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÉKELY ÉLELMISZER KFT.",
+   "bbox": [
+    99,
+    30,
+    421,
+    50
+   ]
+  },
+  {
+   "text": "H-6112 Miskolc, Berényi utca 165.",
+   "bbox": [
+    78,
+    66,
+    441,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 88998925-3-38",
+   "bbox": [
+    139,
+    89,
+    381,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    214,
+    133,
+    306,
+    148
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    175,
+    271,
+    188
+   ]
+  },
+  {
+   "text": "1915 C00",
+   "bbox": [
+    393,
+    175,
+    497,
+    188
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    204,
+    167,
+    217
+   ]
+  },
+  {
+   "text": "541 C00",
+   "bbox": [
+    406,
+    204,
+    497,
+    217
+   ]
+  },
+  {
+   "text": "3 DB x 1095",
+   "bbox": [
+    24,
+    232,
+    145,
+    243
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    256,
+    219,
+    269
+   ]
+  },
+  {
+   "text": "3285 C00",
+   "bbox": [
+    393,
+    256,
+    497,
+    269
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    285,
+    206,
+    301
+   ]
+  },
+  {
+   "text": "182 A00",
+   "bbox": [
+    406,
+    285,
+    497,
+    298
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    315,
+    206,
+    327
+   ]
+  },
+  {
+   "text": "380 B00",
+   "bbox": [
+    406,
+    314,
+    497,
+    327
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    343,
+    154,
+    356
+   ]
+  },
+  {
+   "text": "1504 B00",
+   "bbox": [
+    393,
+    343,
+    497,
+    356
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    372,
+    128,
+    385
+   ]
+  },
+  {
+   "text": "840 C00",
+   "bbox": [
+    406,
+    372,
+    497,
+    385
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    401,
+    206,
+    414
+   ]
+  },
+  {
+   "text": "550 B00",
+   "bbox": [
+    406,
+    401,
+    497,
+    414
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    439,
+    159,
+    458
+   ]
+  },
+  {
+   "text": "9 197 Ft",
+   "bbox": [
+    377,
+    442,
+    497,
+    458
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    478,
+    154,
+    494
+   ]
+  },
+  {
+   "text": "9 197 Ft",
+   "bbox": [
+    393,
+    481,
+    497,
+    494
+   ]
+  },
+  {
+   "text": "2025.03.18.",
+   "bbox": [
+    24,
+    523,
+    145,
+    535
+   ]
+  },
+  {
+   "text": "09:39",
+   "bbox": [
+    442,
+    523,
+    497,
+    535
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0126/76653",
+   "bbox": [
+    24,
+    549,
+    266,
+    566
+   ]
+  },
+  {
+   "text": "AP A65460558",
+   "bbox": [
+    24,
+    581,
+    156,
+    593
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    200,
+    620,
+    320,
+    635
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  521,
+  679
+ ]
+}

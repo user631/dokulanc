@@ -1,0 +1,570 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2025/06137",
+  "kiallitas_datuma": "2025. június 28.",
+  "teljesites_datuma": "2025. június 24.",
+  "fizetesi_hatarido": "2025. július 28.",
+  "elado_nev": "Veres Kft.",
+  "elado_cim": "H-2973 Törökhetvenharaszti, Felsőháti út 178.",
+  "elado_adoszam": "97373643-5-30",
+  "vevo_nev": "Bogdán és Társa Kft.",
+  "vevo_cim": "H-5119 Tapolcanádasd, Dózsa györgy utca 141.",
+  "vevo_adoszam": "73077408-4-10",
+  "bankszamla": "55857912-03200058",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "81 650 Ft",
+  "afa_osszesen": "18 477 Ft",
+  "brutto_osszesen": "100 127 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "3 590",
+    "netto": "10 770",
+    "afa_kulcs": "27%",
+    "afa": "2 908",
+    "brutto": "13 678"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "18 220",
+    "netto": "54 660",
+    "afa_kulcs": "27%",
+    "afa": "14 758",
+    "brutto": "69 418"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "16 220",
+    "netto": "16 220",
+    "afa_kulcs": "5%",
+    "afa": "811",
+    "brutto": "17 031"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VERES",
+   "bbox": [
+    133,
+    133,
+    219,
+    151
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    699,
+    107,
+    1144,
+    154
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2025/06137",
+   "bbox": [
+    828,
+    171,
+    1144,
+    193
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    96,
+    252,
+    176,
+    270
+   ]
+  },
+  {
+   "text": "Veres Kft.",
+   "bbox": [
+    96,
+    287,
+    223,
+    305
+   ]
+  },
+  {
+   "text": "H-2973 Törökhetvenharaszti, Felsőháti út 178.",
+   "bbox": [
+    96,
+    319,
+    589,
+    340
+   ]
+  },
+  {
+   "text": "Adószám: 97373643-5-30",
+   "bbox": [
+    96,
+    348,
+    371,
+    365
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    252,
+    703,
+    270
+   ]
+  },
+  {
+   "text": "Bogdán és Társa Kft.",
+   "bbox": [
+    630,
+    287,
+    897,
+    310
+   ]
+  },
+  {
+   "text": "H-5119 Tapolcanádasd, Dózsa györgy utca",
+   "bbox": [
+    630,
+    319,
+    1083,
+    340
+   ]
+  },
+  {
+   "text": "141.",
+   "bbox": [
+    630,
+    349,
+    677,
+    365
+   ]
+  },
+  {
+   "text": "Adószám: 73077408-4-10",
+   "bbox": [
+    630,
+    377,
+    905,
+    394
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    96,
+    444,
+    260,
+    458
+   ]
+  },
+  {
+   "text": "2025. június 28.",
+   "bbox": [
+    96,
+    470,
+    263,
+    491
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    444,
+    538,
+    462
+   ]
+  },
+  {
+   "text": "2025. június 24.",
+   "bbox": [
+    358,
+    470,
+    525,
+    491
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    444,
+    789,
+    458
+   ]
+  },
+  {
+   "text": "2025. július 28.",
+   "bbox": [
+    620,
+    470,
+    779,
+    491
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    882,
+    444,
+    1010,
+    458
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    882,
+    470,
+    975,
+    491
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    520,
+    221,
+    538
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    521,
+    589,
+    538
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    651,
+    520,
+    745,
+    538
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    520,
+    871,
+    534
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    517,
+    934,
+    534
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    993,
+    517,
+    1033,
+    534
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1080,
+    520,
+    1144,
+    534
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    515,
+    560,
+    604,
+    574
+   ]
+  },
+  {
+   "text": "3 590",
+   "bbox": [
+    695,
+    561,
+    745,
+    574
+   ]
+  },
+  {
+   "text": "10 770",
+   "bbox": [
+    810,
+    561,
+    871,
+    574
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    561,
+    934,
+    574
+   ]
+  },
+  {
+   "text": "2 908",
+   "bbox": [
+    983,
+    561,
+    1033,
+    574
+   ]
+  },
+  {
+   "text": "13 678",
+   "bbox": [
+    1083,
+    561,
+    1144,
+    574
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    96,
+    560,
+    203,
+    578
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    515,
+    594,
+    604,
+    608
+   ]
+  },
+  {
+   "text": "18 220",
+   "bbox": [
+    684,
+    595,
+    745,
+    608
+   ]
+  },
+  {
+   "text": "54 660",
+   "bbox": [
+    810,
+    595,
+    871,
+    608
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    595,
+    934,
+    608
+   ]
+  },
+  {
+   "text": "14 758",
+   "bbox": [
+    972,
+    595,
+    1033,
+    608
+   ]
+  },
+  {
+   "text": "69 418",
+   "bbox": [
+    1083,
+    595,
+    1144,
+    608
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    96,
+    594,
+    297,
+    612
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    515,
+    628,
+    554,
+    642
+   ]
+  },
+  {
+   "text": "16 220",
+   "bbox": [
+    684,
+    629,
+    745,
+    642
+   ]
+  },
+  {
+   "text": "16 220",
+   "bbox": [
+    810,
+    629,
+    871,
+    642
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    904,
+    629,
+    934,
+    642
+   ]
+  },
+  {
+   "text": "811",
+   "bbox": [
+    1000,
+    629,
+    1033,
+    642
+   ]
+  },
+  {
+   "text": "17 031",
+   "bbox": [
+    1083,
+    629,
+    1144,
+    642
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    96,
+    628,
+    345,
+    646
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    638,
+    682,
+    814,
+    700
+   ]
+  },
+  {
+   "text": "81 650 Ft",
+   "bbox": [
+    1036,
+    684,
+    1144,
+    700
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    655,
+    713,
+    814,
+    735
+   ]
+  },
+  {
+   "text": "18 477 Ft",
+   "bbox": [
+    1036,
+    719,
+    1144,
+    735
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    563,
+    752,
+    814,
+    770
+   ]
+  },
+  {
+   "text": "100 127 Ft",
+   "bbox": [
+    1008,
+    754,
+    1144,
+    770
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 55857912-03200058",
+   "bbox": [
+    96,
+    816,
+    501,
+    833
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    96,
+    845,
+    695,
+    862
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    411,
+    1641,
+    828,
+    1657
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

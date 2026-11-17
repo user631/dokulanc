@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Király Zoltán",
+  "anyja_neve": "Mészáros Pál",
+  "szuletesi_hely": "Tatabánya",
+  "szuletesi_datum": "1989. 09. 10.",
+  "lakcim": "H-8117 Tatabánya, Mellékberényi utca 116.",
+  "telefon": "+36 30 740 8442",
+  "email": "kiraly.zoltan@example.hu",
+  "adoazonosito_jel": "8448126939",
+  "taj_szam": "233 048 729",
+  "kelt": "Székbánya, 2026. 07. 06."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    410,
+    105,
+    829,
+    141
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    459,
+    161,
+    780,
+    179
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    216,
+    331,
+    240
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    271,
+    154,
+    286
+   ]
+  },
+  {
+   "text": "Király Zoltán",
+   "bbox": [
+    402,
+    268,
+    602,
+    294
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    112,
+    324,
+    219,
+    345
+   ]
+  },
+  {
+   "text": "Mészáros Pál",
+   "bbox": [
+    402,
+    320,
+    587,
+    343
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    378,
+    242,
+    399
+   ]
+  },
+  {
+   "text": "Tatabánya",
+   "bbox": [
+    402,
+    373,
+    556,
+    400
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    432,
+    233,
+    448
+   ]
+  },
+  {
+   "text": "1989. 09. 10.",
+   "bbox": [
+    402,
+    432,
+    595,
+    450
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    486,
+    181,
+    502
+   ]
+  },
+  {
+   "text": "H-8117 Tatabánya, Mellékberényi utca 116.",
+   "bbox": [
+    402,
+    482,
+    1043,
+    509
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    112,
+    540,
+    234,
+    556
+   ]
+  },
+  {
+   "text": "+36 30 740 8442",
+   "bbox": [
+    402,
+    537,
+    656,
+    557
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    594,
+    214,
+    610
+   ]
+  },
+  {
+   "text": "kiraly.zoltan@example.hu",
+   "bbox": [
+    402,
+    587,
+    779,
+    613
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    112,
+    648,
+    272,
+    669
+   ]
+  },
+  {
+   "text": "8448126939",
+   "bbox": [
+    402,
+    644,
+    592,
+    664
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    112,
+    703,
+    204,
+    718
+   ]
+  },
+  {
+   "text": "233 048 729",
+   "bbox": [
+    402,
+    700,
+    593,
+    720
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    784,
+    287,
+    808
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    827,
+    468,
+    848
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    872,
+    292,
+    888
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    145,
+    917,
+    488,
+    938
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    1022,
+    142,
+    1039
+   ]
+  },
+  {
+   "text": "Székbánya, 2026. 07. 06.",
+   "bbox": [
+    190,
+    1019,
+    529,
+    1044
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    925,
+    1071,
+    974,
+    1085
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

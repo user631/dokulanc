@@ -1,0 +1,343 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY DISZKONT KFT.",
+  "uzlet_cim": "H-5639 Nyékszékkövesd, Szombathelyi utca 12.",
+  "adoszam": "95389202-5-39",
+  "datum": "2026.10.27.",
+  "ido": "21:48",
+  "nyugtaszam": "6430/63771",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 541 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "955"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "451"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1152"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "188"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3710"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1947"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1020"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1118"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY DISZKONT KFT.",
+   "bbox": [
+    173,
+    33,
+    425,
+    49
+   ]
+  },
+  {
+   "text": "H-5639 Nyékszékkövesd, Szombathelyi utca 12.",
+   "bbox": [
+    35,
+    66,
+    563,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 95389202-5-39",
+   "bbox": [
+    167,
+    91,
+    431,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    254,
+    137,
+    344,
+    154
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    181,
+    219,
+    196
+   ]
+  },
+  {
+   "text": "955 C00",
+   "bbox": [
+    484,
+    181,
+    575,
+    196
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    212,
+    141,
+    227
+   ]
+  },
+  {
+   "text": "451 C00",
+   "bbox": [
+    484,
+    212,
+    575,
+    227
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    243,
+    154,
+    258
+   ]
+  },
+  {
+   "text": "1152 C00",
+   "bbox": [
+    471,
+    243,
+    575,
+    258
+   ]
+  },
+  {
+   "text": "2 DB x 94",
+   "bbox": [
+    24,
+    273,
+    123,
+    286
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    299,
+    102,
+    314
+   ]
+  },
+  {
+   "text": "188 A00",
+   "bbox": [
+    484,
+    299,
+    575,
+    314
+   ]
+  },
+  {
+   "text": "2 DB x 1855",
+   "bbox": [
+    24,
+    329,
+    145,
+    342
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    355,
+    154,
+    370
+   ]
+  },
+  {
+   "text": "3710 A00",
+   "bbox": [
+    471,
+    355,
+    575,
+    370
+   ]
+  },
+  {
+   "text": "3 DB x 649",
+   "bbox": [
+    24,
+    385,
+    134,
+    398
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    411,
+    141,
+    426
+   ]
+  },
+  {
+   "text": "1947 C00",
+   "bbox": [
+    471,
+    411,
+    575,
+    426
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    442,
+    180,
+    457
+   ]
+  },
+  {
+   "text": "1020 C00",
+   "bbox": [
+    471,
+    442,
+    575,
+    457
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    473,
+    128,
+    488
+   ]
+  },
+  {
+   "text": "1118 C00",
+   "bbox": [
+    471,
+    473,
+    575,
+    488
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    512,
+    174,
+    534
+   ]
+  },
+  {
+   "text": "10 541 Ft",
+   "bbox": [
+    440,
+    517,
+    575,
+    534
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    552,
+    154,
+    572
+   ]
+  },
+  {
+   "text": "10 541 Ft",
+   "bbox": [
+    458,
+    557,
+    575,
+    572
+   ]
+  },
+  {
+   "text": "2026.10.27.",
+   "bbox": [
+    24,
+    602,
+    156,
+    615
+   ]
+  },
+  {
+   "text": "21:48",
+   "bbox": [
+    515,
+    602,
+    575,
+    615
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6430/63771",
+   "bbox": [
+    24,
+    629,
+    288,
+    648
+   ]
+  },
+  {
+   "text": "AP A27979354",
+   "bbox": [
+    24,
+    664,
+    168,
+    677
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    167,
+    702,
+    431,
+    721
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  599,
+  767
+ ]
+}

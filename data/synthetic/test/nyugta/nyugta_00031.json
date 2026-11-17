@@ -1,0 +1,347 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SZABÓ ABC BT.",
+  "uzlet_cim": "H-5976 Ózd, Szolnoki út 105.",
+  "adoszam": "89386286-2-41",
+  "datum": "2025.05.11.",
+  "ido": "20:39",
+  "nyugtaszam": "7640/11755",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 205 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "564"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "246"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1177"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1148"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "595"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2214"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1196"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "360"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "705"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ABC BT.",
+   "bbox": [
+    205,
+    28,
+    361,
+    47
+   ]
+  },
+  {
+   "text": "H-5976 Ózd, Szolnoki út 105.",
+   "bbox": [
+    143,
+    62,
+    423,
+    79
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 89386286-2-41",
+   "bbox": [
+    173,
+    86,
+    393,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    244,
+    127,
+    323,
+    142
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    168,
+    112,
+    181
+   ]
+  },
+  {
+   "text": "564 B00",
+   "bbox": [
+    466,
+    168,
+    543,
+    181
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    196,
+    178,
+    212
+   ]
+  },
+  {
+   "text": "246 A00",
+   "bbox": [
+    466,
+    196,
+    543,
+    209
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    224,
+    134,
+    237
+   ]
+  },
+  {
+   "text": "1177 C00",
+   "bbox": [
+    455,
+    224,
+    543,
+    237
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    252,
+    156,
+    265
+   ]
+  },
+  {
+   "text": "1148 C00",
+   "bbox": [
+    455,
+    252,
+    543,
+    265
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    280,
+    145,
+    293
+   ]
+  },
+  {
+   "text": "595 A00",
+   "bbox": [
+    466,
+    280,
+    543,
+    293
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    308,
+    233,
+    321
+   ]
+  },
+  {
+   "text": "2214 C00",
+   "bbox": [
+    455,
+    308,
+    543,
+    321
+   ]
+  },
+  {
+   "text": "2 DB x 598",
+   "bbox": [
+    24,
+    336,
+    114,
+    347
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    358,
+    200,
+    371
+   ]
+  },
+  {
+   "text": "1196 C00",
+   "bbox": [
+    455,
+    358,
+    543,
+    371
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    385,
+    145,
+    402
+   ]
+  },
+  {
+   "text": "360 C00",
+   "bbox": [
+    466,
+    386,
+    543,
+    399
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    414,
+    178,
+    427
+   ]
+  },
+  {
+   "text": "705 A00",
+   "bbox": [
+    466,
+    414,
+    543,
+    427
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    451,
+    141,
+    470
+   ]
+  },
+  {
+   "text": "8 205 Ft",
+   "bbox": [
+    439,
+    454,
+    543,
+    470
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    488,
+    134,
+    505
+   ]
+  },
+  {
+   "text": "8 205 Ft",
+   "bbox": [
+    455,
+    492,
+    543,
+    505
+   ]
+  },
+  {
+   "text": "2025.05.11.",
+   "bbox": [
+    24,
+    535,
+    134,
+    546
+   ]
+  },
+  {
+   "text": "20:39",
+   "bbox": [
+    493,
+    535,
+    543,
+    546
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7640/11755",
+   "bbox": [
+    24,
+    560,
+    244,
+    576
+   ]
+  },
+  {
+   "text": "AP A74307176",
+   "bbox": [
+    24,
+    591,
+    144,
+    602
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    233,
+    627,
+    333,
+    643
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  567,
+  688
+ ]
+}

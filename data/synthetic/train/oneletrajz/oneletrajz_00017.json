@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balázs Mária",
+  "email": "balazs.maria@citromail.hu",
+  "telefon": "+36 30 908 5416",
+  "lakcim": "H-7215 Kunmellékapáti, Kaposvári tér 229.",
+  "szuletesi_datum": "2003. 12. 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2021 – 2024"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Szolgáltató Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Németh Trade Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2028 – jelenleg"
+   },
+   {
+    "ceg": "Nagy Tech Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Java",
+   "JavaScript",
+   "B kategóriás jogosítvány",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balázs Mária",
+   "bbox": [
+    471,
+    111,
+    768,
+    150
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    564,
+    176,
+    676,
+    205
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    232,
+    165,
+    249
+   ]
+  },
+  {
+   "text": "balazs.maria@citromail.hu",
+   "bbox": [
+    330,
+    232,
+    575,
+    251
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    263,
+    175,
+    280
+   ]
+  },
+  {
+   "text": "+36 30 908 5416",
+   "bbox": [
+    330,
+    264,
+    487,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    173,
+    311
+   ]
+  },
+  {
+   "text": "H-7215 Kunmellékapáti, Kaposvári tér 229.",
+   "bbox": [
+    330,
+    294,
+    726,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    325,
+    265,
+    342
+   ]
+  },
+  {
+   "text": "2003. 12. 12.",
+   "bbox": [
+    330,
+    326,
+    450,
+    342
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    377,
+    344,
+    402
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    427,
+    232,
+    448
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Molnár Szolgáltató Kft.",
+   "bbox": [
+    89,
+    452,
+    539,
+    474
+   ]
+  },
+  {
+   "text": "2028 – jelenleg",
+   "bbox": [
+    90,
+    493,
+    232,
+    514
+   ]
+  },
+  {
+   "text": "tesztmérnök – Németh Trade Kft.",
+   "bbox": [
+    90,
+    518,
+    456,
+    536
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    90,
+    559,
+    232,
+    580
+   ]
+  },
+  {
+   "text": "adatelemző – Nagy Tech Kft.",
+   "bbox": [
+    90,
+    584,
+    405,
+    606
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    635,
+    260,
+    661
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    687,
+    203,
+    703
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    712,
+    306,
+    733
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    736,
+    337,
+    757
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    778,
+    203,
+    794
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    802,
+    355,
+    824
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    827,
+    327,
+    848
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    878,
+    230,
+    904
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B2)",
+   "bbox": [
+    90,
+    929,
+    324,
+    950
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    976,
+    223,
+    1002
+   ]
+  },
+  {
+   "text": "Docker, Java, JavaScript, B kategóriás jogosítvány, csapatmunka",
+   "bbox": [
+    90,
+    1027,
+    690,
+    1048
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,714 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/06988",
+  "kiallitas_datuma": "2024. augusztus 11.",
+  "teljesites_datuma": "2024. augusztus 8.",
+  "fizetesi_hatarido": "2024. augusztus 19.",
+  "elado_nev": "Vörös Trade Kft.",
+  "elado_cim": "H-4317 Egyházashídkőrös, Székesfehérvári utca 76.",
+  "elado_adoszam": "83943016-2-43",
+  "vevo_nev": "Kovács Trade Zrt.",
+  "vevo_cim": "H-3411 Hetvennémeti, Hídvégi utca 45.",
+  "vevo_adoszam": "32490792-3-11",
+  "bankszamla": "26510475-25855401-61656927",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "825 120 Ft",
+  "afa_osszesen": "222 783 Ft",
+  "brutto_osszesen": "1 047 903 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "4 320",
+    "netto": "51 840",
+    "afa_kulcs": "27%",
+    "afa": "13 997",
+    "brutto": "65 837"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "16 720",
+    "netto": "33 440",
+    "afa_kulcs": "27%",
+    "afa": "9 029",
+    "brutto": "42 469"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "12 760",
+    "netto": "51 040",
+    "afa_kulcs": "27%",
+    "afa": "13 781",
+    "brutto": "64 821"
+   },
+   {
+    "megnevezes": "Gépjármű szerviz munkadíj",
+    "mennyiseg": "10 óra",
+    "egysegar": "12 940",
+    "netto": "129 400",
+    "afa_kulcs": "27%",
+    "afa": "34 938",
+    "brutto": "164 338"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "5 db",
+    "egysegar": "111 880",
+    "netto": "559 400",
+    "afa_kulcs": "27%",
+    "afa": "151 038",
+    "brutto": "710 438"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VÖRÖS",
+   "bbox": [
+    126,
+    126,
+    220,
+    148
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    692,
+    111,
+    1146,
+    144
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2024/06988",
+   "bbox": [
+    840,
+    168,
+    1146,
+    192
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    94,
+    248,
+    178,
+    267
+   ]
+  },
+  {
+   "text": "Vörös Trade Kft.",
+   "bbox": [
+    93,
+    285,
+    307,
+    304
+   ]
+  },
+  {
+   "text": "H-4317 Egyházashídkőrös, Székesfehérvári utca",
+   "bbox": [
+    94,
+    321,
+    577,
+    343
+   ]
+  },
+  {
+   "text": "76.",
+   "bbox": [
+    94,
+    353,
+    125,
+    373
+   ]
+  },
+  {
+   "text": "Adószám: 83943016-2-43",
+   "bbox": [
+    93,
+    383,
+    359,
+    404
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    248,
+    702,
+    267
+   ]
+  },
+  {
+   "text": "Kovács Trade Zrt.",
+   "bbox": [
+    630,
+    285,
+    857,
+    304
+   ]
+  },
+  {
+   "text": "H-3411 Hetvennémeti, Hídvégi utca 45.",
+   "bbox": [
+    630,
+    321,
+    1033,
+    343
+   ]
+  },
+  {
+   "text": "Adószám: 32490792-3-11",
+   "bbox": [
+    629,
+    352,
+    890,
+    373
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    94,
+    452,
+    299,
+    469
+   ]
+  },
+  {
+   "text": "2024. augusztus 11.",
+   "bbox": [
+    394,
+    455,
+    592,
+    474
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    94,
+    485,
+    311,
+    507
+   ]
+  },
+  {
+   "text": "2024. augusztus 8.",
+   "bbox": [
+    394,
+    486,
+    586,
+    507
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    94,
+    518,
+    301,
+    535
+   ]
+  },
+  {
+   "text": "2024. augusztus 19.",
+   "bbox": [
+    394,
+    521,
+    595,
+    540
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    94,
+    551,
+    251,
+    568
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    393,
+    551,
+    509,
+    573
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    94,
+    595,
+    216,
+    614
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    514,
+    596,
+    591,
+    614
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    654,
+    595,
+    747,
+    614
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    595,
+    872,
+    610
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    873,
+    591,
+    935,
+    610
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    991,
+    591,
+    1036,
+    610
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1078,
+    595,
+    1146,
+    610
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    514,
+    637,
+    611,
+    652
+   ]
+  },
+  {
+   "text": "4 320",
+   "bbox": [
+    696,
+    641,
+    746,
+    656
+   ]
+  },
+  {
+   "text": "51 840",
+   "bbox": [
+    812,
+    638,
+    872,
+    656
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    638,
+    935,
+    656
+   ]
+  },
+  {
+   "text": "13 997",
+   "bbox": [
+    978,
+    641,
+    1036,
+    656
+   ]
+  },
+  {
+   "text": "65 837",
+   "bbox": [
+    1086,
+    638,
+    1147,
+    656
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    94,
+    637,
+    202,
+    656
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    514,
+    673,
+    552,
+    688
+   ]
+  },
+  {
+   "text": "16 720",
+   "bbox": [
+    688,
+    674,
+    746,
+    692
+   ]
+  },
+  {
+   "text": "33 440",
+   "bbox": [
+    811,
+    677,
+    872,
+    692
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    674,
+    935,
+    692
+   ]
+  },
+  {
+   "text": "9 029",
+   "bbox": [
+    985,
+    677,
+    1035,
+    692
+   ]
+  },
+  {
+   "text": "42 469",
+   "bbox": [
+    1086,
+    674,
+    1146,
+    692
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    94,
+    673,
+    208,
+    692
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    514,
+    709,
+    559,
+    728
+   ]
+  },
+  {
+   "text": "12 760",
+   "bbox": [
+    688,
+    710,
+    746,
+    728
+   ]
+  },
+  {
+   "text": "51 040",
+   "bbox": [
+    812,
+    713,
+    872,
+    728
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    710,
+    935,
+    728
+   ]
+  },
+  {
+   "text": "13 781",
+   "bbox": [
+    979,
+    710,
+    1035,
+    728
+   ]
+  },
+  {
+   "text": "64 821",
+   "bbox": [
+    1087,
+    710,
+    1146,
+    728
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    94,
+    709,
+    365,
+    728
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    514,
+    745,
+    569,
+    760
+   ]
+  },
+  {
+   "text": "12 940",
+   "bbox": [
+    687,
+    749,
+    746,
+    764
+   ]
+  },
+  {
+   "text": "129 400",
+   "bbox": [
+    801,
+    749,
+    872,
+    764
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    746,
+    935,
+    764
+   ]
+  },
+  {
+   "text": "34 938",
+   "bbox": [
+    974,
+    746,
+    1035,
+    764
+   ]
+  },
+  {
+   "text": "164 338",
+   "bbox": [
+    1076,
+    746,
+    1146,
+    764
+   ]
+  },
+  {
+   "text": "Gépjármű szerviz munkadíj",
+   "bbox": [
+    94,
+    745,
+    341,
+    764
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    514,
+    781,
+    552,
+    800
+   ]
+  },
+  {
+   "text": "111 880",
+   "bbox": [
+    678,
+    782,
+    746,
+    796
+   ]
+  },
+  {
+   "text": "559 400",
+   "bbox": [
+    799,
+    785,
+    872,
+    800
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    898,
+    782,
+    935,
+    800
+   ]
+  },
+  {
+   "text": "151 038",
+   "bbox": [
+    966,
+    782,
+    1035,
+    800
+   ]
+  },
+  {
+   "text": "710 438",
+   "bbox": [
+    1076,
+    782,
+    1146,
+    800
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    94,
+    781,
+    202,
+    800
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    651,
+    838,
+    816,
+    856
+   ]
+  },
+  {
+   "text": "825 120 Ft",
+   "bbox": [
+    1034,
+    839,
+    1146,
+    860
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    663,
+    871,
+    816,
+    893
+   ]
+  },
+  {
+   "text": "222 783 Ft",
+   "bbox": [
+    1034,
+    876,
+    1146,
+    897
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    680,
+    912,
+    816,
+    935
+   ]
+  },
+  {
+   "text": "1 047 903 Ft",
+   "bbox": [
+    996,
+    913,
+    1146,
+    934
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 26510475-25855401-61656927",
+   "bbox": [
+    94,
+    978,
+    572,
+    999
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    94,
+    1008,
+    670,
+    1027
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    416,
+    1642,
+    822,
+    1660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Lakatos Éva",
+  "email": "lakatos.eva@gmail.com",
+  "telefon": "+36 20 166 4652",
+  "lakcim": "H-9658 Ligetbánya, Felsőmelléki utca 99.",
+  "szuletesi_datum": "1997. augusztus 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2017 – 2021"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Juhász Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2021 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "C#",
+   "Java",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Lakatos Éva",
+   "bbox": [
+    493,
+    80,
+    747,
+    123
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    524,
+    158,
+    715,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    211,
+    159,
+    225
+   ]
+  },
+  {
+   "text": "lakatos.eva@gmail.com",
+   "bbox": [
+    330,
+    210,
+    533,
+    229
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    242,
+    165,
+    256
+   ]
+  },
+  {
+   "text": "+36 20 166 4652",
+   "bbox": [
+    330,
+    242,
+    478,
+    256
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    273,
+    167,
+    287
+   ]
+  },
+  {
+   "text": "H-9658 Ligetbánya, Felsőmelléki utca 99.",
+   "bbox": [
+    330,
+    272,
+    688,
+    291
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    304,
+    240,
+    318
+   ]
+  },
+  {
+   "text": "1997. augusztus 14.",
+   "bbox": [
+    330,
+    304,
+    500,
+    322
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    356,
+    308,
+    378
+   ]
+  },
+  {
+   "text": "2021 – 2022",
+   "bbox": [
+    90,
+    406,
+    199,
+    420
+   ]
+  },
+  {
+   "text": "irodavezető – Juhász Bt.",
+   "bbox": [
+    90,
+    431,
+    321,
+    446
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    482,
+    244,
+    505
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    90,
+    533,
+    199,
+    547
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    558,
+    416,
+    578
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    89,
+    582,
+    237,
+    601
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    624,
+    199,
+    638
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    649,
+    361,
+    669
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    673,
+    161,
+    692
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    725,
+    211,
+    748
+   ]
+  },
+  {
+   "text": "német (B1), spanyol (B1)",
+   "bbox": [
+    90,
+    775,
+    306,
+    794
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    823,
+    201,
+    846
+   ]
+  },
+  {
+   "text": "C#, Java, ügyfélkezelés, projektmenedzsment, JavaScript",
+   "bbox": [
+    90,
+    873,
+    572,
+    892
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

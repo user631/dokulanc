@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Kiss János",
+  "anyja_neve": "Kiss Lilla",
+  "szuletesi_hely": "Drávaligethida",
+  "szuletesi_datum": "1954. 06. 09.",
+  "lakcim": "H-9175 Dunaújváros, Tótharasztii utca 53.",
+  "telefon": "06 1 125 6978",
+  "email": "kiss.janos@example.hu",
+  "adoazonosito_jel": "8319355788",
+  "taj_szam": "946 827 303",
+  "kelt": "Dunavára, 2026. 08. 12."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    415,
+    109,
+    825,
+    144
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    218,
+    320,
+    240
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    270,
+    155,
+    285
+   ]
+  },
+  {
+   "text": "Kiss János",
+   "bbox": [
+    444,
+    271,
+    545,
+    289
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    323,
+    215,
+    343
+   ]
+  },
+  {
+   "text": "Kiss Lilla",
+   "bbox": [
+    444,
+    322,
+    530,
+    339
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    376,
+    237,
+    396
+   ]
+  },
+  {
+   "text": "Drávaligethida",
+   "bbox": [
+    444,
+    375,
+    594,
+    398
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    429,
+    230,
+    444
+   ]
+  },
+  {
+   "text": "1954. 06. 09.",
+   "bbox": [
+    444,
+    427,
+    567,
+    443
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    482,
+    180,
+    497
+   ]
+  },
+  {
+   "text": "H-9175 Dunaújváros, Tótharasztii utca 53.",
+   "bbox": [
+    444,
+    483,
+    864,
+    506
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    535,
+    228,
+    550
+   ]
+  },
+  {
+   "text": "06 1 125 6978",
+   "bbox": [
+    444,
+    537,
+    582,
+    553
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    588,
+    211,
+    603
+   ]
+  },
+  {
+   "text": "kiss.janos@example.hu",
+   "bbox": [
+    444,
+    588,
+    680,
+    610
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    641,
+    268,
+    661
+   ]
+  },
+  {
+   "text": "8319355788",
+   "bbox": [
+    444,
+    642,
+    564,
+    658
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    694,
+    199,
+    709
+   ]
+  },
+  {
+   "text": "946 827 303",
+   "bbox": [
+    444,
+    695,
+    564,
+    711
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    776,
+    281,
+    798
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    818,
+    450,
+    838
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    863,
+    288,
+    878
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    908,
+    470,
+    928
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1013,
+    144,
+    1029
+   ]
+  },
+  {
+   "text": "Dunavára, 2026. 08. 12.",
+   "bbox": [
+    194,
+    1009,
+    425,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1062,
+    970,
+    1075
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

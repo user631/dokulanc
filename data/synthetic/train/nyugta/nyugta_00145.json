@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FAZEKAS DISZKONT BT.",
+  "uzlet_cim": "H-9148 Hídkövesd, Dózsa györgy utca 171.",
+  "adoszam": "68700700-5-37",
+  "datum": "2026.10.01.",
+  "ido": "20:10",
+  "nyugtaszam": "9389/78297",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 997 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1682"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "617"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "573"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "424"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "698"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "1197"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "465"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1754"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2715"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2778"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "94"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FAZEKAS DISZKONT BT.",
+   "bbox": [
+    125,
+    36,
+    405,
+    50
+   ]
+  },
+  {
+   "text": "H-9148 Hídkövesd, Dózsa györgy utca 171.",
+   "bbox": [
+    45,
+    66,
+    485,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 68700700-5-37",
+   "bbox": [
+    144,
+    89,
+    386,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    219,
+    133,
+    311,
+    148
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    176,
+    154,
+    188
+   ]
+  },
+  {
+   "text": "1682 B00",
+   "bbox": [
+    402,
+    175,
+    506,
+    188
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    204,
+    141,
+    217
+   ]
+  },
+  {
+   "text": "617 B00",
+   "bbox": [
+    415,
+    204,
+    506,
+    217
+   ]
+  },
+  {
+   "text": "3 DB x 191",
+   "bbox": [
+    24,
+    232,
+    134,
+    243
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    256,
+    206,
+    272
+   ]
+  },
+  {
+   "text": "573 B00",
+   "bbox": [
+    415,
+    256,
+    506,
+    269
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    285,
+    206,
+    298
+   ]
+  },
+  {
+   "text": "424 A00",
+   "bbox": [
+    415,
+    285,
+    506,
+    298
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    314,
+    232,
+    327
+   ]
+  },
+  {
+   "text": "698 B00",
+   "bbox": [
+    415,
+    314,
+    506,
+    327
+   ]
+  },
+  {
+   "text": "3 DB x 399",
+   "bbox": [
+    24,
+    342,
+    134,
+    353
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    366,
+    167,
+    382
+   ]
+  },
+  {
+   "text": "1197 A00",
+   "bbox": [
+    402,
+    366,
+    506,
+    379
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    396,
+    206,
+    408
+   ]
+  },
+  {
+   "text": "465 A00",
+   "bbox": [
+    415,
+    395,
+    506,
+    408
+   ]
+  },
+  {
+   "text": "2 DB x 877",
+   "bbox": [
+    24,
+    423,
+    134,
+    434
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    447,
+    180,
+    460
+   ]
+  },
+  {
+   "text": "1754 A00",
+   "bbox": [
+    402,
+    447,
+    506,
+    460
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    476,
+    141,
+    489
+   ]
+  },
+  {
+   "text": "2715 A00",
+   "bbox": [
+    402,
+    476,
+    506,
+    489
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    505,
+    271,
+    518
+   ]
+  },
+  {
+   "text": "2778 A00",
+   "bbox": [
+    402,
+    505,
+    506,
+    518
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    535,
+    102,
+    547
+   ]
+  },
+  {
+   "text": "94 A00",
+   "bbox": [
+    428,
+    534,
+    506,
+    547
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    570,
+    174,
+    591
+   ]
+  },
+  {
+   "text": "12 997 Ft",
+   "bbox": [
+    371,
+    575,
+    506,
+    591
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    611,
+    154,
+    627
+   ]
+  },
+  {
+   "text": "12 997 Ft",
+   "bbox": [
+    389,
+    614,
+    506,
+    627
+   ]
+  },
+  {
+   "text": "2026.10.01.",
+   "bbox": [
+    24,
+    656,
+    145,
+    668
+   ]
+  },
+  {
+   "text": "20:10",
+   "bbox": [
+    451,
+    656,
+    506,
+    668
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9389/78297",
+   "bbox": [
+    24,
+    682,
+    266,
+    699
+   ]
+  },
+  {
+   "text": "AP A54811138",
+   "bbox": [
+    24,
+    714,
+    156,
+    726
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    174,
+    752,
+    355,
+    768
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  530,
+  812
+ ]
+}

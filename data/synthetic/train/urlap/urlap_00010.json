@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Nemes István",
+  "anyja_neve": "Mészáros Andor",
+  "szuletesi_hely": "Törökmártondevecser",
+  "szuletesi_datum": "1999. 12. 14.",
+  "lakcim": "H-7320 Szombathely, Ceglédi utca 48.",
+  "telefon": "+36 30 208 9082",
+  "email": "nemes.istvan@outlook.com",
+  "adoazonosito_jel": "8485598555",
+  "taj_szam": "026 112 484",
+  "kelt": "Cegléd, 2024. 05. 05."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    329,
+    104,
+    912,
+    135
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    497,
+    158,
+    743,
+    172
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    103,
+    210,
+    284,
+    228
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    114,
+    264,
+    150,
+    277
+   ]
+  },
+  {
+   "text": "Nemes István",
+   "bbox": [
+    439,
+    260,
+    616,
+    280
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    314,
+    203,
+    331
+   ]
+  },
+  {
+   "text": "Mészáros Andor",
+   "bbox": [
+    439,
+    305,
+    647,
+    333
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    115,
+    365,
+    221,
+    382
+   ]
+  },
+  {
+   "text": "Törökmártondevecser",
+   "bbox": [
+    439,
+    359,
+    719,
+    382
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    115,
+    416,
+    213,
+    429
+   ]
+  },
+  {
+   "text": "1999. 12. 14.",
+   "bbox": [
+    439,
+    412,
+    607,
+    430
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    115,
+    467,
+    175,
+    480
+   ]
+  },
+  {
+   "text": "H-7320 Szombathely, Ceglédi utca 48.",
+   "bbox": [
+    439,
+    457,
+    930,
+    485
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    115,
+    518,
+    213,
+    531
+   ]
+  },
+  {
+   "text": "+36 30 208 9082",
+   "bbox": [
+    439,
+    514,
+    655,
+    531
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    115,
+    569,
+    201,
+    582
+   ]
+  },
+  {
+   "text": "nemes.istvan@outlook.com",
+   "bbox": [
+    439,
+    562,
+    792,
+    584
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    620,
+    243,
+    637
+   ]
+  },
+  {
+   "text": "8485598555",
+   "bbox": [
+    439,
+    615,
+    599,
+    633
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    115,
+    672,
+    193,
+    684
+   ]
+  },
+  {
+   "text": "026 112 484",
+   "bbox": [
+    439,
+    670,
+    600,
+    688
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    103,
+    748,
+    253,
+    766
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    148,
+    792,
+    403,
+    809
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    148,
+    837,
+    270,
+    850
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    882,
+    420,
+    899
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    103,
+    983,
+    140,
+    996
+   ]
+  },
+  {
+   "text": "Cegléd, 2024. 05. 05.",
+   "bbox": [
+    193,
+    978,
+    434,
+    1004
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    927,
+    1032,
+    967,
+    1043
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

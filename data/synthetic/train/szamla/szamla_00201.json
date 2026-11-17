@@ -1,0 +1,534 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/02024",
+  "kiallitas_datuma": "2026.05.03.",
+  "teljesites_datuma": "2026.05.03.",
+  "fizetesi_hatarido": "2026.05.18.",
+  "elado_nev": "Török Consulting Bt.",
+  "elado_cim": "H-9137 Kereszthida, Nagytóti utca 27.",
+  "elado_adoszam": "12149322-2-05",
+  "vevo_nev": "Horváth Kft.",
+  "vevo_cim": "H-5790 Bakonyhetvenberény, Petőfi utca 186.",
+  "vevo_adoszam": "42500421-2-08",
+  "bankszamla": "07921429-90969847",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "1 410 090 Ft",
+  "afa_osszesen": "380 725 Ft",
+  "brutto_osszesen": "1 790 815 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "129 310",
+    "netto": "129 310",
+    "afa_kulcs": "27%",
+    "afa": "34 914",
+    "brutto": "164 224"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "56 580",
+    "netto": "56 580",
+    "afa_kulcs": "27%",
+    "afa": "15 277",
+    "brutto": "71 857"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "10 hó",
+    "egysegar": "122 420",
+    "netto": "1 224 200",
+    "afa_kulcs": "27%",
+    "afa": "330 534",
+    "brutto": "1 554 734"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    417,
+    77,
+    823,
+    124
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2026/02024",
+   "bbox": [
+    426,
+    140,
+    814,
+    163
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    70,
+    220,
+    148,
+    240
+   ]
+  },
+  {
+   "text": "Török Consulting Bt.",
+   "bbox": [
+    70,
+    259,
+    333,
+    285
+   ]
+  },
+  {
+   "text": "H-9137 Kereszthida, Nagytóti utca 27.",
+   "bbox": [
+    70,
+    294,
+    485,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 12149322-2-05",
+   "bbox": [
+    70,
+    327,
+    348,
+    346
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    220,
+    702,
+    240
+   ]
+  },
+  {
+   "text": "Horváth Kft.",
+   "bbox": [
+    630,
+    259,
+    789,
+    279
+   ]
+  },
+  {
+   "text": "H-5790 Bakonyhetvenberény, Petőfi utca 186.",
+   "bbox": [
+    630,
+    294,
+    1128,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 42500421-2-08",
+   "bbox": [
+    630,
+    327,
+    908,
+    346
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    70,
+    397,
+    237,
+    414
+   ]
+  },
+  {
+   "text": "2026.05.03.",
+   "bbox": [
+    70,
+    430,
+    189,
+    447
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    345,
+    397,
+    527,
+    419
+   ]
+  },
+  {
+   "text": "2026.05.03.",
+   "bbox": [
+    345,
+    430,
+    464,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    397,
+    791,
+    414
+   ]
+  },
+  {
+   "text": "2026.05.18.",
+   "bbox": [
+    620,
+    430,
+    739,
+    447
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    895,
+    397,
+    1025,
+    414
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    895,
+    429,
+    1011,
+    453
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    70,
+    481,
+    199,
+    503
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    482,
+    587,
+    503
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    657,
+    481,
+    752,
+    503
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    481,
+    884,
+    498
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    890,
+    477,
+    950,
+    498
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1013,
+    477,
+    1055,
+    498
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1103,
+    481,
+    1170,
+    498
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    510,
+    525,
+    603,
+    542
+   ]
+  },
+  {
+   "text": "129 310",
+   "bbox": [
+    674,
+    526,
+    752,
+    542
+   ]
+  },
+  {
+   "text": "129 310",
+   "bbox": [
+    806,
+    526,
+    884,
+    542
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    526,
+    950,
+    542
+   ]
+  },
+  {
+   "text": "34 914",
+   "bbox": [
+    988,
+    526,
+    1054,
+    542
+   ]
+  },
+  {
+   "text": "164 224",
+   "bbox": [
+    1092,
+    526,
+    1170,
+    542
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    70,
+    525,
+    281,
+    547
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    563,
+    554,
+    580
+   ]
+  },
+  {
+   "text": "56 580",
+   "bbox": [
+    686,
+    564,
+    752,
+    580
+   ]
+  },
+  {
+   "text": "56 580",
+   "bbox": [
+    818,
+    564,
+    884,
+    580
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    564,
+    950,
+    580
+   ]
+  },
+  {
+   "text": "15 277",
+   "bbox": [
+    988,
+    564,
+    1054,
+    580
+   ]
+  },
+  {
+   "text": "71 857",
+   "bbox": [
+    1104,
+    564,
+    1170,
+    580
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    70,
+    564,
+    187,
+    580
+   ]
+  },
+  {
+   "text": "10 hó",
+   "bbox": [
+    510,
+    601,
+    565,
+    618
+   ]
+  },
+  {
+   "text": "122 420",
+   "bbox": [
+    674,
+    602,
+    752,
+    618
+   ]
+  },
+  {
+   "text": "1 224 200",
+   "bbox": [
+    788,
+    602,
+    884,
+    618
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    908,
+    602,
+    950,
+    618
+   ]
+  },
+  {
+   "text": "330 534",
+   "bbox": [
+    976,
+    602,
+    1054,
+    618
+   ]
+  },
+  {
+   "text": "1 554 734",
+   "bbox": [
+    1074,
+    602,
+    1170,
+    618
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    70,
+    601,
+    344,
+    623
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    658,
+    662,
+    840,
+    681
+   ]
+  },
+  {
+   "text": "1 410 090 Ft",
+   "bbox": [
+    1029,
+    663,
+    1170,
+    681
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    677,
+    697,
+    840,
+    720
+   ]
+  },
+  {
+   "text": "380 725 Ft",
+   "bbox": [
+    1050,
+    702,
+    1170,
+    720
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    706,
+    740,
+    840,
+    765
+   ]
+  },
+  {
+   "text": "1 790 815 Ft",
+   "bbox": [
+    1020,
+    741,
+    1170,
+    759
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 07921429-90969847",
+   "bbox": [
+    70,
+    807,
+    478,
+    825
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

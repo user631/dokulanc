@@ -1,0 +1,250 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "VÖRÖS MARKET BT.",
+  "uzlet_cim": "H-2292 Ózd, Ady endre utca 70.",
+  "adoszam": "70090644-2-26",
+  "datum": "2026.02.20.",
+  "ido": "09:41",
+  "nyugtaszam": "1829/51720",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "4 018 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1170"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1185"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "333"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "825"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "505"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VÖRÖS MARKET BT.",
+   "bbox": [
+    206,
+    32,
+    431,
+    50
+   ]
+  },
+  {
+   "text": "H-2292 Ózd, Ady endre utca 70.",
+   "bbox": [
+    139,
+    65,
+    499,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 70090644-2-26",
+   "bbox": [
+    187,
+    91,
+    451,
+    107
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    270,
+    137,
+    368,
+    152
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    179,
+    154,
+    193
+   ]
+  },
+  {
+   "text": "1170 A00",
+   "bbox": [
+    511,
+    179,
+    615,
+    193
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    209,
+    128,
+    223
+   ]
+  },
+  {
+   "text": "1185 A00",
+   "bbox": [
+    511,
+    209,
+    615,
+    223
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    239,
+    206,
+    253
+   ]
+  },
+  {
+   "text": "333 B00",
+   "bbox": [
+    524,
+    239,
+    615,
+    253
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    269,
+    141,
+    283
+   ]
+  },
+  {
+   "text": "825 C00",
+   "bbox": [
+    524,
+    269,
+    615,
+    283
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    300,
+    206,
+    313
+   ]
+  },
+  {
+   "text": "505 A00",
+   "bbox": [
+    524,
+    299,
+    615,
+    313
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    337,
+    184,
+    358
+   ]
+  },
+  {
+   "text": "4 018 Ft",
+   "bbox": [
+    487,
+    342,
+    615,
+    358
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    378,
+    168,
+    395
+   ]
+  },
+  {
+   "text": "4 018 Ft",
+   "bbox": [
+    511,
+    381,
+    615,
+    395
+   ]
+  },
+  {
+   "text": "2026.02.20.",
+   "bbox": [
+    24,
+    424,
+    156,
+    437
+   ]
+  },
+  {
+   "text": "09:41",
+   "bbox": [
+    555,
+    424,
+    615,
+    437
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1829/51720",
+   "bbox": [
+    24,
+    451,
+    288,
+    469
+   ]
+  },
+  {
+   "text": "AP A43595812",
+   "bbox": [
+    24,
+    484,
+    168,
+    497
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    220,
+    524,
+    416,
+    540
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  639,
+  584
+ ]
+}

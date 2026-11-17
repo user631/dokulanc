@@ -1,0 +1,215 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HORVÁTH CSEMEGE BT.",
+  "uzlet_cim": "H-7407 Kaposvár, Mindszenthalasi tér 19.",
+  "adoszam": "81257045-5-27",
+  "datum": "2026.03.10.",
+  "ido": "16:47",
+  "nyugtaszam": "3294/64116",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "3 585 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "852"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "519"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2214"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH CSEMEGE BT.",
+   "bbox": [
+    144,
+    28,
+    391,
+    48
+   ]
+  },
+  {
+   "text": "H-7407 Kaposvár, Mindszenthalasi tér 19.",
+   "bbox": [
+    68,
+    65,
+    468,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 81257045-5-27",
+   "bbox": [
+    158,
+    88,
+    378,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    226,
+    130,
+    310,
+    146
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    173,
+    168,
+    186
+   ]
+  },
+  {
+   "text": "852 C00",
+   "bbox": [
+    429,
+    173,
+    513,
+    186
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    202,
+    120,
+    215
+   ]
+  },
+  {
+   "text": "519 B00",
+   "bbox": [
+    429,
+    202,
+    513,
+    215
+   ]
+  },
+  {
+   "text": "2 DB x 1107",
+   "bbox": [
+    24,
+    231,
+    134,
+    242
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    254,
+    180,
+    267
+   ]
+  },
+  {
+   "text": "2214 A00",
+   "bbox": [
+    417,
+    254,
+    513,
+    267
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    291,
+    150,
+    311
+   ]
+  },
+  {
+   "text": "3 585 Ft",
+   "bbox": [
+    401,
+    295,
+    513,
+    311
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    330,
+    120,
+    347
+   ]
+  },
+  {
+   "text": "3 585 Ft",
+   "bbox": [
+    417,
+    334,
+    513,
+    347
+   ]
+  },
+  {
+   "text": "2026.03.10.",
+   "bbox": [
+    24,
+    377,
+    134,
+    389
+   ]
+  },
+  {
+   "text": "16:47",
+   "bbox": [
+    463,
+    377,
+    513,
+    389
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3294/64116",
+   "bbox": [
+    24,
+    403,
+    244,
+    420
+   ]
+  },
+  {
+   "text": "AP A34182747",
+   "bbox": [
+    24,
+    435,
+    144,
+    447
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    213,
+    471,
+    323,
+    488
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  537,
+  534
+ ]
+}

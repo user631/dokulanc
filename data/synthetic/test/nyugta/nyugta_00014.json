@@ -1,0 +1,193 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET KFT.",
+  "uzlet_cim": "H-1010 Veszprém, Egeri utca 76.",
+  "adoszam": "12961531-4-31",
+  "datum": "2026.02.24.",
+  "ido": "09:49",
+  "nyugtaszam": "4356/89602",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "550 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "172"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "378"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET KFT.",
+   "bbox": [
+    190,
+    30,
+    445,
+    51
+   ]
+  },
+  {
+   "text": "H-1010 Veszprém, Egeri utca 76.",
+   "bbox": [
+    116,
+    70,
+    519,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 12961531-4-31",
+   "bbox": [
+    175,
+    94,
+    461,
+    110
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    269,
+    140,
+    367,
+    156
+   ]
+  },
+  {
+   "text": "2 DB x 86",
+   "bbox": [
+    24,
+    182,
+    132,
+    195
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    210,
+    108,
+    223
+   ]
+  },
+  {
+   "text": "172 A00",
+   "bbox": [
+    514,
+    209,
+    612,
+    223
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    240,
+    220,
+    254
+   ]
+  },
+  {
+   "text": "378 C00",
+   "bbox": [
+    514,
+    240,
+    612,
+    254
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    278,
+    184,
+    300
+   ]
+  },
+  {
+   "text": "550 Ft",
+   "bbox": [
+    516,
+    283,
+    612,
+    300
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    321,
+    136,
+    338
+   ]
+  },
+  {
+   "text": "550 Ft",
+   "bbox": [
+    528,
+    324,
+    612,
+    338
+   ]
+  },
+  {
+   "text": "2026.02.24.",
+   "bbox": [
+    24,
+    368,
+    167,
+    381
+   ]
+  },
+  {
+   "text": "09:49",
+   "bbox": [
+    547,
+    368,
+    612,
+    381
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4356/89602",
+   "bbox": [
+    24,
+    396,
+    310,
+    414
+   ]
+  },
+  {
+   "text": "AP A94975778",
+   "bbox": [
+    24,
+    430,
+    180,
+    443
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    219,
+    469,
+    415,
+    487
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  636,
+  531
+ ]
+}

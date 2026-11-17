@@ -1,0 +1,356 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ MARKET BT.",
+  "uzlet_cim": "H-2982 Pécs, Pécsi utca 59.",
+  "adoszam": "85027352-2-06",
+  "datum": "2024.03.02.",
+  "ido": "16:43",
+  "nyugtaszam": "8125/97032",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 536 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "693"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "903"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1618"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1400"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "69"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "437"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1105"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "469"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "842"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ MARKET BT.",
+   "bbox": [
+    206,
+    31,
+    430,
+    49
+   ]
+  },
+  {
+   "text": "H-2982 Pécs, Pécsi utca 59.",
+   "bbox": [
+    169,
+    63,
+    466,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 85027352-2-06",
+   "bbox": [
+    197,
+    88,
+    439,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    273,
+    131,
+    363,
+    147
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    172,
+    232,
+    187
+   ]
+  },
+  {
+   "text": "693 C00",
+   "bbox": [
+    521,
+    172,
+    612,
+    187
+   ]
+  },
+  {
+   "text": "3 DB x 301",
+   "bbox": [
+    24,
+    201,
+    134,
+    214
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    224,
+    206,
+    239
+   ]
+  },
+  {
+   "text": "903 B00",
+   "bbox": [
+    521,
+    224,
+    612,
+    239
+   ]
+  },
+  {
+   "text": "2 DB x 809",
+   "bbox": [
+    24,
+    253,
+    134,
+    266
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    276,
+    180,
+    291
+   ]
+  },
+  {
+   "text": "1618 C00",
+   "bbox": [
+    508,
+    276,
+    612,
+    291
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    305,
+    154,
+    320
+   ]
+  },
+  {
+   "text": "1400 B00",
+   "bbox": [
+    508,
+    305,
+    612,
+    320
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    336,
+    102,
+    349
+   ]
+  },
+  {
+   "text": "69 B00",
+   "bbox": [
+    534,
+    334,
+    612,
+    349
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    363,
+    141,
+    378
+   ]
+  },
+  {
+   "text": "437 A00",
+   "bbox": [
+    521,
+    363,
+    612,
+    378
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    394,
+    193,
+    407
+   ]
+  },
+  {
+   "text": "1105 A00",
+   "bbox": [
+    508,
+    392,
+    612,
+    407
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    423,
+    206,
+    436
+   ]
+  },
+  {
+   "text": "469 B00",
+   "bbox": [
+    521,
+    421,
+    612,
+    436
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    450,
+    141,
+    465
+   ]
+  },
+  {
+   "text": "842 A00",
+   "bbox": [
+    521,
+    450,
+    612,
+    465
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    489,
+    174,
+    509
+   ]
+  },
+  {
+   "text": "7 536 Ft",
+   "bbox": [
+    492,
+    491,
+    612,
+    509
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    528,
+    128,
+    545
+   ]
+  },
+  {
+   "text": "7 536 Ft",
+   "bbox": [
+    508,
+    530,
+    612,
+    545
+   ]
+  },
+  {
+   "text": "2024.03.02.",
+   "bbox": [
+    24,
+    572,
+    145,
+    586
+   ]
+  },
+  {
+   "text": "16:43",
+   "bbox": [
+    557,
+    572,
+    612,
+    586
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8125/97032",
+   "bbox": [
+    24,
+    600,
+    266,
+    618
+   ]
+  },
+  {
+   "text": "AP A61831275",
+   "bbox": [
+    24,
+    630,
+    156,
+    644
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    186,
+    670,
+    450,
+    686
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  636,
+  731
+ ]
+}

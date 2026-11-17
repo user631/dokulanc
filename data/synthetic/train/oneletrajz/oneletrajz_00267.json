@@ -1,0 +1,374 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Rácz Zsuzsanna",
+  "email": "racz.zsuzsanna@gmail.com",
+  "telefon": "+36 30 141 6339",
+  "lakcim": "H-8153 Ligetbánya, Szegedi utca 8.",
+  "szuletesi_datum": "1995.04.05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2015 – 2019"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh és Társa Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2024 – jelenleg"
+   },
+   {
+    "ceg": "Balogh Logisztika Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2020 – 2024"
+   },
+   {
+    "ceg": "Németh és Társa Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2019 – 2020"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Python",
+   "Linux",
+   "Docker",
+   "prezentáció",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    217,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    104,
+    148
+   ]
+  },
+  {
+   "text": "racz.zsuzsanna@gmail.com",
+   "bbox": [
+    40,
+    156,
+    288,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    188,
+    115,
+    202
+   ]
+  },
+  {
+   "text": "+36 30 141 6339",
+   "bbox": [
+    40,
+    211,
+    194,
+    225
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    242,
+    111,
+    256
+   ]
+  },
+  {
+   "text": "H-8153 Ligetbánya, Szegedi utca 8.",
+   "bbox": [
+    40,
+    264,
+    362,
+    282
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    296,
+    203,
+    310
+   ]
+  },
+  {
+   "text": "1995.04.05.",
+   "bbox": [
+    40,
+    319,
+    149,
+    332
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    376,
+    205,
+    398
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    418,
+    138,
+    437
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    40,
+    444,
+    163,
+    463
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    496,
+    184,
+    518
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    539,
+    79,
+    557
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    564,
+    105,
+    583
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    591,
+    91,
+    605
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    616,
+    108,
+    631
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    642,
+    149,
+    661
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    668,
+    275,
+    687
+   ]
+  },
+  {
+   "text": "Rácz Zsuzsanna",
+   "bbox": [
+    450,
+    96,
+    839,
+    133
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    165,
+    678,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    720,
+    251
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    450,
+    276,
+    607,
+    296
+   ]
+  },
+  {
+   "text": "irodavezető – Németh és Társa Zrt.",
+   "bbox": [
+    450,
+    300,
+    865,
+    317
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    341,
+    581,
+    356
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Balogh Logisztika Kft.",
+   "bbox": [
+    449,
+    364,
+    913,
+    385
+   ]
+  },
+  {
+   "text": "2019 – 2020",
+   "bbox": [
+    450,
+    405,
+    581,
+    420
+   ]
+  },
+  {
+   "text": "rendszergazda – Németh és Társa Kft.",
+   "bbox": [
+    450,
+    428,
+    900,
+    449
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    478,
+    630,
+    503
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    529,
+    581,
+    544
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    548,
+    644,
+    573
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    450,
+    575,
+    721,
+    592
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    617,
+    581,
+    632
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    640,
+    735,
+    661
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    664,
+    646,
+    684
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

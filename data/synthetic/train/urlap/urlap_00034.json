@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Simon József",
+  "anyja_neve": "Fekete Ferenc",
+  "szuletesi_hely": "Nádasd",
+  "szuletesi_datum": "1999.02.24.",
+  "lakcim": "H-2262 Kunhátfalva, Petőfi tér 67.",
+  "telefon": "+36 70 174 8072",
+  "email": "simon.jozsef@example.hu",
+  "adoazonosito_jel": "8482668943",
+  "taj_szam": "910 532 428",
+  "kelt": "Törökmindszentbánya, 2025.05.09."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    403,
+    84,
+    836,
+    115
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    481,
+    138,
+    760,
+    154
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    82,
+    191,
+    272,
+    211
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    245,
+    131,
+    258
+   ]
+  },
+  {
+   "text": "Simon József",
+   "bbox": [
+    410,
+    245,
+    532,
+    261
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    297,
+    187,
+    314
+   ]
+  },
+  {
+   "text": "Fekete Ferenc",
+   "bbox": [
+    410,
+    299,
+    535,
+    315
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    94,
+    349,
+    204,
+    366
+   ]
+  },
+  {
+   "text": "Nádasd",
+   "bbox": [
+    409,
+    346,
+    478,
+    362
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    94,
+    401,
+    196,
+    414
+   ]
+  },
+  {
+   "text": "1999.02.24.",
+   "bbox": [
+    410,
+    398,
+    516,
+    413
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    94,
+    453,
+    157,
+    466
+   ]
+  },
+  {
+   "text": "H-2262 Kunhátfalva, Petőfi tér 67.",
+   "bbox": [
+    410,
+    452,
+    719,
+    471
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    94,
+    505,
+    196,
+    518
+   ]
+  },
+  {
+   "text": "+36 70 174 8072",
+   "bbox": [
+    410,
+    507,
+    561,
+    522
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    94,
+    557,
+    183,
+    570
+   ]
+  },
+  {
+   "text": "simon.jozsef@example.hu",
+   "bbox": [
+    410,
+    556,
+    646,
+    577
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    609,
+    229,
+    626
+   ]
+  },
+  {
+   "text": "8482668943",
+   "bbox": [
+    410,
+    607,
+    520,
+    622
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    94,
+    661,
+    175,
+    674
+   ]
+  },
+  {
+   "text": "910 532 428",
+   "bbox": [
+    410,
+    663,
+    521,
+    678
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    82,
+    739,
+    237,
+    759
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    127,
+    783,
+    391,
+    800
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    127,
+    828,
+    253,
+    841
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    873,
+    412,
+    890
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    82,
+    975,
+    123,
+    989
+   ]
+  },
+  {
+   "text": "Törökmindszentbánya, 2025.05.09.",
+   "bbox": [
+    172,
+    971,
+    487,
+    992
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    948,
+    1025,
+    988,
+    1036
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Sándor Zsolt",
+  "email": "sandor.zsolt@freemail.hu",
+  "telefon": "+36 70 555 2744",
+  "lakcim": "H-9515 Halas, Ady endre utca 125.",
+  "szuletesi_datum": "1998. április 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kis és Társa Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2020 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "SAP",
+   "Docker",
+   "ügyfélkezelés",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Sándor Zsolt",
+   "bbox": [
+    480,
+    123,
+    759,
+    158
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    528,
+    188,
+    712,
+    207
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    240,
+    157,
+    256
+   ]
+  },
+  {
+   "text": "sandor.zsolt@freemail.hu",
+   "bbox": [
+    330,
+    240,
+    565,
+    258
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    271,
+    170,
+    287
+   ]
+  },
+  {
+   "text": "+36 70 555 2744",
+   "bbox": [
+    330,
+    272,
+    483,
+    287
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    302,
+    165,
+    318
+   ]
+  },
+  {
+   "text": "H-9515 Halas, Ady endre utca 125.",
+   "bbox": [
+    330,
+    302,
+    650,
+    323
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    333,
+    252,
+    349
+   ]
+  },
+  {
+   "text": "1998. április 28.",
+   "bbox": [
+    330,
+    333,
+    472,
+    354
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    385,
+    321,
+    410
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    436,
+    201,
+    451
+   ]
+  },
+  {
+   "text": "irodavezető – Kis és Társa Kft.",
+   "bbox": [
+    90,
+    460,
+    399,
+    477
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    512,
+    249,
+    537
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    90,
+    563,
+    201,
+    578
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    587,
+    444,
+    609
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    612,
+    397,
+    633
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    654,
+    201,
+    669
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    678,
+    340,
+    700
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    703,
+    271,
+    724
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    755,
+    222,
+    780
+   ]
+  },
+  {
+   "text": "angol (B2), francia (A2)",
+   "bbox": [
+    90,
+    805,
+    300,
+    826
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    853,
+    212,
+    878
+   ]
+  },
+  {
+   "text": "projektmenedzsment, SAP, Docker, ügyfélkezelés, Git",
+   "bbox": [
+    90,
+    903,
+    581,
+    924
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

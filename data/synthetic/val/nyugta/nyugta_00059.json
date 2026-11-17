@@ -1,0 +1,312 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "FAZEKAS MARKET BT.",
+  "uzlet_cim": "H-1751 Pécs, József attila utca 111.",
+  "adoszam": "53026754-5-16",
+  "datum": "2026.03.14.",
+  "ido": "12:55",
+  "nyugtaszam": "3499/57952",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "7 008 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "706"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2064"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "445"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "340"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2327"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "603"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "523"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FAZEKAS MARKET BT.",
+   "bbox": [
+    174,
+    36,
+    426,
+    50
+   ]
+  },
+  {
+   "text": "H-1751 Pécs, József attila utca 111.",
+   "bbox": [
+    102,
+    66,
+    498,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53026754-5-16",
+   "bbox": [
+    179,
+    89,
+    421,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    254,
+    133,
+    346,
+    148
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    175,
+    141,
+    188
+   ]
+  },
+  {
+   "text": "706 A00",
+   "bbox": [
+    485,
+    175,
+    576,
+    188
+   ]
+  },
+  {
+   "text": "2 DB x 1032",
+   "bbox": [
+    24,
+    203,
+    145,
+    214
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    227,
+    128,
+    240
+   ]
+  },
+  {
+   "text": "2064 C00",
+   "bbox": [
+    472,
+    227,
+    576,
+    240
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    256,
+    141,
+    269
+   ]
+  },
+  {
+   "text": "445 C00",
+   "bbox": [
+    485,
+    256,
+    576,
+    269
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    286,
+    193,
+    298
+   ]
+  },
+  {
+   "text": "340 C00",
+   "bbox": [
+    485,
+    285,
+    576,
+    298
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    314,
+    141,
+    327
+   ]
+  },
+  {
+   "text": "2327 C00",
+   "bbox": [
+    472,
+    314,
+    576,
+    327
+   ]
+  },
+  {
+   "text": "3 DB x 201",
+   "bbox": [
+    24,
+    342,
+    134,
+    353
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    366,
+    206,
+    382
+   ]
+  },
+  {
+   "text": "603 C00",
+   "bbox": [
+    485,
+    366,
+    576,
+    379
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    395,
+    206,
+    408
+   ]
+  },
+  {
+   "text": "523 C00",
+   "bbox": [
+    485,
+    395,
+    576,
+    408
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    433,
+    159,
+    452
+   ]
+  },
+  {
+   "text": "7 008 Ft",
+   "bbox": [
+    456,
+    436,
+    576,
+    452
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    472,
+    167,
+    488
+   ]
+  },
+  {
+   "text": "7 008 Ft",
+   "bbox": [
+    472,
+    475,
+    576,
+    488
+   ]
+  },
+  {
+   "text": "2026.03.14.",
+   "bbox": [
+    24,
+    517,
+    145,
+    529
+   ]
+  },
+  {
+   "text": "12:55",
+   "bbox": [
+    521,
+    517,
+    576,
+    529
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3499/57952",
+   "bbox": [
+    24,
+    543,
+    266,
+    560
+   ]
+  },
+  {
+   "text": "AP A74499349",
+   "bbox": [
+    24,
+    575,
+    156,
+    587
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    240,
+    614,
+    360,
+    629
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  600,
+  673
+ ]
+}

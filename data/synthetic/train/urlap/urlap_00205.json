@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Tóth Tímea",
+  "anyja_neve": "Nagy Erzsébet",
+  "szuletesi_hely": "Székdevecser",
+  "szuletesi_datum": "1988. 10. 28.",
+  "lakcim": "H-7355 Mellékváros, Veszprémi utca 119.",
+  "telefon": "+36 30 385 1367",
+  "email": "toth.timea@outlook.com",
+  "adoazonosito_jel": "8444957372",
+  "taj_szam": "458 369 285",
+  "kelt": "Pusztaligetfalu, 2025. 01. 08."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    453,
+    99,
+    788,
+    128
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    500,
+    153,
+    739,
+    167
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    101,
+    205,
+    278,
+    223
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    113,
+    260,
+    147,
+    272
+   ]
+  },
+  {
+   "text": "Tóth Tímea",
+   "bbox": [
+    442,
+    257,
+    538,
+    271
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    113,
+    311,
+    197,
+    326
+   ]
+  },
+  {
+   "text": "Nagy Erzsébet",
+   "bbox": [
+    442,
+    312,
+    562,
+    330
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    113,
+    362,
+    215,
+    377
+   ]
+  },
+  {
+   "text": "Székdevecser",
+   "bbox": [
+    442,
+    362,
+    554,
+    376
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    113,
+    413,
+    208,
+    425
+   ]
+  },
+  {
+   "text": "1988. 10. 28.",
+   "bbox": [
+    442,
+    409,
+    555,
+    422
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    113,
+    464,
+    169,
+    476
+   ]
+  },
+  {
+   "text": "H-7355 Mellékváros, Veszprémi utca 119.",
+   "bbox": [
+    442,
+    461,
+    796,
+    479
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    113,
+    515,
+    211,
+    527
+   ]
+  },
+  {
+   "text": "+36 30 385 1367",
+   "bbox": [
+    442,
+    511,
+    588,
+    524
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    113,
+    566,
+    194,
+    578
+   ]
+  },
+  {
+   "text": "toth.timea@outlook.com",
+   "bbox": [
+    442,
+    565,
+    659,
+    581
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    113,
+    617,
+    240,
+    632
+   ]
+  },
+  {
+   "text": "8444957372",
+   "bbox": [
+    442,
+    618,
+    552,
+    631
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    113,
+    668,
+    184,
+    680
+   ]
+  },
+  {
+   "text": "458 369 285",
+   "bbox": [
+    442,
+    669,
+    551,
+    682
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    101,
+    743,
+    241,
+    761
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    146,
+    789,
+    400,
+    804
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    146,
+    834,
+    265,
+    846
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    146,
+    879,
+    414,
+    894
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    101,
+    979,
+    135,
+    992
+   ]
+  },
+  {
+   "text": "Pusztaligetfalu, 2025. 01. 08.",
+   "bbox": [
+    191,
+    975,
+    438,
+    993
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    929,
+    1029,
+    968,
+    1039
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

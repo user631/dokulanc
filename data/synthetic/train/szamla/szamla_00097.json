@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/08214",
+  "kiallitas_datuma": "2025-01-24",
+  "teljesites_datuma": "2025-01-21",
+  "fizetesi_hatarido": "2025-02-23",
+  "elado_nev": "Szabó Szolgáltató Kft.",
+  "elado_cim": "H-9105 Tapolcaháza, Béke utca 125.",
+  "elado_adoszam": "56076064-2-12",
+  "vevo_nev": "Horváth Logisztika Zrt.",
+  "vevo_cim": "H-3672 Székfalva, Keresztberényi utca 118.",
+  "vevo_adoszam": "71943820-2-05",
+  "bankszamla": "HU50 3242 3747 4571 2110 8295 9718",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "101 480 Ft",
+  "afa_osszesen": "27 400 Ft",
+  "brutto_osszesen": "128 880 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "12 db",
+    "egysegar": "2 490",
+    "netto": "29 880",
+    "afa_kulcs": "27%",
+    "afa": "8 068",
+    "brutto": "37 948"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "5 óra",
+    "egysegar": "14 320",
+    "netto": "71 600",
+    "afa_kulcs": "27%",
+    "afa": "19 332",
+    "brutto": "90 932"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    420,
+    96,
+    820,
+    136
+   ]
+  },
+  {
+   "text": "Számla sorszáma: A-2025/08214",
+   "bbox": [
+    431,
+    161,
+    809,
+    180
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    95,
+    241,
+    166,
+    260
+   ]
+  },
+  {
+   "text": "Horváth Logisztika Zrt.",
+   "bbox": [
+    96,
+    279,
+    376,
+    303
+   ]
+  },
+  {
+   "text": "H-3672 Székfalva, Keresztberényi utca 118.",
+   "bbox": [
+    96,
+    315,
+    560,
+    337
+   ]
+  },
+  {
+   "text": "Adószám: 71943820-2-05",
+   "bbox": [
+    95,
+    347,
+    368,
+    364
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    241,
+    709,
+    260
+   ]
+  },
+  {
+   "text": "Szabó Szolgáltató Kft.",
+   "bbox": [
+    630,
+    279,
+    902,
+    303
+   ]
+  },
+  {
+   "text": "H-9105 Tapolcaháza, Béke utca 125.",
+   "bbox": [
+    630,
+    315,
+    1022,
+    337
+   ]
+  },
+  {
+   "text": "Adószám: 56076064-2-12",
+   "bbox": [
+    629,
+    347,
+    902,
+    364
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    96,
+    415,
+    288,
+    434
+   ]
+  },
+  {
+   "text": "2025-01-24",
+   "bbox": [
+    396,
+    417,
+    516,
+    434
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    96,
+    449,
+    305,
+    473
+   ]
+  },
+  {
+   "text": "2025-01-21",
+   "bbox": [
+    396,
+    451,
+    516,
+    468
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    96,
+    483,
+    294,
+    502
+   ]
+  },
+  {
+   "text": "2025-02-23",
+   "bbox": [
+    396,
+    485,
+    516,
+    502
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    96,
+    517,
+    250,
+    536
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    396,
+    519,
+    496,
+    541
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    96,
+    564,
+    223,
+    584
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    565,
+    589,
+    584
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    649,
+    564,
+    746,
+    584
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    817,
+    564,
+    871,
+    580
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    872,
+    561,
+    934,
+    581
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    990,
+    561,
+    1034,
+    580
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1081,
+    564,
+    1144,
+    580
+   ]
+  },
+  {
+   "text": "12 db",
+   "bbox": [
+    515,
+    608,
+    569,
+    623
+   ]
+  },
+  {
+   "text": "2 490",
+   "bbox": [
+    691,
+    608,
+    745,
+    623
+   ]
+  },
+  {
+   "text": "29 880",
+   "bbox": [
+    805,
+    608,
+    871,
+    623
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    891,
+    608,
+    934,
+    623
+   ]
+  },
+  {
+   "text": "8 068",
+   "bbox": [
+    979,
+    608,
+    1033,
+    623
+   ]
+  },
+  {
+   "text": "37 948",
+   "bbox": [
+    1078,
+    608,
+    1144,
+    623
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    96,
+    608,
+    268,
+    627
+   ]
+  },
+  {
+   "text": "5 óra",
+   "bbox": [
+    515,
+    645,
+    564,
+    660
+   ]
+  },
+  {
+   "text": "14 320",
+   "bbox": [
+    679,
+    645,
+    745,
+    660
+   ]
+  },
+  {
+   "text": "71 600",
+   "bbox": [
+    805,
+    645,
+    871,
+    660
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    891,
+    645,
+    934,
+    660
+   ]
+  },
+  {
+   "text": "19 332",
+   "bbox": [
+    967,
+    645,
+    1033,
+    660
+   ]
+  },
+  {
+   "text": "90 932",
+   "bbox": [
+    1078,
+    645,
+    1144,
+    660
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    96,
+    645,
+    214,
+    660
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    632,
+    702,
+    814,
+    720
+   ]
+  },
+  {
+   "text": "101 480 Ft",
+   "bbox": [
+    1024,
+    702,
+    1144,
+    720
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    642,
+    735,
+    814,
+    758
+   ]
+  },
+  {
+   "text": "27 400 Ft",
+   "bbox": [
+    1038,
+    740,
+    1144,
+    758
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    570,
+    776,
+    814,
+    796
+   ]
+  },
+  {
+   "text": "128 880 Ft",
+   "bbox": [
+    1023,
+    778,
+    1145,
+    796
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU50 3242 3747 4571 2110 8295 9718",
+   "bbox": [
+    96,
+    845,
+    699,
+    862
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    399,
+    1639,
+    841,
+    1657
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

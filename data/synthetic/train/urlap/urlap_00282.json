@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Juhász Tibor",
+  "anyja_neve": "Kovács Ádám",
+  "szuletesi_hely": "Rácmártonvárad",
+  "szuletesi_datum": "1968.04.16.",
+  "lakcim": "H-3231 Hetvenbánya, Fürdővégi utca 208.",
+  "telefon": "+36 20 640 5694",
+  "email": "juhasz.tibor@outlook.com",
+  "adoazonosito_jel": "8369955827",
+  "taj_szam": "963 137 091",
+  "kelt": "Cegléd, 2025.05.11."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    549,
+    97,
+    692,
+    120
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    92,
+    200,
+    286,
+    220
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    104,
+    257,
+    141,
+    270
+   ]
+  },
+  {
+   "text": "Juhász Tibor",
+   "bbox": [
+    426,
+    251,
+    571,
+    271
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    104,
+    310,
+    201,
+    327
+   ]
+  },
+  {
+   "text": "Kovács Ádám",
+   "bbox": [
+    427,
+    305,
+    568,
+    329
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    104,
+    362,
+    222,
+    380
+   ]
+  },
+  {
+   "text": "Rácmártonvárad",
+   "bbox": [
+    423,
+    356,
+    609,
+    377
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    104,
+    415,
+    214,
+    429
+   ]
+  },
+  {
+   "text": "1968.04.16.",
+   "bbox": [
+    427,
+    412,
+    562,
+    432
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    104,
+    468,
+    165,
+    482
+   ]
+  },
+  {
+   "text": "H-3231 Hetvenbánya, Fürdővégi utca 208.",
+   "bbox": [
+    426,
+    460,
+    902,
+    490
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    104,
+    521,
+    214,
+    535
+   ]
+  },
+  {
+   "text": "+36 20 640 5694",
+   "bbox": [
+    427,
+    518,
+    633,
+    539
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    104,
+    574,
+    195,
+    588
+   ]
+  },
+  {
+   "text": "juhasz.tibor@outlook.com",
+   "bbox": [
+    425,
+    572,
+    700,
+    595
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    104,
+    627,
+    250,
+    645
+   ]
+  },
+  {
+   "text": "8369955827",
+   "bbox": [
+    427,
+    627,
+    584,
+    648
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    104,
+    681,
+    184,
+    694
+   ]
+  },
+  {
+   "text": "963 137 091",
+   "bbox": [
+    427,
+    677,
+    572,
+    698
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    92,
+    758,
+    246,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    137,
+    804,
+    427,
+    822
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    137,
+    849,
+    272,
+    863
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    137,
+    894,
+    443,
+    912
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    92,
+    996,
+    131,
+    1010
+   ]
+  },
+  {
+   "text": "Cegléd, 2025.05.11.",
+   "bbox": [
+    182,
+    993,
+    372,
+    1019
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    935,
+    1045,
+    980,
+    1057
+   ]
+  }
+ ],
+ "errors": [
+  "taj_szam"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

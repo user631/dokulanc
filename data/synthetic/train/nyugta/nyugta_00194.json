@@ -1,0 +1,414 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SÁRKÖZI ABC KFT.",
+  "uzlet_cim": "H-3538 Eger, Hídvégi utca 43.",
+  "adoszam": "68892494-2-07",
+  "datum": "2025.09.21.",
+  "ido": "15:18",
+  "nyugtaszam": "4168/83275",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "23 831 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1518"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "5427"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2865"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7134"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2895"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "934"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "602"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "853"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "196"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1407"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SÁRKÖZI ABC KFT.",
+   "bbox": [
+    176,
+    30,
+    416,
+    50
+   ]
+  },
+  {
+   "text": "H-3538 Eger, Hídvégi utca 43.",
+   "bbox": [
+    107,
+    65,
+    484,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 68892494-2-07",
+   "bbox": [
+    153,
+    92,
+    439,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    248,
+    138,
+    345,
+    155
+   ]
+  },
+  {
+   "text": "3 DB x 506",
+   "bbox": [
+    24,
+    180,
+    144,
+    194
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    205,
+    136,
+    222
+   ]
+  },
+  {
+   "text": "1518 B00",
+   "bbox": [
+    456,
+    205,
+    568,
+    222
+   ]
+  },
+  {
+   "text": "3 DB x 1809",
+   "bbox": [
+    24,
+    236,
+    156,
+    250
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    264,
+    164,
+    278
+   ]
+  },
+  {
+   "text": "5427 C00",
+   "bbox": [
+    456,
+    261,
+    568,
+    278
+   ]
+  },
+  {
+   "text": "3 DB x 955",
+   "bbox": [
+    24,
+    292,
+    144,
+    306
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    320,
+    206,
+    334
+   ]
+  },
+  {
+   "text": "2865 A00",
+   "bbox": [
+    456,
+    317,
+    568,
+    334
+   ]
+  },
+  {
+   "text": "3 DB x 2378",
+   "bbox": [
+    24,
+    348,
+    156,
+    362
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    373,
+    150,
+    390
+   ]
+  },
+  {
+   "text": "7134 B00",
+   "bbox": [
+    456,
+    373,
+    568,
+    390
+   ]
+  },
+  {
+   "text": "3 DB x 965",
+   "bbox": [
+    24,
+    404,
+    144,
+    418
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    429,
+    192,
+    446
+   ]
+  },
+  {
+   "text": "2895 C00",
+   "bbox": [
+    456,
+    429,
+    568,
+    446
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    460,
+    234,
+    477
+   ]
+  },
+  {
+   "text": "934 C00",
+   "bbox": [
+    470,
+    460,
+    568,
+    477
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    491,
+    248,
+    508
+   ]
+  },
+  {
+   "text": "602 A00",
+   "bbox": [
+    470,
+    491,
+    568,
+    508
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    522,
+    136,
+    539
+   ]
+  },
+  {
+   "text": "853 A00",
+   "bbox": [
+    470,
+    522,
+    568,
+    539
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    553,
+    220,
+    574
+   ]
+  },
+  {
+   "text": "196 B00",
+   "bbox": [
+    470,
+    553,
+    568,
+    570
+   ]
+  },
+  {
+   "text": "3 DB x 469",
+   "bbox": [
+    24,
+    584,
+    144,
+    598
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    609,
+    220,
+    626
+   ]
+  },
+  {
+   "text": "1407 A00",
+   "bbox": [
+    456,
+    609,
+    568,
+    626
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    651,
+    184,
+    672
+   ]
+  },
+  {
+   "text": "23 831 Ft",
+   "bbox": [
+    424,
+    652,
+    568,
+    672
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    692,
+    136,
+    710
+   ]
+  },
+  {
+   "text": "23 831 Ft",
+   "bbox": [
+    442,
+    693,
+    568,
+    710
+   ]
+  },
+  {
+   "text": "2025.09.21.",
+   "bbox": [
+    24,
+    738,
+    167,
+    753
+   ]
+  },
+  {
+   "text": "15:18",
+   "bbox": [
+    503,
+    738,
+    568,
+    753
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4168/83275",
+   "bbox": [
+    24,
+    767,
+    310,
+    787
+   ]
+  },
+  {
+   "text": "AP A86679758",
+   "bbox": [
+    24,
+    800,
+    180,
+    815
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    198,
+    842,
+    393,
+    859
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  592,
+  904
+ ]
+}

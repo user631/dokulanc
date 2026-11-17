@@ -1,0 +1,297 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Varga Csaba",
+  "email": "varga.csaba@gmail.com",
+  "telefon": "+36 20 553 8375",
+  "lakcim": "H-8608 Fürdőhida, Felsőgyörgyi utca 82.",
+  "szuletesi_datum": "1979. 12. 26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "biológus BSc",
+    "idoszak": "1997 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács és Társa Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2001 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Java",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    217,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    104,
+    148
+   ]
+  },
+  {
+   "text": "varga.csaba@gmail.com",
+   "bbox": [
+    40,
+    156,
+    263,
+    174
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    188,
+    115,
+    202
+   ]
+  },
+  {
+   "text": "+36 20 553 8375",
+   "bbox": [
+    40,
+    211,
+    194,
+    225
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    242,
+    111,
+    256
+   ]
+  },
+  {
+   "text": "H-8608 Fürdőhida, Felsőgyörgyi utca",
+   "bbox": [
+    40,
+    264,
+    372,
+    282
+   ]
+  },
+  {
+   "text": "82.",
+   "bbox": [
+    40,
+    287,
+    69,
+    300
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    318,
+    203,
+    332
+   ]
+  },
+  {
+   "text": "1979. 12. 26.",
+   "bbox": [
+    40,
+    341,
+    161,
+    354
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    398,
+    205,
+    420
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    440,
+    142,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    184,
+    514
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    534,
+    105,
+    553
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    561,
+    82,
+    575
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    587,
+    79,
+    605
+   ]
+  },
+  {
+   "text": "Varga Csaba",
+   "bbox": [
+    450,
+    98,
+    757,
+    141
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    165,
+    678,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    227,
+    720,
+    251
+   ]
+  },
+  {
+   "text": "2001 – 2002",
+   "bbox": [
+    450,
+    277,
+    581,
+    292
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kovács és Társa Zrt.",
+   "bbox": [
+    450,
+    300,
+    1035,
+    321
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    350,
+    630,
+    375
+   ]
+  },
+  {
+   "text": "1997 – 2002",
+   "bbox": [
+    450,
+    401,
+    581,
+    416
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    424,
+    776,
+    445
+   ]
+  },
+  {
+   "text": "biológus BSc",
+   "bbox": [
+    450,
+    447,
+    576,
+    468
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    450,
+    489,
+    581,
+    504
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    512,
+    735,
+    533
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    535,
+    538,
+    556
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

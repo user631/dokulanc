@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kiss József",
+  "anyja_neve": "Horváth Gábor",
+  "szuletesi_hely": "Mártonvára",
+  "szuletesi_datum": "1958. 09. 30.",
+  "lakcim": "H-4993 Györgyvárad, Miskolci utca 10.",
+  "telefon": "+36 20 141 5841",
+  "email": "kiss.jozsef@example.hu",
+  "adoazonosito_jel": "8335097488",
+  "taj_szam": "192 713 146",
+  "kelt": "Hódmezővásárhely, 2026. 05. 10."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    313,
+    82,
+    928,
+    118
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    458,
+    141,
+    782,
+    159
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    194,
+    316,
+    218
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    253,
+    139,
+    268
+   ]
+  },
+  {
+   "text": "Kiss József",
+   "bbox": [
+    415,
+    248,
+    537,
+    265
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    94,
+    307,
+    208,
+    326
+   ]
+  },
+  {
+   "text": "Horváth Gábor",
+   "bbox": [
+    415,
+    305,
+    572,
+    322
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    361,
+    235,
+    380
+   ]
+  },
+  {
+   "text": "Mártonvára",
+   "bbox": [
+    415,
+    356,
+    535,
+    373
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    415,
+    224,
+    430
+   ]
+  },
+  {
+   "text": "1958. 09. 30.",
+   "bbox": [
+    415,
+    410,
+    554,
+    427
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    469,
+    171,
+    484
+   ]
+  },
+  {
+   "text": "H-4993 Györgyvárad, Miskolci utca 10.",
+   "bbox": [
+    415,
+    469,
+    825,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    523,
+    225,
+    538
+   ]
+  },
+  {
+   "text": "+36 20 141 5841",
+   "bbox": [
+    415,
+    524,
+    593,
+    541
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    577,
+    203,
+    592
+   ]
+  },
+  {
+   "text": "kiss.jozsef@example.hu",
+   "bbox": [
+    415,
+    574,
+    671,
+    596
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    94,
+    631,
+    261,
+    650
+   ]
+  },
+  {
+   "text": "8335097488",
+   "bbox": [
+    415,
+    629,
+    545,
+    646
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    685,
+    197,
+    700
+   ]
+  },
+  {
+   "text": "192 713 146",
+   "bbox": [
+    415,
+    684,
+    546,
+    701
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    764,
+    265,
+    786
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    810,
+    469,
+    829
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    855,
+    284,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    127,
+    900,
+    487,
+    919
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    1002,
+    127,
+    1018
+   ]
+  },
+  {
+   "text": "Hódmezővásárhely, 2026. 05. 10.",
+   "bbox": [
+    173,
+    999,
+    528,
+    1021
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    940,
+    1052,
+    994,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,297 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Fekete Andrea",
+  "email": "fekete.andrea@outlook.com",
+  "telefon": "06 1 419 3880",
+  "lakcim": "H-1466 Mindszentváros, Mosonmagyaróvári utca 85.",
+  "szuletesi_datum": "2002. 03. 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Váradi Trade Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "Excel",
+   "B kategóriás jogosítvány"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    106,
+    213,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    153,
+    97,
+    167
+   ]
+  },
+  {
+   "text": "fekete.andrea@outlook.com",
+   "bbox": [
+    40,
+    176,
+    283,
+    194
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    209,
+    109,
+    223
+   ]
+  },
+  {
+   "text": "06 1 419 3880",
+   "bbox": [
+    40,
+    232,
+    165,
+    246
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    264,
+    107,
+    279
+   ]
+  },
+  {
+   "text": "H-1466 Mindszentváros,",
+   "bbox": [
+    40,
+    288,
+    251,
+    305
+   ]
+  },
+  {
+   "text": "Mosonmagyaróvári utca 85.",
+   "bbox": [
+    40,
+    311,
+    280,
+    329
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    343,
+    187,
+    358
+   ]
+  },
+  {
+   "text": "2002. 03. 23.",
+   "bbox": [
+    40,
+    367,
+    153,
+    381
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    426,
+    196,
+    447
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    469,
+    140,
+    488
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    522,
+    181,
+    543
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    565,
+    133,
+    584
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    592,
+    88,
+    607
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    619,
+    258,
+    638
+   ]
+  },
+  {
+   "text": "Fekete Andrea",
+   "bbox": [
+    450,
+    115,
+    760,
+    147
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    180,
+    565,
+    207
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    247,
+    688,
+    270
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    298,
+    597,
+    317
+   ]
+  },
+  {
+   "text": "rendszergazda – Váradi Trade Kft.",
+   "bbox": [
+    450,
+    321,
+    800,
+    342
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    372,
+    610,
+    397
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    425,
+    570,
+    440
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    449,
+    641,
+    469
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    475,
+    581,
+    494
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    516,
+    570,
+    531
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    539,
+    704,
+    560
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    566,
+    633,
+    585
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Dániel",
+  "email": "szabo.daniel@freemail.hu",
+  "telefon": "+36 20 332 3361",
+  "lakcim": "H-2478 Mezőmártonkőrös, Debreceni utca 218.",
+  "szuletesi_datum": "1999. 07. 28.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2018 – 2023"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2014 – 2018"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Török Szolgáltató Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Veres Consulting Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2022 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "C#",
+   "prezentáció",
+   "Git",
+   "Excel",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    89,
+    192,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    96,
+    149
+   ]
+  },
+  {
+   "text": "szabo.daniel@freemail.hu",
+   "bbox": [
+    40,
+    158,
+    260,
+    173
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    191,
+    109,
+    205
+   ]
+  },
+  {
+   "text": "+36 20 332 3361",
+   "bbox": [
+    40,
+    214,
+    178,
+    228
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    247,
+    103,
+    261
+   ]
+  },
+  {
+   "text": "H-2478 Mezőmártonkőrös, Debreceni",
+   "bbox": [
+    40,
+    269,
+    350,
+    287
+   ]
+  },
+  {
+   "text": "utca 218.",
+   "bbox": [
+    40,
+    293,
+    120,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    326,
+    183,
+    340
+   ]
+  },
+  {
+   "text": "1999. 07. 28.",
+   "bbox": [
+    40,
+    349,
+    153,
+    363
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    409,
+    181,
+    430
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    450,
+    139,
+    470
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    478,
+    146,
+    497
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    532,
+    160,
+    553
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    575,
+    82,
+    589
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    602,
+    63,
+    616
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    627,
+    148,
+    647
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    656,
+    68,
+    670
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    682,
+    88,
+    697
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    709,
+    159,
+    728
+   ]
+  },
+  {
+   "text": "Szabó Dániel",
+   "bbox": [
+    450,
+    97,
+    718,
+    131
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    165,
+    665,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    229,
+    680,
+    253
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    450,
+    280,
+    589,
+    299
+   ]
+  },
+  {
+   "text": "értékesítő – Szabó Szolgáltató Bt.",
+   "bbox": [
+    450,
+    304,
+    794,
+    326
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    346,
+    589,
+    365
+   ]
+  },
+  {
+   "text": "projektmenedzser – Török Szolgáltató Kft.",
+   "bbox": [
+    450,
+    370,
+    885,
+    392
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    450,
+    412,
+    558,
+    427
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Veres Consulting Zrt.",
+   "bbox": [
+    450,
+    436,
+    862,
+    458
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    488,
+    605,
+    512
+   ]
+  },
+  {
+   "text": "2018 – 2023",
+   "bbox": [
+    450,
+    539,
+    558,
+    554
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    563,
+    635,
+    585
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    588,
+    567,
+    608
+   ]
+  },
+  {
+   "text": "2014 – 2018",
+   "bbox": [
+    450,
+    630,
+    558,
+    645
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    654,
+    756,
+    676
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    680,
+    634,
+    699
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

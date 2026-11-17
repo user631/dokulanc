@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Somogyi Sándor",
+  "email": "somogyi.sandor@citromail.hu",
+  "telefon": "+36 20 652 4546",
+  "lakcim": "H-3145 Mátrafürdővár, Nagyháti utca 106.",
+  "szuletesi_datum": "1988. 04. 22.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2007 – 2011"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Juhász Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2015 – 2019"
+   },
+   {
+    "ceg": "Kiss Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2013 – 2015"
+   },
+   {
+    "ceg": "Balogh Logisztika Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2011 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "Excel",
+   "SQL",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Somogyi Sándor",
+   "bbox": [
+    457,
+    102,
+    783,
+    145
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    529,
+    177,
+    710,
+    195
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    231,
+    156,
+    247
+   ]
+  },
+  {
+   "text": "somogyi.sandor@citromail.hu",
+   "bbox": [
+    330,
+    231,
+    610,
+    251
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    168,
+    280
+   ]
+  },
+  {
+   "text": "+36 20 652 4546",
+   "bbox": [
+    330,
+    265,
+    488,
+    280
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    163,
+    313
+   ]
+  },
+  {
+   "text": "H-3145 Mátrafürdővár, Nagyháti utca 106.",
+   "bbox": [
+    330,
+    296,
+    729,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    330,
+    248,
+    346
+   ]
+  },
+  {
+   "text": "1988. 04. 22.",
+   "bbox": [
+    330,
+    331,
+    454,
+    346
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    383,
+    310,
+    407
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    437,
+    207,
+    452
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Juhász Zrt.",
+   "bbox": [
+    90,
+    463,
+    486,
+    483
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    90,
+    507,
+    207,
+    522
+   ]
+  },
+  {
+   "text": "adatelemző – Kiss Kft.",
+   "bbox": [
+    90,
+    533,
+    309,
+    549
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    90,
+    577,
+    207,
+    592
+   ]
+  },
+  {
+   "text": "projektmenedzser – Balogh Logisztika Zrt.",
+   "bbox": [
+    90,
+    603,
+    506,
+    623
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    656,
+    241,
+    680
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    710,
+    207,
+    725
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    736,
+    269,
+    756
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    762,
+    213,
+    783
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    807,
+    207,
+    822
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    833,
+    346,
+    849
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    860,
+    272,
+    880
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    913,
+    216,
+    937
+   ]
+  },
+  {
+   "text": "francia (A2), spanyol (B1)",
+   "bbox": [
+    90,
+    966,
+    324,
+    986
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1015,
+    206,
+    1039
+   ]
+  },
+  {
+   "text": "Git, prezentáció, Excel, SQL, csapatmunka",
+   "bbox": [
+    90,
+    1067,
+    478,
+    1088
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Farkas István",
+  "email": "farkas.istvan@gmail.com",
+  "telefon": "06 1 186 1516",
+  "lakcim": "H-9404 Szolnok, Hetvenvárai utca 61.",
+  "szuletesi_datum": "1979. május 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "1997 – 2000"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1993 – 1997"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Barta Bt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2001 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "C#",
+   "SQL",
+   "ügyfélkezelés",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Farkas István",
+   "bbox": [
+    489,
+    83,
+    751,
+    118
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    565,
+    155,
+    674,
+    180
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    211,
+    153,
+    226
+   ]
+  },
+  {
+   "text": "farkas.istvan@gmail.com",
+   "bbox": [
+    330,
+    211,
+    560,
+    230
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    243,
+    165,
+    258
+   ]
+  },
+  {
+   "text": "06 1 186 1516",
+   "bbox": [
+    330,
+    244,
+    455,
+    258
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    275,
+    159,
+    290
+   ]
+  },
+  {
+   "text": "H-9404 Szolnok, Hetvenvárai utca 61.",
+   "bbox": [
+    330,
+    274,
+    667,
+    294
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    307,
+    242,
+    322
+   ]
+  },
+  {
+   "text": "1979. május 9.",
+   "bbox": [
+    330,
+    306,
+    462,
+    326
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    359,
+    302,
+    382
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    412,
+    199,
+    426
+   ]
+  },
+  {
+   "text": "tesztmérnök – Barta Bt.",
+   "bbox": [
+    90,
+    437,
+    314,
+    453
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    489,
+    237,
+    512
+   ]
+  },
+  {
+   "text": "1997 – 2000",
+   "bbox": [
+    90,
+    542,
+    199,
+    556
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    567,
+    413,
+    587
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    593,
+    235,
+    608
+   ]
+  },
+  {
+   "text": "1993 – 1997",
+   "bbox": [
+    90,
+    636,
+    199,
+    650
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    661,
+    332,
+    677
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    686,
+    324,
+    706
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    739,
+    210,
+    762
+   ]
+  },
+  {
+   "text": "német (B1), angol (B2)",
+   "bbox": [
+    90,
+    790,
+    293,
+    810
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    839,
+    198,
+    862
+   ]
+  },
+  {
+   "text": "Excel, C#, SQL, ügyfélkezelés, projektmenedzsment",
+   "bbox": [
+    90,
+    890,
+    549,
+    910
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Ágnes",
+  "email": "szabo.agnes@gmail.com",
+  "telefon": "+36 20 150 8527",
+  "lakcim": "H-1188 Eger, Mosontóti utca 17.",
+  "szuletesi_datum": "2002. 07. 16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Németh Trade Kft.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "Python",
+   "projektmenedzsment",
+   "ügyfélkezelés",
+   "JavaScript",
+   "SQL"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Ágnes",
+   "bbox": [
+    479,
+    88,
+    760,
+    143
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    517,
+    162,
+    722,
+    187
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    214,
+    157,
+    230
+   ]
+  },
+  {
+   "text": "szabo.agnes@gmail.com",
+   "bbox": [
+    330,
+    214,
+    560,
+    235
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    245,
+    170,
+    261
+   ]
+  },
+  {
+   "text": "+36 20 150 8527",
+   "bbox": [
+    330,
+    246,
+    483,
+    261
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    276,
+    165,
+    292
+   ]
+  },
+  {
+   "text": "H-1188 Eger, Mosontóti utca 17.",
+   "bbox": [
+    330,
+    276,
+    629,
+    297
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    307,
+    252,
+    323
+   ]
+  },
+  {
+   "text": "2002. 07. 16.",
+   "bbox": [
+    330,
+    308,
+    445,
+    323
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    359,
+    321,
+    384
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    409,
+    229,
+    430
+   ]
+  },
+  {
+   "text": "irodavezető – Kovács Kft.",
+   "bbox": [
+    90,
+    434,
+    351,
+    451
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    475,
+    229,
+    496
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Szabó Szolgáltató Kft.",
+   "bbox": [
+    90,
+    500,
+    512,
+    522
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    541,
+    229,
+    562
+   ]
+  },
+  {
+   "text": "rendszergazda – Németh Trade Kft.",
+   "bbox": [
+    90,
+    566,
+    458,
+    588
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    618,
+    249,
+    643
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    669,
+    201,
+    684
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    693,
+    444,
+    715
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    90,
+    718,
+    238,
+    734
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    760,
+    201,
+    775
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    784,
+    340,
+    806
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    809,
+    327,
+    830
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    861,
+    222,
+    886
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    90,
+    911,
+    180,
+    930
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    959,
+    212,
+    984
+   ]
+  },
+  {
+   "text": "Excel, Python, projektmenedzsment, ügyfélkezelés, JavaScript, SQL",
+   "bbox": [
+    90,
+    1009,
+    705,
+    1030
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

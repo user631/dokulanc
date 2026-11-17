@@ -1,0 +1,206 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-7288 Veszprém, Hetvenvárosi utca 175.",
+  "adoszam": "34438338-4-23",
+  "datum": "2026.01.11.",
+  "ido": "08:30",
+  "nyugtaszam": "4391/51175",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "2 604 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "352"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1265"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "987"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    195,
+    34,
+    420,
+    50
+   ]
+  },
+  {
+   "text": "H-7288 Veszprém, Hetvenvárosi utca 175.",
+   "bbox": [
+    54,
+    65,
+    561,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34438338-4-23",
+   "bbox": [
+    165,
+    92,
+    451,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    260,
+    138,
+    357,
+    155
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    180,
+    178,
+    201
+   ]
+  },
+  {
+   "text": "352 C00",
+   "bbox": [
+    495,
+    180,
+    593,
+    197
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    214,
+    164,
+    228
+   ]
+  },
+  {
+   "text": "1265 B00",
+   "bbox": [
+    481,
+    211,
+    593,
+    228
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    242,
+    136,
+    259
+   ]
+  },
+  {
+   "text": "987 A00",
+   "bbox": [
+    495,
+    242,
+    593,
+    259
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    284,
+    184,
+    305
+   ]
+  },
+  {
+   "text": "2 604 Ft",
+   "bbox": [
+    465,
+    285,
+    593,
+    305
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    325,
+    178,
+    343
+   ]
+  },
+  {
+   "text": "2 604 Ft",
+   "bbox": [
+    481,
+    326,
+    593,
+    343
+   ]
+  },
+  {
+   "text": "2026.01.11.",
+   "bbox": [
+    24,
+    371,
+    167,
+    386
+   ]
+  },
+  {
+   "text": "08:30",
+   "bbox": [
+    528,
+    371,
+    593,
+    386
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4391/51175",
+   "bbox": [
+    24,
+    400,
+    310,
+    420
+   ]
+  },
+  {
+   "text": "AP A70838244",
+   "bbox": [
+    24,
+    433,
+    180,
+    448
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    243,
+    475,
+    373,
+    492
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  617,
+  537
+ ]
+}

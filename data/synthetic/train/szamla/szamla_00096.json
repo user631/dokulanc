@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "SZ-2024/09455",
+  "kiallitas_datuma": "2024. 08. 18.",
+  "teljesites_datuma": "2024. 08. 18.",
+  "fizetesi_hatarido": "2024. 09. 02.",
+  "elado_nev": "Kovács és Társa Kft.",
+  "elado_cim": "H-8658 Ráchídvára, Kunhetveni utca 3.",
+  "elado_adoszam": "96674642-2-15",
+  "vevo_nev": "Szabó és Társa Kft.",
+  "vevo_cim": "H-5189 Tótvár, Szegedi út 207.",
+  "vevo_adoszam": "38434161-2-18",
+  "bankszamla": "HU29 0626 9397 9989 7158 0000 0000",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "740 620 Ft",
+  "afa_osszesen": "197 983 Ft",
+  "brutto_osszesen": "938 603 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "146 320",
+    "netto": "731 600",
+    "afa_kulcs": "27%",
+    "afa": "197 532",
+    "brutto": "929 132"
+   },
+   {
+    "megnevezes": "Szakmai folyóirat előfizetés",
+    "mennyiseg": "1 év",
+    "egysegar": "9 020",
+    "netto": "9 020",
+    "afa_kulcs": "5%",
+    "afa": "451",
+    "brutto": "9 471"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    110,
+    114,
+    212,
+    134
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    983,
+    91,
+    1159,
+    128
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2024/09455",
+   "bbox": [
+    918,
+    156,
+    1159,
+    172
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    81,
+    237,
+    147,
+    252
+   ]
+  },
+  {
+   "text": "Kovács és Társa Kft.",
+   "bbox": [
+    81,
+    272,
+    289,
+    287
+   ]
+  },
+  {
+   "text": "H-8658 Ráchídvára, Kunhetveni utca 3.",
+   "bbox": [
+    81,
+    303,
+    419,
+    321
+   ]
+  },
+  {
+   "text": "Adószám: 96674642-2-15",
+   "bbox": [
+    81,
+    332,
+    306,
+    347
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    237,
+    689,
+    252
+   ]
+  },
+  {
+   "text": "Szabó és Társa Kft.",
+   "bbox": [
+    630,
+    272,
+    825,
+    287
+   ]
+  },
+  {
+   "text": "H-5189 Tótvár, Szegedi út 207.",
+   "bbox": [
+    630,
+    303,
+    900,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 38434161-2-18",
+   "bbox": [
+    630,
+    332,
+    855,
+    347
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    81,
+    400,
+    241,
+    414
+   ]
+  },
+  {
+   "text": "2024. 08. 18.",
+   "bbox": [
+    381,
+    400,
+    494,
+    414
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    81,
+    431,
+    247,
+    449
+   ]
+  },
+  {
+   "text": "2024. 08. 18.",
+   "bbox": [
+    381,
+    431,
+    494,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    81,
+    462,
+    239,
+    476
+   ]
+  },
+  {
+   "text": "2024. 09. 02.",
+   "bbox": [
+    381,
+    462,
+    494,
+    476
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    81,
+    493,
+    201,
+    507
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    381,
+    492,
+    458,
+    511
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    81,
+    535,
+    173,
+    552
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    536,
+    571,
+    552
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    678,
+    535,
+    749,
+    552
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    836,
+    535,
+    878,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    532,
+    943,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1008,
+    532,
+    1045,
+    548
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1108,
+    535,
+    1159,
+    548
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    512,
+    575,
+    544,
+    588
+   ]
+  },
+  {
+   "text": "146 320",
+   "bbox": [
+    690,
+    576,
+    749,
+    588
+   ]
+  },
+  {
+   "text": "731 600",
+   "bbox": [
+    819,
+    576,
+    878,
+    588
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    576,
+    943,
+    588
+   ]
+  },
+  {
+   "text": "197 532",
+   "bbox": [
+    986,
+    576,
+    1045,
+    588
+   ]
+  },
+  {
+   "text": "929 132",
+   "bbox": [
+    1100,
+    576,
+    1159,
+    588
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    81,
+    575,
+    288,
+    592
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    512,
+    610,
+    543,
+    622
+   ]
+  },
+  {
+   "text": "9 020",
+   "bbox": [
+    708,
+    610,
+    749,
+    622
+   ]
+  },
+  {
+   "text": "9 020",
+   "bbox": [
+    837,
+    610,
+    878,
+    622
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    919,
+    610,
+    943,
+    622
+   ]
+  },
+  {
+   "text": "451",
+   "bbox": [
+    1018,
+    610,
+    1045,
+    622
+   ]
+  },
+  {
+   "text": "9 471",
+   "bbox": [
+    1118,
+    610,
+    1159,
+    622
+   ]
+  },
+  {
+   "text": "Szakmai folyóirat előfizetés",
+   "bbox": [
+    81,
+    609,
+    284,
+    626
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    688,
+    663,
+    829,
+    679
+   ]
+  },
+  {
+   "text": "740 620 Ft",
+   "bbox": [
+    1063,
+    664,
+    1160,
+    679
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    694,
+    694,
+    829,
+    714
+   ]
+  },
+  {
+   "text": "197 983 Ft",
+   "bbox": [
+    1063,
+    699,
+    1160,
+    714
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    662,
+    734,
+    829,
+    754
+   ]
+  },
+  {
+   "text": "938 603 Ft",
+   "bbox": [
+    1061,
+    734,
+    1160,
+    749
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU29 0626 9397 9989 7158 0000 0000",
+   "bbox": [
+    81,
+    798,
+    551,
+    812
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    81,
+    827,
+    566,
+    843
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    457,
+    1658,
+    784,
+    1672
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

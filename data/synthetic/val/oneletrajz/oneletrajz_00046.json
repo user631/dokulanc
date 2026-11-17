@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kiss Ilona",
+  "email": "kiss.ilona@outlook.com",
+  "telefon": "+36 30 414 6940",
+  "lakcim": "H-8365 Székesfehérvár, Keresztvári utca 208.",
+  "szuletesi_datum": "1979. szeptember 11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Takács Consulting Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "ceg": "Farkas Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2003 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "SQL",
+   "Linux",
+   "B kategóriás jogosítvány",
+   "C#",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss Ilona",
+   "bbox": [
+    517,
+    109,
+    722,
+    144
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    174,
+    719,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    225,
+    155,
+    240
+   ]
+  },
+  {
+   "text": "kiss.ilona@outlook.com",
+   "bbox": [
+    330,
+    225,
+    538,
+    242
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    167,
+    270
+   ]
+  },
+  {
+   "text": "+36 30 414 6940",
+   "bbox": [
+    330,
+    256,
+    480,
+    270
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    285,
+    161,
+    300
+   ]
+  },
+  {
+   "text": "H-8365 Székesfehérvár, Keresztvári utca 208.",
+   "bbox": [
+    330,
+    285,
+    718,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    315,
+    246,
+    330
+   ]
+  },
+  {
+   "text": "1979. szeptember 11.",
+   "bbox": [
+    330,
+    315,
+    516,
+    335
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    366,
+    314,
+    390
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    416,
+    198,
+    430
+   ]
+  },
+  {
+   "text": "értékesítő – Takács Consulting Zrt.",
+   "bbox": [
+    90,
+    439,
+    429,
+    460
+   ]
+  },
+  {
+   "text": "2003 – 2004",
+   "bbox": [
+    90,
+    480,
+    198,
+    494
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Farkas Tech Kft.",
+   "bbox": [
+    90,
+    503,
+    534,
+    524
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    554,
+    246,
+    578
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    90,
+    604,
+    198,
+    618
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    627,
+    266,
+    648
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    651,
+    208,
+    671
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    692,
+    198,
+    706
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    715,
+    329,
+    736
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    739,
+    166,
+    759
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    790,
+    218,
+    814
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    839,
+    184,
+    857
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    886,
+    208,
+    910
+   ]
+  },
+  {
+   "text": "Docker, SQL, Linux, B kategóriás jogosítvány, C#, Git",
+   "bbox": [
+    90,
+    935,
+    541,
+    955
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

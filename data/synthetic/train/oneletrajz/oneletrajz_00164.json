@@ -1,0 +1,340 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kis László",
+  "email": "kis.laszlo@example.hu",
+  "telefon": "06 1 803 2983",
+  "lakcim": "H-3179 Nyékmártonkőrös, Tapolcafalvai utca 215.",
+  "szuletesi_datum": "1995.10.08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2015 – 2019"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Novák Trade Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2021 – 2023"
+   },
+   {
+    "ceg": "Fábián Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2019 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "Linux",
+   "SAP",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    220,
+    110
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    134,
+    107,
+    151
+   ]
+  },
+  {
+   "text": "kis.laszlo@example.hu",
+   "bbox": [
+    40,
+    159,
+    247,
+    180
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    194,
+    117,
+    211
+   ]
+  },
+  {
+   "text": "06 1 803 2983",
+   "bbox": [
+    40,
+    220,
+    171,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    254,
+    115,
+    271
+   ]
+  },
+  {
+   "text": "H-3179 Nyékmártonkőrös,",
+   "bbox": [
+    40,
+    279,
+    280,
+    300
+   ]
+  },
+  {
+   "text": "Tapolcafalvai utca 215.",
+   "bbox": [
+    39,
+    304,
+    254,
+    325
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    339,
+    207,
+    356
+   ]
+  },
+  {
+   "text": "1995.10.08.",
+   "bbox": [
+    40,
+    365,
+    146,
+    381
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    424,
+    207,
+    450
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    471,
+    141,
+    492
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    499,
+    149,
+    521
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    553,
+    187,
+    579
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    600,
+    244,
+    621
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    630,
+    91,
+    646
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    659,
+    77,
+    675
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    686,
+    152,
+    708
+   ]
+  },
+  {
+   "text": "Kis László",
+   "bbox": [
+    450,
+    94,
+    682,
+    133
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    165,
+    672,
+    192
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    231,
+    722,
+    257
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    450,
+    284,
+    581,
+    301
+   ]
+  },
+  {
+   "text": "adatelemző – Novák Trade Kft.",
+   "bbox": [
+    450,
+    309,
+    820,
+    329
+   ]
+  },
+  {
+   "text": "2019 – 2021",
+   "bbox": [
+    450,
+    354,
+    581,
+    371
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Fábián Tech Kft.",
+   "bbox": [
+    449,
+    379,
+    854,
+    404
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    433,
+    634,
+    460
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    487,
+    581,
+    504
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    512,
+    858,
+    537
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    539,
+    783,
+    563
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    584,
+    581,
+    601
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    609,
+    736,
+    634
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    636,
+    538,
+    660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

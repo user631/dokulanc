@@ -1,0 +1,228 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HAJDU ABC BT.",
+  "uzlet_cim": "H-5465 Hátdevecser, József attila utca 68.",
+  "adoszam": "17235541-3-03",
+  "datum": "2026.09.24.",
+  "ido": "15:31",
+  "nyugtaszam": "3460/96638",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "3 374 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1285"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "422"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "890"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "777"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HAJDU ABC BT.",
+   "bbox": [
+    213,
+    36,
+    382,
+    49
+   ]
+  },
+  {
+   "text": "H-5465 Hátdevecser, József attila utca 68.",
+   "bbox": [
+    67,
+    65,
+    529,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 17235541-3-03",
+   "bbox": [
+    177,
+    87,
+    419,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    255,
+    130,
+    341,
+    144
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    170,
+    168,
+    183
+   ]
+  },
+  {
+   "text": "1285 C00",
+   "bbox": [
+    476,
+    170,
+    572,
+    183
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    199,
+    192,
+    211
+   ]
+  },
+  {
+   "text": "422 A00",
+   "bbox": [
+    488,
+    198,
+    572,
+    211
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    226,
+    120,
+    239
+   ]
+  },
+  {
+   "text": "890 A00",
+   "bbox": [
+    488,
+    226,
+    572,
+    239
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    254,
+    216,
+    267
+   ]
+  },
+  {
+   "text": "777 C00",
+   "bbox": [
+    488,
+    254,
+    572,
+    267
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    290,
+    164,
+    310
+   ]
+  },
+  {
+   "text": "3 374 Ft",
+   "bbox": [
+    460,
+    295,
+    573,
+    310
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    329,
+    156,
+    345
+   ]
+  },
+  {
+   "text": "3 374 Ft",
+   "bbox": [
+    476,
+    332,
+    572,
+    345
+   ]
+  },
+  {
+   "text": "2026.09.24.",
+   "bbox": [
+    24,
+    374,
+    145,
+    385
+   ]
+  },
+  {
+   "text": "15:31",
+   "bbox": [
+    517,
+    374,
+    572,
+    385
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3460/96638",
+   "bbox": [
+    24,
+    399,
+    266,
+    414
+   ]
+  },
+  {
+   "text": "AP A11169856",
+   "bbox": [
+    24,
+    430,
+    156,
+    441
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    214,
+    467,
+    380,
+    482
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  596,
+  526
+ ]
+}

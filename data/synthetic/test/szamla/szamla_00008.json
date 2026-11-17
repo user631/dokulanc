@@ -1,0 +1,471 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "E-2025/07364",
+  "kiallitas_datuma": "2025. július 1.",
+  "teljesites_datuma": "2025. június 27.",
+  "fizetesi_hatarido": "2025. július 16.",
+  "elado_nev": "Horváth Logisztika Zrt.",
+  "elado_cim": "H-2726 Veszprém, Egyházashídi utca 213.",
+  "elado_adoszam": "50602580-3-34",
+  "vevo_nev": "Juhász Zoltán",
+  "vevo_cim": "H-7066 Somogyfürdőkőrös, Székkőrösi utca 23.",
+  "vevo_adoszam": null,
+  "bankszamla": "69579440-01380764-12994062",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "86 590 Ft",
+  "afa_osszesen": "23 379 Ft",
+  "brutto_osszesen": "109 969 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "1 db",
+    "egysegar": "14 390",
+    "netto": "14 390",
+    "afa_kulcs": "27%",
+    "afa": "3 885",
+    "brutto": "18 275"
+   },
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "5 év",
+    "egysegar": "14 440",
+    "netto": "72 200",
+    "afa_kulcs": "27%",
+    "afa": "19 494",
+    "brutto": "91 694"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Számla",
+   "bbox": [
+    552,
+    83,
+    687,
+    114
+   ]
+  },
+  {
+   "text": "Számla sorszáma: E-2025/07364",
+   "bbox": [
+    454,
+    139,
+    786,
+    157
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    74,
+    219,
+    146,
+    237
+   ]
+  },
+  {
+   "text": "Horváth Logisztika Zrt.",
+   "bbox": [
+    74,
+    256,
+    332,
+    279
+   ]
+  },
+  {
+   "text": "H-2726 Veszprém, Egyházashídi utca 213.",
+   "bbox": [
+    74,
+    291,
+    476,
+    312
+   ]
+  },
+  {
+   "text": "Adószám: 50602580-3-34",
+   "bbox": [
+    74,
+    322,
+    322,
+    338
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    219,
+    693,
+    237
+   ]
+  },
+  {
+   "text": "Juhász Zoltán",
+   "bbox": [
+    630,
+    256,
+    783,
+    274
+   ]
+  },
+  {
+   "text": "H-7066 Somogyfürdőkőrös, Székkőrösi utca 23.",
+   "bbox": [
+    630,
+    291,
+    1089,
+    312
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    74,
+    392,
+    248,
+    407
+   ]
+  },
+  {
+   "text": "2025. július 1.",
+   "bbox": [
+    374,
+    391,
+    509,
+    412
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    74,
+    425,
+    256,
+    445
+   ]
+  },
+  {
+   "text": "2025. június 27.",
+   "bbox": [
+    374,
+    424,
+    527,
+    445
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    74,
+    458,
+    247,
+    473
+   ]
+  },
+  {
+   "text": "2025. július 16.",
+   "bbox": [
+    374,
+    457,
+    521,
+    478
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    74,
+    491,
+    205,
+    506
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    374,
+    490,
+    459,
+    511
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    74,
+    535,
+    177,
+    552
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    535,
+    575,
+    552
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    672,
+    535,
+    751,
+    552
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    835,
+    535,
+    882,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    531,
+    947,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1011,
+    531,
+    1052,
+    548
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1109,
+    535,
+    1166,
+    548
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    576,
+    545,
+    590
+   ]
+  },
+  {
+   "text": "14 390",
+   "bbox": [
+    696,
+    577,
+    751,
+    590
+   ]
+  },
+  {
+   "text": "14 390",
+   "bbox": [
+    827,
+    577,
+    882,
+    590
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    577,
+    947,
+    590
+   ]
+  },
+  {
+   "text": "3 885",
+   "bbox": [
+    1006,
+    577,
+    1051,
+    590
+   ]
+  },
+  {
+   "text": "18 275",
+   "bbox": [
+    1111,
+    577,
+    1166,
+    590
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    74,
+    576,
+    178,
+    594
+   ]
+  },
+  {
+   "text": "5 év",
+   "bbox": [
+    510,
+    613,
+    544,
+    626
+   ]
+  },
+  {
+   "text": "14 440",
+   "bbox": [
+    696,
+    613,
+    751,
+    626
+   ]
+  },
+  {
+   "text": "72 200",
+   "bbox": [
+    827,
+    613,
+    882,
+    626
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    910,
+    613,
+    947,
+    626
+   ]
+  },
+  {
+   "text": "19 494",
+   "bbox": [
+    996,
+    613,
+    1051,
+    626
+   ]
+  },
+  {
+   "text": "91 694",
+   "bbox": [
+    1111,
+    613,
+    1166,
+    626
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    74,
+    612,
+    223,
+    630
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    684,
+    670,
+    836,
+    686
+   ]
+  },
+  {
+   "text": "86 590 Ft",
+   "bbox": [
+    1074,
+    670,
+    1166,
+    686
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    692,
+    702,
+    836,
+    723
+   ]
+  },
+  {
+   "text": "23 379 Ft",
+   "bbox": [
+    1074,
+    707,
+    1166,
+    723
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    724,
+    744,
+    836,
+    765
+   ]
+  },
+  {
+   "text": "109 969 Ft",
+   "bbox": [
+    1059,
+    744,
+    1166,
+    760
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 69579440-01380764-12994062",
+   "bbox": [
+    74,
+    809,
+    519,
+    825
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    74,
+    840,
+    591,
+    857
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    490,
+    1663,
+    749,
+    1680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

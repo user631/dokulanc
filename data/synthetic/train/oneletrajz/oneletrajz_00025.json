@@ -1,0 +1,350 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Nagy Béla",
+  "email": "nagy.bela@freemail.hu",
+  "telefon": "+36 20 624 9521",
+  "lakcim": "H-6628 Hajdúmindszentberény, Arany jános utca 85.",
+  "szuletesi_datum": "1979. 09. 09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mérnökinformatikus BSc",
+    "idoszak": "1999 – 2004"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Consulting Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Hegedűs Tech Zrt.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Docker",
+   "ügyfélkezelés",
+   "C#",
+   "SQL",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    105,
+    208,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    151,
+    101,
+    166
+   ]
+  },
+  {
+   "text": "nagy.bela@freemail.hu",
+   "bbox": [
+    40,
+    174,
+    234,
+    193
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    207,
+    111,
+    222
+   ]
+  },
+  {
+   "text": "+36 20 624 9521",
+   "bbox": [
+    40,
+    231,
+    182,
+    245
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    262,
+    107,
+    278
+   ]
+  },
+  {
+   "text": "H-6628 Hajdúmindszentberény, Arany",
+   "bbox": [
+    40,
+    286,
+    360,
+    305
+   ]
+  },
+  {
+   "text": "jános utca 85.",
+   "bbox": [
+    39,
+    309,
+    158,
+    328
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    341,
+    193,
+    357
+   ]
+  },
+  {
+   "text": "1979. 09. 09.",
+   "bbox": [
+    40,
+    366,
+    150,
+    380
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    425,
+    195,
+    447
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    467,
+    134,
+    487
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    521,
+    176,
+    543
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    564,
+    65,
+    579
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    590,
+    103,
+    606
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    616,
+    160,
+    637
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    645,
+    67,
+    660
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    672,
+    75,
+    691
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    698,
+    158,
+    718
+   ]
+  },
+  {
+   "text": "Nagy Béla",
+   "bbox": [
+    450,
+    112,
+    678,
+    158
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    182,
+    633,
+    202
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    245,
+    704,
+    270
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    450,
+    296,
+    563,
+    312
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Horváth Consulting Zrt.",
+   "bbox": [
+    449,
+    320,
+    905,
+    342
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    362,
+    563,
+    378
+   ]
+  },
+  {
+   "text": "tesztmérnök – Hegedűs Tech Zrt.",
+   "bbox": [
+    450,
+    386,
+    815,
+    408
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    437,
+    620,
+    463
+   ]
+  },
+  {
+   "text": "1999 – 2004",
+   "bbox": [
+    450,
+    489,
+    563,
+    505
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    509,
+    632,
+    535
+   ]
+  },
+  {
+   "text": "mérnökinformatikus BSc",
+   "bbox": [
+    450,
+    538,
+    676,
+    555
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    450,
+    580,
+    563,
+    596
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    604,
+    715,
+    626
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    629,
+    630,
+    650
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Rácz József",
+  "email": "racz.jozsef@outlook.com",
+  "telefon": "+36 30 693 1163",
+  "lakcim": "H-6422 Váctamásidevecser, Nyírtóti utca 151.",
+  "szuletesi_datum": "1986. szeptember 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Trade Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2015 – 2016"
+   },
+   {
+    "ceg": "Török Consulting Bt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "ceg": "Bogdán Consulting Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Java",
+   "Git",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Rácz József",
+   "bbox": [
+    493,
+    114,
+    748,
+    150
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    525,
+    182,
+    715,
+    201
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    161,
+    250
+   ]
+  },
+  {
+   "text": "racz.jozsef@outlook.com",
+   "bbox": [
+    330,
+    233,
+    572,
+    255
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    173,
+    282
+   ]
+  },
+  {
+   "text": "+36 30 693 1163",
+   "bbox": [
+    330,
+    266,
+    495,
+    282
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    297,
+    168,
+    314
+   ]
+  },
+  {
+   "text": "H-6422 Váctamásidevecser, Nyírtóti utca 151.",
+   "bbox": [
+    330,
+    297,
+    769,
+    319
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    329,
+    261,
+    346
+   ]
+  },
+  {
+   "text": "1986. szeptember 15.",
+   "bbox": [
+    330,
+    329,
+    539,
+    351
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    384,
+    330,
+    409
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    434,
+    209,
+    450
+   ]
+  },
+  {
+   "text": "projektmenedzser – Varga Trade Zrt.",
+   "bbox": [
+    90,
+    460,
+    479,
+    482
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    502,
+    209,
+    518
+   ]
+  },
+  {
+   "text": "irodavezető – Török Consulting Bt.",
+   "bbox": [
+    90,
+    528,
+    462,
+    550
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    570,
+    209,
+    586
+   ]
+  },
+  {
+   "text": "értékesítő – Bogdán Consulting Zrt.",
+   "bbox": [
+    90,
+    596,
+    471,
+    618
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    650,
+    257,
+    675
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    700,
+    209,
+    716
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    726,
+    356,
+    748
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    751,
+    222,
+    773
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    794,
+    209,
+    810
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    820,
+    348,
+    842
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    845,
+    332,
+    867
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    900,
+    227,
+    925
+   ]
+  },
+  {
+   "text": "angol (B2), spanyol (B1)",
+   "bbox": [
+    90,
+    949,
+    319,
+    971
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1000,
+    214,
+    1025
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, Java, Git, C#",
+   "bbox": [
+    90,
+    1049,
+    453,
+    1071
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

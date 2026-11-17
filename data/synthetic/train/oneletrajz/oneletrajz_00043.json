@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Jakab Bernadett",
+  "email": "jakab.bernadett@citromail.hu",
+  "telefon": "06 1 981 6247",
+  "lakcim": "H-4085 Hetvenbánya, Miskolci utca 79.",
+  "szuletesi_datum": "1984. 12. 04.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2004 – 2009"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Török Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "ceg": "Tóth Consulting Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2008 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "SAP",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    180,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    91,
+    154
+   ]
+  },
+  {
+   "text": "jakab.bernadett@citromail.hu",
+   "bbox": [
+    38,
+    162,
+    265,
+    179
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    193,
+    100,
+    206
+   ]
+  },
+  {
+   "text": "06 1 981 6247",
+   "bbox": [
+    40,
+    215,
+    145,
+    227
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    245,
+    97,
+    258
+   ]
+  },
+  {
+   "text": "H-4085 Hetvenbánya, Miskolci utca 79.",
+   "bbox": [
+    40,
+    266,
+    334,
+    283
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    297,
+    168,
+    310
+   ]
+  },
+  {
+   "text": "1984. 12. 04.",
+   "bbox": [
+    40,
+    319,
+    134,
+    331
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    376,
+    175,
+    396
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    417,
+    125,
+    433
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    468,
+    153,
+    488
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    508,
+    208,
+    526
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    534,
+    72,
+    547
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    558,
+    78,
+    572
+   ]
+  },
+  {
+   "text": "Jakab Bernadett",
+   "bbox": [
+    450,
+    109,
+    779,
+    141
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    170,
+    554,
+    195
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    234,
+    662,
+    256
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    283,
+    550,
+    296
+   ]
+  },
+  {
+   "text": "adatelemző – Török Zrt.",
+   "bbox": [
+    450,
+    305,
+    676,
+    320
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    345,
+    550,
+    358
+   ]
+  },
+  {
+   "text": "értékesítő – Tóth Consulting Kft.",
+   "bbox": [
+    450,
+    367,
+    758,
+    387
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    417,
+    597,
+    439
+   ]
+  },
+  {
+   "text": "2004 – 2009",
+   "bbox": [
+    450,
+    466,
+    550,
+    479
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    488,
+    711,
+    508
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    511,
+    736,
+    529
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    551,
+    550,
+    564
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    573,
+    733,
+    593
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    596,
+    614,
+    614
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

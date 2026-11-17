@@ -1,0 +1,299 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "FEHÉR KISBOLT BT.",
+  "uzlet_cim": "H-9301 Szombathely, Béke út 78.",
+  "adoszam": "25080504-4-43",
+  "datum": "2025.04.26.",
+  "ido": "16:53",
+  "nyugtaszam": "1023/02051",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "8 201 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "744"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1971"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "81"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "716"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "887"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "3802"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "FEHÉR KISBOLT BT.",
+   "bbox": [
+    166,
+    31,
+    387,
+    49
+   ]
+  },
+  {
+   "text": "H-9301 Szombathely, Béke út 78.",
+   "bbox": [
+    106,
+    65,
+    447,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 25080504-4-43",
+   "bbox": [
+    156,
+    87,
+    398,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    234,
+    130,
+    320,
+    144
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    170,
+    216,
+    183
+   ]
+  },
+  {
+   "text": "744 A00",
+   "bbox": [
+    447,
+    170,
+    531,
+    183
+   ]
+  },
+  {
+   "text": "3 DB x 657",
+   "bbox": [
+    24,
+    198,
+    124,
+    209
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    220,
+    132,
+    233
+   ]
+  },
+  {
+   "text": "1971 A00",
+   "bbox": [
+    435,
+    220,
+    531,
+    233
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    249,
+    96,
+    261
+   ]
+  },
+  {
+   "text": "81 A00",
+   "bbox": [
+    459,
+    248,
+    531,
+    261
+   ]
+  },
+  {
+   "text": "2 DB x 358",
+   "bbox": [
+    24,
+    276,
+    124,
+    287
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    298,
+    156,
+    314
+   ]
+  },
+  {
+   "text": "716 A00",
+   "bbox": [
+    447,
+    298,
+    531,
+    311
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    326,
+    120,
+    339
+   ]
+  },
+  {
+   "text": "887 B00",
+   "bbox": [
+    447,
+    326,
+    531,
+    339
+   ]
+  },
+  {
+   "text": "2 DB x 1901",
+   "bbox": [
+    24,
+    354,
+    134,
+    365
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    376,
+    252,
+    389
+   ]
+  },
+  {
+   "text": "3802 A00",
+   "bbox": [
+    435,
+    376,
+    531,
+    389
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    23,
+    412,
+    164,
+    432
+   ]
+  },
+  {
+   "text": "8 201 Ft",
+   "bbox": [
+    419,
+    417,
+    532,
+    432
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    451,
+    120,
+    467
+   ]
+  },
+  {
+   "text": "8 201 Ft",
+   "bbox": [
+    435,
+    454,
+    531,
+    467
+   ]
+  },
+  {
+   "text": "2025.04.26.",
+   "bbox": [
+    24,
+    496,
+    145,
+    507
+   ]
+  },
+  {
+   "text": "16:53",
+   "bbox": [
+    476,
+    496,
+    531,
+    507
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1023/02051",
+   "bbox": [
+    24,
+    521,
+    266,
+    536
+   ]
+  },
+  {
+   "text": "AP A37330891",
+   "bbox": [
+    24,
+    552,
+    156,
+    563
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    156,
+    589,
+    398,
+    604
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  555,
+  648
+ ]
+}

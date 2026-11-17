@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BOROS KISBOLT KFT.",
+  "uzlet_cim": "H-9288 Mellékvárad, Pécsi utca 88.",
+  "adoszam": "70082496-3-26",
+  "datum": "2024.06.08.",
+  "ido": "08:19",
+  "nyugtaszam": "0702/07380",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 002 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2796"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1065"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1779"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2497"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "754"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "668"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "225"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "218"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BOROS KISBOLT KFT.",
+   "bbox": [
+    186,
+    33,
+    420,
+    48
+   ]
+  },
+  {
+   "text": "H-9288 Mellékvárad, Pécsi utca 88.",
+   "bbox": [
+    116,
+    64,
+    490,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 70082496-3-26",
+   "bbox": [
+    182,
+    88,
+    424,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    133,
+    346,
+    150
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    177,
+    132,
+    191
+   ]
+  },
+  {
+   "text": "2796 B00",
+   "bbox": [
+    486,
+    177,
+    582,
+    191
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    207,
+    204,
+    221
+   ]
+  },
+  {
+   "text": "1065 C00",
+   "bbox": [
+    486,
+    207,
+    582,
+    221
+   ]
+  },
+  {
+   "text": "3 DB x 593",
+   "bbox": [
+    24,
+    237,
+    124,
+    249
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    261,
+    120,
+    275
+   ]
+  },
+  {
+   "text": "1779 B00",
+   "bbox": [
+    486,
+    261,
+    582,
+    275
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    291,
+    252,
+    305
+   ]
+  },
+  {
+   "text": "2497 C00",
+   "bbox": [
+    486,
+    291,
+    582,
+    305
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    321,
+    120,
+    335
+   ]
+  },
+  {
+   "text": "754 B00",
+   "bbox": [
+    498,
+    321,
+    582,
+    335
+   ]
+  },
+  {
+   "text": "2 DB x 334",
+   "bbox": [
+    24,
+    351,
+    124,
+    363
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    375,
+    192,
+    389
+   ]
+  },
+  {
+   "text": "668 B00",
+   "bbox": [
+    498,
+    375,
+    582,
+    389
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    405,
+    192,
+    423
+   ]
+  },
+  {
+   "text": "225 A00",
+   "bbox": [
+    498,
+    405,
+    582,
+    419
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    435,
+    180,
+    449
+   ]
+  },
+  {
+   "text": "218 B00",
+   "bbox": [
+    498,
+    435,
+    582,
+    449
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    472,
+    164,
+    494
+   ]
+  },
+  {
+   "text": "10 002 Ft",
+   "bbox": [
+    456,
+    477,
+    582,
+    494
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    512,
+    144,
+    531
+   ]
+  },
+  {
+   "text": "10 002 Ft",
+   "bbox": [
+    474,
+    517,
+    582,
+    531
+   ]
+  },
+  {
+   "text": "2024.06.08.",
+   "bbox": [
+    24,
+    560,
+    145,
+    573
+   ]
+  },
+  {
+   "text": "08:19",
+   "bbox": [
+    527,
+    560,
+    582,
+    573
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0702/07380",
+   "bbox": [
+    24,
+    586,
+    266,
+    605
+   ]
+  },
+  {
+   "text": "AP A23120984",
+   "bbox": [
+    24,
+    620,
+    156,
+    633
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    243,
+    659,
+    363,
+    676
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  606,
+  722
+ ]
+}

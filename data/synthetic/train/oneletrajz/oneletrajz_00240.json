@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Nagy Jenő",
+  "email": "nagy.jeno@example.hu",
+  "telefon": "+36 70 488 9051",
+  "lakcim": "H-6078 Kisgyörgyvára, Tamásifalui út 212.",
+  "szuletesi_datum": "1984.04.07.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Trade Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2016 – 2018"
+   },
+   {
+    "ceg": "Hegedűs Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2012 – 2016"
+   },
+   {
+    "ceg": "Fekete Trade Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "SAP",
+   "csapatmunka",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Nagy Jenő",
+   "bbox": [
+    500,
+    91,
+    740,
+    135
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    523,
+    159,
+    716,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    209,
+    162,
+    223
+   ]
+  },
+  {
+   "text": "nagy.jeno@example.hu",
+   "bbox": [
+    330,
+    209,
+    527,
+    227
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    238,
+    171,
+    252
+   ]
+  },
+  {
+   "text": "+36 70 488 9051",
+   "bbox": [
+    330,
+    239,
+    474,
+    255
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    267,
+    169,
+    281
+   ]
+  },
+  {
+   "text": "H-6078 Kisgyörgyvára, Tamásifalui út 212.",
+   "bbox": [
+    330,
+    266,
+    695,
+    285
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    296,
+    255,
+    310
+   ]
+  },
+  {
+   "text": "1984.04.07.",
+   "bbox": [
+    330,
+    297,
+    431,
+    313
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    346,
+    327,
+    368
+   ]
+  },
+  {
+   "text": "2016 – 2018",
+   "bbox": [
+    90,
+    395,
+    196,
+    408
+   ]
+  },
+  {
+   "text": "adatelemző – Kovács Trade Bt.",
+   "bbox": [
+    90,
+    417,
+    405,
+    432
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    90,
+    457,
+    196,
+    470
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Hegedűs Zrt.",
+   "bbox": [
+    90,
+    479,
+    527,
+    498
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    519,
+    200,
+    532
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Fekete Trade Zrt.",
+   "bbox": [
+    90,
+    541,
+    502,
+    560
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    591,
+    257,
+    613
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    90,
+    640,
+    204,
+    656
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    662,
+    440,
+    681
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    685,
+    376,
+    703
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    728,
+    205,
+    741
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    747,
+    385,
+    766
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    770,
+    306,
+    788
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    820,
+    222,
+    842
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    90,
+    868,
+    182,
+    885
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    914,
+    213,
+    936
+   ]
+  },
+  {
+   "text": "Java, SAP, csapatmunka, JavaScript",
+   "bbox": [
+    90,
+    962,
+    400,
+    980
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

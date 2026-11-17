@@ -1,0 +1,353 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Balogh Katalin",
+  "email": "balogh.katalin@freemail.hu",
+  "telefon": "+36 70 532 9529",
+  "lakcim": "H-3036 Békéscsaba, Dunakeszii utca 145.",
+  "szuletesi_datum": "1996. 12. 05.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2015 – 2019"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2025 – jelenleg"
+   },
+   {
+    "ceg": "Szilágyi Tech Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "ceg": "Fehér Logisztika Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2019 – 2021"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Docker",
+   "Linux",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    102,
+    217,
+    124
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    148,
+    104,
+    162
+   ]
+  },
+  {
+   "text": "balogh.katalin@freemail.hu",
+   "bbox": [
+    40,
+    170,
+    290,
+    188
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    202,
+    115,
+    216
+   ]
+  },
+  {
+   "text": "+36 70 532 9529",
+   "bbox": [
+    40,
+    225,
+    194,
+    239
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    111,
+    270
+   ]
+  },
+  {
+   "text": "H-3036 Békéscsaba, Dunakeszii utca",
+   "bbox": [
+    40,
+    278,
+    371,
+    295
+   ]
+  },
+  {
+   "text": "145.",
+   "bbox": [
+    40,
+    301,
+    80,
+    314
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    332,
+    203,
+    346
+   ]
+  },
+  {
+   "text": "1996. 12. 05.",
+   "bbox": [
+    40,
+    355,
+    161,
+    368
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    412,
+    205,
+    434
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    454,
+    149,
+    473
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    506,
+    184,
+    528
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    549,
+    82,
+    563
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    574,
+    108,
+    589
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    601,
+    91,
+    615
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    626,
+    89,
+    641
+   ]
+  },
+  {
+   "text": "Balogh Katalin",
+   "bbox": [
+    450,
+    112,
+    808,
+    155
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    179,
+    678,
+    203
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    241,
+    720,
+    265
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    290,
+    607,
+    310
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kovács Zrt.",
+   "bbox": [
+    449,
+    314,
+    788,
+    335
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    355,
+    581,
+    370
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szilágyi Tech Bt.",
+   "bbox": [
+    450,
+    378,
+    994,
+    399
+   ]
+  },
+  {
+   "text": "2019 – 2021",
+   "bbox": [
+    450,
+    419,
+    581,
+    434
+   ]
+  },
+  {
+   "text": "rendszergazda – Fehér Logisztika Bt.",
+   "bbox": [
+    450,
+    442,
+    887,
+    463
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    492,
+    630,
+    517
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    543,
+    581,
+    558
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    566,
+    743,
+    587
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    590,
+    590,
+    610
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    631,
+    581,
+    646
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    654,
+    735,
+    675
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    677,
+    710,
+    698
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

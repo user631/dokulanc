@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Balogh Ferenc",
+  "email": "balogh.ferenc@citromail.hu",
+  "telefon": "+36 70 484 1078",
+  "lakcim": "H-4026 Keresztvárad, Orosztóti út 103.",
+  "szuletesi_datum": "1977. december 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1995 – 2000"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sipos Tech Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2004 – 2006"
+   },
+   {
+    "ceg": "Tóth Consulting Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2002 – 2004"
+   },
+   {
+    "ceg": "Farkas Logisztika Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "1999 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "SAP",
+   "Docker"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balogh Ferenc",
+   "bbox": [
+    453,
+    106,
+    786,
+    151
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    176,
+    728,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    163,
+    245
+   ]
+  },
+  {
+   "text": "balogh.ferenc@citromail.hu",
+   "bbox": [
+    330,
+    229,
+    594,
+    249
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    261,
+    173,
+    277
+   ]
+  },
+  {
+   "text": "+36 70 484 1078",
+   "bbox": [
+    330,
+    261,
+    493,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    292,
+    172,
+    309
+   ]
+  },
+  {
+   "text": "H-4026 Keresztvárad, Orosztóti út 103.",
+   "bbox": [
+    330,
+    293,
+    706,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    324,
+    262,
+    341
+   ]
+  },
+  {
+   "text": "1977. december 17.",
+   "bbox": [
+    330,
+    325,
+    522,
+    341
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    378,
+    332,
+    402
+   ]
+  },
+  {
+   "text": "2004 – 2006",
+   "bbox": [
+    90,
+    429,
+    210,
+    445
+   ]
+  },
+  {
+   "text": "értékesítő – Sipos Tech Kft.",
+   "bbox": [
+    90,
+    455,
+    392,
+    477
+   ]
+  },
+  {
+   "text": "2002 – 2004",
+   "bbox": [
+    90,
+    497,
+    210,
+    513
+   ]
+  },
+  {
+   "text": "rendszergazda – Tóth Consulting Bt.",
+   "bbox": [
+    90,
+    523,
+    491,
+    545
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    90,
+    565,
+    210,
+    581
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Farkas Logisztika Kft.",
+   "bbox": [
+    90,
+    591,
+    590,
+    613
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    644,
+    257,
+    668
+   ]
+  },
+  {
+   "text": "1995 – 2000",
+   "bbox": [
+    90,
+    695,
+    210,
+    711
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    721,
+    304,
+    743
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    747,
+    252,
+    767
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    90,
+    789,
+    210,
+    805
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    815,
+    361,
+    837
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    841,
+    273,
+    861
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    894,
+    227,
+    918
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    945,
+    197,
+    965
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    994,
+    223,
+    1018
+   ]
+  },
+  {
+   "text": "JavaScript, csapatmunka, B kategóriás jogosítvány, SAP, Docker",
+   "bbox": [
+    90,
+    1045,
+    721,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szalai Klára",
+  "email": "szalai.klara@gmail.com",
+  "telefon": "+36 20 944 3261",
+  "lakcim": "H-6551 Tamásinémeti, Ligetváradi utca 38.",
+  "szuletesi_datum": "1978.02.20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1996 – 2001"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Juhász Logisztika Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "ceg": "Jakab Tech Kft.",
+    "pozicio": "irodavezető",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "ügyfélkezelés",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    85,
+    230,
+    109
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    133,
+    112,
+    149
+   ]
+  },
+  {
+   "text": "szalai.klara@gmail.com",
+   "bbox": [
+    40,
+    157,
+    273,
+    177
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    191,
+    123,
+    207
+   ]
+  },
+  {
+   "text": "+36 20 944 3261",
+   "bbox": [
+    40,
+    216,
+    220,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    119,
+    265
+   ]
+  },
+  {
+   "text": "H-6551 Tamásinémeti,",
+   "bbox": [
+    40,
+    272,
+    269,
+    292
+   ]
+  },
+  {
+   "text": "Ligetváradi utca 38.",
+   "bbox": [
+    40,
+    296,
+    240,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    330,
+    219,
+    347
+   ]
+  },
+  {
+   "text": "1978.02.20.",
+   "bbox": [
+    40,
+    356,
+    165,
+    371
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    415,
+    218,
+    439
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    459,
+    148,
+    480
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    487,
+    166,
+    508
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    541,
+    196,
+    565
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    586,
+    83,
+    606
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    613,
+    183,
+    634
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    641,
+    263,
+    662
+   ]
+  },
+  {
+   "text": "Szalai Klára",
+   "bbox": [
+    450,
+    93,
+    756,
+    132
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    165,
+    666,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    229,
+    743,
+    254
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    281,
+    592,
+    297
+   ]
+  },
+  {
+   "text": "irodavezető – Juhász Logisztika Kft.",
+   "bbox": [
+    450,
+    306,
+    914,
+    329
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    349,
+    592,
+    365
+   ]
+  },
+  {
+   "text": "irodavezető – Jakab Tech Kft.",
+   "bbox": [
+    450,
+    374,
+    830,
+    392
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    426,
+    649,
+    452
+   ]
+  },
+  {
+   "text": "1996 – 2001",
+   "bbox": [
+    450,
+    479,
+    592,
+    495
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    504,
+    770,
+    527
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    530,
+    605,
+    551
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    450,
+    573,
+    592,
+    589
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    598,
+    776,
+    616
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    623,
+    547,
+    645
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

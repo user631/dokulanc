@@ -1,0 +1,606 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2026/09014",
+  "kiallitas_datuma": "2026. október 21.",
+  "teljesites_datuma": "2026. október 16.",
+  "fizetesi_hatarido": "2026. október 29.",
+  "elado_nev": "Fodor Szolgáltató Kft.",
+  "elado_cim": "H-3081 Szombathely, Somogyszéki utca 96.",
+  "elado_adoszam": "87042698-2-27",
+  "vevo_nev": "Varga Pál",
+  "vevo_cim": "H-5946 Debrecen, Tótvárosi utca 18.",
+  "vevo_adoszam": null,
+  "bankszamla": "HU15 6124 5028 3870 4309 0779 7022",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "354 440 Ft",
+  "afa_osszesen": "93 199 Ft",
+  "brutto_osszesen": "447 639 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Könyv: Gépi tanulás alapjai",
+    "mennyiseg": "1 db",
+    "egysegar": "11 360",
+    "netto": "11 360",
+    "afa_kulcs": "5%",
+    "afa": "568",
+    "brutto": "11 928"
+   },
+   {
+    "megnevezes": "Tanácsadás",
+    "mennyiseg": "1 óra",
+    "egysegar": "12 570",
+    "netto": "12 570",
+    "afa_kulcs": "27%",
+    "afa": "3 394",
+    "brutto": "15 964"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "5 db",
+    "egysegar": "61 830",
+    "netto": "309 150",
+    "afa_kulcs": "27%",
+    "afa": "83 470",
+    "brutto": "392 620"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "1 780",
+    "netto": "21 360",
+    "afa_kulcs": "27%",
+    "afa": "5 767",
+    "brutto": "27 127"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    402,
+    75,
+    838,
+    121
+   ]
+  },
+  {
+   "text": "Számla sorszáma: SZ-2026/09014",
+   "bbox": [
+    428,
+    139,
+    813,
+    160
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    74,
+    219,
+    144,
+    237
+   ]
+  },
+  {
+   "text": "Varga Pál",
+   "bbox": [
+    74,
+    253,
+    194,
+    275
+   ]
+  },
+  {
+   "text": "H-5946 Debrecen, Tótvárosi utca 18.",
+   "bbox": [
+    74,
+    284,
+    448,
+    304
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    219,
+    707,
+    237
+   ]
+  },
+  {
+   "text": "Fodor Szolgáltató Kft.",
+   "bbox": [
+    630,
+    253,
+    900,
+    275
+   ]
+  },
+  {
+   "text": "H-3081 Szombathely, Somogyszéki utca 96.",
+   "bbox": [
+    630,
+    284,
+    1078,
+    305
+   ]
+  },
+  {
+   "text": "Adószám: 87042698-2-27",
+   "bbox": [
+    630,
+    312,
+    897,
+    329
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    74,
+    378,
+    263,
+    395
+   ]
+  },
+  {
+   "text": "2026. október 21.",
+   "bbox": [
+    374,
+    378,
+    557,
+    395
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    74,
+    408,
+    281,
+    429
+   ]
+  },
+  {
+   "text": "2026. október 16.",
+   "bbox": [
+    374,
+    408,
+    557,
+    425
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    74,
+    438,
+    269,
+    455
+   ]
+  },
+  {
+   "text": "2026. október 29.",
+   "bbox": [
+    374,
+    438,
+    557,
+    455
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    74,
+    468,
+    224,
+    485
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    374,
+    468,
+    454,
+    485
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    74,
+    510,
+    189,
+    527
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    512,
+    578,
+    527
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    664,
+    510,
+    752,
+    527
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    510,
+    882,
+    524
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    888,
+    507,
+    947,
+    524
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    507,
+    1051,
+    524
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    510,
+    1166,
+    524
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    510,
+    550,
+    549,
+    563
+   ]
+  },
+  {
+   "text": "11 360",
+   "bbox": [
+    690,
+    551,
+    751,
+    563
+   ]
+  },
+  {
+   "text": "11 360",
+   "bbox": [
+    821,
+    551,
+    882,
+    563
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    918,
+    551,
+    947,
+    563
+   ]
+  },
+  {
+   "text": "568",
+   "bbox": [
+    1018,
+    551,
+    1051,
+    563
+   ]
+  },
+  {
+   "text": "11 928",
+   "bbox": [
+    1105,
+    551,
+    1166,
+    563
+   ]
+  },
+  {
+   "text": "Könyv: Gépi tanulás alapjai",
+   "bbox": [
+    74,
+    549,
+    312,
+    566
+   ]
+  },
+  {
+   "text": "1 óra",
+   "bbox": [
+    510,
+    582,
+    554,
+    596
+   ]
+  },
+  {
+   "text": "12 570",
+   "bbox": [
+    690,
+    584,
+    751,
+    596
+   ]
+  },
+  {
+   "text": "12 570",
+   "bbox": [
+    821,
+    584,
+    882,
+    596
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    584,
+    947,
+    596
+   ]
+  },
+  {
+   "text": "3 394",
+   "bbox": [
+    1001,
+    584,
+    1051,
+    596
+   ]
+  },
+  {
+   "text": "15 964",
+   "bbox": [
+    1105,
+    584,
+    1166,
+    596
+   ]
+  },
+  {
+   "text": "Tanácsadás",
+   "bbox": [
+    74,
+    582,
+    173,
+    596
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    510,
+    616,
+    549,
+    629
+   ]
+  },
+  {
+   "text": "61 830",
+   "bbox": [
+    690,
+    617,
+    751,
+    629
+   ]
+  },
+  {
+   "text": "309 150",
+   "bbox": [
+    810,
+    617,
+    882,
+    629
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    617,
+    947,
+    629
+   ]
+  },
+  {
+   "text": "83 470",
+   "bbox": [
+    990,
+    617,
+    1051,
+    629
+   ]
+  },
+  {
+   "text": "392 620",
+   "bbox": [
+    1094,
+    617,
+    1166,
+    629
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    74,
+    616,
+    174,
+    629
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    510,
+    649,
+    605,
+    662
+   ]
+  },
+  {
+   "text": "1 780",
+   "bbox": [
+    701,
+    650,
+    751,
+    662
+   ]
+  },
+  {
+   "text": "21 360",
+   "bbox": [
+    821,
+    650,
+    882,
+    662
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    907,
+    650,
+    947,
+    662
+   ]
+  },
+  {
+   "text": "5 767",
+   "bbox": [
+    1001,
+    650,
+    1051,
+    662
+   ]
+  },
+  {
+   "text": "27 127",
+   "bbox": [
+    1105,
+    650,
+    1166,
+    662
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    74,
+    648,
+    179,
+    665
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    665,
+    702,
+    836,
+    719
+   ]
+  },
+  {
+   "text": "354 440 Ft",
+   "bbox": [
+    1054,
+    703,
+    1166,
+    719
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    683,
+    732,
+    836,
+    753
+   ]
+  },
+  {
+   "text": "93 199 Ft",
+   "bbox": [
+    1067,
+    737,
+    1166,
+    753
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    703,
+    770,
+    836,
+    791
+   ]
+  },
+  {
+   "text": "447 639 Ft",
+   "bbox": [
+    1038,
+    771,
+    1166,
+    787
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU15 6124 5028 3870 4309 0779 7022",
+   "bbox": [
+    74,
+    834,
+    633,
+    849
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    424,
+    1664,
+    815,
+    1679
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

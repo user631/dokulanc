@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Kovács László",
+  "anyja_neve": "Orsós Éva",
+  "szuletesi_hely": "Vára",
+  "szuletesi_datum": "1971.11.25.",
+  "lakcim": "H-9339 Ózd, Szabadság utca 126.",
+  "telefon": "+36 70 259 5487",
+  "email": "kovacs.laszlo@example.hu",
+  "adoazonosito_jel": "8383131623",
+  "taj_szam": "370 514 585",
+  "kelt": "Egyházasgyörgyvár, 2025.09.26."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    531,
+    104,
+    710,
+    131
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    476,
+    154,
+    764,
+    171
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    207,
+    321,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    262,
+    150,
+    277
+   ]
+  },
+  {
+   "text": "Kovács László",
+   "bbox": [
+    397,
+    262,
+    554,
+    283
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    108,
+    315,
+    213,
+    334
+   ]
+  },
+  {
+   "text": "Orsós Éva",
+   "bbox": [
+    397,
+    303,
+    514,
+    331
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    368,
+    237,
+    387
+   ]
+  },
+  {
+   "text": "Vára",
+   "bbox": [
+    397,
+    369,
+    451,
+    390
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    421,
+    227,
+    436
+   ]
+  },
+  {
+   "text": "1971.11.25.",
+   "bbox": [
+    397,
+    421,
+    519,
+    442
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    474,
+    180,
+    489
+   ]
+  },
+  {
+   "text": "H-9339 Ózd, Szabadság utca 126.",
+   "bbox": [
+    397,
+    465,
+    791,
+    498
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    527,
+    229,
+    542
+   ]
+  },
+  {
+   "text": "+36 70 259 5487",
+   "bbox": [
+    397,
+    528,
+    595,
+    549
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    580,
+    210,
+    595
+   ]
+  },
+  {
+   "text": "kovacs.laszlo@example.hu",
+   "bbox": [
+    397,
+    577,
+    696,
+    604
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    108,
+    633,
+    262,
+    652
+   ]
+  },
+  {
+   "text": "8383131623",
+   "bbox": [
+    397,
+    634,
+    539,
+    654
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    686,
+    204,
+    701
+   ]
+  },
+  {
+   "text": "370 514 585",
+   "bbox": [
+    397,
+    684,
+    542,
+    704
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    765,
+    272,
+    787
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    810,
+    455,
+    829
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    855,
+    287,
+    870
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    141,
+    900,
+    473,
+    919
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    1004,
+    140,
+    1019
+   ]
+  },
+  {
+   "text": "Egyházasgyörgyvár, 2025.09.26.",
+   "bbox": [
+    187,
+    1003,
+    533,
+    1028
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    927,
+    1053,
+    978,
+    1065
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

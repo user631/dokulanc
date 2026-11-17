@@ -1,0 +1,337 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Tóth Noel",
+  "email": "toth.noel@example.hu",
+  "telefon": "+36 30 290 2671",
+  "lakcim": "H-4262 Györgykövesd, Lajostamásii tér 133.",
+  "szuletesi_datum": "1987. december 25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "matematika BSc",
+    "idoszak": "2006 – 2010"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "prezentáció",
+   "ügyfélkezelés",
+   "SAP",
+   "C#"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    92,
+    200,
+    113
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    138,
+    98,
+    153
+   ]
+  },
+  {
+   "text": "toth.noel@example.hu",
+   "bbox": [
+    40,
+    162,
+    245,
+    181
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    196,
+    112,
+    211
+   ]
+  },
+  {
+   "text": "+36 30 290 2671",
+   "bbox": [
+    40,
+    221,
+    178,
+    235
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    254,
+    106,
+    269
+   ]
+  },
+  {
+   "text": "H-4262 Györgykövesd, Lajostamásii",
+   "bbox": [
+    40,
+    277,
+    357,
+    297
+   ]
+  },
+  {
+   "text": "tér 133.",
+   "bbox": [
+    40,
+    301,
+    110,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    336,
+    192,
+    351
+   ]
+  },
+  {
+   "text": "1987. december 25.",
+   "bbox": [
+    40,
+    360,
+    216,
+    375
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    422,
+    186,
+    443
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    465,
+    136,
+    484
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    493,
+    150,
+    512
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    548,
+    166,
+    569
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    590,
+    268,
+    610
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    619,
+    162,
+    638
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    646,
+    149,
+    666
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    674,
+    166,
+    694
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    703,
+    74,
+    718
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    731,
+    65,
+    746
+   ]
+  },
+  {
+   "text": "Tóth Noel",
+   "bbox": [
+    450,
+    100,
+    660,
+    134
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    170,
+    646,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    691,
+    258
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    285,
+    568,
+    301
+   ]
+  },
+  {
+   "text": "adatelemző – Nagy Kft.",
+   "bbox": [
+    450,
+    311,
+    694,
+    333
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    364,
+    613,
+    388
+   ]
+  },
+  {
+   "text": "2006 – 2010",
+   "bbox": [
+    450,
+    415,
+    568,
+    431
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    440,
+    813,
+    463
+   ]
+  },
+  {
+   "text": "matematika BSc",
+   "bbox": [
+    450,
+    466,
+    610,
+    483
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    509,
+    568,
+    525
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    535,
+    709,
+    557
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    559,
+    539,
+    582
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

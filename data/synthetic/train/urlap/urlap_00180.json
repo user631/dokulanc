@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "photo",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Kis Tamás",
+  "anyja_neve": "Nagy Dániel",
+  "szuletesi_hely": "Ózd",
+  "szuletesi_datum": "1954. 02. 11.",
+  "lakcim": "H-5417 Tamásiváros, Salgótarjáni utca 202.",
+  "telefon": "+36 20 666 5951",
+  "email": "kis.tamas@example.hu",
+  "adoazonosito_jel": "8318174917",
+  "taj_szam": "026 336 554",
+  "kelt": "Hajdúgyörgyapáti, 2026. 04. 13."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    271,
+    95,
+    969,
+    133
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    94,
+    207,
+    370,
+    232
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    106,
+    263,
+    157,
+    280
+   ]
+  },
+  {
+   "text": "Kis Tamás",
+   "bbox": [
+    439,
+    263,
+    560,
+    284
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    106,
+    318,
+    233,
+    338
+   ]
+  },
+  {
+   "text": "Nagy Dániel",
+   "bbox": [
+    439,
+    317,
+    583,
+    345
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    106,
+    371,
+    262,
+    392
+   ]
+  },
+  {
+   "text": "Ózd",
+   "bbox": [
+    439,
+    361,
+    489,
+    388
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    106,
+    425,
+    250,
+    442
+   ]
+  },
+  {
+   "text": "1954. 02. 11.",
+   "bbox": [
+    439,
+    422,
+    589,
+    444
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    106,
+    479,
+    190,
+    496
+   ]
+  },
+  {
+   "text": "H-5417 Tamásiváros, Salgótarjáni utca 202.",
+   "bbox": [
+    439,
+    479,
+    973,
+    508
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    106,
+    533,
+    249,
+    550
+   ]
+  },
+  {
+   "text": "+36 20 666 5951",
+   "bbox": [
+    439,
+    534,
+    648,
+    556
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    106,
+    587,
+    228,
+    604
+   ]
+  },
+  {
+   "text": "kis.tamas@example.hu",
+   "bbox": [
+    439,
+    582,
+    706,
+    610
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    106,
+    641,
+    290,
+    662
+   ]
+  },
+  {
+   "text": "8318174917",
+   "bbox": [
+    439,
+    637,
+    587,
+    659
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    106,
+    695,
+    215,
+    712
+   ]
+  },
+  {
+   "text": "026 336 554",
+   "bbox": [
+    439,
+    696,
+    599,
+    717
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    94,
+    776,
+    312,
+    800
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    139,
+    820,
+    513,
+    841
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    139,
+    865,
+    315,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    139,
+    910,
+    533,
+    931
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    94,
+    1015,
+    147,
+    1032
+   ]
+  },
+  {
+   "text": "Hajdúgyörgyapáti, 2026. 04. 13.",
+   "bbox": [
+    184,
+    1013,
+    544,
+    1039
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    926,
+    1064,
+    986,
+    1078
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

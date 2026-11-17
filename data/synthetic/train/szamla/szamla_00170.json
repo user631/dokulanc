@@ -1,0 +1,687 @@
+{
+ "doc_type": "szamla",
+ "variant": "clean",
+ "fields": {
+  "szamlaszam": "INV-2025/03683",
+  "kiallitas_datuma": "2025. 09. 10.",
+  "teljesites_datuma": "2025. 09. 10.",
+  "fizetesi_hatarido": "2025. 09. 25.",
+  "elado_nev": "Szabó és Társa Bt.",
+  "elado_cim": "H-9626 Melléknémeti, Béke utca 149.",
+  "elado_adoszam": "38815825-2-26",
+  "vevo_nev": "Szabó Consulting Zrt.",
+  "vevo_cim": "H-6373 Mártondevecser, Ady endre tér 174.",
+  "vevo_adoszam": "38424368-2-09",
+  "bankszamla": "HU85 6519 0944 7483 9787 7591 0359",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "719 050 Ft",
+  "afa_osszesen": "194 144 Ft",
+  "brutto_osszesen": "913 194 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "4 180",
+    "netto": "20 900",
+    "afa_kulcs": "27%",
+    "afa": "5 643",
+    "brutto": "26 543"
+   },
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "4 csomag",
+    "egysegar": "2 650",
+    "netto": "10 600",
+    "afa_kulcs": "27%",
+    "afa": "2 862",
+    "brutto": "13 462"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "3 alkalom",
+    "egysegar": "132 490",
+    "netto": "397 470",
+    "afa_kulcs": "27%",
+    "afa": "107 317",
+    "brutto": "504 787"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "10 óra",
+    "egysegar": "10 780",
+    "netto": "107 800",
+    "afa_kulcs": "27%",
+    "afa": "29 106",
+    "brutto": "136 906"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "12 alkalom",
+    "egysegar": "15 190",
+    "netto": "182 280",
+    "afa_kulcs": "27%",
+    "afa": "49 216",
+    "brutto": "231 496"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    398,
+    77,
+    841,
+    125
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2025/03683",
+   "bbox": [
+    420,
+    140,
+    819,
+    164
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    76,
+    220,
+    160,
+    239
+   ]
+  },
+  {
+   "text": "Szabó és Társa Bt.",
+   "bbox": [
+    76,
+    257,
+    307,
+    276
+   ]
+  },
+  {
+   "text": "H-9626 Melléknémeti, Béke utca 149.",
+   "bbox": [
+    76,
+    293,
+    460,
+    314
+   ]
+  },
+  {
+   "text": "Adószám: 38815825-2-26",
+   "bbox": [
+    75,
+    324,
+    340,
+    345
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    220,
+    702,
+    239
+   ]
+  },
+  {
+   "text": "Szabó Consulting Zrt.",
+   "bbox": [
+    630,
+    257,
+    906,
+    281
+   ]
+  },
+  {
+   "text": "H-6373 Mártondevecser, Ady endre tér 174.",
+   "bbox": [
+    630,
+    293,
+    1073,
+    315
+   ]
+  },
+  {
+   "text": "Adószám: 38424368-2-09",
+   "bbox": [
+    629,
+    324,
+    899,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    76,
+    392,
+    246,
+    407
+   ]
+  },
+  {
+   "text": "2025. 09. 10.",
+   "bbox": [
+    76,
+    426,
+    203,
+    442
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    348,
+    392,
+    528,
+    411
+   ]
+  },
+  {
+   "text": "2025. 09. 10.",
+   "bbox": [
+    348,
+    426,
+    475,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    392,
+    792,
+    407
+   ]
+  },
+  {
+   "text": "2025. 09. 25.",
+   "bbox": [
+    620,
+    426,
+    748,
+    442
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    892,
+    392,
+    1022,
+    407
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    892,
+    421,
+    970,
+    438
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    76,
+    472,
+    198,
+    491
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    473,
+    588,
+    491
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    658,
+    472,
+    751,
+    491
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    824,
+    472,
+    881,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    884,
+    468,
+    946,
+    487
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1005,
+    468,
+    1050,
+    487
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1096,
+    472,
+    1164,
+    487
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    511,
+    514,
+    549,
+    533
+   ]
+  },
+  {
+   "text": "4 180",
+   "bbox": [
+    701,
+    515,
+    750,
+    533
+   ]
+  },
+  {
+   "text": "20 900",
+   "bbox": [
+    818,
+    518,
+    881,
+    533
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    515,
+    946,
+    533
+   ]
+  },
+  {
+   "text": "5 643",
+   "bbox": [
+    1000,
+    515,
+    1049,
+    533
+   ]
+  },
+  {
+   "text": "26 543",
+   "bbox": [
+    1104,
+    515,
+    1164,
+    533
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    76,
+    514,
+    232,
+    533
+   ]
+  },
+  {
+   "text": "4 csomag",
+   "bbox": [
+    511,
+    554,
+    594,
+    569
+   ]
+  },
+  {
+   "text": "2 650",
+   "bbox": [
+    700,
+    551,
+    750,
+    569
+   ]
+  },
+  {
+   "text": "10 600",
+   "bbox": [
+    820,
+    551,
+    881,
+    565
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    551,
+    946,
+    569
+   ]
+  },
+  {
+   "text": "2 862",
+   "bbox": [
+    999,
+    551,
+    1049,
+    565
+   ]
+  },
+  {
+   "text": "13 462",
+   "bbox": [
+    1106,
+    551,
+    1164,
+    569
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    76,
+    550,
+    312,
+    569
+   ]
+  },
+  {
+   "text": "3 alkalom",
+   "bbox": [
+    511,
+    586,
+    599,
+    605
+   ]
+  },
+  {
+   "text": "132 490",
+   "bbox": [
+    680,
+    590,
+    750,
+    605
+   ]
+  },
+  {
+   "text": "397 470",
+   "bbox": [
+    811,
+    590,
+    881,
+    605
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    587,
+    946,
+    605
+   ]
+  },
+  {
+   "text": "107 317",
+   "bbox": [
+    983,
+    590,
+    1050,
+    605
+   ]
+  },
+  {
+   "text": "504 787",
+   "bbox": [
+    1093,
+    587,
+    1165,
+    605
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    76,
+    586,
+    268,
+    605
+   ]
+  },
+  {
+   "text": "10 óra",
+   "bbox": [
+    511,
+    622,
+    566,
+    637
+   ]
+  },
+  {
+   "text": "10 780",
+   "bbox": [
+    690,
+    623,
+    750,
+    641
+   ]
+  },
+  {
+   "text": "107 800",
+   "bbox": [
+    809,
+    623,
+    881,
+    641
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    623,
+    946,
+    641
+   ]
+  },
+  {
+   "text": "29 106",
+   "bbox": [
+    990,
+    623,
+    1049,
+    641
+   ]
+  },
+  {
+   "text": "136 906",
+   "bbox": [
+    1094,
+    623,
+    1164,
+    641
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    76,
+    622,
+    347,
+    641
+   ]
+  },
+  {
+   "text": "12 alkalom",
+   "bbox": [
+    511,
+    658,
+    608,
+    673
+   ]
+  },
+  {
+   "text": "15 190",
+   "bbox": [
+    693,
+    662,
+    750,
+    677
+   ]
+  },
+  {
+   "text": "182 280",
+   "bbox": [
+    809,
+    659,
+    881,
+    673
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    659,
+    946,
+    677
+   ]
+  },
+  {
+   "text": "49 216",
+   "bbox": [
+    991,
+    659,
+    1049,
+    677
+   ]
+  },
+  {
+   "text": "231 496",
+   "bbox": [
+    1095,
+    659,
+    1164,
+    677
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    76,
+    658,
+    274,
+    677
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    669,
+    715,
+    834,
+    733
+   ]
+  },
+  {
+   "text": "719 050 Ft",
+   "bbox": [
+    1051,
+    716,
+    1164,
+    737
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    681,
+    748,
+    834,
+    770
+   ]
+  },
+  {
+   "text": "194 144 Ft",
+   "bbox": [
+    1054,
+    753,
+    1164,
+    774
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    587,
+    789,
+    834,
+    807
+   ]
+  },
+  {
+   "text": "913 194 Ft",
+   "bbox": [
+    1039,
+    790,
+    1164,
+    811
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU85 6519 0944 7483 9787 7591 0359",
+   "bbox": [
+    76,
+    855,
+    629,
+    876
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    76,
+    885,
+    652,
+    904
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

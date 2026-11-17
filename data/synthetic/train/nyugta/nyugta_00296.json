@@ -1,0 +1,270 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KISS ÉLELMISZER BT.",
+  "uzlet_cim": "H-4217 Békésgyörgyhida, Zalaegerszegi tér 131.",
+  "adoszam": "99437156-2-25",
+  "datum": "2024.05.27.",
+  "ido": "12:19",
+  "nyugtaszam": "4659/24772",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "5 043 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3786"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "64"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "552"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "444"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "297"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KISS ÉLELMISZER BT.",
+   "bbox": [
+    152,
+    30,
+    418,
+    49
+   ]
+  },
+  {
+   "text": "H-4217 Békésgyörgyhida, Zalaegerszegi tér",
+   "bbox": [
+    39,
+    64,
+    531,
+    84
+   ]
+  },
+  {
+   "text": "131.",
+   "bbox": [
+    261,
+    92,
+    309,
+    106
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 99437156-2-25",
+   "bbox": [
+    153,
+    116,
+    417,
+    132
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    237,
+    161,
+    333,
+    177
+   ]
+  },
+  {
+   "text": "3 DB x 1262",
+   "bbox": [
+    24,
+    201,
+    145,
+    215
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    226,
+    128,
+    242
+   ]
+  },
+  {
+   "text": "3786 A00",
+   "bbox": [
+    442,
+    226,
+    546,
+    242
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    258,
+    102,
+    272
+   ]
+  },
+  {
+   "text": "64 B00",
+   "bbox": [
+    468,
+    256,
+    546,
+    272
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    288,
+    206,
+    302
+   ]
+  },
+  {
+   "text": "552 B00",
+   "bbox": [
+    455,
+    286,
+    546,
+    302
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    316,
+    206,
+    332
+   ]
+  },
+  {
+   "text": "444 C00",
+   "bbox": [
+    455,
+    316,
+    546,
+    332
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    348,
+    193,
+    362
+   ]
+  },
+  {
+   "text": "297 A00",
+   "bbox": [
+    455,
+    346,
+    546,
+    362
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    386,
+    168,
+    407
+   ]
+  },
+  {
+   "text": "5 043 Ft",
+   "bbox": [
+    418,
+    388,
+    546,
+    407
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    427,
+    168,
+    444
+   ]
+  },
+  {
+   "text": "5 043 Ft",
+   "bbox": [
+    442,
+    428,
+    546,
+    444
+   ]
+  },
+  {
+   "text": "2024.05.27.",
+   "bbox": [
+    24,
+    472,
+    156,
+    486
+   ]
+  },
+  {
+   "text": "12:19",
+   "bbox": [
+    486,
+    472,
+    546,
+    486
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4659/24772",
+   "bbox": [
+    24,
+    500,
+    288,
+    519
+   ]
+  },
+  {
+   "text": "AP A82609710",
+   "bbox": [
+    24,
+    532,
+    168,
+    546
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    220,
+    572,
+    350,
+    589
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  570,
+  634
+ ]
+}

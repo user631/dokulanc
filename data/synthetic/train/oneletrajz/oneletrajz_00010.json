@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Balla Ágnes",
+  "email": "balla.agnes@example.hu",
+  "telefon": "+36 70 154 1706",
+  "lakcim": "H-2740 Tapolcavára, Váchídi utca 15.",
+  "szuletesi_datum": "1981.11.27.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "1999 – 2002"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1995 – 1999"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Tech Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2003 – 2004"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "ügyfélkezelés",
+   "SQL",
+   "Git"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Balla Ágnes",
+   "bbox": [
+    483,
+    94,
+    757,
+    150
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    517,
+    171,
+    723,
+    197
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    224,
+    165,
+    241
+   ]
+  },
+  {
+   "text": "balla.agnes@example.hu",
+   "bbox": [
+    330,
+    224,
+    562,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    175,
+    272
+   ]
+  },
+  {
+   "text": "+36 70 154 1706",
+   "bbox": [
+    330,
+    256,
+    487,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    173,
+    303
+   ]
+  },
+  {
+   "text": "H-2740 Tapolcavára, Váchídi utca 15.",
+   "bbox": [
+    330,
+    286,
+    678,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    265,
+    334
+   ]
+  },
+  {
+   "text": "1981.11.27.",
+   "bbox": [
+    330,
+    318,
+    436,
+    334
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    344,
+    394
+   ]
+  },
+  {
+   "text": "2003 – 2004",
+   "bbox": [
+    90,
+    420,
+    203,
+    436
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Nagy Tech Bt.",
+   "bbox": [
+    90,
+    444,
+    568,
+    466
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    495,
+    260,
+    521
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    90,
+    547,
+    203,
+    563
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    571,
+    660,
+    593
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    596,
+    269,
+    617
+   ]
+  },
+  {
+   "text": "1995 – 1999",
+   "bbox": [
+    90,
+    638,
+    203,
+    654
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    662,
+    359,
+    684
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    687,
+    171,
+    708
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    738,
+    230,
+    764
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    789,
+    195,
+    810
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    836,
+    223,
+    862
+   ]
+  },
+  {
+   "text": "C#, ügyfélkezelés, SQL, Git",
+   "bbox": [
+    90,
+    887,
+    343,
+    908
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

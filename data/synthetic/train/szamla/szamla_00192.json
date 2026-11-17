@@ -1,0 +1,462 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/09342",
+  "kiallitas_datuma": "2024.07.11.",
+  "teljesites_datuma": "2024.07.07.",
+  "fizetesi_hatarido": "2024.07.19.",
+  "elado_nev": "Oláh Consulting Bt.",
+  "elado_cim": "H-3321 Törökhátvég, Mosontapolcai út 138.",
+  "elado_adoszam": "70507621-2-02",
+  "vevo_nev": "Nagy Tech Bt.",
+  "vevo_cim": "H-8913 Szenttapolcabánya, Pécsi tér 64.",
+  "vevo_adoszam": "30086647-5-23",
+  "bankszamla": "36253711-52276231",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "59 100 Ft",
+  "afa_osszesen": "15 678 Ft",
+  "brutto_osszesen": "74 778 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "10 oldal",
+    "egysegar": "5 600",
+    "netto": "56 000",
+    "afa_kulcs": "27%",
+    "afa": "15 120",
+    "brutto": "71 120"
+   },
+   {
+    "megnevezes": "Ásványvíz 1,5 l",
+    "mennyiseg": "2 karton",
+    "egysegar": "1 550",
+    "netto": "3 100",
+    "afa_kulcs": "18%",
+    "afa": "558",
+    "brutto": "3 658"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    438,
+    110,
+    802,
+    141
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2024/09342",
+   "bbox": [
+    438,
+    169,
+    802,
+    192
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    108,
+    250,
+    175,
+    268
+   ]
+  },
+  {
+   "text": "Oláh Consulting Bt.",
+   "bbox": [
+    108,
+    288,
+    315,
+    311
+   ]
+  },
+  {
+   "text": "H-3321 Törökhátvég, Mosontapolcai út 138.",
+   "bbox": [
+    108,
+    323,
+    540,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 70507621-2-02",
+   "bbox": [
+    108,
+    355,
+    354,
+    372
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    251,
+    691,
+    268
+   ]
+  },
+  {
+   "text": "Nagy Tech Bt.",
+   "bbox": [
+    630,
+    288,
+    778,
+    311
+   ]
+  },
+  {
+   "text": "H-8913 Szenttapolcabánya, Pécsi tér 64.",
+   "bbox": [
+    630,
+    323,
+    1021,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 30086647-5-23",
+   "bbox": [
+    630,
+    355,
+    876,
+    372
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    108,
+    426,
+    245,
+    440
+   ]
+  },
+  {
+   "text": "2024.07.11.",
+   "bbox": [
+    108,
+    457,
+    222,
+    472
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    364,
+    426,
+    516,
+    444
+   ]
+  },
+  {
+   "text": "2024.07.07.",
+   "bbox": [
+    364,
+    457,
+    478,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    426,
+    762,
+    440
+   ]
+  },
+  {
+   "text": "2024.07.19.",
+   "bbox": [
+    620,
+    457,
+    734,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    876,
+    426,
+    985,
+    440
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    876,
+    455,
+    979,
+    476
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    108,
+    508,
+    217,
+    526
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    509,
+    584,
+    526
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    666,
+    508,
+    743,
+    526
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    815,
+    508,
+    865,
+    522
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    876,
+    505,
+    927,
+    522
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    988,
+    505,
+    1024,
+    522
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1077,
+    508,
+    1132,
+    522
+   ]
+  },
+  {
+   "text": "10 oldal",
+   "bbox": [
+    517,
+    551,
+    586,
+    565
+   ]
+  },
+  {
+   "text": "5 600",
+   "bbox": [
+    693,
+    552,
+    742,
+    565
+   ]
+  },
+  {
+   "text": "56 000",
+   "bbox": [
+    805,
+    552,
+    865,
+    565
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    551,
+    927,
+    565
+   ]
+  },
+  {
+   "text": "15 120",
+   "bbox": [
+    964,
+    552,
+    1024,
+    565
+   ]
+  },
+  {
+   "text": "71 120",
+   "bbox": [
+    1072,
+    552,
+    1132,
+    565
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    108,
+    551,
+    338,
+    569
+   ]
+  },
+  {
+   "text": "2 karton",
+   "bbox": [
+    517,
+    588,
+    589,
+    602
+   ]
+  },
+  {
+   "text": "1 550",
+   "bbox": [
+    693,
+    589,
+    742,
+    602
+   ]
+  },
+  {
+   "text": "3 100",
+   "bbox": [
+    816,
+    589,
+    865,
+    602
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    890,
+    588,
+    927,
+    602
+   ]
+  },
+  {
+   "text": "558",
+   "bbox": [
+    991,
+    589,
+    1024,
+    602
+   ]
+  },
+  {
+   "text": "3 658",
+   "bbox": [
+    1083,
+    589,
+    1132,
+    602
+   ]
+  },
+  {
+   "text": "Ásványvíz 1,5 l",
+   "bbox": [
+    108,
+    585,
+    232,
+    606
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    642,
+    644,
+    802,
+    662
+   ]
+  },
+  {
+   "text": "59 100 Ft",
+   "bbox": [
+    1036,
+    646,
+    1132,
+    662
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    660,
+    679,
+    802,
+    700
+   ]
+  },
+  {
+   "text": "15 678 Ft",
+   "bbox": [
+    1036,
+    684,
+    1132,
+    700
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    687,
+    720,
+    802,
+    742
+   ]
+  },
+  {
+   "text": "74 778 Ft",
+   "bbox": [
+    1035,
+    722,
+    1132,
+    738
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 36253711-52276231",
+   "bbox": [
+    108,
+    788,
+    474,
+    805
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

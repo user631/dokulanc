@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "SZŰCS DISZKONT BT.",
+  "uzlet_cim": "H-3711 Mártonfa, Keresztnádasdi utca 44.",
+  "adoszam": "77037875-2-14",
+  "datum": "2026.10.30.",
+  "ido": "14:27",
+  "nyugtaszam": "0401/71769",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "10 272 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1100"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1024"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1104"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1173"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "94"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "631"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "417"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1235"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "444"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1091"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1959"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZŰCS DISZKONT BT.",
+   "bbox": [
+    144,
+    28,
+    378,
+    48
+   ]
+  },
+  {
+   "text": "H-3711 Mártonfa, Keresztnádasdi utca 44.",
+   "bbox": [
+    41,
+    64,
+    481,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77037875-2-14",
+   "bbox": [
+    140,
+    88,
+    382,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    219,
+    133,
+    304,
+    150
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    177,
+    204,
+    191
+   ]
+  },
+  {
+   "text": "1100 B00",
+   "bbox": [
+    402,
+    177,
+    498,
+    191
+   ]
+  },
+  {
+   "text": "2 DB x 512",
+   "bbox": [
+    24,
+    207,
+    124,
+    219
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    231,
+    120,
+    245
+   ]
+  },
+  {
+   "text": "1024 A00",
+   "bbox": [
+    402,
+    231,
+    498,
+    245
+   ]
+  },
+  {
+   "text": "2 DB x 552",
+   "bbox": [
+    24,
+    261,
+    124,
+    273
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    285,
+    132,
+    299
+   ]
+  },
+  {
+   "text": "1104 A00",
+   "bbox": [
+    402,
+    285,
+    498,
+    299
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    315,
+    180,
+    329
+   ]
+  },
+  {
+   "text": "1173 A00",
+   "bbox": [
+    402,
+    315,
+    498,
+    329
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    345,
+    96,
+    359
+   ]
+  },
+  {
+   "text": "94 B00",
+   "bbox": [
+    426,
+    345,
+    498,
+    359
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    375,
+    120,
+    389
+   ]
+  },
+  {
+   "text": "631 C00",
+   "bbox": [
+    414,
+    375,
+    498,
+    389
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    405,
+    192,
+    419
+   ]
+  },
+  {
+   "text": "417 B00",
+   "bbox": [
+    414,
+    405,
+    498,
+    419
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    435,
+    120,
+    449
+   ]
+  },
+  {
+   "text": "1235 B00",
+   "bbox": [
+    402,
+    435,
+    498,
+    449
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    464,
+    156,
+    483
+   ]
+  },
+  {
+   "text": "444 B00",
+   "bbox": [
+    414,
+    465,
+    498,
+    479
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    495,
+    144,
+    509
+   ]
+  },
+  {
+   "text": "1091 A00",
+   "bbox": [
+    402,
+    495,
+    498,
+    509
+   ]
+  },
+  {
+   "text": "3 DB x 653",
+   "bbox": [
+    24,
+    525,
+    124,
+    537
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    549,
+    156,
+    563
+   ]
+  },
+  {
+   "text": "1959 A00",
+   "bbox": [
+    402,
+    549,
+    498,
+    563
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    586,
+    164,
+    608
+   ]
+  },
+  {
+   "text": "10 272 Ft",
+   "bbox": [
+    372,
+    591,
+    498,
+    608
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    626,
+    120,
+    645
+   ]
+  },
+  {
+   "text": "10 272 Ft",
+   "bbox": [
+    390,
+    631,
+    498,
+    645
+   ]
+  },
+  {
+   "text": "2026.10.30.",
+   "bbox": [
+    24,
+    674,
+    145,
+    687
+   ]
+  },
+  {
+   "text": "14:27",
+   "bbox": [
+    443,
+    674,
+    498,
+    687
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0401/71769",
+   "bbox": [
+    24,
+    700,
+    266,
+    719
+   ]
+  },
+  {
+   "text": "AP A28664062",
+   "bbox": [
+    24,
+    734,
+    156,
+    747
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    129,
+    773,
+    393,
+    790
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  522,
+  836
+ ]
+}

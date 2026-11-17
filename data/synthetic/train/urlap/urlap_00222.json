@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Balogh Máté",
+  "anyja_neve": "Juhász László",
+  "szuletesi_hely": "Cegléd",
+  "szuletesi_datum": "1998. 05. 05.",
+  "lakcim": "H-9742 Szenthetvenfalu, Dunakeszii út 217.",
+  "telefon": "+36 20 975 4341",
+  "email": "balogh.mate@outlook.com",
+  "adoazonosito_jel": "8479712287",
+  "taj_szam": "318 665 397",
+  "kelt": "Hetvenhalas, 2026. 02. 26."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    536,
+    122,
+    705,
+    148
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    474,
+    167,
+    765,
+    185
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    222,
+    324,
+    244
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    274,
+    159,
+    289
+   ]
+  },
+  {
+   "text": "Balogh Máté",
+   "bbox": [
+    440,
+    271,
+    584,
+    298
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    327,
+    219,
+    347
+   ]
+  },
+  {
+   "text": "Juhász László",
+   "bbox": [
+    440,
+    321,
+    601,
+    341
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    380,
+    241,
+    400
+   ]
+  },
+  {
+   "text": "Cegléd",
+   "bbox": [
+    440,
+    377,
+    518,
+    404
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    433,
+    234,
+    448
+   ]
+  },
+  {
+   "text": "1998. 05. 05.",
+   "bbox": [
+    440,
+    432,
+    588,
+    453
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    486,
+    184,
+    501
+   ]
+  },
+  {
+   "text": "H-9742 Szenthetvenfalu, Dunakeszii út 217.",
+   "bbox": [
+    440,
+    480,
+    954,
+    504
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    539,
+    232,
+    554
+   ]
+  },
+  {
+   "text": "+36 20 975 4341",
+   "bbox": [
+    440,
+    539,
+    634,
+    560
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    592,
+    215,
+    607
+   ]
+  },
+  {
+   "text": "balogh.mate@outlook.com",
+   "bbox": [
+    440,
+    590,
+    738,
+    617
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    645,
+    272,
+    665
+   ]
+  },
+  {
+   "text": "8479712287",
+   "bbox": [
+    440,
+    639,
+    586,
+    660
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    698,
+    203,
+    713
+   ]
+  },
+  {
+   "text": "318 665 397",
+   "bbox": [
+    440,
+    692,
+    585,
+    713
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    780,
+    285,
+    802
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    822,
+    454,
+    842
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    867,
+    292,
+    882
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    912,
+    474,
+    932
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1017,
+    148,
+    1033
+   ]
+  },
+  {
+   "text": "Hetvenhalas, 2026. 02. 26.",
+   "bbox": [
+    198,
+    1014,
+    487,
+    1035
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    918,
+    1066,
+    966,
+    1079
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

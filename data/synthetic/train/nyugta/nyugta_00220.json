@@ -1,0 +1,460 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "HORVÁTH DISZKONT BT.",
+  "uzlet_cim": "H-1633 Oroszmellékvára, Dunahídi utca 210.",
+  "adoszam": "77753892-4-39",
+  "datum": "2026.06.11.",
+  "ido": "10:01",
+  "nyugtaszam": "8683/87569",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "24 345 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "3471"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "470"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "807"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2129"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1668"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "759"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "631"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1352"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7161"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "618"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3975"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "304"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH DISZKONT BT.",
+   "bbox": [
+    160,
+    28,
+    440,
+    50
+   ]
+  },
+  {
+   "text": "H-1633 Oroszmellékvára, Dunahídi utca 210.",
+   "bbox": [
+    48,
+    67,
+    552,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 77753892-4-39",
+   "bbox": [
+    168,
+    92,
+    432,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    255,
+    139,
+    346,
+    157
+   ]
+  },
+  {
+   "text": "3 DB x 1157",
+   "bbox": [
+    24,
+    185,
+    156,
+    198
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    211,
+    154,
+    226
+   ]
+  },
+  {
+   "text": "3471 C00",
+   "bbox": [
+    473,
+    211,
+    577,
+    226
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    243,
+    206,
+    258
+   ]
+  },
+  {
+   "text": "470 B00",
+   "bbox": [
+    486,
+    243,
+    577,
+    258
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    275,
+    128,
+    290
+   ]
+  },
+  {
+   "text": "807 A00",
+   "bbox": [
+    486,
+    275,
+    577,
+    290
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    307,
+    271,
+    322
+   ]
+  },
+  {
+   "text": "2129 A00",
+   "bbox": [
+    473,
+    307,
+    577,
+    322
+   ]
+  },
+  {
+   "text": "3 DB x 556",
+   "bbox": [
+    24,
+    339,
+    144,
+    352
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    365,
+    206,
+    380
+   ]
+  },
+  {
+   "text": "1668 B00",
+   "bbox": [
+    473,
+    365,
+    577,
+    380
+   ]
+  },
+  {
+   "text": "3 DB x 253",
+   "bbox": [
+    24,
+    397,
+    144,
+    410
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    423,
+    206,
+    442
+   ]
+  },
+  {
+   "text": "759 C00",
+   "bbox": [
+    486,
+    423,
+    577,
+    438
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    455,
+    128,
+    470
+   ]
+  },
+  {
+   "text": "631 A00",
+   "bbox": [
+    486,
+    455,
+    577,
+    470
+   ]
+  },
+  {
+   "text": "2 DB x 676",
+   "bbox": [
+    24,
+    487,
+    144,
+    500
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    513,
+    141,
+    528
+   ]
+  },
+  {
+   "text": "1352 C00",
+   "bbox": [
+    473,
+    513,
+    577,
+    528
+   ]
+  },
+  {
+   "text": "3 DB x 2387",
+   "bbox": [
+    24,
+    545,
+    156,
+    558
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    571,
+    141,
+    586
+   ]
+  },
+  {
+   "text": "7161 C00",
+   "bbox": [
+    473,
+    571,
+    577,
+    586
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    603,
+    128,
+    618
+   ]
+  },
+  {
+   "text": "618 A00",
+   "bbox": [
+    486,
+    603,
+    577,
+    618
+   ]
+  },
+  {
+   "text": "3 DB x 1325",
+   "bbox": [
+    24,
+    635,
+    156,
+    648
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    661,
+    193,
+    676
+   ]
+  },
+  {
+   "text": "3975 C00",
+   "bbox": [
+    473,
+    661,
+    577,
+    676
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    693,
+    206,
+    708
+   ]
+  },
+  {
+   "text": "304 B00",
+   "bbox": [
+    486,
+    693,
+    577,
+    708
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    732,
+    174,
+    755
+   ]
+  },
+  {
+   "text": "24 345 Ft",
+   "bbox": [
+    442,
+    737,
+    577,
+    755
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    774,
+    155,
+    794
+   ]
+  },
+  {
+   "text": "24 345 Ft",
+   "bbox": [
+    460,
+    778,
+    577,
+    794
+   ]
+  },
+  {
+   "text": "2026.06.11.",
+   "bbox": [
+    24,
+    825,
+    156,
+    839
+   ]
+  },
+  {
+   "text": "10:01",
+   "bbox": [
+    517,
+    825,
+    577,
+    839
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8683/87569",
+   "bbox": [
+    24,
+    852,
+    288,
+    873
+   ]
+  },
+  {
+   "text": "AP A51619060",
+   "bbox": [
+    24,
+    889,
+    168,
+    903
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    235,
+    929,
+    365,
+    948
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  601,
+  994
+ ]
+}

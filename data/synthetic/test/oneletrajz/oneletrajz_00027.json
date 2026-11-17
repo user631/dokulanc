@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Horváth Erika",
+  "email": "horvath.erika@citromail.hu",
+  "telefon": "+36 30 440 2310",
+  "lakcim": "H-1359 Felsőtamásivég, Nagykanizsai utca 138.",
+  "szuletesi_datum": "1977. szeptember 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "1996 – 1999"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy Consulting Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2000 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "német (B1)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "Docker",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    93,
+    192,
+    114
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    139,
+    95,
+    153
+   ]
+  },
+  {
+   "text": "horvath.erika@citromail.hu",
+   "bbox": [
+    40,
+    162,
+    268,
+    178
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    195,
+    107,
+    209
+   ]
+  },
+  {
+   "text": "+36 30 440 2310",
+   "bbox": [
+    40,
+    219,
+    178,
+    232
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    102,
+    265
+   ]
+  },
+  {
+   "text": "H-1359 Felsőtamásivég, Nagykanizsai",
+   "bbox": [
+    40,
+    274,
+    354,
+    292
+   ]
+  },
+  {
+   "text": "utca 138.",
+   "bbox": [
+    40,
+    298,
+    115,
+    311
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    330,
+    180,
+    344
+   ]
+  },
+  {
+   "text": "1977. szeptember 30.",
+   "bbox": [
+    40,
+    353,
+    216,
+    371
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    413,
+    187,
+    434
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    455,
+    134,
+    473
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    482,
+    130,
+    502
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    536,
+    163,
+    557
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    578,
+    254,
+    598
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    605,
+    102,
+    620
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    632,
+    225,
+    652
+   ]
+  },
+  {
+   "text": "Horváth Erika",
+   "bbox": [
+    450,
+    104,
+    739,
+    138
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    170,
+    634,
+    189
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    233,
+    681,
+    258
+   ]
+  },
+  {
+   "text": "2000 – 2003",
+   "bbox": [
+    450,
+    284,
+    561,
+    299
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Nagy Consulting Zrt.",
+   "bbox": [
+    450,
+    308,
+    903,
+    330
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    360,
+    609,
+    385
+   ]
+  },
+  {
+   "text": "1996 – 1999",
+   "bbox": [
+    450,
+    411,
+    561,
+    426
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    435,
+    710,
+    457
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    447,
+    460,
+    509,
+    481
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    450,
+    502,
+    561,
+    517
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    526,
+    758,
+    548
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    551,
+    687,
+    572
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

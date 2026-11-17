@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Horváth Brigitta",
+  "anyja_neve": "Tóth Katalin",
+  "szuletesi_hely": "Zalaegerszeg",
+  "szuletesi_datum": "1964. 08. 17.",
+  "lakcim": "H-2317 Nyékvég, Mátramelléki utca 22.",
+  "telefon": "+36 30 326 2110",
+  "email": "horvath.brigitta@freemail.hu",
+  "adoazonosito_jel": "8356579910",
+  "taj_szam": "777 577 989",
+  "kelt": "Dunakeszi, 2026. 11. 17."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    445,
+    109,
+    795,
+    142
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    109,
+    216,
+    321,
+    237
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    121,
+    272,
+    161,
+    286
+   ]
+  },
+  {
+   "text": "Horváth Brigitta",
+   "bbox": [
+    450,
+    269,
+    688,
+    298
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    324,
+    223,
+    342
+   ]
+  },
+  {
+   "text": "Tóth Katalin",
+   "bbox": [
+    450,
+    318,
+    633,
+    341
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    121,
+    376,
+    246,
+    394
+   ]
+  },
+  {
+   "text": "Zalaegerszeg",
+   "bbox": [
+    450,
+    369,
+    634,
+    398
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    121,
+    428,
+    236,
+    442
+   ]
+  },
+  {
+   "text": "1964. 08. 17.",
+   "bbox": [
+    450,
+    421,
+    618,
+    441
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    121,
+    480,
+    189,
+    494
+   ]
+  },
+  {
+   "text": "H-2317 Nyékvég, Mátramelléki utca 22.",
+   "bbox": [
+    450,
+    476,
+    984,
+    505
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    121,
+    532,
+    238,
+    546
+   ]
+  },
+  {
+   "text": "+36 30 326 2110",
+   "bbox": [
+    450,
+    529,
+    667,
+    546
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    121,
+    584,
+    216,
+    598
+   ]
+  },
+  {
+   "text": "horvath.brigitta@freemail.hu",
+   "bbox": [
+    450,
+    578,
+    866,
+    607
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    636,
+    270,
+    654
+   ]
+  },
+  {
+   "text": "8356579910",
+   "bbox": [
+    450,
+    631,
+    611,
+    649
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    121,
+    688,
+    213,
+    702
+   ]
+  },
+  {
+   "text": "777 577 989",
+   "bbox": [
+    450,
+    688,
+    611,
+    706
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    109,
+    765,
+    273,
+    785
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    154,
+    810,
+    461,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    154,
+    855,
+    293,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    900,
+    477,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    109,
+    1002,
+    149,
+    1017
+   ]
+  },
+  {
+   "text": "Dunakeszi, 2026. 11. 17.",
+   "bbox": [
+    199,
+    997,
+    500,
+    1024
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    917,
+    1051,
+    965,
+    1063
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Molnár Piroska",
+  "anyja_neve": "Oláh Erzsébet",
+  "szuletesi_hely": "Baja",
+  "szuletesi_datum": "1999.07.31.",
+  "lakcim": "H-3370 Hetvennémeti, Kecskeméti utca 30.",
+  "telefon": "06 1 341 9617",
+  "email": "molnar.piroska@citromail.hu",
+  "adoazonosito_jel": "8484233389",
+  "taj_szam": "886 681 173",
+  "kelt": "Belsőmellékfalva, 2026.01.02."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    331,
+    113,
+    910,
+    147
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    474,
+    166,
+    765,
+    183
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    219,
+    319,
+    241
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    272,
+    157,
+    286
+   ]
+  },
+  {
+   "text": "Molnár Piroska",
+   "bbox": [
+    429,
+    268,
+    573,
+    285
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    324,
+    216,
+    342
+   ]
+  },
+  {
+   "text": "Oláh Erzsébet",
+   "bbox": [
+    429,
+    324,
+    562,
+    341
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    376,
+    238,
+    394
+   ]
+  },
+  {
+   "text": "Baja",
+   "bbox": [
+    429,
+    373,
+    469,
+    394
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    428,
+    230,
+    442
+   ]
+  },
+  {
+   "text": "1999.07.31.",
+   "bbox": [
+    429,
+    430,
+    540,
+    446
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    480,
+    182,
+    494
+   ]
+  },
+  {
+   "text": "H-3370 Hetvennémeti, Kecskeméti utca 30.",
+   "bbox": [
+    429,
+    478,
+    847,
+    498
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    532,
+    230,
+    546
+   ]
+  },
+  {
+   "text": "06 1 341 9617",
+   "bbox": [
+    429,
+    534,
+    567,
+    550
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    584,
+    213,
+    598
+   ]
+  },
+  {
+   "text": "molnar.piroska@citromail.hu",
+   "bbox": [
+    429,
+    583,
+    705,
+    605
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    636,
+    265,
+    654
+   ]
+  },
+  {
+   "text": "8484233389",
+   "bbox": [
+    429,
+    634,
+    549,
+    650
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    688,
+    201,
+    702
+   ]
+  },
+  {
+   "text": "886 681 173",
+   "bbox": [
+    429,
+    687,
+    549,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    767,
+    278,
+    789
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    810,
+    446,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    855,
+    287,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    900,
+    462,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1004,
+    146,
+    1019
+   ]
+  },
+  {
+   "text": "Belsőmellékfalva, 2026.01.02.",
+   "bbox": [
+    198,
+    1000,
+    481,
+    1020
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    919,
+    1053,
+    964,
+    1065
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

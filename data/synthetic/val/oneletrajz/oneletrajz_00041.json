@@ -1,0 +1,318 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Molnár Éva",
+  "email": "molnar.eva@gmail.com",
+  "telefon": "+36 30 608 3274",
+  "lakcim": "H-9712 Szolnok, Békésszéki utca 159.",
+  "szuletesi_datum": "1979. augusztus 13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1998 – 2003"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1994 – 1998"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Papp Trade Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "C#",
+   "B kategóriás jogosítvány",
+   "Linux",
+   "Excel",
+   "SAP",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    98,
+    192,
+    119
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    144,
+    95,
+    158
+   ]
+  },
+  {
+   "text": "molnar.eva@gmail.com",
+   "bbox": [
+    40,
+    167,
+    238,
+    185
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    200,
+    107,
+    214
+   ]
+  },
+  {
+   "text": "+36 30 608 3274",
+   "bbox": [
+    40,
+    224,
+    178,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    256,
+    102,
+    270
+   ]
+  },
+  {
+   "text": "H-9712 Szolnok, Békésszéki utca 159.",
+   "bbox": [
+    40,
+    279,
+    350,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    312,
+    180,
+    326
+   ]
+  },
+  {
+   "text": "1979. augusztus 13.",
+   "bbox": [
+    40,
+    336,
+    203,
+    353
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    395,
+    187,
+    416
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    437,
+    134,
+    455
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    491,
+    163,
+    512
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    534,
+    64,
+    548
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    560,
+    254,
+    580
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    587,
+    85,
+    602
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    614,
+    83,
+    629
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    642,
+    75,
+    656
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    668,
+    156,
+    688
+   ]
+  },
+  {
+   "text": "Molnár Éva",
+   "bbox": [
+    450,
+    101,
+    687,
+    143
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    175,
+    634,
+    194
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    681,
+    263
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    289,
+    561,
+    304
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Papp Trade Zrt.",
+   "bbox": [
+    450,
+    313,
+    807,
+    335
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    365,
+    609,
+    390
+   ]
+  },
+  {
+   "text": "1998 – 2003",
+   "bbox": [
+    450,
+    416,
+    561,
+    431
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    440,
+    710,
+    462
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    450,
+    465,
+    579,
+    486
+   ]
+  },
+  {
+   "text": "1994 – 1998",
+   "bbox": [
+    450,
+    507,
+    561,
+    522
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    531,
+    740,
+    553
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    556,
+    687,
+    577
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

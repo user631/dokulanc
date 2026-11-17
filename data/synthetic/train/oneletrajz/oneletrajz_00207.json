@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Papp Katalin",
+  "email": "papp.katalin@outlook.com",
+  "telefon": "+36 20 653 3887",
+  "lakcim": "H-5149 Budamellékbánya, Nyírmindszenti utca 102.",
+  "szuletesi_datum": "1984. 04. 23.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2004 – 2008"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Molnár Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2011 – 2015"
+   },
+   {
+    "ceg": "Barna Tech Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2009 – 2011"
+   },
+   {
+    "ceg": "Vörös Tech Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2008 – 2009"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "Excel",
+   "C#",
+   "B kategóriás jogosítvány",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    100,
+    193,
+    121
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    145,
+    93,
+    158
+   ]
+  },
+  {
+   "text": "papp.katalin@outlook.com",
+   "bbox": [
+    40,
+    166,
+    235,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    197,
+    104,
+    210
+   ]
+  },
+  {
+   "text": "+36 20 653 3887",
+   "bbox": [
+    40,
+    219,
+    166,
+    231
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    100,
+    262
+   ]
+  },
+  {
+   "text": "H-5149 Budamellékbánya, Nyírmindszenti",
+   "bbox": [
+    40,
+    269,
+    346,
+    286
+   ]
+  },
+  {
+   "text": "utca 102.",
+   "bbox": [
+    40,
+    292,
+    109,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    321,
+    177,
+    335
+   ]
+  },
+  {
+   "text": "1984. 04. 23.",
+   "bbox": [
+    40,
+    344,
+    137,
+    356
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    400,
+    181,
+    421
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    441,
+    133,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    164,
+    513
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    534,
+    75,
+    547
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    558,
+    80,
+    572
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    584,
+    64,
+    597
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    608,
+    233,
+    626
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    633,
+    204,
+    651
+   ]
+  },
+  {
+   "text": "Papp Katalin",
+   "bbox": [
+    450,
+    110,
+    725,
+    152
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    175,
+    637,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    686,
+    260
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    450,
+    286,
+    552,
+    300
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Molnár Tech Bt.",
+   "bbox": [
+    449,
+    307,
+    785,
+    328
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    450,
+    348,
+    552,
+    362
+   ]
+  },
+  {
+   "text": "adatelemző – Barna Tech Bt.",
+   "bbox": [
+    450,
+    369,
+    740,
+    386
+   ]
+  },
+  {
+   "text": "2008 – 2009",
+   "bbox": [
+    450,
+    410,
+    552,
+    424
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Vörös Tech Kft.",
+   "bbox": [
+    450,
+    431,
+    796,
+    452
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    482,
+    608,
+    505
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    531,
+    552,
+    545
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    553,
+    647,
+    573
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    450,
+    576,
+    672,
+    595
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    450,
+    616,
+    552,
+    630
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    637,
+    695,
+    658
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    661,
+    611,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

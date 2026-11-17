@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szilágyi Erzsébet",
+  "email": "szilagyi.erzsebet@freemail.hu",
+  "telefon": "06 1 229 5227",
+  "lakcim": "H-1858 Kiskeresztfalu, Kecskeméti utca 200.",
+  "szuletesi_datum": "1999.11.26.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Juhász és Társa Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2023 – 2025"
+   },
+   {
+    "ceg": "Németh Trade Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2021 – 2023"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "prezentáció",
+   "C#",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szilágyi Erzsébet",
+   "bbox": [
+    391,
+    99,
+    849,
+    148
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    512,
+    170,
+    728,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    223,
+    179,
+    240
+   ]
+  },
+  {
+   "text": "szilagyi.erzsebet@freemail.hu",
+   "bbox": [
+    330,
+    223,
+    660,
+    244
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    255,
+    192,
+    272
+   ]
+  },
+  {
+   "text": "06 1 229 5227",
+   "bbox": [
+    330,
+    256,
+    494,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    187,
+    304
+   ]
+  },
+  {
+   "text": "H-1858 Kiskeresztfalu, Kecskeméti utca 200.",
+   "bbox": [
+    330,
+    286,
+    828,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    300,
+    336
+   ]
+  },
+  {
+   "text": "1999.11.26.",
+   "bbox": [
+    330,
+    320,
+    466,
+    336
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    383,
+    397
+   ]
+  },
+  {
+   "text": "2023 – 2025",
+   "bbox": [
+    90,
+    424,
+    232,
+    440
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Juhász és Társa Zrt.",
+   "bbox": [
+    90,
+    449,
+    595,
+    472
+   ]
+  },
+  {
+   "text": "2021 – 2023",
+   "bbox": [
+    90,
+    492,
+    232,
+    508
+   ]
+  },
+  {
+   "text": "rendszergazda – Németh Trade Bt.",
+   "bbox": [
+    90,
+    517,
+    534,
+    540
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    569,
+    289,
+    595
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    90,
+    622,
+    232,
+    638
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    647,
+    338,
+    670
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    672,
+    384,
+    694
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    716,
+    232,
+    732
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    741,
+    416,
+    759
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    767,
+    306,
+    788
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    819,
+    253,
+    845
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    870,
+    217,
+    892
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    919,
+    243,
+    945
+   ]
+  },
+  {
+   "text": "SAP, prezentáció, C#, Java",
+   "bbox": [
+    90,
+    970,
+    390,
+    992
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

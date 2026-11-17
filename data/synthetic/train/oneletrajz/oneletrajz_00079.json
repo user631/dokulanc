@@ -1,0 +1,310 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Veres József",
+  "email": "veres.jozsef@outlook.com",
+  "telefon": "+36 70 161 5853",
+  "lakcim": "H-3652 Vác, Petőfi sándor utca 126.",
+  "szuletesi_datum": "1993.01.03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "gazdaságinformatikus MSc",
+    "idoszak": "2012 – 2017"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Soós Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "ceg": "Mészáros Tech Bt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2017 – 2020"
+   },
+   {
+    "ceg": "Mészáros Trade Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2016 – 2017"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "prezentáció",
+   "SAP",
+   "ügyfélkezelés",
+   "projektmenedzsment",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Veres József",
+   "bbox": [
+    477,
+    114,
+    764,
+    149
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    183,
+    707,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    234,
+    158,
+    249
+   ]
+  },
+  {
+   "text": "veres.jozsef@outlook.com",
+   "bbox": [
+    330,
+    234,
+    565,
+    253
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    168,
+    279
+   ]
+  },
+  {
+   "text": "+36 70 161 5853",
+   "bbox": [
+    330,
+    264,
+    481,
+    279
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    294,
+    166,
+    309
+   ]
+  },
+  {
+   "text": "H-3652 Vác, Petőfi sándor utca 126.",
+   "bbox": [
+    330,
+    294,
+    654,
+    312
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    324,
+    250,
+    339
+   ]
+  },
+  {
+   "text": "1993.01.03.",
+   "bbox": [
+    330,
+    324,
+    436,
+    339
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    375,
+    315,
+    397
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    424,
+    201,
+    439
+   ]
+  },
+  {
+   "text": "értékesítő – Soós Zrt.",
+   "bbox": [
+    90,
+    448,
+    307,
+    464
+   ]
+  },
+  {
+   "text": "2017 – 2020",
+   "bbox": [
+    90,
+    488,
+    201,
+    503
+   ]
+  },
+  {
+   "text": "adatelemző – Mészáros Tech Bt.",
+   "bbox": [
+    90,
+    512,
+    419,
+    528
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    90,
+    552,
+    201,
+    567
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Mészáros Trade Kft.",
+   "bbox": [
+    90,
+    576,
+    485,
+    596
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    625,
+    246,
+    649
+   ]
+  },
+  {
+   "text": "2012 – 2017",
+   "bbox": [
+    90,
+    676,
+    201,
+    691
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    701,
+    288,
+    720
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus MSc",
+   "bbox": [
+    90,
+    724,
+    330,
+    743
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    764,
+    201,
+    779
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    788,
+    382,
+    808
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    812,
+    316,
+    831
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    861,
+    217,
+    885
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    912,
+    202,
+    931
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    957,
+    213,
+    981
+   ]
+  },
+  {
+   "text": "Git, prezentáció, SAP, ügyfélkezelés, projektmenedzsment, Python",
+   "bbox": [
+    90,
+    1008,
+    686,
+    1027
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,449 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH KISBOLT KFT.",
+  "uzlet_cim": "H-8296 Hajdúszékkőrös, Fürdővégi tér 235.",
+  "adoszam": "13812997-4-28",
+  "datum": "2025.04.29.",
+  "ido": "08:44",
+  "nyugtaszam": "1468/87772",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "21 565 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "448"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1411"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "311"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "591"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1224"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1542"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "2277"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4214"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "432"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "431"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7386"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1298"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH KISBOLT KFT.",
+   "bbox": [
+    184,
+    34,
+    431,
+    48
+   ]
+  },
+  {
+   "text": "H-8296 Hajdúszékkőrös, Fürdővégi tér 235.",
+   "bbox": [
+    82,
+    63,
+    533,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 13812997-4-28",
+   "bbox": [
+    187,
+    87,
+    429,
+    101
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    266,
+    128,
+    351,
+    143
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    169,
+    192,
+    182
+   ]
+  },
+  {
+   "text": "448 A00",
+   "bbox": [
+    509,
+    168,
+    593,
+    182
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    196,
+    144,
+    210
+   ]
+  },
+  {
+   "text": "1411 B00",
+   "bbox": [
+    497,
+    196,
+    593,
+    210
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    225,
+    180,
+    238
+   ]
+  },
+  {
+   "text": "311 B00",
+   "bbox": [
+    509,
+    224,
+    593,
+    238
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    252,
+    120,
+    266
+   ]
+  },
+  {
+   "text": "591 C00",
+   "bbox": [
+    509,
+    252,
+    593,
+    266
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    281,
+    180,
+    294
+   ]
+  },
+  {
+   "text": "1224 C00",
+   "bbox": [
+    497,
+    280,
+    593,
+    294
+   ]
+  },
+  {
+   "text": "3 DB x 514",
+   "bbox": [
+    24,
+    308,
+    124,
+    320
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    330,
+    120,
+    344
+   ]
+  },
+  {
+   "text": "1542 B00",
+   "bbox": [
+    497,
+    330,
+    593,
+    344
+   ]
+  },
+  {
+   "text": "3 DB x 759",
+   "bbox": [
+    24,
+    358,
+    124,
+    370
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    380,
+    216,
+    394
+   ]
+  },
+  {
+   "text": "2277 A00",
+   "bbox": [
+    497,
+    380,
+    593,
+    394
+   ]
+  },
+  {
+   "text": "2 DB x 2107",
+   "bbox": [
+    24,
+    408,
+    134,
+    420
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    430,
+    252,
+    444
+   ]
+  },
+  {
+   "text": "4214 C00",
+   "bbox": [
+    497,
+    430,
+    593,
+    444
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    458,
+    156,
+    472
+   ]
+  },
+  {
+   "text": "432 C00",
+   "bbox": [
+    509,
+    458,
+    593,
+    472
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    486,
+    156,
+    503
+   ]
+  },
+  {
+   "text": "431 C00",
+   "bbox": [
+    509,
+    486,
+    593,
+    500
+   ]
+  },
+  {
+   "text": "3 DB x 2462",
+   "bbox": [
+    24,
+    514,
+    134,
+    526
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    536,
+    132,
+    550
+   ]
+  },
+  {
+   "text": "7386 A00",
+   "bbox": [
+    497,
+    536,
+    593,
+    550
+   ]
+  },
+  {
+   "text": "2 DB x 649",
+   "bbox": [
+    24,
+    564,
+    124,
+    576
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    586,
+    132,
+    600
+   ]
+  },
+  {
+   "text": "1298 A00",
+   "bbox": [
+    497,
+    586,
+    593,
+    600
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    624,
+    164,
+    643
+   ]
+  },
+  {
+   "text": "21 565 Ft",
+   "bbox": [
+    467,
+    626,
+    593,
+    643
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    662,
+    120,
+    678
+   ]
+  },
+  {
+   "text": "21 565 Ft",
+   "bbox": [
+    485,
+    664,
+    593,
+    678
+   ]
+  },
+  {
+   "text": "2025.04.29.",
+   "bbox": [
+    24,
+    706,
+    145,
+    719
+   ]
+  },
+  {
+   "text": "08:44",
+   "bbox": [
+    538,
+    706,
+    593,
+    719
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1468/87772",
+   "bbox": [
+    24,
+    733,
+    266,
+    750
+   ]
+  },
+  {
+   "text": "AP A11261983",
+   "bbox": [
+    24,
+    762,
+    156,
+    775
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    187,
+    800,
+    429,
+    815
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  617,
+  860
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "VINCZE MARKET KFT.",
+  "uzlet_cim": "H-6527 Hídhalas, Bácsmindszenti utca 32.",
+  "adoszam": "53489412-4-09",
+  "datum": "2026.09.27.",
+  "ido": "14:52",
+  "nyugtaszam": "6413/74070",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "16 104 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3018"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3483"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1400"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "778"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2612"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "406"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "1380"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1245"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "723"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "346"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "713"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VINCZE MARKET KFT.",
+   "bbox": [
+    149,
+    35,
+    401,
+    49
+   ]
+  },
+  {
+   "text": "H-6527 Hídhalas, Bácsmindszenti utca 32.",
+   "bbox": [
+    55,
+    63,
+    495,
+    81
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53489412-4-09",
+   "bbox": [
+    154,
+    88,
+    396,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    230,
+    131,
+    320,
+    147
+   ]
+  },
+  {
+   "text": "3 DB x 1006",
+   "bbox": [
+    24,
+    172,
+    145,
+    185
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    195,
+    180,
+    210
+   ]
+  },
+  {
+   "text": "3018 B00",
+   "bbox": [
+    423,
+    195,
+    527,
+    210
+   ]
+  },
+  {
+   "text": "3 DB x 1161",
+   "bbox": [
+    24,
+    224,
+    145,
+    237
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    247,
+    219,
+    262
+   ]
+  },
+  {
+   "text": "3483 C00",
+   "bbox": [
+    423,
+    247,
+    527,
+    262
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    278,
+    193,
+    291
+   ]
+  },
+  {
+   "text": "1400 B00",
+   "bbox": [
+    423,
+    276,
+    527,
+    291
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    305,
+    128,
+    320
+   ]
+  },
+  {
+   "text": "778 A00",
+   "bbox": [
+    436,
+    305,
+    527,
+    320
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    334,
+    271,
+    349
+   ]
+  },
+  {
+   "text": "2612 B00",
+   "bbox": [
+    423,
+    334,
+    527,
+    349
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    363,
+    206,
+    378
+   ]
+  },
+  {
+   "text": "406 B00",
+   "bbox": [
+    436,
+    363,
+    527,
+    378
+   ]
+  },
+  {
+   "text": "3 DB x 460",
+   "bbox": [
+    24,
+    392,
+    134,
+    405
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    415,
+    141,
+    430
+   ]
+  },
+  {
+   "text": "1380 A00",
+   "bbox": [
+    423,
+    415,
+    527,
+    430
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    446,
+    154,
+    459
+   ]
+  },
+  {
+   "text": "1245 A00",
+   "bbox": [
+    423,
+    444,
+    527,
+    459
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    473,
+    232,
+    488
+   ]
+  },
+  {
+   "text": "723 C00",
+   "bbox": [
+    436,
+    473,
+    527,
+    488
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    504,
+    193,
+    517
+   ]
+  },
+  {
+   "text": "346 B00",
+   "bbox": [
+    436,
+    502,
+    527,
+    517
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    531,
+    141,
+    546
+   ]
+  },
+  {
+   "text": "713 C00",
+   "bbox": [
+    436,
+    531,
+    527,
+    546
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    570,
+    174,
+    590
+   ]
+  },
+  {
+   "text": "16 104 Ft",
+   "bbox": [
+    392,
+    572,
+    527,
+    590
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    609,
+    128,
+    626
+   ]
+  },
+  {
+   "text": "16 104 Ft",
+   "bbox": [
+    410,
+    611,
+    527,
+    626
+   ]
+  },
+  {
+   "text": "2026.09.27.",
+   "bbox": [
+    24,
+    653,
+    145,
+    667
+   ]
+  },
+  {
+   "text": "14:52",
+   "bbox": [
+    472,
+    653,
+    527,
+    667
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 6413/74070",
+   "bbox": [
+    24,
+    681,
+    266,
+    699
+   ]
+  },
+  {
+   "text": "AP A78196209",
+   "bbox": [
+    24,
+    711,
+    156,
+    725
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    143,
+    751,
+    407,
+    767
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  551,
+  812
+ ]
+}

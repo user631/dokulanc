@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Székely Zsófia",
+  "anyja_neve": "Horváth Erzsébet",
+  "szuletesi_hely": "Tatabánya",
+  "szuletesi_datum": "1956.05.14.",
+  "lakcim": "H-4390 Székhalas, Mártonnádasdi utca 84.",
+  "telefon": "+36 30 558 7588",
+  "email": "szekely.zsofia@citromail.hu",
+  "adoazonosito_jel": "8326404659",
+  "taj_szam": "853 167 370",
+  "kelt": "Rácmártonvár, 2025.08.04."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    372,
+    105,
+    867,
+    142
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    449,
+    162,
+    791,
+    180
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    216,
+    368,
+    239
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    268,
+    164,
+    285
+   ]
+  },
+  {
+   "text": "Székely Zsófia",
+   "bbox": [
+    422,
+    269,
+    590,
+    293
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    116,
+    323,
+    239,
+    342
+   ]
+  },
+  {
+   "text": "Horváth Erzsébet",
+   "bbox": [
+    422,
+    320,
+    623,
+    339
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    374,
+    264,
+    395
+   ]
+  },
+  {
+   "text": "Tatabánya",
+   "bbox": [
+    422,
+    374,
+    544,
+    398
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    427,
+    251,
+    444
+   ]
+  },
+  {
+   "text": "1956.05.14.",
+   "bbox": [
+    422,
+    429,
+    566,
+    446
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    480,
+    194,
+    497
+   ]
+  },
+  {
+   "text": "H-4390 Székhalas, Mártonnádasdi utca 84.",
+   "bbox": [
+    422,
+    480,
+    924,
+    503
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    533,
+    250,
+    550
+   ]
+  },
+  {
+   "text": "+36 30 558 7588",
+   "bbox": [
+    422,
+    534,
+    630,
+    551
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    586,
+    229,
+    603
+   ]
+  },
+  {
+   "text": "szekely.zsofia@citromail.hu",
+   "bbox": [
+    422,
+    589,
+    742,
+    612
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    116,
+    639,
+    289,
+    660
+   ]
+  },
+  {
+   "text": "8326404659",
+   "bbox": [
+    422,
+    640,
+    572,
+    657
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    692,
+    219,
+    709
+   ]
+  },
+  {
+   "text": "853 167 370",
+   "bbox": [
+    422,
+    694,
+    573,
+    711
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    774,
+    313,
+    797
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    816,
+    503,
+    837
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    861,
+    315,
+    878
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    149,
+    906,
+    522,
+    927
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    1011,
+    156,
+    1028
+   ]
+  },
+  {
+   "text": "Rácmártonvár, 2025.08.04.",
+   "bbox": [
+    194,
+    1007,
+    518,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    918,
+    1060,
+    974,
+    1074
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

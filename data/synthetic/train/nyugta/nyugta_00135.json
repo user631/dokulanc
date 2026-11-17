@@ -1,0 +1,299 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "BALOGH ÉLELMISZER BT.",
+  "uzlet_cim": "H-2091 Nagykanizsa, Szentfürdői út 232.",
+  "adoszam": "53497220-4-02",
+  "datum": "2026.05.03.",
+  "ido": "11:26",
+  "nyugtaszam": "0374/40150",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "10 793 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2407"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3819"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "291"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "828"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "2484"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "964"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH ÉLELMISZER BT.",
+   "bbox": [
+    122,
+    30,
+    437,
+    50
+   ]
+  },
+  {
+   "text": "H-2091 Nagykanizsa, Szentfürdői út 232.",
+   "bbox": [
+    26,
+    65,
+    533,
+    86
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 53497220-4-02",
+   "bbox": [
+    137,
+    92,
+    423,
+    109
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    232,
+    138,
+    329,
+    155
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    180,
+    150,
+    197
+   ]
+  },
+  {
+   "text": "2407 A00",
+   "bbox": [
+    425,
+    180,
+    537,
+    197
+   ]
+  },
+  {
+   "text": "3 DB x 1273",
+   "bbox": [
+    24,
+    211,
+    156,
+    225
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    239,
+    206,
+    253
+   ]
+  },
+  {
+   "text": "3819 A00",
+   "bbox": [
+    425,
+    236,
+    537,
+    253
+   ]
+  },
+  {
+   "text": "3 DB x 97",
+   "bbox": [
+    24,
+    267,
+    132,
+    281
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    295,
+    108,
+    309
+   ]
+  },
+  {
+   "text": "291 C00",
+   "bbox": [
+    439,
+    292,
+    537,
+    309
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    323,
+    192,
+    340
+   ]
+  },
+  {
+   "text": "828 C00",
+   "bbox": [
+    439,
+    323,
+    537,
+    340
+   ]
+  },
+  {
+   "text": "3 DB x 828",
+   "bbox": [
+    24,
+    354,
+    144,
+    368
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    379,
+    136,
+    396
+   ]
+  },
+  {
+   "text": "2484 A00",
+   "bbox": [
+    425,
+    379,
+    537,
+    396
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    410,
+    136,
+    427
+   ]
+  },
+  {
+   "text": "964 A00",
+   "bbox": [
+    439,
+    410,
+    537,
+    427
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    452,
+    184,
+    473
+   ]
+  },
+  {
+   "text": "10 793 Ft",
+   "bbox": [
+    393,
+    453,
+    537,
+    473
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    493,
+    164,
+    511
+   ]
+  },
+  {
+   "text": "10 793 Ft",
+   "bbox": [
+    411,
+    494,
+    537,
+    511
+   ]
+  },
+  {
+   "text": "2026.05.03.",
+   "bbox": [
+    24,
+    539,
+    167,
+    554
+   ]
+  },
+  {
+   "text": "11:26",
+   "bbox": [
+    472,
+    539,
+    537,
+    554
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0374/40150",
+   "bbox": [
+    24,
+    568,
+    310,
+    588
+   ]
+  },
+  {
+   "text": "AP A27527978",
+   "bbox": [
+    24,
+    601,
+    180,
+    616
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    137,
+    643,
+    423,
+    660
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  561,
+  705
+ ]
+}

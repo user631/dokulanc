@@ -1,0 +1,184 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "LAKATOS ABC KFT.",
+  "uzlet_cim": "H-8882 Miskolc, Ady endre utca 221.",
+  "adoszam": "63380455-3-03",
+  "datum": "2026.06.24.",
+  "ido": "18:11",
+  "nyugtaszam": "4282/92858",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "646 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "223"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "423"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LAKATOS ABC KFT.",
+   "bbox": [
+    178,
+    35,
+    434,
+    51
+   ]
+  },
+  {
+   "text": "H-8882 Miskolc, Ady endre utca 221.",
+   "bbox": [
+    78,
+    67,
+    533,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 63380455-3-03",
+   "bbox": [
+    163,
+    95,
+    449,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    255,
+    141,
+    357,
+    159
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    184,
+    220,
+    205
+   ]
+  },
+  {
+   "text": "223 B00",
+   "bbox": [
+    491,
+    184,
+    589,
+    201
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    216,
+    178,
+    237
+   ]
+  },
+  {
+   "text": "423 A00",
+   "bbox": [
+    491,
+    216,
+    589,
+    233
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    259,
+    177,
+    281
+   ]
+  },
+  {
+   "text": "646 Ft",
+   "bbox": [
+    487,
+    261,
+    589,
+    281
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    300,
+    136,
+    319
+   ]
+  },
+  {
+   "text": "646 Ft",
+   "bbox": [
+    505,
+    302,
+    589,
+    319
+   ]
+  },
+  {
+   "text": "2026.06.24.",
+   "bbox": [
+    24,
+    348,
+    167,
+    364
+   ]
+  },
+  {
+   "text": "18:11",
+   "bbox": [
+    524,
+    348,
+    589,
+    364
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4282/92858",
+   "bbox": [
+    24,
+    379,
+    310,
+    399
+   ]
+  },
+  {
+   "text": "AP A84844150",
+   "bbox": [
+    24,
+    412,
+    180,
+    428
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    201,
+    455,
+    411,
+    473
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  613,
+  518
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/08414",
+  "kiallitas_datuma": "2026. április 22.",
+  "teljesites_datuma": "2026. április 19.",
+  "fizetesi_hatarido": "2026. május 22.",
+  "elado_nev": "Balázs Tech Kft.",
+  "elado_cim": "H-1709 Németmindszentdevecser, Székdevecseri utca 234.",
+  "elado_adoszam": "12778344-2-37",
+  "vevo_nev": "Nagy Logisztika Kft.",
+  "vevo_cim": "H-8128 Szeged, Balatongyörgyi utca 42.",
+  "vevo_adoszam": "93308588-5-39",
+  "bankszamla": "HU93 9655 6773 4934 8013 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "10 550 Ft",
+  "afa_osszesen": "2 605 Ft",
+  "brutto_osszesen": "13 155 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "1 db",
+    "egysegar": "1 110",
+    "netto": "1 110",
+    "afa_kulcs": "5%",
+    "afa": "56",
+    "brutto": "1 166"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "2 oldal",
+    "egysegar": "4 720",
+    "netto": "9 440",
+    "afa_kulcs": "27%",
+    "afa": "2 549",
+    "brutto": "11 989"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    366,
+    84,
+    874,
+    122
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2026/08414",
+   "bbox": [
+    379,
+    141,
+    862,
+    167
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    75,
+    221,
+    169,
+    243
+   ]
+  },
+  {
+   "text": "Balázs Tech Kft.",
+   "bbox": [
+    75,
+    260,
+    316,
+    282
+   ]
+  },
+  {
+   "text": "H-1709 Németmindszentdevecser,",
+   "bbox": [
+    75,
+    296,
+    513,
+    322
+   ]
+  },
+  {
+   "text": "Székdevecseri utca 234.",
+   "bbox": [
+    75,
+    329,
+    384,
+    350
+   ]
+  },
+  {
+   "text": "Adószám: 12778344-2-37",
+   "bbox": [
+    75,
+    362,
+    406,
+    383
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    221,
+    717,
+    243
+   ]
+  },
+  {
+   "text": "Nagy Logisztika Kft.",
+   "bbox": [
+    630,
+    261,
+    933,
+    287
+   ]
+  },
+  {
+   "text": "H-8128 Szeged, Balatongyörgyi utca 42.",
+   "bbox": [
+    630,
+    297,
+    1146,
+    322
+   ]
+  },
+  {
+   "text": "Adószám: 93308588-5-39",
+   "bbox": [
+    630,
+    329,
+    961,
+    350
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    75,
+    433,
+    279,
+    451
+   ]
+  },
+  {
+   "text": "2026. április 22.",
+   "bbox": [
+    75,
+    465,
+    272,
+    489
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    347,
+    433,
+    570,
+    455
+   ]
+  },
+  {
+   "text": "2026. április 19.",
+   "bbox": [
+    347,
+    465,
+    544,
+    489
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    433,
+    828,
+    451
+   ]
+  },
+  {
+   "text": "2026. május 22.",
+   "bbox": [
+    619,
+    465,
+    816,
+    489
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    891,
+    433,
+    1048,
+    451
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    891,
+    465,
+    986,
+    484
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    75,
+    517,
+    227,
+    539
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    519,
+    601,
+    539
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    637,
+    517,
+    750,
+    539
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    812,
+    517,
+    881,
+    535
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    871,
+    513,
+    947,
+    535
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1002,
+    513,
+    1050,
+    535
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1086,
+    517,
+    1165,
+    535
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    562,
+    561,
+    579
+   ]
+  },
+  {
+   "text": "1 110",
+   "bbox": [
+    686,
+    563,
+    750,
+    579
+   ]
+  },
+  {
+   "text": "1 110",
+   "bbox": [
+    817,
+    563,
+    881,
+    579
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    909,
+    563,
+    947,
+    579
+   ]
+  },
+  {
+   "text": "56",
+   "bbox": [
+    1022,
+    563,
+    1050,
+    579
+   ]
+  },
+  {
+   "text": "1 166",
+   "bbox": [
+    1101,
+    563,
+    1165,
+    579
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    75,
+    561,
+    209,
+    583
+   ]
+  },
+  {
+   "text": "2 oldal",
+   "bbox": [
+    511,
+    600,
+    585,
+    617
+   ]
+  },
+  {
+   "text": "4 720",
+   "bbox": [
+    686,
+    601,
+    750,
+    617
+   ]
+  },
+  {
+   "text": "9 440",
+   "bbox": [
+    817,
+    601,
+    881,
+    617
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    895,
+    601,
+    947,
+    617
+   ]
+  },
+  {
+   "text": "2 549",
+   "bbox": [
+    986,
+    601,
+    1050,
+    617
+   ]
+  },
+  {
+   "text": "11 989",
+   "bbox": [
+    1087,
+    601,
+    1165,
+    617
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    75,
+    599,
+    372,
+    621
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    626,
+    657,
+    835,
+    679
+   ]
+  },
+  {
+   "text": "10 550 Ft",
+   "bbox": [
+    1037,
+    660,
+    1165,
+    679
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    645,
+    691,
+    835,
+    718
+   ]
+  },
+  {
+   "text": "2 605 Ft",
+   "bbox": [
+    1054,
+    699,
+    1165,
+    718
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    571,
+    736,
+    835,
+    762
+   ]
+  },
+  {
+   "text": "13 155 Ft",
+   "bbox": [
+    1028,
+    738,
+    1165,
+    757
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU93 9655 6773 4934 8013 0000 0000",
+   "bbox": [
+    75,
+    805,
+    774,
+    824
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    75,
+    837,
+    812,
+    858
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    360,
+    1657,
+    880,
+    1678
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

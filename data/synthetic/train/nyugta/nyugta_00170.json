@@ -1,0 +1,396 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "MÉSZÁROS ABC BT.",
+  "uzlet_cim": "H-3632 Baja, Fürdőhalasi utca 239.",
+  "adoszam": "87331503-2-19",
+  "datum": "2026.10.22.",
+  "ido": "07:00",
+  "nyugtaszam": "1567/30790",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "11 687 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "624"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1868"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "420"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1056"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "978"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "633"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "973"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1398"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2559"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1178"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MÉSZÁROS ABC BT.",
+   "bbox": [
+    183,
+    28,
+    407,
+    50
+   ]
+  },
+  {
+   "text": "H-3632 Baja, Fürdőhalasi utca 239.",
+   "bbox": [
+    91,
+    67,
+    499,
+    87
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 87331503-2-19",
+   "bbox": [
+    163,
+    92,
+    427,
+    111
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    250,
+    139,
+    341,
+    157
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    185,
+    141,
+    200
+   ]
+  },
+  {
+   "text": "624 B00",
+   "bbox": [
+    476,
+    185,
+    567,
+    200
+   ]
+  },
+  {
+   "text": "2 DB x 934",
+   "bbox": [
+    24,
+    217,
+    144,
+    230
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    243,
+    180,
+    258
+   ]
+  },
+  {
+   "text": "1868 A00",
+   "bbox": [
+    463,
+    243,
+    567,
+    258
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    273,
+    167,
+    294
+   ]
+  },
+  {
+   "text": "420 B00",
+   "bbox": [
+    476,
+    275,
+    567,
+    290
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    307,
+    154,
+    322
+   ]
+  },
+  {
+   "text": "1056 A00",
+   "bbox": [
+    463,
+    307,
+    567,
+    322
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    339,
+    193,
+    354
+   ]
+  },
+  {
+   "text": "978 B00",
+   "bbox": [
+    476,
+    339,
+    567,
+    354
+   ]
+  },
+  {
+   "text": "3 DB x 211",
+   "bbox": [
+    24,
+    371,
+    144,
+    384
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    397,
+    206,
+    416
+   ]
+  },
+  {
+   "text": "633 A00",
+   "bbox": [
+    476,
+    397,
+    567,
+    412
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    429,
+    128,
+    444
+   ]
+  },
+  {
+   "text": "973 B00",
+   "bbox": [
+    476,
+    429,
+    567,
+    444
+   ]
+  },
+  {
+   "text": "2 DB x 699",
+   "bbox": [
+    24,
+    461,
+    144,
+    474
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    487,
+    128,
+    502
+   ]
+  },
+  {
+   "text": "1398 B00",
+   "bbox": [
+    463,
+    487,
+    567,
+    502
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    519,
+    271,
+    534
+   ]
+  },
+  {
+   "text": "2559 C00",
+   "bbox": [
+    463,
+    519,
+    567,
+    534
+   ]
+  },
+  {
+   "text": "2 DB x 589",
+   "bbox": [
+    24,
+    551,
+    144,
+    564
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    577,
+    128,
+    592
+   ]
+  },
+  {
+   "text": "1178 B00",
+   "bbox": [
+    463,
+    577,
+    567,
+    592
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    616,
+    159,
+    639
+   ]
+  },
+  {
+   "text": "11 687 Ft",
+   "bbox": [
+    432,
+    621,
+    567,
+    639
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    658,
+    168,
+    678
+   ]
+  },
+  {
+   "text": "11 687 Ft",
+   "bbox": [
+    450,
+    662,
+    567,
+    678
+   ]
+  },
+  {
+   "text": "2026.10.22.",
+   "bbox": [
+    24,
+    709,
+    156,
+    723
+   ]
+  },
+  {
+   "text": "07:00",
+   "bbox": [
+    507,
+    709,
+    567,
+    723
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1567/30790",
+   "bbox": [
+    24,
+    736,
+    288,
+    757
+   ]
+  },
+  {
+   "text": "AP A51961370",
+   "bbox": [
+    24,
+    773,
+    168,
+    787
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    152,
+    812,
+    438,
+    832
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  591,
+  878
+ ]
+}

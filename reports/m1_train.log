@@ -1,0 +1,49 @@
+Eszköz: cuda, tanító: 1750, validációs: 425
+[mobilenet_v3_large]  1/13 loss=1.0281 val_acc=0.4729 val_f1=0.4389
+[mobilenet_v3_large]  2/13 loss=0.7660 val_acc=0.6071 val_f1=0.5849
+[mobilenet_v3_large]  3/13 loss=0.7401 val_acc=0.7647 val_f1=0.7675
+[mobilenet_v3_large]  4/13 loss=0.6200 val_acc=0.8094 val_f1=0.8102
+[mobilenet_v3_large]  5/13 loss=0.5202 val_acc=0.9106 val_f1=0.9194
+[mobilenet_v3_large]  6/13 loss=0.4897 val_acc=0.9106 val_f1=0.9188
+[mobilenet_v3_large]  7/13 loss=0.4701 val_acc=0.9129 val_f1=0.9206
+[mobilenet_v3_large]  8/13 loss=0.4563 val_acc=0.9247 val_f1=0.9314
+[mobilenet_v3_large]  9/13 loss=0.4441 val_acc=0.9224 val_f1=0.9285
+[mobilenet_v3_large] 10/13 loss=0.4353 val_acc=0.9176 val_f1=0.9248
+[mobilenet_v3_large] 11/13 loss=0.4281 val_acc=0.9247 val_f1=0.9318
+[mobilenet_v3_large] 12/13 loss=0.4218 val_acc=0.9271 val_f1=0.9340
+[mobilenet_v3_large] 13/13 loss=0.4195 val_acc=0.9294 val_f1=0.9360
+Downloading: "https://download.pytorch.org/models/efficientnet_b0_rwightman-7f5810bc.pth" to C:\Users\Benedek/.cache\torch\hub\checkpoints\efficientnet_b0_rwightman-7f5810bc.pth
+  0%|          | 0.00/20.5M [00:00<?, ?B/s]  1%|          | 128k/20.5M [00:00<00:37, 574kB/s]  2%|1         | 384k/20.5M [00:00<00:18, 1.12MB/s]  4%|3         | 768k/20.5M [00:00<00:11, 1.81MB/s]  6%|6         | 1.25M/20.5M [00:00<00:07, 2.65MB/s] 10%|9         | 2.00M/20.5M [00:00<00:04, 4.09MB/s] 17%|#6        | 3.38M/20.5M [00:00<00:02, 6.96MB/s] 29%|##9       | 6.00M/20.5M [00:00<00:01, 12.7MB/s] 53%|#####3    | 10.9M/20.5M [00:01<00:00, 23.5MB/s] 79%|#######8  | 16.1M/20.5M [00:01<00:00, 32.5MB/s]100%|##########| 20.5M/20.5M [00:01<00:00, 17.4MB/s]
+[efficientnet_b0]  1/13 loss=1.2924 val_acc=0.7765 val_f1=0.7944
+[efficientnet_b0]  2/13 loss=0.9670 val_acc=0.8024 val_f1=0.8157
+[efficientnet_b0]  3/13 loss=0.8647 val_acc=0.8000 val_f1=0.8145
+[efficientnet_b0]  4/13 loss=0.6277 val_acc=0.8871 val_f1=0.8972
+[efficientnet_b0]  5/13 loss=0.5261 val_acc=0.8800 val_f1=0.8896
+[efficientnet_b0]  6/13 loss=0.4998 val_acc=0.9035 val_f1=0.9116
+[efficientnet_b0]  7/13 loss=0.4677 val_acc=0.9224 val_f1=0.9291
+[efficientnet_b0]  8/13 loss=0.4539 val_acc=0.9153 val_f1=0.9233
+[efficientnet_b0]  9/13 loss=0.4414 val_acc=0.9153 val_f1=0.9228
+[efficientnet_b0] 10/13 loss=0.4289 val_acc=0.9200 val_f1=0.9273
+[efficientnet_b0] 11/13 loss=0.4259 val_acc=0.9200 val_f1=0.9276
+[efficientnet_b0] 12/13 loss=0.4222 val_acc=0.9247 val_f1=0.9315
+[efficientnet_b0] 13/13 loss=0.4239 val_acc=0.9176 val_f1=0.9253
+Downloading: "https://download.pytorch.org/models/resnet18-f37072fd.pth" to C:\Users\Benedek/.cache\torch\hub\checkpoints\resnet18-f37072fd.pth
+  0%|          | 0.00/44.7M [00:00<?, ?B/s]  1%|          | 384k/44.7M [00:00<00:12, 3.83MB/s]  4%|3         | 1.62M/44.7M [00:00<00:04, 9.08MB/s] 12%|#1        | 5.25M/44.7M [00:00<00:02, 20.4MB/s] 25%|##4       | 11.0M/44.7M [00:00<00:01, 35.1MB/s] 36%|###6      | 16.1M/44.7M [00:00<00:00, 40.6MB/s] 47%|####6     | 20.9M/44.7M [00:00<00:00, 43.4MB/s] 57%|#####7    | 25.5M/44.7M [00:00<00:00, 44.9MB/s] 67%|######7   | 30.1M/44.7M [00:00<00:00, 45.0MB/s] 77%|#######7  | 34.5M/44.7M [00:00<00:00, 44.4MB/s] 88%|########8 | 39.5M/44.7M [00:01<00:00, 46.4MB/s]100%|##########| 44.7M/44.7M [00:01<00:00, 40.7MB/s]
+[resnet18]  1/13 loss=1.4043 val_acc=0.5388 val_f1=0.5140
+[resnet18]  2/13 loss=1.0469 val_acc=0.8165 val_f1=0.8237
+[resnet18]  3/13 loss=0.8984 val_acc=0.8259 val_f1=0.8373
+[resnet18]  4/13 loss=0.6406 val_acc=0.8894 val_f1=0.9012
+[resnet18]  5/13 loss=0.5042 val_acc=0.9153 val_f1=0.9237
+[resnet18]  6/13 loss=0.4753 val_acc=0.9153 val_f1=0.9227
+[resnet18]  7/13 loss=0.4478 val_acc=0.9200 val_f1=0.9278
+[resnet18]  8/13 loss=0.4265 val_acc=0.9224 val_f1=0.9298
+[resnet18]  9/13 loss=0.4161 val_acc=0.9365 val_f1=0.9426
+[resnet18] 10/13 loss=0.4049 val_acc=0.9224 val_f1=0.9285
+[resnet18] 11/13 loss=0.4064 val_acc=0.9176 val_f1=0.9254
+[resnet18] 12/13 loss=0.4029 val_acc=0.9224 val_f1=0.9300
+[resnet18] 13/13 loss=0.4027 val_acc=0.9176 val_f1=0.9251
+              arch   val_f1  train_time_s  params_m                                                                           path
+mobilenet_v3_large 0.936045         190.5      4.21 C:\Users\Benedek\Documents\SzGyProjekt\models\classifier_mobilenet_v3_large.pt
+   efficientnet_b0 0.931507         193.5      4.01    C:\Users\Benedek\Documents\SzGyProjekt\models\classifier_efficientnet_b0.pt
+          resnet18 0.942611         142.0     11.18           C:\Users\Benedek\Documents\SzGyProjekt\models\classifier_resnet18.pt
+Kiválasztott modell: resnet18 -> C:\Users\Benedek\Documents\SzGyProjekt\models\classifier.pt

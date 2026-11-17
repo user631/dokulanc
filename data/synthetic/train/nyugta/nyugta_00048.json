@@ -1,0 +1,228 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "NAGY MARKET BT.",
+  "uzlet_cim": "H-5420 Fürdőapáti, Kossuth utca 51.",
+  "adoszam": "90980011-2-18",
+  "datum": "2025.04.03.",
+  "ido": "11:24",
+  "nyugtaszam": "7209/52193",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "2 256 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "314"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "75"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "994"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "873"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "NAGY MARKET BT.",
+   "bbox": [
+    202,
+    33,
+    397,
+    48
+   ]
+  },
+  {
+   "text": "H-5420 Fürdőapáti, Kossuth utca 51.",
+   "bbox": [
+    107,
+    64,
+    492,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 90980011-2-18",
+   "bbox": [
+    179,
+    88,
+    421,
+    105
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    258,
+    133,
+    343,
+    150
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    177,
+    192,
+    191
+   ]
+  },
+  {
+   "text": "314 B00",
+   "bbox": [
+    493,
+    177,
+    577,
+    191
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    207,
+    96,
+    221
+   ]
+  },
+  {
+   "text": "75 A00",
+   "bbox": [
+    505,
+    207,
+    577,
+    221
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    237,
+    120,
+    251
+   ]
+  },
+  {
+   "text": "994 B00",
+   "bbox": [
+    493,
+    237,
+    577,
+    251
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    267,
+    120,
+    281
+   ]
+  },
+  {
+   "text": "873 B00",
+   "bbox": [
+    493,
+    267,
+    577,
+    281
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    304,
+    164,
+    326
+   ]
+  },
+  {
+   "text": "2 256 Ft",
+   "bbox": [
+    465,
+    309,
+    577,
+    326
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    344,
+    144,
+    363
+   ]
+  },
+  {
+   "text": "2 256 Ft",
+   "bbox": [
+    481,
+    349,
+    577,
+    363
+   ]
+  },
+  {
+   "text": "2025.04.03.",
+   "bbox": [
+    24,
+    392,
+    145,
+    405
+   ]
+  },
+  {
+   "text": "11:24",
+   "bbox": [
+    522,
+    392,
+    577,
+    405
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7209/52193",
+   "bbox": [
+    24,
+    418,
+    266,
+    437
+   ]
+  },
+  {
+   "text": "AP A13822878",
+   "bbox": [
+    24,
+    452,
+    156,
+    465
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    210,
+    491,
+    390,
+    508
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  601,
+  554
+ ]
+}

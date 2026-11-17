@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Simon Mátyás",
+  "anyja_neve": "Bogdán Bálint",
+  "szuletesi_hely": "Sopron",
+  "szuletesi_datum": "1999. 08. 19.",
+  "lakcim": "H-4952 Vác, Petőfi utca 81.",
+  "telefon": "06 1 438 8176",
+  "email": "simon.matyas@example.hu",
+  "adoazonosito_jel": "8484421740",
+  "taj_szam": "124 383 373",
+  "kelt": "Szigetszentmiklós, 2024. 05. 23."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    485,
+    102,
+    754,
+    132
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    488,
+    158,
+    751,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    105,
+    211,
+    291,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    117,
+    267,
+    152,
+    280
+   ]
+  },
+  {
+   "text": "Simon Mátyás",
+   "bbox": [
+    411,
+    267,
+    540,
+    287
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    117,
+    319,
+    207,
+    335
+   ]
+  },
+  {
+   "text": "Bogdán Bálint",
+   "bbox": [
+    411,
+    316,
+    537,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    117,
+    371,
+    225,
+    387
+   ]
+  },
+  {
+   "text": "Sopron",
+   "bbox": [
+    411,
+    374,
+    477,
+    392
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    117,
+    423,
+    217,
+    436
+   ]
+  },
+  {
+   "text": "1999. 08. 19.",
+   "bbox": [
+    411,
+    422,
+    527,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    117,
+    475,
+    175,
+    488
+   ]
+  },
+  {
+   "text": "H-4952 Vác, Petőfi utca 81.",
+   "bbox": [
+    411,
+    471,
+    653,
+    491
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    117,
+    527,
+    219,
+    540
+   ]
+  },
+  {
+   "text": "06 1 438 8176",
+   "bbox": [
+    411,
+    529,
+    536,
+    543
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    117,
+    579,
+    200,
+    592
+   ]
+  },
+  {
+   "text": "simon.matyas@example.hu",
+   "bbox": [
+    411,
+    581,
+    667,
+    600
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    117,
+    631,
+    250,
+    647
+   ]
+  },
+  {
+   "text": "8484421740",
+   "bbox": [
+    411,
+    628,
+    521,
+    642
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    117,
+    683,
+    192,
+    696
+   ]
+  },
+  {
+   "text": "124 383 373",
+   "bbox": [
+    411,
+    681,
+    520,
+    695
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    105,
+    759,
+    254,
+    778
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    150,
+    805,
+    418,
+    821
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    150,
+    850,
+    275,
+    863
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    150,
+    895,
+    431,
+    911
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    105,
+    995,
+    142,
+    1009
+   ]
+  },
+  {
+   "text": "Szigetszentmiklós, 2024. 05. 23.",
+   "bbox": [
+    195,
+    991,
+    480,
+    1011
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    923,
+    1045,
+    967,
+    1056
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

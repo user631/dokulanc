@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2026/02961",
+  "kiallitas_datuma": "2026. december 14.",
+  "teljesites_datuma": "2026. december 10.",
+  "fizetesi_hatarido": "2026. december 22.",
+  "elado_nev": "Szőke Tech Bt.",
+  "elado_cim": "H-5082 Székbánya, József attila utca 50.",
+  "elado_adoszam": "71093932-2-35",
+  "vevo_nev": "Varga Logisztika Kft.",
+  "vevo_cim": "H-5667 Tamásihida, Petőfi sándor utca 85.",
+  "vevo_adoszam": "67030365-2-09",
+  "bankszamla": "HU39 8845 6441 0990 2758 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "82 240 Ft",
+  "afa_osszesen": "21 748 Ft",
+  "brutto_osszesen": "103 988 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "5 db",
+    "egysegar": "9 380",
+    "netto": "46 900",
+    "afa_kulcs": "27%",
+    "afa": "12 663",
+    "brutto": "59 563"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "2 oldal",
+    "egysegar": "6 240",
+    "netto": "12 480",
+    "afa_kulcs": "27%",
+    "afa": "3 370",
+    "brutto": "15 850"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "2 db",
+    "egysegar": "10 390",
+    "netto": "20 780",
+    "afa_kulcs": "27%",
+    "afa": "5 611",
+    "brutto": "26 391"
+   },
+   {
+    "megnevezes": "Kenyér 1 kg",
+    "mennyiseg": "2 db",
+    "egysegar": "1 040",
+    "netto": "2 080",
+    "afa_kulcs": "5%",
+    "afa": "104",
+    "brutto": "2 184"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZŐKE",
+   "bbox": [
+    144,
+    135,
+    224,
+    159
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    729,
+    115,
+    1136,
+    164
+   ]
+  },
+  {
+   "text": "Sorszám: INV-2026/02961",
+   "bbox": [
+    856,
+    180,
+    1136,
+    203
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    104,
+    259,
+    179,
+    279
+   ]
+  },
+  {
+   "text": "Szőke Tech Bt.",
+   "bbox": [
+    104,
+    295,
+    280,
+    315
+   ]
+  },
+  {
+   "text": "H-5082 Székbánya, József attila utca 50.",
+   "bbox": [
+    104,
+    329,
+    501,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 71093932-2-35",
+   "bbox": [
+    103,
+    359,
+    354,
+    377
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    259,
+    698,
+    279
+   ]
+  },
+  {
+   "text": "Varga Logisztika Kft.",
+   "bbox": [
+    629,
+    296,
+    878,
+    320
+   ]
+  },
+  {
+   "text": "H-5667 Tamásihida, Petőfi sándor utca 85.",
+   "bbox": [
+    630,
+    329,
+    1047,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 67030365-2-09",
+   "bbox": [
+    629,
+    359,
+    880,
+    377
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    104,
+    426,
+    259,
+    442
+   ]
+  },
+  {
+   "text": "2026. december 14.",
+   "bbox": [
+    104,
+    455,
+    289,
+    472
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    362,
+    426,
+    532,
+    446
+   ]
+  },
+  {
+   "text": "2026. december 10.",
+   "bbox": [
+    362,
+    455,
+    547,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    426,
+    779,
+    442
+   ]
+  },
+  {
+   "text": "2026. december 22.",
+   "bbox": [
+    620,
+    455,
+    805,
+    472
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    878,
+    426,
+    999,
+    442
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    878,
+    455,
+    951,
+    472
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    104,
+    504,
+    220,
+    524
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    516,
+    506,
+    585,
+    524
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    656,
+    504,
+    744,
+    524
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    813,
+    504,
+    867,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    868,
+    501,
+    929,
+    520
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    501,
+    1028,
+    520
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1075,
+    504,
+    1136,
+    520
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    516,
+    546,
+    554,
+    561
+   ]
+  },
+  {
+   "text": "9 380",
+   "bbox": [
+    697,
+    547,
+    743,
+    561
+   ]
+  },
+  {
+   "text": "46 900",
+   "bbox": [
+    811,
+    547,
+    867,
+    561
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    547,
+    929,
+    561
+   ]
+  },
+  {
+   "text": "12 663",
+   "bbox": [
+    971,
+    547,
+    1027,
+    561
+   ]
+  },
+  {
+   "text": "59 563",
+   "bbox": [
+    1080,
+    547,
+    1136,
+    561
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    104,
+    546,
+    241,
+    561
+   ]
+  },
+  {
+   "text": "2 oldal",
+   "bbox": [
+    516,
+    581,
+    571,
+    596
+   ]
+  },
+  {
+   "text": "6 240",
+   "bbox": [
+    697,
+    582,
+    743,
+    596
+   ]
+  },
+  {
+   "text": "12 480",
+   "bbox": [
+    811,
+    582,
+    867,
+    596
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    582,
+    929,
+    596
+   ]
+  },
+  {
+   "text": "3 370",
+   "bbox": [
+    981,
+    582,
+    1027,
+    596
+   ]
+  },
+  {
+   "text": "15 850",
+   "bbox": [
+    1080,
+    582,
+    1136,
+    596
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    104,
+    581,
+    329,
+    600
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    516,
+    616,
+    554,
+    631
+   ]
+  },
+  {
+   "text": "10 390",
+   "bbox": [
+    687,
+    617,
+    743,
+    631
+   ]
+  },
+  {
+   "text": "20 780",
+   "bbox": [
+    811,
+    617,
+    867,
+    631
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    890,
+    617,
+    929,
+    631
+   ]
+  },
+  {
+   "text": "5 611",
+   "bbox": [
+    981,
+    617,
+    1027,
+    631
+   ]
+  },
+  {
+   "text": "26 391",
+   "bbox": [
+    1080,
+    617,
+    1136,
+    631
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    104,
+    616,
+    210,
+    635
+   ]
+  },
+  {
+   "text": "2 db",
+   "bbox": [
+    516,
+    651,
+    554,
+    666
+   ]
+  },
+  {
+   "text": "1 040",
+   "bbox": [
+    697,
+    652,
+    743,
+    666
+   ]
+  },
+  {
+   "text": "2 080",
+   "bbox": [
+    821,
+    652,
+    867,
+    666
+   ]
+  },
+  {
+   "text": "5%",
+   "bbox": [
+    900,
+    652,
+    929,
+    666
+   ]
+  },
+  {
+   "text": "104",
+   "bbox": [
+    997,
+    652,
+    1027,
+    666
+   ]
+  },
+  {
+   "text": "2 184",
+   "bbox": [
+    1090,
+    652,
+    1136,
+    666
+   ]
+  },
+  {
+   "text": "Kenyér 1 kg",
+   "bbox": [
+    104,
+    651,
+    204,
+    670
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    647,
+    706,
+    806,
+    725
+   ]
+  },
+  {
+   "text": "82 240 Ft",
+   "bbox": [
+    1037,
+    708,
+    1136,
+    725
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    661,
+    738,
+    806,
+    761
+   ]
+  },
+  {
+   "text": "21 748 Ft",
+   "bbox": [
+    1037,
+    744,
+    1136,
+    761
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    675,
+    779,
+    806,
+    802
+   ]
+  },
+  {
+   "text": "103 988 Ft",
+   "bbox": [
+    1009,
+    780,
+    1136,
+    797
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU39 8845 6441 0990 2758 0000 0000",
+   "bbox": [
+    104,
+    844,
+    629,
+    861
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    429,
+    1632,
+    809,
+    1649
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

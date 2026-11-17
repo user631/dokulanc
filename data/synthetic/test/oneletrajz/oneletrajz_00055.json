@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Kristóf",
+  "email": "kovacs.kristof@gmail.com",
+  "telefon": "+36 70 629 2910",
+  "lakcim": "H-2538 Törökhátváros, Dunaújvárosi utca 191.",
+  "szuletesi_datum": "1988. február 14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "gazdálkodás és menedzsment BSc",
+    "idoszak": "2006 – 2009"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2002 – 2006"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Trade Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2017 – 2018"
+   },
+   {
+    "ceg": "Szücs Szolgáltató Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2013 – 2017"
+   },
+   {
+    "ceg": "Kovács Trade Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2010 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Git",
+   "csapatmunka",
+   "B kategóriás jogosítvány",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    188,
+    105
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    93,
+    143
+   ]
+  },
+  {
+   "text": "kovacs.kristof@gmail.com",
+   "bbox": [
+    40,
+    151,
+    248,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    105,
+    197
+   ]
+  },
+  {
+   "text": "+36 70 629 2910",
+   "bbox": [
+    40,
+    206,
+    177,
+    219
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    237,
+    99,
+    251
+   ]
+  },
+  {
+   "text": "H-2538 Törökhátváros, Dunaújvárosi utca",
+   "bbox": [
+    40,
+    259,
+    369,
+    277
+   ]
+  },
+  {
+   "text": "191.",
+   "bbox": [
+    40,
+    282,
+    74,
+    295
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    313,
+    175,
+    327
+   ]
+  },
+  {
+   "text": "1988. február 14.",
+   "bbox": [
+    40,
+    335,
+    175,
+    349
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    394,
+    180,
+    415
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    436,
+    122,
+    453
+   ]
+  },
+  {
+   "text": "német (B1)",
+   "bbox": [
+    40,
+    462,
+    131,
+    479
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    514,
+    158,
+    535
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    556,
+    64,
+    570
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    582,
+    151,
+    600
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány",
+   "bbox": [
+    40,
+    608,
+    245,
+    626
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    634,
+    85,
+    648
+   ]
+  },
+  {
+   "text": "Kovács Kristóf",
+   "bbox": [
+    450,
+    96,
+    747,
+    129
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    159,
+    559,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    223,
+    674,
+    247
+   ]
+  },
+  {
+   "text": "2017 – 2018",
+   "bbox": [
+    450,
+    273,
+    558,
+    287
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Horváth Trade Zrt.",
+   "bbox": [
+    450,
+    296,
+    920,
+    317
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    450,
+    337,
+    558,
+    351
+   ]
+  },
+  {
+   "text": "értékesítő – Szücs Szolgáltató Bt.",
+   "bbox": [
+    450,
+    360,
+    774,
+    381
+   ]
+  },
+  {
+   "text": "2010 – 2013",
+   "bbox": [
+    450,
+    401,
+    558,
+    415
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Kovács Trade Bt.",
+   "bbox": [
+    448,
+    424,
+    782,
+    445
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    475,
+    606,
+    499
+   ]
+  },
+  {
+   "text": "2006 – 2009",
+   "bbox": [
+    450,
+    525,
+    558,
+    539
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    548,
+    626,
+    569
+   ]
+  },
+  {
+   "text": "gazdálkodás és menedzsment BSc",
+   "bbox": [
+    450,
+    572,
+    746,
+    592
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    613,
+    558,
+    627
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    636,
+    746,
+    657
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    660,
+    672,
+    680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

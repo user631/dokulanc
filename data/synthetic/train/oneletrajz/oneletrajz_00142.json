@@ -1,0 +1,286 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Vincze Gizella",
+  "email": "vincze.gizella@gmail.com",
+  "telefon": "06 1 251 9056",
+  "lakcim": "H-7821 Hátharaszti, Mellékharasztii utca 16.",
+  "szuletesi_datum": "1985.06.14.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "2004 – 2007"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kelemen Consulting Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2011 – 2013"
+   },
+   {
+    "ceg": "Antal Consulting Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2008 – 2011"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "Java",
+   "B kategóriás jogosítvány",
+   "C#",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Vincze Gizella",
+   "bbox": [
+    464,
+    106,
+    775,
+    141
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    532,
+    175,
+    707,
+    192
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    226,
+    158,
+    241
+   ]
+  },
+  {
+   "text": "vincze.gizella@gmail.com",
+   "bbox": [
+    330,
+    226,
+    558,
+    245
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    256,
+    168,
+    271
+   ]
+  },
+  {
+   "text": "06 1 251 9056",
+   "bbox": [
+    330,
+    256,
+    458,
+    271
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    286,
+    166,
+    301
+   ]
+  },
+  {
+   "text": "H-7821 Hátharaszti, Mellékharasztii utca 16.",
+   "bbox": [
+    330,
+    286,
+    723,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    316,
+    250,
+    331
+   ]
+  },
+  {
+   "text": "1985.06.14.",
+   "bbox": [
+    330,
+    316,
+    436,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    315,
+    389
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    90,
+    416,
+    201,
+    431
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Kelemen Consulting Kft.",
+   "bbox": [
+    90,
+    440,
+    529,
+    460
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    90,
+    480,
+    201,
+    495
+   ]
+  },
+  {
+   "text": "adatelemző – Antal Consulting Zrt.",
+   "bbox": [
+    90,
+    504,
+    441,
+    524
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    553,
+    246,
+    577
+   ]
+  },
+  {
+   "text": "2004 – 2007",
+   "bbox": [
+    90,
+    604,
+    201,
+    619
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    628,
+    347,
+    648
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    652,
+    215,
+    671
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    692,
+    201,
+    707
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    716,
+    382,
+    736
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    740,
+    316,
+    759
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    789,
+    217,
+    813
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    90,
+    840,
+    194,
+    859
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    885,
+    213,
+    909
+   ]
+  },
+  {
+   "text": "Docker, Java, B kategóriás jogosítvány, C#, prezentáció",
+   "bbox": [
+    90,
+    936,
+    589,
+    955
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

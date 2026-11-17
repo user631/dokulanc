@@ -1,0 +1,624 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "A-2026/01818",
+  "kiallitas_datuma": "2026.04.24.",
+  "teljesites_datuma": "2026.04.23.",
+  "fizetesi_hatarido": "2026.05.09.",
+  "elado_nev": "Balog Trade Kft.",
+  "elado_cim": "H-7883 Békéscsaba, Székváradi utca 175.",
+  "elado_adoszam": "39611394-3-08",
+  "vevo_nev": "Kovács Tech Kft.",
+  "vevo_cim": "H-6472 Vác, Dózsa györgy utca 51.",
+  "vevo_adoszam": "99191610-5-11",
+  "bankszamla": "HU26 0267 7118 9046 1820 0000 0000",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "768 320 Ft",
+  "afa_osszesen": "207 446 Ft",
+  "brutto_osszesen": "975 766 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "12 oldal",
+    "egysegar": "6 000",
+    "netto": "72 000",
+    "afa_kulcs": "27%",
+    "afa": "19 440",
+    "brutto": "91 440"
+   },
+   {
+    "megnevezes": "Szoftverfejlesztési szolgáltatás",
+    "mennyiseg": "4 óra",
+    "egysegar": "12 050",
+    "netto": "48 200",
+    "afa_kulcs": "27%",
+    "afa": "13 014",
+    "brutto": "61 214"
+   },
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "5 db",
+    "egysegar": "14 600",
+    "netto": "73 000",
+    "afa_kulcs": "27%",
+    "afa": "19 710",
+    "brutto": "92 710"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "287 560",
+    "netto": "575 120",
+    "afa_kulcs": "27%",
+    "afa": "155 282",
+    "brutto": "730 402"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOG",
+   "bbox": [
+    132,
+    135,
+    224,
+    152
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    974,
+    116,
+    1142,
+    150
+   ]
+  },
+  {
+   "text": "Sorszám: A-2026/01818",
+   "bbox": [
+    848,
+    172,
+    1142,
+    199
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    98,
+    252,
+    187,
+    273
+   ]
+  },
+  {
+   "text": "Balog Trade Kft.",
+   "bbox": [
+    98,
+    292,
+    324,
+    318
+   ]
+  },
+  {
+   "text": "H-7883 Békéscsaba, Székváradi utca 175.",
+   "bbox": [
+    98,
+    328,
+    551,
+    351
+   ]
+  },
+  {
+   "text": "Adószám: 39611394-3-08",
+   "bbox": [
+    97,
+    361,
+    381,
+    385
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    253,
+    708,
+    273
+   ]
+  },
+  {
+   "text": "Kovács Tech Kft.",
+   "bbox": [
+    630,
+    291,
+    860,
+    312
+   ]
+  },
+  {
+   "text": "H-6472 Vác, Dózsa györgy utca 51.",
+   "bbox": [
+    630,
+    328,
+    1010,
+    352
+   ]
+  },
+  {
+   "text": "Adószám: 99191610-5-11",
+   "bbox": [
+    629,
+    361,
+    902,
+    385
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    98,
+    432,
+    287,
+    449
+   ]
+  },
+  {
+   "text": "2026.04.24.",
+   "bbox": [
+    98,
+    465,
+    227,
+    486
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    359,
+    432,
+    561,
+    454
+   ]
+  },
+  {
+   "text": "2026.04.23.",
+   "bbox": [
+    359,
+    465,
+    487,
+    486
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    432,
+    813,
+    449
+   ]
+  },
+  {
+   "text": "2026.05.09.",
+   "bbox": [
+    620,
+    465,
+    750,
+    486
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    881,
+    432,
+    1027,
+    449
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    880,
+    464,
+    1000,
+    487
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    98,
+    516,
+    236,
+    538
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    517,
+    600,
+    538
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    643,
+    516,
+    746,
+    538
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    807,
+    516,
+    870,
+    533
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    864,
+    512,
+    933,
+    533
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    982,
+    512,
+    1033,
+    533
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1067,
+    516,
+    1142,
+    533
+   ]
+  },
+  {
+   "text": "12 oldal",
+   "bbox": [
+    515,
+    560,
+    589,
+    577
+   ]
+  },
+  {
+   "text": "6 000",
+   "bbox": [
+    686,
+    561,
+    745,
+    577
+   ]
+  },
+  {
+   "text": "72 000",
+   "bbox": [
+    800,
+    565,
+    870,
+    581
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    561,
+    933,
+    581
+   ]
+  },
+  {
+   "text": "19 440",
+   "bbox": [
+    968,
+    565,
+    1032,
+    581
+   ]
+  },
+  {
+   "text": "91 440",
+   "bbox": [
+    1078,
+    565,
+    1142,
+    581
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    98,
+    560,
+    362,
+    582
+   ]
+  },
+  {
+   "text": "4 óra",
+   "bbox": [
+    515,
+    598,
+    564,
+    619
+   ]
+  },
+  {
+   "text": "12 050",
+   "bbox": [
+    679,
+    603,
+    745,
+    619
+   ]
+  },
+  {
+   "text": "48 200",
+   "bbox": [
+    800,
+    599,
+    870,
+    619
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    599,
+    933,
+    619
+   ]
+  },
+  {
+   "text": "13 014",
+   "bbox": [
+    971,
+    603,
+    1032,
+    619
+   ]
+  },
+  {
+   "text": "61 214",
+   "bbox": [
+    1083,
+    599,
+    1142,
+    619
+   ]
+  },
+  {
+   "text": "Szoftverfejlesztési szolgáltatás",
+   "bbox": [
+    98,
+    598,
+    393,
+    620
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    515,
+    636,
+    557,
+    657
+   ]
+  },
+  {
+   "text": "14 600",
+   "bbox": [
+    679,
+    637,
+    745,
+    657
+   ]
+  },
+  {
+   "text": "73 000",
+   "bbox": [
+    800,
+    641,
+    870,
+    657
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    637,
+    933,
+    657
+   ]
+  },
+  {
+   "text": "19 710",
+   "bbox": [
+    972,
+    641,
+    1032,
+    657
+   ]
+  },
+  {
+   "text": "92 710",
+   "bbox": [
+    1079,
+    641,
+    1142,
+    657
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    98,
+    636,
+    225,
+    658
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    515,
+    674,
+    609,
+    691
+   ]
+  },
+  {
+   "text": "287 560",
+   "bbox": [
+    666,
+    675,
+    745,
+    695
+   ]
+  },
+  {
+   "text": "575 120",
+   "bbox": [
+    795,
+    679,
+    870,
+    695
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    892,
+    675,
+    933,
+    695
+   ]
+  },
+  {
+   "text": "155 282",
+   "bbox": [
+    957,
+    675,
+    1032,
+    695
+   ]
+  },
+  {
+   "text": "730 402",
+   "bbox": [
+    1062,
+    679,
+    1142,
+    695
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    98,
+    674,
+    310,
+    696
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    633,
+    732,
+    812,
+    752
+   ]
+  },
+  {
+   "text": "768 320 Ft",
+   "bbox": [
+    1016,
+    734,
+    1142,
+    757
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    647,
+    767,
+    812,
+    791
+   ]
+  },
+  {
+   "text": "207 446 Ft",
+   "bbox": [
+    1016,
+    773,
+    1142,
+    796
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    545,
+    810,
+    812,
+    830
+   ]
+  },
+  {
+   "text": "975 766 Ft",
+   "bbox": [
+    1006,
+    812,
+    1143,
+    835
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU26 0267 7118 9046 1820 0000 0000",
+   "bbox": [
+    98,
+    880,
+    724,
+    902
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    391,
+    1636,
+    848,
+    1655
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Vass Gabriella",
+  "email": "vass.gabriella@freemail.hu",
+  "telefon": "+36 30 800 6540",
+  "lakcim": "H-5655 Tatabánya, Dózsa györgy utca 204.",
+  "szuletesi_datum": "2001. 12. 20.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2020 – 2023"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2016 – 2020"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Trade Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2027 – jelenleg"
+   },
+   {
+    "ceg": "Tóth Szolgáltató Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2024 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "Java",
+   "JavaScript",
+   "Linux",
+   "Python",
+   "C#",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Vass Gabriella",
+   "bbox": [
+    448,
+    112,
+    790,
+    149
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    524,
+    180,
+    716,
+    200
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    169,
+    250
+   ]
+  },
+  {
+   "text": "vass.gabriella@freemail.hu",
+   "bbox": [
+    330,
+    233,
+    593,
+    254
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    265,
+    180,
+    282
+   ]
+  },
+  {
+   "text": "+36 30 800 6540",
+   "bbox": [
+    330,
+    266,
+    499,
+    282
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    296,
+    177,
+    314
+   ]
+  },
+  {
+   "text": "H-5655 Tatabánya, Dózsa györgy utca 204.",
+   "bbox": [
+    330,
+    296,
+    755,
+    318
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    328,
+    275,
+    346
+   ]
+  },
+  {
+   "text": "2001. 12. 20.",
+   "bbox": [
+    330,
+    330,
+    461,
+    346
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    382,
+    357,
+    407
+   ]
+  },
+  {
+   "text": "2027 – jelenleg",
+   "bbox": [
+    90,
+    433,
+    240,
+    454
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Szabó Trade Zrt.",
+   "bbox": [
+    90,
+    459,
+    626,
+    482
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    501,
+    240,
+    522
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Tóth Szolgáltató Kft.",
+   "bbox": [
+    90,
+    527,
+    602,
+    550
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    579,
+    269,
+    605
+   ]
+  },
+  {
+   "text": "2020 – 2023",
+   "bbox": [
+    90,
+    632,
+    212,
+    648
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    657,
+    691,
+    680
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    682,
+    277,
+    704
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    726,
+    212,
+    742
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    751,
+    386,
+    769
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    777,
+    279,
+    798
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    829,
+    236,
+    855
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    881,
+    212,
+    902
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    929,
+    225,
+    955
+   ]
+  },
+  {
+   "text": "Java, JavaScript, Linux, Python, C#, ügyfélkezelés",
+   "bbox": [
+    90,
+    980,
+    579,
+    1002
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ ABC BT.",
+  "uzlet_cim": "H-3338 Szigetszentmiklós, Székapátii utca 218.",
+  "adoszam": "39709637-2-23",
+  "datum": "2025.04.25.",
+  "ido": "11:57",
+  "nyugtaszam": "8089/51986",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "8 223 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "457"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "271"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "808"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "2198"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "84"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "197"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1373"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "386"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "888"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "789"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "772"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ABC BT.",
+   "bbox": [
+    182,
+    31,
+    390,
+    52
+   ]
+  },
+  {
+   "text": "H-3338 Szigetszentmiklós, Székapátii",
+   "bbox": [
+    52,
+    71,
+    520,
+    89
+   ]
+  },
+  {
+   "text": "utca 218.",
+   "bbox": [
+    227,
+    99,
+    344,
+    113
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 39709637-2-23",
+   "bbox": [
+    143,
+    124,
+    429,
+    141
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    234,
+    172,
+    338,
+    188
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    215,
+    178,
+    230
+   ]
+  },
+  {
+   "text": "457 A00",
+   "bbox": [
+    451,
+    215,
+    549,
+    230
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    248,
+    207,
+    262
+   ]
+  },
+  {
+   "text": "271 A00",
+   "bbox": [
+    451,
+    247,
+    549,
+    262
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    279,
+    136,
+    294
+   ]
+  },
+  {
+   "text": "808 C00",
+   "bbox": [
+    451,
+    279,
+    549,
+    294
+   ]
+  },
+  {
+   "text": "2 DB x 1099",
+   "bbox": [
+    24,
+    311,
+    167,
+    324
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    337,
+    136,
+    352
+   ]
+  },
+  {
+   "text": "2198 B00",
+   "bbox": [
+    437,
+    337,
+    549,
+    352
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    370,
+    108,
+    384
+   ]
+  },
+  {
+   "text": "84 B00",
+   "bbox": [
+    465,
+    369,
+    549,
+    384
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    401,
+    220,
+    420
+   ]
+  },
+  {
+   "text": "197 C00",
+   "bbox": [
+    451,
+    401,
+    549,
+    416
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    434,
+    164,
+    448
+   ]
+  },
+  {
+   "text": "1373 B00",
+   "bbox": [
+    437,
+    433,
+    549,
+    448
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    465,
+    220,
+    480
+   ]
+  },
+  {
+   "text": "386 A00",
+   "bbox": [
+    451,
+    465,
+    549,
+    480
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    497,
+    248,
+    512
+   ]
+  },
+  {
+   "text": "888 A00",
+   "bbox": [
+    451,
+    497,
+    549,
+    512
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    529,
+    136,
+    544
+   ]
+  },
+  {
+   "text": "789 C00",
+   "bbox": [
+    451,
+    529,
+    549,
+    544
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    561,
+    234,
+    576
+   ]
+  },
+  {
+   "text": "772 C00",
+   "bbox": [
+    451,
+    561,
+    549,
+    576
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    602,
+    194,
+    624
+   ]
+  },
+  {
+   "text": "8 223 Ft",
+   "bbox": [
+    413,
+    607,
+    549,
+    624
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    643,
+    165,
+    662
+   ]
+  },
+  {
+   "text": "8 223 Ft",
+   "bbox": [
+    437,
+    647,
+    549,
+    662
+   ]
+  },
+  {
+   "text": "2025.04.25.",
+   "bbox": [
+    24,
+    693,
+    167,
+    707
+   ]
+  },
+  {
+   "text": "11:57",
+   "bbox": [
+    484,
+    693,
+    549,
+    707
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8089/51986",
+   "bbox": [
+    24,
+    722,
+    310,
+    741
+   ]
+  },
+  {
+   "text": "AP A98926776",
+   "bbox": [
+    24,
+    757,
+    180,
+    771
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    180,
+    796,
+    391,
+    816
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  573,
+  860
+ ]
+}

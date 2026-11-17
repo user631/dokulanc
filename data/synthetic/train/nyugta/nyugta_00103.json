@@ -1,0 +1,445 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "TÓTH CSEMEGE KFT.",
+  "uzlet_cim": "H-3826 Mártonváros, Tamásiharasztii út 40.",
+  "adoszam": "96331367-5-10",
+  "datum": "2026.03.03.",
+  "ido": "13:05",
+  "nyugtaszam": "8844/04044",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "28 909 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "7497"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1176"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1354"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "223"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "432"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "3549"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "895"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "667"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2520"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "3378"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "7218"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH CSEMEGE KFT.",
+   "bbox": [
+    144,
+    28,
+    382,
+    50
+   ]
+  },
+  {
+   "text": "H-3826 Mártonváros, Tamásiharasztii út",
+   "bbox": [
+    35,
+    67,
+    491,
+    87
+   ]
+  },
+  {
+   "text": "40.",
+   "bbox": [
+    245,
+    97,
+    281,
+    111
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 96331367-5-10",
+   "bbox": [
+    131,
+    120,
+    395,
+    139
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    218,
+    167,
+    309,
+    185
+   ]
+  },
+  {
+   "text": "3 DB x 2499",
+   "bbox": [
+    24,
+    213,
+    156,
+    226
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    239,
+    271,
+    254
+   ]
+  },
+  {
+   "text": "7497 B00",
+   "bbox": [
+    399,
+    239,
+    503,
+    254
+   ]
+  },
+  {
+   "text": "3 DB x 392",
+   "bbox": [
+    24,
+    271,
+    144,
+    284
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    297,
+    206,
+    312
+   ]
+  },
+  {
+   "text": "1176 A00",
+   "bbox": [
+    399,
+    297,
+    503,
+    312
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    329,
+    154,
+    344
+   ]
+  },
+  {
+   "text": "1354 B00",
+   "bbox": [
+    399,
+    329,
+    503,
+    344
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    361,
+    206,
+    380
+   ]
+  },
+  {
+   "text": "223 C00",
+   "bbox": [
+    412,
+    361,
+    503,
+    376
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    391,
+    167,
+    412
+   ]
+  },
+  {
+   "text": "432 A00",
+   "bbox": [
+    412,
+    393,
+    503,
+    408
+   ]
+  },
+  {
+   "text": "3 DB x 1183",
+   "bbox": [
+    24,
+    425,
+    156,
+    438
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    451,
+    193,
+    466
+   ]
+  },
+  {
+   "text": "3549 B00",
+   "bbox": [
+    399,
+    451,
+    503,
+    466
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    483,
+    128,
+    498
+   ]
+  },
+  {
+   "text": "895 C00",
+   "bbox": [
+    412,
+    483,
+    503,
+    498
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    515,
+    232,
+    530
+   ]
+  },
+  {
+   "text": "667 B00",
+   "bbox": [
+    412,
+    515,
+    503,
+    530
+   ]
+  },
+  {
+   "text": "2 DB x 1260",
+   "bbox": [
+    24,
+    547,
+    156,
+    560
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    573,
+    154,
+    588
+   ]
+  },
+  {
+   "text": "2520 C00",
+   "bbox": [
+    399,
+    573,
+    503,
+    588
+   ]
+  },
+  {
+   "text": "3 DB x 1126",
+   "bbox": [
+    24,
+    605,
+    156,
+    618
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    631,
+    180,
+    646
+   ]
+  },
+  {
+   "text": "3378 C00",
+   "bbox": [
+    399,
+    631,
+    503,
+    646
+   ]
+  },
+  {
+   "text": "3 DB x 2406",
+   "bbox": [
+    24,
+    663,
+    156,
+    676
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    689,
+    141,
+    704
+   ]
+  },
+  {
+   "text": "7218 C00",
+   "bbox": [
+    399,
+    689,
+    503,
+    704
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    728,
+    174,
+    751
+   ]
+  },
+  {
+   "text": "28 909 Ft",
+   "bbox": [
+    368,
+    733,
+    503,
+    751
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    770,
+    155,
+    790
+   ]
+  },
+  {
+   "text": "28 909 Ft",
+   "bbox": [
+    386,
+    774,
+    503,
+    790
+   ]
+  },
+  {
+   "text": "2026.03.03.",
+   "bbox": [
+    24,
+    821,
+    156,
+    835
+   ]
+  },
+  {
+   "text": "13:05",
+   "bbox": [
+    443,
+    821,
+    503,
+    835
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8844/04044",
+   "bbox": [
+    24,
+    848,
+    288,
+    869
+   ]
+  },
+  {
+   "text": "AP A52583535",
+   "bbox": [
+    24,
+    885,
+    168,
+    899
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    165,
+    924,
+    360,
+    944
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  527,
+  990
+ ]
+}

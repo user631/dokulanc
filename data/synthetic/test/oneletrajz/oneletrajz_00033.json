@@ -1,0 +1,330 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Pintér Boglárka",
+  "email": "pinter.boglarka@outlook.com",
+  "telefon": "+36 70 279 8969",
+  "lakcim": "H-3639 Mártonberény, Tapolcaházai utca 142.",
+  "szuletesi_datum": "1988. május 25.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2008 – 2011"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2004 – 2008"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Tóth Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2013 – 2015"
+   },
+   {
+    "ceg": "Nagy Logisztika Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2012 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "SAP",
+   "Docker",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    89,
+    217,
+    111
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    135,
+    104,
+    149
+   ]
+  },
+  {
+   "text": "pinter.boglarka@outlook.com",
+   "bbox": [
+    40,
+    157,
+    309,
+    175
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    189,
+    115,
+    203
+   ]
+  },
+  {
+   "text": "+36 70 279 8969",
+   "bbox": [
+    40,
+    212,
+    194,
+    226
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    243,
+    111,
+    257
+   ]
+  },
+  {
+   "text": "H-3639 Mártonberény, Tapolcaházai",
+   "bbox": [
+    40,
+    265,
+    367,
+    283
+   ]
+  },
+  {
+   "text": "utca 142.",
+   "bbox": [
+    40,
+    288,
+    124,
+    301
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    319,
+    203,
+    333
+   ]
+  },
+  {
+   "text": "1988. május 25.",
+   "bbox": [
+    40,
+    341,
+    187,
+    359
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    399,
+    205,
+    421
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    441,
+    142,
+    460
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    493,
+    184,
+    515
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    535,
+    105,
+    554
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    562,
+    77,
+    576
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    587,
+    108,
+    602
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    613,
+    241,
+    632
+   ]
+  },
+  {
+   "text": "Pintér Boglárka",
+   "bbox": [
+    450,
+    97,
+    834,
+    142
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    166,
+    678,
+    190
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    228,
+    720,
+    252
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    450,
+    278,
+    581,
+    293
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Tóth Kft.",
+   "bbox": [
+    450,
+    301,
+    779,
+    322
+   ]
+  },
+  {
+   "text": "2012 – 2013",
+   "bbox": [
+    450,
+    342,
+    581,
+    357
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Nagy Logisztika Bt.",
+   "bbox": [
+    449,
+    365,
+    884,
+    386
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    415,
+    630,
+    440
+   ]
+  },
+  {
+   "text": "2008 – 2011",
+   "bbox": [
+    450,
+    466,
+    581,
+    481
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    489,
+    1060,
+    510
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    512,
+    652,
+    529
+   ]
+  },
+  {
+   "text": "2004 – 2008",
+   "bbox": [
+    450,
+    554,
+    581,
+    569
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    577,
+    735,
+    598
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    600,
+    538,
+    621
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

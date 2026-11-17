@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Fekete Hajnalka",
+  "anyja_neve": "Varga Gréta",
+  "szuletesi_hely": "Nyírhídháza",
+  "szuletesi_datum": "1989. 09. 17.",
+  "lakcim": "H-7275 Mellékfalu, Arany jános utca 70.",
+  "telefon": "+36 20 769 3906",
+  "email": "fekete.hajnalka@example.hu",
+  "adoazonosito_jel": "8448198913",
+  "taj_szam": "884 091 941",
+  "kelt": "Székváros, 2026. 02. 11."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    298,
+    109,
+    941,
+    144
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    462,
+    163,
+    777,
+    179
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    215,
+    351,
+    236
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    268,
+    163,
+    282
+   ]
+  },
+  {
+   "text": "Fekete Hajnalka",
+   "bbox": [
+    417,
+    267,
+    588,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    320,
+    229,
+    337
+   ]
+  },
+  {
+   "text": "Varga Gréta",
+   "bbox": [
+    417,
+    315,
+    545,
+    336
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    370,
+    252,
+    388
+   ]
+  },
+  {
+   "text": "Nyírhídháza",
+   "bbox": [
+    417,
+    368,
+    542,
+    389
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    421,
+    241,
+    435
+   ]
+  },
+  {
+   "text": "1989. 09. 17.",
+   "bbox": [
+    417,
+    419,
+    559,
+    435
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    472,
+    192,
+    486
+   ]
+  },
+  {
+   "text": "H-7275 Mellékfalu, Arany jános utca 70.",
+   "bbox": [
+    417,
+    473,
+    842,
+    494
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    523,
+    241,
+    537
+   ]
+  },
+  {
+   "text": "+36 20 769 3906",
+   "bbox": [
+    417,
+    520,
+    598,
+    536
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    574,
+    224,
+    588
+   ]
+  },
+  {
+   "text": "fekete.hajnalka@example.hu",
+   "bbox": [
+    417,
+    569,
+    726,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    625,
+    275,
+    643
+   ]
+  },
+  {
+   "text": "8448198913",
+   "bbox": [
+    417,
+    626,
+    547,
+    642
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    676,
+    212,
+    690
+   ]
+  },
+  {
+   "text": "884 091 941",
+   "bbox": [
+    417,
+    673,
+    548,
+    689
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    753,
+    301,
+    774
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    797,
+    472,
+    815
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    842,
+    306,
+    856
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    887,
+    491,
+    905
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    989,
+    153,
+    1004
+   ]
+  },
+  {
+   "text": "Székváros, 2026. 02. 11.",
+   "bbox": [
+    198,
+    985,
+    463,
+    1006
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    917,
+    1038,
+    966,
+    1050
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

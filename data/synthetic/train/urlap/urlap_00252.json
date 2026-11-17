@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Fekete Anikó",
+  "anyja_neve": "Balázs Klára",
+  "szuletesi_hely": "Tamásiváros",
+  "szuletesi_datum": "1953. 05. 02.",
+  "lakcim": "H-5799 Hátberény, Ady endre utca 113.",
+  "telefon": "+36 70 591 2916",
+  "email": "fekete.aniko@example.hu",
+  "adoazonosito_jel": "8315326589",
+  "taj_szam": "279 521 017",
+  "kelt": "Hídhida, 2024. 03. 22."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    294,
+    100,
+    946,
+    133
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    476,
+    154,
+    762,
+    171
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    99,
+    207,
+    326,
+    229
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    111,
+    262,
+    150,
+    276
+   ]
+  },
+  {
+   "text": "Fekete Anikó",
+   "bbox": [
+    402,
+    259,
+    551,
+    279
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    110,
+    314,
+    209,
+    332
+   ]
+  },
+  {
+   "text": "Balázs Klára",
+   "bbox": [
+    402,
+    312,
+    538,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    111,
+    365,
+    230,
+    384
+   ]
+  },
+  {
+   "text": "Tamásiváros",
+   "bbox": [
+    402,
+    364,
+    541,
+    384
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    111,
+    417,
+    223,
+    432
+   ]
+  },
+  {
+   "text": "1953. 05. 02.",
+   "bbox": [
+    402,
+    416,
+    550,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    111,
+    470,
+    180,
+    484
+   ]
+  },
+  {
+   "text": "H-5799 Hátberény, Ady endre utca 113.",
+   "bbox": [
+    402,
+    469,
+    851,
+    495
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    111,
+    522,
+    222,
+    536
+   ]
+  },
+  {
+   "text": "+36 70 591 2916",
+   "bbox": [
+    402,
+    520,
+    592,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    111,
+    574,
+    211,
+    588
+   ]
+  },
+  {
+   "text": "fekete.aniko@example.hu",
+   "bbox": [
+    402,
+    571,
+    686,
+    597
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    110,
+    626,
+    256,
+    644
+   ]
+  },
+  {
+   "text": "8315326589",
+   "bbox": [
+    402,
+    624,
+    548,
+    644
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    111,
+    678,
+    200,
+    692
+   ]
+  },
+  {
+   "text": "279 521 017",
+   "bbox": [
+    402,
+    673,
+    543,
+    693
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    99,
+    755,
+    285,
+    777
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    144,
+    800,
+    436,
+    818
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    144,
+    845,
+    282,
+    859
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    143,
+    890,
+    451,
+    908
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    99,
+    992,
+    142,
+    1007
+   ]
+  },
+  {
+   "text": "Hídhida, 2024. 03. 22.",
+   "bbox": [
+    189,
+    991,
+    414,
+    1012
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    927,
+    1041,
+    975,
+    1053
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

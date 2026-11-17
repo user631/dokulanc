@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kovács Terézia",
+  "email": "kovacs.terezia@outlook.com",
+  "telefon": "+36 70 556 7552",
+  "lakcim": "H-3237 Dunakeszi, Békéscsabai utca 248.",
+  "szuletesi_datum": "1983.05.31.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Balogh Tech Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Farkas Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2006 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "projektmenedzsment",
+   "prezentáció",
+   "csapatmunka",
+   "Python",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kovács Terézia",
+   "bbox": [
+    451,
+    107,
+    789,
+    141
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    520,
+    176,
+    720,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    158,
+    242
+   ]
+  },
+  {
+   "text": "kovacs.terezia@outlook.com",
+   "bbox": [
+    330,
+    227,
+    586,
+    246
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    257,
+    168,
+    272
+   ]
+  },
+  {
+   "text": "+36 70 556 7552",
+   "bbox": [
+    330,
+    257,
+    481,
+    272
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    287,
+    166,
+    302
+   ]
+  },
+  {
+   "text": "H-3237 Dunakeszi, Békéscsabai utca 248.",
+   "bbox": [
+    330,
+    287,
+    706,
+    305
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    250,
+    332
+   ]
+  },
+  {
+   "text": "1983.05.31.",
+   "bbox": [
+    330,
+    317,
+    436,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    368,
+    315,
+    390
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    90,
+    417,
+    201,
+    432
+   ]
+  },
+  {
+   "text": "tesztmérnök – Balogh Tech Kft.",
+   "bbox": [
+    90,
+    441,
+    409,
+    461
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    90,
+    481,
+    201,
+    496
+   ]
+  },
+  {
+   "text": "értékesítő – Farkas Bt.",
+   "bbox": [
+    90,
+    505,
+    318,
+    521
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    554,
+    246,
+    578
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    90,
+    605,
+    201,
+    620
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    626,
+    258,
+    649
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    653,
+    329,
+    668
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    90,
+    693,
+    201,
+    708
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    717,
+    349,
+    733
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    741,
+    260,
+    760
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    790,
+    217,
+    814
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    90,
+    841,
+    182,
+    860
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    886,
+    213,
+    910
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, projektmenedzsment, prezentáció, csapatmunka, Python, JavaScript",
+   "bbox": [
+    90,
+    937,
+    931,
+    956
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

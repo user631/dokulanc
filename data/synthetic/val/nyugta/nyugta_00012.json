@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "MOLNÁR KISBOLT KFT.",
+  "uzlet_cim": "H-5203 Kishetvenfalva, Dózsa györgy utca 178.",
+  "adoszam": "93191007-2-13",
+  "datum": "2025.03.15.",
+  "ido": "12:23",
+  "nyugtaszam": "0161/45441",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "5 036 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "836"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "785"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "612"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1594"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1209"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR KISBOLT KFT.",
+   "bbox": [
+    139,
+    31,
+    405,
+    49
+   ]
+  },
+  {
+   "text": "H-5203 Kishetvenfalva, Dózsa györgy utca 178.",
+   "bbox": [
+    24,
+    63,
+    519,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 93191007-2-13",
+   "bbox": [
+    151,
+    88,
+    393,
+    103
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    131,
+    317,
+    147
+   ]
+  },
+  {
+   "text": "2 DB x 418",
+   "bbox": [
+    24,
+    172,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    195,
+    167,
+    213
+   ]
+  },
+  {
+   "text": "836 A00",
+   "bbox": [
+    429,
+    195,
+    520,
+    210
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    224,
+    128,
+    239
+   ]
+  },
+  {
+   "text": "785 A00",
+   "bbox": [
+    429,
+    224,
+    520,
+    239
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    253,
+    232,
+    268
+   ]
+  },
+  {
+   "text": "612 B00",
+   "bbox": [
+    429,
+    253,
+    520,
+    268
+   ]
+  },
+  {
+   "text": "2 DB x 797",
+   "bbox": [
+    24,
+    282,
+    134,
+    295
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    305,
+    141,
+    320
+   ]
+  },
+  {
+   "text": "1594 A00",
+   "bbox": [
+    416,
+    305,
+    520,
+    320
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    334,
+    154,
+    349
+   ]
+  },
+  {
+   "text": "1209 C00",
+   "bbox": [
+    416,
+    334,
+    520,
+    349
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    373,
+    174,
+    393
+   ]
+  },
+  {
+   "text": "5 036 Ft",
+   "bbox": [
+    400,
+    375,
+    520,
+    393
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    412,
+    154,
+    429
+   ]
+  },
+  {
+   "text": "5 036 Ft",
+   "bbox": [
+    416,
+    414,
+    520,
+    429
+   ]
+  },
+  {
+   "text": "2025.03.15.",
+   "bbox": [
+    24,
+    456,
+    145,
+    470
+   ]
+  },
+  {
+   "text": "12:23",
+   "bbox": [
+    465,
+    456,
+    520,
+    470
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0161/45441",
+   "bbox": [
+    24,
+    484,
+    266,
+    502
+   ]
+  },
+  {
+   "text": "AP A60337432",
+   "bbox": [
+    24,
+    514,
+    156,
+    528
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    140,
+    554,
+    404,
+    570
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  544,
+  615
+ ]
+}

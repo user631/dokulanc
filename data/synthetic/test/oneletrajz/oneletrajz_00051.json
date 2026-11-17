@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Tóth Anikó",
+  "email": "toth.aniko@outlook.com",
+  "telefon": "+36 30 281 4772",
+  "lakcim": "H-1029 Ráckeresztkövesd, Hetvenhidai utca 194.",
+  "szuletesi_datum": "1984. 02. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2002 – 2006"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Budai Szolgáltató Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2006 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "SQL",
+   "Git",
+   "C#",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    83,
+    232,
+    104
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    105,
+    143
+   ]
+  },
+  {
+   "text": "toth.aniko@outlook.com",
+   "bbox": [
+    40,
+    152,
+    249,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    185,
+    114,
+    199
+   ]
+  },
+  {
+   "text": "+36 30 281 4772",
+   "bbox": [
+    40,
+    209,
+    182,
+    225
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    241,
+    112,
+    255
+   ]
+  },
+  {
+   "text": "H-1029 Ráckeresztkövesd, Hetvenhidai",
+   "bbox": [
+    40,
+    263,
+    371,
+    281
+   ]
+  },
+  {
+   "text": "utca 194.",
+   "bbox": [
+    40,
+    289,
+    117,
+    304
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    320,
+    198,
+    334
+   ]
+  },
+  {
+   "text": "1984. 02. 08.",
+   "bbox": [
+    40,
+    344,
+    152,
+    360
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    403,
+    213,
+    424
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    445,
+    147,
+    463
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    472,
+    134,
+    491
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    526,
+    195,
+    547
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    569,
+    79,
+    587
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    595,
+    68,
+    610
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    623,
+    66,
+    637
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    649,
+    143,
+    668
+   ]
+  },
+  {
+   "text": "Tóth Anikó",
+   "bbox": [
+    450,
+    90,
+    708,
+    124
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    154,
+    565,
+    183
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    222,
+    706,
+    246
+   ]
+  },
+  {
+   "text": "2006 – 2007",
+   "bbox": [
+    450,
+    274,
+    573,
+    293
+   ]
+  },
+  {
+   "text": "rendszergazda – Budai Szolgáltató Bt.",
+   "bbox": [
+    450,
+    298,
+    884,
+    320
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    349,
+    629,
+    373
+   ]
+  },
+  {
+   "text": "2002 – 2006",
+   "bbox": [
+    450,
+    401,
+    574,
+    416
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    450,
+    421,
+    637,
+    447
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    450,
+    450,
+    696,
+    471
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    492,
+    570,
+    511
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    516,
+    733,
+    538
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    541,
+    529,
+    562
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

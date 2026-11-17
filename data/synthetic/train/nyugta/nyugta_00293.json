@@ -1,0 +1,440 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ ÉLELMISZER KFT.",
+  "uzlet_cim": "H-7453 Tapolcabánya, Belsőhetveni tér 104.",
+  "adoszam": "71868565-2-33",
+  "datum": "2024.04.21.",
+  "ido": "16:32",
+  "nyugtaszam": "4569/96098",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "14 822 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "525"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "478"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "134"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "681"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2260"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1290"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1100"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "311"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "960"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "3998"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "2602"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "483"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ ÉLELMISZER KFT.",
+   "bbox": [
+    142,
+    28,
+    436,
+    49
+   ]
+  },
+  {
+   "text": "H-7453 Tapolcabánya, Belsőhetveni tér 104.",
+   "bbox": [
+    37,
+    66,
+    541,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 71868565-2-33",
+   "bbox": [
+    157,
+    91,
+    421,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    244,
+    137,
+    334,
+    154
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    181,
+    128,
+    196
+   ]
+  },
+  {
+   "text": "525 A00",
+   "bbox": [
+    464,
+    181,
+    555,
+    196
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    212,
+    167,
+    227
+   ]
+  },
+  {
+   "text": "478 B00",
+   "bbox": [
+    464,
+    212,
+    555,
+    227
+   ]
+  },
+  {
+   "text": "2 DB x 67",
+   "bbox": [
+    24,
+    242,
+    123,
+    255
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    268,
+    102,
+    283
+   ]
+  },
+  {
+   "text": "134 C00",
+   "bbox": [
+    464,
+    268,
+    555,
+    283
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    299,
+    128,
+    314
+   ]
+  },
+  {
+   "text": "681 C00",
+   "bbox": [
+    464,
+    299,
+    555,
+    314
+   ]
+  },
+  {
+   "text": "2 DB x 1130",
+   "bbox": [
+    24,
+    329,
+    145,
+    342
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    355,
+    154,
+    370
+   ]
+  },
+  {
+   "text": "2260 A00",
+   "bbox": [
+    451,
+    355,
+    555,
+    370
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    386,
+    154,
+    401
+   ]
+  },
+  {
+   "text": "1290 C00",
+   "bbox": [
+    451,
+    386,
+    555,
+    401
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    417,
+    193,
+    432
+   ]
+  },
+  {
+   "text": "1100 B00",
+   "bbox": [
+    451,
+    417,
+    555,
+    432
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    448,
+    193,
+    463
+   ]
+  },
+  {
+   "text": "311 B00",
+   "bbox": [
+    464,
+    448,
+    555,
+    463
+   ]
+  },
+  {
+   "text": "2 DB x 480",
+   "bbox": [
+    24,
+    478,
+    134,
+    491
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    504,
+    206,
+    519
+   ]
+  },
+  {
+   "text": "960 B00",
+   "bbox": [
+    464,
+    504,
+    555,
+    519
+   ]
+  },
+  {
+   "text": "2 DB x 1999",
+   "bbox": [
+    24,
+    534,
+    145,
+    547
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    560,
+    141,
+    575
+   ]
+  },
+  {
+   "text": "3998 A00",
+   "bbox": [
+    451,
+    560,
+    555,
+    575
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    591,
+    271,
+    606
+   ]
+  },
+  {
+   "text": "2602 B00",
+   "bbox": [
+    451,
+    591,
+    555,
+    606
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    622,
+    141,
+    637
+   ]
+  },
+  {
+   "text": "483 C00",
+   "bbox": [
+    464,
+    622,
+    555,
+    637
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    661,
+    159,
+    683
+   ]
+  },
+  {
+   "text": "14 822 Ft",
+   "bbox": [
+    420,
+    666,
+    555,
+    683
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    701,
+    154,
+    721
+   ]
+  },
+  {
+   "text": "14 822 Ft",
+   "bbox": [
+    438,
+    706,
+    555,
+    721
+   ]
+  },
+  {
+   "text": "2024.04.21.",
+   "bbox": [
+    24,
+    751,
+    156,
+    764
+   ]
+  },
+  {
+   "text": "16:32",
+   "bbox": [
+    495,
+    751,
+    555,
+    764
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4569/96098",
+   "bbox": [
+    24,
+    778,
+    288,
+    797
+   ]
+  },
+  {
+   "text": "AP A47918522",
+   "bbox": [
+    24,
+    813,
+    168,
+    826
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    229,
+    852,
+    349,
+    870
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  579,
+  916
+ ]
+}

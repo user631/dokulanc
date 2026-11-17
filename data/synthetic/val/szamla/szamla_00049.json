@@ -1,0 +1,552 @@
+{
+ "doc_type": "szamla",
+ "variant": "scan",
+ "fields": {
+  "szamlaszam": "KFT-2025/07505",
+  "kiallitas_datuma": "2025-04-30",
+  "teljesites_datuma": "2025-04-26",
+  "fizetesi_hatarido": "2025-05-30",
+  "elado_nev": "Tóth Consulting Zrt.",
+  "elado_cim": "H-4718 Ligetapáti, Nyírszéki utca 182.",
+  "elado_adoszam": "27948512-2-07",
+  "vevo_nev": "Dudás Trade Kft.",
+  "vevo_cim": "H-7602 Dunakeszi, Kecskeméti utca 186.",
+  "vevo_adoszam": "85485589-3-31",
+  "bankszamla": "23539796-54574858",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "238 990 Ft",
+  "afa_osszesen": "64 528 Ft",
+  "brutto_osszesen": "303 518 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Laptop táska",
+    "mennyiseg": "5 db",
+    "egysegar": "10 360",
+    "netto": "51 800",
+    "afa_kulcs": "27%",
+    "afa": "13 986",
+    "brutto": "65 786"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "1 hó",
+    "egysegar": "154 940",
+    "netto": "154 940",
+    "afa_kulcs": "27%",
+    "afa": "41 834",
+    "brutto": "196 774"
+   },
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "5 db",
+    "egysegar": "6 450",
+    "netto": "32 250",
+    "afa_kulcs": "27%",
+    "afa": "8 708",
+    "brutto": "40 958"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    424,
+    90,
+    815,
+    122
+   ]
+  },
+  {
+   "text": "Számla sorszáma: KFT-2025/07505",
+   "bbox": [
+    431,
+    146,
+    809,
+    165
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    82,
+    227,
+    153,
+    245
+   ]
+  },
+  {
+   "text": "Tóth Consulting Zrt.",
+   "bbox": [
+    82,
+    263,
+    308,
+    286
+   ]
+  },
+  {
+   "text": "H-4718 Ligetapáti, Nyírszéki utca 182.",
+   "bbox": [
+    82,
+    295,
+    464,
+    318
+   ]
+  },
+  {
+   "text": "Adószám: 27948512-2-07",
+   "bbox": [
+    82,
+    325,
+    331,
+    343
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    630,
+    228,
+    695,
+    245
+   ]
+  },
+  {
+   "text": "Dudás Trade Kft.",
+   "bbox": [
+    630,
+    263,
+    819,
+    281
+   ]
+  },
+  {
+   "text": "H-7602 Dunakeszi, Kecskeméti utca 186.",
+   "bbox": [
+    630,
+    295,
+    1035,
+    317
+   ]
+  },
+  {
+   "text": "Adószám: 85485589-3-31",
+   "bbox": [
+    630,
+    325,
+    879,
+    343
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    82,
+    394,
+    257,
+    411
+   ]
+  },
+  {
+   "text": "2025-04-30",
+   "bbox": [
+    382,
+    395,
+    494,
+    411
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    82,
+    426,
+    275,
+    448
+   ]
+  },
+  {
+   "text": "2025-04-26",
+   "bbox": [
+    382,
+    427,
+    494,
+    443
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    82,
+    458,
+    267,
+    475
+   ]
+  },
+  {
+   "text": "2025-05-30",
+   "bbox": [
+    382,
+    459,
+    494,
+    475
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    82,
+    490,
+    224,
+    507
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    382,
+    489,
+    471,
+    512
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    82,
+    534,
+    189,
+    552
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    512,
+    534,
+    576,
+    552
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    671,
+    534,
+    749,
+    552
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    827,
+    534,
+    878,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    894,
+    530,
+    942,
+    548
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1010,
+    530,
+    1045,
+    548
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1101,
+    534,
+    1158,
+    548
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    575,
+    550,
+    589
+   ]
+  },
+  {
+   "text": "10 360",
+   "bbox": [
+    693,
+    575,
+    749,
+    589
+   ]
+  },
+  {
+   "text": "51 800",
+   "bbox": [
+    822,
+    575,
+    878,
+    589
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    575,
+    942,
+    589
+   ]
+  },
+  {
+   "text": "13 986",
+   "bbox": [
+    989,
+    575,
+    1045,
+    589
+   ]
+  },
+  {
+   "text": "65 786",
+   "bbox": [
+    1102,
+    575,
+    1158,
+    589
+   ]
+  },
+  {
+   "text": "Laptop táska",
+   "bbox": [
+    82,
+    574,
+    194,
+    593
+   ]
+  },
+  {
+   "text": "1 hó",
+   "bbox": [
+    512,
+    609,
+    548,
+    624
+   ]
+  },
+  {
+   "text": "154 940",
+   "bbox": [
+    683,
+    610,
+    749,
+    624
+   ]
+  },
+  {
+   "text": "154 940",
+   "bbox": [
+    812,
+    610,
+    878,
+    624
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    610,
+    942,
+    624
+   ]
+  },
+  {
+   "text": "41 834",
+   "bbox": [
+    989,
+    610,
+    1045,
+    624
+   ]
+  },
+  {
+   "text": "196 774",
+   "bbox": [
+    1092,
+    610,
+    1158,
+    624
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    82,
+    609,
+    326,
+    628
+   ]
+  },
+  {
+   "text": "5 db",
+   "bbox": [
+    512,
+    645,
+    550,
+    659
+   ]
+  },
+  {
+   "text": "6 450",
+   "bbox": [
+    703,
+    645,
+    749,
+    659
+   ]
+  },
+  {
+   "text": "32 250",
+   "bbox": [
+    822,
+    645,
+    878,
+    659
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    911,
+    645,
+    942,
+    659
+   ]
+  },
+  {
+   "text": "8 708",
+   "bbox": [
+    999,
+    645,
+    1045,
+    659
+   ]
+  },
+  {
+   "text": "40 958",
+   "bbox": [
+    1102,
+    645,
+    1158,
+    659
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    82,
+    645,
+    228,
+    663
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    666,
+    700,
+    828,
+    718
+   ]
+  },
+  {
+   "text": "238 990 Ft",
+   "bbox": [
+    1051,
+    702,
+    1158,
+    718
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    684,
+    733,
+    828,
+    754
+   ]
+  },
+  {
+   "text": "64 528 Ft",
+   "bbox": [
+    1063,
+    738,
+    1158,
+    754
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    637,
+    772,
+    828,
+    795
+   ]
+  },
+  {
+   "text": "303 518 Ft",
+   "bbox": [
+    1044,
+    774,
+    1158,
+    790
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 23539796-54574858",
+   "bbox": [
+    82,
+    838,
+    436,
+    854
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    82,
+    867,
+    637,
+    885
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    425,
+    1654,
+    815,
+    1671
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

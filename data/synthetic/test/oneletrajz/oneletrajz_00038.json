@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Kiss Mária",
+  "email": "kiss.maria@example.hu",
+  "telefon": "+36 70 364 9337",
+  "lakcim": "H-5594 Hajdúmindszentfalu, Dózsa györgy utca 92.",
+  "szuletesi_datum": "1978.09.11.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "1996 – 2000"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "1992 – 1996"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kovács Tech Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "ceg": "Varga Tech Bt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2000 – 2003"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "ügyfélkezelés",
+   "Linux",
+   "projektmenedzsment",
+   "JavaScript",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Kiss Mária",
+   "bbox": [
+    515,
+    88,
+    725,
+    123
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    529,
+    163,
+    710,
+    181
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    217,
+    156,
+    233
+   ]
+  },
+  {
+   "text": "kiss.maria@example.hu",
+   "bbox": [
+    330,
+    217,
+    551,
+    237
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    168,
+    266
+   ]
+  },
+  {
+   "text": "+36 70 364 9337",
+   "bbox": [
+    330,
+    251,
+    488,
+    266
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    283,
+    163,
+    299
+   ]
+  },
+  {
+   "text": "H-5594 Hajdúmindszentfalu, Dózsa györgy utca 92.",
+   "bbox": [
+    330,
+    282,
+    804,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    316,
+    248,
+    332
+   ]
+  },
+  {
+   "text": "1978.09.11.",
+   "bbox": [
+    330,
+    317,
+    444,
+    332
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    369,
+    310,
+    393
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    90,
+    423,
+    207,
+    438
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Kovács Tech Kft.",
+   "bbox": [
+    90,
+    449,
+    478,
+    469
+   ]
+  },
+  {
+   "text": "2000 – 2003",
+   "bbox": [
+    90,
+    493,
+    207,
+    508
+   ]
+  },
+  {
+   "text": "értékesítő – Varga Tech Bt.",
+   "bbox": [
+    90,
+    519,
+    356,
+    539
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    572,
+    241,
+    596
+   ]
+  },
+  {
+   "text": "1996 – 2000",
+   "bbox": [
+    90,
+    626,
+    207,
+    641
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    652,
+    430,
+    672
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    90,
+    679,
+    400,
+    699
+   ]
+  },
+  {
+   "text": "1992 – 1996",
+   "bbox": [
+    90,
+    723,
+    207,
+    738
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    749,
+    369,
+    769
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    775,
+    172,
+    796
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    829,
+    216,
+    853
+   ]
+  },
+  {
+   "text": "angol (C1), angol (B2)",
+   "bbox": [
+    90,
+    882,
+    290,
+    902
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    931,
+    206,
+    955
+   ]
+  },
+  {
+   "text": "prezentáció, ügyfélkezelés, Linux, projektmenedzsment, JavaScript, SAP",
+   "bbox": [
+    90,
+    983,
+    752,
+    1004
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

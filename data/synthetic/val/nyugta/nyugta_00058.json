@@ -1,0 +1,449 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZŰCS ABC BT.",
+  "uzlet_cim": "H-3688 Mindszenthalas, Kistamásii tér 141.",
+  "adoszam": "24287131-3-16",
+  "datum": "2026.08.13.",
+  "ido": "09:30",
+  "nyugtaszam": "7010/96421",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "20 740 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "582"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "839"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "522"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1687"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "2430"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "225"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "3807"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2688"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3867"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "809"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2634"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "650"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZŰCS ABC BT.",
+   "bbox": [
+    217,
+    28,
+    399,
+    49
+   ]
+  },
+  {
+   "text": "H-3688 Mindszenthalas, Kistamásii tér 141.",
+   "bbox": [
+    56,
+    66,
+    560,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 24287131-3-16",
+   "bbox": [
+    176,
+    91,
+    440,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    263,
+    137,
+    353,
+    154
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    181,
+    141,
+    196
+   ]
+  },
+  {
+   "text": "582 A00",
+   "bbox": [
+    502,
+    181,
+    593,
+    196
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    212,
+    141,
+    227
+   ]
+  },
+  {
+   "text": "839 C00",
+   "bbox": [
+    502,
+    212,
+    593,
+    227
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    243,
+    206,
+    258
+   ]
+  },
+  {
+   "text": "522 C00",
+   "bbox": [
+    502,
+    243,
+    593,
+    258
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    274,
+    154,
+    289
+   ]
+  },
+  {
+   "text": "1687 A00",
+   "bbox": [
+    489,
+    274,
+    593,
+    289
+   ]
+  },
+  {
+   "text": "3 DB x 810",
+   "bbox": [
+    24,
+    304,
+    134,
+    317
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    330,
+    219,
+    345
+   ]
+  },
+  {
+   "text": "2430 B00",
+   "bbox": [
+    489,
+    330,
+    593,
+    345
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    361,
+    206,
+    380
+   ]
+  },
+  {
+   "text": "225 A00",
+   "bbox": [
+    502,
+    361,
+    593,
+    376
+   ]
+  },
+  {
+   "text": "3 DB x 1269",
+   "bbox": [
+    24,
+    391,
+    145,
+    404
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    417,
+    128,
+    432
+   ]
+  },
+  {
+   "text": "3807 B00",
+   "bbox": [
+    489,
+    417,
+    593,
+    432
+   ]
+  },
+  {
+   "text": "3 DB x 896",
+   "bbox": [
+    24,
+    447,
+    134,
+    460
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    473,
+    128,
+    488
+   ]
+  },
+  {
+   "text": "2688 C00",
+   "bbox": [
+    489,
+    473,
+    593,
+    488
+   ]
+  },
+  {
+   "text": "3 DB x 1289",
+   "bbox": [
+    24,
+    503,
+    145,
+    516
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    529,
+    154,
+    544
+   ]
+  },
+  {
+   "text": "3867 A00",
+   "bbox": [
+    489,
+    529,
+    593,
+    544
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    560,
+    232,
+    575
+   ]
+  },
+  {
+   "text": "809 A00",
+   "bbox": [
+    502,
+    560,
+    593,
+    575
+   ]
+  },
+  {
+   "text": "3 DB x 878",
+   "bbox": [
+    24,
+    590,
+    134,
+    603
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    616,
+    180,
+    631
+   ]
+  },
+  {
+   "text": "2634 A00",
+   "bbox": [
+    489,
+    616,
+    593,
+    631
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    647,
+    206,
+    662
+   ]
+  },
+  {
+   "text": "650 A00",
+   "bbox": [
+    502,
+    647,
+    593,
+    662
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    686,
+    159,
+    708
+   ]
+  },
+  {
+   "text": "20 740 Ft",
+   "bbox": [
+    458,
+    691,
+    593,
+    708
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    726,
+    128,
+    746
+   ]
+  },
+  {
+   "text": "20 740 Ft",
+   "bbox": [
+    476,
+    731,
+    593,
+    746
+   ]
+  },
+  {
+   "text": "2026.08.13.",
+   "bbox": [
+    24,
+    776,
+    156,
+    789
+   ]
+  },
+  {
+   "text": "09:30",
+   "bbox": [
+    533,
+    776,
+    593,
+    789
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7010/96421",
+   "bbox": [
+    24,
+    803,
+    288,
+    822
+   ]
+  },
+  {
+   "text": "AP A65990494",
+   "bbox": [
+    24,
+    838,
+    168,
+    851
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    176,
+    876,
+    440,
+    895
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  617,
+  941
+ ]
+}

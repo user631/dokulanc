@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "ADATLAP",
+  "nev": "Nagy László",
+  "anyja_neve": "Török Judit",
+  "szuletesi_hely": "Egyházasszéknémeti",
+  "szuletesi_datum": "1970.10.04.",
+  "lakcim": "H-8287 Vác, Ady endre utca 195.",
+  "telefon": "06 1 413 6758",
+  "email": "nagy.laszlo@outlook.com",
+  "adoazonosito_jel": "8378962911",
+  "taj_szam": "672 880 010",
+  "kelt": "Tamásifalva, 2026.07.06."
+ },
+ "lines": [
+  {
+   "text": "ADATLAP",
+   "bbox": [
+    526,
+    113,
+    713,
+    138
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    104,
+    212,
+    331,
+    234
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    116,
+    267,
+    155,
+    281
+   ]
+  },
+  {
+   "text": "Nagy László",
+   "bbox": [
+    406,
+    266,
+    523,
+    288
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    115,
+    319,
+    214,
+    337
+   ]
+  },
+  {
+   "text": "Török Judit",
+   "bbox": [
+    406,
+    315,
+    521,
+    332
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    116,
+    370,
+    235,
+    389
+   ]
+  },
+  {
+   "text": "Egyházasszéknémeti",
+   "bbox": [
+    406,
+    369,
+    608,
+    391
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    116,
+    422,
+    228,
+    437
+   ]
+  },
+  {
+   "text": "1970.10.04.",
+   "bbox": [
+    406,
+    424,
+    519,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    116,
+    475,
+    185,
+    489
+   ]
+  },
+  {
+   "text": "H-8287 Vác, Ady endre utca 195.",
+   "bbox": [
+    406,
+    476,
+    725,
+    498
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    116,
+    527,
+    227,
+    541
+   ]
+  },
+  {
+   "text": "06 1 413 6758",
+   "bbox": [
+    406,
+    528,
+    537,
+    548
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    116,
+    579,
+    216,
+    593
+   ]
+  },
+  {
+   "text": "nagy.laszlo@outlook.com",
+   "bbox": [
+    406,
+    579,
+    655,
+    601
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    115,
+    631,
+    261,
+    649
+   ]
+  },
+  {
+   "text": "8378962911",
+   "bbox": [
+    406,
+    630,
+    521,
+    650
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    116,
+    683,
+    205,
+    697
+   ]
+  },
+  {
+   "text": "672 880 010",
+   "bbox": [
+    406,
+    683,
+    528,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    104,
+    760,
+    290,
+    782
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    149,
+    805,
+    441,
+    823
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    149,
+    850,
+    287,
+    864
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    148,
+    895,
+    456,
+    913
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    104,
+    997,
+    147,
+    1012
+   ]
+  },
+  {
+   "text": "Tamásifalva, 2026.07.06.",
+   "bbox": [
+    194,
+    993,
+    441,
+    1014
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    922,
+    1046,
+    970,
+    1058
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

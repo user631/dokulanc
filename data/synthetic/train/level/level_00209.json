@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Török Kft.",
+  "felado_cim": "H-6098 Mellékhida, Ceglédi utca 58.",
+  "cimzett": "Dr. Varga Attila",
+  "cimzett_cim": "H-6071 Mindszentnádasd, Fürdőhidai utca 177.",
+  "datum": "2026. szeptember 28.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "REF-2026/60857",
+  "hatarido": "2026. október 11",
+  "teendo": "a SZ-2026/08961 számú számla 171 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Bogdán Irén"
+ },
+ "lines": [
+  {
+   "text": "Török Kft.",
+   "bbox": [
+    121,
+    100,
+    280,
+    124
+   ]
+  },
+  {
+   "text": "H-6098 Mellékhida, Ceglédi utca 58.",
+   "bbox": [
+    121,
+    138,
+    473,
+    160
+   ]
+  },
+  {
+   "text": "Tel.: +36 20 275 1743   E-mail: info@torok.hu",
+   "bbox": [
+    120,
+    165,
+    575,
+    184
+   ]
+  },
+  {
+   "text": "Dr. Varga Attila",
+   "bbox": [
+    121,
+    252,
+    325,
+    277
+   ]
+  },
+  {
+   "text": "H-6071 Mindszentnádasd",
+   "bbox": [
+    121,
+    284,
+    412,
+    306
+   ]
+  },
+  {
+   "text": "Fürdőhidai utca 177.",
+   "bbox": [
+    121,
+    316,
+    358,
+    338
+   ]
+  },
+  {
+   "text": "Békéscsaba, 2026. szeptember 28.",
+   "bbox": [
+    719,
+    388,
+    1119,
+    415
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    121,
+    445,
+    451,
+    471
+   ]
+  },
+  {
+   "text": "Ügyszám: REF-2026/60857",
+   "bbox": [
+    121,
+    477,
+    432,
+    507
+   ]
+  },
+  {
+   "text": "Tisztelt Címzett!",
+   "bbox": [
+    120,
+    546,
+    309,
+    568
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2026/08961 számú, 2026. szeptember 2. kelt számla",
+   "bbox": [
+    121,
+    598,
+    1109,
+    625
+   ]
+  },
+  {
+   "text": "171 000 Ft összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    121,
+    634,
+    990,
+    661
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2026. október 11 napjáig szíveskedjen",
+   "bbox": [
+    121,
+    684,
+    1029,
+    711
+   ]
+  },
+  {
+   "text": "átutalni a 15785765-83223574-65893230 számú bankszámlánkra.",
+   "bbox": [
+    121,
+    720,
+    879,
+    742
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    120,
+    770,
+    1072,
+    797
+   ]
+  },
+  {
+   "text": "Tisztelettel:",
+   "bbox": [
+    120,
+    852,
+    256,
+    872
+   ]
+  },
+  {
+   "text": "Bogdán Irén",
+   "bbox": [
+    161,
+    947,
+    324,
+    973
+   ]
+  },
+  {
+   "text": "pénzügyi vezető",
+   "bbox": [
+    161,
+    979,
+    332,
+    1003
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

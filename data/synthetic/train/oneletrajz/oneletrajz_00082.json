@@ -1,0 +1,262 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Bognár Viktória",
+  "email": "bognar.viktoria@citromail.hu",
+  "telefon": "+36 20 155 6067",
+  "lakcim": "H-7122 Nyíregyháza, Budapesti utca 223.",
+  "szuletesi_datum": "2003.12.18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2022 – 2025"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Deák Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "csapatmunka",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Bognár Viktória",
+   "bbox": [
+    431,
+    94,
+    808,
+    143
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    511,
+    163,
+    728,
+    190
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    218,
+    169,
+    235
+   ]
+  },
+  {
+   "text": "bognar.viktoria@citromail.hu",
+   "bbox": [
+    330,
+    218,
+    609,
+    239
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    250,
+    180,
+    267
+   ]
+  },
+  {
+   "text": "+36 20 155 6067",
+   "bbox": [
+    330,
+    251,
+    499,
+    267
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    281,
+    177,
+    299
+   ]
+  },
+  {
+   "text": "H-7122 Nyíregyháza, Budapesti utca 223.",
+   "bbox": [
+    330,
+    281,
+    735,
+    303
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    313,
+    275,
+    331
+   ]
+  },
+  {
+   "text": "2003.12.18.",
+   "bbox": [
+    330,
+    315,
+    447,
+    331
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    367,
+    357,
+    392
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    418,
+    240,
+    439
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Deák Tech Bt.",
+   "bbox": [
+    89,
+    444,
+    456,
+    467
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    496,
+    269,
+    522
+   ]
+  },
+  {
+   "text": "2022 – 2025",
+   "bbox": [
+    90,
+    549,
+    212,
+    565
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    574,
+    316,
+    597
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    599,
+    243,
+    621
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    643,
+    212,
+    659
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    89,
+    668,
+    370,
+    691
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    694,
+    279,
+    715
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    746,
+    236,
+    772
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B2)",
+   "bbox": [
+    90,
+    797,
+    335,
+    819
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    846,
+    225,
+    872
+   ]
+  },
+  {
+   "text": "Git, csapatmunka, SAP",
+   "bbox": [
+    90,
+    898,
+    310,
+    919
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Nagy Gabriella",
+  "anyja_neve": "Lakatos Máté",
+  "szuletesi_hely": "Székvárad",
+  "szuletesi_datum": "1962. 07. 14.",
+  "lakcim": "H-8777 Miskolc, Petőfi sándor utca 110.",
+  "telefon": "+36 20 590 2436",
+  "email": "nagy.gabriella@freemail.hu",
+  "adoazonosito_jel": "8348920889",
+  "taj_szam": "962 087 259",
+  "kelt": "Somogyhídháza, 2026. 05. 27."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    431,
+    98,
+    808,
+    131
+   ]
+  },
+  {
+   "text": "A *-gal jelölt mezők kitöltése kötelező.",
+   "bbox": [
+    471,
+    151,
+    769,
+    168
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    97,
+    205,
+    310,
+    227
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    109,
+    259,
+    147,
+    274
+   ]
+  },
+  {
+   "text": "Nagy Gabriella",
+   "bbox": [
+    414,
+    260,
+    578,
+    286
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    109,
+    312,
+    208,
+    330
+   ]
+  },
+  {
+   "text": "Lakatos Máté",
+   "bbox": [
+    414,
+    308,
+    564,
+    328
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    109,
+    363,
+    232,
+    382
+   ]
+  },
+  {
+   "text": "Székvárad",
+   "bbox": [
+    414,
+    361,
+    532,
+    381
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    109,
+    415,
+    223,
+    430
+   ]
+  },
+  {
+   "text": "1962. 07. 14.",
+   "bbox": [
+    414,
+    416,
+    558,
+    436
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    109,
+    467,
+    176,
+    482
+   ]
+  },
+  {
+   "text": "H-8777 Miskolc, Petőfi sándor utca 110.",
+   "bbox": [
+    414,
+    464,
+    864,
+    487
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    109,
+    519,
+    223,
+    534
+   ]
+  },
+  {
+   "text": "+36 20 590 2436",
+   "bbox": [
+    414,
+    520,
+    612,
+    540
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    109,
+    571,
+    206,
+    586
+   ]
+  },
+  {
+   "text": "nagy.gabriella@freemail.hu",
+   "bbox": [
+    414,
+    573,
+    717,
+    599
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    109,
+    623,
+    257,
+    642
+   ]
+  },
+  {
+   "text": "8348920889",
+   "bbox": [
+    414,
+    620,
+    564,
+    640
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    109,
+    675,
+    196,
+    690
+   ]
+  },
+  {
+   "text": "962 087 259",
+   "bbox": [
+    414,
+    674,
+    563,
+    694
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    97,
+    753,
+    267,
+    775
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    142,
+    797,
+    443,
+    816
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    142,
+    842,
+    285,
+    857
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    142,
+    887,
+    460,
+    906
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    97,
+    990,
+    141,
+    1005
+   ]
+  },
+  {
+   "text": "Somogyhídháza, 2026. 05. 27.",
+   "bbox": [
+    187,
+    989,
+    491,
+    1013
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    930,
+    1039,
+    976,
+    1052
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

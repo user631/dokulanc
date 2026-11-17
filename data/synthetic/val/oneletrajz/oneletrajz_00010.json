@@ -1,0 +1,288 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Kovács Ferenc",
+  "email": "kovacs.ferenc@gmail.com",
+  "telefon": "+36 30 747 7390",
+  "lakcim": "H-4799 Székháza, Mosoni utca 35.",
+  "szuletesi_datum": "1998. december 13.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2016 – 2021"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2012 – 2016"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Szabó Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2020 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "csapatmunka",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    108,
+    180,
+    127
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    151,
+    90,
+    164
+   ]
+  },
+  {
+   "text": "kovacs.ferenc@gmail.com",
+   "bbox": [
+    40,
+    172,
+    236,
+    188
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    203,
+    101,
+    216
+   ]
+  },
+  {
+   "text": "+36 30 747 7390",
+   "bbox": [
+    40,
+    225,
+    163,
+    237
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    255,
+    96,
+    268
+   ]
+  },
+  {
+   "text": "H-4799 Székháza, Mosoni utca 35.",
+   "bbox": [
+    40,
+    275,
+    296,
+    292
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    307,
+    168,
+    320
+   ]
+  },
+  {
+   "text": "1998. december 13.",
+   "bbox": [
+    40,
+    328,
+    190,
+    341
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    387,
+    169,
+    406
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    427,
+    122,
+    444
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    479,
+    151,
+    498
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    519,
+    70,
+    532
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    544,
+    144,
+    561
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    569,
+    76,
+    582
+   ]
+  },
+  {
+   "text": "Kovács Ferenc",
+   "bbox": [
+    450,
+    116,
+    741,
+    148
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    182,
+    648,
+    205
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    244,
+    662,
+    266
+   ]
+  },
+  {
+   "text": "2020 – 2024",
+   "bbox": [
+    450,
+    292,
+    549,
+    306
+   ]
+  },
+  {
+   "text": "adatelemző – Szabó Szolgáltató Kft.",
+   "bbox": [
+    450,
+    315,
+    784,
+    334
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    365,
+    595,
+    387
+   ]
+  },
+  {
+   "text": "2016 – 2021",
+   "bbox": [
+    450,
+    413,
+    549,
+    427
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    450,
+    437,
+    619,
+    455
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    450,
+    458,
+    556,
+    477
+   ]
+  },
+  {
+   "text": "2012 – 2016",
+   "bbox": [
+    450,
+    498,
+    549,
+    512
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    521,
+    688,
+    536
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    544,
+    619,
+    562
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

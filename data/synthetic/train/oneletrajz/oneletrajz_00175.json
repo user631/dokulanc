@@ -1,0 +1,287 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Katona Zsolt",
+  "email": "katona.zsolt@citromail.hu",
+  "telefon": "+36 30 719 9455",
+  "lakcim": "H-3229 Ráckeresztapáti, Mellékfalvai tér 57.",
+  "szuletesi_datum": "1991.05.12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "mechatronikai mérnök BSc",
+    "idoszak": "2011 – 2014"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2007 – 2011"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Vörös és Társa Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2016 – 2020"
+   },
+   {
+    "ceg": "Balog Szolgáltató Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2015 – 2016"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "SAP",
+   "B kategóriás jogosítvány",
+   "C#",
+   "SQL",
+   "Excel",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Katona Zsolt",
+   "bbox": [
+    446,
+    115,
+    794,
+    153
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    550,
+    180,
+    689,
+    210
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    238,
+    181,
+    256
+   ]
+  },
+  {
+   "text": "katona.zsolt@citromail.hu",
+   "bbox": [
+    330,
+    238,
+    631,
+    259
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    271,
+    195,
+    289
+   ]
+  },
+  {
+   "text": "+36 30 719 9455",
+   "bbox": [
+    330,
+    272,
+    538,
+    289
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    304,
+    190,
+    322
+   ]
+  },
+  {
+   "text": "H-3229 Ráckeresztapáti, Mellékfalvai tér 57.",
+   "bbox": [
+    330,
+    303,
+    847,
+    327
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    337,
+    304,
+    355
+   ]
+  },
+  {
+   "text": "1991.05.12.",
+   "bbox": [
+    330,
+    338,
+    474,
+    355
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    391,
+    394,
+    417
+   ]
+  },
+  {
+   "text": "2016 – 2020",
+   "bbox": [
+    90,
+    444,
+    241,
+    461
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Vörös és Társa Kft.",
+   "bbox": [
+    90,
+    469,
+    740,
+    494
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    514,
+    241,
+    531
+   ]
+  },
+  {
+   "text": "irodavezető – Balog Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    539,
+    571,
+    564
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    593,
+    294,
+    620
+   ]
+  },
+  {
+   "text": "2011 – 2014",
+   "bbox": [
+    90,
+    647,
+    241,
+    664
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    668,
+    310,
+    697
+   ]
+  },
+  {
+   "text": "mechatronikai mérnök BSc",
+   "bbox": [
+    90,
+    699,
+    404,
+    718
+   ]
+  },
+  {
+   "text": "2007 – 2011",
+   "bbox": [
+    90,
+    744,
+    241,
+    761
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    769,
+    413,
+    794
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    796,
+    391,
+    820
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    850,
+    260,
+    877
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    903,
+    238,
+    926
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    952,
+    250,
+    979
+   ]
+  },
+  {
+   "text": "SAP, B kategóriás jogosítvány, C#, SQL, Excel, projektmenedzsment",
+   "bbox": [
+    90,
+    1004,
+    892,
+    1028
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "SZABÓ KISBOLT BT.",
+  "uzlet_cim": "H-5368 Széknémeti, Nyírmelléki utca 134.",
+  "adoszam": "73048323-2-35",
+  "datum": "2025.12.03.",
+  "ido": "10:20",
+  "nyugtaszam": "9518/32746",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 625 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "706"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1152"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1334"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "1964"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1312"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "1587"
+   },
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "547"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "916"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "92"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2562"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "453"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZABÓ KISBOLT BT.",
+   "bbox": [
+    160,
+    30,
+    398,
+    50
+   ]
+  },
+  {
+   "text": "H-5368 Széknémeti, Nyírmelléki utca 134.",
+   "bbox": [
+    59,
+    66,
+    499,
+    83
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 73048323-2-35",
+   "bbox": [
+    158,
+    89,
+    400,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    233,
+    133,
+    325,
+    148
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    175,
+    128,
+    188
+   ]
+  },
+  {
+   "text": "706 C00",
+   "bbox": [
+    443,
+    175,
+    534,
+    188
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    204,
+    128,
+    217
+   ]
+  },
+  {
+   "text": "1152 C00",
+   "bbox": [
+    430,
+    204,
+    534,
+    217
+   ]
+  },
+  {
+   "text": "2 DB x 667",
+   "bbox": [
+    24,
+    232,
+    134,
+    243
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    256,
+    232,
+    269
+   ]
+  },
+  {
+   "text": "1334 B00",
+   "bbox": [
+    430,
+    256,
+    534,
+    269
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    285,
+    271,
+    298
+   ]
+  },
+  {
+   "text": "1964 A00",
+   "bbox": [
+    430,
+    285,
+    534,
+    298
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    315,
+    154,
+    327
+   ]
+  },
+  {
+   "text": "1312 A00",
+   "bbox": [
+    430,
+    314,
+    534,
+    327
+   ]
+  },
+  {
+   "text": "3 DB x 529",
+   "bbox": [
+    24,
+    342,
+    134,
+    353
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    367,
+    206,
+    379
+   ]
+  },
+  {
+   "text": "1587 A00",
+   "bbox": [
+    430,
+    366,
+    534,
+    379
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    395,
+    128,
+    408
+   ]
+  },
+  {
+   "text": "547 A00",
+   "bbox": [
+    443,
+    395,
+    534,
+    408
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    424,
+    219,
+    437
+   ]
+  },
+  {
+   "text": "916 A00",
+   "bbox": [
+    443,
+    424,
+    534,
+    437
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    454,
+    102,
+    466
+   ]
+  },
+  {
+   "text": "92 A00",
+   "bbox": [
+    456,
+    453,
+    534,
+    466
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    482,
+    141,
+    495
+   ]
+  },
+  {
+   "text": "2562 B00",
+   "bbox": [
+    430,
+    482,
+    534,
+    495
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    511,
+    167,
+    524
+   ]
+  },
+  {
+   "text": "453 A00",
+   "bbox": [
+    443,
+    511,
+    534,
+    524
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    547,
+    174,
+    568
+   ]
+  },
+  {
+   "text": "12 625 Ft",
+   "bbox": [
+    399,
+    552,
+    534,
+    568
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    588,
+    167,
+    604
+   ]
+  },
+  {
+   "text": "12 625 Ft",
+   "bbox": [
+    417,
+    591,
+    534,
+    604
+   ]
+  },
+  {
+   "text": "2025.12.03.",
+   "bbox": [
+    24,
+    633,
+    145,
+    645
+   ]
+  },
+  {
+   "text": "10:20",
+   "bbox": [
+    479,
+    633,
+    534,
+    645
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9518/32746",
+   "bbox": [
+    24,
+    659,
+    266,
+    676
+   ]
+  },
+  {
+   "text": "AP A27129148",
+   "bbox": [
+    24,
+    691,
+    156,
+    703
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    188,
+    729,
+    369,
+    745
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  558,
+  789
+ ]
+}

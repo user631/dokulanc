@@ -1,0 +1,849 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "INV-2024/07197",
+  "kiallitas_datuma": "2024.04.29.",
+  "teljesites_datuma": "2024.04.27.",
+  "fizetesi_hatarido": "2024.05.07.",
+  "elado_nev": "Nagy Logisztika Kft.",
+  "elado_cim": "H-2457 Tiszamindszentfalu, Hetvenvégi utca 155.",
+  "elado_adoszam": "22716617-5-30",
+  "vevo_nev": "Papp és Társa Kft.",
+  "vevo_cim": "H-9248 Nyírberény, Dunakeszii utca 139.",
+  "vevo_adoszam": "15761220-2-19",
+  "bankszamla": "53886785-39274733-90062359",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "709 630 Ft",
+  "afa_osszesen": "187 307 Ft",
+  "brutto_osszesen": "896 937 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Webtárhely bérlés",
+    "mennyiseg": "1 év",
+    "egysegar": "25 760",
+    "netto": "25 760",
+    "afa_kulcs": "27%",
+    "afa": "6 955",
+    "brutto": "32 715"
+   },
+   {
+    "megnevezes": "USB-C töltő 65W",
+    "mennyiseg": "1 db",
+    "egysegar": "7 600",
+    "netto": "7 600",
+    "afa_kulcs": "27%",
+    "afa": "2 052",
+    "brutto": "9 652"
+   },
+   {
+    "megnevezes": "Fordítás angolról magyarra",
+    "mennyiseg": "2 oldal",
+    "egysegar": "6 120",
+    "netto": "12 240",
+    "afa_kulcs": "27%",
+    "afa": "3 305",
+    "brutto": "15 545"
+   },
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "10 csomag",
+    "egysegar": "4 770",
+    "netto": "47 700",
+    "afa_kulcs": "18%",
+    "afa": "8 586",
+    "brutto": "56 286"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "2 990",
+    "netto": "14 950",
+    "afa_kulcs": "27%",
+    "afa": "4 036",
+    "brutto": "18 986"
+   },
+   {
+    "megnevezes": "Rendezvényszervezés",
+    "mennyiseg": "2 alkalom",
+    "egysegar": "171 990",
+    "netto": "343 980",
+    "afa_kulcs": "27%",
+    "afa": "92 875",
+    "brutto": "436 855"
+   },
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "5 hó",
+    "egysegar": "51 480",
+    "netto": "257 400",
+    "afa_kulcs": "27%",
+    "afa": "69 498",
+    "brutto": "326 898"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    400,
+    98,
+    839,
+    150
+   ]
+  },
+  {
+   "text": "Számla sorszáma: INV-2024/07197",
+   "bbox": [
+    410,
+    163,
+    831,
+    189
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    97,
+    243,
+    182,
+    265
+   ]
+  },
+  {
+   "text": "Nagy Logisztika Kft.",
+   "bbox": [
+    97,
+    283,
+    367,
+    309
+   ]
+  },
+  {
+   "text": "H-2457 Tiszamindszentfalu, Hetvenvégi utca",
+   "bbox": [
+    97,
+    318,
+    589,
+    344
+   ]
+  },
+  {
+   "text": "155.",
+   "bbox": [
+    97,
+    353,
+    147,
+    372
+   ]
+  },
+  {
+   "text": "Adószám: 22716617-5-30",
+   "bbox": [
+    96,
+    384,
+    385,
+    405
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    243,
+    707,
+    265
+   ]
+  },
+  {
+   "text": "Papp és Társa Kft.",
+   "bbox": [
+    630,
+    282,
+    875,
+    309
+   ]
+  },
+  {
+   "text": "H-9248 Nyírberény, Dunakeszii utca 139.",
+   "bbox": [
+    630,
+    318,
+    1085,
+    344
+   ]
+  },
+  {
+   "text": "Adószám: 15761220-2-19",
+   "bbox": [
+    629,
+    351,
+    918,
+    372
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    97,
+    455,
+    276,
+    473
+   ]
+  },
+  {
+   "text": "2024.04.29.",
+   "bbox": [
+    97,
+    488,
+    222,
+    506
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    358,
+    455,
+    553,
+    477
+   ]
+  },
+  {
+   "text": "2024.04.27.",
+   "bbox": [
+    358,
+    488,
+    483,
+    506
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    619,
+    455,
+    804,
+    473
+   ]
+  },
+  {
+   "text": "2024.05.07.",
+   "bbox": [
+    619,
+    488,
+    744,
+    506
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    880,
+    455,
+    1020,
+    473
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    880,
+    487,
+    964,
+    506
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    97,
+    539,
+    233,
+    561
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    515,
+    541,
+    596,
+    561
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    643,
+    539,
+    745,
+    561
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    809,
+    539,
+    871,
+    557
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    863,
+    535,
+    933,
+    557
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    989,
+    535,
+    1034,
+    557
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1072,
+    539,
+    1143,
+    557
+   ]
+  },
+  {
+   "text": "1 év",
+   "bbox": [
+    515,
+    583,
+    557,
+    601
+   ]
+  },
+  {
+   "text": "25 760",
+   "bbox": [
+    678,
+    585,
+    745,
+    601
+   ]
+  },
+  {
+   "text": "25 760",
+   "bbox": [
+    804,
+    585,
+    871,
+    601
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    585,
+    933,
+    601
+   ]
+  },
+  {
+   "text": "6 955",
+   "bbox": [
+    978,
+    585,
+    1033,
+    601
+   ]
+  },
+  {
+   "text": "32 715",
+   "bbox": [
+    1076,
+    585,
+    1143,
+    601
+   ]
+  },
+  {
+   "text": "Webtárhely bérlés",
+   "bbox": [
+    97,
+    583,
+    274,
+    605
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    515,
+    622,
+    558,
+    639
+   ]
+  },
+  {
+   "text": "7 600",
+   "bbox": [
+    690,
+    623,
+    745,
+    639
+   ]
+  },
+  {
+   "text": "7 600",
+   "bbox": [
+    816,
+    623,
+    871,
+    639
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    623,
+    933,
+    639
+   ]
+  },
+  {
+   "text": "2 052",
+   "bbox": [
+    978,
+    623,
+    1033,
+    639
+   ]
+  },
+  {
+   "text": "9 652",
+   "bbox": [
+    1088,
+    623,
+    1143,
+    639
+   ]
+  },
+  {
+   "text": "USB-C töltő 65W",
+   "bbox": [
+    97,
+    621,
+    258,
+    639
+   ]
+  },
+  {
+   "text": "2 oldal",
+   "bbox": [
+    515,
+    660,
+    580,
+    677
+   ]
+  },
+  {
+   "text": "6 120",
+   "bbox": [
+    690,
+    661,
+    745,
+    677
+   ]
+  },
+  {
+   "text": "12 240",
+   "bbox": [
+    804,
+    661,
+    871,
+    677
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    661,
+    933,
+    677
+   ]
+  },
+  {
+   "text": "3 305",
+   "bbox": [
+    978,
+    661,
+    1033,
+    677
+   ]
+  },
+  {
+   "text": "15 545",
+   "bbox": [
+    1076,
+    661,
+    1143,
+    677
+   ]
+  },
+  {
+   "text": "Fordítás angolról magyarra",
+   "bbox": [
+    97,
+    659,
+    359,
+    681
+   ]
+  },
+  {
+   "text": "10 csomag",
+   "bbox": [
+    515,
+    699,
+    620,
+    719
+   ]
+  },
+  {
+   "text": "4 770",
+   "bbox": [
+    690,
+    699,
+    745,
+    715
+   ]
+  },
+  {
+   "text": "47 700",
+   "bbox": [
+    804,
+    699,
+    871,
+    715
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    888,
+    699,
+    933,
+    715
+   ]
+  },
+  {
+   "text": "8 586",
+   "bbox": [
+    978,
+    699,
+    1033,
+    715
+   ]
+  },
+  {
+   "text": "56 286",
+   "bbox": [
+    1076,
+    699,
+    1143,
+    715
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    96,
+    697,
+    277,
+    719
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    515,
+    736,
+    609,
+    753
+   ]
+  },
+  {
+   "text": "2 990",
+   "bbox": [
+    690,
+    737,
+    745,
+    753
+   ]
+  },
+  {
+   "text": "14 950",
+   "bbox": [
+    804,
+    737,
+    871,
+    753
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    737,
+    933,
+    753
+   ]
+  },
+  {
+   "text": "4 036",
+   "bbox": [
+    978,
+    737,
+    1033,
+    753
+   ]
+  },
+  {
+   "text": "18 986",
+   "bbox": [
+    1076,
+    737,
+    1143,
+    753
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    97,
+    735,
+    210,
+    757
+   ]
+  },
+  {
+   "text": "2 alkalom",
+   "bbox": [
+    515,
+    774,
+    609,
+    791
+   ]
+  },
+  {
+   "text": "171 990",
+   "bbox": [
+    666,
+    775,
+    745,
+    791
+   ]
+  },
+  {
+   "text": "343 980",
+   "bbox": [
+    792,
+    775,
+    871,
+    791
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    775,
+    933,
+    791
+   ]
+  },
+  {
+   "text": "92 875",
+   "bbox": [
+    966,
+    775,
+    1033,
+    791
+   ]
+  },
+  {
+   "text": "436 855",
+   "bbox": [
+    1064,
+    775,
+    1143,
+    791
+   ]
+  },
+  {
+   "text": "Rendezvényszervezés",
+   "bbox": [
+    97,
+    773,
+    310,
+    795
+   ]
+  },
+  {
+   "text": "5 hó",
+   "bbox": [
+    515,
+    811,
+    558,
+    829
+   ]
+  },
+  {
+   "text": "51 480",
+   "bbox": [
+    678,
+    813,
+    745,
+    829
+   ]
+  },
+  {
+   "text": "257 400",
+   "bbox": [
+    792,
+    813,
+    871,
+    829
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    888,
+    813,
+    933,
+    829
+   ]
+  },
+  {
+   "text": "69 498",
+   "bbox": [
+    966,
+    813,
+    1033,
+    829
+   ]
+  },
+  {
+   "text": "326 898",
+   "bbox": [
+    1064,
+    813,
+    1143,
+    829
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    97,
+    811,
+    374,
+    833
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    628,
+    869,
+    813,
+    891
+   ]
+  },
+  {
+   "text": "709 630 Ft",
+   "bbox": [
+    1020,
+    872,
+    1143,
+    891
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    644,
+    903,
+    813,
+    930
+   ]
+  },
+  {
+   "text": "187 307 Ft",
+   "bbox": [
+    1020,
+    911,
+    1143,
+    930
+   ]
+  },
+  {
+   "text": "Végösszeg:",
+   "bbox": [
+    667,
+    948,
+    813,
+    974
+   ]
+  },
+  {
+   "text": "896 937 Ft",
+   "bbox": [
+    999,
+    950,
+    1143,
+    969
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 53886785-39274733-90062359",
+   "bbox": [
+    97,
+    1017,
+    623,
+    1036
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    97,
+    1049,
+    737,
+    1070
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    464,
+    1635,
+    776,
+    1656
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

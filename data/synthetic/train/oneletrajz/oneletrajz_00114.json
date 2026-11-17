@@ -1,0 +1,317 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Kiss Sándor",
+  "email": "kiss.sandor@gmail.com",
+  "telefon": "+36 70 159 7646",
+  "lakcim": "H-2520 Székberény, József attila utca 181.",
+  "szuletesi_datum": "1983. 11. 30.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2001 – 2006"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Németh Logisztika Zrt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2005 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "SAP",
+   "JavaScript",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    96,
+    241,
+    122
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    146,
+    114,
+    163
+   ]
+  },
+  {
+   "text": "kiss.sandor@gmail.com",
+   "bbox": [
+    40,
+    171,
+    291,
+    192
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    206,
+    127,
+    223
+   ]
+  },
+  {
+   "text": "+36 70 159 7646",
+   "bbox": [
+    40,
+    232,
+    221,
+    248
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    266,
+    122,
+    283
+   ]
+  },
+  {
+   "text": "H-2520 Székberény, József",
+   "bbox": [
+    40,
+    291,
+    330,
+    312
+   ]
+  },
+  {
+   "text": "attila utca 181.",
+   "bbox": [
+    40,
+    316,
+    200,
+    333
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    351,
+    230,
+    368
+   ]
+  },
+  {
+   "text": "1983. 11. 30.",
+   "bbox": [
+    40,
+    377,
+    182,
+    393
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    436,
+    226,
+    462
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    483,
+    171,
+    504
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    512,
+    157,
+    533
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    565,
+    203,
+    591
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    613,
+    99,
+    629
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    642,
+    83,
+    658
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    671,
+    153,
+    691
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    699,
+    116,
+    720
+   ]
+  },
+  {
+   "text": "Kiss Sándor",
+   "bbox": [
+    450,
+    106,
+    759,
+    145
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    178,
+    676,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    243,
+    754,
+    269
+   ]
+  },
+  {
+   "text": "2005 – 2008",
+   "bbox": [
+    450,
+    296,
+    601,
+    313
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Németh Logisztika Zrt.",
+   "bbox": [
+    450,
+    321,
+    1152,
+    346
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    375,
+    654,
+    402
+   ]
+  },
+  {
+   "text": "2001 – 2006",
+   "bbox": [
+    450,
+    429,
+    601,
+    446
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    454,
+    1143,
+    479
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    481,
+    674,
+    505
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    450,
+    526,
+    601,
+    543
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    450,
+    551,
+    771,
+    576
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    578,
+    751,
+    602
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

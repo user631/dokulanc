@@ -1,0 +1,449 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "BALOGH ÉLELMISZER KFT.",
+  "uzlet_cim": "H-5487 Váctóthida, Váci utca 89.",
+  "adoszam": "60849210-3-18",
+  "datum": "2024.05.23.",
+  "ido": "18:19",
+  "nyugtaszam": "1008/46047",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "14 695 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ALMA 1KG",
+    "osszeg": "1992"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "2442"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "156"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "906"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "669"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1215"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2501"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "230"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "1752"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "368"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1393"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "1071"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "BALOGH ÉLELMISZER KFT.",
+   "bbox": [
+    107,
+    30,
+    415,
+    50
+   ]
+  },
+  {
+   "text": "H-5487 Váctóthida, Váci utca 89.",
+   "bbox": [
+    85,
+    66,
+    437,
+    82
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 60849210-3-18",
+   "bbox": [
+    140,
+    89,
+    382,
+    104
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    215,
+    133,
+    307,
+    148
+   ]
+  },
+  {
+   "text": "3 DB x 664",
+   "bbox": [
+    24,
+    174,
+    134,
+    185
+   ]
+  },
+  {
+   "text": "ALMA 1KG",
+   "bbox": [
+    24,
+    198,
+    128,
+    211
+   ]
+  },
+  {
+   "text": "1992 A00",
+   "bbox": [
+    394,
+    198,
+    498,
+    211
+   ]
+  },
+  {
+   "text": "2 DB x 1221",
+   "bbox": [
+    24,
+    226,
+    145,
+    237
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    251,
+    193,
+    263
+   ]
+  },
+  {
+   "text": "2442 B00",
+   "bbox": [
+    394,
+    250,
+    498,
+    263
+   ]
+  },
+  {
+   "text": "2 DB x 78",
+   "bbox": [
+    24,
+    278,
+    123,
+    289
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    303,
+    102,
+    315
+   ]
+  },
+  {
+   "text": "156 C00",
+   "bbox": [
+    407,
+    302,
+    498,
+    315
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    331,
+    219,
+    344
+   ]
+  },
+  {
+   "text": "906 C00",
+   "bbox": [
+    407,
+    331,
+    498,
+    344
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    360,
+    167,
+    373
+   ]
+  },
+  {
+   "text": "669 B00",
+   "bbox": [
+    407,
+    360,
+    498,
+    373
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    389,
+    154,
+    402
+   ]
+  },
+  {
+   "text": "1215 A00",
+   "bbox": [
+    394,
+    389,
+    498,
+    402
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    418,
+    141,
+    431
+   ]
+  },
+  {
+   "text": "2501 C00",
+   "bbox": [
+    394,
+    418,
+    498,
+    431
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    447,
+    206,
+    463
+   ]
+  },
+  {
+   "text": "230 C00",
+   "bbox": [
+    407,
+    447,
+    498,
+    460
+   ]
+  },
+  {
+   "text": "3 DB x 584",
+   "bbox": [
+    24,
+    475,
+    134,
+    486
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    499,
+    128,
+    512
+   ]
+  },
+  {
+   "text": "1752 C00",
+   "bbox": [
+    394,
+    499,
+    498,
+    512
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    529,
+    206,
+    541
+   ]
+  },
+  {
+   "text": "368 A00",
+   "bbox": [
+    407,
+    528,
+    498,
+    541
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    558,
+    154,
+    570
+   ]
+  },
+  {
+   "text": "1393 A00",
+   "bbox": [
+    394,
+    557,
+    498,
+    570
+   ]
+  },
+  {
+   "text": "3 DB x 357",
+   "bbox": [
+    24,
+    585,
+    134,
+    596
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    609,
+    206,
+    622
+   ]
+  },
+  {
+   "text": "1071 B00",
+   "bbox": [
+    394,
+    609,
+    498,
+    622
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    645,
+    174,
+    666
+   ]
+  },
+  {
+   "text": "14 695 Ft",
+   "bbox": [
+    363,
+    650,
+    498,
+    666
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    686,
+    128,
+    702
+   ]
+  },
+  {
+   "text": "14 695 Ft",
+   "bbox": [
+    381,
+    689,
+    498,
+    702
+   ]
+  },
+  {
+   "text": "2024.05.23.",
+   "bbox": [
+    24,
+    731,
+    145,
+    743
+   ]
+  },
+  {
+   "text": "18:19",
+   "bbox": [
+    443,
+    731,
+    498,
+    743
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 1008/46047",
+   "bbox": [
+    24,
+    757,
+    266,
+    774
+   ]
+  },
+  {
+   "text": "AP A20963581",
+   "bbox": [
+    24,
+    789,
+    156,
+    801
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    170,
+    827,
+    351,
+    843
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  522,
+  887
+ ]
+}

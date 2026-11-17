@@ -1,0 +1,334 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "MAGYAR DISZKONT KFT.",
+  "uzlet_cim": "H-6287 Hídkőrös, Tapolcanémetii utca 56.",
+  "adoszam": "21563791-4-15",
+  "datum": "2025.03.18.",
+  "ido": "17:05",
+  "nyugtaszam": "0776/24898",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "12 223 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1554"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "366"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "6423"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1560"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "267"
+   },
+   {
+    "megnevezes": "VAJ 200G",
+    "osszeg": "1260"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "429"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "364"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MAGYAR DISZKONT KFT.",
+   "bbox": [
+    113,
+    34,
+    413,
+    50
+   ]
+  },
+  {
+   "text": "H-6287 Hídkőrös, Tapolcanémetii utca",
+   "bbox": [
+    29,
+    65,
+    497,
+    86
+   ]
+  },
+  {
+   "text": "56.",
+   "bbox": [
+    243,
+    94,
+    282,
+    109
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 21563791-4-15",
+   "bbox": [
+    120,
+    119,
+    406,
+    136
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    215,
+    165,
+    312,
+    182
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    210,
+    206,
+    224
+   ]
+  },
+  {
+   "text": "1554 B00",
+   "bbox": [
+    390,
+    207,
+    502,
+    224
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    241,
+    220,
+    255
+   ]
+  },
+  {
+   "text": "366 A00",
+   "bbox": [
+    404,
+    238,
+    502,
+    255
+   ]
+  },
+  {
+   "text": "3 DB x 2141",
+   "bbox": [
+    24,
+    269,
+    156,
+    283
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    294,
+    150,
+    311
+   ]
+  },
+  {
+   "text": "6423 C00",
+   "bbox": [
+    390,
+    294,
+    502,
+    311
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    328,
+    164,
+    342
+   ]
+  },
+  {
+   "text": "1560 A00",
+   "bbox": [
+    390,
+    325,
+    502,
+    342
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    359,
+    206,
+    373
+   ]
+  },
+  {
+   "text": "267 A00",
+   "bbox": [
+    404,
+    356,
+    502,
+    373
+   ]
+  },
+  {
+   "text": "VAJ 200G",
+   "bbox": [
+    24,
+    387,
+    136,
+    404
+   ]
+  },
+  {
+   "text": "1260 A00",
+   "bbox": [
+    390,
+    387,
+    502,
+    404
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    418,
+    150,
+    435
+   ]
+  },
+  {
+   "text": "429 A00",
+   "bbox": [
+    404,
+    418,
+    502,
+    435
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    449,
+    220,
+    466
+   ]
+  },
+  {
+   "text": "364 A00",
+   "bbox": [
+    404,
+    449,
+    502,
+    466
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    491,
+    184,
+    512
+   ]
+  },
+  {
+   "text": "12 223 Ft",
+   "bbox": [
+    358,
+    492,
+    502,
+    512
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    532,
+    164,
+    550
+   ]
+  },
+  {
+   "text": "12 223 Ft",
+   "bbox": [
+    376,
+    533,
+    502,
+    550
+   ]
+  },
+  {
+   "text": "2025.03.18.",
+   "bbox": [
+    24,
+    578,
+    167,
+    593
+   ]
+  },
+  {
+   "text": "17:05",
+   "bbox": [
+    437,
+    578,
+    502,
+    593
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 0776/24898",
+   "bbox": [
+    24,
+    607,
+    310,
+    627
+   ]
+  },
+  {
+   "text": "AP A41242798",
+   "bbox": [
+    24,
+    640,
+    180,
+    655
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    120,
+    682,
+    406,
+    699
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  526,
+  744
+ ]
+}

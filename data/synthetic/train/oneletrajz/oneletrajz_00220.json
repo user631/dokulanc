@@ -1,0 +1,311 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Dudás Anna",
+  "email": "dudas.anna@gmail.com",
+  "telefon": "+36 30 308 1663",
+  "lakcim": "H-8123 Győr, József attila utca 183.",
+  "szuletesi_datum": "1991. 04. 17.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2009 – 2012"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2005 – 2009"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Oláh Tech Bt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2016 – 2017"
+   },
+   {
+    "ceg": "Jónás Trade Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2015 – 2016"
+   },
+   {
+    "ceg": "Pap Logisztika Zrt.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2013 – 2015"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Java",
+   "ügyfélkezelés",
+   "SQL",
+   "Docker",
+   "Linux",
+   "JavaScript"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Dudás Anna",
+   "bbox": [
+    489,
+    89,
+    751,
+    122
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    522,
+    156,
+    718,
+    178
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    207,
+    153,
+    221
+   ]
+  },
+  {
+   "text": "dudas.anna@gmail.com",
+   "bbox": [
+    330,
+    207,
+    540,
+    225
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    236,
+    165,
+    250
+   ]
+  },
+  {
+   "text": "+36 30 308 1663",
+   "bbox": [
+    330,
+    236,
+    477,
+    250
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    264,
+    163,
+    279
+   ]
+  },
+  {
+   "text": "H-8123 Győr, József attila utca 183.",
+   "bbox": [
+    330,
+    265,
+    638,
+    283
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    293,
+    243,
+    308
+   ]
+  },
+  {
+   "text": "1991. 04. 17.",
+   "bbox": [
+    330,
+    294,
+    443,
+    308
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    343,
+    309,
+    365
+   ]
+  },
+  {
+   "text": "2016 – 2017",
+   "bbox": [
+    90,
+    392,
+    199,
+    406
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Oláh Tech Bt.",
+   "bbox": [
+    89,
+    415,
+    386,
+    434
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    90,
+    454,
+    199,
+    468
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Jónás Trade Zrt.",
+   "bbox": [
+    90,
+    477,
+    427,
+    496
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    90,
+    516,
+    199,
+    530
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Pap Logisztika Zrt.",
+   "bbox": [
+    89,
+    539,
+    435,
+    558
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    588,
+    238,
+    610
+   ]
+  },
+  {
+   "text": "2009 – 2012",
+   "bbox": [
+    90,
+    637,
+    199,
+    651
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    660,
+    588,
+    679
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    683,
+    263,
+    701
+   ]
+  },
+  {
+   "text": "2005 – 2009",
+   "bbox": [
+    90,
+    722,
+    199,
+    736
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    90,
+    745,
+    328,
+    764
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    768,
+    254,
+    786
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    817,
+    214,
+    839
+   ]
+  },
+  {
+   "text": "olasz (A2), angol (B2)",
+   "bbox": [
+    90,
+    866,
+    276,
+    884
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    911,
+    211,
+    933
+   ]
+  },
+  {
+   "text": "Java, ügyfélkezelés, SQL, Docker, Linux, JavaScript",
+   "bbox": [
+    90,
+    960,
+    541,
+    978
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

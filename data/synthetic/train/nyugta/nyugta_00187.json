@@ -1,0 +1,361 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "SIMON DISZKONT BT.",
+  "uzlet_cim": "H-1209 Borsodnémeti, Felsőmelléki utca 230.",
+  "adoszam": "70713826-4-41",
+  "datum": "2024.04.15.",
+  "ido": "15:36",
+  "nyugtaszam": "7726/49007",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "7 379 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "705"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "935"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "98"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "963"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "301"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "599"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "2556"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1222"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "SIMON DISZKONT BT.",
+   "bbox": [
+    134,
+    35,
+    422,
+    51
+   ]
+  },
+  {
+   "text": "H-1209 Borsodnémeti, Felsőmelléki utca",
+   "bbox": [
+    31,
+    67,
+    525,
+    87
+   ]
+  },
+  {
+   "text": "230.",
+   "bbox": [
+    252,
+    96,
+    304,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 70713826-4-41",
+   "bbox": [
+    135,
+    123,
+    421,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    227,
+    169,
+    329,
+    187
+   ]
+  },
+  {
+   "text": "3 DB x 235",
+   "bbox": [
+    24,
+    212,
+    154,
+    227
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    238,
+    220,
+    259
+   ]
+  },
+  {
+   "text": "705 A00",
+   "bbox": [
+    434,
+    238,
+    532,
+    255
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    272,
+    206,
+    287
+   ]
+  },
+  {
+   "text": "935 A00",
+   "bbox": [
+    434,
+    270,
+    532,
+    287
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    304,
+    108,
+    319
+   ]
+  },
+  {
+   "text": "98 C00",
+   "bbox": [
+    448,
+    302,
+    532,
+    319
+   ]
+  },
+  {
+   "text": "3 DB x 321",
+   "bbox": [
+    24,
+    334,
+    154,
+    349
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    362,
+    207,
+    377
+   ]
+  },
+  {
+   "text": "963 A00",
+   "bbox": [
+    434,
+    360,
+    532,
+    377
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    392,
+    220,
+    409
+   ]
+  },
+  {
+   "text": "301 A00",
+   "bbox": [
+    434,
+    392,
+    532,
+    409
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    424,
+    150,
+    441
+   ]
+  },
+  {
+   "text": "599 A00",
+   "bbox": [
+    434,
+    424,
+    532,
+    441
+   ]
+  },
+  {
+   "text": "2 DB x 1278",
+   "bbox": [
+    24,
+    456,
+    167,
+    471
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    482,
+    164,
+    499
+   ]
+  },
+  {
+   "text": "2556 B00",
+   "bbox": [
+    420,
+    482,
+    532,
+    499
+   ]
+  },
+  {
+   "text": "2 DB x 611",
+   "bbox": [
+    24,
+    514,
+    154,
+    529
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    540,
+    248,
+    557
+   ]
+  },
+  {
+   "text": "1222 C00",
+   "bbox": [
+    420,
+    540,
+    532,
+    557
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    583,
+    177,
+    605
+   ]
+  },
+  {
+   "text": "7 379 Ft",
+   "bbox": [
+    396,
+    585,
+    532,
+    605
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    624,
+    136,
+    643
+   ]
+  },
+  {
+   "text": "7 379 Ft",
+   "bbox": [
+    420,
+    626,
+    532,
+    643
+   ]
+  },
+  {
+   "text": "2024.04.15.",
+   "bbox": [
+    24,
+    672,
+    167,
+    688
+   ]
+  },
+  {
+   "text": "15:36",
+   "bbox": [
+    467,
+    672,
+    532,
+    688
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 7726/49007",
+   "bbox": [
+    24,
+    703,
+    310,
+    723
+   ]
+  },
+  {
+   "text": "AP A33996316",
+   "bbox": [
+    24,
+    736,
+    180,
+    752
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    208,
+    779,
+    348,
+    797
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  556,
+  842
+ ]
+}

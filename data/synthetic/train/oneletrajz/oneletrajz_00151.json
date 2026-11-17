@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Molnár Éva",
+  "email": "molnar.eva@outlook.com",
+  "telefon": "+36 30 921 3388",
+  "lakcim": "H-4889 Nyíregyháza, Belsői tér 226.",
+  "szuletesi_datum": "1982. október 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "programtervező informatikus BSc",
+    "idoszak": "2002 – 2007"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1998 – 2002"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Dudás Logisztika Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2006 – 2008"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Python",
+   "Linux",
+   "Git",
+   "csapatmunka",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    88,
+    215,
+    112
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    136,
+    104,
+    152
+   ]
+  },
+  {
+   "text": "molnar.eva@outlook.com",
+   "bbox": [
+    40,
+    160,
+    267,
+    178
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    194,
+    115,
+    210
+   ]
+  },
+  {
+   "text": "+36 30 921 3388",
+   "bbox": [
+    40,
+    219,
+    194,
+    234
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    251,
+    111,
+    268
+   ]
+  },
+  {
+   "text": "H-4889 Nyíregyháza, Belsői tér 226.",
+   "bbox": [
+    40,
+    275,
+    361,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    309,
+    202,
+    326
+   ]
+  },
+  {
+   "text": "1982. október 9.",
+   "bbox": [
+    40,
+    333,
+    187,
+    350
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    394,
+    202,
+    418
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    438,
+    145,
+    459
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    183,
+    516
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    536,
+    104,
+    557
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    565,
+    90,
+    581
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    593,
+    66,
+    609
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    620,
+    163,
+    641
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    649,
+    81,
+    665
+   ]
+  },
+  {
+   "text": "Molnár Éva",
+   "bbox": [
+    450,
+    88,
+    706,
+    135
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    163,
+    568,
+    193
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    232,
+    717,
+    257
+   ]
+  },
+  {
+   "text": "2006 – 2008",
+   "bbox": [
+    450,
+    284,
+    572,
+    300
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Dudás Logisztika Bt.",
+   "bbox": [
+    450,
+    309,
+    909,
+    332
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    361,
+    629,
+    387
+   ]
+  },
+  {
+   "text": "2002 – 2007",
+   "bbox": [
+    450,
+    414,
+    572,
+    430
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    450,
+    439,
+    843,
+    462
+   ]
+  },
+  {
+   "text": "programtervező informatikus BSc",
+   "bbox": [
+    450,
+    464,
+    772,
+    486
+   ]
+  },
+  {
+   "text": "1998 – 2002",
+   "bbox": [
+    450,
+    508,
+    572,
+    524
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    449,
+    533,
+    730,
+    556
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    559,
+    639,
+    580
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

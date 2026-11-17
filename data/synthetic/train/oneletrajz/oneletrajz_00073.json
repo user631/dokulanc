@@ -1,0 +1,284 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Szabó Gyula",
+  "email": "szabo.gyula@example.hu",
+  "telefon": "+36 70 967 7873",
+  "lakcim": "H-4133 Kishetvenbánya, Tamásifai utca 225.",
+  "szuletesi_datum": "1986. február 9.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Eötvös Loránd Tudományegyetem",
+    "szak": "pszichológia MA",
+    "idoszak": "2004 – 2009"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2000 – 2004"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Kiss Tech Kft.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2012 – 2015"
+   },
+   {
+    "ceg": "Mezei Szolgáltató Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2008 – 2012"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)"
+  ],
+  "keszsegek": [
+   "projektmenedzsment",
+   "C#",
+   "Excel"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szabó Gyula",
+   "bbox": [
+    502,
+    92,
+    739,
+    133
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    567,
+    160,
+    672,
+    184
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    216,
+    149,
+    230
+   ]
+  },
+  {
+   "text": "szabo.gyula@example.hu",
+   "bbox": [
+    330,
+    216,
+    547,
+    234
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    247,
+    162,
+    261
+   ]
+  },
+  {
+   "text": "+36 70 967 7873",
+   "bbox": [
+    330,
+    248,
+    476,
+    261
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    278,
+    156,
+    292
+   ]
+  },
+  {
+   "text": "H-4133 Kishetvenbánya, Tamásifai utca 225.",
+   "bbox": [
+    330,
+    278,
+    708,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    309,
+    233,
+    323
+   ]
+  },
+  {
+   "text": "1986. február 9.",
+   "bbox": [
+    330,
+    309,
+    467,
+    323
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    360,
+    294,
+    381
+   ]
+  },
+  {
+   "text": "2012 – 2015",
+   "bbox": [
+    90,
+    412,
+    198,
+    425
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Kiss Tech Kft.",
+   "bbox": [
+    90,
+    436,
+    477,
+    455
+   ]
+  },
+  {
+   "text": "2008 – 2012",
+   "bbox": [
+    90,
+    478,
+    198,
+    491
+   ]
+  },
+  {
+   "text": "rendszergazda – Mezei Szolgáltató Bt.",
+   "bbox": [
+    90,
+    502,
+    436,
+    521
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    552,
+    228,
+    574
+   ]
+  },
+  {
+   "text": "2004 – 2009",
+   "bbox": [
+    90,
+    605,
+    198,
+    618
+   ]
+  },
+  {
+   "text": "Eötvös Loránd Tudományegyetem",
+   "bbox": [
+    90,
+    629,
+    403,
+    648
+   ]
+  },
+  {
+   "text": "pszichológia MA",
+   "bbox": [
+    90,
+    654,
+    229,
+    672
+   ]
+  },
+  {
+   "text": "2000 – 2004",
+   "bbox": [
+    90,
+    696,
+    198,
+    709
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    720,
+    324,
+    735
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    745,
+    257,
+    763
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    795,
+    206,
+    817
+   ]
+  },
+  {
+   "text": "spanyol (B1)",
+   "bbox": [
+    90,
+    846,
+    195,
+    865
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    893,
+    197,
+    915
+   ]
+  },
+  {
+   "text": "projektmenedzsment, C#, Excel",
+   "bbox": [
+    90,
+    945,
+    355,
+    963
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

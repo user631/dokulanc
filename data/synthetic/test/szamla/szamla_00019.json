@@ -1,0 +1,417 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "A-2025/03478",
+  "kiallitas_datuma": "2025. 04. 10.",
+  "teljesites_datuma": "2025. 04. 10.",
+  "fizetesi_hatarido": "2025. 04. 25.",
+  "elado_nev": "Kovács Logisztika Zrt.",
+  "elado_cim": "H-8675 Veszprém, Petőfi utca 148.",
+  "elado_adoszam": "42631505-5-17",
+  "vevo_nev": "Szabó Zrt.",
+  "vevo_cim": "H-1140 Bácsharaszti, József attila utca 85.",
+  "vevo_adoszam": "46548623-2-41",
+  "bankszamla": "58855885-01214378",
+  "fizetesi_mod": "bankkártya",
+  "netto_osszesen": "26 440 Ft",
+  "afa_osszesen": "7 139 Ft",
+  "brutto_osszesen": "33 579 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Irodaszer csomag",
+    "mennyiseg": "4 db",
+    "egysegar": "6 610",
+    "netto": "26 440",
+    "afa_kulcs": "27%",
+    "afa": "7 139",
+    "brutto": "33 579"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS",
+   "bbox": [
+    132,
+    139,
+    241,
+    161
+   ]
+  },
+  {
+   "text": "SZÁMLA / INVOICE",
+   "bbox": [
+    713,
+    117,
+    1133,
+    163
+   ]
+  },
+  {
+   "text": "Sorszám: A-2025/03478",
+   "bbox": [
+    881,
+    182,
+    1133,
+    204
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    107,
+    262,
+    184,
+    279
+   ]
+  },
+  {
+   "text": "Kovács Logisztika Zrt.",
+   "bbox": [
+    107,
+    297,
+    371,
+    319
+   ]
+  },
+  {
+   "text": "H-8675 Veszprém, Petőfi utca 148.",
+   "bbox": [
+    107,
+    329,
+    431,
+    350
+   ]
+  },
+  {
+   "text": "Adószám: 42631505-5-17",
+   "bbox": [
+    106,
+    358,
+    343,
+    378
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    629,
+    262,
+    697,
+    279
+   ]
+  },
+  {
+   "text": "Szabó Zrt.",
+   "bbox": [
+    630,
+    297,
+    752,
+    314
+   ]
+  },
+  {
+   "text": "H-1140 Bácsharaszti, József attila utca 85.",
+   "bbox": [
+    630,
+    329,
+    1022,
+    349
+   ]
+  },
+  {
+   "text": "Adószám: 46548623-2-41",
+   "bbox": [
+    629,
+    358,
+    872,
+    378
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    107,
+    425,
+    293,
+    441
+   ]
+  },
+  {
+   "text": "2025. 04. 10.",
+   "bbox": [
+    407,
+    430,
+    530,
+    445
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    107,
+    456,
+    304,
+    477
+   ]
+  },
+  {
+   "text": "2025. 04. 10.",
+   "bbox": [
+    407,
+    461,
+    530,
+    476
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    107,
+    487,
+    295,
+    503
+   ]
+  },
+  {
+   "text": "2025. 04. 25.",
+   "bbox": [
+    407,
+    492,
+    531,
+    507
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    107,
+    518,
+    250,
+    534
+   ]
+  },
+  {
+   "text": "bankkártya",
+   "bbox": [
+    406,
+    518,
+    512,
+    539
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    107,
+    560,
+    215,
+    578
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    517,
+    561,
+    585,
+    578
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    661,
+    560,
+    744,
+    578
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    816,
+    560,
+    866,
+    574
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    870,
+    557,
+    927,
+    574
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    984,
+    557,
+    1026,
+    574
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1073,
+    560,
+    1133,
+    574
+   ]
+  },
+  {
+   "text": "4 db",
+   "bbox": [
+    517,
+    600,
+    551,
+    617
+   ]
+  },
+  {
+   "text": "6 610",
+   "bbox": [
+    700,
+    601,
+    743,
+    614
+   ]
+  },
+  {
+   "text": "26 440",
+   "bbox": [
+    811,
+    601,
+    866,
+    617
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    601,
+    927,
+    617
+   ]
+  },
+  {
+   "text": "7 139",
+   "bbox": [
+    984,
+    604,
+    1025,
+    617
+   ]
+  },
+  {
+   "text": "33 579",
+   "bbox": [
+    1080,
+    604,
+    1133,
+    617
+   ]
+  },
+  {
+   "text": "Irodaszer csomag",
+   "bbox": [
+    107,
+    600,
+    246,
+    618
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    648,
+    655,
+    803,
+    672
+   ]
+  },
+  {
+   "text": "26 440 Ft",
+   "bbox": [
+    1040,
+    656,
+    1133,
+    676
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    660,
+    686,
+    803,
+    707
+   ]
+  },
+  {
+   "text": "7 139 Ft",
+   "bbox": [
+    1058,
+    691,
+    1133,
+    711
+   ]
+  },
+  {
+   "text": "Fizetendő összesen:",
+   "bbox": [
+    575,
+    725,
+    803,
+    742
+   ]
+  },
+  {
+   "text": "33 579 Ft",
+   "bbox": [
+    1030,
+    726,
+    1133,
+    746
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 58855885-01214378",
+   "bbox": [
+    107,
+    790,
+    456,
+    809
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    107,
+    818,
+    623,
+    835
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    494,
+    1631,
+    745,
+    1646
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

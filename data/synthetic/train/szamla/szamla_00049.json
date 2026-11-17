@@ -1,0 +1,561 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "KFT-2024/03898",
+  "kiallitas_datuma": "2024. szeptember 4.",
+  "teljesites_datuma": "2024. szeptember 1.",
+  "fizetesi_hatarido": "2024. szeptember 19.",
+  "elado_nev": "Tóth Tech Bt.",
+  "elado_cim": "H-6631 Tapolcanémeti, Szombathelyi utca 132.",
+  "elado_adoszam": "10469930-2-27",
+  "vevo_nev": "Fodor Trade Zrt.",
+  "vevo_cim": "H-4286 Mezőmindszentvára, Szabadság utca 228.",
+  "vevo_adoszam": "17655011-3-16",
+  "bankszamla": "HU70 1171 7281 7451 1099 5886 0430",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "76 610 Ft",
+  "afa_osszesen": "20 685 Ft",
+  "brutto_osszesen": "97 295 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Nyomtatópapír A4 500 lap",
+    "mennyiseg": "1 csomag",
+    "egysegar": "2 800",
+    "netto": "2 800",
+    "afa_kulcs": "27%",
+    "afa": "756",
+    "brutto": "3 556"
+   },
+   {
+    "megnevezes": "Szállítási díj",
+    "mennyiseg": "1 alkalom",
+    "egysegar": "4 100",
+    "netto": "4 100",
+    "afa_kulcs": "27%",
+    "afa": "1 107",
+    "brutto": "5 207"
+   },
+   {
+    "megnevezes": "Monitor 27\"",
+    "mennyiseg": "1 db",
+    "egysegar": "69 710",
+    "netto": "69 710",
+    "afa_kulcs": "27%",
+    "afa": "18 822",
+    "brutto": "88 532"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH",
+   "bbox": [
+    121,
+    108,
+    193,
+    132
+   ]
+  },
+  {
+   "text": "SZÁMLA",
+   "bbox": [
+    958,
+    88,
+    1163,
+    134
+   ]
+  },
+  {
+   "text": "Sorszám: KFT-2024/03898",
+   "bbox": [
+    796,
+    153,
+    1163,
+    179
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    77,
+    233,
+    164,
+    255
+   ]
+  },
+  {
+   "text": "Fodor Trade Zrt.",
+   "bbox": [
+    77,
+    273,
+    323,
+    294
+   ]
+  },
+  {
+   "text": "H-4286 Mezőmindszentvára, Szabadság",
+   "bbox": [
+    77,
+    308,
+    584,
+    334
+   ]
+  },
+  {
+   "text": "utca 228.",
+   "bbox": [
+    77,
+    343,
+    197,
+    362
+   ]
+  },
+  {
+   "text": "Adószám: 17655011-3-16",
+   "bbox": [
+    77,
+    374,
+    408,
+    395
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    233,
+    724,
+    255
+   ]
+  },
+  {
+   "text": "Tóth Tech Bt.",
+   "bbox": [
+    630,
+    272,
+    830,
+    294
+   ]
+  },
+  {
+   "text": "H-6631 Tapolcanémeti, Szombathelyi",
+   "bbox": [
+    630,
+    308,
+    1104,
+    334
+   ]
+  },
+  {
+   "text": "utca 132.",
+   "bbox": [
+    630,
+    343,
+    750,
+    362
+   ]
+  },
+  {
+   "text": "Adószám: 10469930-2-27",
+   "bbox": [
+    630,
+    374,
+    961,
+    395
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    77,
+    445,
+    317,
+    466
+   ]
+  },
+  {
+   "text": "2024. szeptember 4.",
+   "bbox": [
+    377,
+    446,
+    641,
+    471
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    77,
+    480,
+    339,
+    506
+   ]
+  },
+  {
+   "text": "2024. szeptember 1.",
+   "bbox": [
+    377,
+    481,
+    641,
+    506
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    77,
+    515,
+    323,
+    536
+   ]
+  },
+  {
+   "text": "2024. szeptember 19.",
+   "bbox": [
+    377,
+    516,
+    657,
+    541
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    77,
+    550,
+    265,
+    571
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    377,
+    550,
+    478,
+    571
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    77,
+    597,
+    229,
+    619
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    511,
+    599,
+    601,
+    619
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    637,
+    597,
+    750,
+    619
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    811,
+    597,
+    880,
+    615
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    869,
+    593,
+    945,
+    615
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1000,
+    593,
+    1048,
+    615
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1084,
+    597,
+    1163,
+    615
+   ]
+  },
+  {
+   "text": "1 csomag",
+   "bbox": [
+    511,
+    643,
+    616,
+    663
+   ]
+  },
+  {
+   "text": "2 800",
+   "bbox": [
+    686,
+    643,
+    750,
+    659
+   ]
+  },
+  {
+   "text": "2 800",
+   "bbox": [
+    816,
+    643,
+    880,
+    659
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    643,
+    945,
+    659
+   ]
+  },
+  {
+   "text": "756",
+   "bbox": [
+    1006,
+    643,
+    1048,
+    659
+   ]
+  },
+  {
+   "text": "3 556",
+   "bbox": [
+    1099,
+    643,
+    1163,
+    659
+   ]
+  },
+  {
+   "text": "Nyomtatópapír A4 500 lap",
+   "bbox": [
+    77,
+    641,
+    368,
+    663
+   ]
+  },
+  {
+   "text": "1 alkalom",
+   "bbox": [
+    511,
+    680,
+    618,
+    697
+   ]
+  },
+  {
+   "text": "4 100",
+   "bbox": [
+    686,
+    681,
+    750,
+    697
+   ]
+  },
+  {
+   "text": "4 100",
+   "bbox": [
+    816,
+    681,
+    880,
+    697
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    681,
+    945,
+    697
+   ]
+  },
+  {
+   "text": "1 107",
+   "bbox": [
+    984,
+    681,
+    1048,
+    697
+   ]
+  },
+  {
+   "text": "5 207",
+   "bbox": [
+    1099,
+    681,
+    1163,
+    697
+   ]
+  },
+  {
+   "text": "Szállítási díj",
+   "bbox": [
+    77,
+    679,
+    210,
+    701
+   ]
+  },
+  {
+   "text": "1 db",
+   "bbox": [
+    511,
+    718,
+    561,
+    735
+   ]
+  },
+  {
+   "text": "69 710",
+   "bbox": [
+    672,
+    719,
+    750,
+    735
+   ]
+  },
+  {
+   "text": "69 710",
+   "bbox": [
+    802,
+    719,
+    880,
+    735
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    893,
+    719,
+    945,
+    735
+   ]
+  },
+  {
+   "text": "18 822",
+   "bbox": [
+    970,
+    719,
+    1048,
+    735
+   ]
+  },
+  {
+   "text": "88 532",
+   "bbox": [
+    1085,
+    719,
+    1163,
+    735
+   ]
+  },
+  {
+   "text": "Monitor 27\"",
+   "bbox": [
+    77,
+    718,
+    206,
+    735
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    624,
+    775,
+    833,
+    797
+   ]
+  },
+  {
+   "text": "76 610 Ft",
+   "bbox": [
+    1035,
+    778,
+    1163,
+    797
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    643,
+    809,
+    833,
+    836
+   ]
+  },
+  {
+   "text": "20 685 Ft",
+   "bbox": [
+    1035,
+    817,
+    1163,
+    836
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    569,
+    854,
+    833,
+    880
+   ]
+  },
+  {
+   "text": "97 295 Ft",
+   "bbox": [
+    1026,
+    856,
+    1163,
+    875
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU70 1171 7281 7451 1099 5886 0430",
+   "bbox": [
+    77,
+    923,
+    776,
+    942
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

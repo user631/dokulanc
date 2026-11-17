@@ -1,0 +1,400 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "PAPP KISBOLT BT.",
+  "uzlet_cim": "H-9381 Pusztafürdőhalas, Érdi utca 48.",
+  "adoszam": "34296776-2-05",
+  "datum": "2024.10.25.",
+  "ido": "11:31",
+  "nyugtaszam": "5117/04935",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "11 174 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "424"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "1522"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1239"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "319"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "3710"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "785"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1210"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "310"
+   },
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "1003"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "496"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "156"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "PAPP KISBOLT BT.",
+   "bbox": [
+    194,
+    33,
+    418,
+    49
+   ]
+  },
+  {
+   "text": "H-9381 Pusztafürdőhalas, Érdi utca 48.",
+   "bbox": [
+    78,
+    64,
+    534,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 34296776-2-05",
+   "bbox": [
+    174,
+    91,
+    438,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    261,
+    137,
+    351,
+    154
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    180,
+    167,
+    200
+   ]
+  },
+  {
+   "text": "424 B00",
+   "bbox": [
+    497,
+    181,
+    588,
+    196
+   ]
+  },
+  {
+   "text": "2 DB x 761",
+   "bbox": [
+    24,
+    211,
+    134,
+    224
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    237,
+    219,
+    252
+   ]
+  },
+  {
+   "text": "1522 B00",
+   "bbox": [
+    484,
+    237,
+    588,
+    252
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    268,
+    154,
+    283
+   ]
+  },
+  {
+   "text": "1239 C00",
+   "bbox": [
+    484,
+    268,
+    588,
+    283
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    299,
+    206,
+    314
+   ]
+  },
+  {
+   "text": "319 A00",
+   "bbox": [
+    497,
+    299,
+    588,
+    314
+   ]
+  },
+  {
+   "text": "2 DB x 1855",
+   "bbox": [
+    24,
+    329,
+    145,
+    342
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    355,
+    141,
+    370
+   ]
+  },
+  {
+   "text": "3710 C00",
+   "bbox": [
+    484,
+    355,
+    588,
+    370
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    386,
+    232,
+    401
+   ]
+  },
+  {
+   "text": "785 C00",
+   "bbox": [
+    497,
+    386,
+    588,
+    401
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    417,
+    154,
+    432
+   ]
+  },
+  {
+   "text": "1210 C00",
+   "bbox": [
+    484,
+    417,
+    588,
+    432
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    448,
+    193,
+    463
+   ]
+  },
+  {
+   "text": "310 C00",
+   "bbox": [
+    497,
+    448,
+    588,
+    463
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    479,
+    180,
+    494
+   ]
+  },
+  {
+   "text": "1003 C00",
+   "bbox": [
+    484,
+    479,
+    588,
+    494
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    510,
+    206,
+    525
+   ]
+  },
+  {
+   "text": "496 B00",
+   "bbox": [
+    497,
+    510,
+    588,
+    525
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    541,
+    206,
+    560
+   ]
+  },
+  {
+   "text": "156 B00",
+   "bbox": [
+    497,
+    541,
+    588,
+    556
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    580,
+    159,
+    602
+   ]
+  },
+  {
+   "text": "11 174 Ft",
+   "bbox": [
+    453,
+    585,
+    588,
+    602
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    620,
+    154,
+    640
+   ]
+  },
+  {
+   "text": "11 174 Ft",
+   "bbox": [
+    471,
+    625,
+    588,
+    640
+   ]
+  },
+  {
+   "text": "2024.10.25.",
+   "bbox": [
+    24,
+    670,
+    156,
+    683
+   ]
+  },
+  {
+   "text": "11:31",
+   "bbox": [
+    528,
+    670,
+    588,
+    683
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5117/04935",
+   "bbox": [
+    24,
+    697,
+    288,
+    716
+   ]
+  },
+  {
+   "text": "AP A75347274",
+   "bbox": [
+    24,
+    732,
+    168,
+    745
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    246,
+    771,
+    366,
+    789
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  612,
+  835
+ ]
+}

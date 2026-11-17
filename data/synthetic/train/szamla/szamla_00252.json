@@ -1,0 +1,408 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2024/00355",
+  "kiallitas_datuma": "2024.10.25.",
+  "teljesites_datuma": "2024.10.20.",
+  "fizetesi_hatarido": "2024.11.09.",
+  "elado_nev": "Molnár Szolgáltató Zrt.",
+  "elado_cim": "H-3672 Hetvenberény, Dózsa györgy utca 103.",
+  "elado_adoszam": "26270052-4-44",
+  "vevo_nev": "Tóth Trade Kft.",
+  "vevo_cim": "H-7261 Érd, Tótharasztii utca 11.",
+  "vevo_adoszam": "77973935-2-36",
+  "bankszamla": "HU23 8537 5428 2147 3353 0000 0000",
+  "fizetesi_mod": "átutalás",
+  "netto_osszesen": "8 380 Ft",
+  "afa_osszesen": "1 508 Ft",
+  "brutto_osszesen": "9 888 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Tejtermék csomag",
+    "mennyiseg": "2 csomag",
+    "egysegar": "4 190",
+    "netto": "8 380",
+    "afa_kulcs": "18%",
+    "afa": "1 508",
+    "brutto": "9 888"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "MOLNÁR",
+   "bbox": [
+    98,
+    106,
+    208,
+    126
+   ]
+  },
+  {
+   "text": "Elektronikus számla",
+   "bbox": [
+    770,
+    92,
+    1167,
+    125
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2024/00355",
+   "bbox": [
+    883,
+    149,
+    1167,
+    168
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    73,
+    230,
+    142,
+    248
+   ]
+  },
+  {
+   "text": "Tóth Trade Kft.",
+   "bbox": [
+    73,
+    269,
+    260,
+    287
+   ]
+  },
+  {
+   "text": "H-7261 Érd, Tótharasztii utca 11.",
+   "bbox": [
+    73,
+    299,
+    411,
+    326
+   ]
+  },
+  {
+   "text": "Adószám: 77973935-2-36",
+   "bbox": [
+    73,
+    337,
+    340,
+    355
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    230,
+    708,
+    248
+   ]
+  },
+  {
+   "text": "Molnár Szolgáltató Zrt.",
+   "bbox": [
+    630,
+    269,
+    909,
+    293
+   ]
+  },
+  {
+   "text": "H-3672 Hetvenberény, Dózsa györgy utca 103.",
+   "bbox": [
+    630,
+    304,
+    1109,
+    327
+   ]
+  },
+  {
+   "text": "Adószám: 26270052-4-44",
+   "bbox": [
+    630,
+    337,
+    897,
+    355
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma:",
+   "bbox": [
+    73,
+    408,
+    261,
+    426
+   ]
+  },
+  {
+   "text": "2024.10.25.",
+   "bbox": [
+    373,
+    409,
+    495,
+    426
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma:",
+   "bbox": [
+    73,
+    443,
+    270,
+    466
+   ]
+  },
+  {
+   "text": "2024.10.20.",
+   "bbox": [
+    373,
+    444,
+    495,
+    461
+   ]
+  },
+  {
+   "text": "Fizetési határidő:",
+   "bbox": [
+    73,
+    478,
+    260,
+    496
+   ]
+  },
+  {
+   "text": "2024.11.09.",
+   "bbox": [
+    373,
+    479,
+    495,
+    496
+   ]
+  },
+  {
+   "text": "Fizetési mód:",
+   "bbox": [
+    73,
+    513,
+    215,
+    531
+   ]
+  },
+  {
+   "text": "átutalás",
+   "bbox": [
+    373,
+    513,
+    450,
+    531
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    73,
+    560,
+    187,
+    580
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    560,
+    582,
+    580
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    663,
+    560,
+    751,
+    580
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    831,
+    560,
+    882,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    881,
+    556,
+    948,
+    575
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1007,
+    556,
+    1052,
+    575
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1105,
+    560,
+    1167,
+    575
+   ]
+  },
+  {
+   "text": "2 csomag",
+   "bbox": [
+    510,
+    604,
+    595,
+    624
+   ]
+  },
+  {
+   "text": "4 190",
+   "bbox": [
+    701,
+    604,
+    751,
+    619
+   ]
+  },
+  {
+   "text": "8 380",
+   "bbox": [
+    832,
+    604,
+    882,
+    619
+   ]
+  },
+  {
+   "text": "18%",
+   "bbox": [
+    908,
+    604,
+    948,
+    619
+   ]
+  },
+  {
+   "text": "1 508",
+   "bbox": [
+    1002,
+    604,
+    1052,
+    619
+   ]
+  },
+  {
+   "text": "9 888",
+   "bbox": [
+    1117,
+    604,
+    1167,
+    619
+   ]
+  },
+  {
+   "text": "Tejtermék csomag",
+   "bbox": [
+    73,
+    603,
+    237,
+    624
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    672,
+    663,
+    837,
+    681
+   ]
+  },
+  {
+   "text": "8 380 Ft",
+   "bbox": [
+    1080,
+    664,
+    1168,
+    681
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    679,
+    697,
+    837,
+    720
+   ]
+  },
+  {
+   "text": "1 508 Ft",
+   "bbox": [
+    1080,
+    703,
+    1168,
+    720
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    639,
+    741,
+    837,
+    765
+   ]
+  },
+  {
+   "text": "9 888 Ft",
+   "bbox": [
+    1076,
+    742,
+    1167,
+    759
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: HU23 8537 5428 2147 3353 0000 0000",
+   "bbox": [
+    73,
+    809,
+    637,
+    826
+   ]
+  },
+  {
+   "text": "Köszönjük, hogy minket választott!",
+   "bbox": [
+    475,
+    1662,
+    765,
+    1680
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

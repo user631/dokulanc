@@ -1,0 +1,364 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Farkas Zsófia",
+  "email": "farkas.zsofia@gmail.com",
+  "telefon": "06 1 127 9049",
+  "lakcim": "H-8873 Cegléd, Dunaújvárosi utca 178.",
+  "szuletesi_datum": "1994. július 21.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2014 – 2019"
+   },
+   {
+    "intezmeny": "Bolyai János Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2010 – 2014"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Horváth Logisztika Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2026 – jelenleg"
+   },
+   {
+    "ceg": "Szabó Trade Zrt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2022 – jelenleg"
+   },
+   {
+    "ceg": "Jakab Tech Kft.",
+    "pozicio": "junior fejlesztő",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "csapatmunka",
+   "Python",
+   "C#",
+   "ügyfélkezelés",
+   "Excel",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    97,
+    192,
+    118
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    96,
+    157
+   ]
+  },
+  {
+   "text": "farkas.zsofia@gmail.com",
+   "bbox": [
+    40,
+    166,
+    252,
+    184
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    109,
+    213
+   ]
+  },
+  {
+   "text": "06 1 127 9049",
+   "bbox": [
+    40,
+    222,
+    158,
+    236
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    255,
+    103,
+    269
+   ]
+  },
+  {
+   "text": "H-8873 Cegléd, Dunaújvárosi utca 178.",
+   "bbox": [
+    40,
+    277,
+    370,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    311,
+    183,
+    325
+   ]
+  },
+  {
+   "text": "1994. július 21.",
+   "bbox": [
+    40,
+    333,
+    172,
+    352
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    394,
+    181,
+    415
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    436,
+    131,
+    455
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    490,
+    160,
+    511
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    532,
+    159,
+    551
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    559,
+    102,
+    578
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    587,
+    63,
+    601
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    612,
+    162,
+    632
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    640,
+    88,
+    655
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    668,
+    73,
+    682
+   ]
+  },
+  {
+   "text": "Farkas Zsófia",
+   "bbox": [
+    450,
+    105,
+    724,
+    139
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    173,
+    665,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    237,
+    680,
+    261
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    450,
+    288,
+    589,
+    307
+   ]
+  },
+  {
+   "text": "projektmenedzser – Horváth Logisztika Kft.",
+   "bbox": [
+    450,
+    312,
+    900,
+    334
+   ]
+  },
+  {
+   "text": "2022 – jelenleg",
+   "bbox": [
+    450,
+    354,
+    589,
+    373
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szabó Trade Zrt.",
+   "bbox": [
+    450,
+    378,
+    859,
+    400
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    450,
+    420,
+    558,
+    435
+   ]
+  },
+  {
+   "text": "junior fejlesztő – Jakab Tech Kft.",
+   "bbox": [
+    449,
+    444,
+    795,
+    466
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    496,
+    605,
+    520
+   ]
+  },
+  {
+   "text": "2014 – 2019",
+   "bbox": [
+    450,
+    547,
+    558,
+    562
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    450,
+    571,
+    734,
+    593
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    450,
+    596,
+    761,
+    616
+   ]
+  },
+  {
+   "text": "2010 – 2014",
+   "bbox": [
+    450,
+    638,
+    558,
+    653
+   ]
+  },
+  {
+   "text": "Bolyai János Gimnázium",
+   "bbox": [
+    450,
+    662,
+    701,
+    684
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    688,
+    634,
+    707
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

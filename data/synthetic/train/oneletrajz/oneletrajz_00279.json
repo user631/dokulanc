@@ -1,0 +1,341 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Lengyel Imre",
+  "email": "lengyel.imre@freemail.hu",
+  "telefon": "06 1 562 8205",
+  "lakcim": "H-3558 Cegléd, Kishídi utca 125.",
+  "szuletesi_datum": "2003. 04. 08.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "villamosmérnök BSc",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Orsós Logisztika Bt.",
+    "pozicio": "ügyfélszolgálati munkatárs",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Fülöp Logisztika Kft.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "prezentáció",
+   "Git",
+   "Linux",
+   "Python"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    109,
+    222,
+    132
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    158,
+    101,
+    173
+   ]
+  },
+  {
+   "text": "lengyel.imre@freemail.hu",
+   "bbox": [
+    40,
+    182,
+    266,
+    201
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    216,
+    111,
+    231
+   ]
+  },
+  {
+   "text": "06 1 562 8205",
+   "bbox": [
+    40,
+    240,
+    168,
+    255
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    274,
+    109,
+    289
+   ]
+  },
+  {
+   "text": "H-3558 Cegléd, Kishídi utca 125.",
+   "bbox": [
+    40,
+    298,
+    333,
+    317
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    332,
+    193,
+    347
+   ]
+  },
+  {
+   "text": "2003. 04. 08.",
+   "bbox": [
+    40,
+    356,
+    158,
+    371
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    415,
+    202,
+    438
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    461,
+    139,
+    480
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    40,
+    489,
+    140,
+    508
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    541,
+    189,
+    564
+   ]
+  },
+  {
+   "text": "Docker",
+   "bbox": [
+    40,
+    587,
+    109,
+    602
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    615,
+    152,
+    634
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    643,
+    67,
+    658
+   ]
+  },
+  {
+   "text": "Linux",
+   "bbox": [
+    40,
+    671,
+    92,
+    686
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    699,
+    107,
+    718
+   ]
+  },
+  {
+   "text": "Lengyel Imre",
+   "bbox": [
+    450,
+    119,
+    736,
+    161
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    189,
+    667,
+    213
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    253,
+    692,
+    277
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    450,
+    304,
+    597,
+    324
+   ]
+  },
+  {
+   "text": "ügyfélszolgálati munkatárs – Orsós Logisztika Bt.",
+   "bbox": [
+    450,
+    330,
+    994,
+    352
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    372,
+    597,
+    392
+   ]
+  },
+  {
+   "text": "projektmenedzser – Fülöp Logisztika Kft.",
+   "bbox": [
+    450,
+    398,
+    899,
+    420
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    451,
+    617,
+    475
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    502,
+    570,
+    518
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    528,
+    1024,
+    550
+   ]
+  },
+  {
+   "text": "villamosmérnök BSc",
+   "bbox": [
+    450,
+    554,
+    648,
+    570
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    596,
+    570,
+    612
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    622,
+    763,
+    644
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    648,
+    695,
+    668
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

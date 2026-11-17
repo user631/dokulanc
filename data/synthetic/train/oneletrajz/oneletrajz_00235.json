@@ -1,0 +1,264 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Mészáros Viktória",
+  "email": "meszaros.viktoria@example.hu",
+  "telefon": "06 1 714 5889",
+  "lakcim": "H-2627 Váckereszthida, Soproni utca 41.",
+  "szuletesi_datum": "2000. 08. 12.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "2019 – 2023"
+   },
+   {
+    "intezmeny": "Arany János Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fodor Tech Zrt.",
+    "pozicio": "értékesítő",
+    "idoszak": "2023 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "spanyol (B1)",
+   "német (B1)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "JavaScript",
+   "projektmenedzsment",
+   "B kategóriás jogosítvány",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Mészáros Viktória",
+   "bbox": [
+    395,
+    101,
+    845,
+    139
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    560,
+    166,
+    680,
+    192
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    219,
+    167,
+    234
+   ]
+  },
+  {
+   "text": "meszaros.viktoria@example.hu",
+   "bbox": [
+    330,
+    219,
+    626,
+    238
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    248,
+    179,
+    263
+   ]
+  },
+  {
+   "text": "06 1 714 5889",
+   "bbox": [
+    330,
+    249,
+    471,
+    263
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    276,
+    174,
+    292
+   ]
+  },
+  {
+   "text": "H-2627 Váckereszthida, Soproni utca 41.",
+   "bbox": [
+    330,
+    277,
+    723,
+    296
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    305,
+    273,
+    321
+   ]
+  },
+  {
+   "text": "2000. 08. 12.",
+   "bbox": [
+    330,
+    307,
+    461,
+    321
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    356,
+    347,
+    379
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    90,
+    404,
+    238,
+    423
+   ]
+  },
+  {
+   "text": "értékesítő – Fodor Tech Zrt.",
+   "bbox": [
+    90,
+    426,
+    403,
+    443
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    477,
+    263,
+    500
+   ]
+  },
+  {
+   "text": "2019 – 2023",
+   "bbox": [
+    90,
+    526,
+    212,
+    540
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    90,
+    548,
+    307,
+    568
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    90,
+    571,
+    242,
+    590
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    90,
+    611,
+    212,
+    625
+   ]
+  },
+  {
+   "text": "Arany János Gimnázium",
+   "bbox": [
+    90,
+    632,
+    359,
+    653
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    656,
+    333,
+    675
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    706,
+    233,
+    729
+   ]
+  },
+  {
+   "text": "spanyol (B1), német (B1)",
+   "bbox": [
+    90,
+    754,
+    336,
+    773
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    800,
+    227,
+    823
+   ]
+  },
+  {
+   "text": "Linux, JavaScript, projektmenedzsment, B kategóriás jogosítvány, SAP",
+   "bbox": [
+    90,
+    848,
+    766,
+    867
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

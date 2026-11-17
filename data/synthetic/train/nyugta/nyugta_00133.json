@@ -1,0 +1,427 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "KIS ÉLELMISZER KFT.",
+  "uzlet_cim": "H-1123 Hetvenvára, Kossuth utca 17.",
+  "adoszam": "18251476-3-09",
+  "datum": "2026.05.13.",
+  "ido": "09:28",
+  "nyugtaszam": "8529/10435",
+  "fizetesi_mod": "KÉSZPÉNZ",
+  "vegosszeg": "18 627 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "PARIZSI 300G",
+    "osszeg": "2052"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "246"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "243"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "4302"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1364"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "2842"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1582"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "403"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1117"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "954"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "3522"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KIS ÉLELMISZER KFT.",
+   "bbox": [
+    128,
+    28,
+    394,
+    49
+   ]
+  },
+  {
+   "text": "H-1123 Hetvenvára, Kossuth utca 17.",
+   "bbox": [
+    51,
+    66,
+    471,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 18251476-3-09",
+   "bbox": [
+    129,
+    91,
+    393,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    216,
+    137,
+    306,
+    154
+   ]
+  },
+  {
+   "text": "2 DB x 1026",
+   "bbox": [
+    24,
+    180,
+    145,
+    193
+   ]
+  },
+  {
+   "text": "PARIZSI 300G",
+   "bbox": [
+    24,
+    206,
+    180,
+    221
+   ]
+  },
+  {
+   "text": "2052 A00",
+   "bbox": [
+    395,
+    206,
+    499,
+    221
+   ]
+  },
+  {
+   "text": "3 DB x 82",
+   "bbox": [
+    24,
+    236,
+    123,
+    249
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    262,
+    102,
+    277
+   ]
+  },
+  {
+   "text": "246 C00",
+   "bbox": [
+    408,
+    262,
+    499,
+    277
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    293,
+    206,
+    312
+   ]
+  },
+  {
+   "text": "243 A00",
+   "bbox": [
+    408,
+    293,
+    499,
+    308
+   ]
+  },
+  {
+   "text": "2 DB x 2151",
+   "bbox": [
+    24,
+    323,
+    145,
+    336
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    349,
+    271,
+    364
+   ]
+  },
+  {
+   "text": "4302 C00",
+   "bbox": [
+    395,
+    349,
+    499,
+    364
+   ]
+  },
+  {
+   "text": "2 DB x 682",
+   "bbox": [
+    24,
+    379,
+    134,
+    392
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    405,
+    206,
+    420
+   ]
+  },
+  {
+   "text": "1364 A00",
+   "bbox": [
+    395,
+    405,
+    499,
+    420
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    436,
+    141,
+    451
+   ]
+  },
+  {
+   "text": "2842 C00",
+   "bbox": [
+    395,
+    436,
+    499,
+    451
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    467,
+    154,
+    482
+   ]
+  },
+  {
+   "text": "1582 C00",
+   "bbox": [
+    395,
+    467,
+    499,
+    482
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    498,
+    141,
+    513
+   ]
+  },
+  {
+   "text": "403 C00",
+   "bbox": [
+    408,
+    498,
+    499,
+    513
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    529,
+    193,
+    544
+   ]
+  },
+  {
+   "text": "1117 C00",
+   "bbox": [
+    395,
+    529,
+    499,
+    544
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    560,
+    128,
+    575
+   ]
+  },
+  {
+   "text": "954 A00",
+   "bbox": [
+    408,
+    560,
+    499,
+    575
+   ]
+  },
+  {
+   "text": "3 DB x 1174",
+   "bbox": [
+    24,
+    590,
+    145,
+    603
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    616,
+    154,
+    631
+   ]
+  },
+  {
+   "text": "3522 A00",
+   "bbox": [
+    395,
+    616,
+    499,
+    631
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    655,
+    174,
+    677
+   ]
+  },
+  {
+   "text": "18 627 Ft",
+   "bbox": [
+    364,
+    660,
+    499,
+    677
+   ]
+  },
+  {
+   "text": "KÉSZPÉNZ",
+   "bbox": [
+    24,
+    695,
+    128,
+    715
+   ]
+  },
+  {
+   "text": "18 627 Ft",
+   "bbox": [
+    382,
+    700,
+    499,
+    715
+   ]
+  },
+  {
+   "text": "2026.05.13.",
+   "bbox": [
+    24,
+    745,
+    156,
+    758
+   ]
+  },
+  {
+   "text": "09:28",
+   "bbox": [
+    439,
+    745,
+    499,
+    758
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8529/10435",
+   "bbox": [
+    24,
+    772,
+    288,
+    791
+   ]
+  },
+  {
+   "text": "AP A61615682",
+   "bbox": [
+    24,
+    807,
+    168,
+    820
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    129,
+    845,
+    393,
+    864
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  523,
+  910
+ ]
+}

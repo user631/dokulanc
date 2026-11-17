@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Rácz Anna",
+  "email": "racz.anna@gmail.com",
+  "telefon": "+36 70 221 8795",
+  "lakcim": "H-3285 Hídvég, Magyartamásii utca 14.",
+  "szuletesi_datum": "2000. 03. 15.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2019 – 2022"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "2015 – 2019"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Oláh Trade Bt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2023 – 2025"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)"
+  ],
+  "keszsegek": [
+   "prezentáció",
+   "Git",
+   "JavaScript",
+   "Java"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    94,
+    222,
+    117
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    143,
+    101,
+    158
+   ]
+  },
+  {
+   "text": "racz.anna@gmail.com",
+   "bbox": [
+    40,
+    167,
+    239,
+    186
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    201,
+    111,
+    216
+   ]
+  },
+  {
+   "text": "+36 70 221 8795",
+   "bbox": [
+    40,
+    225,
+    191,
+    240
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    259,
+    109,
+    274
+   ]
+  },
+  {
+   "text": "H-3285 Hídvég, Magyartamásii utca",
+   "bbox": [
+    40,
+    283,
+    360,
+    302
+   ]
+  },
+  {
+   "text": "14.",
+   "bbox": [
+    40,
+    307,
+    68,
+    322
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    341,
+    193,
+    356
+   ]
+  },
+  {
+   "text": "2000. 03. 15.",
+   "bbox": [
+    40,
+    365,
+    158,
+    380
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    424,
+    202,
+    447
+   ]
+  },
+  {
+   "text": "francia (A2)",
+   "bbox": [
+    40,
+    470,
+    151,
+    489
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    522,
+    189,
+    545
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    568,
+    152,
+    587
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    596,
+    67,
+    611
+   ]
+  },
+  {
+   "text": "JavaScript",
+   "bbox": [
+    40,
+    624,
+    141,
+    643
+   ]
+  },
+  {
+   "text": "Java",
+   "bbox": [
+    40,
+    652,
+    86,
+    667
+   ]
+  },
+  {
+   "text": "Rácz Anna",
+   "bbox": [
+    450,
+    103,
+    686,
+    137
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    174,
+    667,
+    198
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    692,
+    262
+   ]
+  },
+  {
+   "text": "2023 – 2025",
+   "bbox": [
+    450,
+    289,
+    570,
+    305
+   ]
+  },
+  {
+   "text": "rendszergazda – Oláh Trade Bt.",
+   "bbox": [
+    450,
+    315,
+    795,
+    337
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    368,
+    617,
+    392
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    450,
+    419,
+    570,
+    435
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    445,
+    726,
+    467
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    448,
+    471,
+    513,
+    491
+   ]
+  },
+  {
+   "text": "2015 – 2019",
+   "bbox": [
+    450,
+    513,
+    570,
+    529
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    450,
+    539,
+    787,
+    561
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    450,
+    565,
+    695,
+    585
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

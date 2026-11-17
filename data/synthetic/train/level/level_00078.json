@@ -1,0 +1,185 @@
+{
+ "doc_type": "level",
+ "variant": "scan",
+ "fields": {
+  "felado": "Farkas Zrt.",
+  "felado_cim": "H-6731 Lajoshetvenváros, Falvai utca 76.",
+  "cimzett": "Lengyel Petra",
+  "cimzett_cim": "H-7992 Keresztnádasd, Győri utca 231.",
+  "datum": "2025. 01. 23.",
+  "targy": "Fizetési felszólítás",
+  "ugyszam": "REF-2025/63414",
+  "hatarido": "2025. 02. 05",
+  "teendo": "a SZ-2025/00711 számú számla 116 000 Ft összegű tartozásának kiegyenlítése",
+  "alairo": "Kiss Péter"
+ },
+ "lines": [
+  {
+   "text": "Farkas Zrt.",
+   "bbox": [
+    135,
+    113,
+    299,
+    135
+   ]
+  },
+  {
+   "text": "H-6731 Lajoshetvenváros, Falvai utca 76.",
+   "bbox": [
+    135,
+    153,
+    527,
+    174
+   ]
+  },
+  {
+   "text": "Tel.: +36 30 956 2563   E-mail: info@farkas.hu",
+   "bbox": [
+    135,
+    180,
+    584,
+    201
+   ]
+  },
+  {
+   "text": "Lengyel Petra",
+   "bbox": [
+    135,
+    269,
+    299,
+    293
+   ]
+  },
+  {
+   "text": "H-7992 Keresztnádasd",
+   "bbox": [
+    135,
+    303,
+    388,
+    322
+   ]
+  },
+  {
+   "text": "Győri utca 231.",
+   "bbox": [
+    135,
+    336,
+    309,
+    361
+   ]
+  },
+  {
+   "text": "Szombathely, 2025. 01. 23.",
+   "bbox": [
+    800,
+    409,
+    1105,
+    434
+   ]
+  },
+  {
+   "text": "Tárgy: Fizetési felszólítás",
+   "bbox": [
+    135,
+    467,
+    435,
+    491
+   ]
+  },
+  {
+   "text": "Ügyszám: REF-2025/63414",
+   "bbox": [
+    135,
+    499,
+    447,
+    528
+   ]
+  },
+  {
+   "text": "Tisztelt Lengyel Petra!",
+   "bbox": [
+    135,
+    570,
+    389,
+    595
+   ]
+  },
+  {
+   "text": "Nyilvántartásunk szerint a(z) SZ-2025/00711 számú, 2024. 12. 18. kelt számla 116",
+   "bbox": [
+    134,
+    623,
+    1058,
+    648
+   ]
+  },
+  {
+   "text": "000 Ft összegű ellenértéke a mai napig nem érkezett meg számlánkra.",
+   "bbox": [
+    135,
+    660,
+    907,
+    685
+   ]
+  },
+  {
+   "text": "Kérjük, hogy a fenti összeget legkésőbb 2025. 02. 05 napjáig szíveskedjen átutalni a",
+   "bbox": [
+    135,
+    711,
+    1075,
+    736
+   ]
+  },
+  {
+   "text": "43851799-30976921-43403951 számú bankszámlánkra.",
+   "bbox": [
+    135,
+    748,
+    759,
+    767
+   ]
+  },
+  {
+   "text": "Amennyiben a befizetést időközben teljesítette, levelünket tekintse tárgytalannak.",
+   "bbox": [
+    135,
+    799,
+    1044,
+    824
+   ]
+  },
+  {
+   "text": "Üdvözlettel:",
+   "bbox": [
+    135,
+    876,
+    273,
+    899
+   ]
+  },
+  {
+   "text": "Kiss Péter",
+   "bbox": [
+    175,
+    978,
+    295,
+    996
+   ]
+  },
+  {
+   "text": "pénzügyi vezető",
+   "bbox": [
+    174,
+    1009,
+    341,
+    1032
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

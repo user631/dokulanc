@@ -1,0 +1,339 @@
+{
+ "doc_type": "nyugta",
+ "variant": "photo",
+ "fields": {
+  "uzlet_nev": "VÁRADI MARKET KFT.",
+  "uzlet_cim": "H-2348 Bácsgyörgyhalas, Györgynémetii utca 18.",
+  "adoszam": "44976620-2-15",
+  "datum": "2026.04.15.",
+  "ido": "18:47",
+  "nyugtaszam": "9462/84509",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "7 441 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "186"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "860"
+   },
+   {
+    "megnevezes": "TEJ 2,8% 1L",
+    "osszeg": "993"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2700"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1163"
+   },
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "273"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1266"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "VÁRADI MARKET KFT.",
+   "bbox": [
+    141,
+    30,
+    429,
+    51
+   ]
+  },
+  {
+   "text": "H-2348 Bácsgyörgyhalas, Györgynémetii",
+   "bbox": [
+    44,
+    67,
+    525,
+    88
+   ]
+  },
+  {
+   "text": "utca 18.",
+   "bbox": [
+    233,
+    96,
+    337,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 44976620-2-15",
+   "bbox": [
+    142,
+    123,
+    428,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    234,
+    169,
+    336,
+    187
+   ]
+  },
+  {
+   "text": "2 DB x 93",
+   "bbox": [
+    24,
+    212,
+    141,
+    227
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    240,
+    108,
+    255
+   ]
+  },
+  {
+   "text": "186 B00",
+   "bbox": [
+    449,
+    238,
+    547,
+    255
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    270,
+    136,
+    287
+   ]
+  },
+  {
+   "text": "860 B00",
+   "bbox": [
+    449,
+    270,
+    547,
+    287
+   ]
+  },
+  {
+   "text": "3 DB x 331",
+   "bbox": [
+    24,
+    302,
+    154,
+    317
+   ]
+  },
+  {
+   "text": "TEJ 2,8% 1L",
+   "bbox": [
+    24,
+    328,
+    178,
+    349
+   ]
+  },
+  {
+   "text": "993 A00",
+   "bbox": [
+    449,
+    328,
+    547,
+    345
+   ]
+  },
+  {
+   "text": "3 DB x 900",
+   "bbox": [
+    24,
+    360,
+    154,
+    375
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    386,
+    136,
+    403
+   ]
+  },
+  {
+   "text": "2700 C00",
+   "bbox": [
+    435,
+    386,
+    547,
+    403
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    418,
+    164,
+    435
+   ]
+  },
+  {
+   "text": "1163 A00",
+   "bbox": [
+    435,
+    418,
+    547,
+    435
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    452,
+    207,
+    467
+   ]
+  },
+  {
+   "text": "273 B00",
+   "bbox": [
+    449,
+    450,
+    547,
+    467
+   ]
+  },
+  {
+   "text": "2 DB x 633",
+   "bbox": [
+    24,
+    482,
+    154,
+    497
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    508,
+    150,
+    525
+   ]
+  },
+  {
+   "text": "1266 A00",
+   "bbox": [
+    435,
+    508,
+    547,
+    525
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    551,
+    177,
+    573
+   ]
+  },
+  {
+   "text": "7 441 Ft",
+   "bbox": [
+    411,
+    553,
+    547,
+    573
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    592,
+    165,
+    611
+   ]
+  },
+  {
+   "text": "7 441 Ft",
+   "bbox": [
+    435,
+    594,
+    547,
+    611
+   ]
+  },
+  {
+   "text": "2026.04.15.",
+   "bbox": [
+    24,
+    640,
+    167,
+    656
+   ]
+  },
+  {
+   "text": "18:47",
+   "bbox": [
+    482,
+    640,
+    547,
+    656
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 9462/84509",
+   "bbox": [
+    24,
+    671,
+    310,
+    691
+   ]
+  },
+  {
+   "text": "AP A70657296",
+   "bbox": [
+    24,
+    704,
+    180,
+    720
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    215,
+    747,
+    355,
+    765
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  571,
+  810
+ ]
+}

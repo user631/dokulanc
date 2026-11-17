@@ -1,0 +1,309 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szilágyi Julianna",
+  "email": "szilagyi.julianna@example.hu",
+  "telefon": "+36 20 814 3784",
+  "lakcim": "H-1386 Debrecen, Székesfehérvári utca 163.",
+  "szuletesi_datum": "2004. 02. 03.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Szegedi Tudományegyetem",
+    "szak": "programtervező informatikus MSc",
+    "idoszak": "2022 – 2026"
+   },
+   {
+    "intezmeny": "Kossuth Lajos Szakgimnázium",
+    "szak": "érettségi",
+    "idoszak": "2018 – 2022"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Juhász Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2033 – jelenleg"
+   },
+   {
+    "ceg": "Szalai és Társa Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Hegedüs Logisztika Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2026 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Linux",
+   "C#",
+   "Java",
+   "ügyfélkezelés"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Szilágyi Julianna",
+   "bbox": [
+    402,
+    109,
+    838,
+    156
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    176,
+    681,
+    202
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    229,
+    170,
+    245
+   ]
+  },
+  {
+   "text": "szilagyi.julianna@example.hu",
+   "bbox": [
+    330,
+    229,
+    626,
+    249
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    259,
+    181,
+    275
+   ]
+  },
+  {
+   "text": "+36 20 814 3784",
+   "bbox": [
+    330,
+    260,
+    510,
+    275
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    288,
+    177,
+    305
+   ]
+  },
+  {
+   "text": "H-1386 Debrecen, Székesfehérvári utca 163.",
+   "bbox": [
+    330,
+    288,
+    787,
+    308
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    318,
+    277,
+    335
+   ]
+  },
+  {
+   "text": "2004. 02. 03.",
+   "bbox": [
+    330,
+    320,
+    469,
+    335
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    370,
+    360,
+    394
+   ]
+  },
+  {
+   "text": "2033 – jelenleg",
+   "bbox": [
+    90,
+    419,
+    247,
+    439
+   ]
+  },
+  {
+   "text": "adatelemző – Juhász Consulting Kft.",
+   "bbox": [
+    90,
+    443,
+    519,
+    464
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    90,
+    483,
+    247,
+    503
+   ]
+  },
+  {
+   "text": "értékesítő – Szalai és Társa Kft.",
+   "bbox": [
+    90,
+    507,
+    462,
+    524
+   ]
+  },
+  {
+   "text": "2026 – jelenleg",
+   "bbox": [
+    90,
+    547,
+    247,
+    567
+   ]
+  },
+  {
+   "text": "tesztmérnök – Hegedüs Logisztika Kft.",
+   "bbox": [
+    90,
+    571,
+    546,
+    592
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    621,
+    270,
+    646
+   ]
+  },
+  {
+   "text": "2022 – 2026",
+   "bbox": [
+    90,
+    672,
+    221,
+    687
+   ]
+  },
+  {
+   "text": "Szegedi Tudományegyetem",
+   "bbox": [
+    90,
+    695,
+    416,
+    716
+   ]
+  },
+  {
+   "text": "programtervező informatikus MSc",
+   "bbox": [
+    90,
+    718,
+    431,
+    739
+   ]
+  },
+  {
+   "text": "2018 – 2022",
+   "bbox": [
+    90,
+    760,
+    221,
+    775
+   ]
+  },
+  {
+   "text": "Kossuth Lajos Szakgimnázium",
+   "bbox": [
+    90,
+    783,
+    445,
+    804
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    90,
+    806,
+    178,
+    827
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    857,
+    241,
+    882
+   ]
+  },
+  {
+   "text": "angol (C1), német (B2)",
+   "bbox": [
+    90,
+    906,
+    326,
+    927
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    953,
+    232,
+    978
+   ]
+  },
+  {
+   "text": "Linux, C#, Java, ügyfélkezelés",
+   "bbox": [
+    90,
+    1002,
+    396,
+    1023
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

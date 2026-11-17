@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Hegedűs László",
+  "anyja_neve": "Kiss Csilla",
+  "szuletesi_hely": "Törökhetvenbánya",
+  "szuletesi_datum": "2000. 10. 06.",
+  "lakcim": "H-2940 Felsőhídhalas, Magyarmártoni utca 4.",
+  "telefon": "+36 20 230 3778",
+  "email": "hegedus.laszlo@gmail.com",
+  "adoazonosito_jel": "8488562497",
+  "taj_szam": "981 877 480",
+  "kelt": "Nyírtapolcavég, 2024. 11. 23."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    465,
+    105,
+    774,
+    138
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    493,
+    157,
+    747,
+    173
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    100,
+    209,
+    298,
+    230
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    112,
+    261,
+    147,
+    274
+   ]
+  },
+  {
+   "text": "Hegedűs László",
+   "bbox": [
+    442,
+    253,
+    616,
+    279
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    112,
+    312,
+    202,
+    329
+   ]
+  },
+  {
+   "text": "Kiss Csilla",
+   "bbox": [
+    442,
+    309,
+    556,
+    329
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    112,
+    362,
+    221,
+    380
+   ]
+  },
+  {
+   "text": "Törökhetvenbánya",
+   "bbox": [
+    442,
+    359,
+    656,
+    385
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    112,
+    413,
+    215,
+    427
+   ]
+  },
+  {
+   "text": "2000. 10. 06.",
+   "bbox": [
+    442,
+    410,
+    614,
+    426
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    112,
+    464,
+    170,
+    478
+   ]
+  },
+  {
+   "text": "H-2940 Felsőhídhalas, Magyarmártoni utca 4.",
+   "bbox": [
+    442,
+    462,
+    998,
+    488
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    112,
+    515,
+    215,
+    529
+   ]
+  },
+  {
+   "text": "+36 20 230 3778",
+   "bbox": [
+    442,
+    512,
+    669,
+    528
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    112,
+    566,
+    198,
+    580
+   ]
+  },
+  {
+   "text": "hegedus.laszlo@gmail.com",
+   "bbox": [
+    442,
+    564,
+    740,
+    590
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    112,
+    617,
+    250,
+    635
+   ]
+  },
+  {
+   "text": "8488562497",
+   "bbox": [
+    442,
+    617,
+    612,
+    634
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    112,
+    669,
+    189,
+    682
+   ]
+  },
+  {
+   "text": "981 877 480",
+   "bbox": [
+    442,
+    664,
+    613,
+    681
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    100,
+    747,
+    262,
+    768
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    145,
+    789,
+    417,
+    807
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    145,
+    834,
+    269,
+    848
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    145,
+    879,
+    438,
+    897
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    100,
+    983,
+    136,
+    997
+   ]
+  },
+  {
+   "text": "Nyírtapolcavég, 2024. 11. 23.",
+   "bbox": [
+    190,
+    981,
+    513,
+    1006
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    928,
+    1032,
+    971,
+    1043
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

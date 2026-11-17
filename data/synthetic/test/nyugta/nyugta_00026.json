@@ -1,0 +1,416 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "RÁCZ KISBOLT KFT.",
+  "uzlet_cim": "H-8200 Zalaegerszeg, Ráctapolcai utca 102.",
+  "adoszam": "96705087-2-12",
+  "datum": "2025.08.22.",
+  "ido": "10:41",
+  "nyugtaszam": "4707/58409",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "14 539 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "520"
+   },
+   {
+    "megnevezes": "RIZS 1KG",
+    "osszeg": "2148"
+   },
+   {
+    "megnevezes": "MOSOGATOSZER 1L",
+    "osszeg": "3519"
+   },
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "578"
+   },
+   {
+    "megnevezes": "TOJAS 10DB",
+    "osszeg": "1485"
+   },
+   {
+    "megnevezes": "ZSEMLE",
+    "osszeg": "77"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "924"
+   },
+   {
+    "megnevezes": "BANAN 1KG",
+    "osszeg": "1220"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "2562"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "1606"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "RÁCZ KISBOLT KFT.",
+   "bbox": [
+    190,
+    28,
+    394,
+    47
+   ]
+  },
+  {
+   "text": "H-8200 Zalaegerszeg, Ráctapolcai utca 102.",
+   "bbox": [
+    82,
+    63,
+    502,
+    80
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 96705087-2-12",
+   "bbox": [
+    182,
+    86,
+    402,
+    100
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    253,
+    127,
+    332,
+    142
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    168,
+    178,
+    181
+   ]
+  },
+  {
+   "text": "520 B00",
+   "bbox": [
+    484,
+    168,
+    561,
+    181
+   ]
+  },
+  {
+   "text": "3 DB x 716",
+   "bbox": [
+    24,
+    196,
+    114,
+    207
+   ]
+  },
+  {
+   "text": "RIZS 1KG",
+   "bbox": [
+    24,
+    218,
+    112,
+    231
+   ]
+  },
+  {
+   "text": "2148 B00",
+   "bbox": [
+    473,
+    218,
+    561,
+    231
+   ]
+  },
+  {
+   "text": "3 DB x 1173",
+   "bbox": [
+    24,
+    246,
+    123,
+    257
+   ]
+  },
+  {
+   "text": "MOSOGATOSZER 1L",
+   "bbox": [
+    24,
+    268,
+    189,
+    281
+   ]
+  },
+  {
+   "text": "3519 C00",
+   "bbox": [
+    473,
+    268,
+    561,
+    281
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    296,
+    112,
+    309
+   ]
+  },
+  {
+   "text": "578 C00",
+   "bbox": [
+    484,
+    296,
+    561,
+    309
+   ]
+  },
+  {
+   "text": "TOJAS 10DB",
+   "bbox": [
+    24,
+    324,
+    134,
+    337
+   ]
+  },
+  {
+   "text": "1485 C00",
+   "bbox": [
+    473,
+    324,
+    561,
+    337
+   ]
+  },
+  {
+   "text": "ZSEMLE",
+   "bbox": [
+    24,
+    352,
+    90,
+    365
+   ]
+  },
+  {
+   "text": "77 A00",
+   "bbox": [
+    495,
+    352,
+    561,
+    365
+   ]
+  },
+  {
+   "text": "3 DB x 308",
+   "bbox": [
+    24,
+    380,
+    114,
+    391
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    402,
+    178,
+    415
+   ]
+  },
+  {
+   "text": "924 A00",
+   "bbox": [
+    484,
+    402,
+    561,
+    415
+   ]
+  },
+  {
+   "text": "2 DB x 610",
+   "bbox": [
+    24,
+    430,
+    114,
+    441
+   ]
+  },
+  {
+   "text": "BANAN 1KG",
+   "bbox": [
+    24,
+    452,
+    123,
+    465
+   ]
+  },
+  {
+   "text": "1220 C00",
+   "bbox": [
+    473,
+    452,
+    561,
+    465
+   ]
+  },
+  {
+   "text": "2 DB x 1281",
+   "bbox": [
+    24,
+    480,
+    123,
+    491
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    502,
+    134,
+    515
+   ]
+  },
+  {
+   "text": "2562 A00",
+   "bbox": [
+    473,
+    502,
+    561,
+    515
+   ]
+  },
+  {
+   "text": "2 DB x 803",
+   "bbox": [
+    24,
+    530,
+    114,
+    541
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    552,
+    200,
+    565
+   ]
+  },
+  {
+   "text": "1606 A00",
+   "bbox": [
+    473,
+    552,
+    561,
+    565
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    588,
+    154,
+    608
+   ]
+  },
+  {
+   "text": "14 539 Ft",
+   "bbox": [
+    444,
+    592,
+    561,
+    608
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    626,
+    145,
+    643
+   ]
+  },
+  {
+   "text": "14 539 Ft",
+   "bbox": [
+    462,
+    630,
+    561,
+    643
+   ]
+  },
+  {
+   "text": "2025.08.22.",
+   "bbox": [
+    24,
+    673,
+    134,
+    684
+   ]
+  },
+  {
+   "text": "10:41",
+   "bbox": [
+    511,
+    673,
+    561,
+    684
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 4707/58409",
+   "bbox": [
+    24,
+    698,
+    244,
+    714
+   ]
+  },
+  {
+   "text": "AP A16142477",
+   "bbox": [
+    24,
+    729,
+    144,
+    740
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK!",
+   "bbox": [
+    242,
+    765,
+    342,
+    781
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  585,
+  826
+ ]
+}

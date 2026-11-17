@@ -1,0 +1,263 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Lakatos Sándor",
+  "email": "lakatos.sandor@gmail.com",
+  "telefon": "+36 20 396 2873",
+  "lakcim": "H-4663 Fürdőfalva, József attila utca 156.",
+  "szuletesi_datum": "1975. 08. 16.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "anglisztika BA",
+    "idoszak": "1994 – 1999"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "általános tantervű osztály",
+    "idoszak": "1990 – 1994"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Varga Bt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "1998 – 1999"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)",
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "JavaScript",
+   "Java",
+   "Excel",
+   "prezentáció"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Lakatos Sándor",
+   "bbox": [
+    406,
+    107,
+    833,
+    148
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    550,
+    175,
+    689,
+    205
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    181,
+    251
+   ]
+  },
+  {
+   "text": "lakatos.sandor@gmail.com",
+   "bbox": [
+    330,
+    233,
+    641,
+    256
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    266,
+    195,
+    284
+   ]
+  },
+  {
+   "text": "+36 20 396 2873",
+   "bbox": [
+    330,
+    267,
+    538,
+    284
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    299,
+    190,
+    317
+   ]
+  },
+  {
+   "text": "H-4663 Fürdőfalva, József attila utca 156.",
+   "bbox": [
+    330,
+    298,
+    818,
+    321
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    332,
+    304,
+    350
+   ]
+  },
+  {
+   "text": "1975. 08. 16.",
+   "bbox": [
+    330,
+    333,
+    490,
+    350
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    386,
+    394,
+    412
+   ]
+  },
+  {
+   "text": "1998 – 1999",
+   "bbox": [
+    90,
+    439,
+    241,
+    456
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Varga Bt.",
+   "bbox": [
+    90,
+    464,
+    472,
+    489
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    518,
+    294,
+    545
+   ]
+  },
+  {
+   "text": "1994 – 1999",
+   "bbox": [
+    90,
+    572,
+    241,
+    589
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    90,
+    597,
+    425,
+    622
+   ]
+  },
+  {
+   "text": "anglisztika BA",
+   "bbox": [
+    90,
+    625,
+    252,
+    648
+   ]
+  },
+  {
+   "text": "1990 – 1994",
+   "bbox": [
+    90,
+    669,
+    241,
+    686
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    694,
+    429,
+    714
+   ]
+  },
+  {
+   "text": "általános tantervű osztály",
+   "bbox": [
+    90,
+    721,
+    391,
+    745
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    775,
+    260,
+    802
+   ]
+  },
+  {
+   "text": "angol (B2), olasz (A2)",
+   "bbox": [
+    90,
+    828,
+    345,
+    851
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    877,
+    250,
+    904
+   ]
+  },
+  {
+   "text": "JavaScript, Java, Excel, prezentáció",
+   "bbox": [
+    90,
+    929,
+    504,
+    953
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

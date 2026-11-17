@@ -1,0 +1,363 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "scan",
+ "fields": {
+  "nev": "Farkas Imre",
+  "email": "farkas.imre@outlook.com",
+  "telefon": "+36 20 813 3907",
+  "lakcim": "H-3968 Dunaligetfalva, Szombathelyi utca 242.",
+  "szuletesi_datum": "1977.01.01.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Debreceni Egyetem",
+    "szak": "közgazdász BSc",
+    "idoszak": "1995 – 1998"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "1991 – 1995"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Pásztor és Társa Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2003 – 2007"
+   },
+   {
+    "ceg": "Balogh és Társa Bt.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2002 – 2003"
+   },
+   {
+    "ceg": "Tóth Szolgáltató Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "1999 – 2002"
+   }
+  ],
+  "nyelvek": [
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Git",
+   "Python",
+   "SQL",
+   "prezentáció",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    94,
+    200,
+    116
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    141,
+    100,
+    156
+   ]
+  },
+  {
+   "text": "farkas.imre@outlook.com",
+   "bbox": [
+    40,
+    165,
+    264,
+    182
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    199,
+    112,
+    214
+   ]
+  },
+  {
+   "text": "+36 20 813 3907",
+   "bbox": [
+    40,
+    224,
+    190,
+    238
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    257,
+    106,
+    272
+   ]
+  },
+  {
+   "text": "H-3968 Dunaligetfalva, Szombathelyi",
+   "bbox": [
+    40,
+    281,
+    365,
+    301
+   ]
+  },
+  {
+   "text": "utca 242.",
+   "bbox": [
+    40,
+    306,
+    119,
+    320
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    339,
+    191,
+    354
+   ]
+  },
+  {
+   "text": "1977.01.01.",
+   "bbox": [
+    40,
+    364,
+    140,
+    378
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    424,
+    194,
+    446
+   ]
+  },
+  {
+   "text": "angol (B2)",
+   "bbox": [
+    40,
+    467,
+    133,
+    488
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    522,
+    169,
+    544
+   ]
+  },
+  {
+   "text": "Git",
+   "bbox": [
+    40,
+    565,
+    66,
+    581
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    593,
+    105,
+    614
+   ]
+  },
+  {
+   "text": "SQL",
+   "bbox": [
+    40,
+    622,
+    77,
+    639
+   ]
+  },
+  {
+   "text": "prezentáció",
+   "bbox": [
+    40,
+    649,
+    148,
+    670
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    677,
+    235,
+    698
+   ]
+  },
+  {
+   "text": "Farkas Imre",
+   "bbox": [
+    450,
+    105,
+    701,
+    140
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    450,
+    172,
+    568,
+    199
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    238,
+    690,
+    263
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    288,
+    569,
+    304
+   ]
+  },
+  {
+   "text": "tesztmérnök – Pásztor és Társa Kft.",
+   "bbox": [
+    450,
+    314,
+    822,
+    331
+   ]
+  },
+  {
+   "text": "2002 – 2003",
+   "bbox": [
+    450,
+    356,
+    569,
+    372
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Balogh és Társa Bt.",
+   "bbox": [
+    450,
+    382,
+    896,
+    404
+   ]
+  },
+  {
+   "text": "1999 – 2002",
+   "bbox": [
+    450,
+    424,
+    569,
+    440
+   ]
+  },
+  {
+   "text": "adatelemző – Tóth Szolgáltató Kft.",
+   "bbox": [
+    450,
+    450,
+    821,
+    472
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    504,
+    617,
+    529
+   ]
+  },
+  {
+   "text": "1995 – 1998",
+   "bbox": [
+    450,
+    554,
+    569,
+    570
+   ]
+  },
+  {
+   "text": "Debreceni Egyetem",
+   "bbox": [
+    450,
+    580,
+    656,
+    602
+   ]
+  },
+  {
+   "text": "közgazdász BSc",
+   "bbox": [
+    450,
+    605,
+    602,
+    627
+   ]
+  },
+  {
+   "text": "1991 – 1995",
+   "bbox": [
+    450,
+    648,
+    569,
+    664
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    674,
+    726,
+    691
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    450,
+    699,
+    637,
+    721
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

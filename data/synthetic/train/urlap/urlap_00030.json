@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "JELENTKEZÉSI LAP",
+  "nev": "Balázs István",
+  "anyja_neve": "Rácz Béla",
+  "szuletesi_hely": "Oroszhátvárad",
+  "szuletesi_datum": "1952. 02. 10.",
+  "lakcim": "H-5802 Tamásifalu, Bakonyi utca 11.",
+  "telefon": "+36 30 402 5015",
+  "email": "balazs.istvan@example.hu",
+  "adoazonosito_jel": "8310851707",
+  "taj_szam": "758 570 082",
+  "kelt": "Hátfa, 2025. 11. 17."
+ },
+ "lines": [
+  {
+   "text": "JELENTKEZÉSI LAP",
+   "bbox": [
+    465,
+    88,
+    774,
+    121
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    83,
+    192,
+    281,
+    213
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    95,
+    244,
+    130,
+    257
+   ]
+  },
+  {
+   "text": "Balázs István",
+   "bbox": [
+    418,
+    236,
+    572,
+    256
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    95,
+    295,
+    185,
+    312
+   ]
+  },
+  {
+   "text": "Rácz Béla",
+   "bbox": [
+    418,
+    288,
+    532,
+    308
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    95,
+    345,
+    204,
+    363
+   ]
+  },
+  {
+   "text": "Oroszhátvárad",
+   "bbox": [
+    418,
+    343,
+    590,
+    363
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    95,
+    396,
+    198,
+    410
+   ]
+  },
+  {
+   "text": "1952. 02. 10.",
+   "bbox": [
+    418,
+    393,
+    590,
+    409
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    95,
+    447,
+    153,
+    461
+   ]
+  },
+  {
+   "text": "H-5802 Tamásifalu, Bakonyi utca 11.",
+   "bbox": [
+    418,
+    441,
+    877,
+    468
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    95,
+    498,
+    198,
+    512
+   ]
+  },
+  {
+   "text": "+36 30 402 5015",
+   "bbox": [
+    418,
+    496,
+    646,
+    513
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    95,
+    549,
+    181,
+    563
+   ]
+  },
+  {
+   "text": "balazs.istvan@example.hu",
+   "bbox": [
+    418,
+    543,
+    713,
+    569
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    95,
+    600,
+    233,
+    618
+   ]
+  },
+  {
+   "text": "8310851707",
+   "bbox": [
+    418,
+    600,
+    588,
+    615
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    95,
+    652,
+    172,
+    665
+   ]
+  },
+  {
+   "text": "758 570 082",
+   "bbox": [
+    418,
+    649,
+    589,
+    665
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    83,
+    730,
+    245,
+    751
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    128,
+    772,
+    400,
+    790
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    128,
+    817,
+    252,
+    831
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    128,
+    862,
+    421,
+    880
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    83,
+    966,
+    119,
+    980
+   ]
+  },
+  {
+   "text": "Hátfa, 2025. 11. 17.",
+   "bbox": [
+    173,
+    964,
+    398,
+    985
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    945,
+    1015,
+    988,
+    1026
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

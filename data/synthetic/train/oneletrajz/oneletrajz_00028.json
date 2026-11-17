@@ -1,0 +1,343 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Lengyel Marianna",
+  "email": "lengyel.marianna@gmail.com",
+  "telefon": "+36 30 689 5925",
+  "lakcim": "H-4084 Nyékhídvárad, Petőfi sándor utca 159.",
+  "szuletesi_datum": "1987. 09. 18.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2007 – 2010"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "érettségi",
+    "idoszak": "2003 – 2007"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Sárközi Consulting Kft.",
+    "pozicio": "adatelemző",
+    "idoszak": "2015 – 2016"
+   },
+   {
+    "ceg": "Kozma Tech Zrt.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2013 – 2015"
+   },
+   {
+    "ceg": "Szalai Zrt.",
+    "pozicio": "rendszergazda",
+    "idoszak": "2011 – 2013"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)"
+  ],
+  "keszsegek": [
+   "ügyfélkezelés",
+   "csapatmunka",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    90,
+    213,
+    111
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    137,
+    97,
+    151
+   ]
+  },
+  {
+   "text": "lengyel.marianna@gmail.com",
+   "bbox": [
+    40,
+    160,
+    295,
+    178
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    193,
+    109,
+    207
+   ]
+  },
+  {
+   "text": "+36 30 689 5925",
+   "bbox": [
+    40,
+    216,
+    187,
+    230
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    248,
+    107,
+    263
+   ]
+  },
+  {
+   "text": "H-4084 Nyékhídvárad, Petőfi sándor",
+   "bbox": [
+    40,
+    272,
+    355,
+    290
+   ]
+  },
+  {
+   "text": "utca 159.",
+   "bbox": [
+    40,
+    295,
+    120,
+    309
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    327,
+    187,
+    342
+   ]
+  },
+  {
+   "text": "1987. 09. 18.",
+   "bbox": [
+    40,
+    351,
+    153,
+    365
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    410,
+    196,
+    431
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    453,
+    130,
+    472
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    506,
+    181,
+    527
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    549,
+    160,
+    568
+   ]
+  },
+  {
+   "text": "csapatmunka",
+   "bbox": [
+    40,
+    576,
+    159,
+    595
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    603,
+    226,
+    622
+   ]
+  },
+  {
+   "text": "Lengyel Marianna",
+   "bbox": [
+    450,
+    99,
+    829,
+    140
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    450,
+    168,
+    637,
+    186
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    231,
+    688,
+    254
+   ]
+  },
+  {
+   "text": "2015 – 2016",
+   "bbox": [
+    450,
+    282,
+    570,
+    297
+   ]
+  },
+  {
+   "text": "adatelemző – Sárközi Consulting Kft.",
+   "bbox": [
+    450,
+    305,
+    830,
+    326
+   ]
+  },
+  {
+   "text": "2013 – 2015",
+   "bbox": [
+    450,
+    348,
+    570,
+    363
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Kozma Tech Zrt.",
+   "bbox": [
+    450,
+    371,
+    812,
+    392
+   ]
+  },
+  {
+   "text": "2011 – 2013",
+   "bbox": [
+    450,
+    414,
+    570,
+    429
+   ]
+  },
+  {
+   "text": "rendszergazda – Szalai Zrt.",
+   "bbox": [
+    450,
+    438,
+    729,
+    458
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    488,
+    610,
+    513
+   ]
+  },
+  {
+   "text": "2007 – 2010",
+   "bbox": [
+    450,
+    541,
+    570,
+    556
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    450,
+    564,
+    988,
+    585
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    450,
+    591,
+    641,
+    610
+   ]
+  },
+  {
+   "text": "2003 – 2007",
+   "bbox": [
+    450,
+    632,
+    570,
+    647
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    450,
+    655,
+    715,
+    672
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    682,
+    533,
+    701
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc_type": "urlap",
+ "variant": "clean",
+ "fields": {
+  "urlap_cime": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+  "nev": "Farkas Lajos",
+  "anyja_neve": "Balogh Klára",
+  "szuletesi_hely": "Város",
+  "szuletesi_datum": "2001. 01. 13.",
+  "lakcim": "H-3744 Kecskemét, Hetvenbányai utca 7.",
+  "telefon": "+36 20 126 9586",
+  "email": "farkas.lajos@example.hu",
+  "adoazonosito_jel": "8489552274",
+  "taj_szam": "886 068 552",
+  "kelt": "Mátraszékvár, 2026. 08. 18."
+ },
+ "lines": [
+  {
+   "text": "ADATMÓDOSÍTÓ NYOMTATVÁNY",
+   "bbox": [
+    331,
+    86,
+    910,
+    120
+   ]
+  },
+  {
+   "text": "Kérjük, nyomtatott betűkkel töltse ki!",
+   "bbox": [
+    480,
+    139,
+    760,
+    156
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    81,
+    192,
+    292,
+    214
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    93,
+    245,
+    130,
+    259
+   ]
+  },
+  {
+   "text": "Farkas Lajos",
+   "bbox": [
+    422,
+    242,
+    537,
+    264
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    93,
+    297,
+    189,
+    315
+   ]
+  },
+  {
+   "text": "Balogh Klára",
+   "bbox": [
+    422,
+    292,
+    543,
+    314
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    93,
+    349,
+    211,
+    367
+   ]
+  },
+  {
+   "text": "Város",
+   "bbox": [
+    422,
+    344,
+    477,
+    361
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    93,
+    401,
+    203,
+    415
+   ]
+  },
+  {
+   "text": "2001. 01. 13.",
+   "bbox": [
+    422,
+    402,
+    545,
+    418
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    93,
+    453,
+    155,
+    467
+   ]
+  },
+  {
+   "text": "H-3744 Kecskemét, Hetvenbányai utca 7.",
+   "bbox": [
+    422,
+    449,
+    819,
+    471
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    93,
+    505,
+    203,
+    519
+   ]
+  },
+  {
+   "text": "+36 20 126 9586",
+   "bbox": [
+    422,
+    507,
+    587,
+    523
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    93,
+    557,
+    186,
+    571
+   ]
+  },
+  {
+   "text": "farkas.lajos@example.hu",
+   "bbox": [
+    422,
+    552,
+    659,
+    574
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    93,
+    609,
+    238,
+    627
+   ]
+  },
+  {
+   "text": "8489552274",
+   "bbox": [
+    422,
+    605,
+    542,
+    621
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    93,
+    661,
+    174,
+    675
+   ]
+  },
+  {
+   "text": "886 068 552",
+   "bbox": [
+    422,
+    657,
+    542,
+    673
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    81,
+    740,
+    251,
+    762
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    126,
+    783,
+    419,
+    801
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    126,
+    828,
+    260,
+    842
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    126,
+    873,
+    435,
+    891
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    81,
+    977,
+    119,
+    992
+   ]
+  },
+  {
+   "text": "Mátraszékvár, 2026. 08. 18.",
+   "bbox": [
+    171,
+    973,
+    434,
+    993
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    946,
+    1026,
+    991,
+    1038
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

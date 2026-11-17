@@ -1,0 +1,351 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Szabó Mária",
+  "email": "szabo.maria@gmail.com",
+  "telefon": "+36 20 101 2164",
+  "lakcim": "H-2832 Háthida, Tatabányai utca 238.",
+  "szuletesi_datum": "2002. 05. 02.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Pécsi Tudományegyetem",
+    "szak": "jogász",
+    "idoszak": "2021 – 2025"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "érettségi",
+    "idoszak": "2017 – 2021"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Fodor Tech Zrt.",
+    "pozicio": "irodavezető",
+    "idoszak": "2029 – jelenleg"
+   },
+   {
+    "ceg": "Bognár Tech Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2025 – jelenleg"
+   }
+  ],
+  "nyelvek": [
+   "olasz (A2)",
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "Excel",
+   "projektmenedzsment",
+   "Python",
+   "C#",
+   "ügyfélkezelés",
+   "SAP"
+  ]
+ },
+ "lines": [
+  {
+   "text": "ELÉRHETŐSÉG",
+   "bbox": [
+    40,
+    84,
+    188,
+    105
+   ]
+  },
+  {
+   "text": "E-mail",
+   "bbox": [
+    40,
+    129,
+    93,
+    143
+   ]
+  },
+  {
+   "text": "szabo.maria@gmail.com",
+   "bbox": [
+    40,
+    151,
+    235,
+    169
+   ]
+  },
+  {
+   "text": "Telefon",
+   "bbox": [
+    40,
+    183,
+    105,
+    197
+   ]
+  },
+  {
+   "text": "+36 20 101 2164",
+   "bbox": [
+    40,
+    206,
+    177,
+    219
+   ]
+  },
+  {
+   "text": "Lakcím",
+   "bbox": [
+    40,
+    237,
+    99,
+    251
+   ]
+  },
+  {
+   "text": "H-2832 Háthida, Tatabányai utca 238.",
+   "bbox": [
+    40,
+    259,
+    338,
+    277
+   ]
+  },
+  {
+   "text": "Születési dátum",
+   "bbox": [
+    40,
+    291,
+    175,
+    305
+   ]
+  },
+  {
+   "text": "2002. 05. 02.",
+   "bbox": [
+    40,
+    314,
+    142,
+    327
+   ]
+  },
+  {
+   "text": "NYELVTUDÁS",
+   "bbox": [
+    40,
+    372,
+    180,
+    393
+   ]
+  },
+  {
+   "text": "olasz (A2)",
+   "bbox": [
+    40,
+    414,
+    122,
+    431
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    40,
+    440,
+    131,
+    457
+   ]
+  },
+  {
+   "text": "KÉSZSÉGEK",
+   "bbox": [
+    40,
+    492,
+    158,
+    513
+   ]
+  },
+  {
+   "text": "Excel",
+   "bbox": [
+    40,
+    534,
+    83,
+    548
+   ]
+  },
+  {
+   "text": "projektmenedzsment",
+   "bbox": [
+    40,
+    560,
+    217,
+    578
+   ]
+  },
+  {
+   "text": "Python",
+   "bbox": [
+    40,
+    586,
+    99,
+    604
+   ]
+  },
+  {
+   "text": "C#",
+   "bbox": [
+    40,
+    613,
+    63,
+    626
+   ]
+  },
+  {
+   "text": "ügyfélkezelés",
+   "bbox": [
+    40,
+    638,
+    153,
+    656
+   ]
+  },
+  {
+   "text": "SAP",
+   "bbox": [
+    40,
+    665,
+    73,
+    678
+   ]
+  },
+  {
+   "text": "Szabó Mária",
+   "bbox": [
+    450,
+    96,
+    707,
+    129
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    450,
+    161,
+    649,
+    185
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    450,
+    223,
+    674,
+    247
+   ]
+  },
+  {
+   "text": "2029 – jelenleg",
+   "bbox": [
+    450,
+    272,
+    582,
+    292
+   ]
+  },
+  {
+   "text": "irodavezető – Fodor Tech Zrt.",
+   "bbox": [
+    450,
+    296,
+    739,
+    312
+   ]
+  },
+  {
+   "text": "2025 – jelenleg",
+   "bbox": [
+    450,
+    336,
+    582,
+    356
+   ]
+  },
+  {
+   "text": "értékesítő – Bognár Tech Kft.",
+   "bbox": [
+    450,
+    360,
+    735,
+    381
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    450,
+    411,
+    606,
+    435
+   ]
+  },
+  {
+   "text": "2021 – 2025",
+   "bbox": [
+    450,
+    461,
+    558,
+    475
+   ]
+  },
+  {
+   "text": "Pécsi Tudományegyetem",
+   "bbox": [
+    450,
+    484,
+    694,
+    505
+   ]
+  },
+  {
+   "text": "jogász",
+   "bbox": [
+    448,
+    508,
+    506,
+    528
+   ]
+  },
+  {
+   "text": "2017 – 2021",
+   "bbox": [
+    450,
+    549,
+    558,
+    563
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    450,
+    572,
+    727,
+    593
+   ]
+  },
+  {
+   "text": "érettségi",
+   "bbox": [
+    450,
+    596,
+    526,
+    616
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

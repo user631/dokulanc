@@ -1,0 +1,267 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "IGÉNYLŐLAP",
+  "nev": "Lakatos Csaba",
+  "anyja_neve": "Szilágyi Edina",
+  "szuletesi_hely": "Dunamindszentfalu",
+  "szuletesi_datum": "1979. 08. 14.",
+  "lakcim": "H-7117 Győr, Kossuth utca 158.",
+  "telefon": "+36 20 357 2683",
+  "email": "lakatos.csaba@freemail.hu",
+  "adoazonosito_jel": "8411328236",
+  "taj_szam": "577 016 086",
+  "kelt": "Dunaújváros, 2025. 12. 13."
+ },
+ "lines": [
+  {
+   "text": "IGÉNYLŐLAP",
+   "bbox": [
+    505,
+    92,
+    734,
+    128
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    87,
+    203,
+    318,
+    227
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    99,
+    258,
+    141,
+    273
+   ]
+  },
+  {
+   "text": "Lakatos Csaba",
+   "bbox": [
+    422,
+    253,
+    571,
+    271
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    99,
+    311,
+    206,
+    332
+   ]
+  },
+  {
+   "text": "Szilágyi Edina",
+   "bbox": [
+    422,
+    311,
+    567,
+    335
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    99,
+    365,
+    229,
+    386
+   ]
+  },
+  {
+   "text": "Dunamindszentfalu",
+   "bbox": [
+    422,
+    366,
+    630,
+    384
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    99,
+    419,
+    220,
+    435
+   ]
+  },
+  {
+   "text": "1979. 08. 14.",
+   "bbox": [
+    422,
+    420,
+    555,
+    437
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    99,
+    473,
+    168,
+    489
+   ]
+  },
+  {
+   "text": "H-7117 Győr, Kossuth utca 158.",
+   "bbox": [
+    422,
+    474,
+    757,
+    498
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    99,
+    527,
+    221,
+    543
+   ]
+  },
+  {
+   "text": "+36 20 357 2683",
+   "bbox": [
+    422,
+    527,
+    602,
+    544
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    99,
+    581,
+    201,
+    597
+   ]
+  },
+  {
+   "text": "lakatos.csaba@freemail.hu",
+   "bbox": [
+    422,
+    579,
+    703,
+    599
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    99,
+    635,
+    259,
+    656
+   ]
+  },
+  {
+   "text": "8411328236",
+   "bbox": [
+    422,
+    635,
+    552,
+    652
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    99,
+    690,
+    191,
+    705
+   ]
+  },
+  {
+   "text": "577 016 086",
+   "bbox": [
+    422,
+    691,
+    553,
+    708
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    87,
+    771,
+    274,
+    795
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    132,
+    814,
+    455,
+    835
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    132,
+    859,
+    279,
+    875
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    132,
+    904,
+    475,
+    925
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    87,
+    1009,
+    129,
+    1026
+   ]
+  },
+  {
+   "text": "Dunaújváros, 2025. 12. 13.",
+   "bbox": [
+    177,
+    1006,
+    455,
+    1030
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    938,
+    1058,
+    987,
+    1072
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

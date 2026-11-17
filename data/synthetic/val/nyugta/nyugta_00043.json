@@ -1,0 +1,255 @@
+{
+ "doc_type": "nyugta",
+ "variant": "scan",
+ "fields": {
+  "uzlet_nev": "HORVÁTH KISBOLT BT.",
+  "uzlet_cim": "H-2341 Mosonmagyaróvár, József attila utca 8.",
+  "adoszam": "37942799-3-13",
+  "datum": "2025.05.28.",
+  "ido": "10:13",
+  "nyugtaszam": "8084/55681",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "12 784 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "205"
+   },
+   {
+    "megnevezes": "SAJT TRAPPISTA 500G",
+    "osszeg": "6069"
+   },
+   {
+    "megnevezes": "PAPRIKA KG",
+    "osszeg": "1640"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4870"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "HORVÁTH KISBOLT BT.",
+   "bbox": [
+    135,
+    30,
+    439,
+    51
+   ]
+  },
+  {
+   "text": "H-2341 Mosonmagyaróvár, József attila",
+   "bbox": [
+    46,
+    67,
+    527,
+    88
+   ]
+  },
+  {
+   "text": "utca 8.",
+   "bbox": [
+    241,
+    96,
+    332,
+    112
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 37942799-3-13",
+   "bbox": [
+    144,
+    123,
+    430,
+    140
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    236,
+    169,
+    338,
+    187
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    212,
+    220,
+    233
+   ]
+  },
+  {
+   "text": "205 A00",
+   "bbox": [
+    452,
+    212,
+    550,
+    229
+   ]
+  },
+  {
+   "text": "3 DB x 2023",
+   "bbox": [
+    24,
+    244,
+    167,
+    259
+   ]
+  },
+  {
+   "text": "SAJT TRAPPISTA 500G",
+   "bbox": [
+    24,
+    270,
+    290,
+    287
+   ]
+  },
+  {
+   "text": "6069 C00",
+   "bbox": [
+    438,
+    270,
+    550,
+    287
+   ]
+  },
+  {
+   "text": "PAPRIKA KG",
+   "bbox": [
+    24,
+    304,
+    164,
+    319
+   ]
+  },
+  {
+   "text": "1640 C00",
+   "bbox": [
+    438,
+    302,
+    550,
+    319
+   ]
+  },
+  {
+   "text": "2 DB x 2435",
+   "bbox": [
+    24,
+    334,
+    167,
+    349
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    360,
+    150,
+    377
+   ]
+  },
+  {
+   "text": "4870 A00",
+   "bbox": [
+    438,
+    360,
+    550,
+    377
+   ]
+  },
+  {
+   "text": "FIZETENDŐ:",
+   "bbox": [
+    24,
+    403,
+    194,
+    425
+   ]
+  },
+  {
+   "text": "12 784 Ft",
+   "bbox": [
+    397,
+    405,
+    550,
+    425
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    444,
+    179,
+    463
+   ]
+  },
+  {
+   "text": "12 784 Ft",
+   "bbox": [
+    424,
+    446,
+    550,
+    463
+   ]
+  },
+  {
+   "text": "2025.05.28.",
+   "bbox": [
+    24,
+    492,
+    167,
+    508
+   ]
+  },
+  {
+   "text": "10:13",
+   "bbox": [
+    485,
+    492,
+    550,
+    508
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 8084/55681",
+   "bbox": [
+    24,
+    523,
+    310,
+    543
+   ]
+  },
+  {
+   "text": "AP A76131953",
+   "bbox": [
+    24,
+    556,
+    180,
+    572
+   ]
+  },
+  {
+   "text": "KÖSZÖNJÜK A VÁSÁRLÁST!",
+   "bbox": [
+    133,
+    599,
+    441,
+    617
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  574,
+  662
+ ]
+}

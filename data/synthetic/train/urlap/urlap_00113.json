@@ -1,0 +1,269 @@
+{
+ "doc_type": "urlap",
+ "variant": "scan",
+ "fields": {
+  "urlap_cime": "REGISZTRÁCIÓS ŰRLAP",
+  "nev": "Budai Mariann",
+  "anyja_neve": "Budai Zoltán",
+  "szuletesi_hely": "Tamásinádasd",
+  "szuletesi_datum": "1958. 04. 22.",
+  "lakcim": "H-2973 Budapest, Nyíregyházai utca 1.",
+  "telefon": "+36 70 696 2036",
+  "email": "budai.mariann@citromail.hu",
+  "adoazonosito_jel": "8333483722",
+  "taj_szam": "897 924 249",
+  "kelt": "Szigetszentmiklós, 2025. 11. 18."
+ },
+ "lines": [
+  {
+   "text": "REGISZTRÁCIÓS ŰRLAP",
+   "bbox": [
+    421,
+    113,
+    818,
+    147
+   ]
+  },
+  {
+   "text": "1. Személyes adatok",
+   "bbox": [
+    108,
+    219,
+    319,
+    241
+   ]
+  },
+  {
+   "text": "Név:",
+   "bbox": [
+    120,
+    272,
+    157,
+    286
+   ]
+  },
+  {
+   "text": "Budai Mariann",
+   "bbox": [
+    451,
+    272,
+    590,
+    289
+   ]
+  },
+  {
+   "text": "Anyja neve:",
+   "bbox": [
+    120,
+    324,
+    216,
+    342
+   ]
+  },
+  {
+   "text": "Budai Zoltán",
+   "bbox": [
+    451,
+    322,
+    572,
+    339
+   ]
+  },
+  {
+   "text": "Születési hely:",
+   "bbox": [
+    120,
+    376,
+    238,
+    394
+   ]
+  },
+  {
+   "text": "Tamásinádasd",
+   "bbox": [
+    451,
+    376,
+    587,
+    393
+   ]
+  },
+  {
+   "text": "Születési idő:",
+   "bbox": [
+    120,
+    428,
+    230,
+    442
+   ]
+  },
+  {
+   "text": "1958. 04. 22.",
+   "bbox": [
+    451,
+    424,
+    574,
+    440
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    120,
+    480,
+    182,
+    494
+   ]
+  },
+  {
+   "text": "H-2973 Budapest, Nyíregyházai utca 1.",
+   "bbox": [
+    451,
+    479,
+    825,
+    501
+   ]
+  },
+  {
+   "text": "Telefonszám:",
+   "bbox": [
+    120,
+    532,
+    230,
+    546
+   ]
+  },
+  {
+   "text": "+36 70 696 2036",
+   "bbox": [
+    451,
+    534,
+    616,
+    550
+   ]
+  },
+  {
+   "text": "E-mail cím:",
+   "bbox": [
+    120,
+    584,
+    213,
+    598
+   ]
+  },
+  {
+   "text": "budai.mariann@citromail.hu",
+   "bbox": [
+    451,
+    579,
+    721,
+    598
+   ]
+  },
+  {
+   "text": "Adóazonosító jel:",
+   "bbox": [
+    120,
+    636,
+    265,
+    654
+   ]
+  },
+  {
+   "text": "8333483722",
+   "bbox": [
+    451,
+    637,
+    571,
+    653
+   ]
+  },
+  {
+   "text": "TAJ szám:",
+   "bbox": [
+    120,
+    688,
+    201,
+    702
+   ]
+  },
+  {
+   "text": "897 924 249",
+   "bbox": [
+    451,
+    687,
+    571,
+    703
+   ]
+  },
+  {
+   "text": "2. Nyilatkozatok",
+   "bbox": [
+    108,
+    767,
+    278,
+    789
+   ]
+  },
+  {
+   "text": "Hozzájárulok adataim kezeléséhez.",
+   "bbox": [
+    153,
+    810,
+    446,
+    828
+   ]
+  },
+  {
+   "text": "Hírlevelet kérek.",
+   "bbox": [
+    153,
+    855,
+    287,
+    869
+   ]
+  },
+  {
+   "text": "Az adatok a valóságnak megfelelnek.",
+   "bbox": [
+    153,
+    900,
+    462,
+    918
+   ]
+  },
+  {
+   "text": "Kelt:",
+   "bbox": [
+    108,
+    1004,
+    146,
+    1019
+   ]
+  },
+  {
+   "text": "Szigetszentmiklós, 2025. 11. 18.",
+   "bbox": [
+    198,
+    1000,
+    503,
+    1022
+   ]
+  },
+  {
+   "text": "aláírás",
+   "bbox": [
+    919,
+    1053,
+    964,
+    1065
+   ]
+  }
+ ],
+ "errors": [
+  "adoazonosito_jel"
+ ],
+ "size": [
+  1240,
+  1754
+ ]
+}

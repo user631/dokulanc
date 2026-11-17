@@ -1,0 +1,308 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "clean",
+ "fields": {
+  "nev": "Antal Tibor",
+  "email": "antal.tibor@gmail.com",
+  "telefon": "+36 30 844 3084",
+  "lakcim": "H-5910 Újligetfalva, Mártonházai utca 53.",
+  "szuletesi_datum": "1995. 11. 09.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Óbudai Egyetem",
+    "szak": "gazdaságinformatikus BSc",
+    "idoszak": "2015 – 2020"
+   },
+   {
+    "intezmeny": "Petőfi Sándor Gimnázium",
+    "szak": "informatika tagozat",
+    "idoszak": "2011 – 2015"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Farkas Szolgáltató Zrt.",
+    "pozicio": "projektmenedzser",
+    "idoszak": "2023 – jelenleg"
+   },
+   {
+    "ceg": "Fülöp Trade Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2022 – 2023"
+   },
+   {
+    "ceg": "Juhász Consulting Kft.",
+    "pozicio": "tesztmérnök",
+    "idoszak": "2019 – 2022"
+   }
+  ],
+  "nyelvek": [
+   "német (B2)"
+  ],
+  "keszsegek": [
+   "B kategóriás jogosítvány",
+   "csapatmunka",
+   "Git",
+   "Linux"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Antal Tibor",
+   "bbox": [
+    492,
+    94,
+    749,
+    131
+   ]
+  },
+  {
+   "text": "Curriculum Vitae",
+   "bbox": [
+    517,
+    165,
+    723,
+    185
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    219,
+    165,
+    236
+   ]
+  },
+  {
+   "text": "antal.tibor@gmail.com",
+   "bbox": [
+    330,
+    219,
+    566,
+    241
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    252,
+    181,
+    269
+   ]
+  },
+  {
+   "text": "+36 30 844 3084",
+   "bbox": [
+    330,
+    253,
+    495,
+    269
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    285,
+    175,
+    302
+   ]
+  },
+  {
+   "text": "H-5910 Újligetfalva, Mártonházai utca 53.",
+   "bbox": [
+    330,
+    281,
+    762,
+    307
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    317,
+    270,
+    335
+   ]
+  },
+  {
+   "text": "1995. 11. 09.",
+   "bbox": [
+    330,
+    319,
+    464,
+    335
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    372,
+    339,
+    398
+   ]
+  },
+  {
+   "text": "2023 – jelenleg",
+   "bbox": [
+    90,
+    424,
+    246,
+    446
+   ]
+  },
+  {
+   "text": "projektmenedzser – Farkas Szolgáltató Zrt.",
+   "bbox": [
+    90,
+    451,
+    575,
+    474
+   ]
+  },
+  {
+   "text": "2022 – 2023",
+   "bbox": [
+    90,
+    495,
+    208,
+    511
+   ]
+  },
+  {
+   "text": "adatelemző – Fülöp Trade Zrt.",
+   "bbox": [
+    90,
+    521,
+    431,
+    544
+   ]
+  },
+  {
+   "text": "2019 – 2022",
+   "bbox": [
+    90,
+    565,
+    208,
+    581
+   ]
+  },
+  {
+   "text": "tesztmérnök – Juhász Consulting Kft.",
+   "bbox": [
+    90,
+    591,
+    507,
+    614
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    645,
+    258,
+    671
+   ]
+  },
+  {
+   "text": "2015 – 2020",
+   "bbox": [
+    90,
+    698,
+    208,
+    714
+   ]
+  },
+  {
+   "text": "Óbudai Egyetem",
+   "bbox": [
+    90,
+    721,
+    274,
+    747
+   ]
+  },
+  {
+   "text": "gazdaságinformatikus BSc",
+   "bbox": [
+    90,
+    750,
+    356,
+    773
+   ]
+  },
+  {
+   "text": "2011 – 2015",
+   "bbox": [
+    90,
+    795,
+    208,
+    811
+   ]
+  },
+  {
+   "text": "Petőfi Sándor Gimnázium",
+   "bbox": [
+    90,
+    821,
+    375,
+    839
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    848,
+    295,
+    870
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    902,
+    229,
+    928
+   ]
+  },
+  {
+   "text": "német (B2)",
+   "bbox": [
+    90,
+    953,
+    205,
+    976
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    1004,
+    222,
+    1030
+   ]
+  },
+  {
+   "text": "B kategóriás jogosítvány, csapatmunka, Git, Linux",
+   "bbox": [
+    90,
+    1055,
+    609,
+    1078
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

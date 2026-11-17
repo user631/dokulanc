@@ -1,0 +1,376 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "KOVÁCS MARKET KFT.",
+  "uzlet_cim": "H-7790 Budapest, Rácmelléki utca 169.",
+  "adoszam": "46034773-2-35",
+  "datum": "2024.07.01.",
+  "ido": "10:05",
+  "nyugtaszam": "3309/87275",
+  "fizetesi_mod": "SZÉP KÁRTYA",
+  "vegosszeg": "9 956 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "JOGHURT NATUR",
+    "osszeg": "307"
+   },
+   {
+    "megnevezes": "PAPIRZSEBKENDO",
+    "osszeg": "740"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "459"
+   },
+   {
+    "megnevezes": "TESZTA 500G",
+    "osszeg": "1280"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "476"
+   },
+   {
+    "megnevezes": "KAVE 250G",
+    "osszeg": "4740"
+   },
+   {
+    "megnevezes": "PARADICSOM KG",
+    "osszeg": "1234"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "376"
+   },
+   {
+    "megnevezes": "LISZT BL55 1KG",
+    "osszeg": "334"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "KOVÁCS MARKET KFT.",
+   "bbox": [
+    175,
+    30,
+    463,
+    51
+   ]
+  },
+  {
+   "text": "H-7790 Budapest, Rácmelléki utca 169.",
+   "bbox": [
+    78,
+    67,
+    559,
+    88
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 46034773-2-35",
+   "bbox": [
+    176,
+    95,
+    462,
+    112
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    268,
+    141,
+    370,
+    159
+   ]
+  },
+  {
+   "text": "JOGHURT NATUR",
+   "bbox": [
+    24,
+    186,
+    207,
+    201
+   ]
+  },
+  {
+   "text": "307 C00",
+   "bbox": [
+    516,
+    184,
+    614,
+    201
+   ]
+  },
+  {
+   "text": "2 DB x 370",
+   "bbox": [
+    24,
+    216,
+    154,
+    231
+   ]
+  },
+  {
+   "text": "PAPIRZSEBKENDO",
+   "bbox": [
+    24,
+    244,
+    220,
+    259
+   ]
+  },
+  {
+   "text": "740 B00",
+   "bbox": [
+    516,
+    242,
+    614,
+    259
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    274,
+    150,
+    291
+   ]
+  },
+  {
+   "text": "459 B00",
+   "bbox": [
+    516,
+    274,
+    614,
+    291
+   ]
+  },
+  {
+   "text": "2 DB x 640",
+   "bbox": [
+    24,
+    306,
+    154,
+    321
+   ]
+  },
+  {
+   "text": "TESZTA 500G",
+   "bbox": [
+    24,
+    332,
+    178,
+    349
+   ]
+  },
+  {
+   "text": "1280 A00",
+   "bbox": [
+    502,
+    332,
+    614,
+    349
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    364,
+    220,
+    381
+   ]
+  },
+  {
+   "text": "476 B00",
+   "bbox": [
+    516,
+    364,
+    614,
+    381
+   ]
+  },
+  {
+   "text": "2 DB x 2370",
+   "bbox": [
+    24,
+    396,
+    167,
+    411
+   ]
+  },
+  {
+   "text": "KAVE 250G",
+   "bbox": [
+    24,
+    422,
+    150,
+    439
+   ]
+  },
+  {
+   "text": "4740 B00",
+   "bbox": [
+    502,
+    422,
+    614,
+    439
+   ]
+  },
+  {
+   "text": "PARADICSOM KG",
+   "bbox": [
+    24,
+    456,
+    206,
+    471
+   ]
+  },
+  {
+   "text": "1234 B00",
+   "bbox": [
+    502,
+    454,
+    614,
+    471
+   ]
+  },
+  {
+   "text": "2 DB x 188",
+   "bbox": [
+    24,
+    486,
+    154,
+    501
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    512,
+    220,
+    533
+   ]
+  },
+  {
+   "text": "376 C00",
+   "bbox": [
+    516,
+    512,
+    614,
+    529
+   ]
+  },
+  {
+   "text": "LISZT BL55 1KG",
+   "bbox": [
+    24,
+    544,
+    220,
+    561
+   ]
+  },
+  {
+   "text": "334 A00",
+   "bbox": [
+    516,
+    544,
+    614,
+    561
+   ]
+  },
+  {
+   "text": "ÖSSZESEN:",
+   "bbox": [
+    24,
+    587,
+    177,
+    609
+   ]
+  },
+  {
+   "text": "9 956 Ft",
+   "bbox": [
+    478,
+    589,
+    614,
+    609
+   ]
+  },
+  {
+   "text": "SZÉP KÁRTYA",
+   "bbox": [
+    24,
+    628,
+    179,
+    647
+   ]
+  },
+  {
+   "text": "9 956 Ft",
+   "bbox": [
+    502,
+    630,
+    614,
+    647
+   ]
+  },
+  {
+   "text": "2024.07.01.",
+   "bbox": [
+    24,
+    676,
+    167,
+    692
+   ]
+  },
+  {
+   "text": "10:05",
+   "bbox": [
+    549,
+    676,
+    614,
+    692
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 3309/87275",
+   "bbox": [
+    24,
+    707,
+    310,
+    727
+   ]
+  },
+  {
+   "text": "AP A39363026",
+   "bbox": [
+    24,
+    740,
+    180,
+    756
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    214,
+    783,
+    424,
+    801
+   ]
+  }
+ ],
+ "errors": [
+  "vegosszeg"
+ ],
+ "size": [
+  638,
+  846
+ ]
+}

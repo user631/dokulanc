@@ -1,0 +1,307 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Hegedűs Rózsa",
+  "email": "hegedus.rozsa@example.hu",
+  "telefon": "+36 70 852 7365",
+  "lakcim": "H-7498 Újtamásiapáti, Dózsa györgy utca 100.",
+  "szuletesi_datum": "1982.06.10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Corvinus Egyetem",
+    "szak": "pénzügy MSc",
+    "idoszak": "2001 – 2004"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "1997 – 2001"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Mészáros Logisztika Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2009 – 2011"
+   },
+   {
+    "ceg": "Szőke Kft.",
+    "pozicio": "pénzügyi asszisztens",
+    "idoszak": "2007 – 2009"
+   },
+   {
+    "ceg": "Takács Trade Zrt.",
+    "pozicio": "adatelemző",
+    "idoszak": "2005 – 2007"
+   }
+  ],
+  "nyelvek": [
+   "angol (C1)"
+  ],
+  "keszsegek": [
+   "Python",
+   "ügyfélkezelés",
+   "projektmenedzsment"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Hegedűs Rózsa",
+   "bbox": [
+    420,
+    112,
+    820,
+    159
+   ]
+  },
+  {
+   "text": "Szakmai önéletrajz",
+   "bbox": [
+    499,
+    180,
+    740,
+    206
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    233,
+    172,
+    250
+   ]
+  },
+  {
+   "text": "hegedus.rozsa@example.hu",
+   "bbox": [
+    330,
+    233,
+    629,
+    254
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    264,
+    185,
+    281
+   ]
+  },
+  {
+   "text": "+36 70 852 7365",
+   "bbox": [
+    330,
+    265,
+    511,
+    281
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    295,
+    180,
+    312
+   ]
+  },
+  {
+   "text": "H-7498 Újtamásiapáti, Dózsa györgy utca 100.",
+   "bbox": [
+    330,
+    291,
+    825,
+    316
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    288,
+    343
+   ]
+  },
+  {
+   "text": "1982.06.10.",
+   "bbox": [
+    330,
+    327,
+    458,
+    343
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    378,
+    375,
+    403
+   ]
+  },
+  {
+   "text": "2009 – 2011",
+   "bbox": [
+    90,
+    429,
+    221,
+    445
+   ]
+  },
+  {
+   "text": "adatelemző – Mészáros Logisztika Zrt.",
+   "bbox": [
+    90,
+    453,
+    568,
+    475
+   ]
+  },
+  {
+   "text": "2007 – 2009",
+   "bbox": [
+    90,
+    495,
+    221,
+    511
+   ]
+  },
+  {
+   "text": "pénzügyi asszisztens – Szőke Kft.",
+   "bbox": [
+    90,
+    519,
+    510,
+    541
+   ]
+  },
+  {
+   "text": "2005 – 2007",
+   "bbox": [
+    90,
+    561,
+    221,
+    577
+   ]
+  },
+  {
+   "text": "adatelemző – Takács Trade Zrt.",
+   "bbox": [
+    90,
+    585,
+    483,
+    603
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    636,
+    280,
+    662
+   ]
+  },
+  {
+   "text": "2001 – 2004",
+   "bbox": [
+    90,
+    688,
+    221,
+    704
+   ]
+  },
+  {
+   "text": "Corvinus Egyetem",
+   "bbox": [
+    90,
+    713,
+    314,
+    734
+   ]
+  },
+  {
+   "text": "pénzügy MSc",
+   "bbox": [
+    90,
+    737,
+    228,
+    758
+   ]
+  },
+  {
+   "text": "1997 – 2001",
+   "bbox": [
+    90,
+    779,
+    221,
+    795
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    803,
+    449,
+    825
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    828,
+    296,
+    849
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    879,
+    247,
+    905
+   ]
+  },
+  {
+   "text": "angol (C1)",
+   "bbox": [
+    90,
+    930,
+    203,
+    951
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    977,
+    239,
+    1003
+   ]
+  },
+  {
+   "text": "Python, ügyfélkezelés, projektmenedzsment",
+   "bbox": [
+    90,
+    1028,
+    558,
+    1049
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "doc_type": "szamla",
+ "variant": "photo",
+ "fields": {
+  "szamlaszam": "SZ-2025/02423",
+  "kiallitas_datuma": "2025. január 16.",
+  "teljesites_datuma": "2025. január 16.",
+  "fizetesi_hatarido": "2025. január 24.",
+  "elado_nev": "Lukács Bt.",
+  "elado_cim": "H-5368 Győr, József attila utca 170.",
+  "elado_adoszam": "34077809-2-23",
+  "vevo_nev": "Kovács Logisztika Kft.",
+  "vevo_cim": "H-3980 Egyházastapolcavár, Béke utca 80.",
+  "vevo_adoszam": "82699927-2-03",
+  "bankszamla": "96911055-49096516-04770046",
+  "fizetesi_mod": "készpénz",
+  "netto_osszesen": "464 370 Ft",
+  "afa_osszesen": "125 380 Ft",
+  "brutto_osszesen": "589 750 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "Rendszerüzemeltetés havidíj",
+    "mennyiseg": "2 hó",
+    "egysegar": "157 360",
+    "netto": "314 720",
+    "afa_kulcs": "27%",
+    "afa": "84 974",
+    "brutto": "399 694"
+   },
+   {
+    "megnevezes": "Takarítási szolgáltatás",
+    "mennyiseg": "5 alkalom",
+    "egysegar": "29 930",
+    "netto": "149 650",
+    "afa_kulcs": "27%",
+    "afa": "40 406",
+    "brutto": "190 056"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "LUKÁCS",
+   "bbox": [
+    104,
+    103,
+    200,
+    127
+   ]
+  },
+  {
+   "text": "Számla",
+   "bbox": [
+    1016,
+    91,
+    1168,
+    126
+   ]
+  },
+  {
+   "text": "Sorszám: SZ-2025/02423",
+   "bbox": [
+    901,
+    148,
+    1168,
+    171
+   ]
+  },
+  {
+   "text": "Vevő:",
+   "bbox": [
+    71,
+    227,
+    140,
+    247
+   ]
+  },
+  {
+   "text": "Kovács Logisztika Kft.",
+   "bbox": [
+    72,
+    263,
+    336,
+    288
+   ]
+  },
+  {
+   "text": "H-3980 Egyházastapolcavár, Béke utca 80.",
+   "bbox": [
+    72,
+    297,
+    490,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 82699927-2-03",
+   "bbox": [
+    71,
+    327,
+    322,
+    345
+   ]
+  },
+  {
+   "text": "Eladó:",
+   "bbox": [
+    630,
+    227,
+    705,
+    247
+   ]
+  },
+  {
+   "text": "Lukács Bt.",
+   "bbox": [
+    630,
+    263,
+    753,
+    283
+   ]
+  },
+  {
+   "text": "H-5368 Győr, József attila utca 170.",
+   "bbox": [
+    630,
+    297,
+    981,
+    319
+   ]
+  },
+  {
+   "text": "Adószám: 34077809-2-23",
+   "bbox": [
+    629,
+    327,
+    880,
+    345
+   ]
+  },
+  {
+   "text": "Kiállítás dátuma",
+   "bbox": [
+    72,
+    394,
+    227,
+    410
+   ]
+  },
+  {
+   "text": "2025. január 16.",
+   "bbox": [
+    72,
+    423,
+    224,
+    444
+   ]
+  },
+  {
+   "text": "Teljesítés dátuma",
+   "bbox": [
+    346,
+    394,
+    516,
+    414
+   ]
+  },
+  {
+   "text": "2025. január 16.",
+   "bbox": [
+    346,
+    423,
+    498,
+    444
+   ]
+  },
+  {
+   "text": "Fizetési határidő",
+   "bbox": [
+    620,
+    394,
+    779,
+    410
+   ]
+  },
+  {
+   "text": "2025. január 24.",
+   "bbox": [
+    620,
+    423,
+    772,
+    444
+   ]
+  },
+  {
+   "text": "Fizetési mód",
+   "bbox": [
+    894,
+    394,
+    1015,
+    410
+   ]
+  },
+  {
+   "text": "készpénz",
+   "bbox": [
+    894,
+    423,
+    977,
+    444
+   ]
+  },
+  {
+   "text": "Megnevezés",
+   "bbox": [
+    72,
+    472,
+    188,
+    492
+   ]
+  },
+  {
+   "text": "Menny.",
+   "bbox": [
+    510,
+    474,
+    579,
+    492
+   ]
+  },
+  {
+   "text": "Egységár",
+   "bbox": [
+    664,
+    472,
+    752,
+    492
+   ]
+  },
+  {
+   "text": "Nettó",
+   "bbox": [
+    829,
+    472,
+    883,
+    488
+   ]
+  },
+  {
+   "text": "ÁFA%",
+   "bbox": [
+    887,
+    469,
+    948,
+    488
+   ]
+  },
+  {
+   "text": "ÁFA",
+   "bbox": [
+    1014,
+    469,
+    1053,
+    488
+   ]
+  },
+  {
+   "text": "Bruttó",
+   "bbox": [
+    1107,
+    472,
+    1168,
+    488
+   ]
+  },
+  {
+   "text": "2 hó",
+   "bbox": [
+    510,
+    514,
+    547,
+    529
+   ]
+  },
+  {
+   "text": "157 360",
+   "bbox": [
+    685,
+    515,
+    751,
+    529
+   ]
+  },
+  {
+   "text": "314 720",
+   "bbox": [
+    817,
+    515,
+    883,
+    529
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    515,
+    948,
+    529
+   ]
+  },
+  {
+   "text": "84 974",
+   "bbox": [
+    996,
+    515,
+    1052,
+    529
+   ]
+  },
+  {
+   "text": "399 694",
+   "bbox": [
+    1102,
+    515,
+    1168,
+    529
+   ]
+  },
+  {
+   "text": "Rendszerüzemeltetés havidíj",
+   "bbox": [
+    72,
+    514,
+    308,
+    533
+   ]
+  },
+  {
+   "text": "5 alkalom",
+   "bbox": [
+    510,
+    549,
+    589,
+    564
+   ]
+  },
+  {
+   "text": "29 930",
+   "bbox": [
+    695,
+    550,
+    751,
+    564
+   ]
+  },
+  {
+   "text": "149 650",
+   "bbox": [
+    817,
+    550,
+    883,
+    564
+   ]
+  },
+  {
+   "text": "27%",
+   "bbox": [
+    909,
+    550,
+    948,
+    564
+   ]
+  },
+  {
+   "text": "40 406",
+   "bbox": [
+    996,
+    550,
+    1052,
+    564
+   ]
+  },
+  {
+   "text": "190 056",
+   "bbox": [
+    1102,
+    550,
+    1168,
+    564
+   ]
+  },
+  {
+   "text": "Takarítási szolgáltatás",
+   "bbox": [
+    71,
+    549,
+    253,
+    568
+   ]
+  },
+  {
+   "text": "Nettó összesen:",
+   "bbox": [
+    679,
+    604,
+    838,
+    623
+   ]
+  },
+  {
+   "text": "464 370 Ft",
+   "bbox": [
+    1056,
+    606,
+    1168,
+    623
+   ]
+  },
+  {
+   "text": "ÁFA összesen:",
+   "bbox": [
+    693,
+    636,
+    838,
+    659
+   ]
+  },
+  {
+   "text": "125 380 Ft",
+   "bbox": [
+    1056,
+    642,
+    1168,
+    659
+   ]
+  },
+  {
+   "text": "Bruttó végösszeg:",
+   "bbox": [
+    629,
+    677,
+    838,
+    700
+   ]
+  },
+  {
+   "text": "589 750 Ft",
+   "bbox": [
+    1041,
+    678,
+    1168,
+    695
+   ]
+  },
+  {
+   "text": "Bankszámlaszám: 96911055-49096516-04770046",
+   "bbox": [
+    72,
+    742,
+    521,
+    759
+   ]
+  },
+  {
+   "text": "Kérjük, átutaláskor a közleményben tüntesse fel a számla sorszámát.",
+   "bbox": [
+    72,
+    772,
+    613,
+    790
+   ]
+  },
+  {
+   "text": "A számla a 23/2014. NGM rendelet alapján készült.",
+   "bbox": [
+    429,
+    1664,
+    809,
+    1681
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}

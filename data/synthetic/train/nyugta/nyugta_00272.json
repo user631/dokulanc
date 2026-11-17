@@ -1,0 +1,268 @@
+{
+ "doc_type": "nyugta",
+ "variant": "clean",
+ "fields": {
+  "uzlet_nev": "TÓTH KISBOLT KFT.",
+  "uzlet_cim": "H-7467 Tatabánya, Dózsa györgy utca 28.",
+  "adoszam": "26285142-2-40",
+  "datum": "2026.06.26.",
+  "ido": "11:57",
+  "nyugtaszam": "5390/92946",
+  "fizetesi_mod": "BANKKÁRTYA",
+  "vegosszeg": "3 394 Ft",
+  "tetelek": [
+   {
+    "megnevezes": "UDITO 2L",
+    "osszeg": "727"
+   },
+   {
+    "megnevezes": "CSOKOLADE 100G",
+    "osszeg": "1209"
+   },
+   {
+    "megnevezes": "CUKOR 1KG",
+    "osszeg": "461"
+   },
+   {
+    "megnevezes": "ASVANYVIZ 1,5L",
+    "osszeg": "420"
+   },
+   {
+    "megnevezes": "KENYER FEHER 1KG",
+    "osszeg": "577"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "text": "TÓTH KISBOLT KFT.",
+   "bbox": [
+    148,
+    28,
+    386,
+    49
+   ]
+  },
+  {
+   "text": "H-7467 Tatabánya, Dózsa györgy utca 28.",
+   "bbox": [
+    33,
+    66,
+    501,
+    85
+   ]
+  },
+  {
+   "text": "ADÓSZÁM: 26285142-2-40",
+   "bbox": [
+    135,
+    91,
+    399,
+    108
+   ]
+  },
+  {
+   "text": "NYUGTA",
+   "bbox": [
+    222,
+    137,
+    312,
+    154
+   ]
+  },
+  {
+   "text": "UDITO 2L",
+   "bbox": [
+    24,
+    181,
+    128,
+    196
+   ]
+  },
+  {
+   "text": "727 A00",
+   "bbox": [
+    419,
+    181,
+    510,
+    196
+   ]
+  },
+  {
+   "text": "3 DB x 403",
+   "bbox": [
+    24,
+    211,
+    134,
+    224
+   ]
+  },
+  {
+   "text": "CSOKOLADE 100G",
+   "bbox": [
+    24,
+    237,
+    206,
+    252
+   ]
+  },
+  {
+   "text": "1209 B00",
+   "bbox": [
+    406,
+    237,
+    510,
+    252
+   ]
+  },
+  {
+   "text": "CUKOR 1KG",
+   "bbox": [
+    24,
+    268,
+    141,
+    283
+   ]
+  },
+  {
+   "text": "461 C00",
+   "bbox": [
+    419,
+    268,
+    510,
+    283
+   ]
+  },
+  {
+   "text": "2 DB x 210",
+   "bbox": [
+    24,
+    298,
+    134,
+    311
+   ]
+  },
+  {
+   "text": "ASVANYVIZ 1,5L",
+   "bbox": [
+    24,
+    324,
+    206,
+    343
+   ]
+  },
+  {
+   "text": "420 C00",
+   "bbox": [
+    419,
+    324,
+    510,
+    339
+   ]
+  },
+  {
+   "text": "KENYER FEHER 1KG",
+   "bbox": [
+    24,
+    355,
+    232,
+    370
+   ]
+  },
+  {
+   "text": "577 B00",
+   "bbox": [
+    419,
+    355,
+    510,
+    370
+   ]
+  },
+  {
+   "text": "VÉGÖSSZEG:",
+   "bbox": [
+    24,
+    394,
+    174,
+    416
+   ]
+  },
+  {
+   "text": "3 394 Ft",
+   "bbox": [
+    390,
+    399,
+    510,
+    416
+   ]
+  },
+  {
+   "text": "BANKKÁRTYA",
+   "bbox": [
+    24,
+    434,
+    154,
+    454
+   ]
+  },
+  {
+   "text": "3 394 Ft",
+   "bbox": [
+    406,
+    439,
+    510,
+    454
+   ]
+  },
+  {
+   "text": "2026.06.26.",
+   "bbox": [
+    24,
+    484,
+    156,
+    497
+   ]
+  },
+  {
+   "text": "11:57",
+   "bbox": [
+    450,
+    484,
+    510,
+    497
+   ]
+  },
+  {
+   "text": "NYUGTASZÁM: 5390/92946",
+   "bbox": [
+    24,
+    511,
+    288,
+    530
+   ]
+  },
+  {
+   "text": "AP A81404378",
+   "bbox": [
+    24,
+    546,
+    168,
+    559
+   ]
+  },
+  {
+   "text": "VISZONTLÁTÁSRA!",
+   "bbox": [
+    177,
+    584,
+    357,
+    603
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  534,
+  649
+ ]
+}

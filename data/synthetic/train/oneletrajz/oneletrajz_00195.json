@@ -1,0 +1,285 @@
+{
+ "doc_type": "oneletrajz",
+ "variant": "photo",
+ "fields": {
+  "nev": "Hajdu Róbert",
+  "email": "hajdu.robert@example.hu",
+  "telefon": "+36 30 533 1326",
+  "lakcim": "H-3525 Sopron, Dunagyörgyi utca 85.",
+  "szuletesi_datum": "1997. május 10.",
+  "tanulmanyok": [
+   {
+    "intezmeny": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+    "szak": "gépészmérnök MSc",
+    "idoszak": "2017 – 2022"
+   },
+   {
+    "intezmeny": "Széchenyi István Technikum",
+    "szak": "informatika tagozat",
+    "idoszak": "2013 – 2017"
+   }
+  ],
+  "munkahelyek": [
+   {
+    "ceg": "Nagy és Társa Kft.",
+    "pozicio": "szoftverfejlesztő",
+    "idoszak": "2024 – jelenleg"
+   },
+   {
+    "ceg": "Gál Logisztika Kft.",
+    "pozicio": "értékesítő",
+    "idoszak": "2021 – 2024"
+   }
+  ],
+  "nyelvek": [
+   "francia (A2)",
+   "angol (B2)"
+  ],
+  "keszsegek": [
+   "Docker",
+   "projektmenedzsment",
+   "csapatmunka"
+  ]
+ },
+ "lines": [
+  {
+   "text": "Hajdu Róbert",
+   "bbox": [
+    466,
+    102,
+    773,
+    148
+   ]
+  },
+  {
+   "text": "Önéletrajz",
+   "bbox": [
+    558,
+    168,
+    682,
+    198
+   ]
+  },
+  {
+   "text": "E-mail:",
+   "bbox": [
+    90,
+    227,
+    166,
+    244
+   ]
+  },
+  {
+   "text": "hajdu.robert@example.hu",
+   "bbox": [
+    330,
+    227,
+    597,
+    249
+   ]
+  },
+  {
+   "text": "Telefon:",
+   "bbox": [
+    90,
+    260,
+    180,
+    277
+   ]
+  },
+  {
+   "text": "+36 30 533 1326",
+   "bbox": [
+    330,
+    260,
+    504,
+    277
+   ]
+  },
+  {
+   "text": "Lakcím:",
+   "bbox": [
+    90,
+    293,
+    177,
+    310
+   ]
+  },
+  {
+   "text": "H-3525 Sopron, Dunagyörgyi utca 85.",
+   "bbox": [
+    330,
+    293,
+    720,
+    315
+   ]
+  },
+  {
+   "text": "Születési dátum:",
+   "bbox": [
+    90,
+    326,
+    273,
+    343
+   ]
+  },
+  {
+   "text": "1997. május 10.",
+   "bbox": [
+    330,
+    326,
+    494,
+    348
+   ]
+  },
+  {
+   "text": "Szakmai tapasztalat",
+   "bbox": [
+    90,
+    380,
+    348,
+    405
+   ]
+  },
+  {
+   "text": "2024 – jelenleg",
+   "bbox": [
+    90,
+    432,
+    247,
+    454
+   ]
+  },
+  {
+   "text": "szoftverfejlesztő – Nagy és Társa Kft.",
+   "bbox": [
+    90,
+    458,
+    512,
+    482
+   ]
+  },
+  {
+   "text": "2021 – 2024",
+   "bbox": [
+    90,
+    502,
+    219,
+    519
+   ]
+  },
+  {
+   "text": "értékesítő – Gál Logisztika Kft.",
+   "bbox": [
+    90,
+    528,
+    440,
+    552
+   ]
+  },
+  {
+   "text": "Tanulmányok",
+   "bbox": [
+    90,
+    583,
+    267,
+    608
+   ]
+  },
+  {
+   "text": "2017 – 2022",
+   "bbox": [
+    90,
+    635,
+    219,
+    652
+   ]
+  },
+  {
+   "text": "Budapesti Műszaki és Gazdaságtudományi Egyetem",
+   "bbox": [
+    90,
+    661,
+    687,
+    685
+   ]
+  },
+  {
+   "text": "gépészmérnök MSc",
+   "bbox": [
+    90,
+    689,
+    296,
+    711
+   ]
+  },
+  {
+   "text": "2013 – 2017",
+   "bbox": [
+    90,
+    732,
+    219,
+    749
+   ]
+  },
+  {
+   "text": "Széchenyi István Technikum",
+   "bbox": [
+    90,
+    758,
+    417,
+    782
+   ]
+  },
+  {
+   "text": "informatika tagozat",
+   "bbox": [
+    90,
+    786,
+    286,
+    808
+   ]
+  },
+  {
+   "text": "Nyelvtudás",
+   "bbox": [
+    90,
+    840,
+    236,
+    865
+   ]
+  },
+  {
+   "text": "francia (A2), angol (B2)",
+   "bbox": [
+    90,
+    892,
+    329,
+    914
+   ]
+  },
+  {
+   "text": "Készségek",
+   "bbox": [
+    90,
+    942,
+    231,
+    967
+   ]
+  },
+  {
+   "text": "Docker, projektmenedzsment, csapatmunka",
+   "bbox": [
+    90,
+    994,
+    544,
+    1016
+   ]
+  }
+ ],
+ "errors": [],
+ "size": [
+  1240,
+  1754
+ ]
+}
